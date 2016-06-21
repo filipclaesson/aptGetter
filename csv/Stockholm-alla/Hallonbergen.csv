@@ -1,0 +1,51 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-04-29,Lötsjövägen 1A,Hallonbergen,Blå Solna,2,62,null,Lägenhet,1972,[Hallonbergen],1995000,520000,2515000,2512,Svensk Fastighetsförmedling,150.8106036884536,Hallonbergen
+2016-04-07,Lötsjövägen 1A,Hallonbergen,Blå Solna,2,62.5,2,Lägenhet,null,[Rissne/Ursvik],2195000,205000,2400000,2512,Svenska Mäklarhuset,150.8106036884536,Hallonbergen
+2016-03-24,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,62.5,2,Lägenhet,null,[Rissne/Ursvik],2095000,335000,2430000,2512,Svenska Mäklarhuset,173.44503261633184,Hallonbergen
+2016-03-02,Hallonbergsplan 12,Hallonbergen,Blå Solna,1.5,40.5,4,Lägenhet,1972,[Hallonbergen],1695000,455000,2150000,1620,Fastighetsbyrån,173.44503261633184,Hallonbergen
+2016-02-29,Hallonbergsplan 6,Hallonbergen,Blå Solna,2.5,59.5,2,Lägenhet,1972,[Hallonbergen],2195000,105000,2300000,2392,Fastighetsbyrån,234.9172231619505,Hallonbergen
+2016-02-16,Hallonbergsplan 14,Hallonbergen,Blå Solna,2,62.5,2,Lägenhet,1972,[Hallonbergen],2195000,255000,2450000,2512,Fastighetsbyrån,203.731308506659,Hallonbergen
+2016-02-15,Hallonbergsplan 2,Hallonbergen,Blå Solna,1,30,1,Lägenhet,1972,[Hallonbergen],1750000,230000,1980000,1206,Södermäklarna,221.40120464997082,Hallonbergen
+2016-02-06,Hallonbergsplan 6,Hallonbergen,Blå Solna,2,58,3,Lägenhet,1972,[Hallonbergen],2195000,305000,2500000,2331,Fastighetsbyrån,234.9172231619505,Hallonbergen
+2015-12-12,Hallonbergsplan 18,Hallonbergen,Blå Solna,1.5,40.5,1,Lägenhet,1972,[Hallonbergen],1995000,305000,2300000,1628,HusmanHagberg,193.96927015611578,Hallonbergen
+2015-11-05,Hallonbergsplan 6,Hallonbergen,Blå Solna,2,55.5,5,Lägenhet,1972,[Hallonbergen],1995000,360000,2355000,2231,HusmanHagberg,234.9172231619505,Hallonbergen
+2015-09-12,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,62.5,2,Lägenhet,1972,[Hallonbergen],2150000,360000,2510000,2512,HusmanHagberg,173.44503261633184,Hallonbergen
+2015-07-28,Hallonbergsplan 2,Hallonbergen,Blå Solna,1,null,4,Lägenhet,1972,[Hallonbergen],1395000,680000,2075000,1176,Södermäklarna,221.40120464997082,Hallonbergen
+2015-07-02,Hallonbergsplan 14,Hallonbergen,Blå Solna,2,62.5,2,Lägenhet,null,[Hallonbergen],1895000,355000,2250000,2512,Fastighetsbyrån,203.731308506659,Hallonbergen
+2015-06-26,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,56,4,Lägenhet,1972,[Rissne/Ursvik],1950000,350000,2300000,2251,Notar,173.44503261633184,Hallonbergen
+2015-05-25,Hallonbergsplan 6,Hallonbergen,Blå Solna,3,75.5,2,Lägenhet,1972,[Hallonbergen],2295000,70000,2365000,3035,Fastighetsbyrån,234.9172231619505,Hallonbergen
+2015-05-20,Hallonbergsplan 2,Hallonbergen,Blå Solna,2.5,58,4,Lägenhet,1972,[Hallonbergen],1895000,405000,2300000,2331,Fastighetsbyrån,221.40120464997082,Hallonbergen
+2015-05-14,Hallonbergsplan 14,Hallonbergen,Blå Solna,1,41,4,Lägenhet,1972,[Hallonbergen],1695000,215000,1910000,1640,Fastighetsbyrån,203.731308506659,Hallonbergen
+2015-05-05,Hallonbergsplan 2,Hallonbergen,Blå Solna,2,67,null,Lägenhet,1972,[Rissne/Ursvik],2300000,165000,2465000,2693,Magnusson Mäkleri,221.40120464997082,Hallonbergen
+2015-04-10,Hallonbergsplan 2,Hallonbergen,Blå Solna,2.5,59.5,2,Lägenhet,1972,[Hallonbergen],1695000,610000,2305000,2380,Fastighetsbyrån,221.40120464997082,Hallonbergen
+2015-04-01,Hallonbergsplan 2,Hallonbergen,Blå Solna,2.5,59.5,2,Lägenhet,1972,[Hallonbergen],1695000,455000,2150000,2380,Fastighetsbyrån,221.40120464997082,Hallonbergen
+2015-03-12,Hallonbergsplan 2,Hallonbergen,Blå Solna,null,25.5,3,Lägenhet,null,[Hallonbergen],2150000,-250000,1900000,1170,Södermäklarna,221.40120464997082,Hallonbergen
+2015-02-05,Hallonbergsplan 2,Hallonbergen,Blå Solna,2,55.5,5,Lägenhet,1972,[Hallonbergen],1995000,205000,2200000,2231,Fastighetsbyrån,221.40120464997082,Hallonbergen
+2014-12-03,Hallonbergsplan 18,Hallonbergen,Blå Solna,1,40.5,null,Lägenhet,1972,[Hallonbergen],1495000,330000,1825000,1628,Fastighetsbyrån,193.96927015611578,Hallonbergen
+2014-08-29,Hallonbergsplan 14,Hallonbergen,Blå Solna,1,40.5,4,Lägenhet,null,[Rissne/Ursvik],1495000,225000,1720000,1628,Svensk Fastighetsförmedling,203.731308506659,Hallonbergen
+2014-08-25,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,62.5,null,Lägenhet,1972,[Hallonbergen],1590000,-40000,1550000,2512,Fastighetsbyrån,173.44503261633184,Hallonbergen
+2014-07-23,Hallonbergsplan 2,Hallonbergen,Blå Solna,2,67,5,Lägenhet,1972,[Hallonbergen],1850000,190000,2040000,2693,Fastighetsbyrån,221.40120464997082,Hallonbergen
+2014-04-28,Hallonbergsplan 2,Hallonbergen,Blå Solna,2,55.5,4,Lägenhet,null,[Rissne/Ursvik],1540000,80000,1620000,2231,Svensk Fastighetsförmedling,221.40120464997082,Hallonbergen
+2014-04-18,Hallonbergsplan 2,Hallonbergen,Blå Solna,2,37.5,null,Lägenhet,1972,[Hallonbergen],1395000,115000,1510000,1507,Fastighetsbyrån,221.40120464997082,Hallonbergen
+2014-04-17,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,62.5,null,Lägenhet,1972,[Hallonbergen],1645000,-20000,1625000,2512,Notar,173.44503261633184,Hallonbergen
+2014-03-20,Hallonbergsplan 6,Hallonbergen,Blå Solna,2,58,5,Lägenhet,null,[Hallonbergen],1595000,105000,1700000,2331,Svensk Fastighetsförmedling,234.9172231619505,Hallonbergen
+2014-03-13,Hallonbergsplan 2,Hallonbergen,Blå Solna,2,46,1,Lägenhet,1972,[Rissne/Ursvik],1495000,180000,1675000,1840,SkandiaMäklarna,221.40120464997082,Hallonbergen
+2014-01-17,Lötsjövägen 1A,Hallonbergen,Blå Solna,1,40.5,1,Lägenhet,1972,[Hallonbergen],1200000,130000,1330000,1628,Länsförsäkringar Fastighetsförmedling,150.8106036884536,Hallonbergen
+2014-01-16,Hallonbergsplan 14,Hallonbergen,Blå Solna,1,40.5,null,Lägenhet,1972,[Rissne/Ursvik],1295000,50000,1345000,1620,Fastighetsbyrån,203.731308506659,Hallonbergen
+2013-11-14,Hallonbergsplan 14,Hallonbergen,Blå Solna,1,40.5,4,Lägenhet,1972,[Hallonbergen],1195000,305000,1500000,1628,Svensk Fastighetsförmedling,203.731308506659,Hallonbergen
+2013-07-11,Hallonbergsplan 6,Hallonbergen,Blå Solna,2,56,null,Lägenhet,1972,[Hallonbergen],1495000,15000,1510000,2231,Bjurfors,234.9172231619505,Hallonbergen
+2013-06-27,Hallonbergsplan 14,Hallonbergen,Blå Solna,1,40.5,null,Lägenhet,null,[Rissne/Ursvik],1195000,-45000,1150000,1628,Fastighetsbyrån,203.731308506659,Hallonbergen
+2013-04-26,Hallonbergsplan 18,Hallonbergen,Blå Solna,2,62.5,null,Lägenhet,1972,[Hallonbergen],1695000,15000,1710000,2512,Svenska Mäklarhuset,193.96927015611578,Hallonbergen
+2013-04-13,Hallonbergsplan 6,Hallonbergen,Blå Solna,2,55.5,3,Lägenhet,1972,[Rissne/Ursvik],1385000,25000,1410000,2231,Restate,234.9172231619505,Hallonbergen
+2013-04-10,Hallonbergsplan 14,Hallonbergen,Blå Solna,2,56,4,Lägenhet,1972,[Hallonbergen],1495000,0,1495000,2251,Bjurfors,203.731308506659,Hallonbergen
+2013-03-25,Hallonbergsplan 6,Hallonbergen,Blå Solna,3,75.5,3,Lägenhet,1972,[Hallonbergen],1795000,-35000,1760000,3035,SkandiaMäklarna,234.9172231619505,Hallonbergen
+2013-03-24,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,62.5,3,Lägenhet,1972,[Hallonbergen],1395000,115000,1510000,2512,Svensk Fastighetsförmedling,173.44503261633184,Hallonbergen
+2013-03-13,Hallonbergsplan 2,Hallonbergen,Blå Solna,2,46,null,Lägenhet,1972,[Rissne/Ursvik],1195000,130000,1325000,1849,Fastighetsbyrån,221.40120464997082,Hallonbergen
+2013-03-09,Hallonbergsplan 6,Hallonbergen,Blå Solna,3,70.5,6,Lägenhet,1972,[Hallonbergen],1795000,-195000,1600000,2834,Svensk Fastighetsförmedling,234.9172231619505,Hallonbergen
+2013-03-02,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,62.5,1,Lägenhet,1972,[Rissne/Ursvik],1495000,0,1495000,2512,Restate,173.44503261633184,Hallonbergen
+2013-02-16,Hallonbergsplan 14,Hallonbergen,Blå Solna,3,70,null,Lägenhet,1972,[Hallonbergen],1695000,105000,1800000,2814,Svenska Mäklarhuset,203.731308506659,Hallonbergen
+2013-02-05,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,52,6,Lägenhet,1972,[Rissne/Ursvik],1560000,-60000,1500000,2091,Restate,173.44503261633184,Hallonbergen
+2013-01-14,Hallonbergsplan 12,Hallonbergen,Blå Solna,2,56,4,Lägenhet,1972,[Hallonbergen],1295000,115000,1410000,2251,Notar,173.44503261633184,Hallonbergen
+2012-11-24,Hallonbergsplan 14,Hallonbergen,Blå Solna,1,40.5,2,Lägenhet,1972,[Hallonbergen],995000,115000,1110000,1628,SkandiaMäklarna,203.731308506659,Hallonbergen
+2012-11-01,Hallonbergsplan 6,Hallonbergen,Blå Solna,2,49.5,null,Lägenhet,1972,[Hallonbergen],1195000,95000,1290000,1990,Bjurfors,234.9172231619505,Hallonbergen
+2012-10-10,Hallonbergsplan 2,Hallonbergen,Blå Solna,2,55.5,null,Lägenhet,1972,[Hallonbergen],1395000,0,1395000,2231,Bjurfors,221.40120464997082,Hallonbergen

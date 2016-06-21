@@ -1,0 +1,443 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-13,Fridensborgsvägen 149,Järvastaden,Blå Solna,3,80,2,Lägenhet,2015,[Järvastaden],3795000,0,3795000,4346,Notar,926.054416071792,Hallonbergen
+2016-05-12,Brotorps Allé 5,Järvastaden,Blå Solna,1,33.5,1,Lägenhet,2016,[Järvastaden],2100000,0,2100000,1973,Mäklarringen,833.6664344255788,Hallonbergen
+2016-05-12,Fridensborgsvägen 43,Järvastaden,Blå Solna,3,80,2,Lägenhet,null,[Järvastaden],3695000,355000,4050000,4139,Svenska Mäklarhuset,1369.9069242425219,Hallonbergen
+2016-05-12,Fridensborgsvägen 42,Järvastaden,Blå Solna,2,40,3,Lägenhet,null,[Järvastaden],2395000,205000,2600000,2193,Svenska Mäklarhuset,1474.3912494229849,Hallonbergen
+2016-05-11,Vinthundsgatan 113,Järvastaden,Blå Solna,3,80,4,Lägenhet,2012,[Brotorp],4295000,405000,4700000,3840,Fastighetsbyrån,781.9957788289726,Hallonbergen
+2016-05-11,Fridensborgsvägen 145,Järvastaden,Blå Solna,3,69,2,Lägenhet,2016,[Järvastaden],3750000,-100000,3650000,4163,Fastighetsmäklarna,926.054416071792,Hallonbergen
+2016-05-05,Honnörsgatan 26,Järvastaden,Blå Solna,3,75,2,Lägenhet,2008,[Järvastaden],3595000,355000,3950000,4821,Svensk Fastighetsförmedling,1367.5774782137796,Hallonbergen
+2016-05-05,Brukshundsvägen 28,Järvastaden,Blå Solna,2,64,3,Lägenhet,2015,[Brotorp],3895000,400000,4295000,3653,Fastighetsbyrån,790.2168903003841,Hallonbergen
+2016-05-04,Dammtorps Allé 1,Järvastaden,Blå Solna,3,83,2,Lägenhet,2014,[Järvastaden],3895000,105000,4000000,4266,Fastighetsbyrån,1096.626827019287,Hallonbergen
+2016-05-03,Brukshundsvägen 28,Järvastaden,Blå Solna,4,108,null,Lägenhet,2014,[Järvastaden],4975000,555000,5530000,6165,Erik Olsson Fastighetsförmedling,790.2168903003841,Hallonbergen
+2016-05-03,Fridensborgsvägen 19,Järvastaden,Blå Solna,2,53,3,Lägenhet,2009,[Järvastaden],2525000,325000,2850000,3058,Notar,1494.502581668873,Hallonbergen
+2016-05-03,Brotorps Allé 8,Järvastaden,Blå Solna,3,84.5,1,Lägenhet,null,[Järvastaden],4195000,0,4195000,4267,Notar,834.0801364413715,Hallonbergen
+2016-05-03,Fridensborgsvägen 50,Järvastaden,Blå Solna,2,41,2,Lägenhet,2009,[Järvastaden],2395000,185000,2580000,2225,Erik Olsson Fastighetsförmedling,1459.1159851222437,Hallonbergen
+2016-05-03,Fridensborgsvägen 143,Järvastaden,Blå Solna,2,43,3,Lägenhet,2016,[Järvastaden],2550000,50000,2600000,3090,Erik Olsson Fastighetsförmedling,926.054416071792,Hallonbergen
+2016-05-02,Fridensborgsvägen 145,Järvastaden,Blå Solna,5,111,1,Lägenhet,2016,[Järvastaden],5795000,-195000,5600000,5855,HusmanHagberg,926.054416071792,Hallonbergen
+2016-05-02,Honnörsgatan 9,Järvastaden,Blå Solna,4,89,3,Lägenhet,2007,[Järvastaden],3995000,155000,4150000,5119,Notar,1252.622072305516,Hallonbergen
+2016-05-02,Brogatan 4,Järvastaden,Blå Solna,2,57,4,Lägenhet,2014,[Järvastaden],2395000,505000,2900000,3081,Notar,726.8690941419057,Hallonbergen
+2016-04-28,Dammtorps Allé 2,Järvastaden,Blå Solna,4,99,2,Lägenhet,2013,[Järvastaden],4595000,330000,4925000,4986,Notar,1095.1336915645345,Hallonbergen
+2016-04-28,Honnörsgatan 19,Järvastaden,Blå Solna,3,84,1,Lägenhet,2008,[Järvastaden],3895000,5000,3900000,3838,Hemverket,1406.994399328809,Hallonbergen
+2016-04-27,Honnörsgatan 23,Järvastaden,Blå Solna,2,57,3,Lägenhet,2008,[Järvastaden],2695000,425000,3120000,2924,Fastighetsbyrån,1383.1814356339603,Hallonbergen
+2016-04-27,Fridensborgsvägen 112,Järvastaden,Blå Solna,5,110,3,Lägenhet,null,[Järvastaden],5950000,0,5950000,5358,Fastighetsbyrån,1065.0568305479133,Hallonbergen
+2016-04-26,Fridensborgsvägen 141,Järvastaden,Blå Solna,3,76,2,Lägenhet,2015,[Järvastaden],3995000,205000,4200000,4198,Fastighetsbyrån,1039.763106908648,Hallonbergen
+2016-04-26,Dammtorps Allé 19,Järvastaden,Blå Solna,4,87,3,Lägenhet,2015,[Järvastaden],3995000,280000,4275000,4541,MOHV,961.6128274046318,Hallonbergen
+2016-04-23,Brotorps Allé 5,Järvastaden,Blå Solna,2,42,1,Lägenhet,2015,[Järvastaden],2495000,50000,2545000,2324,Erik Olsson Fastighetsförmedling,833.6664344255788,Hallonbergen
+2016-04-22,Brotorpsvägen 28,Järvastaden,Blå Solna,7,154,null,Radhus,2016,[Järvastaden],7350000,1175000,8525000,null,Susanne Persson Fastighetsförmedling AB,995.4401535164664,Hallonbergen
+2016-04-21,Vinthundsgatan 88,Järvastaden,Blå Solna,2,57,3,Lägenhet,2015,[Järvastaden],2395000,805000,3200000,2968,Notar,765.7281186322933,Hallonbergen
+2016-04-21,Brogatan 12,Järvastaden,Blå Solna,4,87.5,1,Lägenhet,2014,[Brotorp],3995000,255000,4250000,4627,Fastighetsbyrån,687.4843483973435,Hallonbergen
+2016-04-20,Fridensborgsvägen 21,Järvastaden,Blå Solna,2,64,2,Lägenhet,2009,[Järvastaden],2950000,360000,3310000,3439,Erik Olsson Fastighetsförmedling,1484.5904278801902,Hallonbergen
+2016-04-20,Brotorpsvägen 9,Järvastaden,Blå Solna,2,72,4,Lägenhet,2013,[Järvastaden],3250000,350000,3600000,3838,Erik Olsson Fastighetsförmedling,787.1555616995754,Hallonbergen
+2016-04-20,Fridensborgsvägen 16,Järvastaden,Blå Solna,2,44,null,Lägenhet,2010,[Järvastaden],2600000,-75000,2525000,2695,Fastighetsbyrån,1507.2702644411875,Hallonbergen
+2016-04-20,Fridensborgsvägen 62,Järvastaden,Blå Solna,5,102,2,Lägenhet,2011,[Järvastaden],4995000,780000,5775000,4039,Fastighetsbyrån,1527.7497082339894,Hallonbergen
+2016-04-20,Honnörsgatan 26,Järvastaden,Blå Solna,2,60,2,Lägenhet,2007,[Järvastaden],2875000,5000,2880000,4174,Erik Olsson Fastighetsförmedling,1367.5774782137796,Hallonbergen
+2016-04-19,Fridensborgsvägen 14,Järvastaden,Blå Solna,4,92,2,Lägenhet,2010,[Järvastaden],4295000,230000,4525000,4638,Notar,1545.9720250540893,Hallonbergen
+2016-04-19,Fridensborgsvägen 145,Järvastaden,Blå Solna,3,69,5,Lägenhet,2015,[Järvastaden],3850000,0,3850000,3943,Notar,926.054416071792,Hallonbergen
+2016-04-18,Fridensborgsvägen 36,Järvastaden,Blå Solna,5,112,5,Lägenhet,2011,[Järvastaden],5900000,-175000,5725000,5412,Fastighetsbyrån,1541.3750122920667,Hallonbergen
+2016-04-15,Brogatan 16,Järvastaden,Blå Solna,1.5,34,4,Lägenhet,2009,[Järvastaden],1995000,165000,2160000,2459,Länsförsäkringar Fastighetsförmedling,638.7307192381455,Hallonbergen
+2016-04-14,Brogatan 6,Järvastaden,Blå Solna,3,79.5,1,Lägenhet,2015,[Sundbyberg Brotorp],3495000,-90000,3405000,4340,Notar,713.967983976657,Hallonbergen
+2016-04-13,Våtmarksvägen 60,Järvastaden,Blå Solna,2,43,4,Lägenhet,null,[Järvastaden],2775000,-315000,2460000,2598,Svenska Mäklarhuset,900.643414096387,Hallonbergen
+2016-04-12,Mönstringsvägen 10,Järvastaden,Blå Solna,4,95,5,Lägenhet,2008,[Järvastaden],4195000,805000,5000000,4667,Fastighetsbyrån,1366.3290971021124,Hallonbergen
+2016-04-12,Honnörsgatan 9,Järvastaden,Blå Solna,2,53,2,Lägenhet,2007,[Järvastaden],2595000,305000,2900000,3340,Fastighetsbyrån,1252.622072305516,Hallonbergen
+2016-04-12,Dammtorps Allé 19,Järvastaden,Blå Solna,2,55,4,Lägenhet,2015,[Järvastaden],2495000,105000,2600000,3334,Fastighetsbyrån,961.6128274046318,Hallonbergen
+2016-04-09,Järva Skjutbaneväg 56,Järvastaden,Blå Solna,3,80,2,Lägenhet,null,[Järvastaden],3795000,705000,4500000,3449,Svenska Mäklarhuset,1164.4928240050406,Hallonbergen
+2016-04-08,Dammtorps Allé 19,Järvastaden,Blå Solna,2,55,3,Lägenhet,2015,[Järvastaden],2495000,55000,2550000,3128,BOSTHLM,961.6128274046318,Hallonbergen
+2016-04-08,Brotorps Allé 6,Järvastaden,Blå Solna,2,42,1,Lägenhet,2015,[Järvastaden],2400000,0,2400000,2324,Länsförsäkringar Fastighetsförmedling,849.8600674398095,Hallonbergen
+2016-04-06,Brotorpsvägen 11,Järvastaden,Blå Solna,2,64,1,Lägenhet,null,[Järvastaden],2895000,0,2895000,3757,Diplomat Fastighetsmäkleri AB,805.2437723082819,Hallonbergen
+2016-04-06,Vinthundsgatan 84,Järvastaden,Blå Solna,2,44.5,3,Lägenhet,2015,[Järvastaden],2495000,195000,2690000,2432,Hemverket,928.202037314954,Hallonbergen
+2016-04-06,Fridensborgsvägen 147,Järvastaden,Blå Solna,2,65,1,Lägenhet,2015,[Järvastaden],3450000,0,3450000,3721,Notar,926.054416071792,Hallonbergen
+2016-04-06,Brotorpsvägen 3,Järvastaden,Blå Solna,2,56,4,Lägenhet,2012,[Järvastaden],2795000,55000,2850000,3269,Erik Olsson Fastighetsförmedling,796.0291341131458,Hallonbergen
+2016-04-05,Våtmarksvägen 62,Järvastaden,Blå Solna,2,52,3,Lägenhet,2015,[Järvastaden],2645000,-45000,2600000,3195,Hemverket,880.2992582152973,Hallonbergen
+2016-03-31,Våtmarksvägen 60,Järvastaden,Blå Solna,1,36,4,Lägenhet,2015,[Järvastaden],1995000,355000,2350000,2454,Mäklarringen,900.643414096387,Hallonbergen
+2016-03-31,Dammtorps Allé 10,Järvastaden,Blå Solna,2,48,1,Lägenhet,2013,[Järvastaden],2450000,430000,2880000,2692,Erik Olsson Fastighetsförmedling,976.1725512126025,Hallonbergen
+2016-03-30,Dammtorps Allé 17,Järvastaden,Blå Solna,4,89,null,Lägenhet,2015,[Järvastaden],4450000,-125000,4325000,4910,Fastighetsmäklarna,915.7786576198451,Hallonbergen
+2016-03-29,Vinthundsgatan 115,Järvastaden,Blå Solna,2,62,null,Lägenhet,2012,[Järvastaden],2595000,205000,2800000,3186,Notar,708.8891979222727,Hallonbergen
+2016-03-24,Dammtorps Allé 11,Järvastaden,Blå Solna,1.5,38,2,Lägenhet,null,[Järvastaden],1995000,405000,2400000,2459,Svenska Mäklarhuset,915.8267168311231,Hallonbergen
+2016-03-23,Brogatan 12,Järvastaden,Blå Solna,4,87.5,2,Lägenhet,2014,[Järvastaden],4195000,280000,4475000,4627,Erik Olsson Fastighetsförmedling,687.4843483973435,Hallonbergen
+2016-03-22,Fridensborgsvägen 143,Järvastaden,Blå Solna,2,43,1,Lägenhet,2016,[Järvastaden],2495000,105000,2600000,2912,HusmanHagberg,926.054416071792,Hallonbergen
+2016-03-19,Dammtorps Allé 19,Järvastaden,Blå Solna,4,87,2,Lägenhet,2015,[Järvastaden],null,NaN,4225000,4817,Fastighetsbyrån,961.6128274046318,Hallonbergen
+2016-03-17,Dammtorps Allé 4,Järvastaden,Blå Solna,4,96,3,Lägenhet,2013,[Järvastaden],4750000,270000,5020000,4917,HusmanHagberg,1056.2938399188479,Hallonbergen
+2016-03-13,Järva Skjutbaneväg 62,Järvastaden,Blå Solna,3,80,2,Lägenhet,2012,[Järvastaden],4300000,0,4300000,3449,Fastighetsbyrån,1164.4928240050406,Hallonbergen
+2016-03-12,Dammtorps Allé 14,Järvastaden,Blå Solna,4,91.5,4,Lägenhet,null,[Järvastaden],4295000,575000,4870000,4649,Svenska Mäklarhuset,1027.5066270319803,Hallonbergen
+2016-03-10,Vinthundsgatan 86,Järvastaden,Blå Solna,2,55,1,Lägenhet,2015,[Brotorp],2595000,425000,3020000,2883,Fastighetsbyrån,778.1818880849879,Hallonbergen
+2016-03-10,Våtmarksvägen 33,Järvastaden,Blå Solna,3,72.5,2.5,Lägenhet,2015,[Järvastaden],3195000,625000,3820000,3740,Fastighetsbyrån,1164.140404027667,Hallonbergen
+2016-03-09,Fridensborgsvägen 60,Järvastaden,Blå Solna,4,108,5,Lägenhet,2011,[Järvastaden],5295000,805000,6100000,4234,Fastighetsbyrån,1520.957552036669,Hallonbergen
+2016-03-07,Brotorps Allé 5,Järvastaden,Blå Solna,4,91.5,null,Lägenhet,2015,[Järvastaden],4495000,0,4495000,4594,Erik Olsson Fastighetsförmedling,833.6664344255788,Hallonbergen
+2016-03-04,Fridensborgsvägen 41,Järvastaden,Blå Solna,4,93,2,Lägenhet,2008,[Järvastaden],4295000,255000,4550000,4597,Svensk Fastighetsförmedling,1439.4081864548932,Hallonbergen
+2016-03-03,Fridensborgsvägen 22,Järvastaden,Blå Solna,2,61,3,Lägenhet,2011,[Järvastaden],2895000,305000,3200000,3571,HusmanHagberg,1516.875347433293,Hallonbergen
+2016-03-02,Järva Skjutbaneväg 56,Järvastaden,Blå Solna,3,80,2,Lägenhet,2012,[Järvastaden],3495000,155000,3650000,3449,Länsförsäkringar Fastighetsförmedling,1164.4928240050406,Hallonbergen
+2016-02-27,Brogatan 18,Järvastaden,Blå Solna,2,47,3,Lägenhet,2009,[Ursvik],2395000,105000,2500000,2972,Länsförsäkringar Fastighetsförmedling,634.8696916371646,Hallonbergen
+2016-02-24,Fridensborgsvägen 132,Järvastaden,Blå Solna,2,53,1,Lägenhet,null,[Järvastaden],2750000,0,2750000,3575,Svenska Mäklarhuset,936.7807059033939,Hallonbergen
+2016-02-24,Brotorpsvägen 4,Järvastaden,Blå Solna,1,30,4,Lägenhet,2015,[Järvastaden],2195000,0,2195000,2211,Fastighetsmäklarna,858.9832544180019,Hallonbergen
+2016-02-23,Vinthundsgatan 88,Järvastaden,Blå Solna,2,44.5,null,Lägenhet,2015,[Sundbyberg Brotorp],2395000,210000,2605000,2432,Notar,765.7281186322933,Hallonbergen
+2016-02-23,Dammtorps Allé 19,Järvastaden,Blå Solna,4,84,1,Lägenhet,2015,[Järvastaden],4395000,-295000,4100000,4409,Fastighetsbyrån,961.6128274046318,Hallonbergen
+2016-02-22,Vinthundsgatan 86,Järvastaden,Blå Solna,4,101.5,2,Lägenhet,2015,[Järvastaden],4295000,605000,4900000,5000,Notar,778.1818880849879,Hallonbergen
+2016-02-21,Dammtorps Allé 19,Järvastaden,Blå Solna,4,84,1,Lägenhet,2016,[Järvastaden],3895000,105000,4000000,4409,Mäklarhuset,961.6128274046318,Hallonbergen
+2016-02-20,Fridensborgsvägen 54,Järvastaden,Blå Solna,2,42,2,Lägenhet,2009,[Järvastaden],2740000,-210000,2530000,2254,Fastighetsbyrån,1464.5106565277447,Hallonbergen
+2016-02-19,Dammtorps Allé 19,Järvastaden,Blå Solna,3,72,2,Lägenhet,2015,[Järvastaden],3595000,155000,3750000,4122,Notar,961.6128274046318,Hallonbergen
+2016-02-18,Brogatan 16,Järvastaden,Blå Solna,2,42,2,Lägenhet,2009,[Järvastaden],2295000,365000,2660000,2585,Notar,638.7307192381455,Hallonbergen
+2016-02-18,Våtmarksvägen 60,Järvastaden,Blå Solna,1,36,3,Lägenhet,2015,[Järvastaden],2250000,-65000,2185000,2289,Notar,900.643414096387,Hallonbergen
+2016-02-18,Meanderslingan 36,Järvastaden,Blå Solna,3,80,2,Lägenhet,2016,[Järvastaden],3995000,205000,4200000,3944,Notar,962.5998483618739,Hallonbergen
+2016-02-18,Våtmarksvägen 62,Järvastaden,Blå Solna,1,36,3,Lägenhet,2014,[Järvastaden],2300000,-200000,2100000,2289,Länsförsäkringar Fastighetsförmedling,880.2992582152973,Hallonbergen
+2016-02-17,Stövarvägen 23,Järvastaden,Blå Solna,5,152,null,Villa,null,[Järvastaden],7750000,950000,8700000,null,Svenska Mäklarhuset,883.2524950864901,Hallonbergen
+2016-02-16,Fridensborgsvägen 148,Järvastaden,Blå Solna,4,85,3,Lägenhet,2014,[Järvastaden],4295000,-95000,4200000,4745,Notar,856.677216962914,Hallonbergen
+2016-02-16,Våtmarksvägen 60,Järvastaden,Blå Solna,3,68,3,Lägenhet,2015,[Järvastaden],3595000,-195000,3400000,3703,Notar,900.643414096387,Hallonbergen
+2016-02-14,Honnörsgatan 5,Järvastaden,Blå Solna,2,53,null,Lägenhet,2007,[Järvastaden],2375000,40000,2415000,3340,Länsförsäkringar Fastighetsförmedling,1318.8966516306486,Hallonbergen
+2016-02-13,Fridensborgsvägen 37,Järvastaden,Blå Solna,2,50,4,Lägenhet,null,[Järvastaden],2595000,475000,3070000,3087,Svenska Mäklarhuset,1430.1540893072051,Hallonbergen
+2016-02-12,Brotorps Allé 2,Järvastaden,Blå Solna,2,56,2,Lägenhet,2011,[Järvastaden],2695000,285000,2980000,2994,Susanne Persson Fastighetsförmedling AB,891.1209246086631,Hallonbergen
+2016-02-10,Järva Skjutbaneväg 58,Järvastaden,Blå Solna,3,80,1,Lägenhet,2012,[Järvastaden],3650000,200000,3850000,3445,Erik Olsson Fastighetsförmedling,1164.4928240050406,Hallonbergen
+2016-02-10,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,37,2,Lägenhet,2010,[Järvastaden],2195000,555000,2750000,1953,Länsförsäkringar Fastighetsförmedling,1514.4307197139578,Hallonbergen
+2016-02-09,Fridensborgsvägen 148,Järvastaden,Blå Solna,2,60,2,Lägenhet,2015,[Järvastaden],2975000,25000,3000000,3593,A-mäklarna,856.677216962914,Hallonbergen
+2016-02-08,Fridensborgsvägen 149,Järvastaden,Blå Solna,2,65,null,Lägenhet,2015,[Järvastaden],3500000,0,3500000,3721,Fastighetsbyrån,926.054416071792,Hallonbergen
+2016-02-08,Järva Skjutbaneväg 50,Järvastaden,Blå Solna,3,79,2,Lägenhet,null,[Järvastaden],3495000,255000,3750000,4266,Svenska Mäklarhuset,1177.6014656944901,Hallonbergen
+2016-02-07,Brotorpsvägen 2,Järvastaden,Blå Solna,3,78,4,Lägenhet,2015,[Järvastaden],3295000,205000,3500000,4423,Fastighetsbyrån,829.2059651155856,Hallonbergen
+2016-02-05,Fridensborgsvägen 32,Järvastaden,Blå Solna,4,88,1,Lägenhet,2010,[Järvastaden],4500000,20000,4520000,4494,Länsförsäkringar Fastighetsförmedling,1561.1933065070332,Hallonbergen
+2016-02-05,Fridensborgsvägen 19,Järvastaden,Blå Solna,3,81,2,Lägenhet,2009,[Järvastaden],3600000,500000,4100000,4089,Susanne Persson Fastighetsförmedling AB,1494.502581668873,Hallonbergen
+2016-02-05,Fridensborgsvägen 147,Järvastaden,Blå Solna,4,98,2,Lägenhet,null,[Järvastaden],4495000,330000,4825000,5305,Mäklarhuset,926.054416071792,Hallonbergen
+2016-02-04,Fridensborgsvägen 141,Järvastaden,Blå Solna,4,93,2,Lägenhet,2015,[Järvastaden],4595000,155000,4750000,5170,Fastighetsbyrån,1039.763106908648,Hallonbergen
+2016-02-01,Fridensborgsvägen 27,Järvastaden,Blå Solna,2,62,2,Lägenhet,2009,[Järvastaden],2995000,-45000,2950000,3743,Fastighetsbyrån,1472.7837745384859,Hallonbergen
+2016-01-28,Honnörsgatan 3,Järvastaden,Blå Solna,2,53,null,Lägenhet,2007,[Järvastaden],2495000,335000,2830000,3340,Fastighetsbyrån,1252.622072305516,Hallonbergen
+2016-01-27,Fridensborgsvägen 148,Järvastaden,Blå Solna,4,85,5,Lägenhet,2015,[Järvastaden],4095000,135000,4230000,4745,Fastighetsbyrån,856.677216962914,Hallonbergen
+2016-01-22,Fridensborgsvägen 143,Järvastaden,Blå Solna,3,76,2,Lägenhet,null,[Järvastaden],3795000,0,3795000,4198,Svenska Mäklarhuset,926.054416071792,Hallonbergen
+2016-01-22,Vinthundsgatan 115,Järvastaden,Blå Solna,2,54,null,Lägenhet,2012,[Brotorp],2795000,-95000,2700000,2927,Fastighetsbyrån,708.8891979222727,Hallonbergen
+2016-01-22,Honnörsgatan 3,Järvastaden,Blå Solna,3,75,3,Lägenhet,2007,[Järvastaden],3595000,415000,4010000,4306,Mäklarhuset,1252.622072305516,Hallonbergen
+2016-01-21,Dammtorps Allé 2,Järvastaden,Blå Solna,4,99,3,Lägenhet,2013,[Järvastaden],4495000,705000,5200000,5019,Notar,1095.1336915645345,Hallonbergen
+2016-01-21,Fridensborgsvägen 149,Järvastaden,Blå Solna,3,80,3,Lägenhet,2016,[Järvastaden],4100000,0,4100000,4346,Fastighetsbyrån,926.054416071792,Hallonbergen
+2016-01-21,Brotorps Allé 3,Järvastaden,Blå Solna,3,81,null,Lägenhet,2012,[Sundbyberg Brotorp],3495000,365000,3860000,3874,Notar,846.9871781165847,Hallonbergen
+2016-01-20,Fridensborgsvägen 153,Järvastaden,Blå Solna,2,43,2,Lägenhet,2015,[Järvastaden],2295000,205000,2500000,2912,Erik Olsson Fastighetsförmedling,926.054416071792,Hallonbergen
+2016-01-20,Fridensborgsvägen 39,Järvastaden,Blå Solna,3,85,3,Lägenhet,null,[Järvastaden],3695000,435000,4130000,4313,Svenska Mäklarhuset,1443.448066829409,Hallonbergen
+2016-01-20,Fridensborgsvägen 36,Järvastaden,Blå Solna,4,92,3,Lägenhet,2010,[Järvastaden],4475000,375000,4850000,4547,Länsförsäkringar Fastighetsförmedling,1541.3750122920667,Hallonbergen
+2016-01-19,Dammtorps Allé 17,Järvastaden,Blå Solna,2,55,4,Lägenhet,2015,[Järvastaden],2695000,255000,2950000,3334,Notar,915.7786576198451,Hallonbergen
+2016-01-18,Dammtorps Allé 17,Järvastaden,Blå Solna,3,72,3,Lägenhet,2014,[Järvastaden],3700000,0,3700000,3879,Länsförsäkringar Fastighetsförmedling,915.7786576198451,Hallonbergen
+2016-01-16,Honnörsgatan 28,Järvastaden,Blå Solna,3,77,4,Lägenhet,null,[Järvastaden],3695000,165000,3860000,4906,Svenska Mäklarhuset,1366.202771513243,Hallonbergen
+2016-01-15,Vinthundsgatan 84,Järvastaden,Blå Solna,3,76.5,null,Lägenhet,2015,[Järvastaden],3395000,105000,3500000,3883,Erik Olsson Fastighetsförmedling,928.202037314954,Hallonbergen
+2016-01-14,Honnörsgatan 17,Järvastaden,Blå Solna,3,84,2,Lägenhet,2008,[Järvastaden],3695000,415000,4110000,3838,Mäklarhuset,1424.4134027961543,Hallonbergen
+2016-01-14,Fridensborgsvägen 62,Järvastaden,Blå Solna,2,38,5,Lägenhet,2010,[Järvastaden],2195000,805000,3000000,1985,Erik Olsson Fastighetsförmedling,1527.7497082339894,Hallonbergen
+2016-01-14,Våtmarksvägen 60,Järvastaden,Blå Solna,3,70,3,Lägenhet,null,[Järvastaden],3249000,0,3249000,4029,Fastighetsbyrån,900.643414096387,Hallonbergen
+2016-01-14,Dammtorps Allé 17,Järvastaden,Blå Solna,1,30,1,Lägenhet,2015,[Järvastaden],1795000,265000,2060000,2176,HusmanHagberg,915.7786576198451,Hallonbergen
+2016-01-13,Vinthundsgatan 88,Järvastaden,Blå Solna,3,88,2,Lägenhet,2015,[Järvastaden],4295000,105000,4400000,4299,Erik Olsson Fastighetsförmedling,765.7281186322933,Hallonbergen
+2016-01-11,Vinthundsgatan 3,Järvastaden,Blå Solna,2,47,3,Lägenhet,2009,[Järvastaden],2095000,605000,2700000,2972,Notar,673.5847967322891,Hallonbergen
+2016-01-11,Våtmarksvägen 62,Järvastaden,Blå Solna,3,75,1,Lägenhet,2015,[Järvastaden],3095000,105000,3200000,4012,Notar,880.2992582152973,Hallonbergen
+2015-12-23,Honnörsgatan 17,Järvastaden,Blå Solna,3,88,4,Lägenhet,2008,[Järvastaden],5500000,0,5500000,3963,Fastighetsbyrån,1424.4134027961543,Hallonbergen
+2015-12-21,Fridensborgsvägen 153,Järvastaden,Blå Solna,5,108,5,Lägenhet,2015,[Järvastaden],5500000,0,5500000,5525,Notar,926.054416071792,Hallonbergen
+2015-12-11,Dammtorps Allé 19,Järvastaden,Blå Solna,1,30,1,Lägenhet,2015,[Järvastaden],1950000,50000,2000000,2176,Notar,961.6128274046318,Hallonbergen
+2015-12-11,Våtmarksvägen 60,Järvastaden,Blå Solna,3,68,4,Lägenhet,2015,[Järvastaden],3395000,105000,3500000,3703,Fastighetsbyrån,900.643414096387,Hallonbergen
+2015-12-09,Dammtorps Allé 17,Järvastaden,Blå Solna,2,46,null,Lägenhet,2014,[Järvastaden],2595000,55000,2650000,2917,Länsförsäkringar Fastighetsförmedling,915.7786576198451,Hallonbergen
+2015-12-08,Våtmarksvägen 62,Järvastaden,Blå Solna,1,36,4,Lägenhet,2015,[Järvastaden],1795000,365000,2160000,2454,Fastighetsmäklarna,880.2992582152973,Hallonbergen
+2015-12-07,Dammtorps Allé 8,Järvastaden,Blå Solna,2,47.5,4,Lägenhet,2013,[Järvastaden],2395000,405000,2800000,2889,Fastighetsbyrån,1070.3680094845124,Hallonbergen
+2015-12-04,Fågelhundsvägen 28,Järvastaden,Blå Solna,6,183,null,Radhus,2009,[Järvastaden],7500000,600000,8100000,null,Susanne Persson Fastighetsförmedling AB,982.6634928409381,Hallonbergen
+2015-12-03,Honnörsgatan 28,Järvastaden,Blå Solna,3,81.5,2,Lägenhet,null,[Järvastaden],3695000,205000,3900000,5100,Svenska Mäklarhuset,1366.202771513243,Hallonbergen
+2015-12-01,Dammtorps Allé 4,Järvastaden,Blå Solna,4,99,3,Lägenhet,2013,[Järvastaden],4495000,605000,5100000,4799,Fastighetsbyrån,1056.2938399188479,Hallonbergen
+2015-11-30,Fridensborgsvägen 32,Järvastaden,Blå Solna,2,38,3,Lägenhet,2010,[Järvastaden],2195000,435000,2630000,2483,Notar,1561.1933065070332,Hallonbergen
+2015-11-30,Våtmarksvägen 62,Järvastaden,Blå Solna,1.5,36,2,Lägenhet,2015,[Järvastaden],1895000,325000,2220000,2454,Notar,880.2992582152973,Hallonbergen
+2015-11-30,Honnörsgatan 18,Järvastaden,Blå Solna,4,94,4,Lägenhet,2008,[Järvastaden],3995000,815000,4810000,5509,Notar,1462.3902345732374,Hallonbergen
+2015-11-28,Brotorpsvägen 2,Järvastaden,Blå Solna,2,53,4,Lägenhet,2014,[Järvastaden],2495000,355000,2850000,3271,Fastighetsbyrån,829.2059651155856,Hallonbergen
+2015-11-23,Våtmarksvägen 33,Järvastaden,Blå Solna,5,111,1,Lägenhet,2015,[Järvastaden],5695000,0,5695000,5130,Erik Olsson Fastighetsförmedling,1164.140404027667,Hallonbergen
+2015-11-21,Dammtorps Allé 17,Järvastaden,Blå Solna,4,87,2,Lägenhet,2015,[Järvastaden],4195000,0,4195000,4541,Fastighetsbyrån,915.7786576198451,Hallonbergen
+2015-11-20,Fridensborgsvägen 16,Järvastaden,Blå Solna,4,87,null,Lägenhet,2010,[Järvastaden],4275000,275000,4550000,4388,Länsförsäkringar Fastighetsförmedling,1507.2702644411875,Hallonbergen
+2015-11-19,Fridensborgsvägen 60,Järvastaden,Blå Solna,4,108,4,Lägenhet,2011,[Järvastaden],4850000,700000,5550000,4234,Notar,1520.957552036669,Hallonbergen
+2015-11-18,Järva Skjutbaneväg 58,Järvastaden,Blå Solna,4,86,3,Lägenhet,null,[Järvastaden],4195000,555000,4750000,3654,Fastighetsbyrån,1164.4928240050406,Hallonbergen
+2015-11-18,Dammtorps Allé 3,Järvastaden,Blå Solna,4,93,3,Lägenhet,null,[Järvastaden],4495000,415000,4910000,4689,Mäklarhuset,1096.6447302411968,Hallonbergen
+2015-11-12,Vinthundsgatan 70,Järvastaden,Blå Solna,6,178,null,Radhus,2009,[Järvastaden],7000000,1100000,8100000,null,Susanne Persson Fastighetsförmedling AB,887.8231997198978,Hallonbergen
+2015-11-05,Vinthundsgatan 84,Järvastaden,Blå Solna,1,35.5,null,Lägenhet,2015,[Sundbyberg Brotorp],1995000,105000,2100000,2058,Notar,928.202037314954,Hallonbergen
+2015-11-05,Brogatan 16,Järvastaden,Blå Solna,2,45,3,Lägenhet,2009,[Järvastaden],2195000,255000,2450000,2894,MOHV,638.7307192381455,Hallonbergen
+2015-11-05,Honnörsgatan 23,Järvastaden,Blå Solna,4,109,-1,Lägenhet,2007,[Järvastaden],4500000,1140000,5640000,4685,Susanne Persson Fastighetsförmedling AB,1383.1814356339603,Hallonbergen
+2015-11-03,Våtmarksvägen 33,Järvastaden,Blå Solna,2,47,2,Lägenhet,2015,[Järvastaden],2750000,0,2750000,3368,Notar,1164.140404027667,Hallonbergen
+2015-10-27,Järva Skjutbaneväg 56,Järvastaden,Blå Solna,4,86,4,Lägenhet,2012,[Järvastaden],4495000,520000,5015000,3654,Länsförsäkringar Fastighetsförmedling,1164.4928240050406,Hallonbergen
+2015-10-23,Våtmarksvägen 33,Järvastaden,Blå Solna,1.5,35,null,Lägenhet,2015,[Järvastaden],2095000,0,2095000,2378,Fastighetsbyrån,1164.140404027667,Hallonbergen
+2015-10-21,Dammtorps Allé 10,Järvastaden,Blå Solna,2,48,0,Lägenhet,2013,[Järvastaden],2995000,-245000,2750000,2692,Länsförsäkringar Fastighetsförmedling,976.1725512126025,Hallonbergen
+2015-10-19,Stövarvägen 25,Järvastaden,Blå Solna,5,152,null,Villa,2008,[Järvastaden],6800000,1575000,8375000,null,Notar,893.4535602597434,Hallonbergen
+2015-10-19,Dammtorps Allé 15,Järvastaden,Blå Solna,2,46,3,Lägenhet,2015,[Järvastaden],2395000,305000,2700000,3376,Notar,915.8267168311231,Hallonbergen
+2015-10-19,Våtmarksvägen 60,Järvastaden,Blå Solna,3,70,4,Lägenhet,2015,[Järvastaden],3695000,0,3695000,4029,Notar,900.643414096387,Hallonbergen
+2015-10-19,Växlarevägen 93,Järvastaden,Blå Solna,4,122.5,null,Lägenhet,1986,[Råstahem],4695000,855000,5550000,5300,Länsförsäkringar Fastighetsförmedling,993.9440137667344,Hallonbergen
+2015-10-14,Dammtorps Allé 17,Järvastaden,Blå Solna,4,85,0,Lägenhet,null,[Järvastaden],3995000,215000,4210000,4724,Mäklarhuset,915.7786576198451,Hallonbergen
+2015-10-10,Fridensborgsvägen 149,Järvastaden,Blå Solna,2,65,2,Lägenhet,2015,[Järvastaden],2995000,155000,3150000,3721,Fastighetsbyrån,926.054416071792,Hallonbergen
+2015-10-08,Brotorpsvägen 2,Järvastaden,Blå Solna,3,78,2,Lägenhet,2015,[Järvastaden],3495000,155000,3650000,4423,Fastighetsbyrån,829.2059651155856,Hallonbergen
+2015-10-07,Fridensborgsvägen 14,Järvastaden,Blå Solna,3,65,1,Lägenhet,2011,[Järvastaden],2895000,855000,3750000,3548,Mäklarhuset,1545.9720250540893,Hallonbergen
+2015-10-05,Brukshundsvägen 28,Järvastaden,Blå Solna,1.5,37,3,Lägenhet,2015,[Sundbyberg Brotorp],1895000,205000,2100000,2112,Notar,790.2168903003841,Hallonbergen
+2015-10-04,Meanderslingan 36,Järvastaden,Blå Solna,4,95,1.5,Lägenhet,2015,[Järvastaden],4495000,230000,4725000,4691,Svensk Fastighetsförmedling,962.5998483618739,Hallonbergen
+2015-09-30,Vinthundsgatan 3,Järvastaden,Blå Solna,2,39,4,Lägenhet,2009,[Brotorp],2650000,0,2650000,2657,Fastighetsbyrån,673.5847967322891,Hallonbergen
+2015-09-28,Dammtorps Allé 13,Järvastaden,Blå Solna,3,85,1,Lägenhet,2015,[Järvastaden],3595000,205000,3800000,4080,Hemverket,1030.7311736743566,Hallonbergen
+2015-09-25,Våtmarksvägen 33,Järvastaden,Blå Solna,5,111.5,null,Lägenhet,null,[Järvastaden],null,NaN,5925000,3808,Fastighetsbyrån,1164.140404027667,Hallonbergen
+2015-09-24,Fridensborgsvägen 143,Järvastaden,Blå Solna,2,43,1,Lägenhet,2015,[Järvastaden],2600000,0,2600000,3132,Mäklarhuset,926.054416071792,Hallonbergen
+2015-09-22,Våtmarksvägen 62,Järvastaden,Blå Solna,1,36,3,Lägenhet,2015,[Järvastaden],1995000,125000,2120000,2454,Hemverket,880.2992582152973,Hallonbergen
+2015-09-21,Fridensborgsvägen 22,Järvastaden,Blå Solna,2,61,null,Lägenhet,2010,[Järvastaden],2870000,25000,2895000,3285,Länsförsäkringar Fastighetsförmedling,1516.875347433293,Hallonbergen
+2015-09-17,Fridensborgsvägen 62,Järvastaden,Blå Solna,2,38,3,Lägenhet,2011,[Järvastaden],2375000,225000,2600000,1985,Notar,1527.7497082339894,Hallonbergen
+2015-09-16,Dammtorps Allé 4,Järvastaden,Blå Solna,4,99,1,Lägenhet,2013,[Järvastaden],4395000,575000,4970000,4799,Fastighetsbyrån,1056.2938399188479,Hallonbergen
+2015-09-15,Brotorpsvägen 2,Järvastaden,Blå Solna,2,53,4,Lägenhet,2013,[Järvastaden],2595000,165000,2760000,3271,Mäklarringen,829.2059651155856,Hallonbergen
+2015-09-14,Våtmarksvägen 62,Järvastaden,Blå Solna,2,43,1,Lägenhet,2015,[Järvastaden],2495000,0,2495000,2778,Notar,880.2992582152973,Hallonbergen
+2015-09-14,Våtmarksvägen 60,Järvastaden,Blå Solna,1,36,3,Lägenhet,2015,[Järvastaden],2195000,-95000,2100000,2454,Notar,900.643414096387,Hallonbergen
+2015-09-14,Fridensborgsvägen 148,Järvastaden,Blå Solna,3,72,1,Lägenhet,2014,[Järvastaden],3490000,60000,3550000,4146,Notar,856.677216962914,Hallonbergen
+2015-09-14,Fridensborgsvägen 27,Järvastaden,Blå Solna,4,100,5,Lägenhet,2009,[Järvastaden],4650000,25000,4675000,5349,Notar,1472.7837745384859,Hallonbergen
+2015-09-11,Brotorpsvägen 2,Järvastaden,Blå Solna,4,82,3,Lägenhet,null,[Järvastaden],3695000,205000,3900000,4607,Fastighetsbyrån,829.2059651155856,Hallonbergen
+2015-09-07,Honnörsgatan 3,Järvastaden,Blå Solna,2,53,2,Lägenhet,2007,[Järvastaden],2600000,-50000,2550000,3475,Notar,1252.622072305516,Hallonbergen
+2015-09-07,Järva Skjutbaneväg 52,Järvastaden,Blå Solna,5,112,2,Lägenhet,2013,[Järvastaden],4695000,635000,5330000,5547,Länsförsäkringar Fastighetsförmedling,1157.1238028116436,Hallonbergen
+2015-09-04,Fridensborgsvägen 62,Järvastaden,Blå Solna,5,102,4,Lägenhet,2011,[Järvastaden],5495000,0,5495000,4039,Svensk Fastighetsförmedling,1527.7497082339894,Hallonbergen
+2015-09-04,Dammtorps Allé 15,Järvastaden,Blå Solna,2,46,3,Lägenhet,2015,[Järvastaden],2400000,20000,2420000,3636,Erik Olsson Fastighetsförmedling,915.8267168311231,Hallonbergen
+2015-09-04,Våtmarksvägen 62,Järvastaden,Blå Solna,2,43,2,Lägenhet,2015,[Järvastaden],2195000,155000,2350000,2685,HusmanHagberg,880.2992582152973,Hallonbergen
+2015-08-28,Brotorpsvägen 9,Järvastaden,Blå Solna,2,46,null,Lägenhet,null,[Järvastaden],2150000,150000,2300000,3063,Svenska Mäklarhuset,787.1555616995754,Hallonbergen
+2015-08-28,Fridensborgsvägen 18,Järvastaden,Blå Solna,3,75,4,Lägenhet,2010,[Järvastaden],3495000,335000,3830000,3905,Länsförsäkringar Fastighetsförmedling,1533.537486289684,Hallonbergen
+2015-08-27,Dammtorps Allé 2,Järvastaden,Blå Solna,3,78,1,Lägenhet,null,[Järvastaden],3495000,680000,4175000,4197,Svenska Mäklarhuset,1095.1336915645345,Hallonbergen
+2015-08-27,Honnörsgatan 1,Järvastaden,Blå Solna,3,75,2,Lägenhet,2007,[Järvastaden],3595000,405000,4000000,4421,Notar,1295.0697498324998,Hallonbergen
+2015-08-27,Vinthundsgatan 2C,Järvastaden,Blå Solna,4,86,1,Lägenhet,2014,[Brotorp],3495000,0,3495000,4550,Bjurfors,756.7418554258381,Hallonbergen
+2015-08-25,Vinthundsgatan 3,Järvastaden,Blå Solna,2,45,2,Lägenhet,2009,[Järvastaden],2300000,220000,2520000,2894,Erik Olsson Fastighetsförmedling,673.5847967322891,Hallonbergen
+2015-08-24,Brotorpsvägen 2,Järvastaden,Blå Solna,2,53,5,Lägenhet,2014,[Järvastaden],2595000,205000,2800000,3271,Notar,829.2059651155856,Hallonbergen
+2015-08-21,Honnörsgatan 26,Järvastaden,Blå Solna,3,78,1,Lägenhet,2008,[Järvastaden],3695000,555000,4250000,4927,Svensk Fastighetsförmedling,1367.5774782137796,Hallonbergen
+2015-08-13,Fridensborgsvägen 62,Järvastaden,Blå Solna,3,60,2,Lägenhet,null,[Järvastaden],2995000,645000,3640000,2691,Svenska Mäklarhuset,1527.7497082339894,Hallonbergen
+2015-08-12,Brotorpsvägen 4,Järvastaden,Blå Solna,1,30,3,Lägenhet,2015,[Järvastaden],1595000,695000,2290000,2211,Notar,858.9832544180019,Hallonbergen
+2015-08-12,Dammtorps Allé 1,Järvastaden,Blå Solna,3,83,3,Lägenhet,2014,[Järvastaden],3495000,605000,4100000,4266,Mäklarhuset,1096.626827019287,Hallonbergen
+2015-08-11,Fridensborgsvägen 32,Järvastaden,Blå Solna,2,38,2,Lägenhet,null,[Järvastaden],2295000,255000,2550000,2793,Fastighetsbyrån,1561.1933065070332,Hallonbergen
+2015-08-05,Våtmarksvägen 33,Järvastaden,Blå Solna,2,47.5,1,Lägenhet,2015,[Järvastaden],2550000,10000,2560000,2719,Notar,1164.140404027667,Hallonbergen
+2015-08-05,Vinthundsgatan 111,Järvastaden,Blå Solna,2,57,null,Lägenhet,2012,null,2450000,50000,2500000,3028,Notar,822.980622388879,Hallonbergen
+2015-08-05,Järva Skjutbaneväg 45,Järvastaden,Blå Solna,2,43,5,Lägenhet,null,[Järva],1995000,635000,2630000,2714,BOSTHLM,1160.3480147195544,Hallonbergen
+2015-07-30,Vinthundsgatan 2C,Järvastaden,Blå Solna,2,58,0,Lägenhet,2015,[Brotorp],2495000,155000,2650000,3485,Fastighetsbyrån,756.7418554258381,Hallonbergen
+2015-07-24,Meanderslingan 34,Järvastaden,Blå Solna,2,54.5,3,Lägenhet,null,[Järvastaden],2695000,230000,2925000,2908,Fastighetsbyrån,1030.7311736743566,Hallonbergen
+2015-07-24,Dammtorps Allé 6,Järvastaden,Blå Solna,2,43,2,Lägenhet,2012,[Järvastaden],2195000,270000,2465000,2709,Notar,1030.1531003221326,Hallonbergen
+2015-07-21,Brukshundsvägen 28,Järvastaden,Blå Solna,2,54,2,Lägenhet,2015,[Järvastaden],2595000,105000,2700000,3083,Mäklarringen,790.2168903003841,Hallonbergen
+2015-07-15,Dammtorps Allé 10,Järvastaden,Blå Solna,4,91,4,Lägenhet,2013,[Järvastaden],4050000,350000,4400000,4649,Erik Olsson Fastighetsförmedling,976.1725512126025,Hallonbergen
+2015-07-11,Brotorps Allé 3,Järvastaden,Blå Solna,3,81,2,Lägenhet,2012,[Järvastaden],3295000,155000,3450000,null,Svensk Fastighetsförmedling,846.9871781165847,Hallonbergen
+2015-07-07,Brogatan 8,Järvastaden,Blå Solna,3,79.5,4,Lägenhet,2014,[Järvastaden],3595000,0,3595000,4180,Länsförsäkringar Fastighetsförmedling,719.3633607427375,Hallonbergen
+2015-07-01,Brotorpsvägen 4,Järvastaden,Blå Solna,1,30,4,Lägenhet,2014,[Järvastaden],1750000,350000,2100000,2211,Bjurfors,858.9832544180019,Hallonbergen
+2015-06-25,Brotorpsvägen 11,Järvastaden,Blå Solna,2,56,2,Lägenhet,2013,[Brotorp],2495000,115000,2610000,3269,Fastighetsbyrån,805.2437723082819,Hallonbergen
+2015-06-16,Fridensborgsvägen 50,Järvastaden,Blå Solna,2,41,3,Lägenhet,2009,[Järvastaden],2295000,405000,2700000,2705,Fastighetsbyrån,1459.1159851222437,Hallonbergen
+2015-06-12,Vinthundsgatan 111,Järvastaden,Blå Solna,2,62,2.5,Lägenhet,null,[Järvastaden],2500000,260000,2760000,3396,Fastighetsmäklarna,822.980622388879,Hallonbergen
+2015-06-12,Brotorpsvägen 4,Järvastaden,Blå Solna,3,69,4,Lägenhet,2013,[Järvastaden],2995000,255000,3250000,3771,Erik Olsson Fastighetsförmedling,858.9832544180019,Hallonbergen
+2015-06-10,Brotorpsvägen 4,Järvastaden,Blå Solna,1,30,4,Lägenhet,2015,[Järvastaden],1595000,305000,1900000,2211,Notar,858.9832544180019,Hallonbergen
+2015-06-04,Fridensborgsvägen 18,Järvastaden,Blå Solna,2,44,-1,Lägenhet,null,[Järvastaden],1995000,245000,2240000,null,Mäklarhuset,1533.537486289684,Hallonbergen
+2015-06-03,Järva Skjutbaneväg 62,Järvastaden,Blå Solna,3,80,2,Lägenhet,2013,[Järvastaden],3395000,655000,4050000,3449,Mäklarhuset,1164.4928240050406,Hallonbergen
+2015-05-29,Honnörsgatan 25,Järvastaden,Blå Solna,2,57,2,Lägenhet,2008,[Järvastaden],2595000,330000,2925000,2924,Fastighetsbyrån,1383.1814356339603,Hallonbergen
+2015-05-22,Brogatan 4,Järvastaden,Blå Solna,3,69,2,Lägenhet,2014,[Järvastaden],2995000,305000,3300000,3826,Notar,726.8690941419057,Hallonbergen
+2015-05-21,Järva Skjutbaneväg 52,Järvastaden,Blå Solna,5,112,4,Lägenhet,null,[Järvastaden],4795000,-145000,4650000,5547,SkandiaMäklarna,1157.1238028116436,Hallonbergen
+2015-05-17,Vinthundsgatan 1,Järvastaden,Blå Solna,3,68,2,Lägenhet,2009,[Brotorp],2895000,205000,3100000,3803,Fastighetsbyrån,624.6209439356396,Hallonbergen
+2015-05-13,Honnörsgatan 27,Järvastaden,Blå Solna,4,109,0,Lägenhet,2007,[Järvastaden],4495000,505000,5000000,4685,Notar,1366.2675640634159,Hallonbergen
+2015-05-13,Dammtorps Allé 3,Järvastaden,Blå Solna,4,98,4,Lägenhet,2014,[Järvastaden],3995000,555000,4550000,4866,Erik Olsson Fastighetsförmedling,1096.6447302411968,Hallonbergen
+2015-05-12,Honnörsgatan 19,Järvastaden,Blå Solna,4,106,4,Lägenhet,null,[Järvastaden],4750000,830000,5580000,4801,Svenska Mäklarhuset,1406.994399328809,Hallonbergen
+2015-05-12,Brotorps Allé 2,Järvastaden,Blå Solna,2,56,null,Lägenhet,2012,[Järvastaden],2395000,290000,2685000,2994,Länsförsäkringar Fastighetsförmedling,891.1209246086631,Hallonbergen
+2015-05-09,Fridensborgsvägen 149,Järvastaden,Blå Solna,4,98,3,Lägenhet,null,[Järvastaden],4250000,100000,4350000,5305,Mäklarhuset,926.054416071792,Hallonbergen
+2015-05-08,Järva Skjutbaneväg 58,Järvastaden,Blå Solna,2,66,1,Lägenhet,2012,[Järvastaden],2695000,325000,3020000,2972,Svensk Fastighetsförmedling,1164.4928240050406,Hallonbergen
+2015-05-07,Honnörsgatan 1,Järvastaden,Blå Solna,2,53,null,Lägenhet,2007,[Järvastaden],2600000,-200000,2400000,3275,Fastighetsbyrån,1295.0697498324998,Hallonbergen
+2015-05-07,Brogatan 16,Järvastaden,Blå Solna,2,42,2,Lägenhet,2009,[Järvastaden],2295000,0,2295000,2775,Notar,638.7307192381455,Hallonbergen
+2015-05-06,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,38,null,Lägenhet,2011,[Järvastaden],1995000,5000,2000000,1985,Gripsholms Fastighetsförmedling,1514.4307197139578,Hallonbergen
+2015-05-05,Brotorps Allé 1,Järvastaden,Blå Solna,3,81,null,Lägenhet,2012,[Järvastaden],2995000,365000,3360000,3874,Notar,859.0509917252703,Hallonbergen
+2015-05-05,Dammtorps Allé 1,Järvastaden,Blå Solna,3,66,1,Lägenhet,2014,[Järvastaden],2895000,505000,3400000,3815,Living Fastighetsmäkleri,1096.626827019287,Hallonbergen
+2015-04-30,Fridensborgsvägen 39,Järvastaden,Blå Solna,3,77,3,Lägenhet,2008,[Järvastaden],3100000,475000,3575000,4033,HusmanHagberg,1443.448066829409,Hallonbergen
+2015-04-29,Dammtorps Allé 1,Järvastaden,Blå Solna,3,83,5,Lägenhet,2014,[Järvastaden],4100000,0,4100000,4486,Fastighetsbyrån,1096.626827019287,Hallonbergen
+2015-04-29,Brotorpsvägen 2,Järvastaden,Blå Solna,4,82,2,Lägenhet,2015,[Järvastaden],3595000,0,3595000,4429,HusmanHagberg,829.2059651155856,Hallonbergen
+2015-04-24,Fridensborgsvägen 25,Järvastaden,Blå Solna,2,75,4,Lägenhet,2009,[Järvastaden],2550000,600000,3150000,4240,Notar,1489.351108341237,Hallonbergen
+2015-04-24,Dammtorps Allé 6,Järvastaden,Blå Solna,3,78,3,Lägenhet,2013,[Järvastaden],3300000,475000,3775000,3977,Susanne Persson Fastighetsförmedling AB,1030.1531003221326,Hallonbergen
+2015-04-22,Vinthundsgatan 2C,Järvastaden,Blå Solna,2,58,2,Lägenhet,2015,[Järvastaden],2495000,305000,2800000,3126,Fastighetsbyrån,756.7418554258381,Hallonbergen
+2015-04-22,Fridensborgsvägen 34,Järvastaden,Blå Solna,5,110,null,Lägenhet,2011,[Järvastaden],4495000,1505000,6000000,5236,Fastighetsbyrån,1541.3750122920667,Hallonbergen
+2015-04-22,Fridensborgsvägen 14,Järvastaden,Blå Solna,2,73,1,Lägenhet,2010,[Järvastaden],2695000,730000,3425000,3974,Fastighetsmäklarna,1545.9720250540893,Hallonbergen
+2015-04-21,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,37,1,Lägenhet,2011,[Järvastaden],1995000,505000,2500000,1953,Notar,1514.4307197139578,Hallonbergen
+2015-04-21,Fridensborgsvägen 36,Järvastaden,Blå Solna,3,65,null,Lägenhet,2011,[Järvastaden],2995000,305000,3300000,3548,Länsförsäkringar Fastighetsförmedling,1541.3750122920667,Hallonbergen
+2015-04-17,Brotorps Allé 2,Järvastaden,Blå Solna,3,86,4,Lägenhet,2012,[Brotorp],2995000,505000,3500000,4032,Fastighetsbyrån,891.1209246086631,Hallonbergen
+2015-04-17,Fridensborgsvägen 31,Järvastaden,Blå Solna,4,98,1,Lägenhet,2009,[Järvastaden],3995000,505000,4500000,5091,Fastighetsbyrån,1446.8476644231987,Hallonbergen
+2015-04-17,Dammtorps Allé 15,Järvastaden,Blå Solna,2,46,12,Lägenhet,2015,[Järvastaden],2395000,105000,2500000,3636,Notar,915.8267168311231,Hallonbergen
+2015-04-17,Järva Skjutbaneväg 56,Järvastaden,Blå Solna,4,87,2,Lägenhet,2012,[Rissne/Ursvik],3895000,555000,4450000,3688,Länsförsäkringar Fastighetsförmedling,1164.4928240050406,Hallonbergen
+2015-04-17,Fridensborgsvägen 25,Järvastaden,Blå Solna,2,69,5,Lägenhet,2009,[Rissne/Ursvik],2895000,555000,3450000,4010,Svensk Fastighetsförmedling,1489.351108341237,Hallonbergen
+2015-04-16,Fridensborgsvägen 21,Järvastaden,Blå Solna,5,112,4,Lägenhet,2009,[Järvastaden],4750000,0,4750000,5883,Notar,1484.5904278801902,Hallonbergen
+2015-04-15,Fridensborgsvägen 25,Järvastaden,Blå Solna,3,100,2,Lägenhet,2009,[Järvastaden],4250000,400000,4650000,5349,Notar,1489.351108341237,Hallonbergen
+2015-04-14,Meanderslingan 36,Järvastaden,Blå Solna,4,95,1,Lägenhet,2015,[Järvastaden],4695000,-45000,4650000,4691,Notar,962.5998483618739,Hallonbergen
+2015-04-13,Brotorpsvägen 2,Järvastaden,Blå Solna,2,53,3,Lägenhet,2013,[Järvastaden],2495000,305000,2800000,3271,Mäklarringen,829.2059651155856,Hallonbergen
+2015-04-08,Meanderslingan 36,Järvastaden,Blå Solna,3,77,2,Lägenhet,2015,[Järvastaden],3695000,5000,3700000,4122,Notar,962.5998483618739,Hallonbergen
+2015-04-07,Fridensborgsvägen 112,Järvastaden,Blå Solna,4,92,4,Lägenhet,2014,[Rissne/Ursvik],3995000,265000,4260000,4873,Mäklarhuset,1065.0568305479133,Hallonbergen
+2015-04-07,Brogatan 12,Järvastaden,Blå Solna,4,87.5,2,Lägenhet,2014,[Järvastaden],3895000,65000,3960000,4627,Notar,687.4843483973435,Hallonbergen
+2015-04-01,Brogatan 2,Järvastaden,Blå Solna,4,101,5,Lägenhet,2012,[Brotorp],3995000,755000,4750000,5232,Fastighetsbyrån,762.87901278109,Hallonbergen
+2015-03-30,Fridensborgsvägen 34,Järvastaden,Blå Solna,4,88,3,Lägenhet,2010,[Rissne/Ursvik],3995000,715000,4710000,4406,Länsförsäkringar Fastighetsförmedling,1541.3750122920667,Hallonbergen
+2015-03-26,Järva Skjutbaneväg 56,Järvastaden,Blå Solna,2,66,1,Lägenhet,2012,[Järvastaden],2650000,100000,2750000,2972,HusmanHagberg,1164.4928240050406,Hallonbergen
+2015-03-25,Honnörsgatan 26,Järvastaden,Blå Solna,3,75,2,Lägenhet,2008,[Rissne/Ursvik],3195000,505000,3700000,4821,Svenska Mäklarhuset,1367.5774782137796,Hallonbergen
+2015-03-24,Fridensborgsvägen 26,Järvastaden,Blå Solna,3,65,4,Lägenhet,2011,[Rissne/Ursvik],2795000,665000,3460000,3558,Svensk Fastighetsförmedling,1493.7888770229467,Hallonbergen
+2015-03-24,Honnörsgatan 16,Järvastaden,Blå Solna,5,105,null,Lägenhet,2008,[Järvastaden],3995000,855000,4850000,5998,Fastighetsbyrån,1449.5181561406343,Hallonbergen
+2015-03-19,Brotorpsvägen 4,Järvastaden,Blå Solna,3,69,null,Lägenhet,2013,[Järvastaden],2895000,125000,3020000,3771,Erik Olsson Fastighetsförmedling,858.9832544180019,Hallonbergen
+2015-03-19,Honnörsgatan 5,Järvastaden,Blå Solna,2,53,4,Lägenhet,2007,[Järvastaden],2600000,0,2600000,3275,Fastighetsbyrån,1318.8966516306486,Hallonbergen
+2015-03-18,Järva Skjutbaneväg 52,Järvastaden,Blå Solna,3,78,3,Lägenhet,2012,[Järvastaden],2950000,775000,3725000,4232,Susanne Persson Fastighetsförmedling AB,1157.1238028116436,Hallonbergen
+2015-03-18,Dammtorp Allé 11,Järvastaden,Blå Solna,1,38,null,Lägenhet,2014,[Järvastaden],1995000,0,1995000,2716,Fabergé Fastighetsmäkleri,981.0381257628118,Hallonbergen
+2015-03-15,Fridensborgsvägen 25,Järvastaden,Blå Solna,4,99,1,Lägenhet,2009,[Järvastaden],3995000,935000,4930000,5308,Notar,1489.351108341237,Hallonbergen
+2015-03-13,Vinthundsgatan 3,Järvastaden,Blå Solna,4,95,null,Lägenhet,2009,[Rissne/Ursvik],3795000,155000,3950000,4680,Länsförsäkringar Fastighetsförmedling,673.5847967322891,Hallonbergen
+2015-03-13,Fridensborgsvägen 54,Järvastaden,Blå Solna,2,40,4,Lägenhet,2009,[Järvastaden],2395000,305000,2700000,2193,Notar,1464.5106565277447,Hallonbergen
+2015-03-12,Storgatan 62C,Järvastaden,Blå Solna,4,88,1,Lägenhet,2012,[Rissne/Ursvik],2695000,325000,3020000,4987,Länsförsäkringar Fastighetsförmedling,1485.815904396023,Hallonbergen
+2015-03-12,Honnörsgatan 16,Järvastaden,Blå Solna,3,71,3,Lägenhet,2008,[Rissne/Ursvik],2795000,675000,3470000,4486,Länsförsäkringar Fastighetsförmedling,1449.5181561406343,Hallonbergen
+2015-03-11,Vinthundsgatan 1,Järvastaden,Blå Solna,3,82,3,Lägenhet,2009,[Rissne/Ursvik],2995000,415000,3410000,4357,SkandiaMäklarna,624.6209439356396,Hallonbergen
+2015-03-06,Dammtorps Allé 11,Järvastaden,Blå Solna,1,38,4,Lägenhet,2015,[Järvastaden],1995000,105000,2100000,2716,HusmanHagberg,915.8267168311231,Hallonbergen
+2015-03-06,Dammtorps Allé 2,Järvastaden,Blå Solna,4,99,1,Lägenhet,2013,[Rissne/Ursvik],3895000,525000,4420000,5019,Svenska Mäklarhuset,1095.1336915645345,Hallonbergen
+2015-03-06,Brotorpsvägen 2,Järvastaden,Blå Solna,2,42,null,Lägenhet,2015,[Rissne/Ursvik],2290000,0,2290000,2586,SkandiaMäklarna,829.2059651155856,Hallonbergen
+2015-02-16,Dammtorps Allé 11,Järvastaden,Blå Solna,1.5,38,3,Lägenhet,2015,[Järvastaden],1895000,165000,2060000,2715,Notar,915.8267168311231,Hallonbergen
+2015-02-16,Brotorpsvägen 4,Järvastaden,Blå Solna,1,30,2,Lägenhet,2014,[Järvastaden],1795000,120000,1915000,2059,Länsförsäkringar Fastighetsförmedling,858.9832544180019,Hallonbergen
+2015-02-13,Dammtorps Allé 12,Järvastaden,Blå Solna,2,48,2,Lägenhet,null,[Rissne/Ursvik],2395000,125000,2520000,2692,SkandiaMäklarna,936.2955764362608,Hallonbergen
+2015-02-10,Järva Skjutbaneväg 52,Järvastaden,Blå Solna,2,66,2,Lägenhet,2012,[Järvastaden],2595000,105000,2700000,3529,Bjurfors,1157.1238028116436,Hallonbergen
+2015-02-10,Brogatan 4,Järvastaden,Blå Solna,4,89,1,Lägenhet,2014,[Järvastaden],3450000,330000,3780000,4695,Notar,726.8690941419057,Hallonbergen
+2015-02-06,Fridensborgsvägen 58,Järvastaden,Blå Solna,3,60,3,Lägenhet,2010,[Järvastaden],2695000,375000,3070000,2691,Svenska Mäklarhuset,1514.4307197139578,Hallonbergen
+2015-02-04,Fridensborgsvägen 25,Järvastaden,Blå Solna,4,99,3,Lägenhet,2009,[Rissne/Ursvik],3795000,420000,4215000,5308,Svensk Fastighetsförmedling,1489.351108341237,Hallonbergen
+2015-02-02,Järva Skjutbaneväg 62,Järvastaden,Blå Solna,2,66,1,Lägenhet,2011,[Järvastaden],2895000,0,2895000,2972,Erik Olsson Fastighetsförmedling,1164.4928240050406,Hallonbergen
+2015-01-31,Honnörsgatan 18,Järvastaden,Blå Solna,4,90,3,Lägenhet,2008,[Järvastaden],3395000,425000,3820000,5331,Notar,1462.3902345732374,Hallonbergen
+2015-01-31,Fridensborgsvägen 37,Järvastaden,Blå Solna,2,64,3,Lägenhet,2008,[Järvastaden],2650000,50000,2700000,3578,Notar,1430.1540893072051,Hallonbergen
+2015-01-31,Fridensborgsvägen 14,Järvastaden,Blå Solna,4,92,2,Lägenhet,2010,[Järvastaden],3850000,450000,4300000,4547,Notar,1545.9720250540893,Hallonbergen
+2015-01-30,Fridensborgsvägen 58,Järvastaden,Blå Solna,4,93,null,Lägenhet,2011,[Järvastaden],3695000,230000,3925000,3750,Fastighetsbyrån,1514.4307197139578,Hallonbergen
+2015-01-30,Brotorps Allé 3,Järvastaden,Blå Solna,5,117,2,Lägenhet,2012,[Järvastaden],4195000,505000,4700000,5171,Länsförsäkringar Fastighetsförmedling,846.9871781165847,Hallonbergen
+2015-01-29,Brotorpsvägen 9,Järvastaden,Blå Solna,3,81,3,Lägenhet,2013,[Brotorp],2995000,425000,3420000,4231,Erik Olsson Fastighetsförmedling,787.1555616995754,Hallonbergen
+2015-01-26,Vinthundsgatan 111,Järvastaden,Blå Solna,2,62,null,Lägenhet,2012,[Rissne/Ursvik],2095000,305000,2400000,3396,Svensk Fastighetsförmedling,822.980622388879,Hallonbergen
+2015-01-19,Brogatan 6,Järvastaden,Blå Solna,3,79.5,null,Lägenhet,2014,[Brotorp],3100000,20000,3120000,4340,Fastighetsbyrån,713.967983976657,Hallonbergen
+2015-01-16,Fridensborgsvägen 50,Järvastaden,Blå Solna,3,84,5,Lägenhet,2009,[Järvastaden],3395000,535000,3930000,3564,Länsförsäkringar Fastighetsförmedling,1459.1159851222437,Hallonbergen
+2015-01-09,Dammtorps Allé 15,Järvastaden,Blå Solna,2,46,1,Lägenhet,null,[Järvastaden],2400000,60000,2460000,2677,Notar,915.8267168311231,Hallonbergen
+2014-12-16,Honnörsgatan 23,Järvastaden,Blå Solna,4,99,2,Lägenhet,2007,[Järvastaden],3495000,365000,3860000,4372,Erik Olsson Fastighetsförmedling,1383.1814356339603,Hallonbergen
+2014-12-03,Fridensborgsvägen 37,Järvastaden,Blå Solna,2,64,4,Lägenhet,2008,[Rissne/Ursvik],2595000,185000,2780000,3778,Svensk Fastighetsförmedling,1430.1540893072051,Hallonbergen
+2014-11-28,Fridensborgsvägen 48,Järvastaden,Blå Solna,3,75,null,Lägenhet,2009,[Rissne/Ursvik],2895000,55000,2950000,3218,Svensk Fastighetsförmedling,1458.3312384519454,Hallonbergen
+2014-11-27,Brogatan 18,Järvastaden,Blå Solna,1.5,34,4,Lägenhet,2009,[Rissne/Ursvik],1495000,195000,1690000,2459,Mäklarhuset,634.8696916371646,Hallonbergen
+2014-11-27,Fridensborgsvägen 14,Järvastaden,Blå Solna,4,92,4,Lägenhet,2011,[Rissne/Ursvik],3895000,255000,4150000,4547,Svensk Fastighetsförmedling,1545.9720250540893,Hallonbergen
+2014-11-26,Fridensborgsvägen 36,Järvastaden,Blå Solna,5,112,2,Lägenhet,2011,[Järvastaden],4250000,150000,4400000,5306,Svenska Mäklarhuset,1541.3750122920667,Hallonbergen
+2014-11-20,Honnörsgatan 23,Järvastaden,Blå Solna,3,84,2,Lägenhet,2007,[Järvastaden],3095000,415000,3510000,3838,Svenska Mäklarhuset,1383.1814356339603,Hallonbergen
+2014-11-13,Honnörsgatan 9,Järvastaden,Blå Solna,4,89,3,Lägenhet,2007,[Järvastaden],3195000,255000,3450000,4928,Notar,1252.622072305516,Hallonbergen
+2014-11-13,Honnörsgatan 25,Järvastaden,Blå Solna,4,99,1,Lägenhet,null,[Rissne/Ursvik],3595000,235000,3830000,4372,Svensk Fastighetsförmedling,1383.1814356339603,Hallonbergen
+2014-11-12,Vinthundsgatan 111,Järvastaden,Blå Solna,3,70,3,Lägenhet,2012,[Järvastaden],2695000,80000,2775000,3513,Svenska Mäklarhuset,822.980622388879,Hallonbergen
+2014-11-12,Fridensborgsvägen 39,Järvastaden,Blå Solna,3,85,2,Lägenhet,2008,[Rissne/Ursvik],3195000,-95000,3100000,4313,SkandiaMäklarna,1443.448066829409,Hallonbergen
+2014-11-11,Dammtorps Allé 15,Järvastaden,Blå Solna,2,46,1,Lägenhet,2014,[Järvastaden],2175000,25000,2200000,2936,HusmanHagberg,915.8267168311231,Hallonbergen
+2014-11-11,Fridensborgsvägen 39,Järvastaden,Blå Solna,2,44,3,Lägenhet,2008,[Rissne/Ursvik],1995000,-45000,1950000,2874,Svensk Fastighetsförmedling,1443.448066829409,Hallonbergen
+2014-11-08,Dammtorps Allé 15,Järvastaden,Blå Solna,2,46,2,Lägenhet,2014,[Järvastaden],2150000,80000,2230000,2936,HusmanHagberg,915.8267168311231,Hallonbergen
+2014-11-06,Fridensborgsvägen 30,Järvastaden,Blå Solna,5,114,2,Lägenhet,2012,[Järvastaden],4275000,30000,4305000,5391,Fastighetsbyrån,1488.4556231527265,Hallonbergen
+2014-11-01,Vinthundsgatan 1,Järvastaden,Blå Solna,3,68,2,Lägenhet,2009,[Rissne/Ursvik],2610000,0,2610000,3803,SkandiaMäklarna,624.6209439356396,Hallonbergen
+2014-10-31,Fridensborgsvägen 43,Järvastaden,Blå Solna,3,77,2,Lägenhet,null,[Rissne/Ursvik],2895000,205000,3100000,4233,Svensk Fastighetsförmedling,1369.9069242425219,Hallonbergen
+2014-10-22,Brogatan,Järvastaden,Blå Solna,2,57,2,Lägenhet,null,[Rissne/Ursvik],2395000,80000,2475000,3081,Svensk Fastighetsförmedling,748.7259398406399,Hallonbergen
+2014-10-16,Fridensborgsvägen 36,Järvastaden,Blå Solna,5,112,5,Lägenhet,2011,[Järvastaden],4250000,380000,4630000,5671,Svenska Mäklarhuset,1541.3750122920667,Hallonbergen
+2014-10-08,Fridensborgsvägen 34,Järvastaden,Blå Solna,4,88,6,Lägenhet,null,[Järvastaden],3995000,305000,4300000,4406,Notar,1541.3750122920667,Hallonbergen
+2014-10-06,Järva Skjutbaneväg 45,Järvastaden,Blå Solna,2,43,3,Lägenhet,2014,[Järvastaden],2095000,105000,2200000,2714,HusmanHagberg,1160.3480147195544,Hallonbergen
+2014-10-02,Järva Skjutbaneväg 56,Järvastaden,Blå Solna,3,80,3,Lägenhet,2012,[Järvastaden],2895000,305000,3200000,4167,Notar,1164.4928240050406,Hallonbergen
+2014-10-02,Fridensborgsvägen 42,Järvastaden,Blå Solna,2,40,3,Lägenhet,null,[Järvastaden],2150000,35000,2185000,2630,HusmanHagberg,1474.3912494229849,Hallonbergen
+2014-10-01,Igelbacken 43,Järvastaden,Blå Solna,4,115,null,Radhus,2013,[Rissne/Ursvik],5500000,730000,6230000,null,Svenska Mäklarhuset,1108.787822952017,Hallonbergen
+2014-09-30,Fridensborgsvägen 22,Järvastaden,Blå Solna,4,96,5,Lägenhet,2011,[Järvastaden],3995000,35000,4030000,4701,Notar,1516.875347433293,Hallonbergen
+2014-09-25,Växlarevägen 95,Järvastaden,Blå Solna,4,122.5,null,Lägenhet,1986,[Råstahem],3995000,85000,4080000,5300,Svenska Mäklarhuset,972.2476890984988,Hallonbergen
+2014-09-25,Brotorps Allé 2,Järvastaden,Blå Solna,3,81,null,Lägenhet,2012,[Järvastaden],3000000,0,3000000,3874,Länsförsäkringar Fastighetsförmedling,891.1209246086631,Hallonbergen
+2014-09-18,Fridensborgsvägen 39,Järvastaden,Blå Solna,2,47,3,Lägenhet,2008,[Järvastaden],1995000,305000,2300000,2980,Fastighetsbyrån,1443.448066829409,Hallonbergen
+2014-09-18,Honnörsgatan 22,Järvastaden,Blå Solna,2,57,1,Lägenhet,2007,[Järvastaden],2295000,110000,2405000,2924,Svenska Mäklarhuset,1399.9640460205983,Hallonbergen
+2014-09-12,Enköpingsvägen 11,Järvastaden,Blå Solna,4,92.5,3,Lägenhet,1988,[Norra Frösunda],2695000,45000,2740000,5560,Erik Olsson Fastighetsförmedling,1636.250439432293,Bergshamra
+2014-09-11,Fridensborgsvägen 50,Järvastaden,Blå Solna,3,79,3,Lägenhet,2009,[Rissne/Ursvik],2995000,405000,3400000,3570,Fastighetsmäklarna,1459.1159851222437,Hallonbergen
+2014-09-11,Vinthundsgatan 113,Järvastaden,Blå Solna,2,62,3,Lägenhet,null,[Rissne/Ursvik],2195000,155000,2350000,3185,Svensk Fastighetsförmedling,781.9957788289726,Hallonbergen
+2014-09-11,Vinthundsgatan 1,Järvastaden,Blå Solna,3,82,null,Lägenhet,2009,[Järvastaden],2995000,80000,3075000,4357,HusmanHagberg,624.6209439356396,Hallonbergen
+2014-09-10,Honnörsgatan 24,Järvastaden,Blå Solna,2,65,4,Lägenhet,2008,[Järvastaden],2195000,0,2195000,4633,HusmanHagberg,1382.2019850310107,Hallonbergen
+2014-09-05,Vinthundsgatan 1,Järvastaden,Blå Solna,3,82,3,Lägenhet,2009,[Rissne/Ursvik],2895000,55000,2950000,4357,SkandiaMäklarna,624.6209439356396,Hallonbergen
+2014-09-04,Fridensborgsvägen 31,Järvastaden,Blå Solna,3,81,null,Lägenhet,2009,[Järvastaden],3195000,15000,3210000,4544,Fastighetsbyrån,1446.8476644231987,Hallonbergen
+2014-08-27,Fridensborgsvägen 43,Järvastaden,Blå Solna,2,67,null,Lägenhet,null,[Rissne/Ursvik],2195000,295000,2490000,3882,Mäklarhuset,1369.9069242425219,Hallonbergen
+2014-08-27,Honnörsgatan 17,Järvastaden,Blå Solna,3,84,null,Lägenhet,2007,[Järvastaden],2995000,430000,3425000,3838,Svenska Mäklarhuset,1424.4134027961543,Hallonbergen
+2014-08-27,Fridensborgsvägen 62,Järvastaden,Blå Solna,2,37,2,Lägenhet,2010,[Järvastaden],1995000,35000,2030000,1953,Svenska Mäklarhuset,1527.7497082339894,Hallonbergen
+2014-08-21,Honnörsgatan 18,Järvastaden,Blå Solna,3,71,2,Lägenhet,2008,[Rissne/Ursvik],2495000,-20000,2475000,4486,SkandiaMäklarna,1462.3902345732374,Hallonbergen
+2014-08-19,Honnörsgatan 28,Järvastaden,Blå Solna,4,81.5,3,Lägenhet,2008,[Järvastaden],2895000,0,2895000,5100,Notar,1366.202771513243,Hallonbergen
+2014-08-15,Brotorps Allé 4,Järvastaden,Blå Solna,3,81,3,Lägenhet,2012,[Brotorp],2895000,20000,2915000,3874,Erik Olsson Fastighetsförmedling,878.7895832970731,Hallonbergen
+2014-08-15,Fridensborgsvägen 27,Järvastaden,Blå Solna,4.5,100,2,Lägenhet,2009,[Järvastaden],3795000,305000,4100000,5349,HusmanHagberg,1472.7837745384859,Hallonbergen
+2014-08-15,Fridensborgsvägen 25,Järvastaden,Blå Solna,4,99,5,Lägenhet,2009,[Järvastaden],3650000,100000,3750000,5304,Notar,1489.351108341237,Hallonbergen
+2014-08-14,Fridensborgsvägen 50,Järvastaden,Blå Solna,2,32,4,Lägenhet,null,[Rissne/Ursvik],1795000,215000,2010000,1905,Svensk Fastighetsförmedling,1459.1159851222437,Hallonbergen
+2014-07-31,Dammtorps Allé 14,Järvastaden,Blå Solna,2,48,4,Lägenhet,2013,[Järvastaden],2200000,120000,2320000,2692,Erik Olsson Fastighetsförmedling,1027.5066270319803,Hallonbergen
+2014-07-24,Honnörsgatan 16,Järvastaden,Blå Solna,3,71,2,Lägenhet,2008,[Järvastaden],2275000,375000,2650000,4486,Notar,1449.5181561406343,Hallonbergen
+2014-07-10,Honnörsgatan 14,Järvastaden,Blå Solna,4,94,4,Lägenhet,2008,[Rissne/Ursvik],3395000,100000,3495000,5509,SkandiaMäklarna,1425.2181021216993,Hallonbergen
+2014-06-19,Dammtorps Allé 4,Järvastaden,Blå Solna,2,62,1,Lägenhet,null,[Rissne/Ursvik],2195000,120000,2315000,3361,Svensk Fastighetsförmedling,1056.2938399188479,Hallonbergen
+2014-06-18,Fridensborgsvägen 31,Järvastaden,Blå Solna,4,81,2,Lägenhet,2009,[Järvastaden],3075000,325000,3400000,4544,Notar,1446.8476644231987,Hallonbergen
+2014-06-13,Fridensborgsvägen 31,Järvastaden,Blå Solna,4,81,null,Lägenhet,null,[Rissne/Ursvik],2995000,275000,3270000,4544,Svensk Fastighetsförmedling,1446.8476644231987,Hallonbergen
+2014-06-12,Järva Skjutbaneväg 45,Järvastaden,Blå Solna,2,43,2,Lägenhet,2014,[Järvastaden],1895000,115000,2010000,2934,Notar,1160.3480147195544,Hallonbergen
+2014-06-08,Fridensborgsvägen 37,Järvastaden,Blå Solna,2,50,5,Lägenhet,null,[Rissne/Ursvik],1945000,255000,2200000,3287,Svensk Fastighetsförmedling,1430.1540893072051,Hallonbergen
+2014-06-06,Fridensborgsvägen 22,Järvastaden,Blå Solna,4,100,1,Lägenhet,null,[Rissne/Ursvik],3495000,5000,3500000,4840,Svensk Fastighetsförmedling,1516.875347433293,Hallonbergen
+2014-05-29,Honnörsgatan 21,Järvastaden,Blå Solna,4,109,null,Lägenhet,2007,[Järvastaden],3595000,225000,3820000,4685,Länsförsäkringar Fastighetsförmedling,1380.839168312585,Hallonbergen
+2014-05-27,Mönstringsvägen 10,Järvastaden,Blå Solna,4,96,4,Lägenhet,null,[Järvastaden],3495000,0,3495000,4701,Notar,1366.3290971021124,Hallonbergen
+2014-05-27,Vinthundsgatan 1,Järvastaden,Blå Solna,3,82,2,Lägenhet,2009,[Järvastaden],2795000,125000,2920000,4357,Fastighetsbyrån,624.6209439356396,Hallonbergen
+2014-05-22,Fridensborgsvägen 48,Järvastaden,Blå Solna,2,33,3,Lägenhet,2009,[Järvastaden],1695000,315000,2010000,1937,Magnusson Mäkleri,1458.3312384519454,Hallonbergen
+2014-05-16,Honnörsgatan 23,Järvastaden,Blå Solna,2,57,1,Lägenhet,2008,[Järvastaden],2195000,105000,2300000,2924,Fastighetsbyrån,1383.1814356339603,Hallonbergen
+2014-05-09,Fridensborgsvägen 18,Järvastaden,Blå Solna,4,93,2,Lägenhet,2011,[Järvastaden],3495000,0,3495000,4643,Länsförsäkringar Fastighetsförmedling,1533.537486289684,Hallonbergen
+2014-04-30,Fridensborgsvägen 21,Järvastaden,Blå Solna,5,112,4,Lägenhet,2009,[Järvastaden],3795000,305000,4100000,5884,Erik Olsson Fastighetsförmedling,1484.5904278801902,Hallonbergen
+2014-04-17,Honnörsgatan 5,Järvastaden,Blå Solna,3,75,3,Lägenhet,2007,[Järvastaden],2795000,-45000,2750000,4339,Notar,1318.8966516306486,Hallonbergen
+2014-04-10,Fridensborgsvägen 16,Järvastaden,Blå Solna,2,44,1,Lägenhet,2010,[Järvastaden],1795000,165000,1960000,2695,Notar,1507.2702644411875,Hallonbergen
+2014-04-10,Järva Skjutbaneväg 58,Järvastaden,Blå Solna,4,86,3,Lägenhet,2011,[Järvastaden],3610000,0,3610000,3864,Länsförsäkringar Fastighetsförmedling,1164.4928240050406,Hallonbergen
+2014-04-09,Fridensborgsvägen 25,Järvastaden,Blå Solna,4,100,null,Lägenhet,2009,[Järvastaden],3695000,0,3695000,5349,Fastighetsbyrån,1489.351108341237,Hallonbergen
+2014-04-04,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,41,null,Lägenhet,2010,[Järvastaden],1995000,105000,2100000,2080,Fastighetsbyrån,1514.4307197139578,Hallonbergen
+2014-04-01,Brotorps Allé 3,Järvastaden,Blå Solna,3,86,4,Lägenhet,2012,[Järvastaden],3395000,-95000,3300000,4242,Länsförsäkringar Fastighetsförmedling,846.9871781165847,Hallonbergen
+2014-03-28,Fridensborgsvägen 58,Järvastaden,Blå Solna,4,97,4,Lägenhet,2011,[Järvastaden],3650000,475000,4125000,3880,Notar,1514.4307197139578,Hallonbergen
+2014-03-19,Växlarevägen 97,Järvastaden,Blå Solna,4,122.5,null,Lägenhet,1986,[Järvastaden],3895000,105000,4000000,4900,One Fastighetsmäkleri,979.3730517319765,Hallonbergen
+2014-03-13,Fridensborgsvägen 16,Järvastaden,Blå Solna,4,93,5,Lägenhet,null,[Järvastaden],3495000,270000,3765000,4595,Svensk Fastighetsförmedling,1507.2702644411875,Hallonbergen
+2014-02-24,Vinthundsgatan 3,Järvastaden,Blå Solna,2,33,1,Lägenhet,2009,[Rissne/Ursvik],1495000,0,1495000,2419,SkandiaMäklarna,673.5847967322891,Hallonbergen
+2014-02-20,Fridensborgsvägen 60,Järvastaden,Blå Solna,4,108,null,Lägenhet,null,[Järvastaden],3795000,407000,4202000,4829,Svensk Fastighetsförmedling,1520.957552036669,Hallonbergen
+2014-02-15,Fridensborgsvägen 41,Järvastaden,Blå Solna,4,91,null,Lägenhet,2007,[Järvastaden],3295000,65000,3360000,4527,Falgert FastighetsFörmedling AB,1439.4081864548932,Hallonbergen
+2014-02-12,Järva Skjutbaneväg 50,Järvastaden,Blå Solna,4,99,1,Lägenhet,null,[Järvastaden],3395000,0,3395000,5029,SkandiaMäklarna,1177.6014656944901,Hallonbergen
+2014-02-11,Fridensborgsvägen 46,Järvastaden,Blå Solna,2,32,3,Lägenhet,2009,[Rissne/Ursvik],1595000,105000,1700000,1868,Fastighetsbyrån,1466.541324384958,Hallonbergen
+2014-02-11,Järva Skjutbaneväg 50,Järvastaden,Blå Solna,5,112,4,Lägenhet,2012,[Järvastaden],3850000,0,3850000,5547,Bjurfors,1177.6014656944901,Hallonbergen
+2014-02-06,Honnörsgatan 22,Järvastaden,Blå Solna,2,57,1,Lägenhet,2008,[Järvastaden],1975000,55000,2030000,3136,SkandiaMäklarna,1399.9640460205983,Hallonbergen
+2014-02-05,Fridensborgsvägen 58,Järvastaden,Blå Solna,4,97,2,Lägenhet,2011,[Järvastaden],3395000,335000,3730000,3880,Svensk Fastighetsförmedling,1514.4307197139578,Hallonbergen
+2014-02-05,Fridensborgsvägen 18,Järvastaden,Blå Solna,3,75,null,Lägenhet,2011,[Järvastaden],2595000,125000,2720000,3905,Svenska Mäklarhuset,1533.537486289684,Hallonbergen
+2014-02-04,Dammtorps Allé 12,Järvastaden,Blå Solna,2,48,2,Lägenhet,2014,[Rissne/Ursvik],1995000,105000,2100000,2912,SkandiaMäklarna,936.2955764362608,Hallonbergen
+2014-02-03,Fridensborgsvägen 19,Järvastaden,Blå Solna,3,81,2,Lägenhet,2009,[Järvastaden],2595000,240000,2835000,4545,HusmanHagberg,1494.502581668873,Hallonbergen
+2014-02-01,Järva Skjutbaneväg 60,Järvastaden,Blå Solna,4,87,4,Lägenhet,null,[Järvastaden],3295000,205000,3500000,3688,One Fastighetsmäkleri,1168.539544800501,Hallonbergen
+2014-01-24,Honnörsgatan 3,Järvastaden,Blå Solna,4,89,3,Lägenhet,2007,[Järvastaden],2995000,55000,3050000,4928,Notar,1252.622072305516,Hallonbergen
+2014-01-23,Fridensborgsvägen 25,Järvastaden,Blå Solna,2,64,4,Lägenhet,2009,[Järvastaden],2195000,355000,2550000,3821,HusmanHagberg,1489.351108341237,Hallonbergen
+2014-01-22,Brogatan 16,Järvastaden,Blå Solna,2,47,2,Lägenhet,2009,[Rissne/Ursvik],1695000,125000,1820000,2972,Mäklarhuset,638.7307192381455,Hallonbergen
+2014-01-17,Fridensborgsvägen 21,Järvastaden,Blå Solna,5,112,2,Lägenhet,2009,[Rissne/Ursvik],3645000,155000,3800000,5883,Fastighetsbyrån,1484.5904278801902,Hallonbergen
+2014-01-15,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,42,null,Lägenhet,2010,[Rissne/Ursvik],1950000,300000,2250000,2112,Fastighetsbyrån,1514.4307197139578,Hallonbergen
+2013-12-19,Fridensborgsvägen 42,Järvastaden,Blå Solna,3,66,0.5,Lägenhet,2009,[Järvastaden],2600000,-100000,2500000,2885,Svenska Mäklarhuset,1474.3912494229849,Hallonbergen
+2013-12-14,Fridensborsgsvägen 46,Järvastaden,Blå Solna,2,32,null,Lägenhet,2006,[Järvastaden],1595000,55000,1650000,1868,Svensk Fastighetsförmedling,1467.3030429959667,Hallonbergen
+2013-12-05,Fridensborgsvägen 22,Järvastaden,Blå Solna,5,109,2,Lägenhet,2011,[Järvastaden],3495000,40000,3535000,5217,Bjurfors,1516.875347433293,Hallonbergen
+2013-12-04,Brogatan 16,Järvastaden,Blå Solna,2,34,null,Lägenhet,null,[Rissne/Ursvik],1350000,50000,1400000,2459,Fastighetsbyrån,638.7307192381455,Hallonbergen
+2013-11-28,Honnörsgatan 27,Järvastaden,Blå Solna,4,99,1,Lägenhet,null,[Järvastaden],3095000,235000,3330000,4585,Notar,1366.2675640634159,Hallonbergen
+2013-11-26,Skogsvägen 8,Järvastaden,Blå Solna,5,149,null,Villa,1925,[Rissne/Ursvik],4995000,555000,5550000,null,Fastighetsbyrån,1316.1270638829835,Hallonbergen
+2013-11-17,Honnörsgatan 25,Järvastaden,Blå Solna,2,57,2,Lägenhet,2008,[Rissne/Ursvik],2095000,105000,2200000,2924,Fastighetsbyrån,1383.1814356339603,Hallonbergen
+2013-11-11,Fridensborgsvägen 62,Järvastaden,Blå Solna,2,38,4,Lägenhet,2011,[Rissne/Ursvik],1795000,130000,1925000,1985,Fastighetsbyrån,1527.7497082339894,Hallonbergen
+2013-11-01,Järva Skjutbaneväg 62,Järvastaden,Blå Solna,3,80,3,Lägenhet,2011,[Järvastaden],2850000,130000,2980000,3449,Erik Olsson Fastighetsförmedling,1164.4928240050406,Hallonbergen
+2013-10-25,Fridensborgsvägen 58,Järvastaden,Blå Solna,3,60,null,Lägenhet,2011,[Rissne/Ursvik],2295000,305000,2600000,2691,Fastighetsbyrån,1514.4307197139578,Hallonbergen
+2013-10-25,Honnörsgatan 24,Järvastaden,Blå Solna,5,116.5,2,Lägenhet,2008,[Järvastaden],3495000,305000,3800000,6477,Notar,1382.2019850310107,Hallonbergen
+2013-10-24,Honnörsgatan 14,Järvastaden,Blå Solna,3,71,3,Lägenhet,2008,[Järvastaden],2275000,10000,2285000,4486,Notar,1425.2181021216993,Hallonbergen
+2013-10-23,Honnörsgatan 28,Järvastaden,Blå Solna,2,60,2,Lägenhet,2008,[Järvastaden],1995000,0,1995000,4092,Svenska Mäklarhuset,1366.202771513243,Hallonbergen
+2013-10-21,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,37,null,Lägenhet,2011,[Rissne/Ursvik],1695000,105000,1800000,1953,Fastighetsbyrån,1514.4307197139578,Hallonbergen
+2013-10-16,Vinthundsgatan 111,Järvastaden,Blå Solna,2,57,1,Lägenhet,2012,[Järvastaden],1495000,30000,1525000,3028,Notar,822.980622388879,Hallonbergen
+2013-10-15,Fridensborgsvägen 48,Järvastaden,Blå Solna,4,92,null,Lägenhet,2009,[Järvastaden],3345000,0,3345000,3662,Svensk Fastighetsförmedling,1458.3312384519454,Hallonbergen
+2013-10-14,Vinthundsgatan 113,Järvastaden,Blå Solna,2,45,3,Lägenhet,2012,[Rissne/Ursvik],1695000,205000,1900000,2781,Erik Olsson Fastighetsförmedling,781.9957788289726,Hallonbergen
+2013-10-11,Fridensborgsvägen 56,Järvastaden,Blå Solna,4,97,null,Lägenhet,2009,[Järvastaden],3895000,-60000,3835000,3813,Svenska Mäklarhuset,1484.879789658192,Hallonbergen
+2013-10-10,Fridensborgsvägen 60,Järvastaden,Blå Solna,4,108,null,Lägenhet,2011,[Rissne/Ursvik],3750000,350000,4100000,4234,Hemverket,1520.957552036669,Hallonbergen
+2013-10-10,Honnörsgatan 17,Järvastaden,Blå Solna,4,99,3,Lägenhet,2008,[Järvastaden],3195000,55000,3250000,5831,Notar,1424.4134027961543,Hallonbergen
+2013-10-02,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,38,null,Lägenhet,2011,[Järvastaden],1695000,165000,1860000,1985,Mäklarringen,1514.4307197139578,Hallonbergen
+2013-10-01,Fridensborgsvägen 39,Järvastaden,Blå Solna,2,47,4,Lägenhet,null,[Järvastaden],1795000,55000,1850000,2980,Svensk Fastighetsförmedling,1443.448066829409,Hallonbergen
+2013-09-19,Fridensborgsvägen 25,Järvastaden,Blå Solna,2,70,null,Lägenhet,2009,[Rissne/Ursvik],2100000,100000,2200000,3967,Fastighetsbyrån,1489.351108341237,Hallonbergen
+2013-09-19,Honnörsgatan 25,Järvastaden,Blå Solna,2,57,null,Lägenhet,2008,[Rissne/Ursvik],1895000,155000,2050000,3898,Fastighetsbyrån,1383.1814356339603,Hallonbergen
+2013-09-18,Honnörsgatan 3,Järvastaden,Blå Solna,4,89,null,Lägenhet,2007,[Rissne/Ursvik],2995000,5000,3000000,4928,Fastighetsbyrån,1252.622072305516,Hallonbergen
+2013-09-17,Fridensborgsvägen 56,Järvastaden,Blå Solna,4,98,null,Lägenhet,2009,[Rissne/Ursvik],3695000,165000,3860000,4073,Fastighetsbyrån,1484.879789658192,Hallonbergen
+2013-09-12,Fridensborgsvägen 37,Järvastaden,Blå Solna,2,45,2,Lägenhet,2008,[Rissne/Ursvik],1695000,275000,1970000,2910,Mäklarhuset,1430.1540893072051,Hallonbergen
+2013-09-12,Brotorpsvägen 9,Järvastaden,Blå Solna,2,64,2,Lägenhet,2012,[Rissne/Ursvik],2295000,0,2295000,3757,SkandiaMäklarna,787.1555616995754,Hallonbergen
+2013-09-11,Honnörsgatan 3,Järvastaden,Blå Solna,4,75,null,Lägenhet,2007,[Rissne/Ursvik],2695000,115000,2810000,4339,Fastighetsbyrån,1252.622072305516,Hallonbergen
+2013-09-02,Fridensborgsvägen 19,Järvastaden,Blå Solna,2,53,1,Lägenhet,2009,[Järvastaden],1795000,180000,1975000,3331,Svensk Fastighetsförmedling,1494.502581668873,Hallonbergen
+2013-08-19,Fridensborgsvägen 36,Järvastaden,Blå Solna,4,92,2,Lägenhet,null,[Rissne/Ursvik],3250000,50000,3300000,4678,Mäklarhuset,1541.3750122920667,Hallonbergen
+2013-08-16,Honnörsgatan 27,Järvastaden,Blå Solna,4,99,null,Lägenhet,2008,[Rissne/Ursvik],3100000,50000,3150000,5869,Fastighetsbyrån,1366.2675640634159,Hallonbergen
+2013-07-09,Brotorpsvägen 9,Järvastaden,Blå Solna,2,56,null,Lägenhet,2012,[Järvastaden],2095000,0,2095000,3489,Notar,787.1555616995754,Hallonbergen
+2013-07-05,Honnörsgatan 25,Järvastaden,Blå Solna,3,84,null,Lägenhet,2008,[Järvastaden],2650000,0,2650000,5116,Notar,1383.1814356339603,Hallonbergen
+2013-06-26,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,38,5,Lägenhet,null,[Järvastaden],1875000,25000,1900000,1985,Svensk Fastighetsförmedling,1514.4307197139578,Hallonbergen
+2013-06-16,Fridensborgsvägen 50,Järvastaden,Blå Solna,3,79,null,Lägenhet,2009,[Rissne/Ursvik],2995000,205000,3200000,3465,Fastighetsbyrån,1459.1159851222437,Hallonbergen
+2013-06-11,Fridensborgsvägen 39,Järvastaden,Blå Solna,2,47,5,Lägenhet,2008,[Järvastaden],1845000,175000,2020000,2980,Svensk Fastighetsförmedling,1443.448066829409,Hallonbergen
+2013-05-25,Fridensborgsvägen 62,Järvastaden,Blå Solna,3,60,4,Lägenhet,null,[Järvastaden],2395000,110000,2505000,2900,SkandiaMäklarna,1527.7497082339894,Hallonbergen
+2013-05-24,Honnörsgatan 22,Järvastaden,Blå Solna,3,88,null,Lägenhet,2008,[Solna Järvastaden],2995000,610000,3605000,5285,Mäklarringen,1399.9640460205983,Hallonbergen
+2013-05-16,Brogatan 18,Järvastaden,Blå Solna,2,33,null,Lägenhet,null,[Järvastaden],1375000,25000,1400000,2229,Erik Olsson Fastighetsförmedling,634.8696916371646,Hallonbergen
+2013-05-16,Honnörsgatan 28,Järvastaden,Blå Solna,3,75,null,Lägenhet,2008,[Järvastaden],2395000,330000,2725000,4726,Bjurfors,1366.202771513243,Hallonbergen
+2013-05-14,Honnörsgatan 19,Järvastaden,Blå Solna,4,106,4,Lägenhet,2007,[Järvastaden],3695000,105000,3800000,6120,Svenska Mäklarhuset,1406.994399328809,Hallonbergen
+2013-05-10,Fridensborgsvägen 37,Järvastaden,Blå Solna,2,50,4,Lägenhet,2008,[Järvastaden],1950000,205000,2155000,3087,Svensk Fastighetsförmedling,1430.1540893072051,Hallonbergen
+2013-04-27,Fridensborgsvägen 50,Järvastaden,Blå Solna,3,75,5,Lägenhet,2009,[Järvastaden],2995000,-15000,2980000,3395,Svenska Mäklarhuset,1459.1159851222437,Hallonbergen
+2013-04-13,Fågelhundsgatan 18,Järvastaden,Blå Solna,2.5,59,null,Lägenhet,2012,[Östermalm],2995000,-50000,2945000,3676,Notar,997.0340312530815,Hallonbergen
+2013-04-12,Fridensborgsvägen 36,Järvastaden,Blå Solna,3,65,5,Lägenhet,2011,[Järvastaden],2095000,340000,2435000,3478,Svensk Fastighetsförmedling,1541.3750122920667,Hallonbergen
+2013-04-12,Brotorpsvägen 3,Järvastaden,Blå Solna,2,56,4,Lägenhet,2012,[Järvastaden],2095000,0,2095000,3269,SkandiaMäklarna,796.0291341131458,Hallonbergen
+2013-03-27,Honnörsgatan 17,Järvastaden,Blå Solna,4,99,null,Lägenhet,null,[Solna Järvastaden],3195000,-95000,3100000,5831,Mäklarringen,1424.4134027961543,Hallonbergen
+2013-03-14,Honnörsgatan 21,Järvastaden,Blå Solna,3,84,null,Lägenhet,null,[Solna Järvastaden],2750000,-110000,2640000,5116,Mäklarringen,1380.839168312585,Hallonbergen
+2013-03-13,Fridensborgsvägen 19,Järvastaden,Blå Solna,3,81,3,Lägenhet,2009,[Järvastaden],2550000,-50000,2500000,4455,Svenska Mäklarhuset,1494.502581668873,Hallonbergen
+2013-03-02,Fridensborgsvägen 48,Järvastaden,Blå Solna,4,94,1,Lägenhet,2009,[Järvastaden],3295000,35000,3330000,3914,Svenska Mäklarhuset,1458.3312384519454,Hallonbergen
+2013-02-28,Mönstringsvägen 10,Järvastaden,Blå Solna,2,42,null,Lägenhet,2007,[Rissne/Ursvik],1650000,-100000,1550000,3343,Fastighetsbyrån,1366.3290971021124,Hallonbergen
+2013-02-22,Gunnarbovägen 130,Järvastaden,Blå Solna,5,131,null,Radhus,null,[Järvastaden],5400000,0,5400000,null,Susanne Persson Fastighetsförmedling AB,1104.7443910560862,Hallonbergen
+2013-02-20,Fridensborgsvägen 58,Järvastaden,Blå Solna,3,83,null,Lägenhet,2011,[Järvastaden],2595000,-95000,2500000,3431,Svensk Fastighetsförmedling,1514.4307197139578,Hallonbergen
+2013-02-14,Honnörsgatan 28,Järvastaden,Blå Solna,3,77,4,Lägenhet,2008,[Järvastaden],2395000,0,2395000,4810,Svenska Mäklarhuset,1366.202771513243,Hallonbergen
+2013-02-14,Fridensborgsvägen 36,Järvastaden,Blå Solna,3,65,3,Lägenhet,2011,[Rissne/Ursvik],2375000,0,2375000,3698,Länsförsäkringar Fastighetsförmedling,1541.3750122920667,Hallonbergen
+2013-02-06,Honnörsgatan 23,Järvastaden,Blå Solna,3,84,null,Lägenhet,null,[Järvastaden],2495000,0,2495000,5116,Susanne Persson Fastighetsförmedling AB,1383.1814356339603,Hallonbergen
+2013-02-02,Dammtorps Allé 2,Järvastaden,Blå Solna,2,43,null,Lägenhet,2012,[Järvastaden],1595000,10000,1605000,2948,Svensk Fastighetsförmedling,1095.1336915645345,Hallonbergen
+2013-01-31,Vinthundsgatan 3,Järvastaden,Blå Solna,2,34,null,Lägenhet,2008,[Järvastaden],1395000,-95000,1300000,2459,Notar,673.5847967322891,Hallonbergen
+2013-01-19,Honnörsgatan 1,Järvastaden,Blå Solna,4,75,3,Lägenhet,null,[Järvastaden],2595000,55000,2650000,4139,Erik Olsson Fastighetsförmedling,1295.0697498324998,Hallonbergen
+2013-01-17,Vinthundsgatan 115,Järvastaden,Blå Solna,2,57,null,Lägenhet,2012,[Rissne/Ursvik],1495000,115000,1610000,3238,Fastighetsbyrån,708.8891979222727,Hallonbergen
+2012-12-19,Fridensborgsvägen 62,Järvastaden,Blå Solna,2,38,3,Lägenhet,2010,[Järvastaden],1690000,0,1690000,1985,Svenska Mäklarhuset,1527.7497082339894,Hallonbergen
+2012-12-10,Honnörsgatan 24,Järvastaden,Blå Solna,5,126,3,Lägenhet,2008,[Järvastaden],3690000,-290000,3400000,6743,Svenska Mäklarhuset,1382.2019850310107,Hallonbergen
+2012-12-06,Fridensborgsvägen 37,Järvastaden,Blå Solna,2,45,null,Lägenhet,2008,[Järvastaden],1695000,55000,1750000,2910,Notar,1430.1540893072051,Hallonbergen
+2012-11-13,Fridensborgsvägen 25,Järvastaden,Blå Solna,2,64,2,Lägenhet,2009,[Järvastaden],2099000,-74000,2025000,3746,SkandiaMäklarna,1489.351108341237,Hallonbergen
+2012-11-12,Stövarvägen 12,Järvastaden,Blå Solna,7,191,null,Kedjehus,null,[Järvastaden],6350000,0,6350000,2500,Susanne Persson Fastighetsförmedling AB,870.1535963371273,Hallonbergen
+2012-11-08,Fridensborgsvägen 48,Järvastaden,Blå Solna,4,92,null,Lägenhet,2009,[Järvastaden],3350000,-50000,3300000,3591,Notar,1458.3312384519454,Hallonbergen
+2012-11-01,Fridensborgsvägen 25,Järvastaden,Blå Solna,2,75,4,Lägenhet,2009,[Järvastaden],2095000,5000,2100000,4156,Svensk Fastighetsförmedling,1489.351108341237,Hallonbergen
+2012-11-01,Fridensborgsvägen 46,Järvastaden,Blå Solna,3,78,null,Lägenhet,2009,[Rissne/Ursvik],2760000,-40000,2720000,3248,Fastighetsbyrån,1466.541324384958,Hallonbergen
+2012-10-25,Fridensborgsvägen 37,Järvastaden,Blå Solna,2,64,4,Lägenhet,2009,[Järvastaden],2295000,55000,2350000,3578,SkandiaMäklarna,1430.1540893072051,Hallonbergen
+2012-10-24,Fågelhundsvägen 20,Järvastaden,Blå Solna,6,184,null,Radhus,2008,[Järvastaden],6495000,-220000,6275000,null,SkandiaMäklarna,979.2929913114762,Hallonbergen
+2012-10-22,Fågelhundsvägen 20,Järvastaden,Blå Solna,6,184,null,Radhus,2008,[Järvastaden],6495000,-370000,6125000,null,SkandiaMäklarna,979.2929913114762,Hallonbergen
+2012-10-18,Honnörsgatan 21,Järvastaden,Blå Solna,3,84,null,Lägenhet,2008,[Järvastaden],2595000,-95000,2500000,5116,Notar,1380.839168312585,Hallonbergen
+2012-10-13,Fridensborgsvägen 48,Järvastaden,Blå Solna,2,33,null,Lägenhet,2009,[Järvastaden],1595000,-50000,1545000,1861,Notar,1458.3312384519454,Hallonbergen
+2012-10-07,Fridensborgsvägen 58,Järvastaden,Blå Solna,2,42,null,Lägenhet,null,[Rissne/Ursvik],1700000,30000,1730000,2622,Fastighetsbyrån,1514.4307197139578,Hallonbergen

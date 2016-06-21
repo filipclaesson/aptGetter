@@ -1,0 +1,176 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-04-29,Helgagatan 36F,helgalunden,Södermalm,2.5,52,null,Lägenhet,1926,[Södermalm Katarina],3750000,850000,4600000,2515,HusmanHagberg,398.7853086550069,Skanstull
+2016-04-27,Hallandsgatan 50A,helgalunden,Södermalm,1,30,3,Lägenhet,1927,[Katarina],2195000,765000,2960000,1703,Fastighetsbyrån,331.3678478732261,Medborgarplatsen
+2016-04-20,Hallandsgatan 50A,helgalunden,Södermalm,1,27,3,Lägenhet,1927,[Katarina],1995000,905000,2900000,1608,Fastighetsbyrån,331.3678478732261,Medborgarplatsen
+2016-04-20,Helgagatan 36D,helgalunden,Södermalm,1,38.5,2,Lägenhet,1926,[Katarina],2495000,805000,3300000,2095,Svensk Fastighetsförmedling,351.2577160505461,Skanstull
+2016-04-19,Helgagatan 36D,helgalunden,Södermalm,2,64,1.5,Lägenhet,1926,[Södermalm-Katarina],4375000,1035000,5410000,3458,Södermäklarna,351.2577160505461,Skanstull
+2016-04-15,Helgalunden 7,helgalunden,Södermalm,1,38,2,Lägenhet,null,[Södermalm Maria],2500000,700000,3200000,2710,Bjurfors,408.4105538034487,Skanstull
+2016-04-08,Älvsborgsgatan 3,helgalunden,Södermalm,2,61,1,Lägenhet,1931,[Södermalm],4450000,650000,5100000,2892,Södermäklarna,196.66732084064907,Skanstull
+2016-04-01,Helgagatan 36G,helgalunden,Södermalm,1,29,3,Lägenhet,1926,[Katarina],2295000,680000,2975000,1522,Notar,411.565649115533,Skanstull
+2016-03-28,Helgagatan 36K,helgalunden,Södermalm,1,35,3,Lägenhet,1929,[Katarina],2495000,455000,2950000,1832,Fastighetsbyrån,345.30513296662537,Skanstull
+2016-03-23,Tjurbergsgatan 34,helgalunden,Södermalm,1,39,2.5,Lägenhet,1926,[Södermalm],2750000,835000,3585000,2171,Erik Olsson Fastighetsförmedling,362.6641624561593,Medborgarplatsen
+2016-03-23,Helgagatan 36F,helgalunden,Södermalm,2,52,1,Lägenhet,1926,[Södermalm-Katarina],3575000,1050000,4625000,2569,Södermäklarna,398.7853086550069,Skanstull
+2016-03-15,Tjurbergsgatan 38,helgalunden,Södermalm,2,39,5,Lägenhet,1926,[Södermalm],2750000,650000,3400000,2117,Erik Olsson Fastighetsförmedling,343.3428390937372,Skanstull
+2016-03-05,Hallandsgatan 34,helgalunden,Södermalm,2,78,3,Lägenhet,1929,[Södermalm],5495000,880000,6375000,3300,Fastighetsmäklarna,443.63171915960675,Medborgarplatsen
+2016-02-27,Helgagatan 36P,helgalunden,Södermalm,2,76,3,Lägenhet,1927,[Södermalm],5500000,1100000,6600000,3979,Länsförsäkringar Fastighetsförmedling,350.02453978469697,Skanstull
+2016-02-25,Hallandsgatan 34,helgalunden,Södermalm,1,40,1,Lägenhet,1929,[Katarina],2795000,0,2795000,2158,Fastighetsbyrån,443.63171915960675,Medborgarplatsen
+2016-02-23,Blekingegatan 31,helgalunden,Södermalm,1,30,1,Lägenhet,1927,[Södermalm],2275000,735000,3010000,1550,Edward & Partners Fastighetsmäklare AB,343.3699714588021,Skanstull
+2016-02-19,Älvsborgsgatan 3,helgalunden,Södermalm,4,99,3,Lägenhet,1931,[Södermalm],7775000,1475000,9250000,3942,ERA,196.66732084064907,Skanstull
+2016-01-27,Tjurbergsgatan 32,helgalunden,Södermalm,2,70,4,Lägenhet,1926,[Södermalm Katarina],5650000,1500000,7150000,2980,Bjurfors,345.7381348319249,Medborgarplatsen
+2016-01-14,Älvsborgsgatan 1,helgalunden,Södermalm,1,35,0,Lägenhet,1931,[Södermalm],2475000,350000,2825000,1961,Erik Olsson Fastighetsförmedling,223.7050794766549,Skanstull
+2016-01-12,Hallandsgatan 46,helgalunden,Södermalm,1,26,3,Lägenhet,1927,[Södermalm],1995000,905000,2900000,1591,Södermäklarna,364.8863108738122,Medborgarplatsen
+2015-12-09,Tjurbergsgatan 36,helgalunden,Södermalm,2,38,3,Lägenhet,1927,[Södermalm],2995000,755000,3750000,2209,Edward & Partners Fastighetsmäklare AB,356.99890484570585,Skanstull
+2015-11-26,Helgagatan 36H,helgalunden,Södermalm,1,43,1,Lägenhet,1927,[Katarina],2850000,560000,3410000,2252,Fastighetsbyrån,398.7853086550069,Skanstull
+2015-11-21,Helgalunden 3,helgalunden,Södermalm,2,65,4,Lägenhet,1922,[Södermalm-Katarina],4475000,1275000,5750000,4636,Södermäklarna,423.85630741208917,Skanstull
+2015-11-02,Tjurbergsgatan 34,helgalunden,Södermalm,2,38,2,Lägenhet,1927,[Södermalm],2850000,690000,3540000,2209,Hemverket,362.6641624561593,Medborgarplatsen
+2015-11-02,Hallandsgatan 48,helgalunden,Södermalm,1.5,47,2,Lägenhet,1928,[Södermalm Katarina],3495000,225000,3720000,2696,HusmanHagberg,336.6531995737247,Medborgarplatsen
+2015-10-16,Helgalunden 9,helgalunden,Södermalm,2,58,2,Lägenhet,1922,[Katarina],3850000,1010000,4860000,4137,Fastighetsbyrån,405.170148798801,Skanstull
+2015-10-13,Tjurbergsgatan 36,helgalunden,Södermalm,2,39.5,null,Lägenhet,1927,[Södermalm],2850000,850000,3700000,2305,SkandiaMäklarna,356.99890484570585,Skanstull
+2015-10-08,Helgalunden 5,helgalunden,Södermalm,2,57,2,Lägenhet,1922,[Södermalm-Katarina],3850000,1200000,5050000,4065,Södermäklarna,414.1822107230786,Skanstull
+2015-09-25,Hallandsgatan 46,helgalunden,Södermalm,1,39,1,Lägenhet,1927,[Katarina],2495000,875000,3370000,2259,Fastighetsbyrån,364.8863108738122,Medborgarplatsen
+2015-09-16,Tjurbergsgatan 36,helgalunden,Södermalm,1,38,3,Lägenhet,1926,[Södermalm],2650000,710000,3360000,2209,Svenska Mäklargruppen,356.99890484570585,Skanstull
+2015-09-15,Älvsborgsgatan 1,helgalunden,Södermalm,1.5,39,2,Lägenhet,1931,[Södermalm Katarina],2650000,1010000,3660000,2003,HusmanHagberg,223.7050794766549,Skanstull
+2015-09-09,Älvsborgsgatan 1,helgalunden,Södermalm,1,40,3,Lägenhet,1931,[Södermalm Katarina],2790000,1110000,3900000,2115,HusmanHagberg,223.7050794766549,Skanstull
+2015-08-26,Hallandsgatan 48,helgalunden,Södermalm,2,47,3,Lägenhet,1928,[Södermalm Katarina],3275000,975000,4250000,2750,HusmanHagberg,336.6531995737247,Medborgarplatsen
+2015-08-19,Helgalunden 11,helgalunden,Södermalm,3,72,5,Lägenhet,1926,[Södermalm Maria],6000000,2230000,8230000,3157,Bjurfors,385.6933045376984,Skanstull
+2015-08-14,Helgagatan 36C,helgalunden,Södermalm,1,28,1,Lägenhet,1926,[Södermalm],1995000,525000,2520000,1421,Notar,355.97475913384517,Skanstull
+2015-08-07,Hallandsgatan 50A,helgalunden,Södermalm,1,33,5,Lägenhet,1927,[Södermalm Katarina],2390000,725000,3115000,1967,HusmanHagberg,331.3678478732261,Medborgarplatsen
+2015-07-29,Hallandsgatan 48,helgalunden,Södermalm,1,21,2,Lägenhet,1928,[Katarina],1795000,725000,2520000,1554,Fastighetsbyrån,336.6531995737247,Medborgarplatsen
+2015-06-23,Tjurbergsgatan 34,helgalunden,Södermalm,1,39,2.5,Lägenhet,1926,[Södermalm],2650000,535000,3185000,2171,Erik Olsson Fastighetsförmedling,362.6641624561593,Medborgarplatsen
+2015-06-18,Helgagatan 36,helgalunden,Södermalm,1,23,0,Lägenhet,1927,[Södermalm],1950000,480000,2430000,1206,Svensk Fastighetsförmedling,351.2577160505461,Skanstull
+2015-06-04,Blekingegatan 31B,helgalunden,Södermalm,1,39,2,Lägenhet,1929,[Södermalm],2695000,385000,3080000,2258,Classic Home Fastighetsmäkleri,347.0944437670671,Skanstull
+2015-06-03,Helgalunden 13,helgalunden,Södermalm,1,38,1,Lägenhet,1927,[Södermalm],2495000,715000,3210000,2201,Innerstadsspecialisten AB,362.6824471902943,Skanstull
+2015-06-03,Blekingegatan 31,helgalunden,Södermalm,2,40,3,Lägenhet,1927,[Södermalm],2750000,450000,3200000,2270,Svensk Fastighetsförmedling,343.3699714588021,Skanstull
+2015-05-27,Helgagatan 36F,helgalunden,Södermalm,2,58,2,Lägenhet,1926,[Södermalm],3650000,875000,4525000,3037,Erik Olsson Fastighetsförmedling,398.7853086550069,Skanstull
+2015-05-21,Helgalunden 17,helgalunden,Södermalm,2.5,79,4,Lägenhet,1930,[Södermalm],5995000,955000,6950000,4693,Svensk Fastighetsförmedling,312.09951783866865,Skanstull
+2015-05-15,Tjurbergsgatan 38,helgalunden,Södermalm,2,66,2,Lägenhet,null,[Södermalm],3795000,625000,4420000,3782,Svenska Mäklarhuset,343.3428390937372,Skanstull
+2015-05-08,Älvsborgsgatan 1,helgalunden,Södermalm,1.5,43,0.5,Lägenhet,1931,[Södermalm],2600000,260000,2860000,2123,SkandiaMäklarna,223.7050794766549,Skanstull
+2015-05-08,Hallandsgatan 46,helgalunden,Södermalm,1,26,1,Lägenhet,1927,[Södermalm],2750000,0,2750000,1588,BOSTHLM,364.8863108738122,Medborgarplatsen
+2015-05-07,Hallandsgatan 50B,helgalunden,Södermalm,1,38,null,Lägenhet,1926,[Södermalm Katarina],2450000,370000,2820000,2171,Bjurfors,325.7063656157118,Medborgarplatsen
+2015-05-06,Hallandsgatan 50B,helgalunden,Södermalm,1,27,3,Lägenhet,1927,[Södermalm-Katarina],2195000,405000,2600000,1608,Södermäklarna,325.7063656157118,Medborgarplatsen
+2015-04-29,Helgagatan 36B,helgalunden,Södermalm,1,38,3,Lägenhet,1929,[Södermalm Katarina],2495000,865000,3360000,2044,HusmanHagberg,345.1936780882953,Skanstull
+2015-04-29,Hallandsgatan 46A,helgalunden,Södermalm,2,42,1.5,Lägenhet,null,[Södermalm],3800000,0,3800000,2387,BOSTHLM,365.2168717283126,Medborgarplatsen
+2015-04-26,Helgagatan 36P,helgalunden,Södermalm,4,114,2,Lägenhet,1927,[Södermalm],7900000,1300000,9200000,6446,ERA,350.02453978469697,Skanstull
+2015-04-23,Helgalunden 17,helgalunden,Södermalm,2,47,1,Lägenhet,1930,[Katarina],3495000,105000,3600000,2941,Fastighetsbyrån,312.09951783866865,Skanstull
+2015-04-17,Helgagatan 36A,helgalunden,Södermalm,1,37,3,Lägenhet,1927,[Södermalm],2495000,555000,3050000,null,Svensk Fastighetsförmedling,352.76570806443544,Skanstull
+2015-04-15,Helgalunden 17,helgalunden,Södermalm,1,36,2,Lägenhet,1930,[Södermalm],2495000,755000,3250000,2073,Svensk Fastighetsförmedling,312.09951783866865,Skanstull
+2015-04-01,Tjurbergsgatan 36,helgalunden,Södermalm,1,38,5,Lägenhet,1929,[Södermalm],2695000,675000,3370000,2173,Mäklarhuset,356.99890484570585,Skanstull
+2015-03-24,Helgagatan 36I,helgalunden,Södermalm,1,38,3,Lägenhet,1927,[Södermalm],2495000,605000,3100000,2095,Svensk Fastighetsförmedling,408.21107513068483,Skanstull
+2015-03-10,Hallandsgatan 48,helgalunden,Södermalm,2,47,2,Lägenhet,1928,[Södermalm],3195000,1055000,4250000,2695,SkandiaMäklarna,336.6531995737247,Medborgarplatsen
+2015-03-04,Älvsborgsgatan 3,helgalunden,Södermalm,2,50,1.5,Lägenhet,null,[Katarina],3295000,380000,3675000,2286,Fastighetsbyrån,196.66732084064907,Skanstull
+2015-02-14,Blekingegatan 31B,helgalunden,Södermalm,1,42.5,2,Lägenhet,1927,[Södermalm],2700000,460000,3160000,2362,Mäklarhuset,347.0944437670671,Skanstull
+2015-02-11,Hallandsgatan 32,helgalunden,Södermalm,1,25,1.5,Lägenhet,1927,[Södermalm],2390000,0,2390000,1255,SkandiaMäklarna,460.47756756221065,Medborgarplatsen
+2015-02-10,Helgagatan 36C,helgalunden,Södermalm,1,29,2,Lägenhet,1926,[Södermalm],2095000,575000,2670000,1421,Notar,355.97475913384517,Skanstull
+2015-02-04,Hallandsgatan 48,helgalunden,Södermalm,2,46,2,Lägenhet,1928,[Södermalm],2995000,605000,3600000,2655,SkandiaMäklarna,336.6531995737247,Medborgarplatsen
+2015-02-04,Hallandsgatan 32,helgalunden,Södermalm,2,68,4,Lägenhet,1927,[Katarina],3995000,930000,4925000,3363,Fastighetsbyrån,460.47756756221065,Medborgarplatsen
+2015-01-08,Tjurbergsgatan 34,helgalunden,Södermalm,1,26,4,Lägenhet,1927,[Södermalm],1850000,380000,2230000,1482,Notar,362.6641624561593,Medborgarplatsen
+2014-12-09,Hallandsgatan 50,helgalunden,Södermalm,1,34,3,Lägenhet,1927,[Södermalm Katarina],2495000,415000,2910000,2062,HusmanHagberg,326.01518436887943,Medborgarplatsen
+2014-11-28,Hallandsgatan 46,helgalunden,Södermalm,1,33,2,Lägenhet,1927,[Södermalm],2570000,0,2570000,1933,Mäklarhuset,364.8863108738122,Medborgarplatsen
+2014-11-27,Tjurbergsgatan 32,helgalunden,Södermalm,2,61,2,Lägenhet,1926,[Katarina],3895000,55000,3950000,2833,Fastighetsbyrån,345.7381348319249,Medborgarplatsen
+2014-11-26,Tjurbergsgatan 34,helgalunden,Södermalm,1,38,0.5,Lägenhet,1927,[Södermalm],2495000,55000,2550000,2064,Svensk Fastighetsförmedling,362.6641624561593,Medborgarplatsen
+2014-11-26,Hallandsgatan 46,helgalunden,Södermalm,1,39,3,Lägenhet,1927,[Södermalm Katarina],2495000,525000,3020000,2259,Bjurfors,364.8863108738122,Medborgarplatsen
+2014-11-26,Helgalunden 5,helgalunden,Södermalm,2,58,2,Lägenhet,1922,[Södermalm],3450000,350000,3800000,4137,Erik Olsson Fastighetsförmedling,414.1822107230786,Skanstull
+2014-11-18,Älvsborgsgatan 3,helgalunden,Södermalm,4,100,2,Lägenhet,1931,[Södermalm Katarina],6995000,-395000,6600000,3756,Bjurfors,196.66732084064907,Skanstull
+2014-11-06,Hallandsgatan 34,helgalunden,Södermalm,2,65,2,Lägenhet,1927,[Södermalm-Katarina],3975000,585000,4560000,2754,Södermäklarna,443.63171915960675,Medborgarplatsen
+2014-11-05,Tjurbergsgatan 38,helgalunden,Södermalm,1,39,3,Lägenhet,null,[Södermalm],2495000,205000,2700000,2117,Svensk Fastighetsförmedling,343.3428390937372,Skanstull
+2014-11-01,Blekingegatan 31,helgalunden,Södermalm,1,39,4,Lägenhet,1927,[Södermalm],2495000,265000,2760000,2258,Vision Fastighetsmäkleri AB,343.3699714588021,Skanstull
+2014-10-28,Älvsborgsgatan 1,helgalunden,Södermalm,3.5,112,2,Lägenhet,1931,[Södermalm],7295000,355000,7650000,4317,Erik Olsson Fastighetsförmedling,223.7050794766549,Skanstull
+2014-10-22,Helgalunden 11,helgalunden,Södermalm,3,72,null,Lägenhet,1926,[Södermalm],4690000,2010000,6700000,2950,Erik Olsson Fastighetsförmedling,385.6933045376984,Skanstull
+2014-10-02,Helgagatan 36D,helgalunden,Södermalm,2.5,64,2,Lägenhet,1927,[Södermalm Katarina],3990000,725000,4715000,3357,HusmanHagberg,351.2577160505461,Skanstull
+2014-10-02,Helgalunden 5,helgalunden,Södermalm,3,93,3,Lägenhet,1922,[Södermalm],5975000,0,5975000,6776,Erik Olsson Fastighetsförmedling,414.1822107230786,Skanstull
+2014-10-01,Helgagatan 36,helgalunden,Södermalm,2,41,2,Lägenhet,1927,[Södermalm],2750000,700000,3450000,2240,Svenska Mäklarhuset,351.2577160505461,Skanstull
+2014-09-19,Hallandsgatan 46,helgalunden,Södermalm,1,29,1,Lägenhet,1927,[Södermalm],2250000,70000,2320000,1715,Bostadsrättsspecialisten,364.8863108738122,Medborgarplatsen
+2014-09-10,Tjurbergsgatan 38,helgalunden,Södermalm,2,42,4,Lägenhet,1927,[Södermalm],2500000,800000,3300000,2277,Erik Olsson Fastighetsförmedling,343.3428390937372,Skanstull
+2014-09-08,Helgagatan 36,helgalunden,Södermalm,1.5,39,3,Lägenhet,null,[Södermalm],2695000,410000,3105000,2043,Svensk Fastighetsförmedling,351.2577160505461,Skanstull
+2014-09-04,Helgalunden 7,helgalunden,Södermalm,2,57,1,Lägenhet,1921,[Södermalm],3495000,300000,3795000,4065,BOSTHLM,408.4105538034487,Skanstull
+2014-09-03,Tjurbergsgatan 32,helgalunden,Södermalm,1.5,40,1.5,Lägenhet,1926,[Katarina],2495000,270000,2765000,1849,Notar,345.7381348319249,Medborgarplatsen
+2014-09-03,Helgagatan 30,helgalunden,Södermalm,2,65,null,Lägenhet,1929,[Södermalm],3850000,590000,4440000,2673,Notar,454.252571709322,Skanstull
+2014-08-28,Tjurbergsgatan 38,helgalunden,Södermalm,1,43.5,2,Lägenhet,1929,[Södermalm],2600000,150000,2750000,2486,Mäklarhuset,343.3428390937372,Skanstull
+2014-08-28,Helgalunden 5,helgalunden,Södermalm,2,58,3,Lägenhet,1922,[Södermalm],3495000,275000,3770000,4137,Magnusson Mäkleri,414.1822107230786,Skanstull
+2014-08-13,Helgalunden 17,helgalunden,Södermalm,1,22.5,0.5,Lägenhet,null,[Södermalm],1750000,20000,1770000,1508,Svensk Fastighetsförmedling,312.09951783866865,Skanstull
+2014-08-13,Hallandsgatan 46A,helgalunden,Södermalm,1,26,2,Lägenhet,1927,[Södermalm],1995000,555000,2550000,1591,Mäklarhuset,365.2168717283126,Medborgarplatsen
+2014-08-13,Hallandsgatan 46,helgalunden,Södermalm,1.5,43,2,Lägenhet,1927,[Katarina],2495000,615000,3110000,2406,Fastighetsbyrån,364.8863108738122,Medborgarplatsen
+2014-08-07,Helgagatan 36,helgalunden,Södermalm,1,27,1,Lägenhet,null,[Södermalm],1950000,0,1950000,1423,Svensk Fastighetsförmedling,351.2577160505461,Skanstull
+2014-07-23,Tjurbergsgatan 34,helgalunden,Södermalm,1.5,40,2,Lägenhet,1927,[Katarina],2495000,405000,2900000,2277,Fastighetsbyrån,362.6641624561593,Medborgarplatsen
+2014-06-19,Tjurbergsgatan 27E,helgalunden,Södermalm,3,73,3,Lägenhet,1981,[Södermalm],4350000,275000,4625000,4098,Vision Fastighetsmäkleri AB,315.2974345979064,Skanstull
+2014-06-17,Blekingegatan 27,helgalunden,Södermalm,1,44,2,Lägenhet,1927,[Södermalm Katarina],2495000,735000,3230000,2236,Bjurfors,434.15457357710704,Skanstull
+2014-06-12,Älvsborgsgatan 1,helgalunden,Södermalm,2,39,3,Lägenhet,null,[Södermalm],2625000,275000,2900000,2004,Fantastic Frank Fastighetsmäkleri,223.7050794766549,Skanstull
+2014-06-04,Helgagatan 36C,helgalunden,Södermalm,1,31,2,Lägenhet,1927,[Södermalm],1995000,285000,2280000,1423,Mäklarringen,355.97475913384517,Skanstull
+2014-06-04,Hallandsgatan 46A,helgalunden,Södermalm,1.5,43,4,Lägenhet,null,[Södermalm],2975000,285000,3260000,2406,Fantastic Frank Fastighetsmäkleri,365.2168717283126,Medborgarplatsen
+2014-05-28,Blekingegatan 29,helgalunden,Södermalm,2,38.5,2,Lägenhet,1927,[Södermalm],2650000,715000,3365000,2236,SkandiaMäklarna,424.06724292651705,Skanstull
+2014-05-24,Helgagatan 30,helgalunden,Södermalm,1,26,2,Lägenhet,1929,[Södermalm],1895000,105000,2000000,1520,Notar,454.252571709322,Skanstull
+2014-05-21,Helgagatan 36,helgalunden,Södermalm,2,40,null,Lägenhet,1926,[Södermalm],2490000,710000,3200000,2186,BOSTHLM,351.2577160505461,Skanstull
+2014-05-02,Hallandsgatan 48,helgalunden,Södermalm,2,47,3,Lägenhet,1928,[Södermalm Katarina],2995000,805000,3800000,2724,HusmanHagberg,336.6531995737247,Medborgarplatsen
+2014-05-01,Helgagatan 36A,helgalunden,Södermalm,3,68,1,Lägenhet,1927,[Södermalm],4450000,-50000,4400000,3457,Länsförsäkringar Fastighetsförmedling,352.76570806443544,Skanstull
+2014-04-29,Tjurbergsgatan 36,helgalunden,Södermalm,1.5,38,1,Lägenhet,1926,[Södermalm],2495000,705000,3200000,2171,Erik Olsson Fastighetsförmedling,356.99890484570585,Skanstull
+2014-04-29,Tjurbergsgatan 38,helgalunden,Södermalm,2,43.5,null,Lägenhet,1927,[Katarina],2650000,180000,2830000,2486,Fastighetsbyrån,343.3428390937372,Skanstull
+2014-04-27,Blekingegatan 31B,helgalunden,Södermalm,1,42.5,null,Lägenhet,1927,[Södermalm-Katarina],2400000,210000,2610000,2328,Södermäklarna,347.0944437670671,Skanstull
+2014-04-25,Tjurbergsgatan 36,helgalunden,Södermalm,1,39.5,4,Lägenhet,1927,[Södermalm],2595000,240000,2835000,2304,Berggren Hörle,356.99890484570585,Skanstull
+2014-04-10,Älvsborgsgatan 1,helgalunden,Södermalm,3,93,5,Lägenhet,1931,[Södermalm],5175000,-50000,5125000,3528,SkandiaMäklarna,223.7050794766549,Skanstull
+2014-04-03,Hallandsgatan 46,helgalunden,Södermalm,2.5,64,1,Lägenhet,null,[Södermalm],3450000,0,3450000,3619,Svensk Fastighetsförmedling,364.8863108738122,Medborgarplatsen
+2014-03-28,Helgalunden 3,helgalunden,Södermalm,3,98,2,Lägenhet,1922,[Södermalm Katarina],5000000,650000,5650000,6990,Bjurfors,423.85630741208917,Skanstull
+2014-03-25,Helgalunden 17,helgalunden,Södermalm,2,31,null,Lägenhet,1930,[Katarina],2195000,205000,2400000,1889,Fastighetsbyrån,312.09951783866865,Skanstull
+2014-03-25,Tjurbergsgatan 38,helgalunden,Södermalm,2,42,5,Lägenhet,null,[Södermalm-Katarina],2450000,150000,2600000,2277,Södermäklarna,343.3428390937372,Skanstull
+2014-03-13,Hallandsgatan 50A,helgalunden,Södermalm,1,27,2,Lägenhet,1927,[Södermalm],1790000,480000,2270000,1608,HusmanHagberg,331.3678478732261,Medborgarplatsen
+2014-02-20,Helgalunden 7,helgalunden,Södermalm,1.5,38,1,Lägenhet,1922,[Södermalm],1995000,580000,2575000,2710,Innerstadsspecialisten AB,408.4105538034487,Skanstull
+2014-02-13,Tjurbergsgatan 34,helgalunden,Södermalm,1,26,1.5,Lägenhet,1927,[Södermalm],1850000,250000,2100000,1517,Svenska Mäklarhuset,362.6641624561593,Medborgarplatsen
+2014-02-13,Hallandsgatan 50B,helgalunden,Södermalm,1.5,38,3,Lägenhet,null,[Södermalm],2190000,335000,2525000,2171,BOSTHLM,325.7063656157118,Medborgarplatsen
+2014-02-11,Hallandsgatan 50B,helgalunden,Södermalm,2,38,2,Lägenhet,1927,[Södermalm],2495000,185000,2680000,2171,BOSTHLM,325.7063656157118,Medborgarplatsen
+2014-02-06,Helgalunden 17,helgalunden,Södermalm,1,31,2,Lägenhet,1930,[Södermalm],2150000,0,2150000,1889,Fastighetsbyrån,312.09951783866865,Skanstull
+2014-01-30,Blekingegatan 31,helgalunden,Södermalm,2,39,1,Lägenhet,1927,[Södermalm],2795000,-45000,2750000,2155,Svensk Fastighetsförmedling,343.3699714588021,Skanstull
+2014-01-29,Helgalunden 1,helgalunden,Södermalm,3,98,3,Lägenhet,1922,[Södermalm],5875000,125000,6000000,7132,SkandiaMäklarna,293.9628342892235,Skanstull
+2014-01-29,Helgagatan 30,helgalunden,Södermalm,2,65,2,Lägenhet,1929,[Södermalm],3690000,760000,4450000,2825,Notar,454.252571709322,Skanstull
+2014-01-16,Helgagatan 36,helgalunden,Södermalm,1,42.5,2,Lägenhet,1927,[Maria/Gamla Stan/Högalid],2400000,185000,2585000,2186,Fastighetsbyrån,351.2577160505461,Skanstull
+2014-01-16,Tjurbergsgatan 38,helgalunden,Södermalm,1.5,41.5,5,Lägenhet,1927,[Södermalm],2495000,55000,2550000,2378,Notar,343.3428390937372,Skanstull
+2013-12-14,Helgalunden 17,helgalunden,Södermalm,2,48,3,Lägenhet,1930,[Maria/Gamla Stan/Högalid],2790000,260000,3050000,2941,BOSTHLM,312.09951783866865,Skanstull
+2013-11-27,Hallandsgatan 48,helgalunden,Södermalm,2,47,1,Lägenhet,1928,[Södermalm Katarina],2795000,225000,3020000,2537,HusmanHagberg,336.6531995737247,Medborgarplatsen
+2013-11-26,Hallandsgatan 34,helgalunden,Södermalm,2,66,1,Lägenhet,1927,[Södermalm],3650000,200000,3850000,2939,Svensk Fastighetsförmedling,443.63171915960675,Medborgarplatsen
+2013-11-15,Helgalunden 9,helgalunden,Södermalm,2,58,1,Lägenhet,1922,[Södermalm],3295000,215000,3510000,3447,Erik Olsson Fastighetsförmedling,405.170148798801,Skanstull
+2013-11-14,Tjurbergsgatan 27E,helgalunden,Södermalm,3,74,4,Lägenhet,1981,[Katarina],3995000,415000,4410000,4172,HusmanHagberg,315.2974345979064,Skanstull
+2013-11-10,Helgagatan 36,helgalunden,Södermalm,1,39,2,Lägenhet,1926,[Södermalm],2390000,0,2390000,2034,Erik Olsson Fastighetsförmedling,351.2577160505461,Skanstull
+2013-11-06,Tjurbergsgatan 36,helgalunden,Södermalm,1,38,null,Lägenhet,1927,[Södermalm Katarina],2395000,205000,2600000,2171,Bjurfors,356.99890484570585,Skanstull
+2013-10-18,Helgagatan 36K,helgalunden,Södermalm,1.5,46,1,Lägenhet,1927,[Södermalm],2700000,10000,2710000,2293,BOSTHLM,345.30513296662537,Skanstull
+2013-10-10,Älvsborgsgatan 1,helgalunden,Södermalm,3,111,null,Lägenhet,null,[Södermalm],7950000,170000,8120000,4895,Alexander White Fastighetsmäkleri,223.7050794766549,Skanstull
+2013-09-28,Helgagatan 36A,helgalunden,Södermalm,1.5,38,2,Lägenhet,1927,[Maria/Gamla Stan/Högalid],2320000,0,2320000,1933,BOSTHLM,352.76570806443544,Skanstull
+2013-09-26,Helgalunden 11,helgalunden,Södermalm,3,80.4,null,Lägenhet,1926,[Södermalm],5450000,375000,5825000,3414,Notar,385.6933045376984,Skanstull
+2013-09-12,Hallandsgatan 32,helgalunden,Södermalm,2,79,null,Lägenhet,null,[Södermalm],4950000,-285000,4665000,4015,Ekenstam Fastighetsmäklare,460.47756756221065,Medborgarplatsen
+2013-09-04,Tjurbergsgatan 36,helgalunden,Södermalm,1.5,40,2,Lägenhet,null,[Maria/Gamla Stan/Högalid],2350000,200000,2550000,2277,Bostadsrättsspecialisten,356.99890484570585,Skanstull
+2013-08-28,Helgagatan 36B,helgalunden,Södermalm,1,38,3,Lägenhet,1927,[Södermalm],2250000,150000,2400000,1984,Svensk Fastighetsförmedling,345.1936780882953,Skanstull
+2013-08-16,Hallandsgatan 50A,helgalunden,Södermalm,1,30,5,Lägenhet,1927,[Södermalm Katarina],1790000,435000,2225000,1703,HusmanHagberg,331.3678478732261,Medborgarplatsen
+2013-08-16,Blekingegatan 27,helgalunden,Södermalm,1,44,null,Lägenhet,1927,[Maria/Gamla Stan/Högalid],2395000,0,2395000,2236,Fastighetsbyrån,434.15457357710704,Skanstull
+2013-08-15,Helgagatan 36C,helgalunden,Södermalm,1,33.5,null,Lägenhet,1927,[Maria/Gamla Stan/Högalid],1995000,225000,2220000,1631,Fastighetsbyrån,355.97475913384517,Skanstull
+2013-08-15,Helgalunden 1,helgalunden,Södermalm,2,58,null,Lägenhet,1921,[Maria/Gamla Stan/Högalid],3400000,800000,4200000,3447,Fastighetsbyrån,293.9628342892235,Skanstull
+2013-07-05,Älvsborgsgatan 1,helgalunden,Södermalm,2,77,null,Lägenhet,1934,[Maria/Gamla Stan/Högalid],3795000,165000,3960000,3110,Fastighetsbyrån,223.7050794766549,Skanstull
+2013-06-19,Helgalunden 13,helgalunden,Södermalm,2,61.2,2,Lägenhet,1927,[Södermalm],3495000,0,3495000,3510,Svensk Fastighetsförmedling,362.6824471902943,Skanstull
+2013-06-18,Hallandsgatan 34,helgalunden,Södermalm,2.5,69,null,Lägenhet,1927,[Södermalm],3495000,305000,3800000,2875,Notar,443.63171915960675,Medborgarplatsen
+2013-06-02,Hallandsgatan 34,helgalunden,Södermalm,3,102,null,Lägenhet,1927,[Maria/Gamla Stan/Högalid],7200000,300000,7500000,3966,Fastighetsbyrån,443.63171915960675,Medborgarplatsen
+2013-05-22,Helgalunden 17,helgalunden,Södermalm,1,31,1,Lägenhet,null,[Södermalm],1895000,205000,2100000,1889,Erik Olsson Fastighetsförmedling,312.09951783866865,Skanstull
+2013-05-16,Helgagatan 36A,helgalunden,Södermalm,3,69,3,Lägenhet,1927,[Maria/Gamla Stan/Högalid],4250000,550000,4800000,3561,Länsförsäkringar Fastighetsförmedling,352.76570806443544,Skanstull
+2013-05-13,Hallandsgatan 50,helgalunden,Södermalm,2,34,4,Lägenhet,1927,[Södermalm Katarina],2195000,115000,2310000,2024,HusmanHagberg,326.01518436887943,Medborgarplatsen
+2013-05-09,Hallandsgatan 50,helgalunden,Södermalm,2,39,1.5,Lägenhet,1927,[Södermalm],2195000,20000,2215000,2190,Svenska Mäklarhuset,326.01518436887943,Medborgarplatsen
+2013-05-02,Helgalunden 13,helgalunden,Södermalm,1,38,2,Lägenhet,1927,[Södermalm],2150000,150000,2300000,2201,Svenska Mäklarhuset,362.6824471902943,Skanstull
+2013-04-23,Tjurbergsgatan 36,helgalunden,Södermalm,1.5,40,4,Lägenhet,1927,[Katarina],2345000,-145000,2200000,2304,Notar,356.99890484570585,Skanstull
+2013-04-19,Helgagatan 36,helgalunden,Södermalm,3,76,2,Lägenhet,1927,[Södermalm],3995000,-195000,3800000,4072,Svensk Fastighetsförmedling,351.2577160505461,Skanstull
+2013-04-10,Hallandsgatan 50A,helgalunden,Södermalm,1,27,3,Lägenhet,1927,[Södermalm],1825000,160000,1985000,1608,Innerstadsspecialisten AB,331.3678478732261,Medborgarplatsen
+2013-03-23,Älvsborgsgatan 3,helgalunden,Södermalm,4,99,null,Lägenhet,1931,[Södermalm Katarina],5950000,400000,6350000,3756,Bjurfors,196.66732084064907,Skanstull
+2013-03-20,Blekingegatan 31B,helgalunden,Södermalm,1,39,null,Lägenhet,1927,[Maria/Gamla Stan/Högalid],2350000,130000,2480000,2294,Fastighetsbyrån,347.0944437670671,Skanstull
+2013-03-16,Tjurbergsgatan 32,helgalunden,Södermalm,2,61,null,Lägenhet,1926,[Maria/Gamla Stan/Högalid],3395000,125000,3520000,2778,Fastighetsbyrån,345.7381348319249,Medborgarplatsen
+2013-03-15,Hallandsgatan 50B,helgalunden,Södermalm,3,78,5,Lägenhet,null,[Maria/Gamla Stan/Högalid],3850000,160000,4010000,4273,Bostadsrättsspecialisten,325.7063656157118,Medborgarplatsen
+2013-03-01,Blekingegatan 27,helgalunden,Södermalm,2,43.5,1.5,Lägenhet,1927,[Södermalm Katarina],2495000,265000,2760000,2338,HusmanHagberg,434.15457357710704,Skanstull
+2013-02-27,Älvsborgsgatan 3,helgalunden,Södermalm,3,84,null,Lägenhet,1931,[Södermalm Katarina],4795000,505000,5300000,3325,Bjurfors,196.66732084064907,Skanstull
+2013-02-19,Tjurbergsgatan 36,helgalunden,Södermalm,2,39.5,null,Lägenhet,1927,[Katarina],2300000,100000,2400000,2270,Notar,356.99890484570585,Skanstull
+2013-02-14,Blekingegatan 31B,helgalunden,Södermalm,1,30,null,Lägenhet,1927,[Södermalm],1750000,60000,1810000,1550,Innerstadsspecialisten AB,347.0944437670671,Skanstull
+2013-02-12,Helgalunden 11,helgalunden,Södermalm,2.5,68,3,Lägenhet,1930,[Södermalm],3450000,525000,3975000,3193,Vision Fastighetsmäkleri AB,385.6933045376984,Skanstull
+2013-01-31,Hallandsgatan 50B,helgalunden,Södermalm,3,78,5,Lägenhet,1927,[Södermalm],3995000,-145000,3850000,4273,Svensk Fastighetsförmedling,325.7063656157118,Medborgarplatsen
+2013-01-30,Tjurbergsgatan 36,helgalunden,Södermalm,1.5,38,2,Lägenhet,null,[Maria/Gamla Stan/Högalid],2190000,460000,2650000,2171,Bostadsrättsspecialisten,356.99890484570585,Skanstull
+2013-01-30,Hallandsgatan 48,helgalunden,Södermalm,2,47,5,Lägenhet,1928,[Södermalm Katarina],2695000,-85000,2610000,2776,HusmanHagberg,336.6531995737247,Medborgarplatsen
+2013-01-22,Tjurbergsgatan 38,helgalunden,Södermalm,3,66,1,Lägenhet,null,[Södermalm],3295000,30000,3325000,3713,Erik Olsson Fastighetsförmedling,343.3428390937372,Skanstull
+2013-01-11,Helgagatan 36F,helgalunden,Södermalm,2,58,null,Lägenhet,1927,[Södermalm],3450000,0,3450000,2948,Svensk Fastighetsförmedling,398.7853086550069,Skanstull
+2012-11-23,Helgagatan 36D,helgalunden,Södermalm,2,64,0.5,Lägenhet,1927,[Södermalm],3150000,350000,3500000,3249,Svensk Fastighetsförmedling,351.2577160505461,Skanstull
+2012-11-17,Älvsborgsgatan 1,helgalunden,Södermalm,1,35,null,Lägenhet,1934,[Maria/Gamla Stan/Högalid],1850000,90000,1940000,1867,Fastighetsbyrån,223.7050794766549,Skanstull
+2012-11-17,Tjurbergsgatan 32,helgalunden,Södermalm,2,42,null,Lägenhet,1926,[Maria/Gamla Stan/Högalid],2450000,-75000,2375000,1960,Länsförsäkringar Fastighetsförmedling,345.7381348319249,Medborgarplatsen
+2012-11-01,Tjurbergsgatan 36,helgalunden,Södermalm,1,39.5,3,Lägenhet,1927,[Södermalm],2095000,30000,2125000,2270,Svensk Fastighetsförmedling,356.99890484570585,Skanstull
+2012-10-27,Helgalunden 11,helgalunden,Södermalm,2.5,64,null,Lägenhet,null,[Helgalunden],3495000,50000,3545000,3136,Fyrtornet Fastighetsförmedling,385.6933045376984,Skanstull
+2012-10-25,Tjurbergsgatan 34,helgalunden,Södermalm,1,38,null,Lägenhet,1927,[Maria/Gamla Stan/Högalid],1900000,65000,1965000,2064,Fastighetsbyrån,362.6641624561593,Medborgarplatsen
+2012-10-18,Hallandsgatan 48,helgalunden,Södermalm,2,46,null,Lägenhet,1928,[Maria/Gamla Stan/Högalid],2495000,65000,2560000,2707,Fastighetsbyrån,336.6531995737247,Medborgarplatsen
+2012-09-06,Helgagatan 36C,helgalunden,Södermalm,1,28,null,Lägenhet,1927,[Södermalm],1790000,-40000,1750000,1379,SkandiaMäklarna,355.97475913384517,Skanstull

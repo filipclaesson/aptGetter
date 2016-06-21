@@ -1,0 +1,299 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-06,Trollesundsvägen 21,Bandhagen,Grön Hagsätra,4,87,null,Lägenhet,1992,[Bandhagen],2750000,300000,3050000,6100,Notar,131.95364636656086,Bandhagen
+2016-05-06,Trollesundsvägen 21,Bandhagen,Grön Hagsätra,2,65,null,Lägenhet,1992,[Bandhagen],1595000,295000,1890000,4461,Notar,131.95364636656086,Bandhagen
+2016-04-29,Skebokvarnsvägen 51B,Bandhagen,Grön Hagsätra,4,91,4,Lägenhet,2012,[Bandhagen],3295000,725000,4020000,5034,HusmanHagberg,330.35973388533034,Bandhagen
+2016-04-28,Kallforsvägen 26,Bandhagen,Grön Hagsätra,2,57.5,3,Lägenhet,1953,[Bandhagen],2195000,405000,2600000,3258,Fastighetsbyrån,228.71486767305146,Bandhagen
+2016-04-28,Fågelstavägen 10,Bandhagen,Grön Hagsätra,3,75,2,Lägenhet,1955,[Bandhagen],2645000,455000,3100000,4061,Mäklarhuset,95.53756101676073,Bandhagen
+2016-04-28,Mosstenabacken 5,Bandhagen,Grön Hagsätra,2,56.5,2,Lägenhet,1958,[Bandhagen],2095000,515000,2610000,3154,Svensk Fastighetsförmedling,159.27521386814598,Bandhagen
+2016-04-27,Skebokvarnsvägen 51D,Bandhagen,Grön Hagsätra,3,73,1,Lägenhet,2012,[Bandhagen],2595000,740000,3335000,3979,Fastighetsbyrån,458.65817344354406,Bandhagen
+2016-04-26,Bandhagsplan 9,Bandhagen,Grön Hagsätra,2,58.5,9,Lägenhet,1953,[Bandhagen],1750000,800000,2550000,3578,Erik Olsson Fastighetsförmedling,80.09756925873374,Bandhagen
+2016-04-23,Almnäsvägen 6,Bandhagen,Grön Hagsätra,4,93,null,Radhus,1955,[Bandhagen],4195000,1105000,5300000,null,Mäklarringen,708.6628958498443,Bandhagen
+2016-04-22,Kallforsvägen 26,Bandhagen,Grön Hagsätra,1,30,null,Lägenhet,1953,[Enskede-Årsta-Vantör],1795000,125000,1920000,1899,SkandiaMäklarna,228.71486767305146,Bandhagen
+2016-04-21,Kallforsvägen 34,Bandhagen,Grön Hagsätra,2,56,1,Lägenhet,1953,[Bandhagen],1995000,515000,2510000,3109,Notar,280.81905213264366,Bandhagen
+2016-04-21,Sjösavägen 11,Bandhagen,Grön Hagsätra,2,56,2,Lägenhet,1953,[Bandhagen],1995000,255000,2250000,3260,Mäklarringen,601.2704082540362,Bandhagen
+2016-04-21,Skebokvarnsvägen 99,Bandhagen,Grön Hagsätra,2,57,3,Lägenhet,1954,[Bandhagen],2150000,450000,2600000,3524,Fastighetsbyrån,543.5808074155655,Bandhagen
+2016-04-12,Salbyvägen 5,Bandhagen,Grön Hagsätra,3,72,2,Lägenhet,1952,[Bandhagen],2500000,650000,3150000,4071,HusmanHagberg,146.89923827432492,Bandhagen
+2016-04-07,Kallforsvägen 37,Bandhagen,Grön Hagsätra,2,56,1,Lägenhet,1955,[Bandhagen],1995000,535000,2530000,3054,Länsförsäkringar Fastighetsförmedling,310.4544029162199,Bandhagen
+2016-04-07,Skebokvarnsvägen 51B,Bandhagen,Grön Hagsätra,4,91,null,Lägenhet,2012,[Bandhagen],3195000,705000,3900000,4914,HusmanHagberg,330.35973388533034,Bandhagen
+2016-03-26,Kallforsvägen 17,Bandhagen,Grön Hagsätra,3,76,2,Lägenhet,null,[Bandhagen],2395000,480000,2875000,4139,Svensk Fastighetsförmedling,377.8571589730176,Bandhagen
+2016-03-23,Skebokvarnsvägen 97,Bandhagen,Grön Hagsätra,2,57,3,Lägenhet,1954,[Bandhagen],2095000,305000,2400000,3524,Mäklarringen,530.0680273452311,Bandhagen
+2016-03-20,Oxbrovägen 14,Bandhagen,Grön Hagsätra,6,125,null,Radhus,2007,[Bandhagen],4250000,1150000,5400000,5713,HusmanHagberg,491.49806220459624,Bandhagen
+2016-03-18,Skeppstavägen 15,Bandhagen,Grön Hagsätra,1,19,1,Lägenhet,1953,[Bandhagen],1395000,315000,1710000,1127,Notar,466.53254116036936,Bandhagen
+2016-03-17,Fågelstavägen 3,Bandhagen,Grön Hagsätra,2,58,1,Lägenhet,1952,[Bandhagen],1995000,555000,2550000,3584,Fastighetsbyrån,110.79717873166302,Bandhagen
+2016-03-10,Bandhagsplan 11,Bandhagen,Grön Hagsätra,2,58.5,3,Lägenhet,1953,[Bandhagen],1995000,555000,2550000,3460,Notar,98.82205863863425,Bandhagen
+2016-03-09,Fågelstavägen 24,Bandhagen,Grön Hagsätra,1,19.5,1,Lägenhet,1955,[Bandhagen],1395000,305000,1700000,1289,HusmanHagberg,153.14011657823846,Bandhagen
+2016-03-09,Bandhagsplan 11,Bandhagen,Grön Hagsätra,1,42.5,1,Lägenhet,1953,[Bandhagen],1750000,614000,2364000,2429,Erik Olsson Fastighetsförmedling,98.82205863863425,Bandhagen
+2016-02-26,Mosstenabacken 5,Bandhagen,Grön Hagsätra,2,49.5,5,Lägenhet,1954,[Bandhagen],1995000,615000,2610000,2950,Notar,159.27521386814598,Bandhagen
+2016-02-17,Fågelstavägen 24,Bandhagen,Grön Hagsätra,2,58.5,null,Lägenhet,1953,[Bandhagen],1995000,615000,2610000,3154,Fastighetsbyrån,153.14011657823846,Bandhagen
+2016-02-12,Skeppstavägen 19,Bandhagen,Grön Hagsätra,1,27,1,Lägenhet,1953,[Bandhagen],1595000,435000,2030000,1601,Bjurfors,512.5312341309361,Bandhagen
+2016-02-04,Fågelstavägen 28,Bandhagen,Grön Hagsätra,3,74,2,Lägenhet,1955,[Bandhagen],2395000,665000,3060000,4046,Svensk Fastighetsförmedling,237.67815112353406,Bandhagen
+2016-01-21,Skebokvarnsvägen 51A,Bandhagen,Grön Hagsätra,2,54.5,2,Lägenhet,2012,[Bandhagen],1995000,875000,2870000,3322,Fastighetsbyrån,356.34796283614094,Bandhagen
+2016-01-15,Fågelstavägen 14A,Bandhagen,Grön Hagsätra,2,57,3,Lägenhet,1953,[Bandhagen],1995000,925000,2920000,3179,Fastighetsbyrån,145.42673546545555,Bandhagen
+2016-01-14,Mosstenabacken 5,Bandhagen,Grön Hagsätra,2,56.5,3,Lägenhet,1953,[Bandhagen],2195000,355000,2550000,3195,Länsförsäkringar Fastighetsförmedling,159.27521386814598,Bandhagen
+2016-01-14,Trollesundsvägen 52,Bandhagen,Grön Hagsätra,2,77.5,5,Lägenhet,1993,[Bandhagen],1350000,0,1350000,6228,HusmanHagberg,247.6895985542438,Bandhagen
+2016-01-11,Gnestavägen 10,Bandhagen,Grön Hagsätra,5,94,null,Villa,1958,[Bandhagen],4495000,1330000,5825000,null,Notar,691.424077890027,Bandhagen
+2015-12-29,Sjösavägen 95,Bandhagen,Grön Hagsätra,3,75,1,Lägenhet,1953,[Bandhagen],2195000,335000,2530000,4219,Mäklarringen,371.27694918346623,Hagdalen
+2015-12-18,Björksundsslingan 15,Bandhagen,Grön Hagsätra,2,55,4,Lägenhet,null,[Bandhagen],2195000,205000,2400000,3948,Mäklarringen,410.34014065277483,Bandhagen
+2015-12-10,Mosstenabacken 1,Bandhagen,Grön Hagsätra,2,56.5,2,Lägenhet,1953,[Bandhagen],2100000,625000,2725000,3154,Mäklarringen,86.47682720287668,Bandhagen
+2015-12-08,Trollesundsvägen 28B,Bandhagen,Grön Hagsätra,2,62,3,Lägenhet,null,[Bandhagen],1495000,515000,2010000,5966,Länsförsäkringar Fastighetsförmedling,182.38497357794,Bandhagen
+2015-11-30,Skeppstavägen 13,Bandhagen,Grön Hagsätra,3,71,3,Lägenhet,1953,[Bandhagen],1995000,405000,2400000,4211,Notar,455.8906916699352,Bandhagen
+2015-11-20,Trollesundsvägen 26B,Bandhagen,Grön Hagsätra,3,62,4,Lägenhet,1993,[Bandhagen],1995000,105000,2100000,6020,HusmanHagberg,152.83850705258965,Bandhagen
+2015-11-19,Fågelstavägen 12,Bandhagen,Grön Hagsätra,2,55.5,3,Lägenhet,1953,[Bandhagen],1995000,560000,2555000,3179,Fastighetsbyrån,102.7107936762355,Bandhagen
+2015-11-16,Bandhagsplan 11,Bandhagen,Grön Hagsätra,1,42.5,5,Lägenhet,1954,[Bandhagen],1595000,455000,2050000,2601,Notar,98.82205863863425,Bandhagen
+2015-11-13,Trollesundsvägen 48,Bandhagen,Grön Hagsätra,3,77,4,Lägenhet,1993,[Bandhagen],1795000,280000,2075000,7290,Södermäklarna,177.28581631969348,Bandhagen
+2015-11-12,Fågelstavägen 1,Bandhagen,Grön Hagsätra,3,78,3,Lägenhet,1952,[Bandhagen],2790000,215000,3005000,4127,Fastighetsbyrån,108.99193480190137,Bandhagen
+2015-11-11,Mosstenabacken 1,Bandhagen,Grön Hagsätra,2,49.5,2,Lägenhet,1953,[Bandhagen],1995000,585000,2580000,2950,Länsförsäkringar Fastighetsförmedling,86.47682720287668,Bandhagen
+2015-10-30,Fågelstavägen 18,Bandhagen,Grön Hagsätra,3,77.5,2,Lägenhet,1955,[Bandhagen],2395000,970000,3365000,4326,Svensk Fastighetsförmedling,190.74779128002328,Bandhagen
+2015-10-30,Skebokvarnsvägen 4,Bandhagen,Grön Hagsätra,1.5,35,3,Lägenhet,2009,[Bandhagen],1890000,530000,2420000,2119,Fastighetsbyrån,428.0300209270029,Bandhagen
+2015-10-27,Kallforsvägen 35,Bandhagen,Grön Hagsätra,3,68,3,Lägenhet,1953,[Bandhagen],2195000,415000,2610000,3710,Svensk Fastighetsförmedling,322.36957159294144,Bandhagen
+2015-10-21,Kallforsvägen 5,Bandhagen,Grön Hagsätra,4,74,3,Lägenhet,1954,[Bandhagen],2595000,1305000,3900000,4116,Bjurfors,361.24909417757164,Bandhagen
+2015-10-19,Fågelstavägen 5,Bandhagen,Grön Hagsätra,1,27,null,Lägenhet,1951,[Bandhagen],1495000,730000,2225000,1690,Notar,112.4625005694011,Bandhagen
+2015-10-17,Fågelstavägen 40,Bandhagen,Grön Hagsätra,2,55,3,Lägenhet,1955,[Bandhagen Centrum],1995000,410000,2405000,3154,HusmanHagberg,240.23315876087048,Bandhagen
+2015-10-13,Trollesundsvägen 52,Bandhagen,Grön Hagsätra,2,76.5,7,Lägenhet,1993,[Bandhagen],1600000,230000,1830000,6586,Mäklarringen,247.6895985542438,Bandhagen
+2015-10-08,Kallforsvägen 22,Bandhagen,Grön Hagsätra,3,70.5,3,Lägenhet,1955,[Bandhagen],2190000,645000,2835000,3811,Fastighetsbyrån,227.34191436793827,Bandhagen
+2015-10-07,Bandhagsplan 9,Bandhagen,Grön Hagsätra,2,39,10,Lägenhet,null,[Bandhagen],1795000,655000,2450000,2438,Notar,80.09756925873374,Bandhagen
+2015-10-05,Skeppstavägen 17,Bandhagen,Grön Hagsätra,1,19,2,Lägenhet,1953,[Bandhagen],1395000,405000,1800000,1129,Notar,483.6602948377772,Bandhagen
+2015-10-02,Trollesundsvägen 26,Bandhagen,Grön Hagsätra,2,67,null,Lägenhet,1993,[Enskede-Årsta-Vantör],1800000,-280000,1520000,6342,SkandiaMäklarna,150.26328386725697,Bandhagen
+2015-09-25,Trollesundsvägen 31,Bandhagen,Grön Hagsätra,2,53,0,Lägenhet,1992,[Bandhagen],1595000,505000,2100000,3692,Södermäklarna,172.3334058549576,Bandhagen
+2015-09-18,Skeppstavägen 17,Bandhagen,Grön Hagsätra,2,58,2,Lägenhet,1953,[Bandhagen],2400000,0,2400000,3440,Mäklarringen,483.6602948377772,Bandhagen
+2015-09-14,Trollesundsvägen 33,Bandhagen,Grön Hagsätra,3,79,2,Lägenhet,1992,[Bandhagen],1895000,605000,2500000,5860,Notar,312.0658306182936,Bandhagen
+2015-09-09,Sjösavägen 19,Bandhagen,Grön Hagsätra,3,76,2,Lägenhet,1953,[Bandhagen],2050000,595000,2645000,4178,Mäklarhuset,580.8806290310902,Hagdalen
+2015-09-07,Mosstenabacken 3,Bandhagen,Grön Hagsätra,2,49.5,null,Lägenhet,1953,[Bandhagen],1995000,505000,2500000,2812,Notar,125.74597410409538,Bandhagen
+2015-09-03,Fågelstavägen 3,Bandhagen,Grön Hagsätra,1,27,3,Lägenhet,1951,[Enskede-Årsta-Vantör],1490000,570000,2060000,1690,SkandiaMäklarna,110.79717873166302,Bandhagen
+2015-09-02,Fågelstavägen 14,Bandhagen,Grön Hagsätra,1,19.5,3,Lägenhet,1955,[Bandhagen],1295000,400000,1695000,1305,HusmanHagberg,130.6863623898714,Bandhagen
+2015-08-31,Trollesundsvägen 33,Bandhagen,Grön Hagsätra,3,74,3,Lägenhet,1992,[Bandhagen],1595000,880000,2475000,5280,Hemmäklarna,312.0658306182936,Bandhagen
+2015-08-28,Fågelstavägen 32,Bandhagen,Grön Hagsätra,3,74,2,Lägenhet,1953,[Bandhagen],2195000,355000,2550000,3999,Svensk Fastighetsförmedling,231.3361581659082,Bandhagen
+2015-08-27,Trollesundsvägen 45,Bandhagen,Grön Hagsätra,4,88,2,Lägenhet,1992,[Bandhagen],1995000,605000,2600000,6300,Notar,221.15093786229951,Bandhagen
+2015-08-26,Fågelstavägen 42,Bandhagen,Grön Hagsätra,2,55,1,Lägenhet,null,[Bandhagen],1795000,1025000,2820000,3022,Svenska Mäklarhuset,242.9156496614289,Bandhagen
+2015-08-17,Kallforsvägen 41,Bandhagen,Grön Hagsätra,2,58,2,Lägenhet,1954,[Bandhagen],1995000,615000,2610000,3242,Notar,290.8194533485284,Bandhagen
+2015-08-13,Trollesundsvägen 50,Bandhagen,Grön Hagsätra,2,68,4,Lägenhet,1993,[Bandhagen],1495000,320000,1815000,5621,Mäklarringen,211.93113338295274,Bandhagen
+2015-08-13,Fågelstavägen 12A,Bandhagen,Grön Hagsätra,1,44.5,null,Lägenhet,1953,[Bandhagen],1795000,235000,2030000,2534,Fastighetsbyrån,115.24686232105694,Bandhagen
+2015-08-12,Skeppstavägen 23,Bandhagen,Grön Hagsätra,1,27,2,Lägenhet,1953,[Enskede-Årsta-Vantör],1390000,680000,2070000,1601,SkandiaMäklarna,550.5605017134202,Bandhagen
+2015-08-12,Sjösavägen 91,Bandhagen,Grön Hagsätra,2,61,2,Lägenhet,1953,[Bandhagen],1995000,325000,2320000,3482,Mäklarringen,364.25608140371594,Hagdalen
+2015-08-06,Läggestavägen 22,Bandhagen,Grön Hagsätra,2,57,1,Lägenhet,1953,[Bandhagen],1995000,405000,2400000,2998,Fastighetsbyrån,625.868025797462,Bandhagen
+2015-07-13,Sjösavägen 93,Bandhagen,Grön Hagsätra,2,61,3,Lägenhet,1953,[Bandhagen],1995000,305000,2300000,3482,Notar,367.2880593117258,Hagdalen
+2015-07-10,Skebokvarnsvägen 51B,Bandhagen,Grön Hagsätra,2,54.5,2,Lägenhet,2012,[Bandhagen],1990000,660000,2650000,3322,Fastighetsbyrån,330.35973388533034,Bandhagen
+2015-07-10,Skebokvarnsvägen 4,Bandhagen,Grön Hagsätra,3,78,null,Lägenhet,2009,[Enskede-Årsta-Vantör],2895000,10000,2905000,4723,SkandiaMäklarna,428.0300209270029,Bandhagen
+2015-07-08,Skebokvarnsvägen 87,Bandhagen,Grön Hagsätra,3,73,3,Lägenhet,1954,[Bandhagen],1875000,345000,2220000,4286,Notar,337.07336945843383,Bandhagen
+2015-06-18,Skebokvarnsvägen 6,Bandhagen,Grön Hagsätra,4,91,3,Lägenhet,2009,[Enskede-Årsta-Vantör],null,NaN,3650000,5670,SkandiaMäklarna,421.533865198789,Bandhagen
+2015-06-15,Trollesundsvägen 41,Bandhagen,Grön Hagsätra,3,79,1,Lägenhet,1992,[Bandhagen],1695000,360000,2055000,5860,Mäklarhuset,214.91468812076627,Bandhagen
+2015-06-12,Björksundsslingan 15,Bandhagen,Grön Hagsätra,2,52,2,Lägenhet,2002,[Bandhagen],1950000,300000,2250000,3234,Mäklarhuset,410.34014065277483,Bandhagen
+2015-06-11,Skebokvarnsvägen 4,Bandhagen,Grön Hagsätra,4,93.5,1,Lägenhet,2009,[Bandhagen],3175000,475000,3650000,5662,Erik Olsson Fastighetsförmedling,428.0300209270029,Bandhagen
+2015-06-11,Trollesundsvägen 50,Bandhagen,Grön Hagsätra,2,68,4,Lägenhet,1993,[Bandhagen],1645000,0,1645000,5621,Mäklarringen,211.93113338295274,Bandhagen
+2015-06-10,Björksundsslingan 17,Bandhagen,Grön Hagsätra,4,108,null,Lägenhet,null,[Bandhagen],2595000,955000,3550000,5569,Mäklarringen,432.9483301747389,Bandhagen
+2015-06-07,Skeppstavägen 13,Bandhagen,Grön Hagsätra,3,71,1,Lägenhet,1953,[Bandhagen],2095000,305000,2400000,4211,Mäklarringen,455.8906916699352,Bandhagen
+2015-05-29,Skebokvarnsvägen 99,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1695000,325000,2020000,3524,MäklarMäster,543.5808074155655,Bandhagen
+2015-05-29,Bandhagsplan 4,Bandhagen,Grön Hagsätra,1,29,2,Lägenhet,1953,[Bandhagen],1550000,235000,1785000,1839,Fastighetsbyrån,67.27058255903043,Bandhagen
+2015-05-27,Kallforsvägen 12,Bandhagen,Grön Hagsätra,2,56,2,Lägenhet,1953,[Bandhagen],1995000,340000,2335000,3204,Mäklarringen,295.4933903889158,Bandhagen
+2015-05-27,Sjösavägen 19,Bandhagen,Grön Hagsätra,3,76,2,Lägenhet,1953,[Bandhagen],2095000,265000,2360000,4178,Mäklarringen,580.8806290310902,Hagdalen
+2015-05-27,Sjösavägen 17,Bandhagen,Grön Hagsätra,3,76,3,Lägenhet,1953,[Bandhagen],2095000,275000,2370000,4178,Mäklarringen,576.8958745026135,Bandhagen
+2015-05-22,Kallforsvägen 41,Bandhagen,Grön Hagsätra,2,58,1,Lägenhet,1953,[Bandhagen],1995000,355000,2350000,3242,Notar,290.8194533485284,Bandhagen
+2015-05-16,Kallforsvägen 28,Bandhagen,Grön Hagsätra,2,58,3,Lägenhet,1953,[Bandhagen],1895000,230000,2125000,3382,Svensk Fastighetsförmedling,233.53731949412006,Bandhagen
+2015-05-14,Sjösavägen 19,Bandhagen,Grön Hagsätra,4,89,null,Lägenhet,null,[Bandhagen],2475000,235000,2710000,null,Mäklarhuset,580.8806290310902,Hagdalen
+2015-05-07,Trollesundsvägen 33,Bandhagen,Grön Hagsätra,3,75.5,null,Lägenhet,1992,[Bandhagen],1450000,780000,2230000,5272,Notar,312.0658306182936,Bandhagen
+2015-05-01,Kallforsvägen 19,Bandhagen,Grön Hagsätra,3,76,1,Lägenhet,1954,[Bandhagen],2395000,525000,2920000,4139,Fastighetsbyrån,376.29643805214505,Bandhagen
+2015-04-29,Skeppstavägen 15,Bandhagen,Grön Hagsätra,3,77,null,Lägenhet,1953,[Bandhagen],2395000,605000,3000000,4567,Mäklarringen,466.53254116036936,Bandhagen
+2015-04-29,Fågelstavägen 34,Bandhagen,Grön Hagsätra,3,74,3,Lägenhet,1953,[Bandhagen],2525000,195000,2720000,3999,Fastighetsbyrån,106.10496232652247,Bandhagen
+2015-04-24,Skebokvarnsvägen 99,Bandhagen,Grön Hagsätra,3,66,null,Lägenhet,1954,[Bandhagen],1850000,570000,2420000,3907,Notar,543.5808074155655,Bandhagen
+2015-04-15,Sjösavägen 11,Bandhagen,Grön Hagsätra,2,56,3,Lägenhet,1953,[Bandhagen],1795000,355000,2150000,3260,Mäklarringen,601.2704082540362,Bandhagen
+2015-04-09,Sjösavägen 13,Bandhagen,Grön Hagsätra,2,59,1,Lägenhet,1953,[Bandhagen],1795000,25000,1820000,3397,Mäklarhuset,602.351258609632,Bandhagen
+2015-04-02,Skeppstavägen 15,Bandhagen,Grön Hagsätra,3,77,3,Lägenhet,1953,[Bandhagen],2095000,555000,2650000,4567,Mäklarringen,466.53254116036936,Bandhagen
+2015-04-01,Fågelstavägen 12,Bandhagen,Grön Hagsätra,2,55.5,1,Lägenhet,1953,[Bandhagen],1895000,645000,2540000,3179,Fastighetsmäklarna,102.7107936762355,Bandhagen
+2015-03-30,Kallforsvägen 45,Bandhagen,Grön Hagsätra,3,67,1,Lägenhet,1953,[Bandhagen],1950000,520000,2470000,3685,Svensk Fastighetsförmedling,298.18248136276964,Bandhagen
+2015-03-26,Kallforsvägen 7,Bandhagen,Grön Hagsätra,4,74,1,Lägenhet,1954,[Bandhagen],2195000,365000,2560000,3999,Bjurfors,372.25564091635675,Bandhagen
+2015-03-20,Bandhagsplan 9,Bandhagen,Grön Hagsätra,1,23,7,Lägenhet,1953,[Bandhagen],1275000,250000,1525000,1765,Svensk Fastighetsförmedling,80.09756925873374,Bandhagen
+2015-03-12,Kallforsvägen 27,Bandhagen,Grön Hagsätra,3,69,1,Lägenhet,1953,[Bandhagen],1995000,455000,2450000,3563,Svensk Fastighetsförmedling,356.10013869712395,Bandhagen
+2015-03-11,Trollesundsvägen 41,Bandhagen,Grön Hagsätra,4,114.5,4,Lägenhet,1992,[Bandhagen],1995000,295000,2290000,8177,Notar,214.91468812076627,Bandhagen
+2015-03-05,Bandhagsplan 11,Bandhagen,Grön Hagsätra,1,43.5,5,Lägenhet,1953,[Bandhagen],1450000,475000,1925000,2664,Södermäklarna,98.82205863863425,Bandhagen
+2015-03-04,Trollesundsvägen 21,Bandhagen,Grön Hagsätra,4,87,2,Lägenhet,1992,[Bandhagen],2095000,655000,2750000,6049,Notar,131.95364636656086,Bandhagen
+2015-02-27,Fågelstavägen 24,Bandhagen,Grön Hagsätra,1,20,null,Lägenhet,1953,[Bandhagen],1095000,405000,1500000,null,Svensk Fastighetsförmedling,153.14011657823846,Bandhagen
+2015-02-16,Läggestavägen 16,Bandhagen,Grön Hagsätra,2,57,2.5,Lägenhet,1953,[Bandhagen],1895000,435000,2330000,2998,Restate,584.5507295615081,Bandhagen
+2015-02-16,Trollesundsvägen 26B,Bandhagen,Grön Hagsätra,2,62,4,Lägenhet,1993,[Bandhagen],1150000,555000,1705000,6020,HusmanHagberg,152.83850705258965,Bandhagen
+2015-02-12,Trollesundsvägen 41,Bandhagen,Grön Hagsätra,3,79,1,Lägenhet,1992,[Älvsjö/Farsta/Vantör],1495000,285000,1780000,5860,SkandiaMäklarna,214.91468812076627,Bandhagen
+2015-02-06,Läggestavägen 6,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,1953,[Bandhagen],1790000,360000,2150000,2998,Fastighetsbyrån,502.63634732059217,Bandhagen
+2015-02-04,Sjösavägen 17,Bandhagen,Grön Hagsätra,1,30,2,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1175000,435000,1610000,2066,SkandiaMäklarna,576.8958745026135,Bandhagen
+2015-01-29,Bandhagsplan 11,Bandhagen,Grön Hagsätra,2,58.5,10,Lägenhet,1953,[Bandhagen-Högdalen],1895000,385000,2280000,3474,Mäklarringen,98.82205863863425,Bandhagen
+2015-01-22,Salbyvägen 1,Bandhagen,Grön Hagsätra,2,46,null,Lägenhet,1952,[Bandhagen],1995000,130000,2125000,2396,Mäklarhuset,156.00519646864157,Bandhagen
+2015-01-20,Bandhagsplan 11,Bandhagen,Grön Hagsätra,2,58.5,2,Lägenhet,1953,[Bandhagen],1695000,430000,2125000,3367,Mäklarringen,98.82205863863425,Bandhagen
+2015-01-16,Björksundsslingan 17,Bandhagen,Grön Hagsätra,2,58,5,Lägenhet,2003,[Bandhagen],1995000,300000,2295000,4298,Mäklarhuset,432.9483301747389,Bandhagen
+2015-01-15,Kallforsvägen 31,Bandhagen,Grön Hagsätra,5,97.5,2,Lägenhet,1953,[Bandhagen],2495000,595000,3090000,5100,Mäklarringen,337.89968698894546,Bandhagen
+2015-01-14,Läggestavägen 8,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,1953,[Bandhagen],1750000,475000,2225000,2998,Restate,517.2566011213836,Bandhagen
+2015-01-13,Fågelstavägen 5,Bandhagen,Grön Hagsätra,2,58,2,Lägenhet,1951,[Bandhagen],1995000,185000,2180000,3584,Living Fastighetsmäkleri,112.4625005694011,Bandhagen
+2014-12-08,Fågelstavägen 1,Bandhagen,Grön Hagsätra,3,78,1,Lägenhet,1951,[Bandhagen],2295000,265000,2560000,4127,Living Fastighetsmäkleri,108.99193480190137,Bandhagen
+2014-12-06,Trollesundsvägen 33,Bandhagen,Grön Hagsätra,4,87,1,Lägenhet,1992,[Bandhagen],1800000,960000,2760000,6492,Södermäklarna,312.0658306182936,Bandhagen
+2014-12-03,Bandhagsplan 11,Bandhagen,Grön Hagsätra,1,19.5,7,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1195000,215000,1410000,1579,Svensk Fastighetsförmedling,98.82205863863425,Bandhagen
+2014-11-28,Fågelstavägen 8,Bandhagen,Grön Hagsätra,3,75.5,2,Lägenhet,1953,[Bandhagen],1995000,455000,2450000,4061,Södermäklarna,103.0508873189168,Bandhagen
+2014-11-28,Kallforsvägen 4,Bandhagen,Grön Hagsätra,3,70.5,3,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1995000,275000,2270000,3866,SkandiaMäklarna,329.3203910005337,Bandhagen
+2014-11-27,Sjösavägen 69,Bandhagen,Grön Hagsätra,3,70,2,Lägenhet,1954,[Bandhagen],1895000,205000,2100000,4471,Notar,435.84853567449454,Hagdalen
+2014-11-27,Kallforsvägen 19,Bandhagen,Grön Hagsätra,3,76,2,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1950000,510000,2460000,4136,Svensk Fastighetsförmedling,376.29643805214505,Bandhagen
+2014-11-27,Kallforsvägen 27,Bandhagen,Grön Hagsätra,3,69,2,Lägenhet,1955,[Bandhagen],1795000,405000,2200000,3685,Länsförsäkringar Fastighetsförmedling,356.10013869712395,Bandhagen
+2014-11-26,Kallforsvägen 21,Bandhagen,Grön Hagsätra,2,60.5,3,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1895000,335000,2230000,3296,SkandiaMäklarna,346.8698095646706,Bandhagen
+2014-11-14,Rockelstavägen 12,Bandhagen,Grön Hagsätra,3,73,null,Lägenhet,2009,[Bandhagen],2750000,125000,2875000,3748,Bjurfors,580.4085153165507,Hagdalen
+2014-11-13,Sjösavägen 17,Bandhagen,Grön Hagsätra,1,37.5,null,Lägenhet,1953,[Bandhagen],1395000,330000,1725000,2160,Mäklarringen,576.8958745026135,Bandhagen
+2014-11-04,Trollesundsvägen 50,Bandhagen,Grön Hagsätra,3,81.5,4,Lägenhet,1993,[Bandhagen],1450000,385000,1835000,6542,Mäklarringen,211.93113338295274,Bandhagen
+2014-10-31,Skebokvarnsvägen 51B,Bandhagen,Grön Hagsätra,4,90.5,2,Lägenhet,2012,[Bandhagen],2990000,0,2990000,4789,HusmanHagberg,330.35973388533034,Bandhagen
+2014-10-24,Sjösavägen 69,Bandhagen,Grön Hagsätra,3,70,3,Lägenhet,1954,[Bandhagen-Högdalen],1795000,80000,1875000,4471,Mäklarringen,435.84853567449454,Hagdalen
+2014-10-22,Trollesundsvägen 21,Bandhagen,Grön Hagsätra,4,87,3,Lägenhet,1992,[Bandhagen],1995000,305000,2300000,6223,Notar,131.95364636656086,Bandhagen
+2014-10-16,Björksundsslingan 17,Bandhagen,Grön Hagsätra,2,52,1,Lägenhet,2002,[Bandhagen],1795000,145000,1940000,3234,HusmanHagberg,432.9483301747389,Bandhagen
+2014-10-13,Salbyvägen 1,Bandhagen,Grön Hagsätra,2,43,null,Lägenhet,1952,[Bandhagen],1750000,360000,2110000,2240,Mäklarhuset,156.00519646864157,Bandhagen
+2014-10-13,Skebokvarnsvägen 51D,Bandhagen,Grön Hagsätra,4,90.5,1,Lägenhet,2012,[Älvsjö/Farsta/Vantör],2995000,130000,3125000,4672,SkandiaMäklarna,458.65817344354406,Bandhagen
+2014-10-10,Kallforsvägen 29,Bandhagen,Grön Hagsätra,4,95,null,Lägenhet,1955,[Bandhagen],2250000,490000,2740000,4818,Fastighetsbyrån,347.4996418087234,Bandhagen
+2014-10-03,Trollesundsvägen 21,Bandhagen,Grön Hagsätra,4,87,null,Lägenhet,1992,[Älvsjö/Farsta/Vantör],1995000,125000,2120000,6100,SkandiaMäklarna,131.95364636656086,Bandhagen
+2014-10-02,Björksundsslingan 17,Bandhagen,Grön Hagsätra,4,90,1,Lägenhet,2002,[Bandhagen],2395000,595000,2990000,5964,HusmanHagberg,432.9483301747389,Bandhagen
+2014-09-30,Salbyvägen 5,Bandhagen,Grön Hagsätra,4,82,2,Lägenhet,1952,[Bandhagen],2290000,110000,2400000,4239,Mäklarringen,146.89923827432492,Bandhagen
+2014-09-26,Trollesundsvägen 46,Bandhagen,Grön Hagsätra,3,77,2,Lägenhet,1993,[Bandhagen],1495000,820000,2315000,7262,Mäklarringen,143.63615621462355,Bandhagen
+2014-09-18,Sjösavägen 71,Bandhagen,Grön Hagsätra,3,70,2,Lägenhet,1954,[Bandhagen-Högdalen],1795000,20000,1815000,4471,Mäklarringen,416.6556655681914,Hagdalen
+2014-09-18,Skeppstavägen 27,Bandhagen,Grön Hagsätra,4,93,2,Lägenhet,1953,[Bandhagen],2750000,0,2750000,4796,ERA,581.7969285863663,Bandhagen
+2014-09-13,Sjösavägen 13,Bandhagen,Grön Hagsätra,1,28,3,Lägenhet,1953,[Bandhagen],1125000,425000,1550000,1974,Mäklarhuset,602.351258609632,Bandhagen
+2014-09-11,Björksundsslingan 15,Bandhagen,Grön Hagsätra,4,89,2,Lägenhet,2003,[Bandhagen],2195000,750000,2945000,5528,Mäklarhuset,410.34014065277483,Bandhagen
+2014-09-04,Kallforsvägen 24,Bandhagen,Grön Hagsätra,5,112.5,2,Lägenhet,null,[Älvsjö/Farsta/Vantör],2495000,745000,3240000,5802,Svensk Fastighetsförmedling,221.3161511317928,Bandhagen
+2014-08-28,Fågelstavägen 14A,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,1953,[Bandhagen],1595000,385000,1980000,3179,Fastighetsbyrån,145.42673546545555,Bandhagen
+2014-08-28,Gnestavägen 8,Bandhagen,Grön Hagsätra,4,103,null,Radhus,1956,[Bandhagen],3795000,135000,3930000,null,Mäklarhuset,684.9523923490822,Bandhagen
+2014-08-27,Kallforsvägen 47,Bandhagen,Grön Hagsätra,2,56.5,null,Lägenhet,1953,[Bandhagen],1650000,160000,1810000,3140,Mäklarringen,284.0526432714044,Bandhagen
+2014-08-24,Skeppstavägen 33,Bandhagen,Grön Hagsätra,3,69,2,Lägenhet,1953,[Bandhagen],1695000,425000,2120000,3558,Erik Olsson Fastighetsförmedling,640.3557826212208,Bandhagen
+2014-08-22,Bandhagsplan 9,Bandhagen,Grön Hagsätra,2,58.5,10,Lägenhet,null,[Älvsjö/Farsta/Vantör],1775000,155000,1930000,3474,Svensk Fastighetsförmedling,80.09756925873374,Bandhagen
+2014-08-15,Björksundsslingan 15,Bandhagen,Grön Hagsätra,2,52,5,Lägenhet,2003,[Bandhagen],1795000,270000,2065000,3486,Mäklarhuset,410.34014065277483,Bandhagen
+2014-08-11,Sjösavägen 95,Bandhagen,Grön Hagsätra,3,75,1,Lägenhet,1953,[Bandhagen],1695000,65000,1760000,4079,Hemverket,371.27694918346623,Hagdalen
+2014-06-19,Fågelstavägen 18,Bandhagen,Grön Hagsätra,4,77.5,null,Lägenhet,1953,[Bandhagen],1895000,605000,2500000,4218,Fastighetsbyrån,190.74779128002328,Bandhagen
+2014-06-18,Kallforsvägen 37,Bandhagen,Grön Hagsätra,2,56,1,Lägenhet,null,[Älvsjö/Farsta/Vantör],1675000,240000,1915000,3054,Svensk Fastighetsförmedling,310.4544029162199,Bandhagen
+2014-06-17,Fågelstavägen 40,Bandhagen,Grön Hagsätra,3,67,null,Lägenhet,1953,[Bandhagen],1795000,115000,1910000,3685,Fastighetsbyrån,240.23315876087048,Bandhagen
+2014-05-29,Bandhagsplan 9,Bandhagen,Grön Hagsätra,1,43.5,3,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1195000,440000,1635000,2584,SkandiaMäklarna,80.09756925873374,Bandhagen
+2014-05-29,Kallforsvägen 32,Bandhagen,Grön Hagsätra,4,87,1,Lägenhet,1953,[Bandhagen],1995000,530000,2525000,4593,Mäklarringen,291.8826860050705,Bandhagen
+2014-05-23,Sjösavägen 17,Bandhagen,Grön Hagsätra,3,76,2,Lägenhet,1953,[Högdalen Bandhagen],1595000,30000,1625000,4178,HusmanHagberg,576.8958745026135,Bandhagen
+2014-05-23,Kallforsvägen 7,Bandhagen,Grön Hagsätra,3,80,null,Lägenhet,1955,[Bandhagen],1795000,475000,2270000,4295,Fastighetsbyrån,372.25564091635675,Bandhagen
+2014-05-21,Kallforsvägen 20,Bandhagen,Grön Hagsätra,2,56,1,Lägenhet,1953,[Bandhagen],1695000,95000,1790000,3069,Svenska Mäklarhuset,239.98534972167135,Bandhagen
+2014-05-18,Skebokvarnsvägen 4,Bandhagen,Grön Hagsätra,4,91,4,Lägenhet,null,[Örby],2995000,335000,3330000,5670,Svenska Mäklarhuset,428.0300209270029,Bandhagen
+2014-05-16,Trollesundsvägen 50,Bandhagen,Grön Hagsätra,3,83.5,5,Lägenhet,1993,[Bandhagen],1375000,425000,1800000,6748,Mäklarringen,211.93113338295274,Bandhagen
+2014-05-15,Trollesundsvägen 26,Bandhagen,Grön Hagsätra,2,61.5,3,Lägenhet,1993,[Bandhagen],995000,335000,1330000,5959,Mäklarringen,150.26328386725697,Bandhagen
+2014-05-13,Bandhagsplan 11,Bandhagen,Grön Hagsätra,2,58.5,5,Lägenhet,1953,[Bandhagen],1850000,130000,1980000,3552,Svenska Mäklarhuset,98.82205863863425,Bandhagen
+2014-05-05,Trollesundsvägen 28C,Bandhagen,Grön Hagsätra,2,67,4,Lägenhet,1993,[Bandhagen],1190000,-70000,1120000,6487,Mäklarringen,191.72448174846764,Bandhagen
+2014-05-01,Fågelstavägen 5,Bandhagen,Grön Hagsätra,2,56,null,Lägenhet,1951,[Bandhagen],1690000,110000,1800000,3483,SthlmFast,112.4625005694011,Bandhagen
+2014-04-30,Kallforsvägen 45,Bandhagen,Grön Hagsätra,2,51.5,3,Lägenhet,1953,[Bandhagen],1595000,345000,1940000,2935,SverigeMäklaren,298.18248136276964,Bandhagen
+2014-04-29,Sjösavägen 15,Bandhagen,Grön Hagsätra,3,76,2,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1620000,0,1620000,4178,SkandiaMäklarna,580.9751439584842,Bandhagen
+2014-04-28,Fågelstavägen 44,Bandhagen,Grön Hagsätra,2,55.5,3,Lägenhet,null,[Älvsjö/Farsta/Vantör],1675000,335000,2010000,3225,Svensk Fastighetsförmedling,238.10118043436992,Bandhagen
+2014-04-24,Trollesundsvägen 28,Bandhagen,Grön Hagsätra,2,67,null,Lägenhet,1993,[Bandhagen],850000,360000,1210000,6432,Fastighetsbyrån,182.38497357794,Bandhagen
+2014-04-24,Trollesundsvägen 26,Bandhagen,Grön Hagsätra,2,62,4,Lägenhet,1994,[Älvsjö/Farsta/Vantör],995000,240000,1235000,6053,SkandiaMäklarna,150.26328386725697,Bandhagen
+2014-04-17,Sjösavägen 15,Bandhagen,Grön Hagsätra,3,75,1,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1795000,75000,1870000,4132,SkandiaMäklarna,580.9751439584842,Bandhagen
+2014-04-15,Skebokvarnsvägen 95,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,1954,[Bandhagen],1450000,350000,1800000,3904,Fastighetsbyrån,517.5706744497311,Bandhagen
+2014-04-14,Fågelstavägen 24,Bandhagen,Grön Hagsätra,1,19.5,1,Lägenhet,1953,[Bandhagen],1025000,125000,1150000,1263,ERA,153.14011657823846,Bandhagen
+2014-04-10,Fågelstavägen 1,Bandhagen,Grön Hagsätra,4,85,null,Lägenhet,1951,[Bandhagen],2125000,125000,2250000,4291,SthlmFast,108.99193480190137,Bandhagen
+2014-04-10,Fågelstavägen 5,Bandhagen,Grön Hagsätra,1,27,null,Lägenhet,1951,[Bandhagen],1095000,255000,1350000,1690,SthlmFast,112.4625005694011,Bandhagen
+2014-04-10,Trollesundsvägen 17,Bandhagen,Grön Hagsätra,4,85.5,null,Lägenhet,1992,[Bandhagen],1595000,0,1595000,5755,Notar,147.36263157713748,Bandhagen
+2014-04-10,Rockelstavägen 1,Bandhagen,Grön Hagsätra,5,114,null,Villa,2008,[Bandhagen],2995000,105000,3100000,5194,Mäklarringen,600.1617549722178,Hagdalen
+2014-04-07,Skebokvarnsvägen 99,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,1954,[Bandhagen],1395000,175000,1570000,3524,Notar,543.5808074155655,Bandhagen
+2014-04-05,Kallforsvägen 22,Bandhagen,Grön Hagsätra,3,70.5,1,Lägenhet,null,[Bandhagen],1750000,350000,2100000,3683,Svensk Fastighetsförmedling,227.34191436793827,Bandhagen
+2014-04-03,Kallforsvägen 45,Bandhagen,Grön Hagsätra,3,67,2,Lägenhet,1953,[Bandhagen],1695000,405000,2100000,3685,Svenska Mäklarhuset,298.18248136276964,Bandhagen
+2014-04-02,Mosstenabacken 3,Bandhagen,Grön Hagsätra,2,49.5,1,Lägenhet,null,[Bandhagen],1475000,550000,2025000,2812,Svensk Fastighetsförmedling,125.74597410409538,Bandhagen
+2014-03-28,Sjösavägen 17,Bandhagen,Grön Hagsätra,3,76,0,Lägenhet,1953,[Bandhagen],1795000,55000,1850000,4177,Mäklarhuset,576.8958745026135,Bandhagen
+2014-03-27,Fågelstavägen 44,Bandhagen,Grön Hagsätra,2,55,2,Lägenhet,null,[Bandhagen],1575000,455000,2030000,3092,Svensk Fastighetsförmedling,238.10118043436992,Bandhagen
+2014-03-12,Skeppstavägen 19,Bandhagen,Grön Hagsätra,3,70,1,Lägenhet,1953,[Bandhagen],1495000,335000,1830000,3610,Notar,512.5312341309361,Bandhagen
+2014-03-10,Kallforsvägen 11,Bandhagen,Grön Hagsätra,3,74,1,Lägenhet,1953,[Älvsjö/Farsta/Vantör],2020000,0,2020000,3966,SkandiaMäklarna,391.4278338238929,Bandhagen
+2014-03-10,Kallforsvägen 17,Bandhagen,Grön Hagsätra,3,68,null,Lägenhet,1953,[Bandhagen],1750000,150000,1900000,3423,Hemverket,377.8571589730176,Bandhagen
+2014-03-04,Björksundsslingan 17,Bandhagen,Grön Hagsätra,2,52,null,Lägenhet,2002,[Bandhagen],1595000,125000,1720000,3139,Hemmäklarna,432.9483301747389,Bandhagen
+2014-02-27,Trollesundsvägen 21,Bandhagen,Grön Hagsätra,4,87,null,Lägenhet,1992,[Bandhagen],1695000,260000,1955000,6223,Notar,131.95364636656086,Bandhagen
+2014-02-27,Kallforsvägen 26,Bandhagen,Grön Hagsätra,1,29,null,Lägenhet,null,[Bandhagen],1145000,355000,1500000,2024,Svensk Fastighetsförmedling,228.71486767305146,Bandhagen
+2014-02-26,Sjösavägen 69,Bandhagen,Grön Hagsätra,3,70,1,Lägenhet,1954,[Bandhagen],1650000,140000,1790000,4471,Notar,435.84853567449454,Hagdalen
+2014-02-20,Trollesundsvägen 38D,Bandhagen,Grön Hagsätra,4,102,null,Lägenhet,1993,[Bandhagen],2725000,415000,3140000,5252,Svensk Fastighetsförmedling,133.83980978408897,Bandhagen
+2014-02-20,Fågelstavägen 30,Bandhagen,Grön Hagsätra,3,74,null,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1550000,640000,2190000,3921,Fastighetsbyrån,238.56025671889478,Bandhagen
+2014-02-15,Sjösavägen 13,Bandhagen,Grön Hagsätra,1,28,1,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1150000,200000,1350000,1974,SkandiaMäklarna,602.351258609632,Bandhagen
+2014-02-13,Kallforsvägen 34,Bandhagen,Grön Hagsätra,2,56,2,Lägenhet,1953,[Bandhagen],1625000,195000,1820000,3141,Living Fastighetsmäkleri,280.81905213264366,Bandhagen
+2014-02-11,Bandhagsplan 16,Bandhagen,Grön Hagsätra,1,37,1,Lägenhet,1958,[Bandhagen],1475000,175000,1650000,2289,Svensk Fastighetsförmedling,121.93343306270066,Bandhagen
+2014-02-11,Bandhagsplan 16,Bandhagen,Grön Hagsätra,1,26,1,Lägenhet,1958,[Bandhagen],1150000,220000,1370000,1973,Svensk Fastighetsförmedling,121.93343306270066,Bandhagen
+2014-02-07,Bandhagsplan 4,Bandhagen,Grön Hagsätra,5,126,2,Lägenhet,1953,[Bandhagen],2695000,485000,3180000,6291,Mäklarringen,67.27058255903043,Bandhagen
+2014-02-05,Skebokvarnsvägen 51B,Bandhagen,Grön Hagsätra,2,54.5,3,Lägenhet,2012,[Älvsjö/Farsta/Vantör],2025000,0,2025000,3257,SkandiaMäklarna,330.35973388533034,Bandhagen
+2014-01-31,Sjösavägen 67,Bandhagen,Grön Hagsätra,2,59,null,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1450000,10000,1460000,3796,Fastighetsbyrån,442.30642190309953,Hagdalen
+2014-01-22,Sjösavägen 89,Bandhagen,Grön Hagsätra,2,61,2,Lägenhet,1953,[Bandhagen],1595000,285000,1880000,3445,Notar,357.3213813839096,Hagdalen
+2014-01-16,Kallforsvägen 29,Bandhagen,Grön Hagsätra,1,41.5,1,Lägenhet,1953,[Bandhagen],1395000,55000,1450000,2467,Erik Olsson Fastighetsförmedling,347.4996418087234,Bandhagen
+2014-01-16,Bandhagsplan 16,Bandhagen,Grön Hagsätra,1,35,1,Lägenhet,1958,[Bandhagen],1275000,375000,1650000,2230,Svensk Fastighetsförmedling,121.93343306270066,Bandhagen
+2014-01-16,Bandhagsplan 16,Bandhagen,Grön Hagsätra,2,43,1,Lägenhet,1958,[Bandhagen],1450000,260000,1710000,2659,Svensk Fastighetsförmedling,121.93343306270066,Bandhagen
+2014-01-10,Trollesundsvägen 40B,Bandhagen,Grön Hagsätra,4,102,null,Lägenhet,1993,[Bandhagen],1390000,160000,1550000,9151,Erik Olsson Fastighetsförmedling,161.6173717923956,Bandhagen
+2014-01-08,Kallforsvägen 32,Bandhagen,Grön Hagsätra,2,56,1,Lägenhet,1955,[Bandhagen],1795000,60000,1855000,3047,Bjurfors,291.8826860050705,Bandhagen
+2013-12-06,Skeppstavägen 17,Bandhagen,Grön Hagsätra,1,19,1.5,Lägenhet,1953,[Bandhagen],945000,265000,1210000,982,Restate,483.6602948377772,Bandhagen
+2013-11-29,Trollesundsvägen 17,Bandhagen,Grön Hagsätra,4,92.5,null,Lägenhet,1992,[Älvsjö/Farsta/Vantör],1595000,805000,2400000,6439,Fastighetsbyrån,147.36263157713748,Bandhagen
+2013-11-13,Kallforsvägen 43,Bandhagen,Grön Hagsätra,3,67,null,Lägenhet,1953,[Bandhagen],1700000,135000,1835000,3613,Diplomat Fastighetsmäkleri AB,311.6098166523726,Bandhagen
+2013-11-13,Trollesundsvägen 19,Bandhagen,Grön Hagsätra,2,53,null,Lägenhet,1992,[Bandhagen],1475000,45000,1520000,3692,Mäklarringen,120.47787372722271,Bandhagen
+2013-11-06,Bandhagsplan 11,Bandhagen,Grön Hagsätra,1,42.5,1,Lägenhet,1953,[Bandhagen],1200000,400000,1600000,2381,Erik Olsson Fastighetsförmedling,98.82205863863425,Bandhagen
+2013-11-05,Fågelstavägen 12,Bandhagen,Grön Hagsätra,2,55,null,Lägenhet,1953,[Bandhagen],1295000,305000,1600000,3023,HusmanHagberg,102.7107936762355,Bandhagen
+2013-11-04,Trollesundsvägen 32D,Bandhagen,Grön Hagsätra,4,102,null,Lägenhet,1993,[Bandhagen],1375000,155000,1530000,9382,Svensk Fastighetsförmedling,201.3328977896341,Bandhagen
+2013-11-01,Skebokvarnsvägen 6,Bandhagen,Grön Hagsätra,2.5,59.5,2,Lägenhet,null,[Bandhagen],1595000,155000,1750000,3603,Svensk Fastighetsförmedling,421.533865198789,Bandhagen
+2013-11-01,Oxbrovägen 11,Bandhagen,Grön Hagsätra,6,125,null,Radhus,2007,[Älvsjö/Farsta/Vantör],3100000,0,3100000,7810,Fastighetsbyrån,462.40087919979845,Bandhagen
+2013-10-28,Kallforsvägen 26,Bandhagen,Grön Hagsätra,2,58,3,Lägenhet,1953,[Bandhagen],1495000,325000,1820000,3270,Svensk Fastighetsförmedling,228.71486767305146,Bandhagen
+2013-10-26,Skeppstavägen 19,Bandhagen,Grön Hagsätra,3,70,1.5,Lägenhet,1953,[Bandhagen],1750000,0,1750000,3610,Restate,512.5312341309361,Bandhagen
+2013-10-25,Fågelstavägen 32,Bandhagen,Grön Hagsätra,3,74,3,Lägenhet,1953,[Bandhagen],1875000,325000,2200000,3921,Mäklarhuset,231.3361581659082,Bandhagen
+2013-10-25,Kallforsvägen 8,Bandhagen,Grön Hagsätra,3,70,1,Lägenhet,1953,[Bandhagen],1750000,160000,1910000,3623,Mäklarhuset,314.86693712881,Bandhagen
+2013-10-24,Skebokvarnsvägen 4,Bandhagen,Grön Hagsätra,4,93.5,null,Lägenhet,null,[Bandhagen],2595000,125000,2720000,5662,Svensk Fastighetsförmedling,428.0300209270029,Bandhagen
+2013-10-24,Kallforsvägen 7,Bandhagen,Grön Hagsätra,3,74,null,Lägenhet,1955,[Bandhagen],1700000,160000,1860000,3921,Länsförsäkringar Fastighetsförmedling,372.25564091635675,Bandhagen
+2013-10-16,Sjösavägen 93,Bandhagen,Grön Hagsätra,2,61,null,Lägenhet,null,[Bandhagen],1395000,405000,1800000,3445,Notar,367.2880593117258,Hagdalen
+2013-10-10,Kallforsvägen 29,Bandhagen,Grön Hagsätra,1,41.5,3,Lägenhet,null,[Bandhagen],1295000,105000,1400000,2504,Mäklarhuset,347.4996418087234,Bandhagen
+2013-10-08,Bandhagsplan 11,Bandhagen,Grön Hagsätra,1,43.5,5,Lägenhet,null,[Bandhagen],1195000,375000,1570000,2612,Erik Olsson Fastighetsförmedling,98.82205863863425,Bandhagen
+2013-10-08,Oxbrovägen 10,Bandhagen,Grön Hagsätra,6,125,null,Villa,2007,[Bandhagen-Högdalen],3195000,440000,3635000,6097,Mäklarringen,497.9162887382933,Bandhagen
+2013-09-27,Sjösavägen 11,Bandhagen,Grön Hagsätra,2,56,null,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1295000,255000,1550000,3259,SkandiaMäklarna,601.2704082540362,Bandhagen
+2013-09-26,Almnäsvägen 5,Bandhagen,Grön Hagsätra,5,110,null,Villa,1955,[Älvsjö/Farsta/Vantör],4295000,5000,4300000,null,Fastighetsbyrån,754.5329815293513,Bandhagen
+2013-09-26,Trollesundsvägen 46,Bandhagen,Grön Hagsätra,2,62,3,Lägenhet,1993,[Bandhagen],1450000,225000,1675000,4855,Mäklarringen,143.63615621462355,Bandhagen
+2013-09-16,Trollesundsvägen 46,Bandhagen,Grön Hagsätra,2,62,null,Lägenhet,1993,[Bandhagen],1225000,-75000,1150000,5986,Balders Ädelmarks,143.63615621462355,Bandhagen
+2013-09-13,Trollesundsvägen 33,Bandhagen,Grön Hagsätra,4,87,null,Lägenhet,1992,[Älvsjö/Farsta/Vantör],1395000,265000,1660000,6537,Fastighetsbyrån,312.0658306182936,Bandhagen
+2013-09-07,Skeppstavägen 23,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,1953,[Bandhagen],1495000,125000,1620000,2556,Mäklarringen,550.5605017134202,Bandhagen
+2013-09-06,Sjösavägen 91,Bandhagen,Grön Hagsätra,2,61,null,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1395000,155000,1550000,3445,Fastighetsbyrån,364.25608140371594,Hagdalen
+2013-09-05,Skebokvarnsvägen 87,Bandhagen,Grön Hagsätra,1,25,1,Lägenhet,1954,[Bandhagen],1150000,160000,1310000,1856,Mäklarhuset,337.07336945843383,Bandhagen
+2013-09-02,Kallforsvägen 22,Bandhagen,Grön Hagsätra,3,70.5,null,Lägenhet,1953,[Bandhagen],1645000,0,1645000,3759,Svensk Fastighetsförmedling,227.34191436793827,Bandhagen
+2013-08-30,Kallforsvägen 10,Bandhagen,Grön Hagsätra,2,56,null,Lägenhet,1953,[Bandhagen],1495000,165000,1660000,3033,Mäklarringen,307.3895794587507,Bandhagen
+2013-08-27,Björksundsslingan 15,Bandhagen,Grön Hagsätra,4,90,4,Lägenhet,2003,[Bandhagen],1975000,175000,2150000,5964,Svensk Fastighetsförmedling,410.34014065277483,Bandhagen
+2013-08-21,Skeppstavägen,Bandhagen,Grön Hagsätra,2,57,21.5,Lägenhet,1953,[Bandhagen],1575000,115000,1690000,2556,Mäklarringen,524.9842202290648,Bandhagen
+2013-08-12,Bandhagsplan 11,Bandhagen,Grön Hagsätra,2,58.5,null,Lägenhet,1953,[Bandhagen],1510000,0,1510000,3508,SkandiaMäklarna,98.82205863863425,Bandhagen
+2013-07-09,Sjösavägen 13,Bandhagen,Grön Hagsätra,2,55,null,Lägenhet,1953,[Högdalen],1350000,0,1350000,3214,SkandiaMäklarna,602.351258609632,Bandhagen
+2013-07-09,Skeppstavägen 15,Bandhagen,Grön Hagsätra,3,77,3,Lägenhet,1953,[Bandhagen],1695000,390000,2085000,3453,Mäklarringen,466.53254116036936,Bandhagen
+2013-07-05,Bandhagsplan 11,Bandhagen,Grön Hagsätra,1,19.5,10,Lägenhet,1953,[Bandhagen],900000,300000,1200000,1495,Svenska Mäklarhuset,98.82205863863425,Bandhagen
+2013-06-20,Sjösavägen 13,Bandhagen,Grön Hagsätra,2,59,null,Lägenhet,1953,[Högdalen],1350000,30000,1380000,3397,SkandiaMäklarna,602.351258609632,Bandhagen
+2013-06-19,Skeppstavägen 33,Bandhagen,Grön Hagsätra,3,69,2.5,Lägenhet,1953,[Bandhagen],1795000,105000,1900000,3095,Restate,640.3557826212208,Bandhagen
+2013-06-19,Trollesundsvägen 26,Bandhagen,Grön Hagsätra,2,62,null,Lägenhet,1994,[Bandhagen],1000000,140000,1140000,6150,SkandiaMäklarna,150.26328386725697,Bandhagen
+2013-06-18,Kallforsvägen 41,Bandhagen,Grön Hagsätra,2,58,null,Lägenhet,1953,[Bandhagen],1495000,185000,1680000,3179,Svensk Fastighetsförmedling,290.8194533485284,Bandhagen
+2013-06-13,Mosstenabacken 1,Bandhagen,Grön Hagsätra,1,43.5,null,Lägenhet,1953,[Bandhagen],1090000,300000,1390000,2404,SkandiaMäklarna,86.47682720287668,Bandhagen
+2013-06-12,Kallforsvägen 15,Bandhagen,Grön Hagsätra,3,74.5,null,Lägenhet,null,[Bandhagen],1500000,210000,1710000,3966,Diplomat Fastighetsmäkleri AB,392.02629206795604,Bandhagen
+2013-05-30,Trollesundsvägen 52,Bandhagen,Grön Hagsätra,2,62.5,null,Lägenhet,1993,[Bandhagen],1090000,0,1090000,5351,SkandiaMäklarna,247.6895985542438,Bandhagen
+2013-05-30,Kallforsvägen 5,Bandhagen,Grön Hagsätra,3,74,null,Lägenhet,1953,[Bandhagen],1650000,110000,1760000,4035,Svensk Fastighetsförmedling,361.24909417757164,Bandhagen
+2013-05-30,Fågelstavägen 10,Bandhagen,Grön Hagsätra,3,75.5,null,Lägenhet,1953,[Bandhagen],1675000,80000,1755000,3866,Svensk Fastighetsförmedling,95.53756101676073,Bandhagen
+2013-05-24,Fågelstavägen 30,Bandhagen,Grön Hagsätra,3,74,null,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1750000,260000,2010000,3921,Fastighetsbyrån,238.56025671889478,Bandhagen
+2013-05-22,Fågelstavägen 28,Bandhagen,Grön Hagsätra,3,74,null,Lägenhet,1953,[Bandhagen],1695000,35000,1730000,3759,Svensk Fastighetsförmedling,237.67815112353406,Bandhagen
+2013-05-14,Trollesundsvägen 52,Bandhagen,Grön Hagsätra,2,67.5,null,Lägenhet,1993,[Bandhagen],1300000,0,1300000,5587,Mäklarringen,247.6895985542438,Bandhagen
+2013-05-08,Trollesundsvägen 23,Bandhagen,Grön Hagsätra,2,60.5,null,Lägenhet,1992,[Bandhagen],1200000,110000,1310000,4437,Hemmäklarna,148.13277695957592,Bandhagen
+2013-05-04,Kallforsvägen 28,Bandhagen,Grön Hagsätra,2,57.5,null,Lägenhet,1953,[Bandhagen],1495000,95000,1590000,3194,Svensk Fastighetsförmedling,233.53731949412006,Bandhagen
+2013-04-30,Trollesundsvägen 21,Bandhagen,Grön Hagsätra,4,91,null,Lägenhet,1992,[Bandhagen],1585000,5000,1590000,6346,Svensk Fastighetsförmedling,131.95364636656086,Bandhagen
+2013-04-27,Sjösavägen 73,Bandhagen,Grön Hagsätra,3,70,3,Lägenhet,1954,[Bandhagen],1600000,160000,1760000,4471,Svenska Mäklarhuset,399.4358842618789,Hagdalen
+2013-04-27,Sjösavägen 95,Bandhagen,Grön Hagsätra,4,81,3,Lägenhet,1954,[Högdalen],1545000,515000,2060000,4538,Hemmäklarna,371.27694918346623,Hagdalen
+2013-04-23,Bandhagsplan 11,Bandhagen,Grön Hagsätra,2,58.5,3,Lägenhet,1953,[Bandhagen],1490000,210000,1700000,3429,Mäklarringen,98.82205863863425,Bandhagen
+2013-04-19,Fågelstavägen 24,Bandhagen,Grön Hagsätra,2,55.5,null,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1395000,195000,1590000,3162,Fastighetsbyrån,153.14011657823846,Bandhagen
+2013-04-12,Kallforsvägen 36,Bandhagen,Grön Hagsätra,2,56,null,Lägenhet,1953,[Bandhagen],1495000,55000,1550000,3141,SkandiaMäklarna,271.06251785651887,Bandhagen
+2013-04-06,Kallforsvägen 16,Bandhagen,Grön Hagsätra,2,56,null,Lägenhet,1953,[Bandhagen],1495000,105000,1600000,3108,Svensk Fastighetsförmedling,263.4724611289869,Bandhagen
+2013-03-14,Skeppstavägen 15,Bandhagen,Grön Hagsätra,1,19,null,Lägenhet,null,[Bandhagen],990000,10000,1000000,852,Mäklarringen,466.53254116036936,Bandhagen
+2013-03-13,Fågelstavägen 16,Bandhagen,Grön Hagsätra,3,67.5,null,Lägenhet,1994,[Bandhagen],1595000,0,1595000,3416,Mäklarringen,160.64644727180573,Bandhagen
+2013-03-13,Bandhagsplan 9,Bandhagen,Grön Hagsätra,1,19.5,7,Lägenhet,1953,[Bandhagen],950000,80000,1030000,1548,Svenska Mäklarhuset,80.09756925873374,Bandhagen
+2013-03-11,Fågelstavägen 42,Bandhagen,Grön Hagsätra,2,55,1,Lägenhet,1953,[Bandhagen],1550000,190000,1740000,2980,Svensk Fastighetsförmedling,242.9156496614289,Bandhagen
+2013-03-08,Skeppstavägen 33,Bandhagen,Grön Hagsätra,3,69,null,Lägenhet,1953,[Bandhagen],1700000,160000,1860000,3094,Bjurfors,640.3557826212208,Bandhagen
+2013-03-07,Skeppstavägen 33,Bandhagen,Grön Hagsätra,1,25,null,Lägenhet,1953,[Bandhagen],1175000,100000,1275000,1121,Restate,640.3557826212208,Bandhagen
+2013-03-07,Skeppstavägen 19,Bandhagen,Grön Hagsätra,1,27,null,Lägenhet,1953,[Bandhagen],825000,485000,1310000,1211,Mäklarringen,512.5312341309361,Bandhagen
+2013-03-06,Bandhagsplan 9,Bandhagen,Grön Hagsätra,1,19.5,null,Lägenhet,null,[Bandhagen],950000,40000,990000,1548,Mäklarringen,80.09756925873374,Bandhagen
+2013-03-06,Skebokvarnsvägen 97,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,null,[Älvsjö/Farsta/Vantör],1400000,20000,1420000,3524,Ansvar Fastighetsförmedling,530.0680273452311,Bandhagen
+2013-02-27,Kallforsvägen 23,Bandhagen,Grön Hagsätra,3,76,null,Lägenhet,1953,[Bandhagen],1795000,280000,2075000,4058,Svenska Mäklarhuset,331.48449234871583,Bandhagen
+2013-02-01,Sjösavägen 67,Bandhagen,Grön Hagsätra,2,59,2,Lägenhet,1954,[Högdalen],1295000,10000,1305000,3796,Svenska Mäklarhuset,442.30642190309953,Hagdalen
+2013-01-31,Fågelstavägen 32,Bandhagen,Grön Hagsätra,3,74,null,Lägenhet,1994,[Bandhagen],1590000,10000,1600000,null,Mäklarringen,231.3361581659082,Bandhagen
+2013-01-25,Sjösavägen 97,Bandhagen,Grön Hagsätra,4,81,null,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1600000,-50000,1550000,4538,Fastighetsbyrån,361.41767834868307,Hagdalen
+2013-01-23,Kallforsvägen 27,Bandhagen,Grön Hagsätra,3,69,null,Lägenhet,1953,[Bandhagen],1595000,105000,1700000,3518,Svensk Fastighetsförmedling,356.10013869712395,Bandhagen
+2013-01-21,Bandhagsplan 9,Bandhagen,Grön Hagsätra,2,44.5,null,Lägenhet,1953,[Bandhagen],1150000,275000,1425000,2687,SkandiaMäklarna,80.09756925873374,Bandhagen
+2013-01-18,Fågelstavägen 14,Bandhagen,Grön Hagsätra,2,55.5,null,Lägenhet,1953,[Bandhagen],1475000,180000,1655000,3116,Svensk Fastighetsförmedling,130.6863623898714,Bandhagen
+2013-01-18,Sjösavägen 69,Bandhagen,Grön Hagsätra,3,70,0.5,Lägenhet,1954,[Högdalen],1475000,145000,1620000,4471,Svenska Mäklarhuset,435.84853567449454,Hagdalen
+2013-01-16,Fågelstavägen 16,Bandhagen,Grön Hagsätra,3,75.5,null,Lägenhet,1953,[Bandhagen],1650000,80000,1730000,3876,Svensk Fastighetsförmedling,160.64644727180573,Bandhagen
+2013-01-15,Skebokvarnsvägen 51B,Bandhagen,Grön Hagsätra,4,90.5,null,Lägenhet,2012,[Bandhagen],2695000,-95000,2600000,4695,Notar,330.35973388533034,Bandhagen
+2013-01-14,Trollesundsvägen 26,Bandhagen,Grön Hagsätra,2,62,null,Lägenhet,1993,[Bandhagen],750000,190000,940000,6037,SkandiaMäklarna,150.26328386725697,Bandhagen
+2012-12-06,Fågelstavägen 28,Bandhagen,Grön Hagsätra,3,74,null,Lägenhet,1953,[Bandhagen],1675000,220000,1895000,3832,Svensk Fastighetsförmedling,237.67815112353406,Bandhagen
+2012-12-03,Skebokvarnsvägen 6,Bandhagen,Grön Hagsätra,4,93.5,null,Lägenhet,2009,[Bandhagen],2675000,0,2675000,5341,Svensk Fastighetsförmedling,421.533865198789,Bandhagen
+2012-11-29,Kallforsvägen 31,Bandhagen,Grön Hagsätra,1,41.5,null,Lägenhet,1953,[Bandhagen],1050000,360000,1410000,2419,SkandiaMäklarna,337.89968698894546,Bandhagen
+2012-11-22,Trollesundsvägen 52,Bandhagen,Grön Hagsätra,3,91.5,9,Lägenhet,null,[Högdalen],1300000,-75000,1225000,7196,Erik Olsson Fastighetsförmedling,247.6895985542438,Bandhagen
+2012-11-15,Mosstenabacken 1,Bandhagen,Grön Hagsätra,2,49.5,null,Lägenhet,1953,[Bandhagen],1395000,155000,1550000,2794,Svensk Fastighetsförmedling,86.47682720287668,Bandhagen
+2012-11-13,Mosstenabacken 5,Bandhagen,Grön Hagsätra,2,49.5,null,Lägenhet,1953,[Bandhagen-Högdalen],1200000,280000,1480000,2794,Mäklarringen,159.27521386814598,Bandhagen
+2012-11-02,Rockelstavägen 12,Bandhagen,Grön Hagsätra,3,73,null,Lägenhet,2009,[Bandhagen],2400000,100000,2500000,3748,Bjurfors,580.4085153165507,Hagdalen
+2012-10-31,Björksundsslingan 15,Bandhagen,Grön Hagsätra,2,58,null,Lägenhet,2002,[Bandhagen],1425000,0,1425000,4158,Mäklarringen,410.34014065277483,Bandhagen
+2012-10-24,Bandhagsplan 2,Bandhagen,Grön Hagsätra,1,28.5,1,Lägenhet,1958,[Bandhagen],975000,325000,1300000,1717,Svensk Fastighetsförmedling,99.06914651078186,Bandhagen
+2012-10-23,Skebokvarnsvägen 4,Bandhagen,Grön Hagsätra,4,93.5,2,Lägenhet,null,[Bandhagen],2675000,275000,2950000,5341,Svensk Fastighetsförmedling,428.0300209270029,Bandhagen
+2012-10-09,Fågelstavägen 16A,Bandhagen,Grön Hagsätra,2,57,null,Lägenhet,1953,[Bandhagen],1550000,120000,1670000,3011,Svensk Fastighetsförmedling,174.24200513022382,Bandhagen
+2012-09-30,Fågelstavägen 12,Bandhagen,Grön Hagsätra,2,55.5,null,Lägenhet,1953,[Bandhagen],1350000,0,1350000,3011,SkandiaMäklarna,102.7107936762355,Bandhagen
+2012-09-07,Fågelstavägen 10,Bandhagen,Grön Hagsätra,3,75.5,null,Lägenhet,1953,[Bandhagen],1575000,190000,1765000,3847,SkandiaMäklarna,95.53756101676073,Bandhagen

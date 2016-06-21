@@ -1,0 +1,287 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-13,Tunnlandsvägen 3,Åkeslund,Grön Hässelby,4,99,2,Lägenhet,1992,[Bromma Abrahamsberg],3990000,1520000,5510000,6089,Notar,489.5049884826486,Brommaplan
+2016-05-11,Besmansvägen 8,Åkeslund,Grön Hässelby,2,46,-1,Lägenhet,null,[Bromma],1995000,505000,2500000,2757,Svenska Mäklarhuset,513.1909528423387,Abrahamsberg
+2016-05-06,Fredrikslundsvägen 23,Åkeslund,Grön Hässelby,2,44,1,Lägenhet,1942,[Abrahamsberg],2395000,335000,2730000,2624,Länsförsäkringar Fastighetsförmedling,552.3368988544446,Brommaplan
+2016-04-30,Fredrikslundsvägen 17,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1940,[Bromma Abrahamsberg],2600000,0,2600000,2694,Mäklarringen,576.8996795926806,Brommaplan
+2016-04-29,Spannvägen 18,Åkeslund,Grön Hässelby,2,50,1,Lägenhet,1942,[Bromma],2395000,0,2395000,3238,Svensk Fastighetsförmedling,344.65660937228665,Abrahamsberg
+2016-04-29,Tunnlandsvägen 77,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Åkeslund],2495000,330000,2825000,2992,Länsförsäkringar Fastighetsförmedling,156.93222152086898,Brommaplan
+2016-04-29,Tunnlandsvägen 26,Åkeslund,Grön Hässelby,2,42,2,Lägenhet,1944,[Brommaplan],2195000,255000,2450000,3450,Fastighetsbyrån,423.81875606586016,Brommaplan
+2016-04-28,Tunnlandsvägen 35,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1943,[Åkeslund],2495000,505000,3000000,2992,Länsförsäkringar Fastighetsförmedling,322.76836655691613,Brommaplan
+2016-04-26,Stopvägen 71,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1940,[Bromma Abrahamsberg],2195000,435000,2630000,2781,Notar,324.53377082231543,Brommaplan
+2016-04-21,Spannvägen 9,Åkeslund,Grön Hässelby,2,40,3,Lägenhet,1942,[Bromma Abrahamsberg],2150000,350000,2500000,2525,Notar,377.7884902606089,Abrahamsberg
+2016-04-20,Spannvägen 30,Åkeslund,Grön Hässelby,3,82,4,Lägenhet,2008,[Abrahamsberg],4395000,805000,5200000,5158,Länsförsäkringar Fastighetsförmedling,312.2801059361109,Abrahamsberg
+2016-04-15,Stopvägen 41,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,null,[Bromma],2195000,365000,2560000,2578,Svenska Mäklarhuset,437.4473659356884,Abrahamsberg
+2016-04-14,Stopvägen 83,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,null,[Bromma],2195000,335000,2530000,2787,Svenska Mäklarhuset,256.8577747564757,Brommaplan
+2016-04-14,Spannvägen 14,Åkeslund,Grön Hässelby,3,72,3,Lägenhet,1942,[Abrahamsberg],3795000,705000,4500000,4414,Fastighetsbyrån,346.9899054994645,Abrahamsberg
+2016-04-08,Spannvägen 26,Åkeslund,Grön Hässelby,2,40,3,Lägenhet,null,[Bromma],2250000,410000,2660000,2525,Svenska Mäklarhuset,337.4391125271805,Abrahamsberg
+2016-04-06,Spannvägen 20,Åkeslund,Grön Hässelby,3,68,null,Lägenhet,1942,[Bromma Abrahamsberg],3450000,800000,4250000,4414,Mäklare Sjögren,333.6973318801782,Abrahamsberg
+2016-04-02,Tunnlandsvägen 24,Åkeslund,Grön Hässelby,2,42,2,Lägenhet,1944,[Åkeslund],2295000,30000,2325000,3450,Länsförsäkringar Fastighetsförmedling,430.26751599392935,Brommaplan
+2016-03-31,Stopvägen 83,Åkeslund,Grön Hässelby,2,41,1,Lägenhet,1940,[Bromma],2195000,395000,2590000,2787,Svensk Fastighetsförmedling,256.8577747564757,Brommaplan
+2016-03-29,Stopvägen 31,Åkeslund,Grön Hässelby,3,71,1,Lägenhet,1944,[Bromma Abrahamsberg],3195000,925000,4120000,3755,Notar,425.547022529181,Abrahamsberg
+2016-03-29,Tunnlandsvägen 85,Åkeslund,Grön Hässelby,3,77,8,Lägenhet,1997,[Bromma Brommaplan],3890000,410000,4300000,3894,Notar,367.370101640795,Brommaplan
+2016-03-29,Stopvägen 43,Åkeslund,Grön Hässelby,2,43,2,Lägenhet,null,[Bromma],1995000,805000,2800000,2388,Svenska Mäklarhuset,451.6760311373503,Abrahamsberg
+2016-03-24,Spannvägen 10,Åkeslund,Grön Hässelby,2,49,1,Lägenhet,1942,[Abrahamsberg],2795000,115000,2910000,2500,Länsförsäkringar Fastighetsförmedling,351.4903858182054,Abrahamsberg
+2016-03-23,Stopvägen 52,Åkeslund,Grön Hässelby,3,48.5,3,Lägenhet,1942,[Bromma Abrahamsberg],2490000,470000,2960000,3158,Notar,409.3017564031809,Abrahamsberg
+2016-03-19,Tunnlandsvägen 71,Åkeslund,Grön Hässelby,3,62,1,Lägenhet,null,[Åkeslund],2995000,505000,3500000,3635,Länsförsäkringar Fastighetsförmedling,171.73047644842424,Brommaplan
+2016-03-15,Tunnlandsvägen 47,Åkeslund,Grön Hässelby,2,42,3,Lägenhet,1943,[Bromma Åkeslund Abrahamsberg],2495000,455000,2950000,2835,Mäklarringen,254.77258894004868,Brommaplan
+2016-03-12,Gustav III:s väg 52,Åkeslund,Grön Hässelby,2,66,2,Lägenhet,1992,[Abrahamsberg],2595000,455000,3050000,4009,Fastighetsbyrån,604.4039367448867,Brommaplan
+2016-03-03,Stopvägen 107,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1940,[Bromma],2295000,415000,2710000,2525,Svensk Fastighetsförmedling,148.09594373534492,Brommaplan
+2016-03-02,Stopvägen 93,Åkeslund,Grön Hässelby,3,65,2,Lägenhet,1940,[Abrahamsberg],3395000,55000,3450000,3919,Länsförsäkringar Fastighetsförmedling,214.98448701692644,Brommaplan
+2016-02-18,Tunnlandsvägen 41,Åkeslund,Grön Hässelby,2,47,3,Lägenhet,1943,[Åkeslund],2495000,455000,2950000,2992,Länsförsäkringar Fastighetsförmedling,281.85677418692853,Brommaplan
+2016-02-10,Spannvägen 11,Åkeslund,Grön Hässelby,2,38.5,3,Lägenhet,1942,[Bromma Abrahamsberg],2250000,350000,2600000,2525,Notar,389.1141774242215,Abrahamsberg
+2016-02-04,Fredrikslundsvägen 3,Åkeslund,Grön Hässelby,2,44,3,Lägenhet,1934,[Abrahamsberg],1995000,595000,2590000,2878,Länsförsäkringar Fastighetsförmedling,618.5209873944547,Brommaplan
+2016-02-03,Stopvägen 62,Åkeslund,Grön Hässelby,2.5,48.5,2,Lägenhet,1942,[Bromma],2175000,525000,2700000,3158,Bjurfors,414.51870417123604,Brommaplan
+2016-01-28,Tunnlandsvägen 85,Åkeslund,Grön Hässelby,4,93,4,Lägenhet,1999,[Bromma Brommaplan],3395000,1705000,5100000,4640,Mäklarringen,367.370101640795,Brommaplan
+2016-01-28,Tunnlandsvägen 53,Åkeslund,Grön Hässelby,2,42,1,Lägenhet,1943,[Åkeslund],2395000,405000,2800000,2835,Länsförsäkringar Fastighetsförmedling,229.1637068769228,Brommaplan
+2016-01-22,Fredrikslundsvägen 45,Åkeslund,Grön Hässelby,2,785,2,Lägenhet,null,[Abrahamsberg],2495000,355000,2850000,2938,Länsförsäkringar Fastighetsförmedling,521.6687447378312,Brommaplan
+2016-01-20,Fredrikslundsvägen 21,Åkeslund,Grön Hässelby,2,41,1,Lägenhet,1940,[Bromma Brommaplan],1995000,405000,2400000,2388,Notar,554.778095649532,Brommaplan
+2016-01-20,Tunnlandsvägen 35,Åkeslund,Grön Hässelby,2,47,3,Lägenhet,1943,[Brommaplan],2495000,605000,3100000,2992,Länsförsäkringar Fastighetsförmedling,322.76836655691613,Brommaplan
+2016-01-20,Tunnlandsvägen 91,Åkeslund,Grön Hässelby,3.5,92,5,Lägenhet,1964,[Bromma],3975000,875000,4850000,4285,Mäklarhuset,372.5922178323642,Brommaplan
+2016-01-15,Fredrikslundsvägen 53,Åkeslund,Grön Hässelby,2,41,1,Lägenhet,1944,[Bromma Abrahamsberg],2190000,120000,2310000,2096,Notar,493.94664211162006,Brommaplan
+2016-01-12,Stopvägen 70,Åkeslund,Grön Hässelby,2,40,2,Lägenhet,1942,[Abrahamsberg],1995000,505000,2500000,2525,Living Fastighetsmäkleri,401.78160427379663,Brommaplan
+2015-12-28,Tunnlandsvägen 91,Åkeslund,Grön Hässelby,3.5,92.5,4,Lägenhet,1964,[Brommaplan],3300000,-550000,2750000,4227,Mäklarringen,372.5922178323642,Brommaplan
+2015-12-16,Tunnlandsvägen 49,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1943,[Åkeslund],2495000,335000,2830000,2992,Länsförsäkringar Fastighetsförmedling,254.20931057967695,Brommaplan
+2015-12-11,Tunnlandsvägen 35,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Brommaplan],3000000,0,3000000,2992,Länsförsäkringar Fastighetsförmedling,322.76836655691613,Brommaplan
+2015-11-27,Fredrikslundsvägen 51,Åkeslund,Grön Hässelby,2,55,3,Lägenhet,1944,[Bromma],2495000,820000,3315000,2693,Svensk Fastighetsförmedling,497.53520127045175,Brommaplan
+2015-11-26,Tunnlandsvägen 24,Åkeslund,Grön Hässelby,2,42,2,Lägenhet,1944,[Abrahamsberg],2195000,25000,2220000,3450,Erik Olsson Fastighetsförmedling,430.26751599392935,Brommaplan
+2015-11-26,Tunnlandsvägen 93,Åkeslund,Grön Hässelby,3,92.5,6,Lägenhet,1998,[Åkeslund],3795000,5000,3800000,4299,Länsförsäkringar Fastighetsförmedling,301.9639903083744,Brommaplan
+2015-11-20,Stopvägen 70,Åkeslund,Grön Hässelby,2,40,3,Lägenhet,1942,[Bromma Abrahamsberg],2150000,300000,2450000,2525,HusmanHagberg,401.78160427379663,Brommaplan
+2015-11-18,Tunnlandsvägen 33,Åkeslund,Grön Hässelby,3,60,1,Lägenhet,1943,[Åkeslund],2995000,655000,3650000,3585,Länsförsäkringar Fastighetsförmedling,335.9269505206899,Brommaplan
+2015-11-06,Stopvägen 85,Åkeslund,Grön Hässelby,2,48,4,Lägenhet,1940,[Abrahamsberg],2395000,325000,2720000,2978,Fastighetsbyrån,247.49085163912218,Brommaplan
+2015-11-06,Stopvägen 114,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Brommaplan],2395000,105000,2500000,2740,Fastighetsbyrån,123.57414997173754,Brommaplan
+2015-11-05,Stopvägen 114,Åkeslund,Grön Hässelby,2,52,3,Lägenhet,1943,[Brommaplan],2595000,425000,3020000,2980,Länsförsäkringar Fastighetsförmedling,123.57414997173754,Brommaplan
+2015-11-03,Stopvägen 96,Åkeslund,Grön Hässelby,2,39,3,Lägenhet,1943,[Abrahamsberg],2195000,0,2195000,2890,Länsförsäkringar Fastighetsförmedling,241.7860045789458,Brommaplan
+2015-10-30,Spannvägen 36,Åkeslund,Grön Hässelby,2.5,53,2,Lägenhet,1942,[Bromma Abrahamsberg],2450000,685000,3135000,2582,HusmanHagberg,378.47921961066515,Abrahamsberg
+2015-10-27,Stopvägen 123,Åkeslund,Grön Hässelby,2,46,3,Lägenhet,1944,[Brommaplan],2295000,265000,2560000,2656,Fastighetsbyrån,144.53548243241778,Brommaplan
+2015-10-23,Åkeshovsvägen 44,Åkeslund,Grön Hässelby,3,85,2,Lägenhet,1968,[Bromma Olovslund],3895000,405000,4300000,3405,HusmanHagberg,560.8409625189337,Brommaplan
+2015-10-23,Besmansvägen 22,Åkeslund,Grön Hässelby,2,41,1,Lägenhet,1942,[Abrahamsberg],2195000,235000,2430000,2850,Fastighetsbyrån,508.33879337164956,Brommaplan
+2015-10-08,Stopvägen 70,Åkeslund,Grön Hässelby,2,40,2,Lägenhet,1942,[Abrahamsberg],2195000,365000,2560000,2525,Fastighetsbyrån,401.78160427379663,Brommaplan
+2015-10-08,Tunnlandsvägen 91,Åkeslund,Grön Hässelby,3,82,4,Lägenhet,null,[Bromma],2950000,-50000,2900000,3929,BOSTHLM,372.5922178323642,Brommaplan
+2015-10-08,Stopvägen 107,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1944,[Bromma Brommaplan],2150000,400000,2550000,2476,HusmanHagberg,148.09594373534492,Brommaplan
+2015-10-06,Kapplandsvägen 6,Åkeslund,Grön Hässelby,3.5,80,11,Lägenhet,2008,[Brommaplan],3975000,1375000,5350000,4777,Karlsson & Uddare,51.287092984140514,Brommaplan
+2015-10-02,Spannvägen 30,Åkeslund,Grön Hässelby,2,66,1,Lägenhet,2008,[Abrahamsberg],2995000,705000,3700000,4290,Fastighetsbyrån,312.2801059361109,Abrahamsberg
+2015-09-24,Tunnlandsvägen 3,Åkeslund,Grön Hässelby,4,114,3,Lägenhet,1992,[Bromma Abrahamsberg],4490000,1710000,6200000,6892,Notar,489.5049884826486,Brommaplan
+2015-09-24,Tunnlandsvägen 41,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1943,[Åkeslund],2495000,455000,2950000,2992,Länsförsäkringar Fastighetsförmedling,281.85677418692853,Brommaplan
+2015-09-24,Tunnlandsvägen 53,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Abrahamsberg],2495000,480000,2975000,2992,Fastighetsbyrån,229.1637068769228,Brommaplan
+2015-09-21,Stopvägen 64,Åkeslund,Grön Hässelby,2,48.5,1,Lägenhet,1942,[Abrahamsberg],2650000,50000,2700000,3141,Länsförsäkringar Fastighetsförmedling,412.2313493493163,Abrahamsberg
+2015-09-17,Spannvägen 11,Åkeslund,Grön Hässelby,2,40.3,1,Lägenhet,1942,[Bromma Abrahamsberg],2150000,550000,2700000,2510,Notar,389.1141774242215,Abrahamsberg
+2015-09-11,Stopvägen 123,Åkeslund,Grön Hässelby,2,51,3,Lägenhet,1940,[Bromma Åkeslund],2495000,725000,3220000,3108,Länsförsäkringar Fastighetsförmedling,144.53548243241778,Brommaplan
+2015-09-11,Tunnlandsvägen 63,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Åkeslund],2495000,565000,3060000,2992,Länsförsäkringar Fastighetsförmedling,199.68094434183413,Brommaplan
+2015-09-10,Spannvägen 13,Åkeslund,Grön Hässelby,2,38.5,3,Lägenhet,1942,[Abrahamsberg],2195000,425000,2620000,2525,Fastighetsbyrån,379.57942313466873,Abrahamsberg
+2015-08-26,Tunnlandsvägen 46,Åkeslund,Grön Hässelby,2,51,2,Lägenhet,null,[Bromma Brommaplan],2395000,725000,3120000,2710,Svenska Mäklarhuset,215.22905861066653,Brommaplan
+2015-08-19,Spannvägen 46,Åkeslund,Grön Hässelby,2,64,4,Lägenhet,2007,[Abrahamsberg],3095000,855000,3950000,4182,Fastighetsbyrån,366.51284181363724,Brommaplan
+2015-08-17,Tunnlandsvägen 31,Åkeslund,Grön Hässelby,2,47,3,Lägenhet,1943,[Abrahamsberg],2395000,185000,2580000,2992,Länsförsäkringar Fastighetsförmedling,349.42287465870095,Brommaplan
+2015-08-12,Fredrikslundsvägen 51,Åkeslund,Grön Hässelby,2,48,3,Lägenhet,1944,[Bromma],2725000,0,2725000,2350,Svensk Fastighetsförmedling,497.53520127045175,Brommaplan
+2015-08-05,Stopvägen 95,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,null,[Bromma],2095000,485000,2580000,2890,Svenska Mäklarhuset,208.05901205099423,Brommaplan
+2015-07-03,Spannvägen 19,Åkeslund,Grön Hässelby,2,48.5,3,Lägenhet,1942,[Bromma Abrahamsberg],2495000,255000,2750000,3158,Notar,390.62158103007596,Brommaplan
+2015-06-29,Tunnlandsvägen 42,Åkeslund,Grön Hässelby,2,54,1,Lägenhet,1942,[Abrahamsberg],1975000,395000,2370000,3710,Fastighetsbyrån,249.2718609475292,Brommaplan
+2015-06-26,Tunnlandsvägen 85,Åkeslund,Grön Hässelby,3,78,7,Lägenhet,1997,[Bromma Brommaplan],3190000,460000,3650000,3929,Notar,367.370101640795,Brommaplan
+2015-06-26,Plåtslagarvägen 20,Åkeslund,Grön Hässelby,2,64,5,Lägenhet,2008,[Bromma Abrahamsberg],2795000,830000,3625000,4182,Notar,226.31598897132181,Abrahamsberg
+2015-06-24,Stopvägen 52,Åkeslund,Grön Hässelby,2,50,2,Lägenhet,1942,[Åkeslund],2395000,205000,2600000,3158,Länsförsäkringar Fastighetsförmedling,409.3017564031809,Abrahamsberg
+2015-06-18,Tunnlandsvägen 71,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1943,[Bromma],2195000,20000,2215000,2992,Svensk Fastighetsförmedling,171.73047644842424,Brommaplan
+2015-06-12,Plåtslagarvägen 20,Åkeslund,Grön Hässelby,4,91,5,Lägenhet,2008,[Bromma],4395000,715000,5110000,5735,Svensk Fastighetsförmedling,226.31598897132181,Abrahamsberg
+2015-06-10,Besmansvägen 18,Åkeslund,Grön Hässelby,2,41,2,Lägenhet,1942,[Abrahamsberg],2095000,330000,2425000,2850,Fastighetsbyrån,503.5385606644019,Abrahamsberg
+2015-06-10,Stopvägen 33,Åkeslund,Grön Hässelby,2,58,3,Lägenhet,1944,[Abrahamsberg],2495000,705000,3200000,3083,Fastighetsbyrån,424.57860634040907,Abrahamsberg
+2015-06-09,Tunnlandsvägen 89,Åkeslund,Grön Hässelby,2,60,1,Lägenhet,1998,[Brommaplan],2295000,305000,2600000,2828,Länsförsäkringar Fastighetsförmedling,393.8512797223327,Brommaplan
+2015-06-01,Tunnlands,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Abrahamsberg],2195000,425000,2620000,2992,Länsförsäkringar Fastighetsförmedling,347.1889474414959,Brommaplan
+2015-05-27,Tunnlandsvägen 91,Åkeslund,Grön Hässelby,2.5,65,8,Lägenhet,1998,[Åkeslund],2495000,505000,3000000,3176,Fastighetsbyrån,372.5922178323642,Brommaplan
+2015-05-27,Plåtslagarvägen 20,Åkeslund,Grön Hässelby,2,64,3,Lägenhet,2008,[Abrahamsberg],2695000,1005000,3700000,4182,Notar,226.31598897132181,Abrahamsberg
+2015-05-22,Spannvägen 38,Åkeslund,Grön Hässelby,3,70,null,Lägenhet,1942,[Abrahamsberg],3295000,525000,3820000,3420,Notar,346.77555830483965,Abrahamsberg
+2015-05-20,Spannvägen 30,Åkeslund,Grön Hässelby,2,64,3,Lägenhet,2008,[Abrahamsberg],2795000,665000,3460000,4182,Fastighetsbyrån,312.2801059361109,Abrahamsberg
+2015-05-13,Fredrikslundsvägen 21,Åkeslund,Grön Hässelby,2,41,2,Lägenhet,1940,[Bromma Abrahamsberg],2095000,345000,2440000,2393,Notar,554.778095649532,Brommaplan
+2015-05-12,Tunnlandsvägen 43,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1943,[Bromma],2395000,0,2395000,2992,Bjurfors,279.63661868253376,Brommaplan
+2015-05-12,Stopvägen 111,Åkeslund,Grön Hässelby,2,41,2,Lägenhet,1944,[Abrahamsberg],2530000,-80000,2450000,2355,Fastighetsbyrån,140.94554057642893,Brommaplan
+2015-05-06,Spannvägen 19,Åkeslund,Grön Hässelby,2,48.5,1,Lägenhet,1942,[Bromma Abrahamsberg],2395000,55000,2450000,3141,Notar,390.62158103007596,Brommaplan
+2015-04-23,Gustav III:s väg 70,Åkeslund,Grön Hässelby,1.5,44,0,Lägenhet,1968,[Olovslund],1795000,480000,2275000,2274,Fastighetsbyrån,620.4642641795167,Brommaplan
+2015-04-23,Spannvägen 15,Åkeslund,Grön Hässelby,2,38.5,1,Lägenhet,1942,[Abrahamsberg],1950000,380000,2330000,2510,Fastighetsbyrån,391.59417314864027,Abrahamsberg
+2015-04-17,Tunnlandsvägen 91,Åkeslund,Grön Hässelby,2,61,5,Lägenhet,1967,[Bromma Brommaplan],2495000,255000,2750000,3034,HusmanHagberg,372.5922178323642,Brommaplan
+2015-04-14,Spannvägen 24,Åkeslund,Grön Hässelby,2,38.5,1,Lägenhet,1942,[Bromma Abrahamsberg],1995000,355000,2350000,2510,Notar,343.21640200016225,Abrahamsberg
+2015-04-07,Fredrikslundsvägen 3,Åkeslund,Grön Hässelby,3,63,0.5,Lägenhet,1942,[Bromma Abrahamsberg],2490000,235000,2725000,3765,Notar,618.5209873944547,Brommaplan
+2015-04-07,Stopvägen 54,Åkeslund,Grön Hässelby,2,48.5,3,Lägenhet,1942,[Bromma Abrahamsberg],2395000,515000,2910000,3158,Notar,392.66420204892574,Abrahamsberg
+2015-04-02,Tunnlandsvägen 73,Åkeslund,Grön Hässelby,3,62,2,Lägenhet,1943,[Nockeby],2750000,400000,3150000,3635,Svenska Mäklarhuset,182.509594632159,Brommaplan
+2015-03-30,Tunnlandsvägen 42,Åkeslund,Grön Hässelby,3,54,2,Lägenhet,1942,[Bromma],2195000,405000,2600000,3853,Länsförsäkringar Fastighetsförmedling,249.2718609475292,Brommaplan
+2015-03-25,Åkeshovsvägen 48,Åkeslund,Grön Hässelby,2,64,1,Lägenhet,1968,[Olovslund],2300000,300000,2600000,2652,Fastighetsbyrån,561.7120942982257,Brommaplan
+2015-03-13,Stopvägen 87,Åkeslund,Grön Hässelby,2,48,1,Lägenhet,1940,[Nockeby],2195000,445000,2640000,2978,Länsförsäkringar Fastighetsförmedling,241.18388942174602,Brommaplan
+2015-03-13,Stopvägen 93,Åkeslund,Grön Hässelby,3,65,3,Lägenhet,1940,[Bromma],2895000,565000,3460000,3997,Länsförsäkringar Fastighetsförmedling,214.98448701692644,Brommaplan
+2015-03-12,Tunnlandsvägen 91,Åkeslund,Grön Hässelby,4.5,128,8,Lägenhet,1967,[Bromma],5200000,300000,5500000,5784,Svensk Fastighetsförmedling,372.5922178323642,Brommaplan
+2015-03-11,Spannvägen 23,Åkeslund,Grön Hässelby,2,48.5,3,Lägenhet,1942,[Bromma Abrahamsberg],2250000,610000,2860000,3158,Notar,374.45982318722787,Brommaplan
+2015-02-25,Klädesvägen 22,Åkeslund,Grön Hässelby,2.5,54,2,Lägenhet,1945,[Nockeby],2100000,330000,2430000,2668,SkandiaMäklarna,127.8334789787292,Brommaplan
+2015-02-16,Tunnlandsvägen 37,Åkeslund,Grön Hässelby,3,60,0.5,Lägenhet,1943,[Åkeslund],2695000,400000,3095000,3585,Länsförsäkringar Fastighetsförmedling,306.52659509621725,Brommaplan
+2015-02-14,Stopvägen 116,Åkeslund,Grön Hässelby,3,60,2,Lägenhet,1943,[Bromma],2475000,125000,2600000,3364,Wallenberg Fastighetsförmedling,115.09357478188237,Brommaplan
+2015-02-14,Stopvägen 85,Åkeslund,Grön Hässelby,3,73,2,Lägenhet,1940,[Abrahamsberg],2975000,-5000,2970000,3927,Fastighetsbyrån,247.49085163912218,Brommaplan
+2015-02-10,Spannvägen 17,Åkeslund,Grön Hässelby,2,38.5,1,Lägenhet,1942,[Abrahamsberg],1995000,80000,2075000,2510,Länsförsäkringar Fastighetsförmedling,405.6997156147645,Abrahamsberg
+2015-02-06,Klädesvägen 16,Åkeslund,Grön Hässelby,3,60,null,Lägenhet,1945,[Brommaplan],2350000,0,2350000,2825,Fastighetsbyrån,94.45245164132459,Brommaplan
+2015-02-05,Besmansvägen 18,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,null,[Abrahamsberg],1895000,405000,2300000,2850,Fastighetsbyrån,503.5385606644019,Abrahamsberg
+2015-01-31,Spannvägen 24,Åkeslund,Grön Hässelby,2,38.5,null,Lägenhet,1942,[Bromma Abrahamsberg],1945000,215000,2160000,2525,Notar,343.21640200016225,Abrahamsberg
+2015-01-30,Stopvägen 107,Åkeslund,Grön Hässelby,2,41,2,Lägenhet,1940,[Bromma],1950000,310000,2260000,2427,Länsförsäkringar Fastighetsförmedling,148.09594373534492,Brommaplan
+2015-01-30,Tunnlandsvägen 24,Åkeslund,Grön Hässelby,2,42,3,Lägenhet,1944,[Bromma Brommaplan],1875000,185000,2060000,3317,HusmanHagberg,430.26751599392935,Brommaplan
+2015-01-22,Stopvägen 107,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1944,[Brommaplan],1895000,205000,2100000,2427,Fastighetsbyrån,148.09594373534492,Brommaplan
+2015-01-17,Tunnlandsvägen 67,Åkeslund,Grön Hässelby,3,62,3,Lägenhet,1943,[Bromma],2495000,645000,3140000,3635,Svenska Mäklarhuset,200.46111848150795,Brommaplan
+2015-01-08,Tunnlandsvägen 3,Åkeslund,Grön Hässelby,3,81,1,Lägenhet,1992,[Bromma Abrahamsberg],3320000,110000,3430000,5125,Notar,489.5049884826486,Brommaplan
+2014-12-11,Tunnlandsvägen 39,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1943,[Brommaplan],1995000,265000,2260000,2803,Länsförsäkringar Fastighetsförmedling,293.8142315320344,Brommaplan
+2014-12-11,Tunnlandsvägen 44,Åkeslund,Grön Hässelby,2,51,3,Lägenhet,1942,[Brommaplan],1995000,315000,2310000,2710,Länsförsäkringar Fastighetsförmedling,224.6944388259408,Brommaplan
+2014-12-04,Fredrikslundsvägen 20,Åkeslund,Grön Hässelby,2,47,null,Lägenhet,1944,[Abrahamsberg],2100000,450000,2550000,2924,Fastighetsbyrån,511.1770850718228,Brommaplan
+2014-12-03,Stopvägen 98,Åkeslund,Grön Hässelby,2,39,1,Lägenhet,1943,[Bromma Abrahamsberg],1895000,105000,2000000,2689,Notar,249.562258346659,Brommaplan
+2014-12-03,Stopvägen 92,Åkeslund,Grön Hässelby,2,46,null,Lägenhet,1942,[Abrahamsberg],1995000,0,1995000,3084,Fastighetsbyrån,279.25267183409443,Brommaplan
+2014-11-26,Tunnlandsvägen 5,Åkeslund,Grön Hässelby,4,99,2,Lägenhet,1992,[Bromma Abrahamsberg],3495000,0,3495000,6089,Notar,447.70501318263575,Brommaplan
+2014-11-13,Stopvägen 115,Åkeslund,Grön Hässelby,3,60,1,Lägenhet,1942,[Bromma Brommaplan],2295000,315000,2610000,3425,HusmanHagberg,113.01261159274758,Brommaplan
+2014-11-13,Stopvägen 84,Åkeslund,Grön Hässelby,2,51,null,Lägenhet,1944,[Abrahamsberg],2150000,275000,2425000,2951,Fastighetsbyrån,306.8779041703901,Brommaplan
+2014-11-12,Klädesvägen 16,Åkeslund,Grön Hässelby,3,60,1,Lägenhet,1945,[Brommaplan],2100000,230000,2330000,2704,Bukowskis Mäklarbyrå,94.45245164132459,Brommaplan
+2014-11-05,Fredrikslundsvägen 47,Åkeslund,Grön Hässelby,3,74,null,Lägenhet,1943,[Abrahamsberg],3495000,55000,3550000,4238,Fastighetsbyrån,518.3250909955633,Brommaplan
+2014-10-24,Klädesvägen 16,Åkeslund,Grön Hässelby,2,44,null,Lägenhet,1945,[Brommaplan],1895000,105000,2000000,1983,Fastighetsbyrån,94.45245164132459,Brommaplan
+2014-10-24,Plåtslagarvägen 20,Åkeslund,Grön Hässelby,2,62,null,Lägenhet,2008,[Bromma],1850000,50000,1900000,4034,Notar,226.31598897132181,Abrahamsberg
+2014-10-23,Tunnlandsvägen 39,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1943,[Brommaplan],1995000,385000,2380000,2803,Länsförsäkringar Fastighetsförmedling,293.8142315320344,Brommaplan
+2014-10-22,Tunnlandsvägen 35,Åkeslund,Grön Hässelby,2,47,3,Lägenhet,1943,[Brommaplan],2195000,165000,2360000,2992,Länsförsäkringar Fastighetsförmedling,322.76836655691613,Brommaplan
+2014-10-13,Åkeshovsvägen 44,Åkeslund,Grön Hässelby,2,64,null,Lägenhet,1968,[Olovslund],2195000,75000,2270000,2652,Fastighetsbyrån,560.8409625189337,Brommaplan
+2014-10-08,Spannvägen 48,Åkeslund,Grön Hässelby,5,105.5,1,Lägenhet,2008,[Abrahamsberg],4295000,205000,4500000,6505,Länsförsäkringar Fastighetsförmedling,360.1526213255379,Brommaplan
+2014-10-06,Tunnlandsvägen 1,Åkeslund,Grön Hässelby,3,80,1,Lägenhet,1992,[Bromma Abrahamsberg],3165000,0,3165000,5072,Notar,522.0654011946589,Brommaplan
+2014-10-03,Klädesvägen 22,Åkeslund,Grön Hässelby,2,54,null,Lägenhet,1945,[Brommaplan],2095000,-95000,2000000,2434,Fastighetsbyrån,127.8334789787292,Brommaplan
+2014-10-01,Tunnlandsvägen 89,Åkeslund,Grön Hässelby,3,105.5,null,Lägenhet,1967,[Åkeslund],3995000,705000,4700000,5534,Fastighetsbyrån,393.8512797223327,Brommaplan
+2014-10-01,Spannvägen 13,Åkeslund,Grön Hässelby,2,38.5,2,Lägenhet,1942,[Bromma Abrahamsberg],1750000,200000,1950000,2525,Notar,379.57942313466873,Abrahamsberg
+2014-09-24,Spannvägen 38,Åkeslund,Grön Hässelby,3.5,70,null,Lägenhet,1942,[Abrahamsberg],3195000,280000,3475000,3388,Fastighetsbyrån,346.77555830483965,Abrahamsberg
+2014-09-21,Besmansvägen 18,Åkeslund,Grön Hässelby,2,41,0.5,Lägenhet,1942,[Abrahamsberg],1750000,250000,2000000,2850,Länsförsäkringar Fastighetsförmedling,503.5385606644019,Abrahamsberg
+2014-09-18,Stopvägen 104,Åkeslund,Grön Hässelby,3,70,2,Lägenhet,1943,[Bromma Abrahamsberg],2995000,155000,3150000,5874,Notar,193.03441404010826,Brommaplan
+2014-09-18,Klädesvägen 24,Åkeslund,Grön Hässelby,2,54,2,Lägenhet,1945,[Bromma],1975000,75000,2050000,2434,Mäklarhuset,139.70668973738077,Brommaplan
+2014-09-02,Stopvägen 86,Åkeslund,Grön Hässelby,1,38,null,Lägenhet,1944,[Bromma],1495000,520000,2015000,2237,Erik Olsson Fastighetsförmedling,309.3436317893678,Brommaplan
+2014-08-29,Gustav Iiis väg 50,Åkeslund,Grön Hässelby,2.5,58,null,Lägenhet,1992,[Abrahamsberg],2295000,10000,2305000,3455,Fastighetsbyrån,647.9176721899029,Brommaplan
+2014-08-28,Stopvägen 71,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1940,[Bromma],1895000,315000,2210000,2781,Svenska Mäklarhuset,324.53377082231543,Brommaplan
+2014-08-22,Tunnlandsvägen 85,Åkeslund,Grön Hässelby,3,77,1,Lägenhet,1998,[Åkeslund],2850000,0,2850000,4326,Länsförsäkringar Fastighetsförmedling,367.370101640795,Brommaplan
+2014-08-15,Fredrikslundsvägen 18,Åkeslund,Grön Hässelby,2.5,48,1,Lägenhet,1944,[Bromma Abrahamsberg],1950000,220000,2170000,2984,Notar,513.9767362575919,Brommaplan
+2014-08-15,Stopvägen 62,Åkeslund,Grön Hässelby,2,51,null,Lägenhet,1942,[Abrahamsberg],2150000,300000,2450000,3158,Fastighetsbyrån,414.51870417123604,Brommaplan
+2014-07-11,Stopvägen 109,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1940,[Bromma],1795000,305000,2100000,2309,Länsförsäkringar Fastighetsförmedling,144.88365238399814,Brommaplan
+2014-07-10,Stopvägen 91,Åkeslund,Grön Hässelby,2,47,3,Lägenhet,1940,[Bromma Abrahamsberg],1890000,385000,2275000,3004,Notar,222.6460323225063,Brommaplan
+2014-06-27,Stopvägen 94,Åkeslund,Grön Hässelby,2,39,1,Lägenhet,1943,[Abrahamsberg],1695000,125000,1820000,2690,Länsförsäkringar Fastighetsförmedling,232.04252740593336,Brommaplan
+2014-06-12,Stopvägen 87,Åkeslund,Grön Hässelby,2,48,null,Lägenhet,1940,[Abrahamsberg],1995000,85000,2080000,2949,Fastighetsbyrån,241.18388942174602,Brommaplan
+2014-06-12,Fredrikslundsvägen 47,Åkeslund,Grön Hässelby,3,62,null,Lägenhet,1943,[Bromma],2495000,155000,2650000,3690,Svenska Mäklarhuset,518.3250909955633,Brommaplan
+2014-06-02,Spannvägen 23,Åkeslund,Grön Hässelby,2,48,3,Lägenhet,1942,[Bromma],2195000,130000,2325000,3158,Hemverket,374.45982318722787,Brommaplan
+2014-05-28,Stopvägen 98,Åkeslund,Grön Hässelby,2,39,null,Lägenhet,1943,[Bromma Brommaplan],1650000,0,1650000,2690,Notar,249.562258346659,Brommaplan
+2014-05-22,Spannvägen 21,Åkeslund,Grön Hässelby,3,48.5,1,Lägenhet,1942,[Bromma Abrahamsberg],1995000,0,1995000,3141,Erik Olsson Fastighetsförmedling,383.48518010298517,Brommaplan
+2014-05-17,Kapplandsvägen 6,Åkeslund,Grön Hässelby,4,103,4,Lägenhet,2008,[Bromma Åkeslund Brommaplan],4495000,-67310,4427690,5770,Mäklarringen,51.287092984140514,Brommaplan
+2014-05-15,Tunnlandsvägen 35,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Åkeslund],2100000,110000,2210000,2992,Länsförsäkringar Fastighetsförmedling,322.76836655691613,Brommaplan
+2014-05-14,Tunnlandsvägen 41,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1943,[Brommaplan],1875000,85000,1960000,2992,Länsförsäkringar Fastighetsförmedling,281.85677418692853,Brommaplan
+2014-05-09,Gustav III:s väg 70,Åkeslund,Grön Hässelby,4,85,null,Lägenhet,1968,[Olovslund],3495000,265000,3760000,4071,Fastighetsbyrån,620.4642641795167,Brommaplan
+2014-05-07,Klädesvägen 24,Åkeslund,Grön Hässelby,2.5,54,3,Lägenhet,1945,[Brommaplan],1975000,75000,2050000,2434,Bukowskis Mäklarbyrå,139.70668973738077,Brommaplan
+2014-05-02,Spannvägen 48,Åkeslund,Grön Hässelby,2,64,4,Lägenhet,null,[Abrahamsberg],2495000,-95000,2400000,3983,Svensk Fastighetsförmedling,360.1526213255379,Brommaplan
+2014-04-30,Tunnlandsvägen 47,Åkeslund,Grön Hässelby,2,47,0.5,Lägenhet,1943,[Brommaplan],1895000,105000,2000000,2992,Länsförsäkringar Fastighetsförmedling,254.77258894004868,Brommaplan
+2014-04-30,Tunnlandsvägen 67,Åkeslund,Grön Hässelby,3,62,2,Lägenhet,1943,[Nockeby],2395000,-1020000,1375000,3635,SkandiaMäklarna,200.46111848150795,Brommaplan
+2014-04-25,Tunnlandsvägen 26,Åkeslund,Grön Hässelby,2,42,null,Lägenhet,1944,[Brommaplan],1660000,200000,1860000,3317,Fastighetsbyrån,423.81875606586016,Brommaplan
+2014-04-24,Gustav III:s väg 68,Åkeslund,Grön Hässelby,2,44,null,Lägenhet,1968,[Bromma],1675000,95000,1770000,2309,Notar,626.3361074223824,Brommaplan
+2014-04-24,Tunnlandsvägen 71,Åkeslund,Grön Hässelby,3,62,2,Lägenhet,1943,[Bromma],2495000,20000,2515000,3635,Svenska Mäklarhuset,171.73047644842424,Brommaplan
+2014-04-23,Besmansvägen 20,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1942,[Abrahamsberg],1795000,0,1795000,2700,Fastighetsbyrån,503.64659114055377,Abrahamsberg
+2014-04-23,Spannvägen 14,Åkeslund,Grön Hässelby,2.5,50,3,Lägenhet,1942,[Bromma Brommaplan],1990000,210000,2200000,3252,Notar,346.9899054994645,Abrahamsberg
+2014-04-18,Tunnlandsvägen 1,Åkeslund,Grön Hässelby,3,80,1,Lägenhet,1992,[Bromma Abrahamsberg],3150000,-30000,3120000,5072,Notar,522.0654011946589,Brommaplan
+2014-04-17,Spannvägen 46,Åkeslund,Grön Hässelby,2,46,null,Lägenhet,null,[Abrahamsberg],1595000,455000,2050000,3017,Svensk Fastighetsförmedling,366.51284181363724,Brommaplan
+2014-04-16,Stopvägen 93,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1940,[Bromma],1995000,0,1995000,2890,Svenska Mäklarhuset,214.98448701692644,Brommaplan
+2014-04-15,Spannvägen 11,Åkeslund,Grön Hässelby,2,40.3,1,Lägenhet,1942,[Abrahamsberg],2050000,0,2050000,2511,BOSTHLM,389.1141774242215,Abrahamsberg
+2014-04-09,Tunnlandsvägen 53,Åkeslund,Grön Hässelby,2,42,0.5,Lägenhet,1943,[Brommaplan],1695000,65000,1760000,2835,Länsförsäkringar Fastighetsförmedling,229.1637068769228,Brommaplan
+2014-04-09,Kapplandsvägen 6,Åkeslund,Grön Hässelby,3,73,15,Lägenhet,2008,[Bromma],3495000,235000,3730000,4336,Länsförsäkringar Fastighetsförmedling,51.287092984140514,Brommaplan
+2014-04-03,Fredrikslundsvägen 19,Åkeslund,Grön Hässelby,2,40,null,Lägenhet,1940,[Abrahamsberg],1695000,120000,1815000,2453,Fastighetsbyrån,564.5531071816291,Brommaplan
+2014-03-31,Klädesvägen 22,Åkeslund,Grön Hässelby,2.5,54,3,Lägenhet,null,[Brommaplan],1975000,45000,2020000,2434,Svensk Fastighetsförmedling,127.8334789787292,Brommaplan
+2014-03-31,Stopvägen 81,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1940,[Bromma Brommaplan],1690000,290000,1980000,2733,Notar,329.1511346696032,Brommaplan
+2014-03-25,Spannvägen 9,Åkeslund,Grön Hässelby,2,38.5,1,Lägenhet,1942,[Abrahamsberg],1695000,230000,1925000,2438,Länsförsäkringar Fastighetsförmedling,377.7884902606089,Abrahamsberg
+2014-03-22,Tunnlandsvägen 31,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Abrahamsberg],1895000,100000,1995000,2992,Länsförsäkringar Fastighetsförmedling,349.42287465870095,Brommaplan
+2014-03-21,Stopvägen 62,Åkeslund,Grön Hässelby,2,51,2,Lägenhet,1942,[Bromma],1995000,305000,2300000,3158,Svenska Mäklarhuset,414.51870417123604,Brommaplan
+2014-03-19,Stopvägen 90,Åkeslund,Grön Hässelby,2,46,1,Lägenhet,1942,[Bromma Brommaplan],1850000,50000,1900000,3084,HusmanHagberg,276.88724574305604,Brommaplan
+2014-03-07,Spannvägen 23,Åkeslund,Grön Hässelby,2,50,1,Lägenhet,1942,[Abrahamsberg],1995000,305000,2300000,3141,Erik Olsson Fastighetsförmedling,374.45982318722787,Brommaplan
+2014-03-07,Tunnlandsvägen 1,Åkeslund,Grön Hässelby,3,81,null,Lägenhet,1992,[Bromma Abrahamsberg],3150000,210000,3360000,5125,Notar,522.0654011946589,Brommaplan
+2014-03-06,Fredrikslundsvägen 21,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1940,[Abrahamsberg],1675000,150000,1825000,2445,Länsförsäkringar Fastighetsförmedling,554.778095649532,Brommaplan
+2014-02-24,Fredrikslundsvägen 45,Åkeslund,Grön Hässelby,2,48,3,Lägenhet,1943,[Bromma],1895000,315000,2210000,2852,Svenska Mäklarhuset,521.6687447378312,Brommaplan
+2014-02-20,Tunnlandsvägen 93,Åkeslund,Grön Hässelby,2.5,84.5,null,Lägenhet,1967,[Åkeslund],2495000,505000,3000000,4303,Svensk Fastighetsförmedling,301.9639903083744,Brommaplan
+2014-02-12,Tunnlandsvägen 41,Åkeslund,Grön Hässelby,2,47,2,Lägenhet,1943,[Brommaplan],1795000,155000,1950000,2992,Länsförsäkringar Fastighetsförmedling,281.85677418692853,Brommaplan
+2014-02-06,Stopvägen 56,Åkeslund,Grön Hässelby,2,38.5,null,Lägenhet,1942,[Bromma Brommaplan],1695000,215000,1910000,2510,Notar,419.89882026335397,Abrahamsberg
+2014-02-03,Tunnlandsvägen 5,Åkeslund,Grön Hässelby,1,47,null,Lägenhet,null,[Åkeslund],1695000,-30000,1665000,2781,Svensk Fastighetsförmedling,447.70501318263575,Brommaplan
+2014-01-30,Spannvägen 46,Åkeslund,Grön Hässelby,3,80,null,Lägenhet,2007,[Bromma Abrahamsberg],2890000,0,2890000,4809,Notar,366.51284181363724,Brommaplan
+2014-01-29,Klädesvägen 20,Åkeslund,Grön Hässelby,2,44,2,Lägenhet,1945,[Bromma],1750000,150000,1900000,1983,Erik Olsson Fastighetsförmedling,115.06303295670712,Brommaplan
+2014-01-16,Tunnlandsvägen 57,Åkeslund,Grön Hässelby,2,42,2,Lägenhet,1943,[Bromma Brommaplan],1650000,195000,1845000,2835,Notar,218.49617283636354,Brommaplan
+2014-01-06,Tunnlandsvägen 24,Åkeslund,Grön Hässelby,2,42,3,Lägenhet,1944,[Abrahamsberg],1695000,155000,1850000,3317,Länsförsäkringar Fastighetsförmedling,430.26751599392935,Brommaplan
+2013-12-21,Stopvägen 113,Åkeslund,Grön Hässelby,3,72,1,Lägenhet,1940,[Åkeslund],2400000,110000,2510000,3775,Länsförsäkringar Fastighetsförmedling,117.99950072201042,Brommaplan
+2013-12-20,Tunnlandsvägen 89,Åkeslund,Grön Hässelby,3,84.5,null,Lägenhet,1967,[Bromma Brommaplan],2695000,55000,2750000,4771,Notar,393.8512797223327,Brommaplan
+2013-12-18,Fredrikslundsvägen 7,Åkeslund,Grön Hässelby,2,36,2,Lägenhet,1943,[Bromma Abrahamsberg],1495000,345000,1840000,2210,HusmanHagberg,607.1916360325672,Brommaplan
+2013-12-14,Klädesvägen 18,Åkeslund,Grön Hässelby,2,44,1,Lägenhet,1945,[Brommaplan],1750000,60000,1810000,1983,Bukowskis Mäklarbyrå,104.80206315120707,Brommaplan
+2013-12-13,Klädesvägen 22,Åkeslund,Grön Hässelby,2.5,54,1,Lägenhet,1945,[Brommaplan],1950000,120000,2070000,2434,Bukowskis Mäklarbyrå,127.8334789787292,Brommaplan
+2013-12-12,Stopvägen 58,Åkeslund,Grön Hässelby,2,38.5,null,Lägenhet,1942,[Bromma Abrahamsberg],1695000,205000,1900000,2524,Notar,404.0529659908696,Abrahamsberg
+2013-12-11,Spannvägen 17,Åkeslund,Grön Hässelby,2,38.5,2,Lägenhet,1942,[Bromma],1850000,25000,1875000,2525,Erik Olsson Fastighetsförmedling,405.6997156147645,Abrahamsberg
+2013-12-06,Tunnlandsvägen 46,Åkeslund,Grön Hässelby,3,51,1,Lägenhet,1941,[Abrahamsberg],2095000,-20000,2075000,2460,Länsförsäkringar Fastighetsförmedling,215.22905861066653,Brommaplan
+2013-12-03,Stopvägen 104,Åkeslund,Grön Hässelby,3,70,2,Lägenhet,1943,[Bromma Abrahamsberg Åkeslund],2600000,-50000,2550000,5874,Mäklarringen,193.03441404010826,Brommaplan
+2013-12-02,Stopvägen 60,Åkeslund,Grön Hässelby,2,50.5,3,Lägenhet,1942,[Bromma],1995000,175000,2170000,3272,Svenska Mäklarhuset,396.5338156344532,Abrahamsberg
+2013-11-28,Fredrikslundsvägen 5,Åkeslund,Grön Hässelby,2,36,2.5,Lägenhet,1943,[Bromma],1495000,355000,1850000,2210,Mäklarhuset,612.1386070005566,Brommaplan
+2013-11-28,Fredrikslundsvägen 51,Åkeslund,Grön Hässelby,2,48,null,Lägenhet,1944,[Bromma Brommaplan],1975000,-50000,1925000,2286,Notar,497.53520127045175,Brommaplan
+2013-11-23,Tunnlandsvägen 73,Åkeslund,Grön Hässelby,3,62,1,Lägenhet,1943,[Åkeslund],2095000,105000,2200000,3635,Svenska Mäklarhuset,182.509594632159,Brommaplan
+2013-11-21,Stopvägen 90,Åkeslund,Grön Hässelby,3,72,2,Lägenhet,1943,[Bromma Abrahamsberg],2790000,0,2790000,4827,Notar,276.88724574305604,Brommaplan
+2013-11-21,Fredrikslundsvägen 18,Åkeslund,Grön Hässelby,2,51,3,Lägenhet,1944,[Bromma],1895000,175000,2070000,3170,Svenska Mäklarhuset,513.9767362575919,Brommaplan
+2013-11-16,Gustav III:s väg 80,Åkeslund,Grön Hässelby,2,59,3,Lägenhet,2009,[Åkeslund],2450000,200000,2650000,3422,Länsförsäkringar Fastighetsförmedling,668.753227723648,Brommaplan
+2013-11-16,Tunnlandsvägen 43,Åkeslund,Grön Hässelby,2,47,null,Lägenhet,1943,[Åkeslund],1695000,315000,2010000,2991,Svensk Fastighetsförmedling,279.63661868253376,Brommaplan
+2013-11-15,Tunnlandsvägen 71,Åkeslund,Grön Hässelby,3,62,null,Lägenhet,1943,[Åkeslund],1995000,365000,2360000,3632,Svensk Fastighetsförmedling,171.73047644842424,Brommaplan
+2013-11-14,Tunnlandsvägen 75,Åkeslund,Grön Hässelby,2,47,null,Lägenhet,1943,[Nockeby],1795000,65000,1860000,2992,Fastighetsbyrån,169.94241334467551,Brommaplan
+2013-11-02,Tunnlandsvägen 51,Åkeslund,Grön Hässelby,2,47,null,Lägenhet,1943,[Åkeslund],1795000,-95000,1700000,2992,Svensk Fastighetsförmedling,241.2865957662822,Brommaplan
+2013-10-30,Spannvägen 14,Åkeslund,Grön Hässelby,3,72,null,Lägenhet,1942,[Abrahamsberg],2825000,-125000,2700000,4414,Svensk Fastighetsförmedling,346.9899054994645,Abrahamsberg
+2013-10-28,Tunnlandsvägen 91,Åkeslund,Grön Hässelby,3.5,92.5,null,Lägenhet,1967,[Bromma Brommaplan],2395000,-95000,2300000,4697,Notar,372.5922178323642,Brommaplan
+2013-10-25,Besmansvägen 10,Åkeslund,Grön Hässelby,3,64,null,Lägenhet,1942,[Bromma Abrahamsberg],2650000,-50000,2600000,3810,Notar,511.1671990406732,Abrahamsberg
+2013-10-25,Fredrikslundsvägen 21,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1940,[Bromma Abrahamsberg],1625000,75000,1700000,2324,Notar,554.778095649532,Brommaplan
+2013-10-24,Klädesvägen 16,Åkeslund,Grön Hässelby,2,44,3,Lägenhet,1945,[Bromma],1695000,165000,1860000,1983,Erik Olsson Fastighetsförmedling,94.45245164132459,Brommaplan
+2013-10-22,Klädesvägen 24,Åkeslund,Grön Hässelby,3,54,3,Lägenhet,1945,[Bromma],1995000,0,1995000,2434,Wallenberg Fastighetsförmedling,139.70668973738077,Brommaplan
+2013-10-12,Stopvägen 113,Åkeslund,Grön Hässelby,3,72,2,Lägenhet,1940,[Abrahamsberg],2475000,-25000,2450000,3833,Länsförsäkringar Fastighetsförmedling,117.99950072201042,Brommaplan
+2013-10-11,Stopvägen 100,Åkeslund,Grön Hässelby,1,34,null,Lägenhet,1943,[Nockeby],1295000,20000,1315000,2853,Fastighetsbyrån,211.02168882082873,Brommaplan
+2013-10-10,Tunnlandsvägen 71,Åkeslund,Grön Hässelby,2,47,null,Lägenhet,1943,[Abrahamsberg],1695000,185000,1880000,2992,Svenska Mäklarhuset,171.73047644842424,Brommaplan
+2013-09-19,Fredrikslundsvägen 45,Åkeslund,Grön Hässelby,2,48,null,Lägenhet,1943,[Nockeby],1795000,0,1795000,2852,Fastighetsbyrån,521.6687447378312,Brommaplan
+2013-09-13,Kapplandsvägen 6,Åkeslund,Grön Hässelby,3,80,15,Lägenhet,2008,[Brommaplan],3700000,250000,3950000,4777,Svensk Fastighetsförmedling,51.287092984140514,Brommaplan
+2013-08-30,Stopvägen 107,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1940,[Abrahamsberg],1565000,340000,1905000,2380,Länsförsäkringar Fastighetsförmedling,148.09594373534492,Brommaplan
+2013-08-27,Spannvägen 8,Åkeslund,Grön Hässelby,3,79,null,Lägenhet,1942,[Bromma Abrahamsberg],3695000,-95000,3600000,3393,HusmanHagberg,367.6047926114983,Abrahamsberg
+2013-08-22,Klädesvägen 18,Åkeslund,Grön Hässelby,2,44,3,Lägenhet,1945,[Bromma],1695000,5000,1700000,1983,Wallenberg Fastighetsförmedling,104.80206315120707,Brommaplan
+2013-08-16,Stopvägen 93,Åkeslund,Grön Hässelby,2,47,null,Lägenhet,1940,[Abrahamsberg],1850000,100000,1950000,2729,BOSTHLM,214.98448701692644,Brommaplan
+2013-08-14,Stopvägen 96,Åkeslund,Grön Hässelby,2,39,2,Lägenhet,1943,[Bromma],1475000,175000,1650000,2690,Svenska Mäklarhuset,241.7860045789458,Brommaplan
+2013-08-14,Klädesvägen 16,Åkeslund,Grön Hässelby,2,60,2,Lägenhet,1945,[Bromma],1995000,0,1995000,2704,Wallenberg Fastighetsförmedling,94.45245164132459,Brommaplan
+2013-07-25,Klädesvägen 18,Åkeslund,Grön Hässelby,2,44,2,Lägenhet,1945,[Bromma],1695000,15000,1710000,1983,Wallenberg Fastighetsförmedling,104.80206315120707,Brommaplan
+2013-07-19,Gustav III:s väg 52,Åkeslund,Grön Hässelby,1,58,null,Lägenhet,1992,[Bromma Abrahamsberg],1695000,0,1695000,3455,Notar,604.4039367448867,Brommaplan
+2013-06-27,Stopvägen 123,Åkeslund,Grön Hässelby,2,51,null,Lägenhet,1940,[Nockeby],1895000,0,1895000,2988,Fastighetsbyrån,144.53548243241778,Brommaplan
+2013-06-13,Fredrikslundsvägen 45,Åkeslund,Grön Hässelby,2.5,58,null,Lägenhet,1943,[Nockeby],1895000,205000,2100000,3388,Fastighetsbyrån,521.6687447378312,Brommaplan
+2013-06-13,Spannvägen 24,Åkeslund,Grön Hässelby,2,38.5,null,Lägenhet,1942,[Bromma Abrahamsberg],1695000,225000,1920000,2525,Notar,343.21640200016225,Abrahamsberg
+2013-06-12,Tunnlandsvägen 91,Åkeslund,Grön Hässelby,2.5,65,null,Lägenhet,1998,[Nockeby],2350000,100000,2450000,3529,Fastighetsbyrån,372.5922178323642,Brommaplan
+2013-06-10,Stopvägen 111,Åkeslund,Grön Hässelby,3,72,1,Lägenhet,1940,[Nockeby],2395000,425000,2820000,3862,Länsförsäkringar Fastighetsförmedling,140.94554057642893,Brommaplan
+2013-05-15,Spannvägen 46,Åkeslund,Grön Hässelby,3,82,null,Lägenhet,2007,[Bromma],3150000,130000,3280000,4598,Svenska Mäklarhuset,366.51284181363724,Brommaplan
+2013-05-01,Stopvägen 104,Åkeslund,Grön Hässelby,1,35,3,Lägenhet,1943,[Bromma],1395000,95000,1490000,2937,Svenska Mäklarhuset,193.03441404010826,Brommaplan
+2013-04-24,Stopvägen 114,Åkeslund,Grön Hässelby,2,47,1,Lägenhet,1943,[Nockeby],1595000,60000,1655000,2740,Länsförsäkringar Fastighetsförmedling,123.57414997173754,Brommaplan
+2013-04-19,Tunnlandsvägen 57,Åkeslund,Grön Hässelby,2,48,2,Lägenhet,1943,[Nockeby],1650000,200000,1850000,2992,Länsförsäkringar Fastighetsförmedling,218.49617283636354,Brommaplan
+2013-04-19,Stopvägen 94,Åkeslund,Grön Hässelby,2,39,3,Lägenhet,1943,[Bromma-Abrahamsberg],1450000,160000,1610000,2562,SthlmFast,232.04252740593336,Brommaplan
+2013-04-18,Fredrikslundsvägen 19,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1940,[Bromma],1395000,205000,1600000,2388,Bjurfors,564.5531071816291,Brommaplan
+2013-04-17,Tunnlandsvägen 40,Åkeslund,Grön Hässelby,2,54,1,Lägenhet,null,[Bromma],1500000,250000,1750000,3989,Erik Olsson Fastighetsförmedling,261.4753337848197,Brommaplan
+2013-04-17,Tunnlandsvägen 73,Åkeslund,Grön Hässelby,3,62,2,Lägenhet,1943,[Åkeslund],2300000,-100000,2200000,3635,Svenska Mäklarhuset,182.509594632159,Brommaplan
+2013-04-06,Tunnlandsvägen 1,Åkeslund,Grön Hässelby,4,99,1,Parhus,1992,[Finns],3395000,-395000,3000000,5988,Länsförsäkringar Fastighetsförmedling,522.0654011946589,Brommaplan
+2013-03-28,Stopvägen 115,Åkeslund,Grön Hässelby,3,60,null,Lägenhet,1940,[Nockeby],2095000,205000,2300000,3358,Fastighetsbyrån,113.01261159274758,Brommaplan
+2013-03-24,Spannvägen 48,Åkeslund,Grön Hässelby,3,82,3,Lägenhet,2008,[Abrahamsberg],2995000,-145000,2850000,4912,Svensk Fastighetsförmedling,360.1526213255379,Brommaplan
+2013-03-22,Fredrikslundsvägen 21,Åkeslund,Grön Hässelby,2,41,3,Lägenhet,1940,[Nockeby],1595000,45000,1640000,2412,Länsförsäkringar Fastighetsförmedling,554.778095649532,Brommaplan
+2013-03-22,Tunnlandsvägen 46,Åkeslund,Grön Hässelby,2,51,null,Lägenhet,1943,[Bromma Brommaplan],1995000,135000,2130000,2460,HusmanHagberg,215.22905861066653,Brommaplan
+2013-03-21,Kapplandsvägen 6,Åkeslund,Grön Hässelby,4,103,null,Lägenhet,2008,[Nockeby],4495000,0,4495000,5770,Fastighetsbyrån,51.287092984140514,Brommaplan
+2013-03-20,Stopvägen 72,Åkeslund,Grön Hässelby,2,38.5,2,Lägenhet,1942,[Bromma],1375000,250000,1625000,2525,Svenska Mäklarhuset,377.4917757198572,Brommaplan
+2013-03-13,Gustav III:s väg 50,Åkeslund,Grön Hässelby,2,66,null,Lägenhet,null,[Bromma Abrahamsberg],2300000,0,2300000,4009,Mäklarringen,603.8976840342182,Brommaplan
+2013-03-13,Spannvägen 28,Åkeslund,Grön Hässelby,2,38.5,1,Lägenhet,null,[Bromma],1695000,125000,1820000,2510,Erik Olsson Fastighetsförmedling,321.5766701143124,Abrahamsberg
+2013-02-28,Stopvägen 85,Åkeslund,Grön Hässelby,3,73,null,Lägenhet,null,[Bromma Abrahamsberg],2800000,-50000,2750000,3851,Mäklarringen,247.49085163912218,Brommaplan
+2013-02-28,Spannvägen 15,Åkeslund,Grön Hässelby,2,38.5,null,Lägenhet,1942,[Bromma Abrahamsberg],1595000,15000,1610000,2525,Notar,391.59417314864027,Abrahamsberg
+2013-02-16,Spannvägen 34,Åkeslund,Grön Hässelby,2,52,3,Lägenhet,1942,[Bromma],1850000,0,1850000,3184,Svenska Mäklarhuset,347.65799840190607,Abrahamsberg
+2013-02-13,Besmansvägen 18,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1942,[Bromma Abrahamsberg],1450000,25000,1475000,2699,Notar,503.5385606644019,Abrahamsberg
+2013-02-09,Spannvägen 23,Åkeslund,Grön Hässelby,2.5,48.5,null,Lägenhet,1942,[Abrahamsberg],1695000,0,1695000,3158,Fastighetsbyrån,374.45982318722787,Brommaplan
+2013-02-07,Stopvägen 79,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1940,[Nockeby],1595000,195000,1790000,2706,Fastighetsbyrån,276.6121152466473,Brommaplan
+2013-02-05,Besmanvägen 18,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1942,[Abrahamsberg],1575000,0,1575000,2700,Fastighetsbyrån,502.10400516113884,Abrahamsberg
+2013-01-31,Spannvägen 48,Åkeslund,Grön Hässelby,3,64,1,Lägenhet,2008,[Abrahamsberg],2295000,155000,2450000,3983,Svensk Fastighetsförmedling,360.1526213255379,Brommaplan
+2013-01-24,Tunnlandsvägen 45,Åkeslund,Grön Hässelby,2,47,null,Lägenhet,1943,[Bromma Brommaplan],1650000,125000,1775000,2770,Notar,266.1663876449783,Brommaplan
+2013-01-23,Åkeshovsvägen 32,Åkeslund,Grön Hässelby,4,85,2,Lägenhet,1968,[Bromma],3050000,0,3050000,3182,Mäklarhuset,567.4039922017413,Brommaplan
+2013-01-21,Tunnlandsvägen 71,Åkeslund,Grön Hässelby,3,62,2,Lägenhet,1943,[Bromma],2275000,0,2275000,3365,Svenska Mäklarhuset,171.73047644842424,Brommaplan
+2013-01-18,Tunnlandsvägen 89,Åkeslund,Grön Hässelby,2,91.5,null,Lägenhet,1967,[Nockeby],2795000,-100000,2695000,4579,Fastighetsbyrån,393.8512797223327,Brommaplan
+2013-01-09,Tunnlandsvägen 24,Åkeslund,Grön Hässelby,2,42,null,Lägenhet,1944,[Bromma Abrahamsberg],1600000,0,1600000,3367,Notar,430.26751599392935,Brommaplan
+2012-12-07,Stopvägen 75,Åkeslund,Grön Hässelby,2,41,null,Lägenhet,1940,[Abrahamsberg],1595000,135000,1730000,2781,Fastighetsbyrån,311.799524298426,Brommaplan
+2012-12-06,Tunnlandsvägen 85,Åkeslund,Grön Hässelby,4,91.5,null,Lägenhet,1999,[Bromma Åkeslund],3295000,105000,3400000,5100,Fastighetsbyrån,367.370101640795,Brommaplan
+2012-12-04,Gustav III:s väg 76,Åkeslund,Grön Hässelby,4,100,null,Lägenhet,null,[Bromma],3200000,820000,4020000,4791,Balders Ädelmarks,626.8506316467026,Brommaplan
+2012-11-29,Spannvägen 18,Åkeslund,Grön Hässelby,2.5,50,2,Lägenhet,1942,[Bromma Abrahamsberg],1675000,0,1675000,3253,Svenska Mäklarhuset,344.65660937228665,Abrahamsberg
+2012-11-25,Tunnlandsvägen 40,Åkeslund,Grön Hässelby,2,54,null,Lägenhet,1942,[Nockeby],1595000,0,1595000,4143,Fastighetsbyrån,261.4753337848197,Brommaplan
+2012-11-12,Stopvägen 22,Åkeslund,Grön Hässelby,3,77,null,Lägenhet,1944,[Bromma Abrahamsberg],2400000,125000,2525000,3950,Mäklarringen,399.71144401620904,Abrahamsberg
+2012-11-09,Spannvägen 34,Åkeslund,Grön Hässelby,3.5,71,3,Lägenhet,null,[Bromma],2695000,5000,2700000,4436,Svenska Mäklarhuset,347.65799840190607,Abrahamsberg
+2012-11-05,Stopvägen 60,Åkeslund,Grön Hässelby,2,50.5,null,Lägenhet,1942,[Bromma Abrahamsberg],1350000,300000,1650000,3254,Mäklarringen,396.5338156344532,Abrahamsberg
+2012-10-29,Tunnlandsvägen 65,Åkeslund,Grön Hässelby,2,47,3,Lägenhet,1943,[Brommaplan],1650000,-125000,1525000,2770,Svensk Fastighetsförmedling,186.93832196323342,Brommaplan
+2012-10-27,Plåtslagarvägen 20,Åkeslund,Grön Hässelby,3,82,3,Lägenhet,null,[Abrahamsberg],2895000,-195000,2700000,4912,Erik Olsson Fastighetsförmedling,226.31598897132181,Abrahamsberg
+2012-10-17,Tunnlandsvägen 24,Åkeslund,Grön Hässelby,2,42,null,Lägenhet,1944,[Bromma Abrahamsberg],1390000,110000,1500000,3144,Notar,430.26751599392935,Brommaplan
+2012-10-09,Spannvägen 30,Åkeslund,Grön Hässelby,3,82,2,Lägenhet,2008,[Abrahamsberg],2995000,65000,3060000,4912,Länsförsäkringar Fastighetsförmedling,312.2801059361109,Abrahamsberg
+2012-10-05,Plåtslagarvägen 20,Åkeslund,Grön Hässelby,2,64,null,Lägenhet,2008,[Bromma Abrahamsberg],2295000,130000,2425000,3983,Fastighetsbyrån,226.31598897132181,Abrahamsberg
+2012-09-30,Tunnlandsvägen 40,Åkeslund,Grön Hässelby,3,52,null,Lägenhet,1943,[Åkeslund],1495000,5000,1500000,3989,Svensk Fastighetsförmedling,261.4753337848197,Brommaplan
+2012-09-28,Stopvägen 86,Åkeslund,Grön Hässelby,3.5,74,null,Lägenhet,1944,[Abrahamsberg],2695000,105000,2800000,4127,Fastighetsbyrån,309.3436317893678,Brommaplan
+2012-09-05,Tunnlandsvägen 24,Åkeslund,Grön Hässelby,2,42,null,Lägenhet,1944,[Bromma],1450000,125000,1575000,3144,Svensk Fastighetsförmedling,430.26751599392935,Brommaplan
+2012-08-31,Gustav III:s väg 52,Åkeslund,Grön Hässelby,2,66,null,Lägenhet,1992,[Bromma Abrahamsberg],1995000,555000,2550000,3746,Fastighetsbyrån,604.4039367448867,Brommaplan

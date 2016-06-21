@@ -1,0 +1,42 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-03,Sobelgränd 18,Stora Mossen,Grön Hässelby,2,49.5,2,Lägenhet,2005,[Bromma Stora Mossen],2495000,0,2495000,4166,HusmanHagberg,786.2860787670159,Stora mossen
+2016-04-18,Stavgårdsgatan 62,Stora Mossen,Grön Hässelby,5,108,null,Villa,1928,[Bromma Stora Mossen],8900000,1825000,10725000,null,HusmanHagberg,327.81951260722076,Stora mossen
+2016-02-26,Ryggåsgatan 7,Stora Mossen,Grön Hässelby,1.5,53,1,Lägenhet,1931,[Bromma Alvik],2595000,455000,3050000,2458,HusmanHagberg,343.4478555612342,Alvik
+2015-10-03,Radhusallén 23,Stora Mossen,Grön Hässelby,7,117,null,Radhus,1920,[Äppelviken],9900000,1225000,11125000,4333,Wrede,801.8201451196036,Alvik
+2015-09-25,Igelkottsvägen 64,Stora Mossen,Grön Hässelby,8,164,null,Villa,1938,[Bromma Stora Mossen],11450000,0,11450000,null,HusmanHagberg,239.7383751911611,Abrahamsberg
+2015-08-12,Alviksvägen 21,Stora Mossen,Grön Hässelby,2,57,3,Lägenhet,1925,[Bromma Äppelviken],3195000,655000,3850000,2130,HusmanHagberg,539.5111949009444,Alvik
+2015-06-26,Västerled 24B,Stora Mossen,Grön Hässelby,1.5,33,3,Lägenhet,1929,[Äppelviken],2195000,105000,2300000,1758,Fastighetsbyrån,606.4418540733238,Stora mossen
+2015-06-18,Stavgårdsgatan 105,Stora Mossen,Grön Hässelby,8,176,null,Villa,1938,[Bromma],11950000,1800000,13750000,null,Ekenstam Fastighetsmäklare,406.12416195771897,Abrahamsberg
+2015-05-22,Igelkottsvägen 5,Stora Mossen,Grön Hässelby,6,160,null,Villa,1927,[Bromma Stora Mossen],10250000,1200000,11450000,null,HusmanHagberg,307.93001922738347,Stora mossen
+2015-05-21,Västerled 20,Stora Mossen,Grön Hässelby,1,36,2,Lägenhet,1926,[Bromma Äppelviken],1995000,405000,2400000,1788,HusmanHagberg,615.318306044164,Stora mossen
+2015-05-15,Västerled 24B,Stora Mossen,Grön Hässelby,1.5,43,2,Lägenhet,1929,[Bromma Alvik],2145000,455000,2600000,2291,HusmanHagberg,606.4418540733238,Stora mossen
+2015-05-14,Enhörningsgränd 10,Stora Mossen,Grön Hässelby,3.5,98,1,Lägenhet,2003,[Bromma Stora Mossen],4995000,1005000,6000000,5979,HusmanHagberg,639.9197908224322,Stora mossen
+2015-04-18,Västerled 31,Stora Mossen,Grön Hässelby,2,56,1,Lägenhet,1925,[Bromma Äppelviken],2795000,455000,3250000,2639,HusmanHagberg,710.8269374412405,Stora mossen
+2015-03-28,Alviksvägen 21,Stora Mossen,Grön Hässelby,3,100,3,Lägenhet,1925,[Bromma],4425000,330000,4755000,null,Svensk Fastighetsförmedling,539.5111949009444,Alvik
+2015-03-22,Sobelgränd 15,Stora Mossen,Grön Hässelby,5,156,null,Villa,2003,[Bromma Stora Mossen],8490000,310000,8800000,null,HusmanHagberg,780.3436705294374,Stora mossen
+2015-03-06,Alviksvägen 21,Stora Mossen,Grön Hässelby,2,58,null,Lägenhet,1925,[Bromma],3300000,40000,3340000,2778,Fabergé Fastighetsmäkleri,539.5111949009444,Alvik
+2015-01-19,Västerled 47,Stora Mossen,Grön Hässelby,5,117,1,Lägenhet,1930,[Bromma],6475000,0,6475000,5431,Bjurfors,640.0128512930767,Stora mossen
+2014-12-12,Bävervägen 24,Stora Mossen,Grön Hässelby,6,188,null,Villa,1938,[Bromma],9900000,1700000,11600000,null,Länsförsäkringar Fastighetsförmedling,398.3810283797289,Abrahamsberg
+2014-11-16,Västerled 24A,Stora Mossen,Grön Hässelby,4,93,3,Lägenhet,1929,[Äppelviken],4475000,925000,5400000,4741,Svenska Mäklarhuset,596.5661287323314,Stora mossen
+2014-10-13,Alviksvägen 48,Stora Mossen,Grön Hässelby,5,118,null,Radhus,1920,[Bromma Äppelviken],7490000,1085000,8575000,4333,HusmanHagberg,774.0338136735523,Alvik
+2014-10-13,Igelkottsvägen 70,Stora Mossen,Grön Hässelby,6,162,null,Villa,1939,[Bromma],7500000,1300000,8800000,null,Bjurfors,227.2105369111603,Abrahamsberg
+2014-09-26,Västerled 20,Stora Mossen,Grön Hässelby,2.5,63,1,Lägenhet,1926,[Bromma Äppelviken],2690000,370000,3060000,3156,HusmanHagberg,615.318306044164,Stora mossen
+2014-08-23,Stora Mossens Backe 1,Stora Mossen,Grön Hässelby,5,169,null,Villa,1928,[Alvik],9875000,175000,10050000,null,SkandiaMäklarna,241.19675590409065,Stora mossen
+2014-04-02,Västerled 27,Stora Mossen,Grön Hässelby,3,83,1,Lägenhet,1924,[Bromma Äppelviken],4290000,1860000,6150000,3995,HusmanHagberg,725.1941496430268,Stora mossen
+2014-03-15,Västerled 29,Stora Mossen,Grön Hässelby,2,66,2,Lägenhet,1925,[Bromma Äppelviken],2995000,405000,3400000,4351,HusmanHagberg,717.685743166044,Stora mossen
+2014-02-20,Hermelinstigen 10,Stora Mossen,Grön Hässelby,9,261,null,Villa,1929,[Bromma Stora Mossen],11300000,1100000,12400000,null,HusmanHagberg,286.0793144934061,Stora mossen
+2013-12-10,Enhörningsgränd 4,Stora Mossen,Grön Hässelby,2,56,2,Lägenhet,2004,[Bromma],2300000,0,2300000,3986,Crown Estate Fastighetsbyrå,607.1839589491752,Stora mossen
+2013-11-16,Västerled 24B,Stora Mossen,Grön Hässelby,1.5,43,1,Lägenhet,1929,[Bromma Alvik],1895000,135000,2030000,2291,HusmanHagberg,606.4418540733238,Stora mossen
+2013-11-01,Igelkottsvägen 4,Stora Mossen,Grön Hässelby,8,230,null,Villa,1929,[Bromma Stora Mossen],10900000,400000,11300000,null,HusmanHagberg,313.8411870171639,Stora mossen
+2013-10-27,Alviksvägen 50,Stora Mossen,Grön Hässelby,5,115,null,Radhus,1920,[Bromma],8500000,500000,9000000,4333,Balders Ädelmarks,779.5877488872957,Alvik
+2013-09-18,Alviksvägen 21,Stora Mossen,Grön Hässelby,2,58,2,Lägenhet,1925,[Alvik-Äppelviken],2750000,-140000,2610000,2778,Svensk Fastighetsförmedling,539.5111949009444,Alvik
+2013-05-24,Stavgårdsgatan 67,Stora Mossen,Grön Hässelby,10,188,null,Villa,1929,[Bromma Stora Mossen],11900000,500000,12400000,null,HusmanHagberg,352.3889456332105,Stora mossen
+2013-05-02,Radhusallén 11,Stora Mossen,Grön Hässelby,6,120,null,Lägenhet,null,[Äppelviken],8200000,225000,8425000,4313,Svensk Fastighetsförmedling,767.008069737088,Alvik
+2013-04-16,Västerledstorget 4,Stora Mossen,Grön Hässelby,1,32,null,Lägenhet,1925,[Bromma Alvik],1495000,250000,1745000,1196,HusmanHagberg,656.4089496286185,Stora mossen
+2013-02-22,Enhörningsgränd 10,Stora Mossen,Grön Hässelby,4,106,2,Lägenhet,2004,[Bromma],5750000,0,5750000,6278,Balders Ädelmarks,639.9197908224322,Stora mossen
+2013-02-06,Västerled 27,Stora Mossen,Grön Hässelby,2,53,null,Lägenhet,1924,[Bromma Alvik],1995000,515000,2510000,2118,HusmanHagberg,725.1941496430268,Stora mossen
+2013-02-04,Enhörningsgränd 4,Stora Mossen,Grön Hässelby,2,56,null,Lägenhet,2004,[Bromma Stora Mossen],2395000,-95000,2300000,3986,HusmanHagberg,607.1839589491752,Stora mossen
+2013-01-18,Stenhuggarvägen 2,Stora Mossen,Grön Hässelby,1,40,null,Lägenhet,1928,[Äppelviken],1650000,150000,1800000,2129,Svensk Fastighetsförmedling,711.7578421454366,Stora mossen
+2012-11-09,Västerled 24A,Stora Mossen,Grön Hässelby,4,93,null,Lägenhet,1929,[Äppelviken],3995000,-95000,3900000,4741,Svenska Mäklarhuset,596.5661287323314,Stora mossen
+2012-10-31,Alviksvägen 21,Stora Mossen,Grön Hässelby,2,57,3,Lägenhet,1925,[Äppelviken],2890000,20000,2910000,2260,Svensk Fastighetsförmedling,539.5111949009444,Alvik
+2012-10-20,Västerled 35,Stora Mossen,Grön Hässelby,1,35,null,Lägenhet,1929,[Äppelviken],1600000,195000,1795000,1733,Svensk Fastighetsförmedling,646.0708162608398,Stora mossen

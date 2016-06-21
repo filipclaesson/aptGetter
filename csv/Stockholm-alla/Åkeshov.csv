@@ -1,0 +1,188 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-12,Snörmakarvägen 29,Åkeshov,Grön Hässelby,1.5,53,1,Lägenhet,1960,[Bromma Åkeshov],2650000,-155000,2495000,3384,Notar,355.5973496555364,Brommaplan
+2016-04-28,Snörmakarvägen 29,Åkeshov,Grön Hässelby,2,38,2,Lägenhet,1960,[Åkeshov],1895000,365000,2260000,2509,Länsförsäkringar Fastighetsförmedling,355.5973496555364,Brommaplan
+2016-04-27,Bårdgränd 9,Åkeshov,Grön Hässelby,1,28,1,Lägenhet,1945,[Bromma Brommaplan],1695000,505000,2200000,2236,HusmanHagberg,490.2443577757764,Akeshov
+2016-04-26,Bergslagsvägen 35,Åkeshov,Grön Hässelby,1,38,2,Lägenhet,1940,[Bromma Brommaplan],1950000,300000,2250000,2846,Notar,374.4125930030595,Brommaplan
+2016-04-21,Brommabågen 21,Åkeshov,Grön Hässelby,3,71,1,Lägenhet,1941,[Brommaplan],2995000,275000,3270000,4557,Fastighetsbyrån,168.84322449026993,Brommaplan
+2016-04-08,Knypplerskevägen 32,Åkeshov,Grön Hässelby,2,55,2,Lägenhet,1944,[Bromma Åkeshov],2495000,305000,2800000,3701,Notar,366.8794620178505,Brommaplan
+2016-04-08,Knypplerskevägen 12,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,1942,[Bromma Åkeshov],1995000,455000,2450000,3232,Notar,352.4628390119099,Akeshov
+2016-03-18,Bergslagsvägen 33,Åkeshov,Grön Hässelby,2,56,1,Lägenhet,1940,[Bromma Brommaplan],2150000,600000,2750000,3745,Notar,352.6128731270927,Brommaplan
+2016-03-07,Brommabågen 13,Åkeshov,Grön Hässelby,2,41,1,Lägenhet,1941,[Bromma Brommaplan],1990000,750000,2740000,2907,Notar,211.01134191831613,Brommaplan
+2016-02-24,Snörmakarvägen 15,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,1942,[Bromma Åkeshov],1995000,445000,2440000,3750,Notar,413.7659002918825,Akeshov
+2016-02-19,Bårdgränd 16,Åkeshov,Grön Hässelby,2,36,1,Lägenhet,1945,[Bromma],1875000,445000,2320000,2557,Mäklarhuset,463.0662572913177,Akeshov
+2016-02-18,Bårdgränd 8,Åkeshov,Grön Hässelby,2,43,2,Lägenhet,1945,[Bromma Brommaplan],1995000,545000,2540000,2951,HusmanHagberg,454.82991788700963,Akeshov
+2016-02-16,Snörmakarvägen 45,Åkeshov,Grön Hässelby,2,55,3,Lägenhet,1944,[Bromma],2495000,255000,2750000,3701,Notar,222.34145875953695,Brommaplan
+2016-02-16,Snörmakarvägen 29,Åkeshov,Grön Hässelby,3.5,93,2,Lägenhet,1960,[Bromma],3995000,0,3995000,4787,Notar,355.5973496555364,Brommaplan
+2016-02-13,Bergslagsvägen 31,Åkeshov,Grön Hässelby,2,56,1,Lägenhet,null,[Bromma Brommaplan],2195000,165000,2360000,3747,Svenska Mäklarhuset,336.45291141447734,Brommaplan
+2016-02-11,Bergslagsvägen 21,Åkeshov,Grön Hässelby,1,38,2,Lägenhet,1941,[Bromma],1995000,325000,2320000,2796,Svensk Fastighetsförmedling,297.5921628780281,Brommaplan
+2016-02-10,Bergslagsvägen 31,Åkeshov,Grön Hässelby,2,56,2,Lägenhet,1940,[Bromma Brommaplan],1990000,450000,2440000,3750,Notar,336.45291141447734,Brommaplan
+2016-01-30,Snörmakarvägen 13,Åkeshov,Grön Hässelby,2,42,0.5,Lägenhet,1942,[Åkeshov],1995000,455000,2450000,3750,Länsförsäkringar Fastighetsförmedling,403.005120479916,Akeshov
+2016-01-15,Knypplerskevägen 5,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,1942,[Bromma],1995000,405000,2400000,3384,Notar,366.3583059797943,Akeshov
+2016-01-14,Knypplerskevägen 23,Åkeshov,Grön Hässelby,2,42.5,2,Lägenhet,1944,[Bromma Brommaplan],1995000,455000,2450000,2804,HusmanHagberg,421.8665746702706,Brommaplan
+2016-01-13,Bergslagsvägen 39,Åkeshov,Grön Hässelby,1,40,1,Lägenhet,1941,[Bromma],1950000,400000,2350000,2882,Edward & Partners Fastighetsmäklare AB,397.57935055750386,Brommaplan
+2016-01-12,Knypplerskevägen 28,Åkeshov,Grön Hässelby,1,33,null,Lägenhet,1944,[Bromma],1795000,555000,2350000,2195,Erik Olsson Fastighetsförmedling,412.4790358532557,Brommaplan
+2015-12-11,Knypplerskevägen 9,Åkeshov,Grön Hässelby,2,43,2,Lägenhet,1942,[Bromma Åkeshov],1995000,205000,2200000,3384,Notar,411.12500586127715,Akeshov
+2015-12-11,Snörmakarvägen 5,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1942,[Bromma Åkeshov],1995000,455000,2450000,3750,Notar,318.8348086795258,Akeshov
+2015-12-09,Knypplerskevägen 28,Åkeshov,Grön Hässelby,2,55,1,Lägenhet,1944,[Bromma],2395000,105000,2500000,3701,Mäklarhuset,412.4790358532557,Brommaplan
+2015-12-03,Snörmakarvägen 14,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1942,[Bromma],1995000,420000,2415000,3384,Svensk Fastighetsförmedling,423.1497546637697,Akeshov
+2015-11-28,Knypplerskevägen 38,Åkeshov,Grön Hässelby,2,55,2,Lägenhet,1944,[Bromma Brommaplan],2445000,315000,2760000,3576,HusmanHagberg,304.9328216011951,Brommaplan
+2015-11-18,Bårdgränd 16,Åkeshov,Grön Hässelby,2,47,3,Lägenhet,null,[Bromma Brommaplan],1995000,825000,2820000,3177,Svenska Mäklarhuset,463.0662572913177,Akeshov
+2015-11-10,Snörmakarvägen 45,Åkeshov,Grön Hässelby,1,33,null,Lägenhet,1944,[Åkeshov],1995000,0,1995000,2320,Länsförsäkringar Fastighetsförmedling,222.34145875953695,Brommaplan
+2015-11-03,Bergslagsvägen 43,Åkeshov,Grön Hässelby,1,40,2,Lägenhet,1941,[Bromma Brommaplan],1990000,260000,2250000,2931,Notar,419.44224794988736,Brommaplan
+2015-11-03,Bergslagsvägen 23,Åkeshov,Grön Hässelby,2,56,2,Lägenhet,1940,[Bromma Brommaplan],2190000,60000,2250000,3745,Notar,293.4657706138757,Brommaplan
+2015-11-03,Bårdgränd 10,Åkeshov,Grön Hässelby,2,43,2,Lägenhet,1945,[Bromma Åkeshov],1995000,465000,2460000,2952,Notar,455.00522590335373,Akeshov
+2015-11-03,Bårdgränd 8,Åkeshov,Grön Hässelby,2,43,3,Lägenhet,1945,[Bromma Brommaplan],1995000,455000,2450000,2952,Notar,454.82991788700963,Akeshov
+2015-11-03,Broderivägen 17,Åkeshov,Grön Hässelby,2,43,2,Lägenhet,1945,[Bromma],1995000,405000,2400000,2952,Notar,375.545553953272,Akeshov
+2015-10-30,Knypplerskevägen 23,Åkeshov,Grön Hässelby,2,42.5,3,Lägenhet,1944,[Brommaplan],1995000,505000,2500000,2804,Fastighetsbyrån,421.8665746702706,Brommaplan
+2015-10-15,Broderivägen 21,Åkeshov,Grön Hässelby,1,40,-1,Lägenhet,1946,[Bromma Brommaplan],1895000,355000,2250000,2809,HusmanHagberg,348.72952999708167,Akeshov
+2015-10-02,Snörmakarvägen 49,Åkeshov,Grön Hässelby,2,55,3,Lägenhet,1946,[Brommaplan],2495000,415000,2910000,3576,Fastighetsbyrån,232.94061603791945,Brommaplan
+2015-09-14,Bergslagsvägen 41,Åkeshov,Grön Hässelby,1,40,1,Lägenhet,1940,[Bromma Brommaplan],1990000,560000,2550000,2936,Notar,408.3923792703105,Brommaplan
+2015-09-07,Knypplerskevägen 7,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1942,[Bromma Åkeshov],1995000,630000,2625000,3384,Notar,378.3027291736525,Akeshov
+2015-08-27,Snörmakarvägen 14,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1942,[Bromma],1895000,565000,2460000,3384,Notar,423.1497546637697,Akeshov
+2015-08-17,Snörmakarvägen 9,Åkeshov,Grön Hässelby,2,42,1,Lägenhet,1942,[Bromma Åkeshov],1995000,285000,2280000,3750,Notar,362.9747680066927,Akeshov
+2015-08-12,Bergslagsvägen 21,Åkeshov,Grön Hässelby,1,38,3,Lägenhet,1940,[Bromma Brommaplan],1750000,550000,2300000,2856,Notar,297.5921628780281,Brommaplan
+2015-08-06,Bårdgränd 12,Åkeshov,Grön Hässelby,1,28,3,Lägenhet,1945,[Bromma Brommaplan],1395000,580000,1975000,2105,HusmanHagberg,458.4741356342628,Akeshov
+2015-07-24,Snörmakarvägen 16,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,1942,[Bromma Åkeshov],1995000,455000,2450000,3384,Notar,423.6573281684838,Akeshov
+2015-07-10,Snörmakarvägen 29,Åkeshov,Grön Hässelby,1,42,5,Lägenhet,1960,[Bromma Åkeshov],1995000,165000,2160000,2745,Notar,355.5973496555364,Brommaplan
+2015-07-10,Snörmakarvägen 13,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,1942,[Bromma Åkeshov],1995000,215000,2210000,3750,Notar,403.005120479916,Akeshov
+2015-06-19,Knypplerskevägen 38,Åkeshov,Grön Hässelby,1,33,null,Lägenhet,1944,[Bromma-Brommaplan],1795000,470000,2265000,2171,SverigeMäklaren,304.9328216011951,Brommaplan
+2015-06-03,Bergslagsvägen 5,Åkeshov,Grön Hässelby,2,56,2,Lägenhet,1941,[Bromma],2095000,325000,2420000,3747,Svensk Fastighetsförmedling,210.75590204451152,Brommaplan
+2015-06-02,Bergslagsvägen 41,Åkeshov,Grön Hässelby,1,40,1,Lägenhet,1940,[Bromma],1990000,60000,2050000,2936,Notar,408.3923792703105,Brommaplan
+2015-06-02,Bårdgränd 13,Åkeshov,Grön Hässelby,1.5,36,null,Lägenhet,1945,[Bromma],1850000,200000,2050000,2752,Notar,495.7111432008551,Akeshov
+2015-05-29,Broderivägen 21,Åkeshov,Grön Hässelby,2.5,49,1,Lägenhet,1946,[Bromma Brommaplan],1795000,440000,2235000,3290,HusmanHagberg,348.72952999708167,Akeshov
+2015-05-22,Knypplerskevägen 29,Åkeshov,Grön Hässelby,2,42.5,1,Lägenhet,1944,[Brommaplan],2000000,235000,2235000,2726,Fastighetsbyrån,382.908535918797,Brommaplan
+2015-05-14,Snörmakarvägen 3,Åkeshov,Grön Hässelby,2,42,1,Lägenhet,1942,[Bromma Brommaplan],1695000,280000,1975000,3750,HusmanHagberg,285.25811173825394,Akeshov
+2015-05-12,Snörmakarvägen 29,Åkeshov,Grön Hässelby,1,33,1,Lägenhet,1960,[Bromma],1695000,405000,2100000,2220,Notar,355.5973496555364,Brommaplan
+2015-05-08,Broderivägen 21,Åkeshov,Grön Hässelby,2,43,1,Lägenhet,1945,[Bromma],1995000,315000,2310000,2952,SkandiaMäklarna,348.72952999708167,Akeshov
+2015-05-05,Bårdgränd 11,Åkeshov,Grön Hässelby,2,36,3,Lägenhet,1945,[Bromma],1895000,205000,2100000,2752,Magnusson Mäkleri,492.41955040989194,Akeshov
+2015-05-01,Knypplerskevägen 21,Åkeshov,Grön Hässelby,2,42.5,1,Lägenhet,1944,[Bromma Brommaplan],1945000,305000,2250000,2749,HusmanHagberg,434.9568731284155,Brommaplan
+2015-04-29,Bergslagsvägen 23,Åkeshov,Grön Hässelby,3,56,2,Lägenhet,1940,[Bromma Brommaplan],2190000,210000,2400000,3745,Notar,293.4657706138757,Brommaplan
+2015-04-28,Bergslagsvägen 15,Åkeshov,Grön Hässelby,2,56,2,Lägenhet,1941,[Bromma Brommaplan],1995000,215000,2210000,3747,Svenska Mäklarhuset,245.94911698238369,Brommaplan
+2015-04-21,Brommabågen 13,Åkeshov,Grön Hässelby,2,40,2,Lägenhet,1941,[Brommaplan],1995000,305000,2300000,2963,Fastighetsbyrån,211.01134191831613,Brommaplan
+2015-04-15,Knypplerskevägen 24,Åkeshov,Grön Hässelby,3,55,3,Lägenhet,1944,[Bromma Brommaplan],2195000,705000,2900000,3575,HusmanHagberg,441.18475764976364,Brommaplan
+2015-04-07,Knypplerskevägen 25,Åkeshov,Grön Hässelby,2,42.5,3,Lägenhet,1944,[Bromma Åkeshov],1995000,355000,2350000,2929,Notar,408.7215789655678,Brommaplan
+2015-03-27,Bergslagsvägen 3,Åkeshov,Grön Hässelby,2,56,3,Lägenhet,1940,[Bromma Brommaplan],2190000,260000,2450000,3747,Notar,197.96861822086257,Brommaplan
+2015-03-23,Snörmakarvägen 16,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1942,[Bromma Åkeshov],1950000,550000,2500000,3384,Notar,423.6573281684838,Akeshov
+2015-03-18,Knypplerskevägen 26,Åkeshov,Grön Hässelby,3,55,1,Lägenhet,1944,[Brommaplan],2195000,545000,2740000,3700,Fastighetsbyrån,426.6009340261423,Brommaplan
+2015-02-19,Knypplerskevägen 24,Åkeshov,Grön Hässelby,2,55,1,Lägenhet,1944,[Bromma Åkeshov],2190000,310000,2500000,3701,Notar,441.18475764976364,Brommaplan
+2015-02-16,Knypplerskevägen 18,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1942,[Bromma Brommaplan],1795000,430000,2225000,3232,Svenska Mäklarhuset,395.7285393548496,Akeshov
+2015-02-05,Knypplerskevägen 31,Åkeshov,Grön Hässelby,2,42.5,3,Lägenhet,1944,[Bromma Brommaplan],1895000,215000,2110000,2804,Svenska Mäklarhuset,370.1033735549441,Brommaplan
+2015-02-05,Snörmakarvägen 16,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Åkeshov],1830000,250000,2080000,3384,Fastighetsbyrån,423.6573281684838,Akeshov
+2015-01-31,Broderivägen 19,Åkeshov,Grön Hässelby,2,43,0.5,Lägenhet,1945,[Bromma Åkeshov],1795000,255000,2050000,2952,Notar,362.03890224374544,Akeshov
+2015-01-30,Knypplerskevägen 11,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1942,[Bromma],1850000,150000,2000000,3384,Svenska Mäklarhuset,423.9852250963696,Akeshov
+2015-01-25,Snörmakarvägen 49,Åkeshov,Grön Hässelby,2,55,null,Lägenhet,1944,[Brommaplan],2195000,255000,2450000,3576,Fastighetsbyrån,232.94061603791945,Brommaplan
+2015-01-22,Bårdgränd 16,Åkeshov,Grön Hässelby,2,36,3,Lägenhet,1945,[Bromma Brommaplan],1490000,390000,1880000,2557,HusmanHagberg,463.0662572913177,Akeshov
+2015-01-14,Knypplerskevägen 28,Åkeshov,Grön Hässelby,3,55,1,Lägenhet,1944,[Brommaplan],1995000,330000,2325000,3576,Länsförsäkringar Fastighetsförmedling,412.4790358532557,Brommaplan
+2015-01-14,Knypplerskevägen 24,Åkeshov,Grön Hässelby,3,55,3,Lägenhet,1944,[Bromma Brommaplan],1995000,435000,2430000,3576,HusmanHagberg,441.18475764976364,Brommaplan
+2014-12-10,Bårdgränd 12,Åkeshov,Grön Hässelby,1.5,28,1,Lägenhet,1945,[Bromma Brommaplan],1395000,540000,1935000,1986,HusmanHagberg,458.4741356342628,Akeshov
+2014-12-05,Knypplerskevägen 36,Åkeshov,Grön Hässelby,3,55,1,Lägenhet,1944,[Bromma Brommaplan],2095000,355000,2450000,3575,Svenska Mäklarhuset,318.4941912566815,Brommaplan
+2014-11-28,Bårdgränd 13,Åkeshov,Grön Hässelby,1.5,28,2,Lägenhet,1945,[Bromma Brommaplan],1495000,155000,1650000,2236,Notar,495.7111432008551,Akeshov
+2014-11-13,Broderivägen 23,Åkeshov,Grön Hässelby,1.5,40,1,Lägenhet,null,[Bromma Brommaplan],1390000,410000,1800000,2571,HusmanHagberg,334.4064739227716,Akeshov
+2014-11-06,Snörmakarvägen 3,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,1942,[Bromma Brommaplan],1750000,150000,1900000,3750,Svenska Mäklarhuset,285.25811173825394,Akeshov
+2014-10-29,Bårdgränd 14,Åkeshov,Grön Hässelby,2,36,3,Lägenhet,1945,[Bromma Brommaplan],1390000,520000,1910000,2362,HusmanHagberg,460.80547873983517,Akeshov
+2014-10-29,Knypplerskevägen 24,Åkeshov,Grön Hässelby,2.5,55,2,Lägenhet,1944,[Bromma],2095000,0,2095000,3701,SkandiaMäklarna,441.18475764976364,Brommaplan
+2014-10-23,Bårdgränd 9,Åkeshov,Grön Hässelby,1,28,1,Lägenhet,1945,[Bromma Brommaplan],1495000,230000,1725000,2236,HusmanHagberg,490.2443577757764,Akeshov
+2014-10-21,Bergslagsvägen 35,Åkeshov,Grön Hässelby,3,71,1,Lägenhet,1940,[Bromma Brommaplan],2495000,305000,2800000,4531,Notar,374.4125930030595,Brommaplan
+2014-10-21,Broderivägen 5,Åkeshov,Grön Hässelby,3,61,2,Lägenhet,1945,[Bromma Åkeshov],2295000,55000,2350000,3743,Notar,426.57910113099496,Akeshov
+2014-10-16,Bergslagsvägen 13,Åkeshov,Grön Hässelby,1,40,2,Lägenhet,null,[Bromma],1695000,375000,2070000,2856,Svensk Fastighetsförmedling,252.41268427330144,Brommaplan
+2014-10-16,Bergslagsvägen 33,Åkeshov,Grön Hässelby,2,56,2,Lägenhet,1941,[Bromma],1895000,205000,2100000,3745,Länsförsäkringar Fastighetsförmedling,352.6128731270927,Brommaplan
+2014-10-10,Brommabågen 13,Åkeshov,Grön Hässelby,1.5,40,2,Lägenhet,1941,[Bromma Brommaplan],1795000,205000,2000000,2963,Notar,211.01134191831613,Brommaplan
+2014-10-02,Knypplerskevägen 28,Åkeshov,Grön Hässelby,3,55,3,Lägenhet,1944,[Bromma Brommaplan],2095000,115000,2210000,3575,Svenska Mäklarhuset,412.4790358532557,Brommaplan
+2014-09-25,Knypplerskevägen 12,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,1942,[Bromma Åkeshov],1750000,170000,1920000,3232,Notar,352.4628390119099,Akeshov
+2014-09-18,Snörmakarvägen 1,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma],1595000,255000,1850000,3750,Notar,273.8011755886542,Akeshov
+2014-09-11,Broderivägen 27,Åkeshov,Grön Hässelby,2,49,null,Lägenhet,1945,[Brommaplan],1795000,305000,2100000,3104,Fastighetsbyrån,294.60889425116727,Akeshov
+2014-08-27,Brommabågen 13,Åkeshov,Grön Hässelby,2,40,1.5,Lägenhet,1941,[Bromma],1795000,0,1795000,2963,Länsförsäkringar Fastighetsförmedling,211.01134191831613,Brommaplan
+2014-08-07,Bårdgränd 9,Åkeshov,Grön Hässelby,2,47,2,Lägenhet,1945,[Bromma Åkeshov],1495000,355000,1850000,3463,Notar,490.2443577757764,Akeshov
+2014-08-04,Snörmakarvägen 47,Åkeshov,Grön Hässelby,2,55,null,Lägenhet,1944,[Riksby],2295000,205000,2500000,3575,Fastighetsbyrån,227.14458789881988,Brommaplan
+2014-07-31,Snörmakarvägen 15,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma Åkeshov],1450000,480000,1930000,3750,Notar,413.7659002918825,Akeshov
+2014-07-31,Knypplerskevägen 11,Åkeshov,Grön Hässelby,2,42,1,Lägenhet,1942,[Bromma Brommaplan],1595000,370000,1965000,3384,Svenska Mäklarhuset,423.9852250963696,Akeshov
+2014-07-04,Snörmakarvägen 13,Åkeshov,Grön Hässelby,2,42,1,Lägenhet,null,[Brommaplan],1450000,220000,1670000,3750,Mäklarringen,403.005120479916,Akeshov
+2014-07-03,Bergslagsvägen 31,Åkeshov,Grön Hässelby,3,56,1,Lägenhet,1941,[Bromma Brommaplan],1995000,0,1995000,3745,HusmanHagberg,336.45291141447734,Brommaplan
+2014-07-03,Broderivägen 15,Åkeshov,Grön Hässelby,2.5,49,2,Lägenhet,1946,[Bromma Brommaplan],1495000,355000,1850000,3104,HusmanHagberg,406.71018138888087,Akeshov
+2014-06-15,Bårdgränd 11,Åkeshov,Grön Hässelby,2,28,null,Lägenhet,1945,[Åkeshov Brommaplan],1300000,435000,1735000,2236,ERA,492.41955040989194,Akeshov
+2014-05-27,Knypplerskevägen 38,Åkeshov,Grön Hässelby,2.5,55,2,Lägenhet,null,[Bromma],1960000,0,1960000,3576,SkandiaMäklarna,304.9328216011951,Brommaplan
+2014-05-27,Bergslagsvägen 39,Åkeshov,Grön Hässelby,2,40,3,Lägenhet,1941,[Bromma Brommaplan],1650000,200000,1850000,2931,HusmanHagberg,397.57935055750386,Brommaplan
+2014-05-27,Bårdgränd 13,Åkeshov,Grön Hässelby,1,36,null,Lägenhet,1945,[Åkeshov],1495000,65000,1560000,2752,Fastighetsbyrån,495.7111432008551,Akeshov
+2014-05-22,Broderivägen 13,Åkeshov,Grön Hässelby,2,43,null,Lägenhet,1945,[Bromma Brommaplan],1495000,185000,1680000,2784,Notar,418.7662641231362,Akeshov
+2014-05-16,Bårdgränd 6,Åkeshov,Grön Hässelby,2,43,2,Lägenhet,null,[Bromma],1495000,255000,1750000,2784,Svensk Fastighetsförmedling,454.61963478140603,Akeshov
+2014-05-15,Knypplerskevägen 7,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma Brommaplan],1595000,135000,1730000,3384,Svenska Mäklarhuset,378.3027291736525,Akeshov
+2014-05-14,Knypplerskevägen 31,Åkeshov,Grön Hässelby,2,42.5,null,Lägenhet,1944,[Brommaplan],1695000,205000,1900000,2929,Fastighetsbyrån,370.1033735549441,Brommaplan
+2014-05-14,Knypplerskevägen 12,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,1942,[Bromma Åkeshov],1495000,105000,1600000,3232,Notar,352.4628390119099,Akeshov
+2014-05-09,Knypplerskevägen 42,Åkeshov,Grön Hässelby,1,33,null,Lägenhet,1944,[Bromma Brommaplan],1395000,265000,1660000,2195,Svenska Mäklarhuset,273.2869316901671,Brommaplan
+2014-04-30,Bårdgränd 16,Åkeshov,Grön Hässelby,1.5,36,1,Lägenhet,1945,[Bromma Brommaplan],1495000,215000,1710000,2412,HusmanHagberg,463.0662572913177,Akeshov
+2014-03-06,Knypplerskevägen 29,Åkeshov,Grön Hässelby,2,42.5,3,Lägenhet,null,[Brommaplan],1650000,160000,1810000,2804,Svensk Fastighetsförmedling,382.908535918797,Brommaplan
+2014-02-26,Knypplerskevägen 21,Åkeshov,Grön Hässelby,2,42.5,1,Lägenhet,1944,[Bromma Brommaplan],1650000,275000,1925000,2874,HusmanHagberg,434.9568731284155,Brommaplan
+2014-02-26,Snörmakarvägen 4,Åkeshov,Grön Hässelby,2,42,1,Lägenhet,1939,[Bromma],1595000,155000,1750000,3232,Länsförsäkringar Fastighetsförmedling,286.5843941574636,Akeshov
+2014-02-21,Bergslagsvägen 31,Åkeshov,Grön Hässelby,2,56,null,Lägenhet,1941,[Åkeshov],1695000,-5000,1690000,3745,Svensk Fastighetsförmedling,336.45291141447734,Brommaplan
+2014-02-17,Bergslagsvägen 29,Åkeshov,Grön Hässelby,3,71,0.5,Lägenhet,1941,[Bromma],2400000,-25000,2375000,4571,Erik Olsson Fastighetsförmedling,340.73625217697537,Brommaplan
+2014-02-17,Bergslagsvägen 33,Åkeshov,Grön Hässelby,2,56,3,Lägenhet,1941,[Bromma Brommaplan],1700000,0,1700000,3696,Mäklarringen,352.6128731270927,Brommaplan
+2014-02-12,Knypplerskevägen 6,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1942,[Åkeshov],1625000,125000,1750000,2880,Svensk Fastighetsförmedling,316.20076347071307,Akeshov
+2013-12-20,Bårdgränd 12,Åkeshov,Grön Hässelby,2,36,2,Lägenhet,1947,[Bromma Brommaplan],1500000,220000,1720000,2412,Mäklarringen,458.4741356342628,Akeshov
+2013-12-16,Bårdgränd 13,Åkeshov,Grön Hässelby,2,36,null,Lägenhet,1945,[Bromma Brommaplan],1495000,25000,1520000,2752,Notar,495.7111432008551,Akeshov
+2013-12-11,Snörmakarvägen 15,Åkeshov,Grön Hässelby,2,42,0.5,Lägenhet,1942,[Åkeslund],1395000,30000,1425000,3750,Svenska Mäklarhuset,413.7659002918825,Akeshov
+2013-12-06,Knypplerskevägen 9,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1939,[Åkeshov],1595000,165000,1760000,3084,Länsförsäkringar Fastighetsförmedling,411.12500586127715,Akeshov
+2013-12-03,Knypplerskevägen 28,Åkeshov,Grön Hässelby,2,55,null,Lägenhet,1944,[Bromma],1895000,480000,2375000,3576,Fastighetsbyrån,412.4790358532557,Brommaplan
+2013-11-25,Bårdgränd 11,Åkeshov,Grön Hässelby,2,47,null,Lägenhet,1945,[Bromma Brommaplan],1395000,175000,1570000,3463,Notar,492.41955040989194,Akeshov
+2013-11-21,Bergslagsvägen 17,Åkeshov,Grön Hässelby,2,56,null,Lägenhet,1940,[Bromma],1850000,200000,2050000,3751,Fastighetsbyrån,262.15784867727047,Brommaplan
+2013-11-21,Knypplerskevägen 11,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1944,[Brommaplan],1495000,180000,1675000,3084,Svensk Fastighetsförmedling,423.9852250963696,Akeshov
+2013-11-20,Knypplerskevägen 38,Åkeshov,Grön Hässelby,1,33,null,Lägenhet,1944,[Brommaplan],1300000,260000,1560000,2145,Svensk Fastighetsförmedling,304.9328216011951,Brommaplan
+2013-11-09,Snörmakarvägen 1,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma],1495000,15000,1510000,3750,Fastighetsbyrån,273.8011755886542,Akeshov
+2013-11-09,Knypplerskevägen 38,Åkeshov,Grön Hässelby,1,33,1,Lägenhet,1944,[Bromma Brommaplan],1350000,100000,1450000,2046,HusmanHagberg,304.9328216011951,Brommaplan
+2013-11-08,Bårdgränd 13,Åkeshov,Grön Hässelby,2,47,null,Lägenhet,1945,[Brommaplan],1590000,-10000,1580000,3463,Svensk Fastighetsförmedling,495.7111432008551,Akeshov
+2013-11-06,Broderivägen 21,Åkeshov,Grön Hässelby,2,43,null,Lägenhet,1945,[Bromma],1495000,265000,1760000,2785,Erik Olsson Fastighetsförmedling,348.72952999708167,Akeshov
+2013-10-24,Snörmakarvägen 16,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma],1695000,165000,1860000,3084,Fastighetsbyrån,423.6573281684838,Akeshov
+2013-10-16,Bergslagsvägen 33,Åkeshov,Grön Hässelby,2,56,3,Lägenhet,1940,[Bromma Brommaplan],1795000,0,1795000,3745,Notar,352.6128731270927,Brommaplan
+2013-10-11,Bårdgränd 8,Åkeshov,Grön Hässelby,2,43,null,Lägenhet,1945,[Bromma Åkeshov],1395000,235000,1630000,2784,Notar,454.82991788700963,Akeshov
+2013-10-11,Knypplerskevägen 16,Åkeshov,Grön Hässelby,2,42,3,Lägenhet,1939,[Bromma],1595000,55000,1650000,2886,Länsförsäkringar Fastighetsförmedling,384.0658202111386,Akeshov
+2013-10-10,Snörmakarvägen 29,Åkeshov,Grön Hässelby,1,40,null,Lägenhet,1960,[Bromma Brommaplan],1590000,70000,1660000,2744,Notar,355.5973496555364,Brommaplan
+2013-10-10,Knypplerskevägen 23,Åkeshov,Grön Hässelby,2,42.5,null,Lägenhet,1944,[Bromma Brommaplan],1690000,0,1690000,2804,Notar,421.8665746702706,Brommaplan
+2013-10-03,Bårdgränd 9,Åkeshov,Grön Hässelby,1.5,36,2,Lägenhet,1945,[Bromma Åkeshov],1350000,100000,1450000,2753,Notar,490.2443577757764,Akeshov
+2013-10-02,Brommabågen 21,Åkeshov,Grön Hässelby,3,71,null,Lägenhet,1941,[Bromma],2295000,0,2295000,4521,Fastighetsbyrån,168.84322449026993,Brommaplan
+2013-09-26,Knypplerskevägen 24,Åkeshov,Grön Hässelby,2.5,55,null,Lägenhet,1944,[Bromma Brommaplan],1890000,0,1890000,3585,Notar,441.18475764976364,Brommaplan
+2013-09-25,Knypplerskevägen 42,Åkeshov,Grön Hässelby,2,55,null,Lägenhet,1944,[Bromma Brommaplan],1950000,160000,2110000,3575,Notar,273.2869316901671,Brommaplan
+2013-09-13,Knypplerskevägen 16,Åkeshov,Grön Hässelby,2,42,1,Lägenhet,1939,[Bromma],1595000,55000,1650000,2886,Länsförsäkringar Fastighetsförmedling,384.0658202111386,Akeshov
+2013-09-12,Knypplerskevägen 28,Åkeshov,Grön Hässelby,2,55,null,Lägenhet,1944,[Brommaplan],1650000,150000,1800000,3576,Svenska Mäklarhuset,412.4790358532557,Brommaplan
+2013-09-04,Bergslagsvägen 3,Åkeshov,Grön Hässelby,2,56,null,Lägenhet,1940,[Bromma Brommaplan],1795000,220000,2015000,3747,Notar,197.96861822086257,Brommaplan
+2013-09-04,Snörmakarvägen 5,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma],1390000,210000,1600000,3750,Notar,318.8348086795258,Akeshov
+2013-08-23,Snörmakarvägen 5,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma],1395000,205000,1600000,3750,BOSTHLM,318.8348086795258,Akeshov
+2013-08-15,Knypplerskevägen 25,Åkeshov,Grön Hässelby,2,42.5,null,Lägenhet,1944,[Bromma],1495000,165000,1660000,2804,Fastighetsbyrån,408.7215789655678,Brommaplan
+2013-07-26,Knypplerskevägen 26,Åkeshov,Grön Hässelby,1,33,null,Lägenhet,1944,[Bromma],1395000,105000,1500000,2145,Notar,426.6009340261423,Brommaplan
+2013-07-25,Knypplerskevägen 40,Åkeshov,Grön Hässelby,1,33,null,Lägenhet,1944,[Åkeslund],1350000,125000,1475000,2145,Svenska Mäklarhuset,287.5623310642874,Brommaplan
+2013-07-16,Bergslagsvägen 19,Åkeshov,Grön Hässelby,1,38,null,Lägenhet,1941,[Bromma Brommaplan],1450000,50000,1500000,2953,Notar,280.9154851398416,Brommaplan
+2013-07-04,Bergslagsvägen 29,Åkeshov,Grön Hässelby,1,38,null,Lägenhet,1940,[Bromma Brommaplan],1450000,160000,1610000,2862,Notar,340.73625217697537,Brommaplan
+2013-06-27,Bårdgränd 14,Åkeshov,Grön Hässelby,3,47,3,Lägenhet,1944,[Bromma],1795000,105000,1900000,2997,BOSTHLM,460.80547873983517,Akeshov
+2013-06-24,Knypplerskevägen 31,Åkeshov,Grön Hässelby,2,42.5,null,Lägenhet,1944,[Bromma Brommaplan],1495000,255000,1750000,2804,Notar,370.1033735549441,Brommaplan
+2013-05-21,Broderivägen 7,Åkeshov,Grön Hässelby,1,35,null,Lägenhet,1945,[Bromma Åkeshov],1450000,10000,1460000,2358,Notar,427.0036080085953,Akeshov
+2013-05-20,Knypplerskevägen 12,Åkeshov,Grön Hässelby,2,42,2,Lägenhet,null,[Bromma],1600000,50000,1650000,2886,Ansvar Fastighetsförmedling,352.4628390119099,Akeshov
+2013-05-15,Bårdgränd 6,Åkeshov,Grön Hässelby,2,43,null,Lägenhet,1945,[Bromma Brommaplan],1495000,215000,1710000,2784,Notar,454.61963478140603,Akeshov
+2013-05-15,Knypplerskevägen 18,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma Brommaplan],1390000,200000,1590000,2886,Notar,395.7285393548496,Akeshov
+2013-05-08,Bårdgränd 9,Åkeshov,Grön Hässelby,2,36,null,Lägenhet,1945,[Bromma Åkeshov],1350000,100000,1450000,2752,Notar,490.2443577757764,Akeshov
+2013-05-08,Bårdgränd 13,Åkeshov,Grön Hässelby,1,28,null,Lägenhet,1945,[Bromma],1250000,260000,1510000,2236,Fastighetsbyrån,495.7111432008551,Akeshov
+2013-05-02,Bergslagsvägen 17,Åkeshov,Grön Hässelby,2,56,2,Lägenhet,1941,[Brommaplan],1695000,0,1695000,3747,Svensk Fastighetsförmedling,262.15784867727047,Brommaplan
+2013-04-19,Bårdgränd 10,Åkeshov,Grön Hässelby,2,43,null,Lägenhet,1945,[Bromma],1495000,20000,1515000,2784,Notar,455.00522590335373,Akeshov
+2013-04-13,Bergslagsvägen 17,Åkeshov,Grön Hässelby,2,56,1.5,Lägenhet,1941,[Bromma],1750000,0,1750000,3747,Mäklarhuset,262.15784867727047,Brommaplan
+2013-04-12,Bergslagsvägen 39,Åkeshov,Grön Hässelby,1,40,null,Lägenhet,1941,[Brommaplan],1300000,80000,1380000,2882,Svensk Fastighetsförmedling,397.57935055750386,Brommaplan
+2013-04-03,Knypplerskevägen 36,Åkeshov,Grön Hässelby,2,55,2,Lägenhet,1944,[Bromma],1795000,55000,1850000,3575,Länsförsäkringar Fastighetsförmedling,318.4941912566815,Brommaplan
+2013-03-28,Knypplerskevägen 27,Åkeshov,Grön Hässelby,2,42.5,2,Lägenhet,1944,[Bromma Brommaplan],1475000,95000,1570000,2804,Svenska Mäklarhuset,395.72866428941506,Brommaplan
+2013-03-28,Knypplerskevägen 23,Åkeshov,Grön Hässelby,2,42.5,2,Lägenhet,1944,[Bromma],1685000,0,1685000,2804,Mäklarhuset,421.8665746702706,Brommaplan
+2013-03-28,Bårdgränd 16,Åkeshov,Grön Hässelby,2,47,null,Lägenhet,1945,[Bromma Brommaplan Åkeshov],1595000,65000,1660000,2997,HusmanHagberg,463.0662572913177,Akeshov
+2013-03-19,Bårdgränd 13,Åkeshov,Grön Hässelby,1,36,null,Lägenhet,1945,[Bromma Åkeshov],1295000,210000,1505000,2752,Notar,495.7111432008551,Akeshov
+2013-03-16,Knypplerskevägen 11,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma],1450000,0,1450000,3084,Notar,423.9852250963696,Akeshov
+2013-03-13,Bergslagsvägen 27,Åkeshov,Grön Hässelby,3,71,null,Lägenhet,1941,[Bromma],1995000,0,1995000,4470,Fastighetsbyrån,324.8274624371294,Brommaplan
+2013-03-09,Snörmakarvägen 5,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma],1350000,90000,1440000,3750,Notar,318.8348086795258,Akeshov
+2013-02-21,Knypplerskevägen 5,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma Åkeshov],1475000,35000,1510000,3084,Notar,366.3583059797943,Akeshov
+2013-02-21,Knypplerskevägen 11,Åkeshov,Grön Hässelby,2,42,1,Lägenhet,1942,[Bromma],1300000,150000,1450000,3084,Mäklarhuset,423.9852250963696,Akeshov
+2013-02-13,Broderivägen 27,Åkeshov,Grön Hässelby,2,43,null,Lägenhet,1945,[Bromma Åkeshov],1490000,50000,1540000,2784,Notar,294.60889425116727,Akeshov
+2013-02-05,Broderivägen 17,Åkeshov,Grön Hässelby,2,43,null,Lägenhet,1945,[Bromma Brommaplan],1395000,130000,1525000,2784,Notar,375.545553953272,Akeshov
+2013-01-27,Bårdgränd 14,Åkeshov,Grön Hässelby,3,49,null,Lägenhet,1945,[Bromma],1895000,105000,2000000,2997,Fantastic Frank Fastighetsmäkleri,460.80547873983517,Akeshov
+2013-01-24,Brommabågen 15,Åkeshov,Grön Hässelby,1,40,null,Lägenhet,1941,[Brommabågen],1495000,270000,1765000,2577,SkandiaMäklarna,202.6489727339337,Brommaplan
+2013-01-17,Snörmakarvägen 4,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma],1395000,215000,1610000,2886,Fastighetsbyrån,286.5843941574636,Akeshov
+2013-01-09,Knypplerskevägen 9,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,null,[Bromma],1595000,-25000,1570000,3084,Bostadsrättsspecialisten,411.12500586127715,Akeshov
+2012-12-28,Bergslagsvägen 11,Åkeshov,Grön Hässelby,3,71,2.5,Lägenhet,1941,[Bromma],2195000,-45000,2150000,4522,Mäklarhuset,238.0468894324608,Brommaplan
+2012-12-14,Knypplerskevägen 6,Åkeshov,Grön Hässelby,2,42,null,Lägenhet,1942,[Bromma Åkeshov],1475000,25000,1500000,2886,Notar,316.20076347071307,Akeshov
+2012-12-05,Bergslagsvägen 21,Åkeshov,Grön Hässelby,1,38,null,Lägenhet,1941,[Åkeshov],1395000,0,1395000,2748,Svensk Fastighetsförmedling,297.5921628780281,Brommaplan
+2012-12-03,Bergslagsvägen 35,Åkeshov,Grön Hässelby,3,71,null,Lägenhet,1940,[Bromma Brommaplan],1995000,0,1995000,3426,Notar,374.4125930030595,Brommaplan
+2012-11-28,Knypplerskevägen 26,Åkeshov,Grön Hässelby,3,55,null,Lägenhet,1944,[Brommaplan],1550000,150000,1700000,3372,Svensk Fastighetsförmedling,426.6009340261423,Brommaplan
+2012-10-24,Bergslagsvägen 19,Åkeshov,Grön Hässelby,1,38,null,Lägenhet,1941,[Bromma Brommaplan],1395000,135000,1530000,2233,Notar,280.9154851398416,Brommaplan
+2012-10-24,Snörmakarvägen 47,Åkeshov,Grön Hässelby,3,55,null,Lägenhet,null,[Bromma],1590000,10000,1600000,3373,Länsförsäkringar Fastighetsförmedling,227.14458789881988,Brommaplan
+2012-09-27,Knypplerskevägen 36,Åkeshov,Grön Hässelby,3,55,null,Lägenhet,1944,[Bromma],1995000,-95000,1900000,3375,Mäklarhuset,318.4941912566815,Brommaplan

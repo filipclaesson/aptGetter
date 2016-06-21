@@ -1,0 +1,463 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-13,Kyrkbacken 13,Hagalund,Blå Solna,3,84,1,Lägenhet,1973,[Hagalund],2495000,505000,3000000,4875,Fastighetsbyrån,596.2991217607297,Solna centrum
+2016-05-11,Hagalundsgatan 14,Hagalund,Blå Solna,3,67,3,Lägenhet,1973,[Hagalund],2795000,405000,3200000,3310,Fastighetsbyrån,738.4262265593696,Solna centrum
+2016-05-10,Fyrgränd 4,Hagalund,Blå Solna,3,67,2,Lägenhet,1950,[Haga Norra],2875000,535000,3410000,2541,Edward & Partners Fastighetsmäklare AB,915.708223183637,Solna centrum
+2016-05-05,Solgatan 28,Hagalund,Blå Solna,4,91.5,4,Lägenhet,2012,[Rudviken],4500000,650000,5150000,4869,Magnusson Mäkleri,623.7698488559857,Solna centrum
+2016-05-03,Hagalundsgatan 42,Hagalund,Blå Solna,3,67.5,12,Lägenhet,1972,[Hagalund],2695000,1305000,4000000,2734,MOHV,956.644747627791,Solna centrum
+2016-05-03,Hagalundsgatan 12,Hagalund,Blå Solna,3,74,0,Lägenhet,null,[Hagalund],2795000,105000,2900000,3656,Fastighetsbyrån,700.607716023162,Solna centrum
+2016-04-30,Regnstigen 18,Hagalund,Blå Solna,2,43,3,Lägenhet,1985,[Rudviken],2475000,225000,2700000,1985,ERA,632.7774358541362,Solna centrum
+2016-04-28,Regnstigen 8,Hagalund,Blå Solna,2,36.5,4,Lägenhet,1985,[Solna Rudviken],1995000,575000,2570000,1766,ERA,600.7048268865416,Solna centrum
+2016-04-27,Nordstjärnegatan 2,Hagalund,Blå Solna,2,65,null,Lägenhet,1909,[Haga Norra],3395000,555000,3950000,2764,Fastighetsbyrån,992.7634451215932,Solna centrum
+2016-04-26,Nordstjärnegatan 2,Hagalund,Blå Solna,4,131.6,1,Lägenhet,null,[Haga Norra],5995000,905000,6900000,5141,Svenska Mäklarhuset,992.7634451215932,Solna centrum
+2016-04-23,Hagalundsgatan 44,Hagalund,Blå Solna,4,99,8,Lägenhet,1973,[Hagalund],2995000,605000,3600000,3820,Fastighetsbyrån,954.6924211534431,Solna centrum
+2016-04-21,Blomgatan 18,Hagalund,Blå Solna,3,73,1,Lägenhet,1985,[Hagalundsparken],3495000,555000,4050000,2920,Fastighetsbyrån,530.0470081364502,Solna centrum
+2016-04-20,Solgatan 14,Hagalund,Blå Solna,3,69,6,Lägenhet,2012,[Rudviken],3795000,515000,4310000,3943,Fastighetsbyrån,655.7008167243639,Solna centrum
+2016-04-19,Solgatan 16,Hagalund,Blå Solna,3,70,6,Lägenhet,2011,[Rudviken],3895000,305000,4200000,4000,Notar,640.1709386218299,Solna centrum
+2016-04-16,Solgatan 20,Hagalund,Blå Solna,5,113.5,null,Lägenhet,2012,[Hagalundsparken],4795000,525000,5320000,5821,Svensk Fastighetsförmedling,547.1930427850507,Solna centrum
+2016-04-13,Kyrkbacken 35,Hagalund,Blå Solna,3,80.5,2,Lägenhet,1973,[Hagalund],2495000,565000,3060000,4688,Hemverket,609.968292827633,Solna centrum
+2016-04-11,Västra vägen 19,Hagalund,Blå Solna,3,78,3,Lägenhet,1985,[Rudviken],3450000,290000,3740000,3256,Länsförsäkringar Fastighetsförmedling,508.2622022977259,Solna centrum
+2016-04-09,Slottsvägen 7,Hagalund,Blå Solna,2,42,0.5,Lägenhet,1948,[Haga Norra],2095000,705000,2800000,2342,Fastighetsbyrån,1189.8157697765914,Solna centrum
+2016-04-08,Kyrkbacken 14,Hagalund,Blå Solna,1,18.5,1,Lägenhet,null,[Hagalund],1395000,405000,1800000,1366,Svenska Mäklarhuset,675.917695833955,Solna centrum
+2016-04-07,Blomgatan 18,Hagalund,Blå Solna,3,74,3,Lägenhet,1985,[Rudviken],3550000,780000,4330000,2956,Länsförsäkringar Fastighetsförmedling,530.0470081364502,Solna centrum
+2016-04-06,Hagalundsgatan 10,Hagalund,Blå Solna,2,59,8,Lägenhet,null,[Haga Norra],2495000,115000,2610000,2915,Fastighetsbyrån,736.8893855944458,Solna centrum
+2016-04-06,Kyrkbacken 35,Hagalund,Blå Solna,4,99,2,Lägenhet,1973,[Hagalund],3195000,1025000,4220000,6054,Notar,609.968292827633,Solna centrum
+2016-03-26,Kyrkbacken 17,Hagalund,Blå Solna,3,84,1,Lägenhet,1973,[Hagalund],2350000,450000,2800000,4875,Fastighetsbyrån,661.7922061121185,Solna centrum
+2016-03-24,Hagavägen 14,Hagalund,Blå Solna,2,53,2,Lägenhet,null,[Haga Norra],2795000,155000,2950000,3423,Svenska Mäklarhuset,1263.9505343327294,Solna centrum
+2016-03-24,Carl Thunbergs väg 1,Hagalund,Blå Solna,3.5,81,1,Lägenhet,null,[Haga Norra],3095000,505000,3600000,4167,Svensk Fastighetsförmedling,1184.4548541854592,Solna centrum
+2016-03-23,Råsundavägen 7,Hagalund,Blå Solna,2,63,4,Lägenhet,null,[Haga Norra],2495000,405000,2900000,3141,Svenska Mäklarhuset,1383.1023643588762,Solna centrum
+2016-03-23,Hagalundsgatan 10,Hagalund,Blå Solna,3,79,2,Lägenhet,1973,[Hagalund],2650000,230000,2880000,3903,Notar,736.8893855944458,Solna centrum
+2016-03-22,Hagalundsgatan 12,Hagalund,Blå Solna,4,89,6,Lägenhet,null,[Hagalund],3195000,485000,3680000,4397,Fastighetsbyrån,700.607716023162,Solna centrum
+2016-03-21,Solgatan 16,Hagalund,Blå Solna,3,70,5,Lägenhet,2011,[Rudviken],3895000,435000,4330000,4000,Notar,640.1709386218299,Solna centrum
+2016-03-19,Kyrkbacken 22,Hagalund,Blå Solna,3,80.5,2,Lägenhet,1973,[Hagalund],2495000,555000,3050000,4688,Länsförsäkringar Fastighetsförmedling,515.1090555545873,Solna centrum
+2016-03-18,Kyrkbacken 19,Hagalund,Blå Solna,1.5,48,null,Lägenhet,1973,[Hagalund],1795000,455000,2250000,2947,Notar,645.0850802635756,Solna centrum
+2016-03-18,Hagalundsgatan 10,Hagalund,Blå Solna,3,67,5,Lägenhet,1973,[Hagalund],3100000,-300000,2800000,3310,Notar,736.8893855944458,Solna centrum
+2016-03-17,Råsundavägen 24,Hagalund,Blå Solna,2,46,1,Lägenhet,2000,[Haga Norra],2195000,515000,2710000,2954,Fastighetsbyrån,1168.9412804233586,Solna centrum
+2016-03-17,Kyrkbacken 17,Hagalund,Blå Solna,2,48,null,Lägenhet,1973,[Centrum Solna],1995000,105000,2100000,2947,Länsförsäkringar Fastighetsförmedling,661.7922061121185,Solna centrum
+2016-03-17,Blomgatan 4,Hagalund,Blå Solna,4,91,3,Lägenhet,1985,[Solna Centrum],4995000,0,4995000,3799,Svensk Fastighetsförmedling,446.8329685521732,Solna centrum
+2016-03-11,Slottsvägen 9,Hagalund,Blå Solna,2,51,1,Lägenhet,null,[Haga Norra],2395000,0,2395000,2582,Svenska Mäklarhuset,1171.2215626755858,Solna centrum
+2016-03-11,Solgatan 22,Hagalund,Blå Solna,3,70,6,Lägenhet,2011,[Hagalundsparken],4195000,340000,4535000,3725,Svensk Fastighetsförmedling,673.8729101591501,Solna centrum
+2016-03-11,Regnstigen 18,Hagalund,Blå Solna,3,84.5,2,Lägenhet,1985,[Rudviken Solna Centrum],3495000,20000,3515000,3328,Svensk Fastighetsförmedling,632.7774358541362,Solna centrum
+2016-03-09,Fyrgränd 4,Hagalund,Blå Solna,1,23,5,Lägenhet,1950,[Haga Norra],1595000,505000,2100000,847,Svensk Fastighetsförmedling,915.708223183637,Solna centrum
+2016-03-09,Regnstigen 18,Hagalund,Blå Solna,2,36.5,6,Lägenhet,1985,[Rudviken],2375000,225000,2600000,1770,ERA,632.7774358541362,Solna centrum
+2016-03-07,Kyrkbacken 14,Hagalund,Blå Solna,3,80.5,1,Lägenhet,1973,[Hagalund],2395000,605000,3000000,4688,Notar,675.917695833955,Solna centrum
+2016-03-07,Hagalundsgatan 22,Hagalund,Blå Solna,3,67,9,Lägenhet,1973,[Hagalund],2675000,0,2675000,3627,Notar,738.4262265593696,Solna centrum
+2016-03-02,Västra vägen 1D,Hagalund,Blå Solna,2,62,5,Lägenhet,null,[Solna Centrum],2595000,415000,3010000,2613,Svenska Mäklarhuset,401.629639767772,Solna centrum
+2016-03-01,Hagavägen 18,Hagalund,Blå Solna,3,70,2,Lägenhet,1949,[Haga Norra],3195000,330000,3525000,3805,Svensk Fastighetsförmedling,1214.7560357581062,Solna centrum
+2016-02-27,Västra vägen 19,Hagalund,Blå Solna,4,91,2,Lägenhet,1985,[Rudviken],4400000,-90000,4310000,3799,Länsförsäkringar Fastighetsförmedling,508.2622022977259,Solna centrum
+2016-02-25,Solgatan 34,Hagalund,Blå Solna,3,70,6,Lägenhet,2012,[Rudviken],3895000,665000,4560000,3725,Fastighetsbyrån,673.8729101591501,Solna centrum
+2016-02-23,Västra vägen 15,Hagalund,Blå Solna,4,78,2,Lägenhet,1985,[Rudviken],3590000,110000,3700000,3256,Notar,466.2454802396525,Solna centrum
+2016-02-23,Slottsvägen 5,Hagalund,Blå Solna,2,62,1,Lägenhet,1949,[Haga Norra],2595000,345000,2940000,3515,Notar,1172.9002409941618,Solna centrum
+2016-02-18,Hagalundsgatan 10,Hagalund,Blå Solna,1,50,null,Lägenhet,1973,[Hagalund],2200000,-25000,2175000,2470,Notar,736.8893855944458,Solna centrum
+2016-02-16,Hagalundsgatan 30,Hagalund,Blå Solna,4,96.2,13,Lägenhet,1973,[Hagalund],4000000,-220000,3780000,3828,Notar,906.0619995858758,Solna centrum
+2016-02-10,Andersvägen 3A,Hagalund,Blå Solna,2,52.7,1,Lägenhet,1993,[Haga Norra],2350000,585000,2935000,2985,Notar,1372.5773891343981,Solna centrum
+2016-02-05,Västra vägen 3A,Hagalund,Blå Solna,2,62,3,Lägenhet,1969,[Rudviken],2595000,315000,2910000,2502,One Fastighetsmäkleri,399.04247178690986,Solna centrum
+2016-02-04,Andersvägen 5,Hagalund,Blå Solna,3,88.9,3,Lägenhet,1993,[Haga Norra],3495000,1905000,5400000,4609,One Fastighetsmäkleri,1364.275678289148,Solna centrum
+2016-02-03,Andersvägen 3A,Hagalund,Blå Solna,2,52.7,2,Lägenhet,1993,[Haga Norra],1995000,845000,2840000,3016,One Fastighetsmäkleri,1372.5773891343981,Solna centrum
+2016-02-03,Kyrkbacken 7,Hagalund,Blå Solna,2,62.5,0,Lägenhet,1973,[Hagalund],2275000,275000,2550000,3724,HusmanHagberg,632.6864931221098,Solna centrum
+2016-02-03,Hagalundsgatan 8,Hagalund,Blå Solna,2,42,1,Lägenhet,null,[Haga Norra],1995000,535000,2530000,1887,Fastighetsbyrån,741.5406877198205,Solna centrum
+2016-01-28,Broddgatan 3,Hagalund,Blå Solna,2,65,2,Lägenhet,1947,[Haga Norra],2695000,145000,2840000,2779,Fastighetsbyrån,1018.9532674944018,Solna centrum
+2016-01-28,Solgatan 8,Hagalund,Blå Solna,2,58,4,Lägenhet,2012,[Hagalundsparken],2995000,155000,3150000,3315,Svensk Fastighetsförmedling,641.4369034041981,Solna centrum
+2016-01-25,Solgatan 36,Hagalund,Blå Solna,2,58,4,Lägenhet,2012,[Hagalundsparken],2995000,255000,3250000,3332,Fastighetsbyrån,518.30352624172,Solna centrum
+2016-01-25,Solgatan 12,Hagalund,Blå Solna,3,69,3,Lägenhet,2011,[Rudviken],3750000,350000,4100000,3943,Notar,646.6226870999577,Solna centrum
+2016-01-21,Andersvägen 3A,Hagalund,Blå Solna,2,64.2,2,Lägenhet,1993,[Haga Norra],2795000,280000,3075000,3458,Bjurfors,1372.5773891343981,Solna centrum
+2016-01-20,Blomgatan 18,Hagalund,Blå Solna,2,36.5,7,Lägenhet,1985,[Solna Centrum],2350000,270000,2620000,1843,Bjurfors,530.0470081364502,Solna centrum
+2016-01-18,Kyrkbacken 17,Hagalund,Blå Solna,3,80.5,2,Lägenhet,1973,[Hagalund],2395000,455000,2850000,4688,Notar,661.7922061121185,Solna centrum
+2016-01-18,Adress saknas,Hagalund,Blå Solna,6,140,null,Parhus,null,[Haga Norra],4150000,-700000,3450000,null,Länsförsäkringar Fastighetsförmedling,914.4695195187353,Solna centrum
+2016-01-15,Regnstigen 12,Hagalund,Blå Solna,2,43,2,Lägenhet,null,[Hagalundsparken],2495000,455000,2950000,1980,Fastighetsbyrån,580.7921552716365,Solna centrum
+2016-01-15,Blomgatan 12,Hagalund,Blå Solna,3,71,4,Lägenhet,1985,[Rudviken],3495000,655000,4150000,2869,Länsförsäkringar Fastighetsförmedling,487.4766600450446,Solna centrum
+2016-01-14,Västra vägen 19,Hagalund,Blå Solna,2,54,1,Lägenhet,1985,[Hagalundsparken],2495000,155000,2650000,2254,Mäklarhuset,508.2622022977259,Solna centrum
+2016-01-14,Västra vägen 19,Hagalund,Blå Solna,4,91,1,Lägenhet,null,[Rudviken],3995000,0,3995000,3799,Svenska Mäklarhuset,508.2622022977259,Solna centrum
+2016-01-14,Regnstigen 3,Hagalund,Blå Solna,1,26,3,Lägenhet,1930,[Rudviken],1795000,1200000,2995000,1490,Position Fastighetsförmedling,520.1182593434927,Solna centrum
+2016-01-11,Andersvägen 3A,Hagalund,Blå Solna,2,52.7,3,Lägenhet,1992,[Haga Norra],2495000,240000,2735000,3046,Notar,1372.5773891343981,Solna centrum
+2015-12-30,Hagalundsgatan 8,Hagalund,Blå Solna,3,79,1,Lägenhet,1973,[Hagalund],2525000,425000,2950000,3903,Fastighetsmäklarna,741.5406877198205,Solna centrum
+2015-12-11,Hagalundsgatan 32,Hagalund,Blå Solna,3,78.7,13,Lägenhet,1971,[Hagalund],2995000,265000,3260000,3089,Notar,897.1415835957021,Solna centrum
+2015-12-10,Solgatan 12,Hagalund,Blå Solna,4,83,4,Lägenhet,2011,[Rudviken],3995000,355000,4350000,4744,Notar,646.6226870999577,Solna centrum
+2015-12-04,Kyrkbacken 7,Hagalund,Blå Solna,2,64,1,Lägenhet,1973,[Hagalund],1995000,415000,2410000,3729,HusmanHagberg,632.6864931221098,Solna centrum
+2015-11-30,Hagalundsgatan 44,Hagalund,Blå Solna,3,67.5,3,Lägenhet,1973,[Hagalund],2350000,300000,2650000,2715,Notar,954.6924211534431,Solna centrum
+2015-11-30,Kyrkbacken 27,Hagalund,Blå Solna,3,80.5,null,Lägenhet,1973,[Hagalund],2395000,205000,2600000,4596,Notar,599.6094552738364,Solna centrum
+2015-11-28,Hagalundsgatan 36,Hagalund,Blå Solna,5,111.5,10,Lägenhet,1973,[Hagalund],3495000,460000,3955000,4230,Fastighetsbyrån,864.8104037589363,Solna centrum
+2015-11-25,Råsundavägen 26,Hagalund,Blå Solna,3,86,3,Lägenhet,2000,[Haga Norra],2995000,1115000,4110000,5398,Fastighetsbyrån,1154.1430130170354,Solna centrum
+2015-11-20,Råsundavägen 22,Hagalund,Blå Solna,2,58,2,Lägenhet,2000,[Haga Norra],2495000,405000,2900000,3685,Fastighetsbyrån,1217.7130133272901,Solna centrum
+2015-11-20,Slottsvägen 7,Hagalund,Blå Solna,1,42,0.5,Lägenhet,1948,[Haga Norra],1895000,0,1895000,2342,Fastighetsbyrån,1189.8157697765914,Solna centrum
+2015-11-18,Blomgatan 8,Hagalund,Blå Solna,3,71,3,Lägenhet,1985,[Rudviken],3395000,605000,4000000,2964,One Fastighetsmäkleri,467.63548176563074,Solna centrum
+2015-11-17,Västra vägen 3A,Hagalund,Blå Solna,2,63,6,Lägenhet,null,[Rudviken],2700000,425000,3125000,2502,Svenska Mäklarhuset,399.04247178690986,Solna centrum
+2015-11-13,Kyrkbacken 35,Hagalund,Blå Solna,3,80.5,2,Lägenhet,1973,[Hagalund],2375000,545000,2920000,4596,Notar,609.968292827633,Solna centrum
+2015-11-12,Solgatan 9,Hagalund,Blå Solna,3,78.5,2,Lägenhet,1985,[Solna Centrum],3295000,365000,3660000,3168,Länsförsäkringar Fastighetsförmedling,656.6119668031662,Solna centrum
+2015-11-12,Hagalundsgatan 18,Hagalund,Blå Solna,3,67,1,Lägenhet,1973,[Hagalund],2395000,425000,2820000,3310,Notar,758.7970455584275,Solna centrum
+2015-11-12,Hagalundsgatan 22,Hagalund,Blå Solna,2,59,10,Lägenhet,1973,[Hagalund],2050000,200000,2250000,2915,Mäklarhuset,738.4262265593696,Solna centrum
+2015-11-10,Hagalundsgatan 10,Hagalund,Blå Solna,3,67,5,Lägenhet,1973,[Hagalund],2350000,250000,2600000,3310,Notar,736.8893855944458,Solna centrum
+2015-11-05,Solgatan 8,Hagalund,Blå Solna,3,70,8,Lägenhet,2011,[Rudviken],3895000,405000,4300000,3590,Notar,641.4369034041981,Solna centrum
+2015-11-03,Råsundavägen 7,Hagalund,Blå Solna,2,60,2,Lägenhet,1932,[Haga Norra],2495000,505000,3000000,2991,Notar,1383.1023643588762,Solna centrum
+2015-10-31,Kyrkbacken 14,Hagalund,Blå Solna,1,18,2,Lägenhet,1973,[Hagalund],1495000,205000,1700000,1339,MOHV,675.917695833955,Solna centrum
+2015-10-29,Blomgatan 8,Hagalund,Blå Solna,2,43,2,Lägenhet,1985,[Rudviken],2395000,545000,2940000,1796,One Fastighetsmäkleri,467.63548176563074,Solna centrum
+2015-10-23,Blomgatan 20,Hagalund,Blå Solna,3,59,6,Lägenhet,1985,[Hagalundsparken],3195000,305000,3500000,2466,HusmanHagberg,550.9675268670012,Solna centrum
+2015-10-21,Hagalundsgatan 22,Hagalund,Blå Solna,3,79,2,Lägenhet,1973,[Hagalund],2495000,375000,2870000,3903,Fastighetsbyrån,738.4262265593696,Solna centrum
+2015-10-19,Hagalundsgatan 12,Hagalund,Blå Solna,1,59,7,Lägenhet,1973,[Hagalund],2150000,170000,2320000,2915,Notar,700.607716023162,Solna centrum
+2015-10-19,Hagalundsgatan 20,Hagalund,Blå Solna,2,59,11,Lägenhet,1973,[Hagalund],2250000,120000,2370000,2915,Notar,723.8521795697774,Solna centrum
+2015-10-19,Solgatan 12,Hagalund,Blå Solna,1,45,null,Lägenhet,2011,[Rudviken],2295000,330000,2625000,2308,Länsförsäkringar Fastighetsförmedling,646.6226870999577,Solna centrum
+2015-10-19,Kyrkbacken 20,Hagalund,Blå Solna,2,51,null,Lägenhet,1973,[Hagalund],2650000,0,2650000,2889,Länsförsäkringar Fastighetsförmedling,525.6312146279341,Solna centrum
+2015-10-19,Hagalundsgatan 24,Hagalund,Blå Solna,5,125,2,Lägenhet,1973,[Hagalund],3195000,505000,3700000,6176,Edward & Partners Fastighetsmäklare AB,738.4262265593696,Solna centrum
+2015-10-15,Solgatan 34,Hagalund,Blå Solna,1,45,3,Lägenhet,2012,[Rudviken],2295000,430000,2725000,2585,One Fastighetsmäkleri,673.8729101591501,Solna centrum
+2015-10-09,Solgatan 26,Hagalund,Blå Solna,3,70,3,Lägenhet,2011,[Hagalundsparken],3995000,280000,4275000,4022,Svensk Fastighetsförmedling,573.8841511987182,Solna centrum
+2015-10-08,Hagalundsgatan 34,Hagalund,Blå Solna,3,78,3,Lägenhet,1972,[Hagalund],2995000,205000,3200000,3070,Stones Fastighetsförmedling,876.3369573072899,Solna centrum
+2015-10-05,Västra vägen 23,Hagalund,Blå Solna,3,71.5,3,Lägenhet,1985,[Rudviken],3295000,10000,3305000,2985,Notar,549.0864385838056,Solna centrum
+2015-10-05,Solgatan 10,Hagalund,Blå Solna,3,74,7,Lägenhet,2011,[Rudviken],3590000,610000,4200000,4200,Notar,645.4136266435881,Solna centrum
+2015-10-05,Solgatan 22,Hagalund,Blå Solna,3,70,6,Lägenhet,2012,[Rudviken],3495000,755000,4250000,3725,Notar,673.8729101591501,Solna centrum
+2015-10-05,Hagalundsgatan 12,Hagalund,Blå Solna,3,74,3,Lägenhet,1973,[Hagalund],2350000,130000,2480000,3656,Notar,700.607716023162,Solna centrum
+2015-10-02,Hagalundsgatan 46,Hagalund,Blå Solna,5,111.5,8,Lägenhet,1972,[Hagalund],3195000,1120000,4315000,4230,MOHV,930.2957310718215,Solna centrum
+2015-09-24,Solgatan 12,Hagalund,Blå Solna,4,95,null,Lägenhet,2011,[Rudviken],4695000,205000,4900000,5428,Notar,646.6226870999577,Solna centrum
+2015-09-22,Hagalundsgatan 34,Hagalund,Blå Solna,3,67.5,4,Lägenhet,1971,[Hagalund],3000000,0,3000000,2715,Fastighetsbyrån,876.3369573072899,Solna centrum
+2015-09-18,Carl Thunbergs väg 1,Hagalund,Blå Solna,3,66,1.5,Lägenhet,1949,[Haga],2745000,255000,3000000,3995,Svensk Fastighetsförmedling,1184.4548541854592,Solna centrum
+2015-09-17,Hagalundsgatan 8,Hagalund,Blå Solna,3,79,4,Lägenhet,1973,[Hagalund],2695000,175000,2870000,3903,Notar,741.5406877198205,Solna centrum
+2015-09-16,Carl Thunbergs väg 9,Hagalund,Blå Solna,2.5,62,2,Lägenhet,1948,[Haga],2595000,425000,3020000,3760,Mäklarhuset,1226.0205691197143,Solna centrum
+2015-09-14,Hagalundsgatan 18,Hagalund,Blå Solna,2,59,3,Lägenhet,1973,[Hagalund],2250000,200000,2450000,2916,Notar,758.7970455584275,Solna centrum
+2015-09-14,Solgatan 14,Hagalund,Blå Solna,3,69,1,Lägenhet,2011,[Rudviken],3295000,685000,3980000,3943,Notar,655.7008167243639,Solna centrum
+2015-09-11,Blomgatan 18,Hagalund,Blå Solna,3,71,5,Lägenhet,1985,[Rudviken],3495000,235000,3730000,2876,Länsförsäkringar Fastighetsförmedling,530.0470081364502,Solna centrum
+2015-09-10,Råsundavägen 7,Hagalund,Blå Solna,2,60,1,Lägenhet,1932,[Haga],2595000,-45000,2550000,2991,Svensk Fastighetsförmedling,1383.1023643588762,Solna centrum
+2015-09-09,Blomgatan 18,Hagalund,Blå Solna,3,73,1,Lägenhet,1985,[Hagalundsparken],3095000,365000,3460000,3036,SkandiaMäklarna,530.0470081364502,Solna centrum
+2015-09-08,Hagalundsgatan 40,Hagalund,Blå Solna,2,56.9,4,Lägenhet,1972,[Hagalund],1995000,995000,2990000,2350,MOHV,958.7215053883601,Solna centrum
+2015-09-08,Kyrkbacken 29,Hagalund,Blå Solna,4,80.5,0,Lägenhet,1973,[Hagalund],2495000,175000,2670000,4596,Hemverket,597.5232231885358,Solna centrum
+2015-09-07,Kyrkbacken 12,Hagalund,Blå Solna,3,80.5,1,Lägenhet,1973,[Hagalund],2395000,335000,2730000,4596,Notar,569.3667120928267,Solna centrum
+2015-09-06,Hagalundsgatan 14,Hagalund,Blå Solna,4,85,12,Lägenhet,1973,[Hagalund],2695000,635000,3330000,3818,Innerstadsspecialisten AB,738.4262265593696,Solna centrum
+2015-09-03,Västra vägen 3A,Hagalund,Blå Solna,2,62,2,Lägenhet,1969,[Solna Centrum],2195000,525000,2720000,2502,Bjurfors,399.04247178690986,Solna centrum
+2015-09-03,Hagavägen 16,Hagalund,Blå Solna,2,53,3,Lägenhet,1946,[Haga],2395000,705000,3100000,3423,Svensk Fastighetsförmedling,1243.605281724428,Solna centrum
+2015-08-31,Hagavägen 18,Hagalund,Blå Solna,2,51,1,Lägenhet,1946,[Haga Norra],2395000,55000,2450000,2870,Fastighetsbyrån,1214.7560357581062,Solna centrum
+2015-08-28,Hagalundsgatan 22,Hagalund,Blå Solna,3,79,2,Lägenhet,1973,[Hagalund],2700000,-90000,2610000,3903,Bjurfors,738.4262265593696,Solna centrum
+2015-08-14,Kyrkbacken 21,Hagalund,Blå Solna,3,80.5,1,Lägenhet,1973,[Hagalund],2495000,235000,2730000,4596,Mäklarhuset,644.0266392899593,Solna centrum
+2015-08-13,Hagalundsgatan 10,Hagalund,Blå Solna,2,59,3,Lägenhet,null,[Hagalund],2095000,565000,2660000,2915,Svenska Mäklarhuset,736.8893855944458,Solna centrum
+2015-08-11,Solgatan 26,Hagalund,Blå Solna,2,58,3,Lägenhet,2011,[Hagalundsparken],3195000,135000,3330000,3332,Svensk Fastighetsförmedling,573.8841511987182,Solna centrum
+2015-08-05,Solgatan 36,Hagalund,Blå Solna,2,58,3,Lägenhet,2011,[Hagalundsparken],3195000,155000,3350000,3332,Svensk Fastighetsförmedling,518.30352624172,Solna centrum
+2015-08-05,Råsundavägen 22,Hagalund,Blå Solna,2,58,4,Lägenhet,1999,[Haga Norra],2450000,635000,3085000,3683,Notar,1217.7130133272901,Solna centrum
+2015-07-31,Kyrkbacken 21,Hagalund,Blå Solna,2,48,4,Lägenhet,1973,[Hagalund],2200000,0,2200000,2889,Notar,644.0266392899593,Solna centrum
+2015-07-24,Hagalundsgatan 14,Hagalund,Blå Solna,4,89,13,Lägenhet,1973,[Hagalund],2595000,335000,2930000,4397,Notar,738.4262265593696,Solna centrum
+2015-07-24,Hagalundsgatan 22,Hagalund,Blå Solna,3,79,12,Lägenhet,1973,[Hagalund],2395000,305000,2700000,3915,Notar,738.4262265593696,Solna centrum
+2015-07-22,Kyrkbacken 14,Hagalund,Blå Solna,1,18,2,Lägenhet,1973,[Hagalund],1295000,305000,1600000,1339,Mäklarhuset,675.917695833955,Solna centrum
+2015-07-20,Hagalundsgatan 10,Hagalund,Blå Solna,1.5,50,6,Lägenhet,1973,[Hagalund],1995000,235000,2230000,2246,Notar,736.8893855944458,Solna centrum
+2015-07-20,Kyrkbacken 7,Hagalund,Blå Solna,2,62.5,1,Lägenhet,1973,[Hagalund],1995000,305000,2300000,3650,Notar,632.6864931221098,Solna centrum
+2015-07-20,Hagalundsgatan 12,Hagalund,Blå Solna,3,79,4,Lägenhet,1973,[Hagalund],2495000,355000,2850000,3903,Notar,700.607716023162,Solna centrum
+2015-07-20,Hagalundsgatan 22,Hagalund,Blå Solna,2,50,null,Lägenhet,1973,[Hagalund],1995000,235000,2230000,2470,Notar,738.4262265593696,Solna centrum
+2015-07-17,Hagalundsgatan 34,Hagalund,Blå Solna,3,79,12,Lägenhet,1973,[Hagalund],2675000,825000,3500000,3089,ERA,876.3369573072899,Solna centrum
+2015-07-10,Kyrkbacken 16,Hagalund,Blå Solna,3,80.5,2,Lägenhet,1973,[Hagalund],2150000,350000,2500000,4596,Notar,549.0640295324647,Solna centrum
+2015-07-09,Blomgatan 16,Hagalund,Blå Solna,3,74,3,Lägenhet,1985,[Rudviken],2975000,500000,3475000,2963,SverigeMäklaren,518.7090907227222,Solna centrum
+2015-07-02,Hagalundsgatan 24,Hagalund,Blå Solna,2,59,2,Lägenhet,1973,[Hagalund],2095000,280000,2375000,2915,Notar,738.4262265593696,Solna centrum
+2015-07-02,Hagalundsgatan 24,Hagalund,Blå Solna,1,33,8,Lägenhet,1973,[Hagalund],1550000,470000,2020000,1630,Notar,738.4262265593696,Solna centrum
+2015-06-26,Hagalundsgatan 22,Hagalund,Blå Solna,4,89,null,Lägenhet,1972,[Hagalund],2495000,245000,2740000,4397,Bjurfors,738.4262265593696,Solna centrum
+2015-06-26,Kyrkbacken 14,Hagalund,Blå Solna,3,80.5,3,Lägenhet,1973,[Hagalund],2690000,140000,2830000,4596,Erik Olsson Fastighetsförmedling,675.917695833955,Solna centrum
+2015-06-26,Solgatan 8,Hagalund,Blå Solna,4,88,3,Lägenhet,2011,[Rudviken],3995000,80000,4075000,4513,Notar,641.4369034041981,Solna centrum
+2015-06-26,Hagalundsgatan 22,Hagalund,Blå Solna,4,89,4,Lägenhet,1972,[Hagalund],2495000,415000,2910000,4397,Notar,738.4262265593696,Solna centrum
+2015-06-18,Blomgatan 12,Hagalund,Blå Solna,2,36.5,6,Lägenhet,1985,[Rudviken],2595000,-20000,2575000,1732,Fastighetsbyrån,487.4766600450446,Solna centrum
+2015-06-15,Regnstigen 12,Hagalund,Blå Solna,2,43,2,Lägenhet,null,[Hagalundsparken],1900000,0,1900000,1980,Fastighetsbyrån,580.7921552716365,Solna centrum
+2015-06-12,Blomgatan 8,Hagalund,Blå Solna,3,74,2,Lägenhet,1985,[Rudviken],3295000,205000,3500000,3089,Notar,467.63548176563074,Solna centrum
+2015-06-12,Kyrkbacken 31,Hagalund,Blå Solna,4,80.5,3,Lägenhet,1973,[Hagalund],2495000,0,2495000,4596,Notar,596.2991217607297,Solna centrum
+2015-06-10,Slottsvägen 5,Hagalund,Blå Solna,2,65,null,Lägenhet,1948,[Haga Norra],1995000,305000,2300000,3515,Fastighetsbyrån,1172.9002409941618,Solna centrum
+2015-06-05,Slottsvägen 9,Hagalund,Blå Solna,3,70,1,Lägenhet,1949,[Haga Norra],2895000,-95000,2800000,4107,Erik Olsson Fastighetsförmedling,1171.2215626755858,Solna centrum
+2015-06-01,Regnstigen,Hagalund,Blå Solna,2,59,4,Lägenhet,1985,[Rudviken],2395000,385000,2780000,2515,Länsförsäkringar Fastighetsförmedling,591.7512691985665,Solna centrum
+2015-05-29,Kyrkbacken 33,Hagalund,Blå Solna,3,80.5,2,Lägenhet,1973,[Hagalund],2175000,465000,2640000,4596,SthlmFast,613.3787309240138,Solna centrum
+2015-05-29,Hagalundsgatan 30,Hagalund,Blå Solna,2,57,1,Lägenhet,1972,[Hagalund],1995000,465000,2460000,2283,Svensk Fastighetsförmedling,906.0619995858758,Solna centrum
+2015-05-27,Kyrkbacken 31,Hagalund,Blå Solna,1,18.5,3,Lägenhet,1973,[Hagalund],1195000,375000,1570000,1340,Notar,596.2991217607297,Solna centrum
+2015-05-21,Hagalundsgatan 8,Hagalund,Blå Solna,2,59,5,Lägenhet,1972,[Hagalund],1995000,485000,2480000,2915,Notar,741.5406877198205,Solna centrum
+2015-05-21,Hagalundsgatan 40,Hagalund,Blå Solna,4,96.2,6,Lägenhet,null,[Hagalund],2995000,655000,3650000,3819,Svenska Mäklarhuset,958.7215053883601,Solna centrum
+2015-05-21,Hagalundsgatan 24,Hagalund,Blå Solna,1,33,3,Lägenhet,null,[Hagalund],1395000,580000,1975000,1630,Estate Fastighetsbyrå AB,738.4262265593696,Solna centrum
+2015-05-20,Råsundavägen 22,Hagalund,Blå Solna,2,58,6,Lägenhet,2000,[Haga Norra],2595000,130000,2725000,3683,Fastighetsbyrån,1217.7130133272901,Solna centrum
+2015-05-14,Andersvägen 3A,Hagalund,Blå Solna,4,96.8,1,Lägenhet,1993,[Haga Norra],3950000,0,3950000,4636,Erik Olsson Fastighetsförmedling,1372.5773891343981,Solna centrum
+2015-05-14,Slottsvägen 9,Hagalund,Blå Solna,2,51,2,Lägenhet,1948,[Haga Norra],2275000,350000,2625000,3114,Edward & Partners Fastighetsmäklare AB,1171.2215626755858,Solna centrum
+2015-05-14,Hagalundsgatan 46,Hagalund,Blå Solna,2,56.9,11,Lägenhet,1972,[Hagalund],1995000,575000,2570000,2359,SverigeMäklaren,930.2957310718215,Solna centrum
+2015-05-13,Blomgatan 20,Hagalund,Blå Solna,3,71,4,Lägenhet,1985,[Rudviken],3250000,380000,3630000,2869,Notar,550.9675268670012,Solna centrum
+2015-05-11,Carl Thunbergs väg 1,Hagalund,Blå Solna,3,66,1,Lägenhet,null,[Haga Norra],2750000,0,2750000,3995,Svenska Mäklarhuset,1184.4548541854592,Solna centrum
+2015-04-30,Blomgatan 20,Hagalund,Blå Solna,3,74,2,Lägenhet,1985,[Hagalundsparken],3295000,-95000,3200000,2949,Gripsholms Fastighetsförmedling,550.9675268670012,Solna centrum
+2015-04-29,Blomgatan 4,Hagalund,Blå Solna,3,64,4,Lägenhet,1985,[Hagalundsparken],3295000,275000,3570000,2673,HusmanHagberg,446.8329685521732,Solna centrum
+2015-04-28,Slottsvägen 6,Hagalund,Blå Solna,2,58,2,Lägenhet,1999,[Haga Norra],2295000,535000,2830000,3683,Notar,1163.789607505099,Solna centrum
+2015-04-25,Carl Thunbergs väg 5,Hagalund,Blå Solna,3,71,null,Lägenhet,1949,[Haga],2795000,55000,2850000,null,Svensk Fastighetsförmedling,1219.9903776137674,Solna centrum
+2015-04-24,Hagalundsgatan 10,Hagalund,Blå Solna,2,59,7,Lägenhet,1973,[Hagalund],1695000,625000,2320000,null,One Fastighetsmäkleri,736.8893855944458,Solna centrum
+2015-04-21,Viktoriagatan 5,Hagalund,Blå Solna,3,70.5,1,Lägenhet,1950,[Haga Norra],2875000,550000,3425000,2950,Erik Olsson Fastighetsförmedling,1034.9720491383819,Solna centrum
+2015-04-21,Hagalundsgatan 44,Hagalund,Blå Solna,4,99.5,12,Lägenhet,1973,[Hagalund],2995000,105000,3100000,3824,Notar,954.6924211534431,Solna centrum
+2015-04-17,Slottsvägen 5,Hagalund,Blå Solna,2.5,62,3,Lägenhet,1949,[Haga],2495000,380000,2875000,3760,Svensk Fastighetsförmedling,1172.9002409941618,Solna centrum
+2015-04-17,Solgatan 8,Hagalund,Blå Solna,3,73,3,Lägenhet,2012,[Rudviken],3195000,760000,3955000,3744,Notar,641.4369034041981,Solna centrum
+2015-04-16,Regnstigen 18,Hagalund,Blå Solna,3,82,6,Lägenhet,1985,[Rudviken],3195000,155000,3350000,3253,Notar,632.7774358541362,Solna centrum
+2015-04-16,Kyrkbacken 9,Hagalund,Blå Solna,2,64,1,Lägenhet,1973,[Hagalund],2095000,420000,2515000,3729,BOSTHLM,621.3654574550065,Solna centrum
+2015-04-15,Regnstigen 6,Hagalund,Blå Solna,2,36.5,4,Lägenhet,1985,[Solna Centrum],2195000,315000,2510000,1765,Erik Olsson Fastighetsförmedling,600.3275917785397,Solna centrum
+2015-04-15,Regnstigen 5,Hagalund,Blå Solna,2,46,2,Lägenhet,1930,[Hagalundsparken],2295000,320000,2615000,2510,Svensk Fastighetsförmedling,517.9530854025699,Solna centrum
+2015-04-07,Hagalundsgatan 14,Hagalund,Blå Solna,2,50,null,Lägenhet,1972,[Hagalund],2095000,115000,2210000,2470,Notar,738.4262265593696,Solna centrum
+2015-04-03,Råsundavägen 29,Hagalund,Blå Solna,4,127.7,3,Lägenhet,1909,[Haga],5750000,120000,5870000,4961,Svenska Mäklarhuset,1024.7100382661065,Solna centrum
+2015-04-02,Andersvägen 3A,Hagalund,Blå Solna,2,52.7,4,Lägenhet,1993,[Haga Norra],2395000,625000,3020000,3077,Fastighetsbyrån,1372.5773891343981,Solna centrum
+2015-04-02,Råsundavägen 26,Hagalund,Blå Solna,3,86,2,Lägenhet,null,[Haga Norra],3800000,-220000,3580000,5399,BOSTHLM,1154.1430130170354,Solna centrum
+2015-03-25,Råsundavägen 26,Hagalund,Blå Solna,2,65.5,null,Lägenhet,2000,[Haga Norra],2495000,255000,2750000,4069,Fastighetsbyrån,1154.1430130170354,Solna centrum
+2015-03-23,Hagalundsgatan 22,Hagalund,Blå Solna,3,67,5,Lägenhet,1972,[Hagalund],2095000,175000,2270000,3310,Notar,738.4262265593696,Solna centrum
+2015-03-23,Regnstigen 14,Hagalund,Blå Solna,3,71,4,Lägenhet,1985,[Rudviken],2995000,525000,3520000,2933,Notar,620.3587645044233,Solna centrum
+2015-03-19,Västra vägen 1D,Hagalund,Blå Solna,3,82,5,Lägenhet,1969,[Rudviken],2995000,255000,3250000,3230,Svensk Fastighetsförmedling,401.629639767772,Solna centrum
+2015-03-19,Regnstigen 5,Hagalund,Blå Solna,2,45,1,Lägenhet,1930,[Hagalundsparken],2395000,505000,2900000,2456,Svenska Mäklarhuset,517.9530854025699,Solna centrum
+2015-03-19,Hagalundsgatan 12,Hagalund,Blå Solna,4,89,7,Lägenhet,null,[Hagalund],2495000,55000,2550000,4397,Fastighetsbyrån,700.607716023162,Solna centrum
+2015-03-18,Hagalundsgatan 10,Hagalund,Blå Solna,4,89,12,Lägenhet,1973,[Hagalund],2495000,105000,2600000,null,One Fastighetsmäkleri,736.8893855944458,Solna centrum
+2015-03-17,Blomgatan 8,Hagalund,Blå Solna,3,59,4,Lägenhet,1985,[Hagalundsparken],2995000,570000,3565000,2463,HusmanHagberg,467.63548176563074,Solna centrum
+2015-03-11,Andersvägen 5,Hagalund,Blå Solna,4,108.9,null,Lägenhet,1993,[Haga Norra],3850000,370000,4220000,5159,Erik Olsson Fastighetsförmedling,1364.275678289148,Solna centrum
+2015-03-04,Solgatan 22,Hagalund,Blå Solna,3,70,3,Lägenhet,2012,[Rudviken],2995000,765000,3760000,4022,Notar,673.8729101591501,Solna centrum
+2015-03-03,Råsundavägen 7,Hagalund,Blå Solna,2,60,3,Lägenhet,1932,[Haga],2595000,0,2595000,2991,Svensk Fastighetsförmedling,1383.1023643588762,Solna centrum
+2015-02-27,Fyrgränd 4,Hagalund,Blå Solna,4,105,5,Lägenhet,1950,[Frösunda],4150000,210000,4360000,3510,Svensk Fastighetsförmedling,915.708223183637,Solna centrum
+2015-02-27,Västra vägen 3A,Hagalund,Blå Solna,2,62,1,Lägenhet,1969,[Rudviken],2495000,245000,2740000,2502,Fastighetsbyrån,399.04247178690986,Solna centrum
+2015-02-14,Kyrkbacken 33,Hagalund,Blå Solna,1,19,3,Lägenhet,1973,[Hagalund],1095000,250000,1345000,1218,Svensk Fastighetsförmedling,613.3787309240138,Solna centrum
+2015-02-10,Kyrkbacken 22,Hagalund,Blå Solna,3,80.5,1,Lägenhet,1973,[Haga Norra],2795000,105000,2900000,4178,Fastighetsbyrån,515.1090555545873,Solna centrum
+2015-02-10,Hagalundsgatan 22,Hagalund,Blå Solna,3,67,6,Lägenhet,1973,[Hagalund],1995000,205000,2200000,3310,Notar,738.4262265593696,Solna centrum
+2015-02-07,Solgatan 34,Hagalund,Blå Solna,4,79,1,Lägenhet,2012,[Hagalundsparken],3495000,-445000,3050000,4539,Svensk Fastighetsförmedling,673.8729101591501,Solna centrum
+2015-02-05,Hagalundsgatan 22,Hagalund,Blå Solna,3,79,1,Lägenhet,1972,[Hagalund],2395000,75000,2470000,3903,Svenska Mäklarhuset,738.4262265593696,Solna centrum
+2015-02-04,Regnstigen 18,Hagalund,Blå Solna,3,84.5,5,Lägenhet,1985,[Hagalundsparken],3095000,55000,3150000,3344,Mäklarhuset,632.7774358541362,Solna centrum
+2015-02-02,Råsundavägen 7,Hagalund,Blå Solna,1,40,3,Lägenhet,1932,[Haga Norra],1695000,330000,2025000,1994,Notar,1383.1023643588762,Solna centrum
+2015-01-31,Solgatan 14,Hagalund,Blå Solna,3,69,4,Lägenhet,2011,[Rudviken],2950000,750000,3700000,3539,Notar,655.7008167243639,Solna centrum
+2015-01-31,Västra vägen 3A,Hagalund,Blå Solna,4,106,3,Lägenhet,1969,[Solna Centrum],3695000,415000,4110000,4144,Notar,399.04247178690986,Solna centrum
+2015-01-30,Solgatan 14,Hagalund,Blå Solna,2,63,4,Lägenhet,2011,[Solna Centrum],2595000,265000,2860000,3231,Svenska Mäklarhuset,655.7008167243639,Solna centrum
+2015-01-30,Nordstjärnegatan 2,Hagalund,Blå Solna,2,65,1,Lägenhet,1909,[Haga],2695000,655000,3350000,2764,Svensk Fastighetsförmedling,992.7634451215932,Solna centrum
+2015-01-19,Fyrgränd 4,Hagalund,Blå Solna,3,67,3,Lägenhet,1950,[Frösunda],2695000,165000,2860000,2268,Svensk Fastighetsförmedling,915.708223183637,Solna centrum
+2015-01-17,Västra vägen 23,Hagalund,Blå Solna,4,91,1,Lägenhet,1986,[Hagalundsparken],3695000,0,3695000,3799,Erik Olsson Fastighetsförmedling,549.0864385838056,Solna centrum
+2015-01-15,Råsundavägen 7,Hagalund,Blå Solna,2,63,4,Lägenhet,1932,[Haga Norra],2150000,150000,2300000,3141,HusmanHagberg,1383.1023643588762,Solna centrum
+2015-01-15,Råsundavägen 7,Hagalund,Blå Solna,2,63,1,Lägenhet,1932,[Haga],2395000,15000,2410000,3141,Svensk Fastighetsförmedling,1383.1023643588762,Solna centrum
+2015-01-14,Solgatan 28,Hagalund,Blå Solna,4,92,5,Lägenhet,null,[Hagalundsparken],3650000,670000,4320000,5257,Svensk Fastighetsförmedling,623.7698488559857,Solna centrum
+2015-01-14,Solgatan 28,Hagalund,Blå Solna,2,58,1,Lägenhet,2012,[Hagalundsparken],2495000,345000,2840000,3332,Svensk Fastighetsförmedling,623.7698488559857,Solna centrum
+2015-01-14,Solgatan 22,Hagalund,Blå Solna,3,70,4,Lägenhet,2012,[Solna Centrum],3295000,105000,3400000,3725,Erik Olsson Fastighetsförmedling,673.8729101591501,Solna centrum
+2015-01-13,Andersvägen 5,Hagalund,Blå Solna,3,86.7,null,Lägenhet,1993,[Haga Norra],2795000,215000,3010000,4022,Fastighetsbyrån,1364.275678289148,Solna centrum
+2015-01-13,Kyrkbacken 7,Hagalund,Blå Solna,2,64,3,Lägenhet,1973,[Hagalund],1895000,535000,2430000,3390,Notar,632.6864931221098,Solna centrum
+2015-01-13,Kyrkbacken 9,Hagalund,Blå Solna,2,64,1,Lägenhet,1973,[Hagalund],1895000,465000,2360000,3390,Notar,621.3654574550065,Solna centrum
+2015-01-08,Blomgatan 18,Hagalund,Blå Solna,2,43,2,Lägenhet,1985,[Rudviken],2195000,255000,2450000,2136,Notar,530.0470081364502,Solna centrum
+2015-01-08,Hagalundsgatan 12,Hagalund,Blå Solna,3,67,10,Lägenhet,1973,[Hagalund],1995000,405000,2400000,3009,Erik Olsson Fastighetsförmedling,700.607716023162,Solna centrum
+2014-12-10,Kyrkbacken 22,Hagalund,Blå Solna,3,80.5,3,Lägenhet,1973,[Hagalund],2395000,305000,2700000,4178,Svensk Fastighetsförmedling,515.1090555545873,Solna centrum
+2014-11-28,Hagalundsgatan 30,Hagalund,Blå Solna,2,56.9,11,Lägenhet,null,[Hagalund],1995000,255000,2250000,2359,Fastighetsbyrån,906.0619995858758,Solna centrum
+2014-11-25,Blomgatan 16,Hagalund,Blå Solna,3,71,null,Lägenhet,1985,[Rudviken],3195000,105000,3300000,2676,Fastighetsbyrån,518.7090907227222,Solna centrum
+2014-11-18,Hagalundsgatan 40,Hagalund,Blå Solna,3,69,null,Lägenhet,1973,[Hagalund],2395000,0,2395000,2599,Notar,958.7215053883601,Solna centrum
+2014-11-18,Kyrkbacken 4,Hagalund,Blå Solna,3,80.5,null,Lägenhet,1973,[Haga],1995000,425000,2420000,4178,Notar,558.2897452349944,Solna centrum
+2014-11-14,Råsundavägen 28,Hagalund,Blå Solna,3,84,5,Lägenhet,1999,[Frösunda],2995000,-45000,2950000,5291,One Fastighetsmäkleri,1214.6435933509438,Solna centrum
+2014-11-13,Carl Thunbergs väg 1,Hagalund,Blå Solna,2,50,0.5,Lägenhet,1948,[Haga Norra],1995000,15000,2010000,2812,Svenska Mäklarhuset,1184.4548541854592,Solna centrum
+2014-11-12,Regnstigen 18,Hagalund,Blå Solna,2,43,3,Lägenhet,1985,[Rudviken],2095000,105000,2200000,1985,Notar,632.7774358541362,Solna centrum
+2014-11-12,Hagalundsgatan 40,Hagalund,Blå Solna,4,96.2,8,Lägenhet,1971,[Hagalund],2895000,0,2895000,3823,Svenska Mäklarhuset,958.7215053883601,Solna centrum
+2014-11-12,Västra vägen 3A,Hagalund,Blå Solna,2,62,4,Lägenhet,1969,[Solna Centrum],1995000,345000,2340000,2613,One Fastighetsmäkleri,399.04247178690986,Solna centrum
+2014-11-12,Solgatan 16,Hagalund,Blå Solna,2,58,3,Lägenhet,2011,[Rudviken],2495000,365000,2860000,3315,Svensk Fastighetsförmedling,640.1709386218299,Solna centrum
+2014-11-05,Hagalundsgatan 12,Hagalund,Blå Solna,2,59,5,Lägenhet,null,[Hagalund],1845000,105000,1950000,2915,Svensk Fastighetsförmedling,700.607716023162,Solna centrum
+2014-10-28,Slottsvägen 10,Hagalund,Blå Solna,5,110.5,1,Lägenhet,1999,[Haga Norra],3975000,0,3975000,6682,Länsförsäkringar Fastighetsförmedling,1168.834600175506,Solna centrum
+2014-10-23,Hagavägen 14,Hagalund,Blå Solna,2,53,null,Lägenhet,null,[Haga Norra],1995000,405000,2400000,3423,Södermäklarna,1263.9505343327294,Solna centrum
+2014-10-22,Regnstigen 4,Hagalund,Blå Solna,3,71,3,Lägenhet,1985,[Solna Centrum],2995000,615000,3610000,2933,Erik Olsson Fastighetsförmedling,600.3275917785397,Solna centrum
+2014-10-22,Råsundavägen 28,Hagalund,Blå Solna,3,84,3,Lägenhet,1999,[Solna],2895000,305000,3200000,5291,Länsförsäkringar Fastighetsförmedling,1214.6435933509438,Solna centrum
+2014-10-22,Blomgatan,Hagalund,Blå Solna,3,73,2,Lägenhet,1985,[Rudviken],3195000,125000,3320000,3048,Svensk Fastighetsförmedling,469.00087687190944,Solna centrum
+2014-10-20,Solgatan 16,Hagalund,Blå Solna,5,116.5,5,Lägenhet,null,[Rudviken],4495000,0,4495000,5975,Svensk Fastighetsförmedling,640.1709386218299,Solna centrum
+2014-10-09,Kyrkbacken 35,Hagalund,Blå Solna,3,80.5,1,Lägenhet,1973,[Hagalund],2250000,380000,2630000,4178,Notar,609.968292827633,Solna centrum
+2014-10-09,Blomgatan 22,Hagalund,Blå Solna,4,94,2,Lägenhet,1985,[Rudviken],3895000,560000,4455000,3632,Fastighetsbyrån,530.3509623195424,Solna centrum
+2014-10-03,Blomgatan 16,Hagalund,Blå Solna,2,59,null,Lägenhet,1985,[Rudviken],2495000,485000,2980000,2466,Fastighetsbyrån,518.7090907227222,Solna centrum
+2014-10-02,Blomgatan 22,Hagalund,Blå Solna,2,43,1,Lägenhet,1985,[Rudviken],2095000,105000,2200000,2125,Notar,530.3509623195424,Solna centrum
+2014-10-02,Carl Thunbergs väg 1,Hagalund,Blå Solna,3,81,2,Lägenhet,null,[Haga],2795000,205000,3000000,4996,Svensk Fastighetsförmedling,1184.4548541854592,Solna centrum
+2014-09-20,Regnstigen 10,Hagalund,Blå Solna,2,50,1,Lägenhet,1985,[Rudviken],2095000,105000,2200000,2187,Fastighetsbyrån,590.912818587097,Solna centrum
+2014-09-19,Hagavägen 16,Hagalund,Blå Solna,2,53,1,Lägenhet,1946,[Haga Norra],1995000,255000,2250000,3423,Fastighetsbyrån,1243.605281724428,Solna centrum
+2014-09-12,Hagalundsgatan 30,Hagalund,Blå Solna,2,56.9,7,Lägenhet,1972,[Hagalund],2300000,0,2300000,2355,Länsförsäkringar Fastighetsförmedling,906.0619995858758,Solna centrum
+2014-09-12,Blomgatan 8,Hagalund,Blå Solna,3,55,4,Lägenhet,1985,[Rudviken],2695000,305000,3000000,2297,HusmanHagberg,467.63548176563074,Solna centrum
+2014-09-12,Hagalundsgatan 44,Hagalund,Blå Solna,2,56.9,9,Lägenhet,1973,[Hagalund],1750000,350000,2100000,2355,Notar,954.6924211534431,Solna centrum
+2014-09-12,Hagalundsgatan 10,Hagalund,Blå Solna,4,89,5,Lägenhet,1973,[Hagalund],2550000,0,2550000,4397,Notar,736.8893855944458,Solna centrum
+2014-09-11,Slottsvägen 5,Hagalund,Blå Solna,3,62,2,Lägenhet,1949,[Haga Norra],2395000,80000,2475000,3760,Notar,1172.9002409941618,Solna centrum
+2014-09-10,Slottsvägen 2,Hagalund,Blå Solna,2,58,6,Lägenhet,1999,[Haga Norra],2245000,50000,2295000,3683,Länsförsäkringar Fastighetsförmedling,1195.6933459830227,Solna centrum
+2014-09-04,Solgatan 14,Hagalund,Blå Solna,4.5,116.5,1,Lägenhet,2011,[Rudviken],4495000,155000,4650000,5975,Notar,655.7008167243639,Solna centrum
+2014-09-02,Slottsvägen 9,Hagalund,Blå Solna,4,70,null,Lägenhet,1948,[Haga Norra],2595000,0,2595000,4229,Fastighetsbyrån,1171.2215626755858,Solna centrum
+2014-08-22,Slottsvägen 9,Hagalund,Blå Solna,2,51,null,Lägenhet,1948,[Haga Norra],1995000,255000,2250000,2870,Fastighetsbyrån,1171.2215626755858,Solna centrum
+2014-08-20,Regnstigen 14,Hagalund,Blå Solna,3,71,4,Lägenhet,null,[Rudviken],2595000,105000,2700000,2933,Svensk Fastighetsförmedling,620.3587645044233,Solna centrum
+2014-08-15,Solgatan 9,Hagalund,Blå Solna,2,59.5,4,Lägenhet,null,[Rudviken],2445000,245000,2690000,2540,Svensk Fastighetsförmedling,656.6119668031662,Solna centrum
+2014-08-14,Slottsvägen 9,Hagalund,Blå Solna,2,51,null,Lägenhet,1948,[Haga Norra],1795000,427222,2222222,3114,Fastighetsbyrån,1171.2215626755858,Solna centrum
+2014-08-14,Hagavägen 10,Hagalund,Blå Solna,3,91,0.5,Lägenhet,1912,[Haga],3750000,450000,4200000,3193,Mäklarhuset,1334.3531032343512,Solna centrum
+2014-08-14,Råsundavägen 24,Hagalund,Blå Solna,3,86,null,Lägenhet,2000,[Haga Norra],2895000,0,2895000,5399,Fastighetsbyrån,1168.9412804233586,Solna centrum
+2014-08-13,Kyrkbacken 4,Hagalund,Blå Solna,3,80.5,1,Lägenhet,1973,[Hagalund],2295000,205000,2500000,4178,Notar,558.2897452349944,Solna centrum
+2014-08-11,Kyrkbacken 24,Hagalund,Blå Solna,4,99,2,Lägenhet,1973,[Hagalund],3095000,-95000,3000000,5396,Notar,534.2904968369467,Solna centrum
+2014-08-08,Hagalundsgatan 20,Hagalund,Blå Solna,2,50,null,Lägenhet,1973,[Hagalund],1700000,100000,1800000,2470,Fastighetsbyrån,723.8521795697774,Solna centrum
+2014-08-07,Kyrkbacken 9,Hagalund,Blå Solna,3,64,1,Lägenhet,1973,[Hagalund],2195000,135000,2330000,3391,Notar,621.3654574550065,Solna centrum
+2014-08-03,Fyrgränd 4,Hagalund,Blå Solna,2,52,3,Lägenhet,1950,[Haga Norra],2295000,155000,2450000,1759,Fastighetsbyrån,915.708223183637,Solna centrum
+2014-07-25,Hagalundsgatan 20,Hagalund,Blå Solna,2,59,12,Lägenhet,null,[Hagalund],1795000,225000,2020000,2915,Notar,723.8521795697774,Solna centrum
+2014-07-24,Kyrkbacken 7,Hagalund,Blå Solna,2,64,null,Lägenhet,1973,[Hagalund],1795000,25000,1820000,3390,Länsförsäkringar Fastighetsförmedling,632.6864931221098,Solna centrum
+2014-07-23,Hagavägen 18,Hagalund,Blå Solna,2,51,1,Lägenhet,1946,[Haga Norra],2000000,200000,2200000,2870,Fastighetsbyrån,1214.7560357581062,Solna centrum
+2014-07-18,Kyrkbacken 8,Hagalund,Blå Solna,4,99,3,Lägenhet,1973,[Hagalund],2795000,415000,3210000,5396,Notar,577.8925236069531,Solna centrum
+2014-07-16,Hagalundsgatan 18,Hagalund,Blå Solna,2,59,8,Lägenhet,1973,[Hagalund],1850000,170000,2020000,2915,Notar,758.7970455584275,Solna centrum
+2014-07-11,Kyrkbacken 22,Hagalund,Blå Solna,4,99,1,Lägenhet,1973,[Hagalund],2495000,605000,3100000,5395,Notar,515.1090555545873,Solna centrum
+2014-07-10,Hagalundsgatan 10,Hagalund,Blå Solna,3,67,9,Lägenhet,1973,[Hagalund],2075000,225000,2300000,3310,Notar,736.8893855944458,Solna centrum
+2014-07-09,Blomgatan 12,Hagalund,Blå Solna,2,43,2,Lägenhet,1985,[Rudviken],1950000,250000,2200000,1936,Notar,487.4766600450446,Solna centrum
+2014-06-19,Västra vägen 23,Hagalund,Blå Solna,3,71.5,3,Lägenhet,1986,[Rudviken],2695000,105000,2800000,2985,Notar,549.0864385838056,Solna centrum
+2014-06-19,Hagalundsgatan 34,Hagalund,Blå Solna,4,99.5,10,Lägenhet,1973,[Hagalund],2795000,-45000,2750000,3820,Notar,876.3369573072899,Solna centrum
+2014-06-18,Hagalundsgatan 22,Hagalund,Blå Solna,3,67,4,Lägenhet,null,[Hagalund],1995000,105000,2100000,3310,Svensk Fastighetsförmedling,738.4262265593696,Solna centrum
+2014-06-16,Andersvägen 3A,Hagalund,Blå Solna,2,53,4,Lägenhet,null,[Haga],1995000,0,1995000,3077,Svensk Fastighetsförmedling,1372.5773891343981,Solna centrum
+2014-06-13,Regnstigen 12,Hagalund,Blå Solna,3,71,6,Lägenhet,1985,[Rudviken],2795000,155000,2950000,2940,Svenska Mäklarhuset,580.7921552716365,Solna centrum
+2014-06-13,Blomgatan 8,Hagalund,Blå Solna,2,36,4,Lägenhet,1985,[Rudviken],1995000,205000,2200000,1503,HusmanHagberg,467.63548176563074,Solna centrum
+2014-06-12,Solgatan 16,Hagalund,Blå Solna,3,70,7,Lägenhet,2011,[Rudviken],2995000,155000,3150000,3973,Svenska Mäklarhuset,640.1709386218299,Solna centrum
+2014-06-12,Slottsvägen 9,Hagalund,Blå Solna,2,51,3,Lägenhet,null,[Haga],2145000,85000,2230000,3114,Svensk Fastighetsförmedling,1171.2215626755858,Solna centrum
+2014-06-12,Råsundavägen 24,Hagalund,Blå Solna,2,58,3,Lägenhet,1999,[Frösunda],2195000,125000,2320000,3683,One Fastighetsmäkleri,1168.9412804233586,Solna centrum
+2014-06-05,Kyrkbacken 33,Hagalund,Blå Solna,4,99,1,Lägenhet,1973,[Hagalund],2495000,475000,2970000,5396,Notar,613.3787309240138,Solna centrum
+2014-06-05,Hagalundsgatan 40,Hagalund,Blå Solna,3,67.5,null,Lägenhet,1973,[Hagalund],1995000,515000,2510000,2730,Notar,958.7215053883601,Solna centrum
+2014-06-05,Regnstigen 3,Hagalund,Blå Solna,1,46,2,Lägenhet,1930,[Rudviken],1895000,-25000,1870000,2282,Notar,520.1182593434927,Solna centrum
+2014-06-03,Blomgatan 20,Hagalund,Blå Solna,2,43,null,Lägenhet,1985,[Rudviken],1895000,125000,2020000,1936,SthlmFast,550.9675268670012,Solna centrum
+2014-06-02,Solgatan 26,Hagalund,Blå Solna,3,70,5,Lägenhet,null,[Rudviken],2975000,365000,3340000,4022,Svensk Fastighetsförmedling,573.8841511987182,Solna centrum
+2014-05-30,Slottsvägen 4,Hagalund,Blå Solna,4,96.5,3,Lägenhet,1999,[Frösunda],3495000,235000,3730000,5963,One Fastighetsmäkleri,1195.6933459830227,Solna centrum
+2014-05-30,Slottsvägen 5,Hagalund,Blå Solna,2,62,null,Lägenhet,1948,[Haga Norra],1895000,115000,2010000,3760,Fastighetsbyrån,1172.9002409941618,Solna centrum
+2014-05-29,Hagalundsgatan 20,Hagalund,Blå Solna,3,67,13,Lägenhet,1973,[Hagalund],1895000,115000,2010000,3311,Notar,723.8521795697774,Solna centrum
+2014-05-27,Kyrkbacken 23,Hagalund,Blå Solna,1,18.5,1,Lägenhet,1972,[Hagalund],1095000,125000,1220000,1176,Bjurfors,624.6140559252983,Solna centrum
+2014-05-23,Fyrgränd 4,Hagalund,Blå Solna,2,52,4,Lägenhet,1950,[Haga],2250000,110000,2360000,1759,Länsförsäkringar Fastighetsförmedling,915.708223183637,Solna centrum
+2014-05-14,Kyrkbacken 24,Hagalund,Blå Solna,3,80.5,2,Lägenhet,null,[Hagalund],1795000,460000,2255000,4178,Svensk Fastighetsförmedling,534.2904968369467,Solna centrum
+2014-05-10,Råsundavägen 24,Hagalund,Blå Solna,4,101,null,Lägenhet,null,[Haga Norra],3395000,190000,3585000,6231,Fastighetsbyrån,1168.9412804233586,Solna centrum
+2014-05-06,Regnstigen 18,Hagalund,Blå Solna,3,79.5,4,Lägenhet,1985,[Rudviken],3195000,65000,3260000,3186,Svenska Mäklarhuset,632.7774358541362,Solna centrum
+2014-05-05,Hagalundsgatan 30,Hagalund,Blå Solna,3,67.4,11,Lägenhet,1973,[Hagalund],1995000,-40000,1955000,2686,Mäklarringen,906.0619995858758,Solna centrum
+2014-05-04,Kyrkbacken 19,Hagalund,Blå Solna,1,18.5,2,Lägenhet,1973,[Hagalund],995000,0,995000,1218,Notar,645.0850802635756,Solna centrum
+2014-05-02,Hagalundsgatan 20,Hagalund,Blå Solna,1,30,null,Lägenhet,1973,[Hagalund],1295000,0,1295000,1482,Fastighetsbyrån,723.8521795697774,Solna centrum
+2014-05-02,Solgatan 12,Hagalund,Blå Solna,1,45,3,Lägenhet,null,[Rudviken],1950000,0,1950000,2555,Svensk Fastighetsförmedling,646.6226870999577,Solna centrum
+2014-05-01,Råsundavägen 22,Hagalund,Blå Solna,4,98.5,4,Lägenhet,1999,[Haga Norra],3295000,205000,3500000,6070,Notar,1217.7130133272901,Solna centrum
+2014-05-01,Hagalundsgatan 36,Hagalund,Blå Solna,2,56.9,5,Lägenhet,1973,[Hagalund],1750000,65000,1815000,2355,Notar,864.8104037589363,Solna centrum
+2014-04-30,Råsundavägen 28,Hagalund,Blå Solna,2,46,2,Lägenhet,1999,[Haga Norra],1950000,-15000,1935000,2954,Notar,1214.6435933509438,Solna centrum
+2014-04-29,Slottsvägen 9,Hagalund,Blå Solna,3,70,3,Lägenhet,1949,[Haga Norra],2495000,205000,2700000,4228,Länsförsäkringar Fastighetsförmedling,1171.2215626755858,Solna centrum
+2014-04-29,Hagalundsgatan 36,Hagalund,Blå Solna,3,67,2,Lägenhet,1973,[Hagalund],1995000,0,1995000,2707,Fastighetsbyrån,864.8104037589363,Solna centrum
+2014-04-28,Kyrkbacken 9,Hagalund,Blå Solna,2,62.5,3,Lägenhet,null,[Haga],1495000,405000,1900000,3318,Notar,621.3654574550065,Solna centrum
+2014-04-28,Kyrkbacken 21,Hagalund,Blå Solna,1,18.5,null,Lägenhet,1973,[Haga Norra],1095000,0,1095000,1176,Fastighetsbyrån,644.0266392899593,Solna centrum
+2014-04-21,Slottsvägen 12,Hagalund,Blå Solna,2,58,3,Lägenhet,1999,[Haga Norra],2295000,0,2295000,3683,Notar,1156.533753890841,Solna centrum
+2014-04-18,Carl Thunbergs väg 7,Hagalund,Blå Solna,4,92,1,Lägenhet,null,[Haga],3295000,15000,3310000,5519,Svensk Fastighetsförmedling,1228.7839683045656,Solna centrum
+2014-04-17,Blomgatan 4,Hagalund,Blå Solna,2,43,1,Lägenhet,1985,[Rudviken],1895000,315000,2210000,1796,Länsförsäkringar Fastighetsförmedling,446.8329685521732,Solna centrum
+2014-04-11,Hagalundsgatan 22,Hagalund,Blå Solna,3,67,2,Lägenhet,1973,[Hagalund],1850000,0,1850000,3310,Notar,738.4262265593696,Solna centrum
+2014-04-10,Kyrkbacken 3,Hagalund,Blå Solna,2,66.5,2,Lägenhet,1973,[Hagalund],1650000,150000,1800000,3510,Erik Olsson Fastighetsförmedling,639.6477738825997,Solna centrum
+2014-04-08,Solgatan 14,Hagalund,Blå Solna,2,58,3,Lägenhet,null,[Rudviken],2495000,0,2495000,3293,Svensk Fastighetsförmedling,655.7008167243639,Solna centrum
+2014-04-05,Regnstigen 16,Hagalund,Blå Solna,2.5,59,6,Lägenhet,1985,[Rudviken],2495000,0,2495000,2425,Länsförsäkringar Fastighetsförmedling,634.9666830567819,Solna centrum
+2014-04-05,Hagalundsgatan 30,Hagalund,Blå Solna,3,78.7,null,Lägenhet,null,[Hagalund],1995000,360000,2355000,3091,Fastighetsbyrån,906.0619995858758,Solna centrum
+2014-04-05,Hagalundsgatan 14,Hagalund,Blå Solna,4,85,12,Lägenhet,1973,[Hagalund],2695000,0,2695000,3818,SkandiaMäklarna,738.4262265593696,Solna centrum
+2014-04-04,Kyrkbacken 7,Hagalund,Blå Solna,2,64,1,Lägenhet,1973,[Hagalund],1595000,105000,1700000,3390,Notar,632.6864931221098,Solna centrum
+2014-04-01,Hagalundsgatan 42,Hagalund,Blå Solna,4,96.2,5,Lägenhet,1971,[Hagalund],2495000,395000,2890000,3818,Länsförsäkringar Fastighetsförmedling,956.644747627791,Solna centrum
+2014-04-01,Hagalundsgatan 40,Hagalund,Blå Solna,4,96.2,5,Lägenhet,1973,[Hagalund],2795000,105000,2900000,3819,Fastighetsbyrån,958.7215053883601,Solna centrum
+2014-03-26,Hagalundsgatan 24,Hagalund,Blå Solna,2,59,3,Lägenhet,null,[Hagalund],1795000,110000,1905000,2915,Svensk Fastighetsförmedling,738.4262265593696,Solna centrum
+2014-03-26,Blomgatan 18,Hagalund,Blå Solna,2,36.5,7,Lägenhet,1985,[Solna Centrum],1995000,155000,2150000,1843,Bjurfors,530.0470081364502,Solna centrum
+2014-03-13,Hagalundsgatan 36,Hagalund,Blå Solna,2,57,7,Lägenhet,1971,[Hagalund],1990000,0,1990000,2355,Länsförsäkringar Fastighetsförmedling,864.8104037589363,Solna centrum
+2014-03-05,Hagalundsgatan 10,Hagalund,Blå Solna,2,59,4,Lägenhet,null,[Hagalund],1795000,-15000,1780000,2915,Svensk Fastighetsförmedling,736.8893855944458,Solna centrum
+2014-03-03,Fyrgränd 4,Hagalund,Blå Solna,2,52,4,Lägenhet,1950,[Haga Norra],2000000,0,2000000,1759,Svenska Mäklarhuset,915.708223183637,Solna centrum
+2014-03-01,Fyrgränd 4,Hagalund,Blå Solna,3,67,2,Lägenhet,1950,[Frösunda],2395000,-25000,2370000,2269,SkandiaMäklarna,915.708223183637,Solna centrum
+2014-02-28,Hagalundsgatan 20,Hagalund,Blå Solna,4,89,1,Lägenhet,1972,[Hagalund],2395000,0,2395000,4397,Bjurfors,723.8521795697774,Solna centrum
+2014-02-27,Blomgatan 20,Hagalund,Blå Solna,3,73,1,Lägenhet,null,[Rudviken Solna Centrum],2850000,500000,3350000,2930,Svensk Fastighetsförmedling,550.9675268670012,Solna centrum
+2014-02-26,Hagavägen 14,Hagalund,Blå Solna,2,54,null,Lägenhet,1946,[Haga Norra],1895000,20000,1915000,3430,Notar,1263.9505343327294,Solna centrum
+2014-02-26,Hagalundsgatan 30,Hagalund,Blå Solna,4,96.2,3,Lägenhet,1972,[Hagalund],2995000,315000,3310000,3804,Länsförsäkringar Fastighetsförmedling,906.0619995858758,Solna centrum
+2014-02-18,Regnstigen 6,Hagalund,Blå Solna,3,72,null,Lägenhet,1985,[Rudviken],2995000,355000,3350000,2792,Fabergé Fastighetsmäkleri,600.3275917785397,Solna centrum
+2014-02-12,Solgatan 11,Hagalund,Blå Solna,2,59.5,4,Lägenhet,1985,[Rudviken Solna Centrum],2195000,240000,2435000,2443,Svensk Fastighetsförmedling,654.9115577708612,Solna centrum
+2014-02-12,Solgatan 22,Hagalund,Blå Solna,2,58,3,Lägenhet,null,[Hagalundsparken],2495000,55000,2550000,3267,Svensk Fastighetsförmedling,673.8729101591501,Solna centrum
+2014-02-08,Kyrkbacken 3,Hagalund,Blå Solna,2,49,null,Lägenhet,1973,[Hagalund],1695000,0,1695000,2698,Fastighetsbyrån,639.6477738825997,Solna centrum
+2014-02-07,Blomgatan 20,Hagalund,Blå Solna,3,74,2,Lägenhet,1985,[Rudviken],2850000,170000,3020000,2949,Fastighetsbyrån,550.9675268670012,Solna centrum
+2014-02-07,Hagavägen 14,Hagalund,Blå Solna,3,70,2,Lägenhet,1946,[Haga Norra],2495000,50000,2545000,4446,Notar,1263.9505343327294,Solna centrum
+2014-02-06,Regnstigen 5,Hagalund,Blå Solna,2,45,null,Lägenhet,1930,[Rudviken],2095000,205000,2300000,2233,Svenska Mäklarhuset,517.9530854025699,Solna centrum
+2014-02-06,Hagalundsgatan 8,Hagalund,Blå Solna,3,67,5,Lägenhet,1972,[Hagalund],1800000,75000,1875000,3310,Fastighetsbyrån,741.5406877198205,Solna centrum
+2014-02-05,Kyrkbacken 1,Hagalund,Blå Solna,2,64,1,Lägenhet,1973,[Hagalund],1795000,30000,1825000,3390,Bjurfors,625.224269193585,Solna centrum
+2014-01-30,Slottsvägen 2,Hagalund,Blå Solna,4,96.5,3,Lägenhet,1999,[Frösunda],3150000,0,3150000,5963,One Fastighetsmäkleri,1195.6933459830227,Solna centrum
+2014-01-29,Råsundavägen 26,Hagalund,Blå Solna,2,58,2,Lägenhet,1999,[Haga Norra],2195000,105000,2300000,3683,One Fastighetsmäkleri,1154.1430130170354,Solna centrum
+2014-01-28,Hagalundsgatan 8,Hagalund,Blå Solna,1,44.5,null,Lägenhet,null,[Hagalund],1095000,610000,1705000,1887,Notar,741.5406877198205,Solna centrum
+2014-01-20,Solgatan 14,Hagalund,Blå Solna,2,58,5,Lägenhet,2011,[Hagalundsparken],2495000,0,2495000,3293,Svensk Fastighetsförmedling,655.7008167243639,Solna centrum
+2014-01-16,Kyrkbacken 21,Hagalund,Blå Solna,4,99,3,Lägenhet,1973,[Hagalund],2495000,305000,2800000,5072,Notar,644.0266392899593,Solna centrum
+2014-01-15,Hagalundsgatan 44,Hagalund,Blå Solna,4,99.5,8,Lägenhet,1973,[Hagalund],2295000,625000,2920000,3820,Mäklarringen,954.6924211534431,Solna centrum
+2014-01-15,Västra vägen 1D,Hagalund,Blå Solna,3,81.5,7,Lägenhet,1969,[Solna Centrum],2695000,-35000,2660000,3230,Bjurfors,401.629639767772,Solna centrum
+2014-01-09,Carl Thunbergs väg 9,Hagalund,Blå Solna,3,61,null,Lägenhet,1949,[Haga Norra],2195000,95000,2290000,3456,Notar,1226.0205691197143,Solna centrum
+2014-01-09,Regnstigen 14,Hagalund,Blå Solna,2,43,6,Lägenhet,1985,[Rudviken],1795000,185000,1980000,1914,Notar,620.3587645044233,Solna centrum
+2013-12-06,Kyrkbacken 31,Hagalund,Blå Solna,1,19,2,Lägenhet,1973,[Hagalund],995000,230000,1225000,1218,Svensk Fastighetsförmedling,596.2991217607297,Solna centrum
+2013-11-27,Slottsvägen 10,Hagalund,Blå Solna,3,86,3,Lägenhet,2000,[Haga],3200000,-150000,3050000,5399,Privatmäklaren,1168.834600175506,Solna centrum
+2013-11-19,Kyrkbacken 1,Hagalund,Blå Solna,2,64,1,Lägenhet,1973,[Hagalund],1800000,175000,1975000,3390,Erik Olsson Fastighetsförmedling,625.224269193585,Solna centrum
+2013-11-11,Kyrkbacken 3,Hagalund,Blå Solna,2,64,null,Lägenhet,1973,[Hagalund],1595000,30000,1625000,3390,Notar,639.6477738825997,Solna centrum
+2013-11-01,Råsundavägen 28,Hagalund,Blå Solna,2,58,2,Lägenhet,1999,[Frösunda],1995000,155000,2150000,3683,One Fastighetsmäkleri,1214.6435933509438,Solna centrum
+2013-10-26,Regnstigen 14,Hagalund,Blå Solna,3,73,null,Lägenhet,1985,[Rudviken],2695000,105000,2800000,2870,Fastighetsbyrån,620.3587645044233,Solna centrum
+2013-10-23,Hagalundsgatan 32,Hagalund,Blå Solna,3,78.7,8,Lägenhet,1973,[Hagalund],1995000,65000,2060000,3084,Mäklarringen,897.1415835957021,Solna centrum
+2013-10-19,Blomgatan 14,Hagalund,Blå Solna,2,43,1,Lägenhet,1985,[Rudviken],1795000,175000,1970000,1987,Länsförsäkringar Fastighetsförmedling,501.97119689719415,Solna centrum
+2013-10-18,Slottsvägen 8,Hagalund,Blå Solna,2,58,4,Lägenhet,null,[Haga Norra],2295000,-55000,2240000,3683,Svensk Fastighetsförmedling,1124.1293972309006,Solna centrum
+2013-10-16,Andersvägen 5,Hagalund,Blå Solna,3,91.3,null,Lägenhet,1993,[Haga],2795000,0,2795000,4102,Fastighetsbyrån,1364.275678289148,Solna centrum
+2013-10-14,Västra vägen 1D,Hagalund,Blå Solna,1,20,1,Lägenhet,1969,[Solna Centrum],1195000,157000,1352000,970,Svensk Fastighetsförmedling,401.629639767772,Solna centrum
+2013-10-11,Kyrkbacken 18,Hagalund,Blå Solna,2,52,null,Lägenhet,1973,[Hagalund],1850000,-125000,1725000,2627,SkandiaMäklarna,535.0784978109399,Solna centrum
+2013-10-11,Västra vägen 3A,Hagalund,Blå Solna,2,62,null,Lägenhet,1969,[Solna Centrum],1990000,-90000,1900000,2502,Bjurfors,399.04247178690986,Solna centrum
+2013-10-09,Solgatan 7,Hagalund,Blå Solna,4,95,2,Lägenhet,1985,[Rudviken],2995000,275000,3270000,3618,Svensk Fastighetsförmedling,657.5129358436835,Solna centrum
+2013-10-09,Regnstigen 5,Hagalund,Blå Solna,2,46,null,Lägenhet,1930,[Rudviken],2195000,0,2195000,2282,Notar,517.9530854025699,Solna centrum
+2013-10-08,Slottsvägen 9,Hagalund,Blå Solna,3,70,0.5,Lägenhet,1948,[Haga Norra],2250000,0,2250000,4107,Notar,1171.2215626755858,Solna centrum
+2013-10-05,Andersvägen 3A,Hagalund,Blå Solna,4,97,2,Lägenhet,1993,[Haga Norra],2495000,335000,2830000,4731,Svensk Fastighetsförmedling,1372.5773891343981,Solna centrum
+2013-10-05,Slottsvägen 2,Hagalund,Blå Solna,3,86,5,Lägenhet,null,[Frösunda],2890000,310000,3200000,5399,One Fastighetsmäkleri,1195.6933459830227,Solna centrum
+2013-10-03,Hagalundsgatan 34,Hagalund,Blå Solna,2,56.9,null,Lägenhet,1973,[Hagalund],1500000,390000,1890000,2359,Fastighetsbyrån,876.3369573072899,Solna centrum
+2013-09-30,Hagalundsgatan 32,Hagalund,Blå Solna,3,78.7,11,Lägenhet,1973,[Hagalund],2095000,0,2095000,3089,Notar,897.1415835957021,Solna centrum
+2013-09-26,Solgatan 28,Hagalund,Blå Solna,4,91.5,2,Lägenhet,null,[Hagalundsparken],3295000,55000,3350000,5153,Svensk Fastighetsförmedling,623.7698488559857,Solna centrum
+2013-09-20,Andersvägen 5,Hagalund,Blå Solna,4,108,2,Lägenhet,1993,[Frösunda],2995000,205000,3200000,5221,One Fastighetsmäkleri,1364.275678289148,Solna centrum
+2013-09-13,Västra vägen 19,Hagalund,Blå Solna,2,54,null,Lägenhet,1986,[Rudviken],1895000,140000,2035000,2254,HusmanHagberg,508.2622022977259,Solna centrum
+2013-09-11,Kyrkbacken 24,Hagalund,Blå Solna,4,99,null,Lägenhet,1973,[Hagalund],1995000,380000,2375000,5396,Notar,534.2904968369467,Solna centrum
+2013-09-10,Kyrkbacken 17,Hagalund,Blå Solna,1.5,48,null,Lägenhet,1973,[Hagalund],995000,515000,1510000,2626,Notar,661.7922061121185,Solna centrum
+2013-09-06,Slottsvägen 10,Hagalund,Blå Solna,2,59.5,null,Lägenhet,1999,[Haga Norra],1995000,315000,2310000,3746,Länsförsäkringar Fastighetsförmedling,1168.834600175506,Solna centrum
+2013-08-30,Hagalundsgatan 40,Hagalund,Blå Solna,3,79,11,Lägenhet,1973,[Hagalund],1995000,430000,2425000,3099,Mäklarringen,958.7215053883601,Solna centrum
+2013-08-28,Andersvägen 3A,Hagalund,Blå Solna,2,52.7,2,Lägenhet,1993,[Haga Norra],1650000,150000,1800000,3016,Notar,1372.5773891343981,Solna centrum
+2013-08-21,Solgatan 8,Hagalund,Blå Solna,3,73,4,Lägenhet,2011,[Rudviken],2795000,155000,2950000,3744,Notar,641.4369034041981,Solna centrum
+2013-08-20,Blomgatan 20,Hagalund,Blå Solna,2,43,4,Lägenhet,1985,[Rudviken],1795000,270000,2065000,1972,Svensk Fastighetsförmedling,550.9675268670012,Solna centrum
+2013-08-16,Hagavägen 16,Hagalund,Blå Solna,2,53,3,Lägenhet,1946,[Haga Norra],1995000,0,1995000,3423,Svensk Fastighetsförmedling,1243.605281724428,Solna centrum
+2013-08-09,Blomgatan 16,Hagalund,Blå Solna,3,71,5,Lägenhet,null,[Rudviken],null,NaN,2720000,null,SkandiaMäklarna,518.7090907227222,Solna centrum
+2013-08-08,Kyrkbacken 20,Hagalund,Blå Solna,2,48,null,Lägenhet,null,[Hagalund],1495000,265000,1760000,2626,Notar,525.6312146279341,Solna centrum
+2013-07-20,Regnstigen 6,Hagalund,Blå Solna,2,36.5,null,Lägenhet,1985,[Rudviken],1795000,-45000,1750000,1698,Notar,600.3275917785397,Solna centrum
+2013-07-18,Kyrkbacken 5,Hagalund,Blå Solna,2.5,64,null,Lägenhet,1973,[Hagalund],1475000,155000,1630000,3276,SthlmFast,648.5646175044391,Solna centrum
+2013-07-18,Hagavägen 18,Hagalund,Blå Solna,3,70,3,Lägenhet,1945,[Haga Norra],2500000,-50000,2450000,4228,Notar,1214.7560357581062,Solna centrum
+2013-07-08,Carl Thunbergs väg 9,Hagalund,Blå Solna,3.5,74,null,Lägenhet,1949,[Haga Norra],2395000,85000,2480000,4463,Notar,1226.0205691197143,Solna centrum
+2013-07-03,Hagalundsgatan 44,Hagalund,Blå Solna,2,56.9,11,Lägenhet,null,[Hagalund],1495000,325000,1820000,2359,Svensk Fastighetsförmedling,954.6924211534431,Solna centrum
+2013-07-01,Kyrkbacken 21,Hagalund,Blå Solna,2,48,null,Lägenhet,1973,[Hagalund],1495000,10000,1505000,2626,Notar,644.0266392899593,Solna centrum
+2013-06-28,Hagalundsgatan 36,Hagalund,Blå Solna,2,56.9,13,Lägenhet,null,[Hagalund],1595000,-75000,1520000,2359,Svensk Fastighetsförmedling,864.8104037589363,Solna centrum
+2013-06-20,Hagalundsgatan 14,Hagalund,Blå Solna,3,85,11,Lägenhet,null,[Hagalund],2095000,-140000,1955000,3818,Erik Olsson Fastighetsförmedling,738.4262265593696,Solna centrum
+2013-06-18,Blomgatan 20,Hagalund,Blå Solna,2,43,2,Lägenhet,1985,[Solna Centrum],1690000,210000,1900000,1936,Mäklarringen,550.9675268670012,Solna centrum
+2013-06-12,Hagalundsgatan 36,Hagalund,Blå Solna,5,109,null,Lägenhet,1970,[Hagalund],2825000,50000,2875000,4013,Länsförsäkringar Fastighetsförmedling,864.8104037589363,Solna centrum
+2013-06-12,Hagavägen 18,Hagalund,Blå Solna,4,70,null,Lägenhet,1945,[Haga Norra],2495000,-145000,2350000,4228,Notar,1214.7560357581062,Solna centrum
+2013-06-11,Regnstigen 12,Hagalund,Blå Solna,2,43,6,Lägenhet,1985,[Rudviken],1900000,10000,1910000,1914,SkandiaMäklarna,580.7921552716365,Solna centrum
+2013-06-11,Kyrkbacken 18,Hagalund,Blå Solna,3,80.5,null,Lägenhet,1973,[Hagalund],2000000,20000,2020000,4178,Notar,535.0784978109399,Solna centrum
+2013-06-08,Solgatan 16,Hagalund,Blå Solna,3,70,1,Lägenhet,2011,[Hagalundsparken],2495000,155000,2650000,3896,Svensk Fastighetsförmedling,640.1709386218299,Solna centrum
+2013-06-05,Råsundavägen 29,Hagalund,Blå Solna,3,90.3,1,Lägenhet,null,[Haga],3195000,405000,3600000,3367,Erik Olsson Fastighetsförmedling,1024.7100382661065,Solna centrum
+2013-05-30,Regnstigen 12,Hagalund,Blå Solna,3,71,4,Lägenhet,1985,[Solna Centrum],2695000,225000,2920000,2827,Svenska Mäklarhuset,580.7921552716365,Solna centrum
+2013-05-29,Hagavägen 14,Hagalund,Blå Solna,2,53,null,Lägenhet,1946,[Haga],1795000,-150000,1645000,3423,Fastighetsbyrån,1263.9505343327294,Solna centrum
+2013-05-24,Slottsvägen 5,Hagalund,Blå Solna,1,42,0.5,Lägenhet,1948,[Haga Norra],1545000,155000,1700000,2342,Svensk Fastighetsförmedling,1172.9002409941618,Solna centrum
+2013-05-24,Hagavägen 10,Hagalund,Blå Solna,3.5,122,3,Lägenhet,null,[Haga],4800000,1000000,5800000,4148,Bostadsrättsspecialisten,1334.3531032343512,Solna centrum
+2013-05-23,Kyrkbacken 8,Hagalund,Blå Solna,3,80.5,2,Lägenhet,1973,[Hagalund],1850000,-50000,1800000,4179,SkandiaMäklarna,577.8925236069531,Solna centrum
+2013-05-16,Andersvägen 3A,Hagalund,Blå Solna,2,64.2,2,Lägenhet,1993,[Haga Norra],1995000,160000,2155000,3458,Svensk Fastighetsförmedling,1372.5773891343981,Solna centrum
+2013-05-16,Råsundavägen 22,Hagalund,Blå Solna,2,58,6,Lägenhet,1999,[Haga],1995000,225000,2220000,3683,Länsförsäkringar Fastighetsförmedling,1217.7130133272901,Solna centrum
+2013-05-15,Hagalundsgatan 46,Hagalund,Blå Solna,2,100.4,null,Lägenhet,1973,[Hagalund],1400000,700000,2100000,4016,Fastighetsbyrån,930.2957310718215,Solna centrum
+2013-05-09,Carl Thunbergs väg 9,Hagalund,Blå Solna,2,53,null,Lägenhet,1949,[Haga],1895000,0,1895000,2988,Länsförsäkringar Fastighetsförmedling,1226.0205691197143,Solna centrum
+2013-05-07,Hagalundsgatan 44,Hagalund,Blå Solna,3,67,8,Lägenhet,1973,[Hagalund],1775000,75000,1850000,2730,Notar,954.6924211534431,Solna centrum
+2013-05-05,Hagalundsgatan 44,Hagalund,Blå Solna,3,78.7,3,Lägenhet,1971,[Hagalund],1995000,130000,2125000,3070,Svenska Mäklarhuset,954.6924211534431,Solna centrum
+2013-04-30,Regnstigen 16,Hagalund,Blå Solna,2,43,2,Lägenhet,1985,[Solna Centrum],1795000,0,1795000,1903,Svenska Mäklarhuset,634.9666830567819,Solna centrum
+2013-04-30,Solgatan 8,Hagalund,Blå Solna,4,88,6,Lägenhet,2011,[Hagalundsparken],3095000,0,3095000,4898,Svensk Fastighetsförmedling,641.4369034041981,Solna centrum
+2013-04-24,Blomgatan 22,Hagalund,Blå Solna,2,58,1,Lägenhet,1985,[Rudviken],1935000,15000,1950000,2715,Notar,530.3509623195424,Solna centrum
+2013-04-18,Regnstigen 12,Hagalund,Blå Solna,4,91,6,Lägenhet,1985,[Solna Centrum],3295000,525000,3820000,3501,Svenska Mäklarhuset,580.7921552716365,Solna centrum
+2013-04-12,Kyrkbacken 20,Hagalund,Blå Solna,4,99,1,Lägenhet,1973,[Hagalund],2395000,-195000,2200000,5396,Notar,525.6312146279341,Solna centrum
+2013-04-10,Blomgatan 12,Hagalund,Blå Solna,3,74,3,Lägenhet,1985,[Rudviken],2495000,-195000,2300000,3165,HusmanHagberg,487.4766600450446,Solna centrum
+2013-04-03,Hagalundsgatan 8,Hagalund,Blå Solna,3,67,1,Lägenhet,1973,[Hagalund],1695000,5000,1700000,3009,Notar,741.5406877198205,Solna centrum
+2013-03-21,Kyrkbacken 31,Hagalund,Blå Solna,4,80.5,null,Lägenhet,1973,[Hagalund],1995000,45000,2040000,4178,Fastighetsbyrån,596.2991217607297,Solna centrum
+2013-03-19,Hagalundsgatan 22,Hagalund,Blå Solna,3,73,null,Lägenhet,1973,[Hagalund],1690000,-30000,1660000,3279,Notar,738.4262265593696,Solna centrum
+2013-03-12,Regnstigen 14,Hagalund,Blå Solna,3,71,4,Lägenhet,1985,[Rudviken],2595000,25000,2620000,2821,Notar,620.3587645044233,Solna centrum
+2013-03-05,Carl Thunbergs väg 7,Hagalund,Blå Solna,2,62,1.5,Lägenhet,1949,[Haga],1895000,0,1895000,3760,Länsförsäkringar Fastighetsförmedling,1228.7839683045656,Solna centrum
+2013-02-21,Hagalundsgatan 20,Hagalund,Blå Solna,2,59,13,Lägenhet,1973,[Hagalund],1500000,10000,1510000,2650,Fastighetsbyrån,723.8521795697774,Solna centrum
+2013-02-19,Hagalundsgatan 22,Hagalund,Blå Solna,3,79,10,Lägenhet,1973,[Hagalund],1895000,65000,1960000,3559,Notar,738.4262265593696,Solna centrum
+2013-02-14,Hagalundsgatan 14,Hagalund,Blå Solna,1,28,14,Lägenhet,1972,[Hagalund],995000,305000,1300000,1258,Länsförsäkringar Fastighetsförmedling,738.4262265593696,Solna centrum
+2013-02-13,Carl Thunbergs väg 9,Hagalund,Blå Solna,4,74,null,Lägenhet,1949,[Haga Norra],1995000,155000,2150000,4463,Notar,1226.0205691197143,Solna centrum
+2013-02-09,Regnstigen 6,Hagalund,Blå Solna,2,47,null,Lägenhet,1984,[Rudviken],1900000,0,1900000,2019,Fastighetsbyrån,600.3275917785397,Solna centrum
+2013-02-09,Hagalundsgatan 10,Hagalund,Blå Solna,4,89,7,Lägenhet,1973,[Hagalund],2095000,425000,2520000,3998,Notar,736.8893855944458,Solna centrum
+2013-02-09,Regnstigen 4,Hagalund,Blå Solna,3,71,null,Lägenhet,1985,[Rudviken],2395000,215000,2610000,2820,Notar,600.3275917785397,Solna centrum
+2013-01-28,Solgatan 8,Hagalund,Blå Solna,3,70,null,Lägenhet,2011,[Rudviken],2895000,125000,3020000,3896,Notar,641.4369034041981,Solna centrum
+2013-01-23,Hagavägen,Hagalund,Blå Solna,2,53,16.5,Lägenhet,1946,[Haga Norra],1795000,55000,1850000,3424,Fastighetsbyrån,1239.847782247525,Solna centrum
+2013-01-19,Hagalundsgatan 14,Hagalund,Blå Solna,2,50,null,Lägenhet,null,[Hagalund],1395000,235000,1630000,2246,Notar,738.4262265593696,Solna centrum
+2013-01-18,Hagavägen 14,Hagalund,Blå Solna,2,53,0.5,Lägenhet,1946,[Haga Norra],1795000,155000,1950000,3487,Svenska Mäklarhuset,1263.9505343327294,Solna centrum
+2013-01-17,Blomgatan 20,Hagalund,Blå Solna,3,74,null,Lägenhet,1985,[Rudviken],2295000,0,2295000,2949,Bjurfors,550.9675268670012,Solna centrum
+2013-01-17,Kyrkbacken 11,Hagalund,Blå Solna,2,64,null,Lägenhet,1973,[Hagalund],1400000,250000,1650000,3390,Fastighetsbyrån,625.224269193585,Solna centrum
+2013-01-16,Solgatan 11,Hagalund,Blå Solna,1,30,null,Lägenhet,1985,[Rudviken],1300000,215000,1515000,985,Fastighetsbyrån,654.9115577708612,Solna centrum
+2012-12-29,Västra vägen 1C,Hagalund,Blå Solna,3,81.5,null,Lägenhet,1969,[Rudviken],2795000,305000,3100000,3230,Fastighetsbyrån,400.5238159593878,Solna centrum
+2012-12-21,Hagalundsgatan 22,Hagalund,Blå Solna,3,67,6,Lägenhet,1973,[Hagalund],1550000,170000,1720000,2736,Notar,738.4262265593696,Solna centrum
+2012-12-21,Hagalundsgatan 14,Hagalund,Blå Solna,3,85,13,Lägenhet,1973,[Hagalund],1750000,460000,2210000,3471,Notar,738.4262265593696,Solna centrum
+2012-12-21,Hagalundsgatan 10,Hagalund,Blå Solna,2,59,12,Lägenhet,1973,[Hagalund],1295000,335000,1630000,2410,Notar,736.8893855944458,Solna centrum
+2012-12-20,Kyrkbacken 26,Hagalund,Blå Solna,2,52,null,Lägenhet,null,[Kyrkbacken],1850000,-50000,1800000,2626,One Fastighetsmäkleri,546.9228773742273,Solna centrum
+2012-12-19,Hagavägen 14,Hagalund,Blå Solna,2,53,0.5,Lägenhet,1946,[Haga Norra],1800000,-80000,1720000,3267,Notar,1263.9505343327294,Solna centrum
+2012-12-19,Hagalundsgatan 8,Hagalund,Blå Solna,4,89,13,Lägenhet,1973,[Hagalund],1975000,370000,2345000,3635,Notar,741.5406877198205,Solna centrum
+2012-12-19,Hagalundsgatan 10,Hagalund,Blå Solna,1,50,null,Lägenhet,1973,[Hagalund],1150000,290000,1440000,2042,Notar,736.8893855944458,Solna centrum
+2012-12-12,Hagalundsgatan 24,Hagalund,Blå Solna,5,125,null,Lägenhet,1973,[Hagalund],2990000,220000,3210000,5104,Bjurfors,738.4262265593696,Solna centrum
+2012-12-06,Hagalundsgatan 42,Hagalund,Blå Solna,3,78.7,3,Lägenhet,1973,[Hagalund],1595000,55000,1650000,3070,Fastighetsbyrån,956.644747627791,Solna centrum
+2012-12-05,Regnstigen 16,Hagalund,Blå Solna,3,71,5,Lägenhet,1985,[Rudviken],2795000,0,2795000,2827,Mäklarhuset,634.9666830567819,Solna centrum
+2012-11-29,Blomgatan 14,Hagalund,Blå Solna,3,71,4,Lägenhet,1985,[Rudviken],2500000,25000,2525000,2869,SkandiaMäklarna,501.97119689719415,Solna centrum
+2012-11-29,Hagalundsgatan 30,Hagalund,Blå Solna,3,78.7,8,Lägenhet,1971,[Hagalund],1895000,655000,2550000,3095,Svenska Mäklarhuset,906.0619995858758,Solna centrum
+2012-11-27,Hagalundsgatan 14,Hagalund,Blå Solna,3,85,null,Lägenhet,1973,[Hagalund],1950000,110000,2060000,3471,Notar,738.4262265593696,Solna centrum
+2012-11-27,Hagalundsgatan 46,Hagalund,Blå Solna,5,111.5,4,Lägenhet,1973,[Hagalund],2250000,500000,2750000,4222,Notar,930.2957310718215,Solna centrum
+2012-11-26,Hagalundsgatan 14,Hagalund,Blå Solna,4,89,7,Lägenhet,null,[Hagalund],2200000,-50000,2150000,3634,Erik Olsson Fastighetsförmedling,738.4262265593696,Solna centrum
+2012-11-22,Hagavägen 14,Hagalund,Blå Solna,2,53,null,Lägenhet,1946,[Haga Norra],1795000,105000,1900000,3267,Notar,1263.9505343327294,Solna centrum
+2012-11-21,Hagavägen 16,Hagalund,Blå Solna,2,54,null,Lägenhet,1946,[Haga Norra],1895000,0,1895000,3323,Mäklarringen,1243.605281724428,Solna centrum
+2012-11-15,Broddgatan 3,Hagalund,Blå Solna,2,63.5,1,Lägenhet,1950,[Haga Norra],1895000,0,1895000,2538,Länsförsäkringar Fastighetsförmedling,1018.9532674944018,Solna centrum
+2012-11-13,Solgatan 8,Hagalund,Blå Solna,3,73,1,Lägenhet,2011,[Rudviken],2495000,90000,2585000,4063,Svensk Fastighetsförmedling,641.4369034041981,Solna centrum
+2012-11-10,Hagalundsgatan 20,Hagalund,Blå Solna,1,50,null,Lägenhet,1973,[Hagalund],1150000,265000,1415000,2042,Notar,723.8521795697774,Solna centrum
+2012-11-09,Kyrkbacken 14,Hagalund,Blå Solna,3,80.5,null,Lägenhet,1973,[Hagalund],1800000,0,1800000,4178,Länsförsäkringar Fastighetsförmedling,675.917695833955,Solna centrum
+2012-11-03,Blomgatan 20,Hagalund,Blå Solna,3,73,1,Lägenhet,null,[Rudviken],2595000,-70000,2525000,2920,One Fastighetsmäkleri,550.9675268670012,Solna centrum
+2012-11-02,Slottsvägen 10,Hagalund,Blå Solna,3,86,4,Lägenhet,2000,[Haga Norra],2395000,-50000,2345000,5399,Svensk Fastighetsförmedling,1168.834600175506,Solna centrum
+2012-10-24,Hagalundsgatan 24,Hagalund,Blå Solna,4,89,3,Lägenhet,1973,[Huvudsta/Skytteholm],1950000,-20000,1930000,3634,Länsförsäkringar Fastighetsförmedling,738.4262265593696,Solna centrum
+2012-10-23,Regnstigen 12,Hagalund,Blå Solna,2.5,64,7,Lägenhet,null,[Huvudsta/Skytteholm],2395000,305000,2700000,2570,Mäklarhuset,580.7921552716365,Solna centrum
+2012-10-20,Blomgatan 12,Hagalund,Blå Solna,2,36.5,null,Lägenhet,1985,[Solna Centrum],1650000,160000,1810000,1732,Mäklarringen,487.4766600450446,Solna centrum
+2012-10-19,Kyrkbacken 20,Hagalund,Blå Solna,1.5,48,1,Lägenhet,null,[Hagalund],1595000,155000,1750000,2600,One Fastighetsmäkleri,525.6312146279341,Solna centrum
+2012-10-17,Regnstigen 10,Hagalund,Blå Solna,2,50,1,Lägenhet,1985,[Rudviken],1595000,185000,1780000,2103,Svensk Fastighetsförmedling,590.912818587097,Solna centrum
+2012-10-12,Västra vägen 19,Hagalund,Blå Solna,3,78,2,Lägenhet,1985,[Rudviken],2495000,0,2495000,3256,Notar,508.2622022977259,Solna centrum
+2012-10-09,Hagalundsgatan 22,Hagalund,Blå Solna,2,59,5,Lägenhet,1972,[Hagalund],1495000,0,1495000,2409,SkandiaMäklarna,738.4262265593696,Solna centrum
+2012-10-09,Blomgatan 6,Hagalund,Blå Solna,2,36.5,4,Lägenhet,1985,[Rudviken],1695000,205000,1900000,1524,Notar,450.7796108539904,Solna centrum
+2012-09-22,Hagavägen 14,Hagalund,Blå Solna,3,62,null,Lägenhet,1946,[Huvudsta/Skytteholm],1995000,365000,2360000,3750,Fastighetsbyrån,1263.9505343327294,Solna centrum
+2012-09-08,Västra vägen 1C,Hagalund,Blå Solna,3,81.5,6,Lägenhet,1969,[Huvudsta/Skytteholm],2390000,-80000,2310000,3230,Mäklarhuset,400.5238159593878,Solna centrum
+2012-08-30,Blomgatan 4,Hagalund,Blå Solna,3,71,3,Lägenhet,null,[Huvudsta/Skytteholm],2495000,0,2495000,2923,Svensk Fastighetsförmedling,446.8329685521732,Solna centrum

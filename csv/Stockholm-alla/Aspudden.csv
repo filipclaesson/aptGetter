@@ -1,0 +1,874 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-13,Hägerstensvägen 99B,Aspudden,Röd Norsborg,5,95.5,6,Lägenhet,2006,[Aspudden],5395000,455000,5850000,6003,Fastighetsbyrån,355.5928533262186,Aspudden
+2016-05-12,Hägerstensvägen 229,Aspudden,Röd Norsborg,4,82,1,Lägenhet,2010,[Hägersten],3995000,905000,4900000,4691,Svensk Fastighetsförmedling,334.7216426314206,Ornsberg
+2016-05-12,Schlytersvägen 64,Aspudden,Röd Norsborg,1,33,1,Lägenhet,null,[Hägersten],1990000,535000,2525000,1940,BOSTHLM,100.86918811328512,Aspudden
+2016-05-12,Schlytersvägen 64,Aspudden,Röd Norsborg,1,27,3,Lägenhet,null,[Hägersten],1995000,505000,2500000,1588,Svensk Fastighetsförmedling,100.86918811328512,Aspudden
+2016-05-11,Hägerstensvägen 137,Aspudden,Röd Norsborg,1,32,2,Lägenhet,1939,[Hägersten],2095000,555000,2650000,2028,Erik Olsson Fastighetsförmedling,124.56411903330986,Aspudden
+2016-05-07,Hövdingagatan 3A,Aspudden,Röd Norsborg,2.5,56,2,Lägenhet,1946,[Aspudden],3195000,105000,3300000,3274,HusmanHagberg,244.35022384313456,Aspudden
+2016-05-05,Sigurd Rings gata 12,Aspudden,Röd Norsborg,2,54,2.5,Lägenhet,1949,[Aspudden],3195000,540000,3735000,3511,Bjurfors,534.5380914465279,Ornsberg
+2016-05-05,Margaretha Krooks gata 6,Aspudden,Röd Norsborg,5,115,4,Lägenhet,2012,[Örnsberg],6495000,1355000,7850000,5758,HusmanHagberg,293.9635000048604,Ornsberg
+2016-05-04,Schlytersvägen 43,Aspudden,Röd Norsborg,3,57,1,Lägenhet,null,[Hägersten],3495000,105000,3600000,3719,Svensk Fastighetsförmedling,224.8060675296627,Aspudden
+2016-05-03,Hägerstensvägen 115,Aspudden,Röd Norsborg,1,33.5,4,Lägenhet,null,[Hägersten],2195000,530000,2725000,2202,Svensk Fastighetsförmedling,229.2268331535313,Aspudden
+2016-05-03,Torsten Alms gata 9,Aspudden,Röd Norsborg,1,38,null,Lägenhet,1949,[Aspudden],1995000,675000,2670000,1931,BOSTHLM,451.3979454255512,Aspudden
+2016-05-03,Hövdingagatan 35,Aspudden,Röd Norsborg,1.5,38,1,Lägenhet,1942,[Aspudden],1895000,385000,2280000,2242,SthlmFast,149.44757969032383,Ornsberg
+2016-05-02,Junkergatan 20,Aspudden,Röd Norsborg,2,53,3,Lägenhet,1943,[Hägersten],2495000,605000,3100000,3158,Svensk Fastighetsförmedling,94.26399640740824,Ornsberg
+2016-04-29,Hägerstensvägen 167,Aspudden,Röd Norsborg,2,44,4,Lägenhet,1946,[Hägersten],2595000,575000,3170000,2774,Berggren Hörle,265.5009977284714,Ornsberg
+2016-04-28,Hövdingagatan 32,Aspudden,Röd Norsborg,3,64,1,Lägenhet,1949,[Hägersten],3995000,830000,4825000,3450,Svensk Fastighetsförmedling,188.61558095443402,Ornsberg
+2016-04-28,Instrumentvägen 26,Aspudden,Röd Norsborg,3,74,3,Lägenhet,null,[Hägersten-Liljeholmen],4495000,975000,5470000,3562,Svensk Fastighetsförmedling,295.17730220930537,Ornsberg
+2016-04-28,Hägerstensvägen 161,Aspudden,Röd Norsborg,3.5,81,3,Lägenhet,null,[Hägersten],4595000,805000,5400000,4409,Svensk Fastighetsförmedling,339.3065878082045,Aspudden
+2016-04-28,Sigfridsvägen 15,Aspudden,Röd Norsborg,2,54,1,Lägenhet,1949,[Aspudden],2795000,555000,3350000,2887,HusmanHagberg,116.46894566042205,Aspudden
+2016-04-28,Hertigvägen 2,Aspudden,Röd Norsborg,3,70,1,Lägenhet,1948,[Aspudden],4095000,465000,4560000,4593,HusmanHagberg,223.06101823708974,Ornsberg
+2016-04-28,Hägerstensvägen 131A,Aspudden,Röd Norsborg,4,108,3,Lägenhet,1912,[Hägersten],5995000,2005000,8000000,5651,Svensk Fastighetsförmedling,119.51105260721666,Aspudden
+2016-04-28,Allan Edwalls gata 4,Aspudden,Röd Norsborg,4,101,5,Lägenhet,2009,[Hägersten-Liljeholmen],5595000,1415000,7010000,5623,SkandiaMäklarna,163.63338250179817,Ornsberg
+2016-04-27,Styrbjörnsvägen 28,Aspudden,Röd Norsborg,3,64,2,Lägenhet,1948,[Aspudden],4500000,0,4500000,2894,BOSTHLM,407.2809130289674,Aspudden
+2016-04-27,Hägerstensvägen 139,Aspudden,Röd Norsborg,2,43,4,Lägenhet,null,[Hägersten],2495000,765000,3260000,2664,Svensk Fastighetsförmedling,121.8122469253232,Aspudden
+2016-04-26,Husabyvägen 15,Aspudden,Röd Norsborg,2,45,5,Lägenhet,1945,[Aspudden],2695000,185000,2880000,2551,Notar,286.9292356998379,Aspudden
+2016-04-25,Alvastravägen 12,Aspudden,Röd Norsborg,4,118,null,Villa,1948,[Hägersten],6495000,1505000,8000000,null,Svensk Fastighetsförmedling,450.27767263448544,Aspudden
+2016-04-22,Hägerstensvägen 195,Aspudden,Röd Norsborg,1.5,40,3,Lägenhet,1937,[Hägersten-Liljeholmen],2695000,35000,2730000,2558,SkandiaMäklarna,110.10676671172203,Ornsberg
+2016-04-22,Hägerstensvägen 193,Aspudden,Röd Norsborg,3,56,1,Lägenhet,1936,[Örnsberg],2825000,75000,2900000,3679,Fastighetsbyrån,131.54271642651904,Ornsberg
+2016-04-22,Hägerstensvägen 118,Aspudden,Röd Norsborg,3,58,4,Lägenhet,1912,[Hägersten],3495000,1075000,4570000,3302,Svensk Fastighetsförmedling,121.05955001256066,Aspudden
+2016-04-22,Manhemsgatan 4,Aspudden,Röd Norsborg,3,77,1,Lägenhet,1912,[Hägersten],5795000,1015000,6810000,4003,Svensk Fastighetsförmedling,185.5004340820745,Aspudden
+2016-04-22,Manhemsgatan 15,Aspudden,Röd Norsborg,3,67.5,2,Lägenhet,1946,[Aspudden],4195000,305000,4500000,3678,HusmanHagberg,201.84023918933423,Aspudden
+2016-04-21,Schlytersvägen 43,Aspudden,Röd Norsborg,2,57,3,Lägenhet,1947,[Aspudden],3510000,0,3510000,3719,BOSTHLM,224.8060675296627,Aspudden
+2016-04-21,Hägerstensvägen 139,Aspudden,Röd Norsborg,1,32,4,Lägenhet,1940,[Aspudden],2095000,565000,2660000,2084,Fastighetsbyrån,121.8122469253232,Aspudden
+2016-04-20,Hägerstensvägen 158,Aspudden,Röd Norsborg,1.5,39.5,1,Lägenhet,1949,[Aspudden],2195000,515000,2710000,2383,Fastighetsbyrån,339.76350765256984,Ornsberg
+2016-04-19,Olof Skötkonungs väg 20B,Aspudden,Röd Norsborg,6,130,null,Radhus,2016,[Aspudden],7700000,1425000,9125000,4008,Balders Ädelmarks,161.0913330946034,Aspudden
+2016-04-18,Pilgrimsvägen 54C,Aspudden,Röd Norsborg,3,52.5,1,Lägenhet,1939,[Hägersten],3495000,105000,3600000,3011,Svensk Fastighetsförmedling,108.72350558013719,Aspudden
+2016-04-18,Olof Skötkonungs väg 20C,Aspudden,Röd Norsborg,6,119,null,Radhus,2016,[Aspudden],7600000,850000,8450000,3669,Balders Ädelmarks,161.0913330946034,Aspudden
+2016-04-18,Olof Skötkonungs väg 20A,Aspudden,Röd Norsborg,5,126,null,Radhus,2016,[Aspudden],7900000,1950000,9850000,3885,Balders Ädelmarks,161.0913330946034,Aspudden
+2016-04-16,Torsten Alms gata 15,Aspudden,Röd Norsborg,2,59,2,Lägenhet,1949,[Hägersten],3195000,305000,3500000,2830,Svensk Fastighetsförmedling,469.14990958818845,Ornsberg
+2016-04-16,Hägerstensvägen 173,Aspudden,Röd Norsborg,2,46,3,Lägenhet,1947,[Hägersten],2495000,865000,3360000,2741,Svensk Fastighetsförmedling,241.2442770883185,Ornsberg
+2016-04-15,Schlytersvägen 69,Aspudden,Röd Norsborg,2,29,1,Lägenhet,null,[Aspudden],1995000,725000,2720000,1691,Magnusson Mäkleri,136.1745057342214,Aspudden
+2016-04-15,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,3,76,3,Lägenhet,2009,[Hägersten],4295000,1005000,5300000,4544,Svensk Fastighetsförmedling,150.31215657786078,Ornsberg
+2016-04-15,Fågeltorget 167,Aspudden,Röd Norsborg,3,88,3,Lägenhet,1949,[Aspudden],4395000,1365000,5760000,4881,HusmanHagberg,223.87239827011888,Ornsberg
+2016-04-14,Vapengatan 9,Aspudden,Röd Norsborg,2,52.5,1,Lägenhet,1945,[Aspudden],2895000,0,2895000,2946,Fastighetsbyrån,297.05958811904975,Aspudden
+2016-04-14,Sigurd Rings gata 6,Aspudden,Röd Norsborg,2,56,null,Lägenhet,1948,[Aspudden],2995000,525000,3520000,3367,Notar,477.6980865816027,Aspudden
+2016-04-14,Ivar Vidfamnes gata 11,Aspudden,Röd Norsborg,4,75,3,Lägenhet,1949,[Aspudden],4595000,1005000,5600000,3663,HusmanHagberg,248.15635161492074,Ornsberg
+2016-04-13,Aspudden,Aspudden,Röd Norsborg,2,57,2,Lägenhet,1949,[Aspudden],2690000,60000,2750000,2830,Ansvar Fastighetsförmedling,460.0049375814086,Ornsberg
+2016-04-13,Olof Skötkonungs väg 4,Aspudden,Röd Norsborg,2,51,1,Lägenhet,1947,[Hägersten],2895000,525000,3420000,3320,Svensk Fastighetsförmedling,162.55161412881446,Aspudden
+2016-04-12,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,2,59,5,Lägenhet,2009,[Hägersten],3295000,475000,3770000,3788,Svensk Fastighetsförmedling,150.31215657786078,Ornsberg
+2016-04-12,Vapengatan 18,Aspudden,Röd Norsborg,2,46.5,1,Lägenhet,1946,[Aspudden],2495000,455000,2950000,2759,Notar,315.34716379205,Aspudden
+2016-04-12,Ivar Vidfamnes gata 15,Aspudden,Röd Norsborg,3,66,3,Lägenhet,1948,[Aspudden],3995000,755000,4750000,3222,Notar,270.16404897165353,Ornsberg
+2016-04-09,Hägerstensvägen 154,Aspudden,Röd Norsborg,2,53,4,Lägenhet,1945,[Hägersten],2945000,780000,3725000,2917,Svensk Fastighetsförmedling,319.02044767275845,Aspudden
+2016-04-09,Härbärgesvägen 2,Aspudden,Röd Norsborg,3,82,1,Lägenhet,1912,[Aspudden],4950000,1550000,6500000,4705,Länsförsäkringar Fastighetsförmedling,138.89273153236866,Aspudden
+2016-04-08,Hägerstensvägen 134,Aspudden,Röd Norsborg,3,72,1,Lägenhet,1912,[Hägersten],3995000,585000,4580000,3456,Svensk Fastighetsförmedling,92.99680979656333,Aspudden
+2016-04-08,Hägerstensvägen 111,Aspudden,Röd Norsborg,2,48,2,Lägenhet,1939,[Aspudden],2650000,435000,3085000,2899,BOSTHLM,234.3882770196231,Aspudden
+2016-04-08,Sigurd Rings gata 12,Aspudden,Röd Norsborg,2,53,3,Lägenhet,1948,[Aspudden],2995000,555000,3550000,3446,Fastighetsbyrån,534.5380914465279,Ornsberg
+2016-04-08,Olof Skötkonungs väg 10,Aspudden,Röd Norsborg,2,49,3,Lägenhet,1911,[Hägersten],3495000,805000,4300000,2776,Svensk Fastighetsförmedling,131.93448360475,Aspudden
+2016-04-08,Vapengatan 12,Aspudden,Röd Norsborg,2,46.5,3,Lägenhet,1946,[Aspudden],2695000,355000,3050000,2821,HusmanHagberg,282.021680782703,Aspudden
+2016-04-07,Blommensbergsvägen 103,Aspudden,Röd Norsborg,1,43,1,Lägenhet,1965,[Hägersten],1995000,605000,2600000,1730,Svensk Fastighetsförmedling,461.8271169479553,Aspudden
+2016-04-07,Manhemsgatan 3,Aspudden,Röd Norsborg,2,54,4,Lägenhet,1947,[Aspudden],2995000,480000,3475000,3162,HusmanHagberg,238.81574603991214,Aspudden
+2016-04-07,Blommensbergsvägen 130,Aspudden,Röd Norsborg,3,82.5,1,Lägenhet,2003,[Aspudden],3995000,330000,4325000,5321,Fastighetsbyrån,453.35519382438144,Aspudden
+2016-04-06,Hägerstensvägen 105,Aspudden,Röd Norsborg,2,42,5,Lägenhet,1912,[Aspudden],2495000,555000,3050000,1961,Notar,281.58518513966914,Aspudden
+2016-04-01,Hägerstensvägen 161A,Aspudden,Röd Norsborg,2,54,3,Lägenhet,null,[Hägersten],2995000,320000,3315000,3065,Svensk Fastighetsförmedling,343.52748181807516,Aspudden
+2016-04-01,Sigurd Rings gata 6,Aspudden,Röd Norsborg,2,56,1.5,Lägenhet,1948,[Aspudden],2795000,405000,3200000,3417,Fastighetsbyrån,477.6980865816027,Aspudden
+2016-03-31,Husabyvägen 27,Aspudden,Röd Norsborg,2,47,1,Lägenhet,1945,[Aspudden],2595000,605000,3200000,3347,Fastighetsbyrån,231.33417484274264,Aspudden
+2016-03-31,Vapengatan 17,Aspudden,Röd Norsborg,3,73,1,Lägenhet,1949,[Aspudden],4495000,305000,4800000,4175,HusmanHagberg,312.4174629856923,Ornsberg
+2016-03-24,Vapengatan 18,Aspudden,Röd Norsborg,2,42.5,1,Lägenhet,1946,[Hägersten],2495000,605000,3100000,2539,Svensk Fastighetsförmedling,315.34716379205,Aspudden
+2016-03-24,Hägerstensvägen 229,Aspudden,Röd Norsborg,3,70,4,Lägenhet,2010,[Örnsberg],3895000,405000,4300000,3654,Fastighetsbyrån,334.7216426314206,Ornsberg
+2016-03-24,Manhemsgatan 7,Aspudden,Röd Norsborg,2,42.5,3,Lägenhet,1946,[Hägersten],2450000,805000,3255000,2464,Erik Olsson Fastighetsförmedling,211.53672641653614,Aspudden
+2016-03-24,Husabyvägen 41,Aspudden,Röd Norsborg,2,35,1,Lägenhet,1945,[Aspudden],2195000,480000,2675000,2188,HusmanHagberg,310.99655375814234,Aspudden
+2016-03-24,Hägerstensvägen 211,Aspudden,Röd Norsborg,2,48,2,Lägenhet,1939,[Hägersten-Liljeholmen],2495000,380000,2875000,3193,SkandiaMäklarna,208.94122138202312,Ornsberg
+2016-03-24,Sigfridsvägen 11,Aspudden,Röd Norsborg,2,38,2,Lägenhet,1949,[Hägersten-Liljeholmen],2195000,750000,2945000,2297,SkandiaMäklarna,165.6449186310573,Aspudden
+2016-03-24,Torsten Alms gata 7,Aspudden,Röd Norsborg,2,59,3,Lägenhet,1948,[Aspudden],3150000,400000,3550000,2830,HusmanHagberg,440.6538548838005,Aspudden
+2016-03-23,Sigurd Rings Gata 10,Aspudden,Röd Norsborg,2,54,3,Lägenhet,1949,[Aspudden],3195000,655000,3850000,3511,HusmanHagberg,549.1892762483441,Aspudden
+2016-03-23,Hägerstensvägen 173,Aspudden,Röd Norsborg,2,46,4,Lägenhet,null,[Aspudden],2600000,600000,3200000,2741,Historiska Hem AB,241.2442770883185,Ornsberg
+2016-03-23,Hövdingagatan 1,Aspudden,Röd Norsborg,3,56,1,Lägenhet,1946,[Hägersten],3395000,930000,4325000,3211,Svensk Fastighetsförmedling,214.16176538611992,Aspudden
+2016-03-21,Hägerstensvägen 137,Aspudden,Röd Norsborg,2,43,3,Lägenhet,1939,[Aspudden],2475000,475000,2950000,2664,Notar,124.56411903330986,Aspudden
+2016-03-19,Torsten Alms gata 16,Aspudden,Röd Norsborg,4,85,1,Lägenhet,1948,[Hägersten],4750000,1350000,6100000,4309,Svensk Fastighetsförmedling,490.3804656410353,Ornsberg
+2016-03-18,Ivar Vidfamnes gata 29,Aspudden,Röd Norsborg,1.5,39,1,Lägenhet,1948,[Aspudden],1995000,805000,2800000,1732,Notar,352.5355282271233,Ornsberg
+2016-03-18,Blommensbergsvägen 190,Aspudden,Röd Norsborg,2,58,2,Lägenhet,1948,[Aspudden],2695000,555000,3250000,3806,Länsförsäkringar Fastighetsförmedling,251.87633237308356,Ornsberg
+2016-03-18,Hägerstensvägen 124,Aspudden,Röd Norsborg,3.5,89,2,Lägenhet,1912,[Hägersten],6495000,255000,6750000,3165,Svensk Fastighetsförmedling,59.8190401006662,Aspudden
+2016-03-17,Hägerstensvägen 117B,Aspudden,Röd Norsborg,2,46,4,Lägenhet,1939,[Aspudden],2595000,635000,3230000,2899,HusmanHagberg,194.75618298331966,Aspudden
+2016-03-17,Hägerstensvägen 207,Aspudden,Röd Norsborg,1,30,2,Lägenhet,1938,[Örnsberg],1995000,255000,2250000,2738,Fastighetsbyrån,185.21282186733504,Ornsberg
+2016-03-13,Hägerstensvägen 148,Aspudden,Röd Norsborg,2,53,3,Lägenhet,1945,[Hägersten],2945000,370000,3315000,2917,Svensk Fastighetsförmedling,269.9995589986896,Aspudden
+2016-03-12,Torsten Alms gata 11,Aspudden,Röd Norsborg,2,59,3,Lägenhet,1949,[Aspudden],3150000,365000,3515000,2830,HusmanHagberg,471.1379857096971,Aspudden
+2016-03-12,Hägerstensvägen 117A,Aspudden,Röd Norsborg,1.5,33.5,2,Lägenhet,1938,[Hägersten],2295000,380000,2675000,2202,Svensk Fastighetsförmedling,220.69533670055276,Aspudden
+2016-03-10,Blommensbergsvägen 155,Aspudden,Röd Norsborg,2,56,4,Lägenhet,1946,[Aspudden],2795000,565000,3360000,3274,Länsförsäkringar Fastighetsförmedling,311.4953756175718,Ornsberg
+2016-03-10,Hägerstensvägen 165B,Aspudden,Röd Norsborg,3,69,3,Lägenhet,null,[Aspudden],4095000,0,4095000,3779,BOSTHLM,302.51308801951313,Ornsberg
+2016-03-10,Husabyvägen 41,Aspudden,Röd Norsborg,2,51,2,Lägenhet,1945,[Aspudden],2695000,385000,3080000,3188,Fastighetsbyrån,310.99655375814234,Aspudden
+2016-03-10,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,3,76,2,Lägenhet,2009,[Hägersten],4195000,905000,5100000,4544,Svensk Fastighetsförmedling,150.31215657786078,Ornsberg
+2016-03-09,Hövdingagatan 5,Aspudden,Röd Norsborg,3,56,1,Lägenhet,1946,[Aspudden],3295000,855000,4150000,3151,Fastighetsbyrån,261.55065319755727,Aspudden
+2016-03-04,Hägerstensvägen 160,Aspudden,Röd Norsborg,1.5,40,2,Lägenhet,1949,[Hägersten],2495000,355000,2850000,2531,Svensk Fastighetsförmedling,340.8667732435562,Aspudden
+2016-03-03,Torsten Alms gata 16,Aspudden,Röd Norsborg,1,40,3,Lägenhet,1948,[Hägersten],2195000,365000,2560000,2267,Svensk Fastighetsförmedling,490.3804656410353,Ornsberg
+2016-03-03,Styrbjörnsvägen 28,Aspudden,Röd Norsborg,2,53,1,Lägenhet,1947,[Hägersten],2895000,335000,3230000,2476,Svensk Fastighetsförmedling,407.2809130289674,Aspudden
+2016-03-03,Hägerstensvägen 211,Aspudden,Röd Norsborg,1,25,3,Lägenhet,1939,[Hägersten-Liljeholmen],1795000,545000,2340000,1740,SkandiaMäklarna,208.94122138202312,Ornsberg
+2016-03-02,Typografvägen 6,Aspudden,Röd Norsborg,2,42,2,Lägenhet,1929,[Örnsberg],2195000,690000,2885000,2607,Fastighetsbyrån,117.86283926350768,Ornsberg
+2016-02-27,Husabyvägen 39,Aspudden,Röd Norsborg,3,70,null,Lägenhet,1945,[Aspudden],3895000,905000,4800000,4375,BOSTHLM,303.037144654765,Aspudden
+2016-02-26,Hägerstensvägen 161B,Aspudden,Röd Norsborg,2,51,2,Lägenhet,1946,[Aspudden],2995000,380000,3375000,3036,HusmanHagberg,343.437917468976,Aspudden
+2016-02-26,Sigfridsvägen 7,Aspudden,Röd Norsborg,4,97,2,Lägenhet,1982,[Hägersten],5995000,1085000,7080000,3449,Svensk Fastighetsförmedling,136.17763449225845,Aspudden
+2016-02-26,Hägerstensvägen 142,Aspudden,Röd Norsborg,3,67,2,Lägenhet,1912,[Hägersten],4795000,430000,5225000,3398,Svensk Fastighetsförmedling,180.61060435241015,Aspudden
+2016-02-26,Ivar Vidfamnes gata 12,Aspudden,Röd Norsborg,3,67,1,Lägenhet,null,[Hägersten],4095000,785000,4880000,3091,Svensk Fastighetsförmedling,265.4099776912866,Ornsberg
+2016-02-25,Botvidsgatan 3,Aspudden,Röd Norsborg,2,53,2,Lägenhet,1912,[Hägersten],3895000,480000,4375000,2768,Svensk Fastighetsförmedling,117.36246424921394,Aspudden
+2016-02-25,Husabyvägen 29,Aspudden,Röd Norsborg,2,47,1,Lägenhet,1945,[Aspudden],2695000,565000,3260000,3347,Fastighetsbyrån,242.84143431730598,Aspudden
+2016-02-25,Husabyvägen 29,Aspudden,Röd Norsborg,2,47,2,Lägenhet,1945,[Aspudden],2675000,595000,3270000,3347,Länsförsäkringar Fastighetsförmedling,242.84143431730598,Aspudden
+2016-02-25,Vallfartsvägen 2,Aspudden,Röd Norsborg,1,26,1,Lägenhet,1939,[Hägersten-Liljeholmen],1795000,485000,2280000,1335,SkandiaMäklarna,141.4165247755145,Aspudden
+2016-02-24,Torsten Alms gata 17,Aspudden,Röd Norsborg,1,48,0,Lägenhet,null,[Aspudden],2395000,525000,2920000,2334,BOSTHLM,457.0843685006277,Ornsberg
+2016-02-23,Hägerstensvägen 171,Aspudden,Röd Norsborg,2,45,2,Lägenhet,1946,[Hägersten],2495000,825000,3320000,2774,Berggren Hörle,236.81498650724518,Ornsberg
+2016-02-20,Vapengatan 5,Aspudden,Röd Norsborg,2,41,1,Lägenhet,1946,[Aspudden],2495000,455000,2950000,2356,HusmanHagberg,274.4968863767978,Aspudden
+2016-02-19,Instrumentvägen 26,Aspudden,Röd Norsborg,3,74,5,Lägenhet,2012,[Hägersten-Liljeholmen],4595000,755000,5350000,3562,Svensk Fastighetsförmedling,295.17730220930537,Ornsberg
+2016-02-19,Hägerstensvägen 207,Aspudden,Röd Norsborg,2,41,2,Lägenhet,1938,[Hägersten],2195000,175000,2370000,3445,Svensk Fastighetsförmedling,185.21282186733504,Ornsberg
+2016-02-17,Hägerstensvägen 211,Aspudden,Röd Norsborg,2,48,1,Lägenhet,1939,[Hägersten-Liljeholmen],2495000,405000,2900000,3193,SkandiaMäklarna,208.94122138202312,Ornsberg
+2016-02-16,Schlytersvägen 3,Aspudden,Röd Norsborg,4,70,null,Villa,null,[Aspudden],5795000,1015000,6810000,null,Notar,338.8858951001599,Aspudden
+2016-02-10,Hövdingagatan 7,Aspudden,Röd Norsborg,2,56,1,Lägenhet,1946,[Aspudden],3095000,205000,3300000,3042,HusmanHagberg,293.5689414597662,Aspudden
+2016-02-10,Manhemsgatan 4,Aspudden,Röd Norsborg,5,131,1,Lägenhet,1912,[Aspudden],8995000,0,8995000,6315,HusmanHagberg,185.5004340820745,Aspudden
+2016-02-10,Pilgrimsvägen 54C,Aspudden,Röd Norsborg,1,24,1,Lägenhet,1939,[Aspudden],1990000,510000,2500000,1565,HusmanHagberg,108.72350558013719,Aspudden
+2016-02-05,Hägerstensvägen 195,Aspudden,Röd Norsborg,2,57,3,Lägenhet,1937,[Örnsberg],2925000,425000,3350000,3493,Fastighetsbyrån,110.10676671172203,Ornsberg
+2016-02-03,Margaretha Krooks gata 4,Aspudden,Röd Norsborg,3,62,2,Lägenhet,2011,[Örnsberg],3695000,575000,4270000,3456,HusmanHagberg,283.41158670979024,Ornsberg
+2016-02-02,Blommensbergsvägen 165,Aspudden,Röd Norsborg,2,57,2,Lägenhet,1949,[Aspudden],3195000,255000,3450000,3379,HusmanHagberg,222.8551851725566,Ornsberg
+2016-01-31,Schlytersvägen 43,Aspudden,Röd Norsborg,2,47,3,Lägenhet,1947,[Hägersten],2795000,535000,3330000,3170,Svensk Fastighetsförmedling,224.8060675296627,Aspudden
+2016-01-30,Hägerstensvägen 118,Aspudden,Röd Norsborg,3,74,3,Lägenhet,null,[Hägersten],5495000,505000,6000000,3917,Svensk Fastighetsförmedling,121.05955001256066,Aspudden
+2016-01-29,Husabyvägen 17,Aspudden,Röd Norsborg,2,45,1,Lägenhet,1941,[Aspudden],2595000,555000,3150000,2551,Fastighetsbyrån,272.5542407728464,Aspudden
+2016-01-28,Ivar Vidfamnes gata 6,Aspudden,Röd Norsborg,2,56,1,Lägenhet,1949,[Örnsberg],2895000,405000,3300000,2623,HusmanHagberg,237.41824829126418,Ornsberg
+2016-01-28,Schlytersvägen 43,Aspudden,Röd Norsborg,2.5,57,2,Lägenhet,1943,[Aspudden],2995000,670000,3665000,3719,Fastighetsbyrån,224.8060675296627,Aspudden
+2016-01-27,Sverkersgatan 6,Aspudden,Röd Norsborg,2,54,1,Lägenhet,1947,[Aspudden],3195000,565000,3760000,2803,Fastighetsbyrån,244.95479341821274,Aspudden
+2016-01-27,Hägerstensvägen 159,Aspudden,Röd Norsborg,2,49.5,null,Lägenhet,1947,[Aspudden],2495000,855000,3350000,2658,Länsförsäkringar Fastighetsförmedling,319.2884174597684,Aspudden
+2016-01-23,Olof Skötkonungs väg 10,Aspudden,Röd Norsborg,1,31,2,Lägenhet,1911,[Aspudden],1995000,955000,2950000,1651,BOSTHLM,131.93448360475,Aspudden
+2016-01-22,Schlytersvägen 71,Aspudden,Röd Norsborg,2.5,75,-1,Lägenhet,1947,[Aspudden],3795000,735000,4530000,4883,HusmanHagberg,147.72312317239926,Aspudden
+2016-01-21,Hägerstensvägen 111,Aspudden,Röd Norsborg,2,48,1,Lägenhet,null,[Aspudden],2595000,415000,3010000,2606,Svenska Mäklarhuset,234.3882770196231,Aspudden
+2016-01-21,Hägerstensvägen 195,Aspudden,Röd Norsborg,1.5,40,2,Lägenhet,1938,[Aspudden],2195000,375000,2570000,2558,HusmanHagberg,110.10676671172203,Ornsberg
+2016-01-21,Schlytersvägen 71,Aspudden,Röd Norsborg,2,58,3,Lägenhet,1947,[Aspudden],2795000,205000,3000000,3776,Fastighetsbyrån,147.72312317239926,Aspudden
+2016-01-21,Sverkersgatan 2,Aspudden,Röd Norsborg,3,69,2,Lägenhet,1947,[Aspudden],3995000,630000,4625000,3993,Fastighetsbyrån,235.34188528662577,Aspudden
+2016-01-20,Hägerstensvägen 150,Aspudden,Röd Norsborg,2,51.5,null,Lägenhet,1945,[Aspudden],2595000,835000,3430000,2723,Fastighetsbyrån,279.1249420953157,Aspudden
+2016-01-20,Hägerstensvägen 115,Aspudden,Röd Norsborg,2,44.5,3,Lägenhet,1939,[Aspudden],2595000,825000,3420000,2840,Fastighetsbyrån,229.2268331535313,Aspudden
+2016-01-15,Vallfartsvägen 2,Aspudden,Röd Norsborg,2,37,3,Lägenhet,1939,[Aspudden],2295000,690000,2985000,2317,HusmanHagberg,141.4165247755145,Aspudden
+2016-01-14,Blommensbergsvägen 180,Aspudden,Röd Norsborg,1.5,44,4,Lägenhet,1948,[Aspudden],2295000,305000,2600000,2886,Fastighetsbyrån,271.76339462768675,Ornsberg
+2016-01-14,Blommensbergsvägen 184,Aspudden,Röd Norsborg,2,55,2,Lägenhet,1948,[Aspudden],3000000,0,3000000,3798,Diplomat Fastighetsmäkleri AB,286.4155335197452,Ornsberg
+2016-01-13,Ivar Vidfamnes gata 8,Aspudden,Röd Norsborg,2,56,3,Lägenhet,1948,[Örnsberg],2895000,15000,2910000,2623,Fastighetsbyrån,249.75686990753957,Ornsberg
+2016-01-12,Vapengatan 13,Aspudden,Röd Norsborg,3,73,4,Lägenhet,1949,[Aspudden],4195000,905000,5100000,4175,Fastighetsbyrån,317.76050784567093,Ornsberg
+2016-01-12,Sigfridsvägen 7,Aspudden,Röd Norsborg,1.5,38,4,Lägenhet,1982,[Aspudden],2295000,855000,3150000,1352,Fastighetsbyrån,136.17763449225845,Aspudden
+2016-01-12,Husabyvägen 41,Aspudden,Röd Norsborg,2,51,1,Lägenhet,1945,[Aspudden],2775000,585000,3360000,3188,Edward & Partners Fastighetsmäklare AB,310.99655375814234,Aspudden
+2016-01-12,Hägerstensvägen 201,Aspudden,Röd Norsborg,2,41,1,Lägenhet,1939,[Örnsberg],2250000,260000,2510000,2670,Fastighetsbyrån,145.54598427977592,Ornsberg
+2015-12-11,Hägerstensvägen 165B,Aspudden,Röd Norsborg,2,50,1,Lägenhet,null,[Aspudden],2575000,375000,2950000,2661,SthlmFast,302.51308801951313,Ornsberg
+2015-12-10,Allan Edwalls gata 2,Aspudden,Röd Norsborg,3,89,2,Lägenhet,null,[Hägersten],4495000,555000,5050000,5089,Svensk Fastighetsförmedling,156.52225770053784,Ornsberg
+2015-12-09,Schlytersvägen 59,Aspudden,Röd Norsborg,2.5,65,1,Lägenhet,1982,[Hägersten],3375000,-125000,3250000,2311,Mäklarhuset,14.397683116191917,Aspudden
+2015-12-09,Hertigvägen 6,Aspudden,Röd Norsborg,4,83,0.5,Lägenhet,1948,[Örnsberg],4150000,750000,4900000,5733,Fastighetsbyrån,199.57700472976205,Ornsberg
+2015-12-09,Lilla Aspuddsvägen 4,Aspudden,Röd Norsborg,2,56.5,1,Lägenhet,1912,[Aspudden],2995000,615000,3610000,2811,HusmanHagberg,98.59686201465985,Aspudden
+2015-12-09,Manhemsgatan 5,Aspudden,Röd Norsborg,2,36.5,1.5,Lägenhet,null,[Aspudden],2930000,0,2930000,2294,BOSTHLM,223.17000081538242,Aspudden
+2015-12-09,Schlytersvägen 59,Aspudden,Röd Norsborg,4,85,4,Lägenhet,1982,[Aspudden],4750000,560000,5310000,3022,Karlsson & Uddare,14.397683116191917,Aspudden
+2015-12-09,Ivar Vidfamnes gata 17,Aspudden,Röd Norsborg,3,69,1.5,Lägenhet,1948,[Hägersten-Liljeholmen],3795000,775000,4570000,3008,SkandiaMäklarna,284.47820602462673,Ornsberg
+2015-12-09,Sverkersgatan 2,Aspudden,Röd Norsborg,2,54,3,Lägenhet,1947,[Hägersten],3345000,65000,3410000,3155,Svensk Fastighetsförmedling,235.34188528662577,Aspudden
+2015-12-08,Styrbjörnsvägen 36,Aspudden,Röd Norsborg,2,50,3,Lägenhet,1948,[Aspudden],2695000,355000,3050000,2419,Fastighetsbyrån,424.5508086170524,Aspudden
+2015-12-05,Hägerstensvägen 201,Aspudden,Röd Norsborg,2,58,1,Lägenhet,1939,[Örnsberg],2995000,5000,3000000,3569,HusmanHagberg,145.54598427977592,Ornsberg
+2015-12-04,Ivar Vidfamnes gata 3,Aspudden,Röd Norsborg,3,60,1,Lägenhet,1948,[Hägersten],3595000,125000,3720000,2717,Svensk Fastighetsförmedling,195.63172213702333,Ornsberg
+2015-12-03,Typografvägen 3,Aspudden,Röd Norsborg,3,80,3,Lägenhet,null,[Örnsberg],3795000,1005000,4800000,4232,Svenska Mäklarhuset,204.3116957279038,Ornsberg
+2015-12-02,Örnsbergsvägen 7,Aspudden,Röd Norsborg,3,88,2,Lägenhet,null,[Hägersten],3895000,645000,4540000,5110,Svensk Fastighetsförmedling,101.14467352285703,Ornsberg
+2015-12-01,Vallfartsvägen 4,Aspudden,Röd Norsborg,2,37,3,Lägenhet,1939,[Aspudden],2495000,255000,2750000,2317,HusmanHagberg,124.72916416333892,Aspudden
+2015-11-30,Olof Skötkonungs väg 2,Aspudden,Röd Norsborg,2,35,1,Lägenhet,1938,[Aspudden],2195000,325000,2520000,2098,Notar,175.17540843114313,Aspudden
+2015-11-30,Husabyvägen 25,Aspudden,Röd Norsborg,2,47,null,Lägenhet,1949,[Aspudden],2695000,255000,2950000,3347,Notar,222.9326186771878,Aspudden
+2015-11-26,Sverkersgatan 6,Aspudden,Röd Norsborg,3,69,5,Lägenhet,1947,[Aspudden],3895000,1335000,5230000,3654,Fastighetsbyrån,244.95479341821274,Aspudden
+2015-11-26,Husabyvägen 19,Aspudden,Röd Norsborg,2,45,1,Lägenhet,1941,[Hägersten],2595000,80000,2675000,2551,Svensk Fastighetsförmedling,259.52582567499843,Aspudden
+2015-11-26,Hägerstensvägen 207,Aspudden,Röd Norsborg,1,23,1,Lägenhet,1938,[Hägersten-Liljeholmen],1695000,395000,2090000,2202,SkandiaMäklarna,185.21282186733504,Ornsberg
+2015-11-26,Hägerstensvägen 166,Aspudden,Röd Norsborg,2,55.5,3,Lägenhet,null,[Aspudden],3195000,0,3195000,3358,HusmanHagberg,244.6562858586462,Ornsberg
+2015-11-26,Styrbjörnsvägen 34,Aspudden,Röd Norsborg,1,41,2,Lägenhet,null,[Aspudden],2520000,0,2520000,2021,BOSTHLM,428.88023864355466,Aspudden
+2015-11-24,Jarl Kulles gata 3,Aspudden,Röd Norsborg,3,72,4,Lägenhet,2011,[Örnsberg],4195000,845000,5040000,4101,HusmanHagberg,272.7979232812765,Ornsberg
+2015-11-21,Hägerstensvägen 151,Aspudden,Röd Norsborg,3,77,3,Lägenhet,1912,[Hägersten],4395000,1005000,5400000,4671,Svensk Fastighetsförmedling,187.33298981048165,Aspudden
+2015-11-20,Husabyvägen 41,Aspudden,Röd Norsborg,2,51,2,Lägenhet,1945,[Aspudden],2650000,300000,2950000,3188,Fastighetsbyrån,310.99655375814234,Aspudden
+2015-11-20,Pilgrimsvägen 54A,Aspudden,Röd Norsborg,2,33.5,2,Lägenhet,null,[Aspudden],2395000,575000,2970000,1912,Svenska Mäklarhuset,139.63382507511326,Aspudden
+2015-11-19,Torsten Alms gata 10,Aspudden,Röd Norsborg,2,55,1,Lägenhet,1948,[Aspudden],2995000,60000,3055000,2442,Notar,481.71825835345226,Aspudden
+2015-11-18,Hägerstensvägen 115,Aspudden,Röd Norsborg,2,44.5,2,Lägenhet,null,[Hägersten],2695000,265000,2960000,2840,Svensk Fastighetsförmedling,229.2268331535313,Aspudden
+2015-11-18,Hägerstensvägen 99B,Aspudden,Röd Norsborg,4,90,4,Lägenhet,2007,[Aspudden],4495000,1005000,5500000,5801,Fastighetsbyrån,355.5928533262186,Aspudden
+2015-11-14,Lilla Aspuddsvägen 2,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1912,[Hägersten],3195000,320000,3515000,2608,Svensk Fastighetsförmedling,112.17234039893629,Aspudden
+2015-11-14,Hägerstensvägen 161B,Aspudden,Röd Norsborg,2,51,2,Lägenhet,1947,[Hägersten],2795000,255000,3050000,2868,Svensk Fastighetsförmedling,343.437917468976,Aspudden
+2015-11-13,Manhemsgatan 1,Aspudden,Röd Norsborg,2.5,57,1,Lägenhet,null,[Hägersten],3550000,0,3550000,2992,Svensk Fastighetsförmedling,249.45380580465294,Aspudden
+2015-11-13,Hägerstensvägen 115,Aspudden,Röd Norsborg,2,44.5,3,Lägenhet,null,[Aspudden],2595000,505000,3100000,2840,Svenska Mäklarhuset,229.2268331535313,Aspudden
+2015-11-12,Sigurd Rings gata 5,Aspudden,Röd Norsborg,2,56,2,Lägenhet,1948,[Aspudden],2995000,655000,3650000,3039,Notar,518.5522821546108,Aspudden
+2015-11-11,Hertigvägen 16,Aspudden,Röd Norsborg,3,70,2,Lägenhet,1948,[Aspudden],4495000,-150000,4345000,4989,HusmanHagberg,169.26146248005995,Ornsberg
+2015-11-07,Hägerstensvägen 97A,Aspudden,Röd Norsborg,5,107,3,Lägenhet,2007,[Aspudden],5695000,0,5695000,6607,HusmanHagberg,423.6987689832687,Aspudden
+2015-11-05,Sigurd Rings gata 6,Aspudden,Röd Norsborg,3,70,1,Lägenhet,1948,[Aspudden],3950000,270000,4220000,4068,HusmanHagberg,477.6980865816027,Aspudden
+2015-11-05,Manhemsgatan 5,Aspudden,Röd Norsborg,2,51,4,Lägenhet,1945,[Aspudden],2995000,555000,3550000,2999,HusmanHagberg,223.17000081538242,Aspudden
+2015-11-02,Pilgrimsvägen 54,Aspudden,Röd Norsborg,2,45,3,Lägenhet,null,[Aspudden],2495000,355000,2850000,2548,Bjurfors,138.88390252194503,Aspudden
+2015-10-30,Hägerstensvägen 163A,Aspudden,Röd Norsborg,3,73,4,Lägenhet,null,[Hägersten],4295000,1455000,5750000,3844,BOSTHLM,337.01949605577397,Ornsberg
+2015-10-30,Hägerstensvägen 131A,Aspudden,Röd Norsborg,1,33,null,Lägenhet,1912,[Precis],1995000,755000,2750000,2220,Fastighetsmäklarna,119.51105260721666,Aspudden
+2015-10-30,Hägerstensvägen 166,Aspudden,Röd Norsborg,2,54.5,3,Lägenhet,1949,[Aspudden],3095000,225000,3320000,3219,HusmanHagberg,244.6562858586462,Ornsberg
+2015-10-29,Typografvägen 8,Aspudden,Röd Norsborg,2,42,2,Lägenhet,1929,[Hägersten],2695000,0,2695000,2422,Svensk Fastighetsförmedling,86.44192723082301,Ornsberg
+2015-10-29,Hägerstensvägen 157B,Aspudden,Röd Norsborg,3,67,2,Lägenhet,null,[Hägersten],4195000,300000,4495000,3723,Svensk Fastighetsförmedling,278.52797039397734,Aspudden
+2015-10-28,Hägerstensvägen 159B,Aspudden,Röd Norsborg,2,52.5,4,Lägenhet,1946,[Aspudden],2995000,625000,3620000,2911,Fastighetsbyrån,304.8529679814018,Aspudden
+2015-10-27,Manhemsgatan 4,Aspudden,Röd Norsborg,3,77,2,Lägenhet,1912,[Hägersten],4795000,1255000,6050000,3905,Svensk Fastighetsförmedling,185.5004340820745,Aspudden
+2015-10-23,Olof Skötkonungs väg 2,Aspudden,Röd Norsborg,1.5,49,1,Lägenhet,1938,[Hägersten],2495000,245000,2740000,2935,Svensk Fastighetsförmedling,175.17540843114313,Aspudden
+2015-10-23,Hägerstensvägen 153,Aspudden,Röd Norsborg,2,45,2,Lägenhet,1912,[Aspudden],2495000,480000,2975000,2863,Fastighetsbyrån,202.72410861086578,Aspudden
+2015-10-21,Typografvägen 1,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1929,[Aspudden],3195000,405000,3600000,2945,Fastighetsmäklarna,190.4903130620857,Ornsberg
+2015-10-21,Hägerstensvägen 211,Aspudden,Röd Norsborg,1,25,2,Lägenhet,1939,[Hägersten-Liljeholmen],1695000,825000,2520000,1740,SkandiaMäklarna,208.94122138202312,Ornsberg
+2015-10-19,Junkergatan 16,Aspudden,Röd Norsborg,1,38,2,Lägenhet,1942,[Aspudden],1995000,655000,2650000,2417,Notar,89.95131701475992,Ornsberg
+2015-10-17,Hägerstensvägen 167,Aspudden,Röd Norsborg,2,44.5,2,Lägenhet,null,[Aspudden],2825000,0,2825000,2691,BOSTHLM,265.5009977284714,Ornsberg
+2015-10-16,Örnsbergsvägen 7,Aspudden,Röd Norsborg,3,81,null,Lägenhet,null,[Örnsberg],3495000,605000,4100000,5458,Fastighetsbyrån,101.14467352285703,Ornsberg
+2015-10-16,Sigurd Rings Gata 10,Aspudden,Röd Norsborg,2,54,3,Lägenhet,1949,[Hägersten],2895000,255000,3150000,3511,Svensk Fastighetsförmedling,549.1892762483441,Aspudden
+2015-10-15,Vapengatan 8,Aspudden,Röd Norsborg,2,44,2,Lägenhet,1946,[Aspudden],2695000,215000,2910000,2523,HusmanHagberg,294.67230217781423,Aspudden
+2015-10-14,Schlytersvägen 43,Aspudden,Röd Norsborg,3,57,1,Lägenhet,1946,[Aspudden],2995000,635000,3630000,3719,Fastighetsbyrån,224.8060675296627,Aspudden
+2015-10-08,Erik Segersälls väg 4,Aspudden,Röd Norsborg,4,121,null,Lägenhet,1982,[Aspudden],6995000,-100000,6895000,4409,Innerstadsspecialisten AB,30.20738678420837,Aspudden
+2015-10-08,Vallfartsvägen 4,Aspudden,Röd Norsborg,1,31.5,0.5,Lägenhet,1948,[Aspudden],1950000,460000,2410000,1795,ERA,124.72916416333892,Aspudden
+2015-10-07,Hägerstensvägen 129,Aspudden,Röd Norsborg,3,71,2,Lägenhet,1912,[Hägersten],4295000,1230000,5525000,4492,Svensk Fastighetsförmedling,124.37782175717113,Aspudden
+2015-10-03,Erik Segersälls väg 1,Aspudden,Röd Norsborg,2,62,1.5,Lägenhet,1910,[Aspudden],3895000,65000,3960000,2455,Bjurfors,56.23639160592388,Aspudden
+2015-10-03,Hägerstensvägen 199,Aspudden,Röd Norsborg,2,58,3,Lägenhet,1939,[Örnsberg],2995000,355000,3350000,3569,HusmanHagberg,130.4440134756444,Ornsberg
+2015-10-01,Hägerstensvägen 97B,Aspudden,Röd Norsborg,4,90,5,Lägenhet,2007,[Aspudden],4495000,640000,5135000,5801,Fastighetsbyrån,400.11234025503734,Aspudden
+2015-10-01,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,2,59,1,Lägenhet,2008,[Örnsberg],2995000,380000,3375000,4304,Fastighetsbyrån,150.31215657786078,Ornsberg
+2015-09-30,Fågeltorget 167,Aspudden,Röd Norsborg,4,88,1,Lägenhet,1949,[Aspudden],5195000,205000,5400000,4715,HusmanHagberg,223.87239827011888,Ornsberg
+2015-09-25,Blommensbergsvägen 153,Aspudden,Röd Norsborg,2,56,4,Lägenhet,1946,[Aspudden],3495000,235000,3730000,2981,HusmanHagberg,326.072222094503,Ornsberg
+2015-09-24,Sigurd Rings Gata 10,Aspudden,Röd Norsborg,2,54,1.5,Lägenhet,1949,[Hägersten],2995000,-45000,2950000,3511,Svensk Fastighetsförmedling,549.1892762483441,Aspudden
+2015-09-24,Lilla Aspuddsvägen 2,Aspudden,Röd Norsborg,1,44,2,Lägenhet,1912,[Hägersten],2795000,185000,2980000,2219,Svensk Fastighetsförmedling,112.17234039893629,Aspudden
+2015-09-24,Erik Segersälls väg 15,Aspudden,Röd Norsborg,2,45,1,Lägenhet,1937,[Aspudden],2595000,415000,3010000,2907,Notar,100.70826111094246,Aspudden
+2015-09-24,Jarl Kulles gata 3,Aspudden,Röd Norsborg,5,116,4,Lägenhet,2011,[Örnsberg],6595000,105000,6700000,5792,HusmanHagberg,272.7979232812765,Ornsberg
+2015-09-23,Jakobsdalsvägen 16,Aspudden,Röd Norsborg,2,55,3,Lägenhet,2013,[Hägersten],3095000,735000,3830000,2831,Svensk Fastighetsförmedling,320.35968730096994,Ornsberg
+2015-09-18,Husabyvägen 17,Aspudden,Röd Norsborg,2,45,1,Lägenhet,1941,[Aspudden],2495000,315000,2810000,2551,Fastighetsbyrån,272.5542407728464,Aspudden
+2015-09-18,Hägerstensvägen 162,Aspudden,Röd Norsborg,2,55,3,Lägenhet,1949,[Hägersten],2995000,315000,3310000,3219,Svensk Fastighetsförmedling,289.9186340224584,Ornsberg
+2015-09-17,Hägerstensvägen 129,Aspudden,Röd Norsborg,2,61,2,Lägenhet,1912,[Hägersten],3895000,505000,4400000,3774,Svensk Fastighetsförmedling,124.37782175717113,Aspudden
+2015-09-10,Manhemsgatan 13,Aspudden,Röd Norsborg,3,56,2,Lägenhet,1946,[Hägersten],3595000,-50000,3545000,3040,Svensk Fastighetsförmedling,201.32557590194412,Aspudden
+2015-09-09,Vapengatan 22,Aspudden,Röd Norsborg,2,45,3.5,Lägenhet,null,[Aspudden],2695000,455000,3150000,2523,BOSTHLM,334.81028860988147,Aspudden
+2015-09-07,Hägerstensvägen 132,Aspudden,Röd Norsborg,2.5,70,2,Lägenhet,1912,[Hägersten],4495000,-95000,4400000,3471,Svensk Fastighetsförmedling,82.03979188574725,Aspudden
+2015-09-05,Styrbjörnsvägen 32,Aspudden,Röd Norsborg,2,52,2,Lägenhet,null,[Aspudden],2795000,130000,2925000,2476,BOSTHLM,434.5123522659821,Aspudden
+2015-09-05,Lilla Aspuddsvägen 6,Aspudden,Röd Norsborg,4,104,2,Lägenhet,1935,[Hägersten],6495000,1155000,7650000,4456,Svensk Fastighetsförmedling,83.92573217498523,Aspudden
+2015-09-03,Typografvägen 6,Aspudden,Röd Norsborg,2,42,3,Lägenhet,1929,[Hägersten],2695000,305000,3000000,2477,Svensk Fastighetsförmedling,117.86283926350768,Ornsberg
+2015-09-03,Botvidsgatan 3,Aspudden,Röd Norsborg,1,38,null,Lägenhet,1912,[Hägersten],2495000,555000,3050000,null,Svensk Fastighetsförmedling,117.36246424921394,Aspudden
+2015-09-02,Hägerstensvägen 193,Aspudden,Röd Norsborg,1,38,3,Lägenhet,1936,[Örnsberg],1995000,835000,2830000,2725,Fastighetsbyrån,131.54271642651904,Ornsberg
+2015-09-02,Vapengatan 7,Aspudden,Röd Norsborg,2,56,4,Lägenhet,1945,[Aspudden],3195000,355000,3550000,3192,HusmanHagberg,290.302116692883,Aspudden
+2015-09-02,Hägerstensvägen 117B,Aspudden,Röd Norsborg,1,33.5,1,Lägenhet,1939,[Aspudden],1950000,760000,2710000,2084,HusmanHagberg,194.75618298331966,Aspudden
+2015-08-27,Typografvägen 3,Aspudden,Röd Norsborg,3,80,2,Lägenhet,1986,[Aspudden],3795000,1028000,4823000,3775,Notar,204.3116957279038,Ornsberg
+2015-08-26,Margaretha Krooks gata 5,Aspudden,Röd Norsborg,4,80,3,Lägenhet,2012,[Hägersten],4795000,930000,5725000,3817,Erik Olsson Fastighetsförmedling,300.7140167584696,Ornsberg
+2015-08-26,Allan Edwalls gata 4,Aspudden,Röd Norsborg,4,101,2,Lägenhet,2009,[Hägersten-Liljeholmen],4995000,430000,5425000,6390,Svensk Fastighetsförmedling,163.63338250179817,Ornsberg
+2015-08-21,Hägerstensvägen 129,Aspudden,Röd Norsborg,3,71,1,Lägenhet,1912,[Aspudden],4195000,0,4195000,4254,Svensk Fastighetsförmedling,124.37782175717113,Aspudden
+2015-08-20,Pilgrimsvägen 54A,Aspudden,Röd Norsborg,1,34,2,Lägenhet,1938,[Hägersten-Liljeholmen],2250000,250000,2500000,1911,Svensk Fastighetsförmedling,139.63382507511326,Aspudden
+2015-08-20,Husabyvägen 23,Aspudden,Röd Norsborg,3,65,1.5,Lägenhet,null,[Hägersten],4170000,0,4170000,4258,BOSTHLM,219.56924988348214,Aspudden
+2015-08-20,Jakobsdalsvägen 18,Aspudden,Röd Norsborg,4,100,3,Lägenhet,2012,[Örnsberg],4750000,1500000,6250000,4674,Fastighetsbyrån,338.37714043680313,Ornsberg
+2015-08-19,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,3,85,2,Lägenhet,2009,[Hägersten-Liljeholmen],4495000,525000,5020000,5573,Svensk Fastighetsförmedling,150.31215657786078,Ornsberg
+2015-08-17,Hägerstensvägen 130,Aspudden,Röd Norsborg,3,63,2,Lägenhet,1912,[Aspudden],4700000,0,4700000,3019,BOSTHLM,80.74762465854354,Aspudden
+2015-08-13,Husabyvägen 10,Aspudden,Röd Norsborg,2,41,0,Lägenhet,1944,[Aspudden],2495000,465000,2960000,2586,HusmanHagberg,313.2334550892523,Aspudden
+2015-08-13,Jarl Kulles gata 1,Aspudden,Röd Norsborg,4,82,5,Lägenhet,2011,[Örnsberg],4795000,865000,5660000,4523,HusmanHagberg,254.6945289370856,Ornsberg
+2015-08-13,Torsten Alms gata 12,Aspudden,Röd Norsborg,3,74,2,Lägenhet,1948,[Aspudden],3795000,1205000,5000000,3875,HusmanHagberg,493.4653232794256,Aspudden
+2015-08-13,Husabyvägen 25,Aspudden,Röd Norsborg,2,47,2,Lägenhet,null,[Aspudden],2495000,655000,3150000,3347,Svenska Mäklarhuset,222.9326186771878,Aspudden
+2015-08-12,Sverkersgatan 2,Aspudden,Röd Norsborg,2,54,4,Lägenhet,1947,[Aspudden],2995000,605000,3600000,3155,Fastighetsbyrån,235.34188528662577,Aspudden
+2015-08-11,Hövdingagatan 31,Aspudden,Röd Norsborg,1,35,1,Lägenhet,1942,[Örnsberg],1995000,615000,2610000,2017,Fastighetsbyrån,151.43092123699387,Ornsberg
+2015-08-07,Hägerstensvägen 197,Aspudden,Röd Norsborg,1,40,2,Lägenhet,1938,[Örnsberg],2500000,0,2500000,2558,BOSTHLM,118.7631960560565,Ornsberg
+2015-08-05,Sigurd Rings gata 5,Aspudden,Röd Norsborg,2,56,2,Lägenhet,1948,[Aspudden],2495000,705000,3200000,3039,Notar,518.5522821546108,Aspudden
+2015-08-05,Vapengatan 20,Aspudden,Röd Norsborg,2,43,1,Lägenhet,1946,[Aspudden],2395000,480000,2875000,2379,Fastighetsbyrån,323.6917239420484,Aspudden
+2015-07-26,Husabyvägen 10,Aspudden,Röd Norsborg,2,29,0,Lägenhet,1944,[Aspudden],2595000,415000,3010000,2428,HusmanHagberg,313.2334550892523,Aspudden
+2015-07-17,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,2,59,1,Lägenhet,2008,[Örnsberg],2695000,290000,2985000,4304,Fastighetsbyrån,150.31215657786078,Ornsberg
+2015-07-10,Hägerstensvägen 111,Aspudden,Röd Norsborg,2,48,2,Lägenhet,null,[Aspudden],2595000,405000,3000000,2899,BOSTHLM,234.3882770196231,Aspudden
+2015-07-07,Hägerstensvägen 99A,Aspudden,Röd Norsborg,2,61,1,Lägenhet,2007,[Aspudden],2895000,575000,3470000,4270,Notar,376.2866274926442,Aspudden
+2015-07-05,Hägerstensvägen 126,Aspudden,Röd Norsborg,1,50,2,Lägenhet,1912,[Badplatser],2895000,235000,3130000,1779,Svensk Fastighetsförmedling,60.64434491520928,Aspudden
+2015-07-04,Ivar Vidfamnes gata 6,Aspudden,Röd Norsborg,2.5,56,1,Lägenhet,1949,[Aspudden],2995000,405000,3400000,2623,HusmanHagberg,237.41824829126418,Ornsberg
+2015-06-27,Manhemsgatan 5,Aspudden,Röd Norsborg,2,51.5,2,Lägenhet,1945,[Aspudden],2995000,105000,3100000,3154,HusmanHagberg,223.17000081538242,Aspudden
+2015-06-26,Hägerstensvägen 122,Aspudden,Röd Norsborg,2,50,3,Lägenhet,1912,[Hägersten-Liljeholmen],2895000,475000,3370000,2740,Svensk Fastighetsförmedling,115.21615911704195,Aspudden
+2015-06-26,Styrbjörnsvägen 40,Aspudden,Röd Norsborg,2,52,2,Lägenhet,1948,[Aspudden],2495000,505000,3000000,2476,Fastighetsbyrån,415.64171545158496,Aspudden
+2015-06-25,Torsten Alms gata 29,Aspudden,Röd Norsborg,1,38,null,Lägenhet,null,[Aspudden],1895000,555000,2450000,2543,BOSTHLM,374.02339590754764,Ornsberg
+2015-06-22,Hövdingagatan 28,Aspudden,Röd Norsborg,3,65,1,Lägenhet,null,[Aspudden],3295000,1135000,4430000,3504,BOSTHLM,189.8319157228814,Ornsberg
+2015-06-18,Sigfridsvägen 17,Aspudden,Röd Norsborg,2,54,3,Lägenhet,1949,[Hägersten-Liljeholmen],3295000,270000,3565000,2724,Svensk Fastighetsförmedling,139.84638021933685,Aspudden
+2015-06-18,Blommenbergsvägen 151,Aspudden,Röd Norsborg,2,56,2.5,Lägenhet,1946,[Aspudden],3150000,250000,3400000,2981,Fastighetsbyrån,337.68229401544704,Ornsberg
+2015-06-18,Margaretha Krooks gata 3,Aspudden,Röd Norsborg,5,115,2,Lägenhet,2012,[Örnsberg],5795000,435000,6230000,5213,HusmanHagberg,283.027221595864,Ornsberg
+2015-06-17,Hägerstensvägen 164,Aspudden,Röd Norsborg,2,55,2,Lägenhet,1949,[Hägersten],2875000,0,2875000,3219,Svensk Fastighetsförmedling,272.01581330001574,Ornsberg
+2015-06-11,Jakobsdalsvägen 14,Aspudden,Röd Norsborg,3,73,5,Lägenhet,2011,[Örnsberg],3995000,675000,4670000,3915,Fastighetsbyrån,284.52024396723186,Ornsberg
+2015-06-11,Sigurd Rings gata 8,Aspudden,Röd Norsborg,3,54,3,Lägenhet,1948,[Aspudden],3190000,40000,3230000,3304,SthlmFast,518.2353512528492,Aspudden
+2015-06-11,Pilgrimsvägen 54A,Aspudden,Röd Norsborg,1.5,36,3,Lägenhet,1940,[Hägersten-Liljeholmen],2345000,65000,2410000,2084,Svensk Fastighetsförmedling,139.63382507511326,Aspudden
+2015-06-10,Schlytersvägen 59,Aspudden,Röd Norsborg,3,70,2,Lägenhet,1982,[Badplatser],4095000,365000,4460000,2490,Svensk Fastighetsförmedling,14.397683116191917,Aspudden
+2015-06-10,Hägerstensvägen 156,Aspudden,Röd Norsborg,2,53,3,Lägenhet,1945,[Badplatser],2995000,125000,3120000,2917,Svensk Fastighetsförmedling,329.8662615614374,Aspudden
+2015-06-10,Vapengatan 5,Aspudden,Röd Norsborg,2,40.5,2,Lägenhet,1945,[Aspudden],2395000,465000,2860000,2501,Fastighetsbyrån,274.4968863767978,Aspudden
+2015-06-10,Pilgrimsvägen 70,Aspudden,Röd Norsborg,2.5,57,2,Lägenhet,1912,[Hägersten-Liljeholmen],3395000,0,3395000,3511,Svensk Fastighetsförmedling,212.77331149853129,Aspudden
+2015-06-10,Margaretha Krooks gata 4,Aspudden,Röd Norsborg,3,61,2,Lägenhet,2011,[Hägersten-Liljeholmen],3195000,895000,4090000,3422,Svensk Fastighetsförmedling,283.41158670979024,Ornsberg
+2015-06-09,Hägerstensvägen 157A,Aspudden,Röd Norsborg,3,61,4,Lägenhet,1946,[Hägersten],3650000,0,3650000,3225,Svensk Fastighetsförmedling,278.6102459975522,Aspudden
+2015-06-09,Margaretha Krooks gata 6,Aspudden,Röd Norsborg,3,75,3,Lägenhet,2011,[Hägersten-Liljeholmen],3995000,830000,4825000,3986,Svensk Fastighetsförmedling,293.9635000048604,Ornsberg
+2015-06-05,Schlytersvägen 43,Aspudden,Röd Norsborg,2,47,1,Lägenhet,1947,[Aspudden],2475000,475000,2950000,3170,Länsförsäkringar Fastighetsförmedling,224.8060675296627,Aspudden
+2015-06-04,Ivar Vidfamnes gata 10,Aspudden,Röd Norsborg,2,56,3,Lägenhet,1948,[Hägersten-Liljeholmen],2650000,320000,2970000,2458,Svensk Fastighetsförmedling,242.57075697628318,Ornsberg
+2015-06-04,Ivar Vidfamnes gata 12,Aspudden,Röd Norsborg,3,67,3,Lägenhet,1948,[Hägersten-Liljeholmen],3600000,190000,3790000,2944,Svensk Fastighetsförmedling,265.4099776912866,Ornsberg
+2015-06-04,Vapengatan 5,Aspudden,Röd Norsborg,2,40.5,3,Lägenhet,1945,[Aspudden],2350000,460000,2810000,2501,HusmanHagberg,274.4968863767978,Aspudden
+2015-06-04,Hägerstensvägen 159B,Aspudden,Röd Norsborg,2,53,null,Lägenhet,1946,[Hägersten],2850000,10000,2860000,null,Svensk Fastighetsförmedling,304.8529679814018,Aspudden
+2015-06-04,Erik Segersälls väg 5,Aspudden,Röd Norsborg,4,100,1,Lägenhet,1984,[Aspudden],4795000,1405000,6200000,4649,Erik Olsson Fastighetsförmedling,30.691545979771842,Aspudden
+2015-06-03,Margaretha Krooks gata 3,Aspudden,Röd Norsborg,2,55,5,Lägenhet,2012,[Hägersten-Liljeholmen],3095000,250000,3345000,2831,Svensk Fastighetsförmedling,283.027221595864,Ornsberg
+2015-06-02,Jakobsdalsvägen 16,Aspudden,Röd Norsborg,4,100,4,Lägenhet,2012,[Aspudden],5195000,475000,5670000,4454,Notar,320.35968730096994,Ornsberg
+2015-06-01,Hägerstensvägen 115,Aspudden,Röd Norsborg,null,45.5,3.5,Lägenhet,1939,[Hägersten-Liljeholmen],2750000,50000,2800000,2995,Hägerstens mäklare,229.2268331535313,Aspudden
+2015-06-01,Husabyvägen 17,Aspudden,Röd Norsborg,2,35,3,Lägenhet,null,[Aspudden],2195000,605000,2800000,1984,Svenska Mäklarhuset,272.5542407728464,Aspudden
+2015-05-29,Jakobsdalsvägen 4,Aspudden,Röd Norsborg,4,101,1,Lägenhet,2009,[Örnsberg],4595000,430000,5025000,6390,HusmanHagberg,109.7971459925369,Ornsberg
+2015-05-29,Hövdingagatan 30,Aspudden,Röd Norsborg,2.5,64,1,Lägenhet,1948,[Hägersten-Liljeholmen],3245000,35000,3280000,3450,Svensk Fastighetsförmedling,191.80173692272066,Ornsberg
+2015-05-28,Sverkersgatan 2,Aspudden,Röd Norsborg,2,54,3,Lägenhet,1947,[Aspudden],2895000,905000,3800000,3155,Fastighetsbyrån,235.34188528662577,Aspudden
+2015-05-28,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1,35,4,Lägenhet,1938,[Hägersten],2295000,115000,2410000,1911,Svensk Fastighetsförmedling,125.55642830423103,Aspudden
+2015-05-28,Jakobsdalsvägen 14,Aspudden,Röd Norsborg,5,110,5,Lägenhet,2011,[Hägersten-Liljeholmen],5695000,530000,6225000,5363,Svensk Fastighetsförmedling,284.52024396723186,Ornsberg
+2015-05-28,Hövdingagatan 5,Aspudden,Röd Norsborg,3,56,2,Lägenhet,1947,[Hägersten],3595000,650000,4245000,3040,Svensk Fastighetsförmedling,261.55065319755727,Aspudden
+2015-05-23,Erik Segersälls väg 15,Aspudden,Röd Norsborg,2,45,1,Lägenhet,1937,[Aspudden],2195000,205000,2400000,2907,Notar,100.70826111094246,Aspudden
+2015-05-23,Jarl Kulles gata 1,Aspudden,Röd Norsborg,2,63,4,Lägenhet,2011,[Aspudden],2795000,730000,3525000,3493,Notar,254.6945289370856,Ornsberg
+2015-05-21,Torsten Alms gata 57,Aspudden,Röd Norsborg,3,60,2,Lägenhet,1948,[Hägersten],3495000,355000,3850000,null,Svensk Fastighetsförmedling,386.4617770075916,Ornsberg
+2015-05-21,Vapengatan 3,Aspudden,Röd Norsborg,3,68,1,Lägenhet,1945,[Badplatser],4295000,-280000,4015000,3525,Svensk Fastighetsförmedling,258.0907272491154,Aspudden
+2015-05-21,Härbärgesvägen 1,Aspudden,Röd Norsborg,3,77,2,Lägenhet,1985,[Badplatser],4395000,955000,5350000,4391,Svensk Fastighetsförmedling,153.2338391455731,Aspudden
+2015-05-21,Hägerstensvägen 229,Aspudden,Röd Norsborg,1,34,null,Lägenhet,2010,[Aspudden],1950000,500000,2450000,1775,Notar,334.7216426314206,Ornsberg
+2015-05-21,Hägerstensvägen 209,Aspudden,Röd Norsborg,1,23,1,Lägenhet,1938,[Aspudden],1595000,435000,2030000,2180,HusmanHagberg,199.35414335600936,Ornsberg
+2015-05-20,Hägerstensvägen 115,Aspudden,Röd Norsborg,2,44.5,2,Lägenhet,1939,[Aspudden],3120000,-10000,3110000,2840,Fastighetsbyrån,229.2268331535313,Aspudden
+2015-05-20,Torsten Alms gata 16,Aspudden,Röd Norsborg,1,40,2,Lägenhet,null,[Aspudden],2095000,320000,2415000,2267,Svenska Mäklarhuset,490.3804656410353,Ornsberg
+2015-05-19,Junkergatan 14,Aspudden,Röd Norsborg,1,31,2,Lägenhet,1942,[Aspudden],1795000,505000,2300000,1969,Södermäklarna,88.79954037850695,Ornsberg
+2015-05-19,Sigfridsvägen 28,Aspudden,Röd Norsborg,3,62,null,Villa,null,[Aspudden],5950000,780000,6730000,null,Svenska Mäklarhuset,321.85298433279183,Aspudden
+2015-05-17,Sigfridsvägen 1,Aspudden,Röd Norsborg,2,38,1,Lägenhet,1912,[Aspudden],2895000,85000,2980000,1964,Svensk Fastighetsförmedling,142.10602666759397,Aspudden
+2015-05-14,Blommensbergsvägen 184,Aspudden,Röd Norsborg,2,55,null,Lägenhet,1948,[Hägersten],2795000,0,2795000,null,Svensk Fastighetsförmedling,286.4155335197452,Ornsberg
+2015-05-14,Erik Segersälls väg 15,Aspudden,Röd Norsborg,3,71,3,Lägenhet,1937,[Badplatser],4095000,705000,4800000,4114,Svensk Fastighetsförmedling,100.70826111094246,Aspudden
+2015-05-14,Ivar Vidfamnes gata 14,Aspudden,Röd Norsborg,3,67,2,Lägenhet,1949,[Aspudden],3695000,525000,4220000,3108,HusmanHagberg,282.126669012833,Ornsberg
+2015-05-13,Torsten Alms gata 10,Aspudden,Röd Norsborg,2,55,3,Lägenhet,1948,[Aspudden],2675000,745000,3420000,2979,Erik Olsson Fastighetsförmedling,481.71825835345226,Aspudden
+2015-05-13,Erik Segersälls väg 1,Aspudden,Röd Norsborg,1,48,3,Lägenhet,1911,[Badplatser],2795000,55000,2850000,2260,Svensk Fastighetsförmedling,56.23639160592388,Aspudden
+2015-05-13,Torsten Alms gata 29,Aspudden,Röd Norsborg,2,59,2,Lägenhet,null,[Aspudden],3350000,0,3350000,3595,BOSTHLM,374.02339590754764,Ornsberg
+2015-05-13,Sigfridsvägen 15,Aspudden,Röd Norsborg,3,64,2,Lägenhet,null,[Aspudden],4600000,0,4600000,3422,BOSTHLM,116.46894566042205,Aspudden
+2015-05-13,Husabyvägen 21,Aspudden,Röd Norsborg,3,65,1,Lägenhet,null,[Aspudden],3495000,375000,3870000,3685,Fastighetsbyrån,249.7196051830729,Aspudden
+2015-05-13,Botvidsgatan 5,Aspudden,Röd Norsborg,3,70,0.5,Lägenhet,1912,[Aspudden],4495000,345000,4840000,3550,Erik Olsson Fastighetsförmedling,138.04284392950683,Aspudden
+2015-05-13,Hägerstensvägen 115,Aspudden,Röd Norsborg,2,44.5,1,Lägenhet,null,[Aspudden],2495000,605000,3100000,2665,Svenska Mäklarhuset,229.2268331535313,Aspudden
+2015-05-13,Husabyvägen 10,Aspudden,Röd Norsborg,3,57,null,Lägenhet,1944,[Hägersten],2695000,505000,3200000,null,Svensk Fastighetsförmedling,313.2334550892523,Aspudden
+2015-05-13,Jakobsdalsvägen 18,Aspudden,Röd Norsborg,4,102,2,Lägenhet,2012,[Aspudden],null,NaN,5855000,4516,SkandiaMäklarna,338.37714043680313,Ornsberg
+2015-05-13,Styrbjörnsvägen 40,Aspudden,Röd Norsborg,3,63,3,Lägenhet,1948,[Aspudden],4070000,30000,4100000,2894,BOSTHLM,415.64171545158496,Aspudden
+2015-05-12,Erik Segersälls väg 17,Aspudden,Röd Norsborg,2,55,3,Lägenhet,1911,[Aspudden],3350000,150000,3500000,2930,Svensk Fastighetsförmedling,124.7064972125662,Aspudden
+2015-05-12,Hägerstensvägen 120,Aspudden,Röd Norsborg,4,93,4,Lägenhet,1912,[Aspudden],5995000,1005000,7000000,5098,Svensk Fastighetsförmedling,120.10110272291409,Aspudden
+2015-05-12,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1,33.5,3,Lägenhet,1939,[Aspudden],2500000,0,2500000,1912,BOSTHLM,125.55642830423103,Aspudden
+2015-05-12,Pilgrimsvägen 54C,Aspudden,Röd Norsborg,1,26.5,2,Lägenhet,1939,[Aspudden],1695000,365000,2060000,1683,Erik Olsson Fastighetsförmedling,108.72350558013719,Aspudden
+2015-05-08,Hägerstensvägen 142,Aspudden,Röd Norsborg,3,67,3,Lägenhet,1912,[Badplatser],4950000,530000,5480000,3398,Svensk Fastighetsförmedling,180.61060435241015,Aspudden
+2015-05-08,Schlytersvägen 52,Aspudden,Röd Norsborg,3,84,4,Lägenhet,2009,[Aspudden],4995000,1255000,6250000,3114,Bjurfors,57.78362406705948,Aspudden
+2015-05-07,Typografvägen 2,Aspudden,Röd Norsborg,1.5,42,2,Lägenhet,null,[Aspudden],2495000,0,2495000,2513,Fastighetsbyrån,176.014429966176,Ornsberg
+2015-05-01,Erik Segersälls väg 17,Aspudden,Röd Norsborg,2,66,2,Lägenhet,1911,[Hägersten],3795000,535000,4330000,null,Svensk Fastighetsförmedling,124.7064972125662,Aspudden
+2015-05-01,Margaretha Krooks gata 5,Aspudden,Röd Norsborg,2,54,null,Lägenhet,2013,[Hägersten],2995000,225000,3220000,null,Svensk Fastighetsförmedling,300.7140167584696,Ornsberg
+2015-04-30,Jakobsdalsvägen 14,Aspudden,Röd Norsborg,4,81,4,Lägenhet,2011,[Örnsberg],4295000,525000,4820000,4489,HusmanHagberg,284.52024396723186,Ornsberg
+2015-04-30,Margaretha Krooks gata 4,Aspudden,Röd Norsborg,3,70,4,Lägenhet,2012,[Örnsberg],3495000,1005000,4500000,3810,Fastighetsbyrån,283.41158670979024,Ornsberg
+2015-04-29,Hägerstensvägen 148,Aspudden,Röd Norsborg,2,51.5,1,Lägenhet,1945,[Aspudden],2595000,605000,3200000,2802,Svenska Mäklarhuset,269.9995589986896,Aspudden
+2015-04-29,Margaretha Krooks gata 3,Aspudden,Röd Norsborg,5,115,3,Lägenhet,2012,[Örnsberg],5495000,805000,6300000,5213,HusmanHagberg,283.027221595864,Ornsberg
+2015-04-28,Hägerstensvägen 161B,Aspudden,Röd Norsborg,2,53,1,Lägenhet,1946,[Badplatser],3095000,505000,3600000,2801,Svensk Fastighetsförmedling,343.437917468976,Aspudden
+2015-04-27,Hägerstensvägen 97A,Aspudden,Röd Norsborg,4,84,4,Lägenhet,2007,[Badplatser],3995000,580000,4575000,5398,Svensk Fastighetsförmedling,423.6987689832687,Aspudden
+2015-04-24,Hägerstensvägen 207,Aspudden,Röd Norsborg,1,30,3,Lägenhet,1938,[Aspudden],1795000,505000,2300000,2573,Notar,185.21282186733504,Ornsberg
+2015-04-24,Hägerstensvägen 138,Aspudden,Röd Norsborg,5,101,null,Lägenhet,1912,[Badplatser],6295000,1555000,7850000,4477,Svensk Fastighetsförmedling,138.5665765475313,Aspudden
+2015-04-23,Sigfridsvägen 7,Aspudden,Röd Norsborg,4,83,3,Lägenhet,1980,[Hägersten],4595000,705000,5300000,2950,Svensk Fastighetsförmedling,136.17763449225845,Aspudden
+2015-04-23,Vapengatan 14,Aspudden,Röd Norsborg,2,44,2,Lägenhet,1946,[Badplatser],2545000,520000,3065000,2523,Svensk Fastighetsförmedling,221.37138540504702,Aspudden
+2015-04-23,Hägerstensvägen 142,Aspudden,Röd Norsborg,3,65,4,Lägenhet,1912,[Badplatser],4195000,1215000,5410000,3297,Svensk Fastighetsförmedling,180.61060435241015,Aspudden
+2015-04-23,Sigfridsvägen 9,Aspudden,Röd Norsborg,3,60,4,Lägenhet,1982,[Aspudden],3395000,525000,3920000,2133,Fastighetsbyrån,110.16589486227949,Aspudden
+2015-04-23,Blommensbergsvägen 165,Aspudden,Röd Norsborg,2,57,4,Lägenhet,1947,[Aspudden],2895000,325000,3220000,3379,Fastighetsbyrån,222.8551851725566,Ornsberg
+2015-04-23,Vapengatan 11,Aspudden,Röd Norsborg,3,70,3,Lägenhet,1945,[Aspudden],4095000,705000,4800000,3794,HusmanHagberg,315.3785958315794,Aspudden
+2015-04-20,Fregattvägen 52,Aspudden,Röd Norsborg,3,70,3,Lägenhet,1946,[Gröndal],2895000,405000,3300000,4760,Notar,816.1334717923139,Aspudden
+2015-04-18,Junkergatan 14,Aspudden,Röd Norsborg,3,78,null,Lägenhet,1942,[Hägersten],3595000,0,3595000,null,Svensk Fastighetsförmedling,88.79954037850695,Ornsberg
+2015-04-17,Pilgrimsvägen 54A,Aspudden,Röd Norsborg,2,47,3,Lägenhet,1940,[Aspudden],2895000,135000,3030000,2726,Svensk Fastighetsförmedling,139.63382507511326,Aspudden
+2015-04-17,Schlytersvägen 45,Aspudden,Röd Norsborg,2,52,null,Lägenhet,1947,[Hägersten],2495000,605000,3100000,3364,Länsförsäkringar Fastighetsförmedling,181.86565324863167,Aspudden
+2015-04-16,Sverkergatan 6,Aspudden,Röd Norsborg,2,54,1,Lägenhet,1947,[Aspudden],2795000,605000,3400000,2803,Fastighetsbyrån,244.95161577479874,Aspudden
+2015-04-16,Hägerstensvägen 209,Aspudden,Röd Norsborg,1,30,1,Lägenhet,1938,[Örnsberg],1750000,470000,2220000,2573,HusmanHagberg,199.35414335600936,Ornsberg
+2015-04-16,Schlytersvägen 41,Aspudden,Röd Norsborg,3,64,3,Lägenhet,1947,[Aspudden],null,NaN,4545000,3989,SkandiaMäklarna,245.65010193426014,Aspudden
+2015-04-15,Sigfridsvägen 13,Aspudden,Röd Norsborg,2,54,1,Lägenhet,1949,[Aspudden],2595000,705000,3300000,3185,Fastighetsbyrån,120.19554506627658,Aspudden
+2015-04-14,Hägerstensvägen 117A,Aspudden,Röd Norsborg,2,44.5,2,Lägenhet,1939,[Aspudden],2495000,415000,2910000,2840,Fastighetsbyrån,220.69533670055276,Aspudden
+2015-04-09,Torsten Alms gata 9,Aspudden,Röd Norsborg,1,38,null,Lägenhet,null,[Aspudden],1995000,665000,2660000,1931,BOSTHLM,451.3979454255512,Aspudden
+2015-04-07,Hägerstensvägen 152,Aspudden,Röd Norsborg,2,56,3,Lägenhet,1945,[Aspudden],2995000,555000,3550000,2970,Erik Olsson Fastighetsförmedling,301.0325243029797,Aspudden
+2015-04-07,Hägerstensvägen 213,Aspudden,Röd Norsborg,2,50,1,Lägenhet,1937,[Örnsberg],2395000,55000,2450000,2905,HusmanHagberg,231.27962141254758,Ornsberg
+2015-04-01,Vapengatan 15,Aspudden,Röd Norsborg,3,73,4,Lägenhet,1949,[Aspudden],4150000,600000,4750000,4177,Fastighetsmäklarna,323.1727894552403,Ornsberg
+2015-03-30,Härbärgesvägen 1,Aspudden,Röd Norsborg,2,55,3,Lägenhet,1985,[Aspudden],2450000,1250000,3700000,3090,Erik Olsson Fastighetsförmedling,153.2338391455731,Aspudden
+2015-03-28,Hägerstensvägen 99B,Aspudden,Röd Norsborg,2,45.5,1,Lägenhet,2007,[Aspudden],2395000,155000,2550000,3425,Mäklarringen,355.5928533262186,Aspudden
+2015-03-26,Manhemsgatan 13,Aspudden,Röd Norsborg,2.5,56,4,Lägenhet,1946,[Aspudden],3195000,405000,3600000,3040,HusmanHagberg,201.32557590194412,Aspudden
+2015-03-25,Sigfridsvägen 1,Aspudden,Röd Norsborg,2,55,4,Lägenhet,1912,[Hägersten],2995000,365000,3360000,2904,Svensk Fastighetsförmedling,142.10602666759397,Aspudden
+2015-03-25,Husabyvägen 19,Aspudden,Röd Norsborg,2,45,3,Lägenhet,null,[Aspudden],2495000,620000,3115000,2551,Fastighetsbyrån,259.52582567499843,Aspudden
+2015-03-23,Schlytersvägen 71,Aspudden,Röd Norsborg,2,64,4,Lägenhet,1947,[Aspudden],2995000,140000,3135000,5078,Fastighetsbyrån,147.72312317239926,Aspudden
+2015-03-19,Sigfridsvägen 17,Aspudden,Röd Norsborg,2,54,3,Lägenhet,1949,[Aspudden],2995000,580000,3575000,2724,SkandiaMäklarna,139.84638021933685,Aspudden
+2015-03-19,Hägerstensvägen 157A,Aspudden,Röd Norsborg,3,61,2,Lägenhet,1946,[Badplatser],3595000,560000,4155000,3225,Svensk Fastighetsförmedling,278.6102459975522,Aspudden
+2015-03-19,Torsten Alms gata 15,Aspudden,Röd Norsborg,2,59,null,Lägenhet,1949,[Hägersten],2795000,355000,3150000,null,Svensk Fastighetsförmedling,469.14990958818845,Ornsberg
+2015-03-19,Sigfridsvägen 7,Aspudden,Röd Norsborg,2,60,4,Lägenhet,1982,[Aspudden],3195000,730000,3925000,2133,Fastighetsbyrån,136.17763449225845,Aspudden
+2015-03-18,Schlytersvägen 43,Aspudden,Röd Norsborg,3,69,1,Lägenhet,1947,[Aspudden],4210000,0,4210000,4311,BOSTHLM,224.8060675296627,Aspudden
+2015-03-18,Manhemsgatan 1,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1946,[Badplatser],3195000,655000,3850000,3020,Svensk Fastighetsförmedling,249.45380580465294,Aspudden
+2015-03-14,Hägerstensvägen 97A,Aspudden,Röd Norsborg,1,37.5,5,Lägenhet,2007,[Aspudden],1995000,225000,2220000,2779,Erik Olsson Fastighetsförmedling,423.6987689832687,Aspudden
+2015-03-13,Margaretha Krooks gata 4,Aspudden,Röd Norsborg,3,73,4,Lägenhet,2011,[Örnsberg],3390000,1010000,4400000,3915,HusmanHagberg,283.41158670979024,Ornsberg
+2015-03-12,Hägerstensvägen 97B,Aspudden,Röd Norsborg,3,73.5,2,Lägenhet,2007,[Aspudden],3495000,405000,3900000,4955,HusmanHagberg,400.11234025503734,Aspudden
+2015-03-12,Hägerstensvägen 136,Aspudden,Röd Norsborg,1.5,33,3,Lägenhet,1912,[Hägersten],2395000,465000,2860000,null,Svensk Fastighetsförmedling,107.50065819968293,Aspudden
+2015-03-11,Ivar Vidfamnes gata 14,Aspudden,Röd Norsborg,3,67,2,Lägenhet,1947,[Aspudden],3495000,555000,4050000,2944,Notar,282.126669012833,Ornsberg
+2015-03-10,Hägerstensvägen 171,Aspudden,Röd Norsborg,2,44.5,4,Lägenhet,1946,[Aspudden],2395000,355000,2750000,2735,Svenska Mäklarhuset,236.81498650724518,Ornsberg
+2015-03-06,Husabyvägen 25,Aspudden,Röd Norsborg,2,47,1,Lägenhet,1945,[Aspudden],2495000,230000,2725000,3347,Magnusson Mäkleri,222.9326186771878,Aspudden
+2015-03-04,Hövdingagatan 3,Aspudden,Röd Norsborg,2.5,56,4,Lägenhet,1946,[Aspudden],3100000,450000,3550000,3040,HusmanHagberg,227.81638414182072,Aspudden
+2015-03-04,Vallfartsvägen 6,Aspudden,Röd Norsborg,1,27,1,Lägenhet,1939,[Aspudden],1795000,615000,2410000,1563,Svenska Mäklarhuset,114.473478537541,Aspudden
+2015-03-04,Typografvägen 1,Aspudden,Röd Norsborg,2,47,2,Lägenhet,1929,[Aspudden],2475000,425000,2900000,2634,Fastighetsmäklarna,190.4903130620857,Ornsberg
+2015-03-04,Hägerstensvägen 209,Aspudden,Röd Norsborg,1,23,2,Lägenhet,1938,[Aspudden],1475000,375000,1850000,2180,Notar,199.35414335600936,Ornsberg
+2015-03-04,Sverkersgatan 6,Aspudden,Röd Norsborg,3,69,2,Lägenhet,1947,[Aspudden],2995000,935000,3930000,3581,Länsförsäkringar Fastighetsförmedling,244.95479341821274,Aspudden
+2015-03-04,Schlytersvägen 41,Aspudden,Röd Norsborg,3,64,1,Lägenhet,1947,[Aspudden],3495000,915000,4410000,3989,SkandiaMäklarna,245.65010193426014,Aspudden
+2015-03-04,Manhemsgatan 11,Aspudden,Röd Norsborg,2.5,56,4,Lägenhet,1946,[Aspudden],3100000,700000,3800000,3040,SkandiaMäklarna,207.24319059648195,Aspudden
+2015-03-03,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1,34,3,Lägenhet,1938,[Hägersten],1995000,435000,2430000,1856,Svensk Fastighetsförmedling,125.55642830423103,Aspudden
+2015-03-03,Blommensbergsvägen 180,Aspudden,Röd Norsborg,2,44,3,Lägenhet,1948,[Aspudden],2350000,500000,2850000,3193,Edward & Partners Fastighetsmäklare AB,271.76339462768675,Ornsberg
+2015-02-26,Adress saknas,Aspudden,Röd Norsborg,2,57,2,Lägenhet,1949,[Aspudden],2690000,60000,2750000,2830,Ansvar Fastighetsförmedling,460.0049375814086,Ornsberg
+2015-02-26,Blommensbergsvägen 130,Aspudden,Röd Norsborg,2,57,5,Lägenhet,2003,[Hägersten],2695000,485000,3180000,4083,Svensk Fastighetsförmedling,453.35519382438144,Aspudden
+2015-02-26,Manhemsgatan 1,Aspudden,Röd Norsborg,2.5,59,2,Lägenhet,1946,[Badplatser],3295000,455000,3750000,3241,Svensk Fastighetsförmedling,249.45380580465294,Aspudden
+2015-02-18,Manhemsgatan 1,Aspudden,Röd Norsborg,2.5,58.5,3,Lägenhet,1946,[Aspudden],2975000,1075000,4050000,3241,Erik Olsson Fastighetsförmedling,249.45380580465294,Aspudden
+2015-02-15,Jakobsdalsvägen 14,Aspudden,Röd Norsborg,4,81,3,Lägenhet,2012,[Aspudden],3995000,605000,4600000,4269,BOSTHLM,284.52024396723186,Ornsberg
+2015-02-12,Husabyvägen 23,Aspudden,Röd Norsborg,3,65,1,Lägenhet,1945,[Hägersten],2995000,0,2995000,4258,Svensk Fastighetsförmedling,219.56924988348214,Aspudden
+2015-02-11,Instrumentvägen 35,Aspudden,Röd Norsborg,4,95,1,Lägenhet,1995,[Hägersten],3795000,405000,4200000,5643,Svensk Fastighetsförmedling,405.40940514817424,Ornsberg
+2015-02-06,Hövdingagatan 3A,Aspudden,Röd Norsborg,2,56,3,Lägenhet,1946,[Aspudden],2795000,385000,3180000,3040,HusmanHagberg,244.35022384313456,Aspudden
+2015-02-04,Manhemsgatan 1,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1946,[Hägersten],2895000,515000,3410000,3020,Svensk Fastighetsförmedling,249.45380580465294,Aspudden
+2015-02-04,Torsten Alms gata 16,Aspudden,Röd Norsborg,4,85,3,Lägenhet,1948,[Hägersten],4495000,835000,5330000,4309,Svensk Fastighetsförmedling,490.3804656410353,Ornsberg
+2015-01-31,Vapengatan 19,Aspudden,Röd Norsborg,2,53,3,Lägenhet,1949,[Aspudden],2750000,575000,3325000,3246,BOSTHLM,293.93911757936166,Ornsberg
+2015-01-28,Alvastravägen 7,Aspudden,Röd Norsborg,3,64,null,Villa,1938,[Hägersten],5795000,5000,5800000,null,Svensk Fastighetsförmedling,414.8919463999145,Aspudden
+2015-01-23,Blommensbergsvägen 186,Aspudden,Röd Norsborg,null,null,2,Lägenhet,1948,[Aspudden],2650000,150000,2800000,4006,Södermäklarna,283.06477050202403,Ornsberg
+2015-01-23,Hövdingagatan 40,Aspudden,Röd Norsborg,2.5,71,null,Lägenhet,1949,[Hägersten],2995000,425000,3420000,3828,Svensk Fastighetsförmedling,181.15973678590805,Ornsberg
+2015-01-22,Hägerstensvägen 113,Aspudden,Röd Norsborg,1,33.5,1,Lägenhet,1939,[Aspudden],1895000,565000,2460000,2084,Fastighetsbyrån,168.7757054759498,Aspudden
+2015-01-22,Hägerstensvägen 164,Aspudden,Röd Norsborg,2,54.5,4,Lägenhet,1949,[Aspudden],2695000,275000,2970000,3219,HusmanHagberg,272.01581330001574,Ornsberg
+2015-01-17,Härbärgesvägen 2,Aspudden,Röd Norsborg,3,82,1,Lägenhet,1912,[Aspudden],4400000,850000,5250000,4705,Karlsson & Uddare,138.89273153236866,Aspudden
+2015-01-15,Olof Skötkonungs väg 4,Aspudden,Röd Norsborg,2,51,3,Lägenhet,1947,[Aspudden],2795000,355000,3150000,3320,HusmanHagberg,162.55161412881446,Aspudden
+2015-01-15,Nybohovsbacken 103,Aspudden,Röd Norsborg,5,105,2,Lägenhet,1962,[Liljeholmen],3495000,185000,3680000,4516,MäklarMäster,494.9907525385257,Aspudden
+2015-01-15,Erik Segersälls väg 7,Aspudden,Röd Norsborg,2,44,2,Lägenhet,1933,[Aspudden],2495000,535000,3030000,2118,Fastighetsbyrån,24.513903541841163,Aspudden
+2015-01-14,Hägerstensvägen 229,Aspudden,Röd Norsborg,1,34,3,Lägenhet,2010,[Aspudden],1795000,380000,2175000,1775,Notar,334.7216426314206,Ornsberg
+2015-01-09,Jarl Kulles gata 3,Aspudden,Röd Norsborg,3,72,5,Lägenhet,2012,[Aspudden],3495000,855000,4350000,3881,BOSTHLM,272.7979232812765,Ornsberg
+2015-01-08,Schlytersvägen 64,Aspudden,Röd Norsborg,1,25,0.5,Lägenhet,1938,[Hägersten],1495000,665000,2160000,1685,Erik Olsson Fastighetsförmedling,100.86918811328512,Aspudden
+2014-12-18,Hägerstensvägen 165A,Aspudden,Röd Norsborg,3,60.5,1,Lägenhet,1946,[Aspudden],2995000,475000,3470000,2840,Notar,295.33307881106697,Ornsberg
+2014-12-18,Hägerstensvägen 166,Aspudden,Röd Norsborg,2,54.5,3,Lägenhet,1949,[Aspudden],2745000,155000,2900000,3171,Svensk Fastighetsförmedling,244.6562858586462,Ornsberg
+2014-12-15,Sigurd Rings gata 8,Aspudden,Röd Norsborg,5,109,null,Lägenhet,1948,[Aspudden],4995000,555000,5550000,6258,Svenska Mäklarhuset,518.2353512528492,Aspudden
+2014-12-15,Blommensbergsvägen 149,Aspudden,Röd Norsborg,2,56,3,Lägenhet,1946,[Aspudden],2795000,355000,3150000,3040,HusmanHagberg,345.6894461884888,Ornsberg
+2014-12-15,Hägerstensvägen 161A,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1946,[Aspudden],2695000,105000,2800000,3145,HusmanHagberg,343.52748181807516,Aspudden
+2014-12-12,Blommensbergsvägen 180,Aspudden,Röd Norsborg,2,54,4,Lägenhet,null,[Aspudden],2395000,0,2395000,3730,Svensk Fastighetsförmedling,271.76339462768675,Ornsberg
+2014-12-12,Sigurd Rings gata 12,Aspudden,Röd Norsborg,2,53,2,Lägenhet,null,[Aspudden],2495000,130000,2625000,3206,Svensk Fastighetsförmedling,534.5380914465279,Ornsberg
+2014-12-11,Hägerstensvägen 137,Aspudden,Röd Norsborg,2,43,3,Lägenhet,1940,[Aspudden],2295000,335000,2630000,2433,HusmanHagberg,124.56411903330986,Aspudden
+2014-12-10,Husabyvägen 17,Aspudden,Röd Norsborg,2,35,2,Villa,1945,[Hägersten],2195000,235000,2430000,null,Mäklarhuset,272.5542407728464,Aspudden
+2014-12-10,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1,33.5,1,Lägenhet,1939,[Aspudden],1995000,175000,2170000,1912,Erik Olsson Fastighetsförmedling,125.55642830423103,Aspudden
+2014-12-08,Torsten Alms gata 14,Aspudden,Röd Norsborg,1,40,3,Lägenhet,1948,[Aspudden],1995000,55000,2050000,2267,Svensk Fastighetsförmedling,501.5781939975431,Ornsberg
+2014-12-03,Vapengatan 12,Aspudden,Röd Norsborg,2,44,3,Lägenhet,1946,[Aspudden],2195000,475000,2670000,2451,Länsförsäkringar Fastighetsförmedling,282.021680782703,Aspudden
+2014-12-03,Hägerstensvägen 209,Aspudden,Röd Norsborg,1,30,3,Lägenhet,null,[Örnsberg],1695000,280000,1975000,2572,Fastighetsbyrån,199.35414335600936,Ornsberg
+2014-12-03,Hägerstensvägen 105,Aspudden,Röd Norsborg,1,31,3,Lägenhet,1912,[Aspudden],1995000,425000,2420000,1592,Erik Olsson Fastighetsförmedling,281.58518513966914,Aspudden
+2014-12-03,Hägerstensvägen 141,Aspudden,Röd Norsborg,2,42,1,Lägenhet,1938,[Aspudden],2195000,305000,2500000,2376,Erik Olsson Fastighetsförmedling,122.34004756178997,Aspudden
+2014-11-30,Blommensbergsvägen 103,Aspudden,Röd Norsborg,1,43,2,Lägenhet,1965,[Aspudden],1895000,115000,2010000,1730,Svensk Fastighetsförmedling,461.8271169479553,Aspudden
+2014-11-30,Manhemsgatan 7,Aspudden,Röd Norsborg,1,35,2,Lägenhet,1945,[Aspudden],1945000,55000,2000000,2060,Svensk Fastighetsförmedling,211.53672641653614,Aspudden
+2014-11-28,Ivar Vidfamnes gata 2,Aspudden,Röd Norsborg,3,68,3,Lägenhet,1947,[Hägersten],3650000,0,3650000,2933,Mäklarhuset,224.3864047206008,Ornsberg
+2014-11-28,Torsten Alms gata 7,Aspudden,Röd Norsborg,2,59,2,Lägenhet,1948,[Aspudden],2795000,305000,3100000,2830,HusmanHagberg,440.6538548838005,Aspudden
+2014-11-28,Hägerstensvägen 193,Aspudden,Röd Norsborg,1,38,2,Lägenhet,1936,[Aspudden],1795000,425000,2220000,2645,Notar,131.54271642651904,Ornsberg
+2014-11-27,Hövdingagatan 3,Aspudden,Röd Norsborg,2,56,2,Lägenhet,1946,[Aspudden],2995000,30000,3025000,3040,HusmanHagberg,227.81638414182072,Aspudden
+2014-11-27,Hägerstensvägen 131B,Aspudden,Röd Norsborg,4,103,2,Lägenhet,1912,[Aspudden],5095000,1365000,6460000,5229,Svensk Fastighetsförmedling,140.39884465052344,Aspudden
+2014-11-26,Hövdingagatan 32,Aspudden,Röd Norsborg,3,64,1,Lägenhet,1949,[Aspudden],3350000,0,3350000,3450,Hägerstens mäklare,188.61558095443402,Ornsberg
+2014-11-26,Jarl Kulles gata 3,Aspudden,Röd Norsborg,4,82,3,Lägenhet,2011,[Örnsberg],4295000,535000,4830000,4303,Fastighetsbyrån,272.7979232812765,Ornsberg
+2014-11-22,Vapengatan 8,Aspudden,Röd Norsborg,1,44,4,Lägenhet,1945,[Aspudden],2395000,405000,2800000,2523,Fastighetsbyrån,294.67230217781423,Aspudden
+2014-11-22,Vapengatan 9,Aspudden,Röd Norsborg,2,52.5,3,Lägenhet,1943,[Aspudden],3150000,0,3150000,3095,BOSTHLM,297.05958811904975,Aspudden
+2014-11-21,Hägerstensvägen 124,Aspudden,Röd Norsborg,4.5,130,4,Lägenhet,1912,[Aspudden],6495000,1970000,8465000,4626,Svensk Fastighetsförmedling,59.8190401006662,Aspudden
+2014-11-21,Hägerstensvägen 229,Aspudden,Röd Norsborg,3,70,2,Lägenhet,2010,[Örnsberg],2895000,305000,3200000,3654,HusmanHagberg,334.7216426314206,Ornsberg
+2014-11-20,Sigurd Rings Gata 10,Aspudden,Röd Norsborg,2,54,4,Lägenhet,1949,[Aspudden],2495000,330000,2825000,3266,HusmanHagberg,549.1892762483441,Aspudden
+2014-11-19,Manhemsgatan 15,Aspudden,Röd Norsborg,3,67.5,3,Lägenhet,null,[Aspudden],3495000,115000,3610000,3415,Fastighetsbyrån,201.84023918933423,Aspudden
+2014-11-19,Blommensbergsvägen 151,Aspudden,Röd Norsborg,2.5,56,3,Lägenhet,1946,[Aspudden],2650000,450000,3100000,2981,HusmanHagberg,335.46236539074545,Ornsberg
+2014-11-15,Hägerstensvägen 107,Aspudden,Röd Norsborg,3,77,null,Lägenhet,null,[Aspudden],4195000,880000,5075000,3831,Fastighetsbyrån,265.0651116481398,Aspudden
+2014-11-13,Olof Skötkonungs väg 10,Aspudden,Röd Norsborg,2,47,3,Lägenhet,1911,[Aspudden],2495000,205000,2700000,2776,BOSTHLM,131.93448360475,Aspudden
+2014-11-13,Fågeltorget 169,Aspudden,Röd Norsborg,3,68,2,Lägenhet,1949,[Aspudden],3550000,270000,3820000,3787,HusmanHagberg,225.68992849646904,Ornsberg
+2014-11-13,Jarl Kulles gata 1,Aspudden,Röd Norsborg,4,82,2,Lägenhet,2011,[Örnsberg],3995000,805000,4800000,4303,HusmanHagberg,254.6945289370856,Ornsberg
+2014-11-13,Ivar Vidfamnes gata 8,Aspudden,Röd Norsborg,2,56,1,Lägenhet,1949,[Aspudden],2750000,75000,2825000,2452,HusmanHagberg,249.75686990753957,Ornsberg
+2014-11-11,Hägerstensvägen 157,Aspudden,Röd Norsborg,2,50.5,1,Lägenhet,null,[Aspudden],2345000,295000,2640000,2651,Svensk Fastighetsförmedling,283.994388378569,Aspudden
+2014-11-06,Margaretha Krooks gata 4,Aspudden,Röd Norsborg,2,49,5,Lägenhet,2010,[Örnsberg],2195000,415000,2610000,2930,Svenska Mäklarhuset,283.41158670979024,Ornsberg
+2014-11-06,Styrbjörnsvägen 28,Aspudden,Röd Norsborg,2,52,3,Lägenhet,1948,[Aspudden],2450000,130000,2580000,2476,HusmanHagberg,407.2809130289674,Aspudden
+2014-11-06,Husabyvägen 39,Aspudden,Röd Norsborg,3,69,3,Lägenhet,1945,[Aspudden],3495000,0,3495000,4217,HusmanHagberg,303.037144654765,Aspudden
+2014-11-06,Hövdingagatan 1,Aspudden,Röd Norsborg,3,56,1,Lägenhet,null,[Aspudden],2995000,235000,3230000,2981,Svensk Fastighetsförmedling,214.16176538611992,Aspudden
+2014-11-06,Blommensbergsvägen 151,Aspudden,Röd Norsborg,3,56,2,Lägenhet,1946,[Aspudden],2995000,180000,3175000,3040,SkandiaMäklarna,335.46236539074545,Ornsberg
+2014-11-05,Hövdingagatan 5,Aspudden,Röd Norsborg,2,56,3,Lägenhet,null,[Aspudden],2845000,335000,3180000,3040,Svensk Fastighetsförmedling,261.55065319755727,Aspudden
+2014-11-01,Hertigvägen 18,Aspudden,Röd Norsborg,1.5,42,2,Lägenhet,null,[Aspudden],2145000,-45000,2100000,2901,Svensk Fastighetsförmedling,171.58058085341267,Ornsberg
+2014-10-31,Ivar Vidfamnes gata 21,Aspudden,Röd Norsborg,2,55,3,Lägenhet,null,[Aspudden],2495000,335000,2830000,2257,Svensk Fastighetsförmedling,305.36710466948216,Ornsberg
+2014-10-29,Vapengatan 19,Aspudden,Röd Norsborg,2,53,1,Lägenhet,null,[Aspudden],2695000,465000,3160000,3099,Svensk Fastighetsförmedling,293.93911757936166,Ornsberg
+2014-10-29,Hägerstensvägen 191,Aspudden,Röd Norsborg,1,24,1,Lägenhet,1936,[Hägersten],1495000,285000,1780000,1766,Mäklarhuset,121.04518869727622,Ornsberg
+2014-10-24,Lilla Aspuddsvägen 4,Aspudden,Röd Norsborg,3,61,1,Lägenhet,null,[Aspudden],3295000,5000,3300000,2805,Svensk Fastighetsförmedling,98.59686201465985,Aspudden
+2014-10-23,Blommensbergsvägen 180,Aspudden,Röd Norsborg,1.5,44,5,Lägenhet,null,[Örnsberg],1995000,515000,2510000,3193,Fastighetsbyrån,271.76339462768675,Ornsberg
+2014-10-16,Sigurd Rings gata 6,Aspudden,Röd Norsborg,3,72,1,Lägenhet,1948,[Aspudden],3295000,375000,3670000,3946,HusmanHagberg,477.6980865816027,Aspudden
+2014-10-16,Torsten Alms gata 11,Aspudden,Röd Norsborg,2,59,3,Lägenhet,1949,[Aspudden],2795000,605000,3400000,2830,HusmanHagberg,471.1379857096971,Aspudden
+2014-10-15,Sigurd Rings gata 5,Aspudden,Röd Norsborg,3,70,1,Lägenhet,1948,[Aspudden],2995000,835000,3830000,3654,Notar,518.5522821546108,Aspudden
+2014-10-10,Blommensbergsvägen 157,Aspudden,Röd Norsborg,2.5,56,2,Lägenhet,1946,[Aspudden],2995000,115000,3110000,3040,HusmanHagberg,327.87625735079797,Ornsberg
+2014-10-09,Allan Edwalls gata 4,Aspudden,Röd Norsborg,3,88,3,Lägenhet,2009,[Örnsberg],3795000,230000,4025000,5700,HusmanHagberg,163.63338250179817,Ornsberg
+2014-10-06,Sigurd Rings gata 8,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1948,[Aspudden],2395000,205000,2600000,2892,Svenska Mäklarhuset,518.2353512528492,Aspudden
+2014-10-01,Torsten Alms gata 31,Aspudden,Röd Norsborg,1,38,null,Lägenhet,null,[Aspudden],1825000,135000,1960000,2932,Svensk Fastighetsförmedling,369.036749497994,Ornsberg
+2014-10-01,Ivar Vidfamnes gata 25,Aspudden,Röd Norsborg,1,26,null,Lägenhet,1948,[Aspudden],1595000,175000,1770000,1429,HusmanHagberg,334.532044011246,Ornsberg
+2014-09-30,Blommensbergsvägen 103,Aspudden,Röd Norsborg,1,47,2,Lägenhet,null,[Aspudden],1695000,555000,2250000,1890,Svensk Fastighetsförmedling,461.8271169479553,Aspudden
+2014-09-30,Allan Edwalls gata 4,Aspudden,Röd Norsborg,3,66,5,Lägenhet,2009,[Aspudden],3295000,405000,3700000,4713,SkandiaMäklarna,163.63338250179817,Ornsberg
+2014-09-27,Typografvägen 8,Aspudden,Röd Norsborg,2,42,2,Lägenhet,null,[Aspudden],2195000,55000,2250000,2351,Svensk Fastighetsförmedling,86.44192723082301,Ornsberg
+2014-09-26,Torsten Alms gata 8,Aspudden,Röd Norsborg,4,85,0.5,Lägenhet,1948,[Aspudden],3995000,345000,4340000,4530,SkandiaMäklarna,461.50793013065686,Aspudden
+2014-09-25,Schlytersvägen 41,Aspudden,Röd Norsborg,2,52,2,Lägenhet,1946,[Aspudden],2595000,405000,3000000,3364,Fastighetsbyrån,245.65010193426014,Aspudden
+2014-09-25,Pilgrimsvägen 54C,Aspudden,Röd Norsborg,1,26.5,2,Lägenhet,1939,[Aspudden],1650000,370000,2020000,1683,Berggren Hörle,108.72350558013719,Aspudden
+2014-09-24,Torsten Alms gata 9,Aspudden,Röd Norsborg,2,57,2,Lägenhet,1949,[Aspudden],2850000,0,2850000,2830,SkandiaMäklarna,451.3979454255512,Aspudden
+2014-09-23,Vapengatan 12,Aspudden,Röd Norsborg,2,44,2,Lägenhet,1946,[Aspudden],2350000,390000,2740000,2451,HusmanHagberg,282.021680782703,Aspudden
+2014-09-18,Jakobsdalsvägen 4,Aspudden,Röd Norsborg,3,66,3,Lägenhet,null,[Aspudden],3295000,355000,3650000,4713,Fastighetsbyrån,109.7971459925369,Ornsberg
+2014-09-18,Sigfridsvägen 19,Aspudden,Röd Norsborg,3,64,null,Lägenhet,1949,[Aspudden],3295000,430000,3725000,3229,Fastighetsbyrån,181.635527485285,Aspudden
+2014-09-18,Erik Segersälls väg 17,Aspudden,Röd Norsborg,2,57,2,Lägenhet,1911,[Aspudden],2995000,505000,3500000,3202,Svenska Mäklarhuset,124.7064972125662,Aspudden
+2014-09-11,Junkergatan 18,Aspudden,Röd Norsborg,2,51,3,Lägenhet,null,[Aspudden],2195000,415000,2610000,3244,Svensk Fastighetsförmedling,97.05375009142892,Ornsberg
+2014-09-11,Sigfridsvägen 13,Aspudden,Röd Norsborg,3,64,2,Lägenhet,null,[Aspudden],3295000,430000,3725000,3877,Svensk Fastighetsförmedling,120.19554506627658,Aspudden
+2014-09-11,Olof Skötkonungs väg 4,Aspudden,Röd Norsborg,2,51,2,Lägenhet,null,[Aspudden],2495000,525000,3020000,3320,Svensk Fastighetsförmedling,162.55161412881446,Aspudden
+2014-09-10,Torsten Alms gata 17,Aspudden,Röd Norsborg,3,73,3,Lägenhet,null,[Aspudden],3345000,295000,3640000,3608,Svensk Fastighetsförmedling,457.0843685006277,Ornsberg
+2014-09-10,Blommensbergsvägen 163,Aspudden,Röd Norsborg,2,54.5,null,Lägenhet,1947,[Aspudden],2450000,280000,2730000,3209,Fastighetsbyrån,236.33854564302086,Ornsberg
+2014-09-10,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1.5,33.5,2.5,Lägenhet,1939,[Aspudden],1995000,125000,2120000,1912,Notar,125.55642830423103,Aspudden
+2014-09-10,Hövdingagatan 29,Aspudden,Röd Norsborg,1,35,1,Lägenhet,1943,[Aspudden],1895000,235000,2130000,1759,HusmanHagberg,151.43092123699387,Ornsberg
+2014-09-10,Blommensbergsvägen 147,Aspudden,Röd Norsborg,3,76,1,Lägenhet,1946,[Aspudden],3750000,680000,4430000,3836,HusmanHagberg,350.73866636594585,Aspudden
+2014-09-09,Hägerstensvägen 171,Aspudden,Röd Norsborg,2,44.5,4,Lägenhet,1949,[Aspudden],2195000,555000,2750000,2696,HusmanHagberg,236.81498650724518,Ornsberg
+2014-09-05,Hägerstensvägen 111,Aspudden,Röd Norsborg,2,48,1,Lägenhet,1938,[Aspudden],1995000,605000,2600000,2606,Bjurfors,234.3882770196231,Aspudden
+2014-09-04,Junkergatan 14,Aspudden,Röd Norsborg,2,53,1,Lägenhet,1942,[Aspudden],2350000,200000,2550000,3365,HusmanHagberg,88.79954037850695,Ornsberg
+2014-09-03,Hägerstensvägen 99B,Aspudden,Röd Norsborg,1.5,38.5,2,Lägenhet,2007,[Aspudden],1975000,275000,2250000,2737,HusmanHagberg,355.5928533262186,Aspudden
+2014-09-03,Junkergatan 14,Aspudden,Röd Norsborg,1.5,31,3,Lägenhet,null,[Aspudden],1745000,95000,1840000,1969,Svensk Fastighetsförmedling,88.79954037850695,Ornsberg
+2014-09-03,Husabyvägen 29,Aspudden,Röd Norsborg,2,47,3,Lägenhet,null,[Aspudden],2145000,505000,2650000,3347,Svensk Fastighetsförmedling,242.84143431730598,Aspudden
+2014-08-28,Hägerstensvägen 157A,Aspudden,Röd Norsborg,3,60.5,2,Lägenhet,1946,[Aspudden],2995000,775000,3770000,3178,Fastighetsbyrån,278.6102459975522,Aspudden
+2014-08-27,Torsten Alms gata 7,Aspudden,Röd Norsborg,1,38,null,Lägenhet,1949,[Aspudden],1895000,155000,2050000,1931,Fastighetsbyrån,440.6538548838005,Aspudden
+2014-08-27,Blommensbergsvägen 180,Aspudden,Röd Norsborg,1,43,null,Lägenhet,1948,[Aspudden],1795000,455000,2250000,2987,Svenska Mäklarhuset,271.76339462768675,Ornsberg
+2014-08-27,Blommensbergsvägen 130,Aspudden,Röd Norsborg,2,56.5,null,Lägenhet,2003,[Aspudden],2300000,700000,3000000,4083,Fastighetsbyrån,453.35519382438144,Aspudden
+2014-08-27,Hövdingagatan 3A,Aspudden,Röd Norsborg,2.5,56,3,Lägenhet,1946,[Aspudden],2850000,460000,3310000,3040,HusmanHagberg,244.35022384313456,Aspudden
+2014-08-21,Husabyvägen 17,Aspudden,Röd Norsborg,2,45,2,Lägenhet,1945,[Aspudden],2095000,115000,2210000,2551,HusmanHagberg,272.5542407728464,Aspudden
+2014-08-21,Ivar Vidfamnes gata 8,Aspudden,Röd Norsborg,2,56,2,Lägenhet,1949,[Aspudden],2695000,265000,2960000,2452,HusmanHagberg,249.75686990753957,Ornsberg
+2014-08-21,Hägerstensvägen 97A,Aspudden,Röd Norsborg,5,107,3,Lägenhet,null,[Aspudden],4295000,1305000,5600000,6415,Fastighetsbyrån,423.6987689832687,Aspudden
+2014-08-21,Hägerstensvägen 151,Aspudden,Röd Norsborg,3.5,78,2,Lägenhet,null,[Aspudden],3600000,550000,4150000,4726,Svensk Fastighetsförmedling,187.33298981048165,Aspudden
+2014-08-21,Örnsbergsvägen 9,Aspudden,Röd Norsborg,3,81,1,Lägenhet,2008,[Aspudden],2550000,300000,2850000,5458,Erik Olsson Fastighetsförmedling,118.11113768831275,Ornsberg
+2014-08-20,Hägerstensvägen 173,Aspudden,Röd Norsborg,2,46,3,Lägenhet,null,[Aspudden],1995000,455000,2450000,2661,Svensk Fastighetsförmedling,241.2442770883185,Ornsberg
+2014-08-20,Junkergatan 18,Aspudden,Röd Norsborg,2,51,2,Lägenhet,null,[Aspudden],2195000,335000,2530000,3244,Svensk Fastighetsförmedling,97.05375009142892,Ornsberg
+2014-08-16,Blommensbergsvägen 132,Aspudden,Röd Norsborg,4,97,3,Lägenhet,2003,[Aspudden],3795000,415000,4210000,6048,HusmanHagberg,436.1548395433489,Aspudden
+2014-08-14,Hägerstensvägen 151,Aspudden,Röd Norsborg,2,37,1,Lägenhet,null,[Aspudden],2095000,375000,2470000,2395,Svensk Fastighetsförmedling,187.33298981048165,Aspudden
+2014-08-13,Instrumentvägen 37,Aspudden,Röd Norsborg,3,77.5,2,Lägenhet,null,[Aspudden],2595000,855000,3450000,5283,Fastighetsbyrån,390.8425709701199,Ornsberg
+2014-08-13,Manhemsgatan 9,Aspudden,Röd Norsborg,2.5,51,null,Lägenhet,null,[Aspudden],2295000,405000,2700000,2707,Svensk Fastighetsförmedling,219.67540860433616,Aspudden
+2014-08-12,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1.5,34.5,1,Lägenhet,null,[Hägersten],2250000,-50000,2200000,1741,Mäklarhuset,125.55642830423103,Aspudden
+2014-08-08,Hägerstensvägen 113,Aspudden,Röd Norsborg,2,45,1,Lägenhet,1938,[Aspudden],2650000,0,2650000,2724,BOSTHLM,168.7757054759498,Aspudden
+2014-08-08,Hägerstensvägen 158,Aspudden,Röd Norsborg,1,39,3,Lägenhet,1949,[Aspudden],1950000,200000,2150000,2494,HusmanHagberg,339.76350765256984,Ornsberg
+2014-08-08,Hägerstensvägen 99A,Aspudden,Röd Norsborg,2,61,1,Lägenhet,2007,[Aspudden],2595000,265000,2860000,4146,HusmanHagberg,376.2866274926442,Aspudden
+2014-08-04,Torsten Alms gata 6,Aspudden,Röd Norsborg,4,85,2,Lägenhet,1948,[Aspudden],3975000,745000,4720000,4530,BOSTHLM,447.4238866132724,Aspudden
+2014-08-01,Hövdigagatan 31,Aspudden,Röd Norsborg,2,50.5,0.5,Lägenhet,null,[Aspudden],2195000,235000,2430000,2513,HusmanHagberg,151.43092123699387,Ornsberg
+2014-08-01,Jakobsdalsvägen 16,Aspudden,Röd Norsborg,3,74,3,Lägenhet,2012,[Aspudden],3195000,705000,3900000,3562,BOSTHLM,320.35968730096994,Ornsberg
+2014-07-31,Hägerstensvägen 211,Aspudden,Röd Norsborg,1,25,1,Lägenhet,1939,[Hägersten],1400000,230000,1630000,1496,Erik Olsson Fastighetsförmedling,208.94122138202312,Ornsberg
+2014-07-18,Schlytersvägen 59,Aspudden,Röd Norsborg,2,59,5,Lägenhet,1980,[Aspudden],2895000,935000,3830000,2097,Fastighetsbyrån,14.397683116191917,Aspudden
+2014-07-18,Vallfartsvägen 2,Aspudden,Röd Norsborg,1,26,3,Lägenhet,1939,[Aspudden],1595000,455000,2050000,1506,HusmanHagberg,141.4165247755145,Aspudden
+2014-07-17,Margaretha Krooks gata 3,Aspudden,Röd Norsborg,2,55,3,Lägenhet,2012,[Örnsberg],2295000,405000,2700000,2832,Svenska Mäklarhuset,283.027221595864,Ornsberg
+2014-07-03,Vapengatan 12,Aspudden,Röd Norsborg,2,44,1,Lägenhet,1945,[Aspudden],2195000,415000,2610000,2300,Fastighetsbyrån,282.021680782703,Aspudden
+2014-06-30,Hägerstensvägen 97B,Aspudden,Röd Norsborg,3,73.5,2.5,Lägenhet,2007,[Aspudden],3295000,60000,3355000,4810,SkandiaMäklarna,400.11234025503734,Aspudden
+2014-06-28,Hägerstensvägen 120,Aspudden,Röd Norsborg,4,94,3,Lägenhet,null,[Aspudden],5495000,425000,5920000,5011,Svensk Fastighetsförmedling,120.10110272291409,Aspudden
+2014-06-28,Hövdingagatan 28,Aspudden,Röd Norsborg,3,65,1,Lägenhet,null,[Aspudden],3195000,255000,3450000,3504,Svensk Fastighetsförmedling,189.8319157228814,Ornsberg
+2014-06-27,Olof Skötkonungs väg 2,Aspudden,Röd Norsborg,1,31,2,Lägenhet,null,[Aspudden],1745000,175000,1920000,1857,Svensk Fastighetsförmedling,175.17540843114313,Aspudden
+2014-06-27,Erik Segersälls väg 4,Aspudden,Röd Norsborg,2.5,86,null,Lägenhet,1982,[Aspudden],3650000,150000,3800000,3058,Södermäklarna,30.20738678420837,Aspudden
+2014-06-26,Vapengatan 9,Aspudden,Röd Norsborg,2,52.5,1,Lägenhet,1945,[Aspudden],2395000,345000,2740000,2946,Fastighetsbyrån,297.05958811904975,Aspudden
+2014-06-23,Hertigvägen 18,Aspudden,Röd Norsborg,4,87,null,Lägenhet,null,[Aspudden],4195000,-170000,4025000,6010,Fastighetsbyrån,171.58058085341267,Ornsberg
+2014-06-19,Fregattvägen 52,Aspudden,Röd Norsborg,2,44.5,null,Lägenhet,1946,[Gröndal],1750000,320000,2070000,3026,Notar,816.1334717923139,Aspudden
+2014-06-18,Margaretha Krooks gata 4,Aspudden,Röd Norsborg,3,73,1,Lägenhet,2011,[Hägersten],3195000,30000,3225000,4135,Erik Olsson Fastighetsförmedling,283.41158670979024,Ornsberg
+2014-06-13,Torsten Alms gata 7,Aspudden,Röd Norsborg,2,57,3,Lägenhet,1949,[Aspudden],2495000,465000,2960000,2830,Fastighetsbyrån,440.6538548838005,Aspudden
+2014-06-12,Jakobsdalsvägen 4,Aspudden,Röd Norsborg,4,101,2,Lägenhet,null,[Aspudden],4295000,45000,4340000,6390,Svensk Fastighetsförmedling,109.7971459925369,Ornsberg
+2014-06-12,Hägerstensvägen 161B,Aspudden,Röd Norsborg,2,51,4,Lägenhet,null,[Aspudden],2395000,180000,2575000,2951,HusmanHagberg,343.437917468976,Aspudden
+2014-06-12,Sigfridsvägen 17,Aspudden,Röd Norsborg,3,64,3,Lägenhet,1949,[Aspudden],3295000,530000,3825000,3229,HusmanHagberg,139.84638021933685,Aspudden
+2014-06-12,Sigurd Rings Gata 10,Aspudden,Röd Norsborg,2,54,3,Lägenhet,null,[Aspudden],2395000,0,2395000,3266,Svensk Fastighetsförmedling,549.1892762483441,Aspudden
+2014-06-09,Junkergatan 14,Aspudden,Röd Norsborg,2,53,2,Lägenhet,1942,[Aspudden],2395000,0,2395000,3365,Privatmäklaren,88.79954037850695,Ornsberg
+2014-06-06,Vapengatan 19,Aspudden,Röd Norsborg,2,53.5,4,Lägenhet,null,[Aspudden],2595000,315000,2910000,3134,Svensk Fastighetsförmedling,293.93911757936166,Ornsberg
+2014-06-05,Jakobsdalsvägen 14,Aspudden,Röd Norsborg,3,73,4,Lägenhet,2012,[Aspudden],3550000,-100000,3450000,3915,BOSTHLM,284.52024396723186,Ornsberg
+2014-06-05,Sigurd Rings gata 5,Aspudden,Röd Norsborg,3,70,3,Lägenhet,1948,[Aspudden],3195000,305000,3500000,3654,Länsförsäkringar Fastighetsförmedling,518.5522821546108,Aspudden
+2014-06-04,Manhemsgatan 5,Aspudden,Röd Norsborg,1,36.5,4,Lägenhet,null,[Aspudden],1975000,225000,2200000,2294,Fantastic Frank Fastighetsmäkleri,223.17000081538242,Aspudden
+2014-05-31,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,3,76,1,Lägenhet,2009,[Aspudden],3195000,25000,3220000,5164,SkandiaMäklarna,150.31215657786078,Ornsberg
+2014-05-29,Jakobsdalsvägen 4,Aspudden,Röd Norsborg,4,101,3,Lägenhet,null,[Aspudden],4500000,100000,4600000,6390,Svensk Fastighetsförmedling,109.7971459925369,Ornsberg
+2014-05-29,Vapengatan 20,Aspudden,Röd Norsborg,2,43,2,Lägenhet,null,[Aspudden],2095000,420000,2515000,2480,Svensk Fastighetsförmedling,323.6917239420484,Aspudden
+2014-05-28,Hövdingagatan 7,Aspudden,Röd Norsborg,3,56,2,Lägenhet,1946,[Aspudden],2450000,650000,3100000,3040,Fastighetsbyrån,293.5689414597662,Aspudden
+2014-05-28,Vallfartsvägen 6,Aspudden,Röd Norsborg,1,34.5,1.5,Lägenhet,1939,[Aspudden],1875000,275000,2150000,2201,HusmanHagberg,114.473478537541,Aspudden
+2014-05-26,Hägerstensvägen 173,Aspudden,Röd Norsborg,2,46,4,Lägenhet,1946,[Aspudden],1975000,475000,2450000,2661,Notar,241.2442770883185,Ornsberg
+2014-05-25,Sigurd Rings Gata 10,Aspudden,Röd Norsborg,2,56,null,Lägenhet,null,[Aspudden],2100000,0,2100000,3387,Fastighetsbyrån,549.1892762483441,Aspudden
+2014-05-23,Pilgrimsvägen 70,Aspudden,Röd Norsborg,1,38,3,Lägenhet,null,[Aspudden],1900000,200000,2100000,2485,Svensk Fastighetsförmedling,212.77331149853129,Aspudden
+2014-05-23,Sigfridsvägen 17,Aspudden,Röd Norsborg,3,64,2,Lägenhet,1949,[Aspudden],3195000,345000,3540000,3229,HusmanHagberg,139.84638021933685,Aspudden
+2014-05-23,Sverkersgatan 2,Aspudden,Röd Norsborg,2,52,null,Lägenhet,1947,[Aspudden],1295000,455000,1750000,3080,Notar,235.34188528662577,Aspudden
+2014-05-22,Blommensbergsvägen 157,Aspudden,Röd Norsborg,2.5,56,2,Lägenhet,1946,[Aspudden],2350000,550000,2900000,3040,HusmanHagberg,327.87625735079797,Ornsberg
+2014-05-22,Sigfridsvägen 15,Aspudden,Röd Norsborg,3,64,2,Lägenhet,1949,[Aspudden],3195000,525000,3720000,3422,Fastighetsbyrån,116.46894566042205,Aspudden
+2014-05-22,Hägerstensvägen 163,Aspudden,Röd Norsborg,2,52.5,1,Lägenhet,1946,[Aspudden],2395000,505000,2900000,2884,HusmanHagberg,332.4934344381047,Ornsberg
+2014-05-20,Sigfridsvägen 1,Aspudden,Röd Norsborg,2,36,1,Lägenhet,null,[Aspudden],1950000,375000,2325000,1964,Fastighetsbyrån,142.10602666759397,Aspudden
+2014-05-16,Sigurd Rings gata 6,Aspudden,Röd Norsborg,3,70,3,Lägenhet,1948,[Aspudden],2995000,335000,3330000,3874,HusmanHagberg,477.6980865816027,Aspudden
+2014-05-16,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1,34.5,4,Lägenhet,null,[Aspudden],1895000,405000,2300000,2084,Svensk Fastighetsförmedling,125.55642830423103,Aspudden
+2014-05-16,Sigurd Rings gata 6,Aspudden,Röd Norsborg,2,54,1,Lägenhet,null,[Aspudden],2395000,0,2395000,3207,Svensk Fastighetsförmedling,477.6980865816027,Aspudden
+2014-05-15,Pilgrimsvägen 54A,Aspudden,Röd Norsborg,2,46.5,3,Lägenhet,1939,[Aspudden],2295000,230000,2525000,2726,HusmanHagberg,139.63382507511326,Aspudden
+2014-05-15,Jakobsdalsvägen 14,Aspudden,Röd Norsborg,5,99,5,Lägenhet,null,[Aspudden],4400000,1330000,5730000,4975,Svensk Fastighetsförmedling,284.52024396723186,Ornsberg
+2014-05-15,Hägerstensvägen 99A,Aspudden,Röd Norsborg,4,90,5,Lägenhet,null,[Aspudden],3995000,230000,4225000,5632,Fastighetsbyrån,376.2866274926442,Aspudden
+2014-05-14,Hägerstensvägen 107,Aspudden,Röd Norsborg,3,77,3,Lägenhet,null,[Aspudden],4195000,155000,4350000,3682,Svensk Fastighetsförmedling,265.0651116481398,Aspudden
+2014-05-10,Hägerstensvägen 160,Aspudden,Röd Norsborg,2,55.5,0.5,Lägenhet,1949,[Aspudden],1990000,515000,2505000,3042,HusmanHagberg,340.8667732435562,Aspudden
+2014-05-09,Margaretha Krooks gata 6,Aspudden,Röd Norsborg,4,100,null,Lägenhet,2011,[Aspudden],4195000,0,4195000,4937,SkandiaMäklarna,293.9635000048604,Ornsberg
+2014-05-09,Schlytersvägen 43,Aspudden,Röd Norsborg,2,47,1,Lägenhet,1947,[Aspudden],1990000,460000,2450000,3170,HusmanHagberg,224.8060675296627,Aspudden
+2014-05-08,Ivar Vidfamnes gata 21,Aspudden,Röd Norsborg,2,55,2,Lägenhet,null,[Aspudden],2495000,535000,3030000,2257,Fastighetsbyrån,305.36710466948216,Ornsberg
+2014-05-08,Hövdingagatan 38,Aspudden,Röd Norsborg,3,62,2,Lägenhet,null,[Aspudden],3095000,615000,3710000,3342,Svensk Fastighetsförmedling,188.78415275751846,Ornsberg
+2014-05-07,Hägerstensvägen 154,Aspudden,Röd Norsborg,2,53,4,Lägenhet,null,[Aspudden],2850000,0,2850000,2917,Svensk Fastighetsförmedling,319.02044767275845,Aspudden
+2014-05-02,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,4,102,3,Lägenhet,2009,[Örnsberg],4495000,455000,4950000,6438,Södermäklarna,150.31215657786078,Ornsberg
+2014-05-01,Hägerstensvägen 160,Aspudden,Röd Norsborg,2,55.5,null,Lägenhet,1949,[Aspudden],2100000,600000,2700000,3308,Totalmäklarna Sverige AB,340.8667732435562,Aspudden
+2014-05-01,Sigurd Rings gata 6,Aspudden,Röd Norsborg,2,56,4,Lägenhet,1948,[Aspudden],2375000,135000,2510000,3254,Länsförsäkringar Fastighetsförmedling,477.6980865816027,Aspudden
+2014-04-30,Jarl Kulles gata 1,Aspudden,Röd Norsborg,2,63,4,Lägenhet,2011,[Aspudden],2595000,125000,2720000,3713,Erik Olsson Fastighetsförmedling,254.6945289370856,Ornsberg
+2014-04-30,Ivar Vidfamnes gata 19,Aspudden,Röd Norsborg,2,55,1,Lägenhet,null,[Aspudden],2295000,455000,2750000,2257,Svensk Fastighetsförmedling,272.7167883255845,Ornsberg
+2014-04-30,Hägerstensvägen 171,Aspudden,Röd Norsborg,2,44.5,2,Lägenhet,null,[Aspudden],1895000,0,1895000,2571,Svensk Fastighetsförmedling,236.81498650724518,Ornsberg
+2014-04-30,Ivar Vidfamnes gata 12,Aspudden,Röd Norsborg,3,67,1,Lägenhet,1948,[Aspudden],3295000,740000,4035000,2903,HusmanHagberg,265.4099776912866,Ornsberg
+2014-04-30,Hägerstensvägen 157B,Aspudden,Röd Norsborg,3,58.5,2,Lägenhet,null,[Aspudden],2595000,725000,3320000,3233,Svensk Fastighetsförmedling,278.52797039397734,Aspudden
+2014-04-30,Hägerstensvägen 150,Aspudden,Röd Norsborg,2,51.5,1,Lägenhet,1943,[Aspudden],2150000,200000,2350000,2677,Länsförsäkringar Fastighetsförmedling,279.1249420953157,Aspudden
+2014-04-24,Jarl Kulles gata 1,Aspudden,Röd Norsborg,2,63,1,Lägenhet,2011,[Aspudden],2450000,0,2450000,3713,HusmanHagberg,254.6945289370856,Ornsberg
+2014-04-24,Olof Skötkonungs väg 2,Aspudden,Röd Norsborg,1,37,2,Lägenhet,1938,[Aspudden],1795000,365000,2160000,2217,Fastighetsbyrån,175.17540843114313,Aspudden
+2014-04-23,Olof Skötkonungs väg 25, hus 3,Aspudden,Röd Norsborg,5,113,null,Radhus,null,[Aspudden],5975000,1075000,7050000,3190,Balders Ädelmarks,260.03344640833905,Aspudden
+2014-04-21,Olof Skötkonungs väg 25, hus 4,Aspudden,Röd Norsborg,5,113,null,Radhus,null,[Aspudden],5975000,675000,6650000,3190,Balders Ädelmarks,256.9943285196654,Aspudden
+2014-04-18,Olof Skötkonungs väg 25, hus 2,Aspudden,Röd Norsborg,5,113,null,Radhus,null,[Aspudden],5975000,975000,6950000,3190,Balders Ädelmarks,258.98797049930675,Aspudden
+2014-04-18,Olof Skötkonungs väg 25, hus 1,Aspudden,Röd Norsborg,5,112,null,Radhus,null,[Aspudden],6175000,1005000,7180000,3162,Balders Ädelmarks,258.9429620157071,Aspudden
+2014-04-17,Sigfridsvägen 17,Aspudden,Röd Norsborg,2,54,1,Lägenhet,1949,[Aspudden],2595000,555000,3150000,2724,Notar,139.84638021933685,Aspudden
+2014-04-15,Torsten Alms gata 29,Aspudden,Röd Norsborg,2,59,1,Lägenhet,1949,[Aspudden],2395000,-25000,2370000,3951,SkandiaMäklarna,374.02339590754764,Ornsberg
+2014-04-10,Torsten Alms gata 9,Aspudden,Röd Norsborg,2,57,3,Lägenhet,1948,[Aspudden],2495000,155000,2650000,2830,Erik Olsson Fastighetsförmedling,451.3979454255512,Aspudden
+2014-04-09,Schlytersvägen 64,Aspudden,Röd Norsborg,1,36,null,Lägenhet,1938,[Aspudden],1495000,555000,2050000,2332,Notar,100.86918811328512,Aspudden
+2014-04-05,Blommensbergsvägen 130,Aspudden,Röd Norsborg,2,56.5,5,Lägenhet,null,[Aspudden],2250000,160000,2410000,4083,Svensk Fastighetsförmedling,453.35519382438144,Aspudden
+2014-04-04,Ivar Vidfamnes gata 2,Aspudden,Röd Norsborg,3,68,2,Lägenhet,1948,[Örnsberg],3375000,50000,3425000,2933,HusmanHagberg,224.3864047206008,Ornsberg
+2014-04-04,Sigfridsvägen 9,Aspudden,Röd Norsborg,3,86,4,Lägenhet,1982,[Aspudden],3695000,905000,4600000,2913,Notar,110.16589486227949,Aspudden
+2014-04-03,Hägerstensvägen 165A,Aspudden,Röd Norsborg,2,60.5,2,Lägenhet,1946,[Aspudden],2795000,405000,3200000,3178,Fastighetsbyrån,295.33307881106697,Ornsberg
+2014-04-02,Husabyvägen 15,Aspudden,Röd Norsborg,2,45,2,Lägenhet,null,[Aspudden],2150000,350000,2500000,2551,Svensk Fastighetsförmedling,286.9292356998379,Aspudden
+2014-04-01,Hövdingagatan 30,Aspudden,Röd Norsborg,3,64,null,Lägenhet,1949,[Aspudden],3295000,-195000,3100000,3450,Fabergé Fastighetsmäkleri,191.80173692272066,Ornsberg
+2014-03-26,Hägerstensvägen 161,Aspudden,Röd Norsborg,2,54,4,Lägenhet,1946,[Aspudden],2350000,340000,2690000,3100,HusmanHagberg,339.3065878082045,Aspudden
+2014-03-26,Pilgrimsvägen 70,Aspudden,Röd Norsborg,2,57,2,Lägenhet,1912,[Aspudden],2595000,255000,2850000,3511,HusmanHagberg,212.77331149853129,Aspudden
+2014-03-26,Hägerstensvägen 171,Aspudden,Röd Norsborg,2,44.5,1,Lägenhet,1946,[Aspudden],2075000,225000,2300000,2559,HusmanHagberg,236.81498650724518,Ornsberg
+2014-03-26,Manhemsgatan 3,Aspudden,Röd Norsborg,2,54,3,Lägenhet,null,[Aspudden],2345000,205000,2550000,2975,Svensk Fastighetsförmedling,238.81574603991214,Aspudden
+2014-03-25,Hägerstensvägen 162,Aspudden,Röd Norsborg,2,55.5,1,Lägenhet,1949,[Aspudden],2395000,385000,2780000,3308,Södermäklarna,289.9186340224584,Ornsberg
+2014-03-21,Fågeltorget 167,Aspudden,Röd Norsborg,4,88,1,Lägenhet,1949,[Aspudden],3995000,1405000,5400000,4646,HusmanHagberg,223.87239827011888,Ornsberg
+2014-03-20,Torsten Alms gata 33,Aspudden,Röd Norsborg,4,86,3,Lägenhet,1949,[Aspudden],3250000,710000,3960000,4879,HusmanHagberg,359.6284990331763,Ornsberg
+2014-03-20,Vapengatan 18,Aspudden,Röd Norsborg,2,46.5,4,Lägenhet,1946,[Aspudden],2395000,105000,2500000,2620,Svenska Mäklarhuset,315.34716379205,Aspudden
+2014-03-19,Hägerstensvägen 152,Aspudden,Röd Norsborg,2,55,3,Lägenhet,1945,[Aspudden],2295000,130000,2425000,2821,Notar,301.0325243029797,Aspudden
+2014-03-19,Ivar Vidfamnes gata 21,Aspudden,Röd Norsborg,1,26,2,Lägenhet,1948,[Aspudden],1595000,205000,1800000,1429,HusmanHagberg,305.36710466948216,Ornsberg
+2014-03-13,Hägerstensvägen 150,Aspudden,Röd Norsborg,2,56,3,Lägenhet,null,[Aspudden],2495000,205000,2700000,2970,Svensk Fastighetsförmedling,279.1249420953157,Aspudden
+2014-03-13,Vapengatan 17,Aspudden,Röd Norsborg,3,73,4,Lägenhet,1949,[Aspudden],3395000,380000,3775000,4115,HusmanHagberg,312.4174629856923,Ornsberg
+2014-03-13,Hägerstensvägen 118,Aspudden,Röd Norsborg,3,64,1,Lägenhet,null,[Aspudden],3550000,375000,3925000,3366,Svensk Fastighetsförmedling,121.05955001256066,Aspudden
+2014-03-12,Hägerstensvägen 166,Aspudden,Röd Norsborg,2,55.5,2,Lägenhet,null,[Aspudden],2395000,275000,2670000,3308,Svensk Fastighetsförmedling,244.6562858586462,Ornsberg
+2014-03-11,Hägerstensvägen 209,Aspudden,Röd Norsborg,2,41,1,Lägenhet,null,[Aspudden],1795000,-45000,1750000,3411,Svensk Fastighetsförmedling,199.35414335600936,Ornsberg
+2014-03-07,Blommensbergsvägen 163,Aspudden,Röd Norsborg,2,54.5,2,Lägenhet,null,[Aspudden],2395000,55000,2450000,3145,Svensk Fastighetsförmedling,236.33854564302086,Ornsberg
+2014-03-07,Manhemsgatan 13,Aspudden,Röd Norsborg,2,56,2,Lägenhet,null,[Aspudden],2595000,125000,2720000,3040,Svensk Fastighetsförmedling,201.32557590194412,Aspudden
+2014-03-06,Jarl Kulles gata 1,Aspudden,Röd Norsborg,2,52,5,Lägenhet,2011,[Örnsberg],2495000,0,2495000,3254,HusmanHagberg,254.6945289370856,Ornsberg
+2014-03-06,Hertigvägen 16,Aspudden,Röd Norsborg,3,70,1,Lägenhet,1949,[Aspudden],2795000,455000,3250000,4834,Svenska Mäklarhuset,169.26146248005995,Ornsberg
+2014-03-06,Blommensbergsvägen 147,Aspudden,Röd Norsborg,3,76,1,Lägenhet,1946,[Aspudden],2995000,565000,3560000,3611,Länsförsäkringar Fastighetsförmedling,350.73866636594585,Aspudden
+2014-03-05,Husabyvägen 41, v3,Aspudden,Röd Norsborg,2,51,2,Lägenhet,1945,[Aspudden],2295000,255000,2550000,2955,Notar,309.9716779002349,Aspudden
+2014-03-03,Husabyvägen 17,Aspudden,Röd Norsborg,2,35,3,Lägenhet,1945,[Aspudden],1995000,265000,2260000,1984,Svenska Mäklarhuset,272.5542407728464,Aspudden
+2014-02-28,Hövdingagatan 1,Aspudden,Röd Norsborg,2,56,4,Lägenhet,null,[Aspudden],2900000,-120000,2780000,3040,Svensk Fastighetsförmedling,214.16176538611992,Aspudden
+2014-02-28,Sigfridsvägen 1,Aspudden,Röd Norsborg,2,48,1,Lägenhet,1910,[Aspudden],2175000,95000,2270000,2783,Notar,142.10602666759397,Aspudden
+2014-02-27,Styrbjörnsvägen 22,Aspudden,Röd Norsborg,2.5,54,3,Lägenhet,1947,[Aspudden],2295000,0,2295000,2428,Länsförsäkringar Fastighetsförmedling,430.72173118210645,Aspudden
+2014-02-26,Hertigvägen 10,Aspudden,Röd Norsborg,2,58,2,Lägenhet,1948,[Aspudden],2195000,180000,2375000,4006,SkandiaMäklarna,169.91904206199825,Ornsberg
+2014-02-26,Jarl Kulles gata 3,Aspudden,Röd Norsborg,2,52,5,Lägenhet,2011,[Entréplan],2150000,380000,2530000,2963,SkandiaMäklarna,272.7979232812765,Ornsberg
+2014-02-25,Hägerstensvägen 111,Aspudden,Röd Norsborg,2,49,3,Lägenhet,1940,[Aspudden],1995000,530000,2525000,2954,HusmanHagberg,234.3882770196231,Aspudden
+2014-02-24,Ivar Vidfamnes gata 29,Aspudden,Röd Norsborg,2,55,null,Lägenhet,null,[Aspudden],2095000,525000,2620000,2257,BOSTHLM,352.5355282271233,Ornsberg
+2014-02-20,Olof Skötkonungs väg 4,Aspudden,Röd Norsborg,2,51,null,Lägenhet,1947,[Aspudden],2395000,275000,2670000,3162,Svensk Fastighetsförmedling,162.55161412881446,Aspudden
+2014-02-20,Blommensbergsvägen 153,Aspudden,Röd Norsborg,2.5,56,4,Lägenhet,1946,[Aspudden],2475000,390000,2865000,2981,Erik Olsson Fastighetsförmedling,326.072222094503,Ornsberg
+2014-02-20,Sigfridsvägen 19,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1949,[Aspudden],2395000,545000,2940000,2724,Notar,181.635527485285,Aspudden
+2014-02-20,Schlytersvägen 64,Aspudden,Röd Norsborg,3,64,3,Lägenhet,1938,[Aspudden],2995000,225000,3220000,3763,Svenska Mäklarhuset,100.86918811328512,Aspudden
+2014-02-19,Husabyvägen 15,Aspudden,Röd Norsborg,2,45,1,Lägenhet,1945,[Aspudden],1995000,335000,2330000,2551,Notar,286.9292356998379,Aspudden
+2014-02-15,Husabyvägen 41,Aspudden,Röd Norsborg,2,51,1,Lägenhet,1944,[Hägersten],2175000,225000,2400000,2955,Mäklarhuset,310.99655375814234,Aspudden
+2014-02-13,Blommensbergsvägen 180,Aspudden,Röd Norsborg,1.5,44,4,Lägenhet,1948,[Aspudden],1900000,110000,2010000,3038,HusmanHagberg,271.76339462768675,Ornsberg
+2014-02-13,Hägerstensvägen 109,Aspudden,Röd Norsborg,3,103,null,Lägenhet,1912,[Aspudden],4495000,625000,5120000,4502,Svensk Fastighetsförmedling,255.97029742630835,Aspudden
+2014-02-13,Husabyvägen 41,Aspudden,Röd Norsborg,1,35,null,Lägenhet,1945,[Aspudden],1575000,265000,1840000,2028,Steen Fastighetsbyrå,310.99655375814234,Aspudden
+2014-02-12,Vapengatan 16,Aspudden,Röd Norsborg,2,44,3,Lägenhet,1945,[Aspudden],1995000,405000,2400000,2523,Fastighetsbyrån,233.6059195326063,Aspudden
+2014-02-11,Schlytersvägen 71,Aspudden,Röd Norsborg,2,64,4,Lägenhet,1947,[Aspudden],2990000,330000,3320000,4836,BOSTHLM,147.72312317239926,Aspudden
+2014-02-07,Pilgrimsvägen 54A,Aspudden,Röd Norsborg,1.5,34.5,3,Lägenhet,1939,[Aspudden],1795000,325000,2120000,2028,Notar,139.63382507511326,Aspudden
+2014-02-07,Ivar Vidfamnes gata 19,Aspudden,Röd Norsborg,2,55,2,Lägenhet,1949,[Aspudden],2450000,505000,2955000,2257,Södermäklarna,272.7167883255845,Ornsberg
+2014-02-06,Lilla Aspuddsvägen 10,Aspudden,Röd Norsborg,4,87,null,Lägenhet,1912,[Aspudden],4945000,1015000,5960000,3231,Svensk Fastighetsförmedling,58.535502579599196,Aspudden
+2014-02-05,Vapengatan 6,Aspudden,Röd Norsborg,2,44,null,Lägenhet,1946,[Aspudden],2195000,335000,2530000,2523,Svensk Fastighetsförmedling,249.19842456030557,Aspudden
+2014-02-05,Erik Segersälls väg 1,Aspudden,Röd Norsborg,2,55,2,Lägenhet,1910,[Aspudden],2695000,640000,3335000,2054,Fastighetsbyrån,56.23639160592388,Aspudden
+2014-02-04,Hägerstensvägen 118,Aspudden,Röd Norsborg,3,61,2,Lägenhet,1912,[Aspudden],3250000,600000,3850000,3269,Fastighetsbyrån,121.05955001256066,Aspudden
+2014-02-04,Hägerstensvägen 139,Aspudden,Röd Norsborg,1,32,1,Lägenhet,1938,[Hägersten],1750000,110000,1860000,1911,Hemverket,121.8122469253232,Aspudden
+2014-02-01,Blommensbergsvägen 130,Aspudden,Röd Norsborg,3,82.5,3,Lägenhet,2003,[Aspudden],2995000,335000,3330000,5321,Notar,453.35519382438144,Aspudden
+2014-01-31,Junkergatan 18,Aspudden,Röd Norsborg,2,48,null,Lägenhet,1942,[Aspudden],1995000,175000,2170000,3053,Svensk Fastighetsförmedling,97.05375009142892,Ornsberg
+2014-01-31,Ivar Vidfamnes gata 7,Aspudden,Röd Norsborg,4,93,null,Lägenhet,1948,[Aspudden],4245000,455000,4700000,3973,Svensk Fastighetsförmedling,268.1502642523588,Ornsberg
+2014-01-30,Hägerstensvägen 97B,Aspudden,Röd Norsborg,3,73.5,null,Lägenhet,2007,[Aspudden],3495000,-145000,3350000,4810,Svensk Fastighetsförmedling,400.11234025503734,Aspudden
+2014-01-17,Manhemsgatan 4,Aspudden,Röd Norsborg,3,77,null,Lägenhet,1912,[Aspudden],4195000,-100000,4095000,3566,Svensk Fastighetsförmedling,185.5004340820745,Aspudden
+2014-01-16,Hägerstensvägen 165A,Aspudden,Röd Norsborg,3,60.5,1.5,Lägenhet,1946,[Aspudden],2850000,390000,3240000,3178,Notar,295.33307881106697,Ornsberg
+2014-01-16,Schlytersvägen 45,Aspudden,Röd Norsborg,3,64,null,Lägenhet,1947,[Aspudden],3150000,70000,3220000,3989,Fastighetsbyrån,181.86565324863167,Aspudden
+2014-01-16,Hägerstensvägen 152,Aspudden,Röd Norsborg,2,51.5,3,Lägenhet,1945,[Aspudden],2095000,465000,2560000,2957,Notar,301.0325243029797,Aspudden
+2014-01-15,Ivar Vidfamnes gata 14,Aspudden,Röd Norsborg,3,67,null,Lägenhet,1947,[Aspudden],2995000,515000,3510000,2903,Fastighetsbyrån,282.126669012833,Ornsberg
+2014-01-10,Styrbjörnsvägen 36,Aspudden,Röd Norsborg,2,50,null,Lägenhet,1947,[Aspudden],2100000,225000,2325000,2372,Notar,424.5508086170524,Aspudden
+2014-01-09,Husabyvägen 41,Aspudden,Röd Norsborg,2,51,3,Lägenhet,1945,[Aspudden],2295000,255000,2550000,2955,Svenska Mäklarhuset,310.99655375814234,Aspudden
+2013-12-17,Allan Edwalls gata 2,Aspudden,Röd Norsborg,2,51,2,Lägenhet,2008,[Örnsberg],2000000,220000,2220000,3944,HusmanHagberg,156.52225770053784,Ornsberg
+2013-12-12,Manhemsgatan 5,Aspudden,Röd Norsborg,2.5,51.5,null,Lägenhet,1945,[Aspudden],2395000,315000,2710000,2943,Svensk Fastighetsförmedling,223.17000081538242,Aspudden
+2013-12-12,Husabyvägen 25,Aspudden,Röd Norsborg,2,47,null,Lägenhet,1945,[Aspudden],2095000,290000,2385000,3347,Svensk Fastighetsförmedling,222.9326186771878,Aspudden
+2013-12-12,Vapengatan 26,Aspudden,Röd Norsborg,2,46.5,null,Lägenhet,1946,[Aspudden],2295000,155000,2450000,2562,Svensk Fastighetsförmedling,331.800891791938,Ornsberg
+2013-12-12,Husabyvägen 12,Aspudden,Röd Norsborg,3,57,2,Lägenhet,1944,[Aspudden],2495000,50000,2545000,3490,HusmanHagberg,327.75585534845106,Aspudden
+2013-12-04,Schlytersvägen 41,Aspudden,Röd Norsborg,3,64,null,Lägenhet,1947,[Aspudden],2795000,365000,3160000,3989,Fastighetsbyrån,245.65010193426014,Aspudden
+2013-12-04,Hägerstensvägen 139,Aspudden,Röd Norsborg,2,42,2,Lägenhet,1940,[Aspudden],2195000,315000,2510000,2605,HusmanHagberg,121.8122469253232,Aspudden
+2013-12-04,Erik Segersälls väg 15,Aspudden,Röd Norsborg,1.5,40,1,Lägenhet,1937,[Aspudden],1795000,155000,1950000,2716,Fastighetsbyrån,100.70826111094246,Aspudden
+2013-12-02,Husabyvägen 15,Aspudden,Röd Norsborg,2,45,null,Lägenhet,1941,[Aspudden],1890000,570000,2460000,2551,SthlmFast,286.9292356998379,Aspudden
+2013-11-29,Manhemsgatan 7,Aspudden,Röd Norsborg,2,42.5,null,Lägenhet,1945,[Aspudden],2100000,440000,2540000,2517,Fastighetsbyrån,211.53672641653614,Aspudden
+2013-11-29,Hägerstensvägen 209,Aspudden,Röd Norsborg,1,23,0.5,Lägenhet,1938,[Aspudden],1295000,125000,1420000,2180,Notar,199.35414335600936,Ornsberg
+2013-11-27,Sigurd Rings gata 5,Aspudden,Röd Norsborg,3,70,null,Lägenhet,null,[Aspudden],2900000,325000,3225000,3547,Sight,518.5522821546108,Aspudden
+2013-11-26,Lilla Aspuddsvägen 2,Aspudden,Röd Norsborg,4,93,null,Lägenhet,1912,[Aspudden],4995000,-220000,4775000,3518,Svensk Fastighetsförmedling,112.17234039893629,Aspudden
+2013-11-25,Vapengatan 20,Aspudden,Röd Norsborg,2,46.5,3,Lägenhet,1946,[Aspudden],2195000,425000,2620000,2620,SkandiaMäklarna,323.6917239420484,Aspudden
+2013-11-22,Hägerstensvägen 99B,Aspudden,Röd Norsborg,4,90,5,Lägenhet,2007,[Aspudden],3700000,560000,4260000,5468,Fastighetsbyrån,355.5928533262186,Aspudden
+2013-11-21,Hägerstensvägen 111,Aspudden,Röd Norsborg,2,48,1,Lägenhet,1938,[Aspudden],1995000,0,1995000,2606,HusmanHagberg,234.3882770196231,Aspudden
+2013-11-15,Sigfridsvägen 17,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1949,[Aspudden],2395000,515000,2910000,2724,Notar,139.84638021933685,Aspudden
+2013-11-14,Hägerstensvägen 161B,Aspudden,Röd Norsborg,2,52.5,null,Lägenhet,1947,[Aspudden],2295000,425000,2720000,2759,Svensk Fastighetsförmedling,343.437917468976,Aspudden
+2013-11-14,Olof Skötkonungs väg 4,Aspudden,Röd Norsborg,3,91,4,Lägenhet,1947,[Aspudden],3995000,325000,4320000,4960,HusmanHagberg,162.55161412881446,Aspudden
+2013-11-13,Hertigvägen 14,Aspudden,Röd Norsborg,3,70,3,Lägenhet,1948,[Aspudden],2900000,250000,3150000,4989,HusmanHagberg,162.96023498425978,Ornsberg
+2013-11-13,Blommensbergsvägen 103,Aspudden,Röd Norsborg,1,43,null,Lägenhet,1965,[Aspudden],1545000,255000,1800000,1730,Svensk Fastighetsförmedling,461.8271169479553,Aspudden
+2013-11-11,Hägerstensvägen 211,Aspudden,Röd Norsborg,1,25,1,Lägenhet,1939,[Aspudden],1295000,255000,1550000,1496,HusmanHagberg,208.94122138202312,Ornsberg
+2013-11-09,Olof Skötkonungs väg 2,Aspudden,Röd Norsborg,1,35,3,Lägenhet,1938,[Aspudden],1695000,125000,1820000,1907,Notar,175.17540843114313,Aspudden
+2013-11-08,Manhemsgatan 11,Aspudden,Röd Norsborg,2,56,null,Lägenhet,1946,[Aspudden],2595000,155000,2750000,3040,Svensk Fastighetsförmedling,207.24319059648195,Aspudden
+2013-11-07,Erik Segersälls väg 1,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1910,[Aspudden],2495000,625000,3120000,2119,Fastighetsbyrån,56.23639160592388,Aspudden
+2013-11-06,Schlytersvägen 52,Aspudden,Röd Norsborg,3,45,null,Lägenhet,2009,[Aspudden],3425000,575000,4000000,1678,Fantastic Frank Fastighetsmäkleri,57.78362406705948,Aspudden
+2013-11-01,Hägerstensvägen 155,Aspudden,Röd Norsborg,4,108,null,Lägenhet,null,[Aspudden],4450000,400000,4850000,5211,Svensk Fastighetsförmedling,241.16212356005337,Aspudden
+2013-11-01,Hägerstensvägen 161B,Aspudden,Röd Norsborg,2,52.5,null,Lägenhet,1946,[Aspudden],2195000,250000,2445000,2993,HusmanHagberg,343.437917468976,Aspudden
+2013-10-31,Hägerstensvägen 160,Aspudden,Röd Norsborg,3,76.5,null,Lägenhet,1949,[Aspudden],3295000,355000,3650000,4061,Svensk Fastighetsförmedling,340.8667732435562,Aspudden
+2013-10-28,Husabyvägen 10,Aspudden,Röd Norsborg,2.5,57,null,Lägenhet,1944,[Aspudden],2395000,255000,2650000,3541,BOSTHLM,313.2334550892523,Aspudden
+2013-10-24,Blommensbergsvägen 184,Aspudden,Röd Norsborg,2,55,null,Lägenhet,null,[Aspudden],1975000,325000,2300000,3798,Sight,286.4155335197452,Ornsberg
+2013-10-24,Husabyvägen 27,Aspudden,Röd Norsborg,2,47,null,Lägenhet,1945,[Aspudden],2095000,175000,2270000,3347,Svensk Fastighetsförmedling,231.33417484274264,Aspudden
+2013-10-24,Vapengatan 18,Aspudden,Röd Norsborg,2,46.5,null,Lägenhet,1946,[Aspudden],2195000,405000,2600000,2620,Svensk Fastighetsförmedling,315.34716379205,Aspudden
+2013-10-24,Vapengatan 9,Aspudden,Röd Norsborg,2,52.5,null,Lägenhet,1945,[Aspudden],2295000,335000,2630000,3009,Fastighetsbyrån,297.05958811904975,Aspudden
+2013-10-22,Härbärgesvägen 1,Aspudden,Röd Norsborg,2,65,null,Lägenhet,1985,[Aspudden],2595000,125000,2720000,3157,Erik Olsson Fastighetsförmedling,153.2338391455731,Aspudden
+2013-10-18,Botvidsgatan 3,Aspudden,Röd Norsborg,2,52,2,Lägenhet,1912,[Aspudden],2550000,380000,2930000,2480,HusmanHagberg,117.36246424921394,Aspudden
+2013-10-17,Husabyvägen 19,Aspudden,Röd Norsborg,2,45,null,Lägenhet,1945,[Aspudden],2195000,0,2195000,2551,Svenska Mäklarhuset,259.52582567499843,Aspudden
+2013-10-17,Jarl Kulles gata 1,Aspudden,Röd Norsborg,2,52,3,Lägenhet,2011,[Örnsberg],2395000,75000,2470000,3254,HusmanHagberg,254.6945289370856,Ornsberg
+2013-10-11,Hägerstensvägen 213,Aspudden,Röd Norsborg,2,50,null,Lägenhet,1937,[Örnsberg],1995000,75000,2070000,2905,HusmanHagberg,231.27962141254758,Ornsberg
+2013-10-10,Hertigvägen 2,Aspudden,Röd Norsborg,3,70,0.5,Lägenhet,null,[Hägersten],2500000,0,2500000,4834,Erik Olsson Fastighetsförmedling,223.06101823708974,Ornsberg
+2013-10-10,Sverkersgatan 2,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1947,[Aspudden],2395000,145000,2540000,3155,Notar,235.34188528662577,Aspudden
+2013-10-10,Hägerstensvägen 109,Aspudden,Röd Norsborg,1.5,39,1,Lägenhet,1912,[Aspudden],1995000,-5000,1990000,1848,Notar,255.97029742630835,Aspudden
+2013-10-09,Schlytersvägen 64,Aspudden,Röd Norsborg,1,33,null,Lägenhet,1938,[Aspudden],1590000,370000,1960000,2063,Svenska Mäklarhuset,100.86918811328512,Aspudden
+2013-10-08,Hägerstensvägen 161,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1946,[Aspudden],2275000,0,2275000,2974,Fastighetsbyrån,339.3065878082045,Aspudden
+2013-10-06,Schlytersvägen 43,Aspudden,Röd Norsborg,2,47,null,Lägenhet,1947,[Aspudden],2395000,-45000,2350000,3170,Svensk Fastighetsförmedling,224.8060675296627,Aspudden
+2013-10-04,Sigfridsvägen 19,Aspudden,Röd Norsborg,2,54,3,Lägenhet,1949,[Aspudden],2295000,515000,2810000,2724,Notar,181.635527485285,Aspudden
+2013-10-04,Sigfridsvägen 11,Aspudden,Röd Norsborg,1,38,3,Lägenhet,1949,[Aspudden],1795000,195000,1990000,2290,Svenska Mäklarhuset,165.6449186310573,Aspudden
+2013-10-03,Jakobsdalsvägen 16,Aspudden,Röd Norsborg,4,100,null,Lägenhet,2012,[Aspudden],4350000,10000,4360000,4454,Fastighetsbyrån,320.35968730096994,Ornsberg
+2013-09-29,Hägerstensvägen 209,Aspudden,Röd Norsborg,2,41,null,Lägenhet,1938,[Örnsberg],1695000,10000,1705000,3411,BOSTHLM,199.35414335600936,Ornsberg
+2013-09-26,Manhemsgatan 15,Aspudden,Röd Norsborg,2,37,null,Lägenhet,1946,[Aspudden],1795000,115000,1910000,2037,Svensk Fastighetsförmedling,201.84023918933423,Aspudden
+2013-09-26,Hägerstensvägen 118,Aspudden,Röd Norsborg,3,74,null,Lägenhet,1912,[Aspudden],3975000,50000,4025000,3917,Svensk Fastighetsförmedling,121.05955001256066,Aspudden
+2013-09-26,Junkergatan 14,Aspudden,Röd Norsborg,3,78,null,Lägenhet,1942,[Aspudden],2595000,405000,3000000,4955,Svensk Fastighetsförmedling,88.79954037850695,Ornsberg
+2013-09-25,Torsten Alms gata 11,Aspudden,Röd Norsborg,1,38,null,Lägenhet,1949,[Aspudden],1650000,310000,1960000,1931,Fastighetsbyrån,471.1379857096971,Aspudden
+2013-09-25,Typografvägen 8,Aspudden,Röd Norsborg,2,41,null,Lägenhet,1929,[Aspudden],1895000,230000,2125000,2432,HusmanHagberg,86.44192723082301,Ornsberg
+2013-09-22,Sigurd Rings gata 12,Aspudden,Röd Norsborg,2,54,3,Lägenhet,1948,[Aspudden],2350000,130000,2480000,3266,Svenska Mäklarhuset,534.5380914465279,Ornsberg
+2013-09-19,Erik Segersälls väg 13,Aspudden,Röd Norsborg,1,33,1,Lägenhet,1938,[Aspudden],1595000,205000,1800000,1898,Notar,88.36296898116825,Aspudden
+2013-09-19,Sigurd Rings Gata 10,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1949,[Aspudden],2345000,355000,2700000,3266,Svensk Fastighetsförmedling,549.1892762483441,Aspudden
+2013-09-19,Blommensbergsvägen 151,Aspudden,Röd Norsborg,2.5,56,null,Lägenhet,1946,[Aspudden],2350000,250000,2600000,3040,Svensk Fastighetsförmedling,335.46236539074545,Ornsberg
+2013-09-19,Schlytersvägen 45,Aspudden,Röd Norsborg,2,52,null,Lägenhet,1947,[Aspudden],2300000,200000,2500000,3364,Fastighetsbyrån,181.86565324863167,Aspudden
+2013-09-13,Hägerstensvägen 159A,Aspudden,Röd Norsborg,3,70.5,null,Lägenhet,1946,[Aspudden],2995000,435000,3430000,3787,Svensk Fastighetsförmedling,322.6622611138355,Aspudden
+2013-09-13,Erik Segersälls väg 3,Aspudden,Röd Norsborg,2,56,2,Lägenhet,1935,[Hägersten],2550000,300000,2850000,2207,Mäklarhuset,40.94887412840708,Aspudden
+2013-09-13,Schlytersvägen 41,Aspudden,Röd Norsborg,1.5,42,null,Lägenhet,1947,[Aspudden],1625000,-75000,1550000,2783,Notar,245.65010193426014,Aspudden
+2013-09-13,Styrbjörnsvägen 24,Aspudden,Röd Norsborg,2.5,58,null,Lägenhet,1947,[Aspudden],2045000,310000,2355000,2642,Svensk Fastighetsförmedling,422.22805395535835,Aspudden
+2013-09-12,Manhemsgatan 11,Aspudden,Röd Norsborg,2.5,58.5,null,Lägenhet,1946,[Aspudden],2295000,505000,2800000,3176,Svensk Fastighetsförmedling,207.24319059648195,Aspudden
+2013-09-11,Hövdingagatan 5,Aspudden,Röd Norsborg,2.5,56,null,Lägenhet,1946,[Aspudden],2495000,145000,2640000,3040,Fastighetsbyrån,261.55065319755727,Aspudden
+2013-09-06,Blommensbergsvägen 180,Aspudden,Röd Norsborg,1,43,1,Lägenhet,1948,[Aspudden],1595000,125000,1720000,2832,Notar,271.76339462768675,Ornsberg
+2013-09-04,Vapengatan 9,Aspudden,Röd Norsborg,2,52,null,Lägenhet,1945,[Aspudden],2195000,205000,2400000,2689,Svensk Fastighetsförmedling,297.05958811904975,Aspudden
+2013-09-01,Hägerstensvägen 152,Aspudden,Röd Norsborg,2,55,null,Lägenhet,null,[Aspudden],2295000,0,2295000,2863,Svensk Fastighetsförmedling,301.0325243029797,Aspudden
+2013-08-29,Jakobsdalsvägen 4,Aspudden,Röd Norsborg,3,66,null,Lägenhet,2008,[Aspudden],2995000,225000,3220000,4713,Fastighetsbyrån,109.7971459925369,Ornsberg
+2013-08-28,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1.5,34.5,null,Lägenhet,null,[Aspudden],1795000,305000,2100000,2028,Svensk Fastighetsförmedling,125.55642830423103,Aspudden
+2013-08-28,Husabyvägen 21,Aspudden,Röd Norsborg,3,65,0.5,Lägenhet,1945,[Aspudden],2750000,400000,3150000,3685,Svenska Mäklarhuset,249.7196051830729,Aspudden
+2013-08-27,Hägerstensvägen 211,Aspudden,Röd Norsborg,2,48,1,Lägenhet,1939,[Aspudden],1850000,-25000,1825000,2902,Notar,208.94122138202312,Ornsberg
+2013-08-23,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,3,90,null,Lägenhet,2009,[Aspudden],3195000,-115000,3080000,5801,Svensk Fastighetsförmedling,150.31215657786078,Ornsberg
+2013-08-23,Erik Segersälls väg 7,Aspudden,Röd Norsborg,2,52,null,Lägenhet,1933,[Aspudden],2475000,75000,2550000,2087,Svensk Fastighetsförmedling,24.513903541841163,Aspudden
+2013-08-22,Hägerstensvägen 124,Aspudden,Röd Norsborg,2,80,null,Lägenhet,1912,[Aspudden],3195000,425000,3620000,2709,Svensk Fastighetsförmedling,59.8190401006662,Aspudden
+2013-08-21,Hägerstensvägen 107,Aspudden,Röd Norsborg,3,79,2,Lägenhet,1912,[Aspudden],3575000,825000,4400000,3751,Svensk Fastighetsförmedling,265.0651116481398,Aspudden
+2013-08-18,Vallfartsvägen 4,Aspudden,Röd Norsborg,1.5,37,null,Lägenhet,1939,[Aspudden],1795000,85000,1880000,2317,HusmanHagberg,124.72916416333892,Aspudden
+2013-08-18,Fågeltorget 169,Aspudden,Röd Norsborg,4,89,3,Lägenhet,1949,[Aspudden],3495000,480000,3975000,4960,Notar,225.68992849646904,Ornsberg
+2013-08-16,Manhemsgatan 15,Aspudden,Röd Norsborg,3,67.5,null,Lägenhet,1946,[Aspudden],2950000,-30000,2920000,3415,Svensk Fastighetsförmedling,201.84023918933423,Aspudden
+2013-08-16,Hägerstensvägen 163A,Aspudden,Röd Norsborg,3,72,null,Lägenhet,1946,[Aspudden],2995000,515000,3510000,3912,HusmanHagberg,337.01949605577397,Ornsberg
+2013-08-16,Hägerstensvägen 171,Aspudden,Röd Norsborg,1,44.5,null,Lägenhet,1946,[Aspudden],1795000,105000,1900000,2571,Fastighetsbyrån,236.81498650724518,Ornsberg
+2013-08-14,Hägerstensvägen 129,Aspudden,Röd Norsborg,2,60,2,Lägenhet,1912,[Aspudden],2475000,175000,2650000,3744,Länsförsäkringar Fastighetsförmedling,124.37782175717113,Aspudden
+2013-08-14,Torsten Alms gata 57,Aspudden,Röd Norsborg,2,55,null,Lägenhet,1948,[Aspudden],2295000,380000,2675000,2541,Svensk Fastighetsförmedling,386.4617770075916,Ornsberg
+2013-08-08,Sigurd Rings gata 8,Aspudden,Röd Norsborg,2.5,54,3,Lägenhet,1948,[Aspudden],2295000,175000,2470000,3031,Svenska Mäklarhuset,518.2353512528492,Aspudden
+2013-08-06,Blommensbergsvägen 130,Aspudden,Röd Norsborg,3,82.5,null,Lägenhet,2003,[Aspudden],2995000,415000,3410000,5321,HusmanHagberg,453.35519382438144,Aspudden
+2013-07-22,Vallfartsvägen 4,Aspudden,Röd Norsborg,1,31.5,null,Lägenhet,null,[Aspudden],1695000,105000,1800000,1968,Svensk Fastighetsförmedling,124.72916416333892,Aspudden
+2013-07-22,Sigurd Rings gata 5,Aspudden,Röd Norsborg,3,70,2,Lägenhet,1948,[Aspudden],2995000,105000,3100000,3444,Notar,518.5522821546108,Aspudden
+2013-07-12,Manhemsgatan 1,Aspudden,Röd Norsborg,3,57,1,Lägenhet,1946,[Hägersten],2475000,75000,2550000,3073,Mäklarhuset,249.45380580465294,Aspudden
+2013-06-20,Sigurd Rings gata 6,Aspudden,Röd Norsborg,2,53,null,Lägenhet,1948,[Aspudden],2245000,155000,2400000,2852,Notar,477.6980865816027,Aspudden
+2013-06-19,Manhemsgatan 7,Aspudden,Röd Norsborg,1,42.5,null,Lägenhet,1945,[Aspudden],1900000,0,1900000,2208,Svensk Fastighetsförmedling,211.53672641653614,Aspudden
+2013-06-19,Torsten Alms gata 16,Aspudden,Röd Norsborg,1,40,3,Lägenhet,null,[Hägersten],1650000,100000,1750000,2137,Erik Olsson Fastighetsförmedling,490.3804656410353,Ornsberg
+2013-06-18,Hägerstensvägen 99A,Aspudden,Röd Norsborg,4,93.5,1.5,Lägenhet,2007,[Aspudden],3495000,205000,3700000,5583,Svenska Mäklarhuset,376.2866274926442,Aspudden
+2013-06-17,Hägerstensvägen 161A,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1946,[Aspudden],2295000,290000,2585000,3100,HusmanHagberg,343.52748181807516,Aspudden
+2013-06-16,Hägerstensvägen 120,Aspudden,Röd Norsborg,2.5,68,null,Lägenhet,1912,[Aspudden],3195000,165000,3360000,3736,HusmanHagberg,120.10110272291409,Aspudden
+2013-06-13,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1.5,34.5,null,Lägenhet,1939,[Aspudden],1695000,210000,1905000,2028,HusmanHagberg,125.55642830423103,Aspudden
+2013-06-06,Sigfridsvägen 11,Aspudden,Röd Norsborg,1,27,null,Lägenhet,1949,[Aspudden],1295000,285000,1580000,1658,Fastighetsbyrån,165.6449186310573,Aspudden
+2013-06-06,Erik Segersälls väg 9,Aspudden,Röd Norsborg,3,81,null,Lägenhet,1983,[Aspudden],3795000,75000,3870000,3183,Fastighetsbyrån,43.46733954056035,Aspudden
+2013-05-31,Hägerstensvägen 195,Aspudden,Röd Norsborg,1.5,40,null,Lägenhet,1937,[Hägersten],1495000,175000,1670000,2558,Fastighetsbyrån,110.10676671172203,Ornsberg
+2013-05-30,Hövdingagatan 5,Aspudden,Röd Norsborg,2,56,null,Lägenhet,1946,[Aspudden],2275000,335000,2610000,3040,Svensk Fastighetsförmedling,261.55065319755727,Aspudden
+2013-05-28,Torsten Alms gata 10,Aspudden,Röd Norsborg,2,55,3,Lägenhet,1948,[Aspudden],1950000,200000,2150000,2808,Notar,481.71825835345226,Aspudden
+2013-05-24,Sigurd Rings gata 8,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1948,[Aspudden],2295000,105000,2400000,2754,Svenska Mäklarhuset,518.2353512528492,Aspudden
+2013-05-23,Manhemsgatan 9,Aspudden,Röd Norsborg,2.5,51.5,null,Lägenhet,1948,[Aspudden],2295000,5000,2300000,3066,Fastighetsbyrån,219.67540860433616,Aspudden
+2013-05-23,Hägerstensvägen 207,Aspudden,Röd Norsborg,2,41,null,Lägenhet,1938,[Mälarhöjden],1495000,225000,1720000,3411,Fastighetsbyrån,185.21282186733504,Ornsberg
+2013-05-18,Hägerstensvägen 189,Aspudden,Röd Norsborg,2,47,null,Lägenhet,1936,[Aspudden],1995000,0,1995000,3084,Bjurfors,120.53794937823336,Ornsberg
+2013-05-17,Sigfridsvägen 15,Aspudden,Röd Norsborg,2,54,null,Lägenhet,null,[Aspudden],2100000,0,2100000,2625,Erik Olsson Fastighetsförmedling,116.46894566042205,Aspudden
+2013-05-17,Örnsbergsvägen 7,Aspudden,Röd Norsborg,4,101,1,Lägenhet,null,[Aspudden],2995000,0,2995000,6456,Erik Olsson Fastighetsförmedling,101.14467352285703,Ornsberg
+2013-05-16,Styrbjörnsvägen 40,Aspudden,Röd Norsborg,3,63,1,Lägenhet,2005,[Aspudden],2600000,-50000,2550000,2837,Erik Olsson Fastighetsförmedling,415.64171545158496,Aspudden
+2013-05-16,Sigurd Rings gata 5,Aspudden,Röd Norsborg,2,56,null,Lägenhet,1948,[Aspudden],2275000,160000,2435000,2865,Fastighetsbyrån,518.5522821546108,Aspudden
+2013-05-16,Hägerstensvägen 141,Aspudden,Röd Norsborg,2,42,0.5,Lägenhet,1939,[Aspudden],1845000,225000,2070000,2376,SkandiaMäklarna,122.34004756178997,Aspudden
+2013-05-14,Hägerstensvägen 183,Aspudden,Röd Norsborg,1.5,36,null,Lägenhet,null,[Aspudden],1495000,375000,1870000,1764,Gripsholms Fastighetsförmedling,75.95557190906177,Ornsberg
+2013-05-09,Manhemsgatan 15,Aspudden,Röd Norsborg,3,67.5,null,Lägenhet,1946,[Aspudden],2950000,235000,3185000,3415,Svensk Fastighetsförmedling,201.84023918933423,Aspudden
+2013-05-09,Hägerstensvägen 137,Aspudden,Röd Norsborg,1,32,1,Lägenhet,1939,[Aspudden],1595000,290000,1885000,1853,Notar,124.56411903330986,Aspudden
+2013-05-07,Pilgrimsvägen 70,Aspudden,Röd Norsborg,1,38,null,Lägenhet,1912,[Midsommarkransen],1850000,160000,2010000,2485,Fastighetsbyrån,212.77331149853129,Aspudden
+2013-05-07,Hägerstensvägen 161A,Aspudden,Röd Norsborg,2,54,1,Lägenhet,1946,[Hägersten],2100000,-100000,2000000,2974,Mäklarhuset,343.52748181807516,Aspudden
+2013-05-03,Jakobsdalsvägen 6,Aspudden,Röd Norsborg,3,85,3,Lägenhet,2009,[Aspudden],2995000,455000,3450000,5573,HusmanHagberg,150.31215657786078,Ornsberg
+2013-05-03,Schlytersvägen 52,Aspudden,Röd Norsborg,4,89,null,Lägenhet,2009,[Aspudden],4295000,1135000,5430000,4164,Svensk Fastighetsförmedling,57.78362406705948,Aspudden
+2013-05-03,Husabyvägen 41,Aspudden,Röd Norsborg,2,51,null,Lägenhet,1945,[Aspudden],1995000,165000,2160000,2955,Svensk Fastighetsförmedling,310.99655375814234,Aspudden
+2013-05-02,Hägerstensvägen 136,Aspudden,Röd Norsborg,3,66,null,Lägenhet,1912,[Midsommarkransen],3395000,305000,3700000,2615,Fastighetsbyrån,107.50065819968293,Aspudden
+2013-05-01,Härbärgesvägen 1,Aspudden,Röd Norsborg,3,77,3,Lägenhet,null,[Aspudden],3400000,150000,3550000,3707,Erik Olsson Fastighetsförmedling,153.2338391455731,Aspudden
+2013-05-01,Hertigvägen 10,Aspudden,Röd Norsborg,2,58,2,Lägenhet,1948,[Aspudden],1995000,-100000,1895000,4006,SkandiaMäklarna,169.91904206199825,Ornsberg
+2013-04-27,Blommensbergsvägen 184,Aspudden,Röd Norsborg,2,55,2,Villa,null,[Aspudden],2195000,0,2195000,null,Hans Göthe Fastighetsbyrå AB,286.4155335197452,Ornsberg
+2013-04-26,Sigurd Rings gata 12,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1948,[Aspudden],2195000,0,2195000,3267,Svenska Mäklarhuset,534.5380914465279,Ornsberg
+2013-04-25,Sigfridsvägen 13,Aspudden,Röd Norsborg,2,50,null,Lägenhet,1949,[Aspudden],2000000,50000,2050000,2812,Bjurfors,120.19554506627658,Aspudden
+2013-04-25,Olof Skötkonungs väg 2,Aspudden,Röd Norsborg,1,35,null,Lägenhet,1938,[Aspudden],1675000,75000,1750000,1907,Svensk Fastighetsförmedling,175.17540843114313,Aspudden
+2013-04-24,Blommensbergsvägen 157,Aspudden,Röd Norsborg,3,56,null,Lägenhet,1946,[Aspudden],2295000,125000,2420000,2825,Fastighetsbyrån,327.87625735079797,Ornsberg
+2013-04-20,Hägerstensvägen 101,Aspudden,Röd Norsborg,2.5,79,null,Lägenhet,1912,[Midsommarkransen],2950000,100000,3050000,3490,Fastighetsbyrån,314.0240719835212,Aspudden
+2013-04-19,Vapengatan 14,Aspudden,Röd Norsborg,2,44,null,Lägenhet,1946,[Aspudden],1995000,50000,2045000,2473,HusmanHagberg,221.37138540504702,Aspudden
+2013-04-19,Sigurd Rings gata 8,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1948,[Aspudden],2295000,0,2295000,3031,Svenska Mäklarhuset,518.2353512528492,Aspudden
+2013-04-18,Sverkersgatan 6,Aspudden,Röd Norsborg,4,106,null,Lägenhet,1946,[Aspudden],3975000,450000,4425000,4752,Fastighetsbyrån,244.95479341821274,Aspudden
+2013-04-18,Jarl Kulles gata 1,Aspudden,Röd Norsborg,4,82,null,Lägenhet,2011,[Aspudden],3495000,1065000,4560000,4523,Fastighetsbyrån,254.6945289370856,Ornsberg
+2013-04-18,Husabyvägen 15,Aspudden,Röd Norsborg,1,35,3,Lägenhet,1945,[Aspudden],1695000,195000,1890000,1984,Notar,286.9292356998379,Aspudden
+2013-04-12,Jakobsdalsvägen 16,Aspudden,Röd Norsborg,4,115,null,Lägenhet,2012,[Aspudden],4595000,230000,4825000,4993,Notar,320.35968730096994,Ornsberg
+2013-04-11,Hägerstensvägen 137,Aspudden,Röd Norsborg,2,42,2,Lägenhet,1939,[Aspudden],1995000,365000,2360000,2605,Notar,124.56411903330986,Aspudden
+2013-04-10,Hägerstensvägen 99A,Aspudden,Röd Norsborg,3,76,1,Lägenhet,2007,[Aspudden],2995000,0,2995000,4747,Notar,376.2866274926442,Aspudden
+2013-04-10,Erik Segersälls väg 1,Aspudden,Röd Norsborg,3,75,null,Lägenhet,1911,[Aspudden],3595000,525000,4120000,2754,Svensk Fastighetsförmedling,56.23639160592388,Aspudden
+2013-04-10,Sigfridsvägen 15,Aspudden,Röd Norsborg,3,64,null,Lägenhet,1949,[Aspudden],2900000,350000,3250000,3140,Fastighetsbyrån,116.46894566042205,Aspudden
+2013-04-10,Hägerstensvägen 209,Aspudden,Röd Norsborg,1,23,null,Lägenhet,null,[Mälarhöjden],1295000,5000,1300000,2180,Fastighetsbyrån,199.35414335600936,Ornsberg
+2013-04-06,Ivar Vidfamnes gata 21,Aspudden,Röd Norsborg,1,33,null,Lägenhet,1948,[Aspudden],1550000,50000,1600000,1509,HusmanHagberg,305.36710466948216,Ornsberg
+2013-04-05,Ivar Vidfamnes gata 10,Aspudden,Röd Norsborg,2.5,56,2,Lägenhet,1949,[Aspudden],2475000,125000,2600000,2248,HusmanHagberg,242.57075697628318,Ornsberg
+2013-03-29,Instrumentvägen 41,Aspudden,Röd Norsborg,2,59.5,null,Lägenhet,1995,[Hägerstenshamnen],1845000,365000,2210000,4403,Svensk Fastighetsförmedling,379.32176254248856,Ornsberg
+2013-03-27,Hägerstensvägen 165,Aspudden,Röd Norsborg,2,50.5,null,Lägenhet,null,[Aspudden],2145000,155000,2300000,2826,Svensk Fastighetsförmedling,296.2228388135067,Ornsberg
+2013-03-27,Hägerstensvägen 97B,Aspudden,Röd Norsborg,4,93.5,null,Lägenhet,2007,[Aspudden],3695000,355000,4050000,5583,Svensk Fastighetsförmedling,400.11234025503734,Aspudden
+2013-03-27,Allan Edwalls gata 4,Aspudden,Röd Norsborg,3,66,null,Lägenhet,2009,[Aspudden],2695000,55000,2750000,4713,SkandiaMäklarna,163.63338250179817,Ornsberg
+2013-03-27,Torsten Alms gata 12,Aspudden,Röd Norsborg,3,74,2,Lägenhet,1948,[Aspudden],2995000,305000,3300000,3653,Notar,493.4653232794256,Aspudden
+2013-03-24,Hägerstensvägen 173,Aspudden,Röd Norsborg,3.5,86,null,Lägenhet,null,[Aspudden],3050000,260000,3310000,4551,Mäklarringen,241.2442770883185,Ornsberg
+2013-03-23,Blommensbergsvägen 180,Aspudden,Röd Norsborg,2,54,null,Lägenhet,null,[Aspudden],1995000,0,1995000,3730,Svensk Fastighetsförmedling,271.76339462768675,Ornsberg
+2013-03-21,Torsten Alms gata 31,Aspudden,Röd Norsborg,2,58,0.5,Lägenhet,null,[Aspudden],2195000,0,2195000,3667,Erik Olsson Fastighetsförmedling,369.036749497994,Ornsberg
+2013-03-20,Vapengatan 4,Aspudden,Röd Norsborg,2,46.5,null,Lägenhet,1946,[Aspudden],1995000,275000,2270000,2620,Svensk Fastighetsförmedling,238.3167964816842,Aspudden
+2013-03-20,Ivar Vidfamnes gata 12,Aspudden,Röd Norsborg,3,67,null,Lägenhet,1948,[Aspudden],3295000,125000,3420000,2487,Svensk Fastighetsförmedling,265.4099776912866,Ornsberg
+2013-03-19,Erik Segersälls väg 1,Aspudden,Röd Norsborg,3,72,2,Lägenhet,1912,[Aspudden],3395000,705000,4100000,2743,SkandiaMäklarna,56.23639160592388,Aspudden
+2013-03-18,Olof Skötkonungsväg 2,Aspudden,Röd Norsborg,1.5,49,null,Lägenhet,1938,[Aspudden],1995000,0,1995000,2669,HusmanHagberg,156.95391303272447,Aspudden
+2013-03-15,Ivar Vidfamnes gata 8,Aspudden,Röd Norsborg,2,56,2,Lägenhet,1949,[Örnsberg],2495000,75000,2570000,2079,Svenska Mäklarhuset,249.75686990753957,Ornsberg
+2013-03-13,Sigfridsvägen 17A,Aspudden,Röd Norsborg,4,97,null,Lägenhet,1949,[Aspudden],3995000,655000,4650000,4840,Svensk Fastighetsförmedling,141.3750431636051,Aspudden
+2013-03-09,Hägerstensvägen 167,Aspudden,Röd Norsborg,2,44.5,1,Lägenhet,null,[Hägersten],1750000,0,1750000,2382,Erik Olsson Fastighetsförmedling,265.5009977284714,Ornsberg
+2013-03-09,Vapengatan 10,Aspudden,Röd Norsborg,2,44,3,Lägenhet,1946,[Aspudden],1995000,375000,2370000,2451,HusmanHagberg,274.4968863767978,Aspudden
+2013-03-02,Nybohovsbacken 103,Aspudden,Röd Norsborg,5,105,1,Lägenhet,1960,[Liljeholmen],2995000,-295000,2700000,4876,Vision Fastighetsmäkleri AB,494.9907525385257,Aspudden
+2013-02-28,Styrbjörnsvägen 32,Aspudden,Röd Norsborg,3,63,null,Lägenhet,1947,[Aspudden],2550000,325000,2875000,2837,Fastighetsbyrån,434.5123522659821,Aspudden
+2013-02-28,Torsten Alms gata 13,Aspudden,Röd Norsborg,2,57,3,Lägenhet,null,[Aspudden],2195000,325000,2520000,2830,Erik Olsson Fastighetsförmedling,485.51453166540074,Ornsberg
+2013-02-26,Hägerstensvägen 97B,Aspudden,Röd Norsborg,4,93.5,null,Lägenhet,2007,[Aspudden],3395000,575000,3970000,5583,Notar,400.11234025503734,Aspudden
+2013-02-22,Hägerstensvägen 169,Aspudden,Röd Norsborg,2,44.5,1,Lägenhet,1946,[Aspudden],1695000,175000,1870000,2487,Svensk Fastighetsförmedling,343.77824618708155,Ornsberg
+2013-02-22,Botvidsgatan 3,Aspudden,Röd Norsborg,2,53,null,Lägenhet,1912,[Aspudden],2395000,185000,2580000,2254,HusmanHagberg,117.36246424921394,Aspudden
+2013-02-21,Ivar Vidfamnes gata 1,Aspudden,Röd Norsborg,4,75,2,Lägenhet,1949,[Aspudden],3495000,130000,3625000,2816,HusmanHagberg,192.2321035480181,Ornsberg
+2013-02-20,Vallfartsvägen 2,Aspudden,Röd Norsborg,1,26,1,Lägenhet,1939,[Aspudden],1500000,70000,1570000,1506,SkandiaMäklarna,141.4165247755145,Aspudden
+2013-02-16,Sigfridsvägen 17,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1949,[Aspudden],2195000,55000,2250000,2725,Fastighetsbyrån,139.84638021933685,Aspudden
+2013-02-13,Pilgrimsvägen 54B,Aspudden,Röd Norsborg,1,34.5,null,Lägenhet,null,[Aspudden],1775000,125000,1900000,2028,Svensk Fastighetsförmedling,125.55642830423103,Aspudden
+2013-02-09,Vapengatan 19,Aspudden,Röd Norsborg,2,53.5,null,Lägenhet,1949,[Aspudden],2195000,230000,2425000,3058,Svensk Fastighetsförmedling,293.93911757936166,Ornsberg
+2013-02-06,Hägerstensvägen 159B,Aspudden,Röd Norsborg,2,52.5,null,Lägenhet,1947,[Aspudden],2075000,175000,2250000,2868,Svensk Fastighetsförmedling,304.8529679814018,Aspudden
+2013-02-02,Typografvägen 6,Aspudden,Röd Norsborg,1,42,2,Lägenhet,null,[Aspudden],1675000,265000,1940000,2260,Erik Olsson Fastighetsförmedling,117.86283926350768,Ornsberg
+2013-01-30,Hägerstensvägen 99B,Aspudden,Röd Norsborg,2,45.5,null,Lägenhet,null,[Aspudden],1975000,55000,2030000,null,Mäklarringen,355.5928533262186,Aspudden
+2013-01-28,Hägerstensvägen 161A,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1946,[Hägersten],2250000,250000,2500000,3100,Mäklarhuset,343.52748181807516,Aspudden
+2013-01-28,Blommensbergsvägen 180,Aspudden,Röd Norsborg,2,54,null,Lägenhet,null,[Aspudden],2095000,170000,2265000,3505,Svensk Fastighetsförmedling,271.76339462768675,Ornsberg
+2013-01-25,Jakobsdalsvägen 14,Aspudden,Röd Norsborg,5,99,3,Lägenhet,2011,[Örnsberg],4095000,50000,4145000,4975,HusmanHagberg,284.52024396723186,Ornsberg
+2013-01-24,Hägerstensvägen 97B,Aspudden,Röd Norsborg,4,90,null,Lägenhet,2007,[Aspudden],3475000,55000,3530000,5309,Svensk Fastighetsförmedling,400.11234025503734,Aspudden
+2013-01-24,Junkergatan 14,Aspudden,Röd Norsborg,2,53,null,Lägenhet,1942,[Örnsberg],1950000,-25000,1925000,3365,HusmanHagberg,88.79954037850695,Ornsberg
+2013-01-24,Husabyvägen 21,Aspudden,Röd Norsborg,3,65,null,Lägenhet,1945,[Aspudden],2450000,290000,2740000,3685,Svensk Fastighetsförmedling,249.7196051830729,Aspudden
+2013-01-18,Instrumentvägen 35,Aspudden,Röd Norsborg,2,59.5,3,Lägenhet,null,[Hägerstenshamnen],1795000,150000,1945000,4520,SkandiaMäklarna,405.40940514817424,Ornsberg
+2013-01-18,Hägerstensvägen 163A,Aspudden,Röd Norsborg,3,72,null,Lägenhet,1946,[Aspudden],2895000,35000,2930000,3708,Svensk Fastighetsförmedling,337.01949605577397,Ornsberg
+2013-01-17,Botvidsgatan 5,Aspudden,Röd Norsborg,3,70,null,Lägenhet,1912,[Aspudden],3200000,400000,3600000,2947,HusmanHagberg,138.04284392950683,Aspudden
+2013-01-16,Styrbjörnsvägen 24,Aspudden,Röd Norsborg,2.5,58,null,Lägenhet,1947,[Aspudden],2150000,100000,2250000,2642,Fastighetsbyrån,422.22805395535835,Aspudden
+2013-01-16,Hägerstensvägen 140,Aspudden,Röd Norsborg,2,53,null,Lägenhet,1912,[Aspudden],2395000,215000,2610000,2298,Svensk Fastighetsförmedling,158.29995707153995,Aspudden
+2013-01-14,Sverkersgatan 2,Aspudden,Röd Norsborg,2,54,2,Lägenhet,1947,[Aspudden],2195000,-95000,2100000,3155,Notar,235.34188528662577,Aspudden
+2013-01-12,Torsten Alms gata 7,Aspudden,Röd Norsborg,1.5,38,1,Lägenhet,1948,[Aspudden],1475000,255000,1730000,1931,Länsförsäkringar Fastighetsförmedling,440.6538548838005,Aspudden
+2013-01-11,Schlytersvägen 71,Aspudden,Röd Norsborg,2,58,null,Lägenhet,1947,[Aspudden],2195000,205000,2400000,3596,Svenska Mäklarhuset,147.72312317239926,Aspudden
+2012-12-13,Hägerstensvägen 154,Aspudden,Röd Norsborg,2,53,null,Lägenhet,1945,[Aspudden],2245000,115000,2360000,2832,Svensk Fastighetsförmedling,319.02044767275845,Aspudden
+2012-12-11,Schlytersvägen 71,Aspudden,Röd Norsborg,2,58,null,Lägenhet,1947,[Aspudden],2095000,75000,2170000,3596,Fastighetsbyrån,147.72312317239926,Aspudden
+2012-12-09,Hägerstensvägen 140,Aspudden,Röd Norsborg,2,53,null,Lägenhet,1912,[Aspudden],2395000,-45000,2350000,2298,Svensk Fastighetsförmedling,158.29995707153995,Aspudden
+2012-12-07,Hertigvägen 14,Aspudden,Röd Norsborg,3,70,2,Lägenhet,null,[Aspudden],2595000,0,2595000,4543,Erik Olsson Fastighetsförmedling,162.96023498425978,Ornsberg
+2012-12-05,Blommensbergsvägen 161,Aspudden,Röd Norsborg,2,54.5,null,Lägenhet,null,[Aspudden],2295000,65000,2360000,3130,Svensk Fastighetsförmedling,249.36742380112105,Ornsberg
+2012-12-04,Hägerstensvägen 150,Aspudden,Röd Norsborg,2,51.5,null,Lägenhet,1945,[Aspudden],2095000,180000,2275000,2832,Svensk Fastighetsförmedling,279.1249420953157,Aspudden
+2012-12-03,Olof Skötkonungs väg 4,Aspudden,Röd Norsborg,3,66,3,Lägenhet,1947,[Aspudden],3750000,-50000,3700000,4960,SkandiaMäklarna,162.55161412881446,Aspudden
+2012-12-01,Hägerstensvägen 97A,Aspudden,Röd Norsborg,5,107,null,Lägenhet,2006,[Midsommarkransen],3985000,-135000,3850000,6047,Fastighetsbyrån,423.6987689832687,Aspudden
+2012-11-29,Jarl Kulles gata 3,Aspudden,Röd Norsborg,5,116,null,Lägenhet,2011,[Aspudden],3850000,-150000,3700000,5572,Svensk Fastighetsförmedling,272.7979232812765,Ornsberg
+2012-11-26,Blommensbergsvägen 190,Aspudden,Röd Norsborg,2,58,1,Lägenhet,null,[Aspudden],2150000,50000,2200000,3765,Svenska Mäklargruppen,251.87633237308356,Ornsberg
+2012-11-26,Härbärgesvägen 1,Aspudden,Röd Norsborg,4,104,2,Lägenhet,null,[Aspudden],4000000,400000,4400000,4799,Erik Olsson Fastighetsförmedling,153.2338391455731,Aspudden
+2012-11-22,Sigfridsvägen 19,Aspudden,Röd Norsborg,3,64,null,Lägenhet,1949,[Aspudden],2700000,-75000,2625000,3229,Fastighetsbyrån,181.635527485285,Aspudden
+2012-11-22,Jarl Kulles gata 1,Aspudden,Röd Norsborg,2,63,2,Lägenhet,2011,[Aspudden],2375000,135000,2510000,3493,Notar,254.6945289370856,Ornsberg
+2012-11-22,Hövdingagatan 5,Aspudden,Röd Norsborg,2,56,null,Lägenhet,1946,[Aspudden],2150000,150000,2300000,3040,Svensk Fastighetsförmedling,261.55065319755727,Aspudden
+2012-11-20,Vapengatan 19,Aspudden,Röd Norsborg,2,53,3,Lägenhet,1949,[Aspudden],2195000,215000,2410000,3120,Svenska Mäklarhuset,293.93911757936166,Ornsberg
+2012-11-16,Hägerstensvägen 103,Aspudden,Röd Norsborg,2,69,null,Lägenhet,1912,[Midsommarkransen],2495000,0,2495000,3419,Fastighetsbyrån,303.7616968501008,Aspudden
+2012-11-15,Vapengatan 15,Aspudden,Röd Norsborg,3,73,null,Lägenhet,null,[Aspudden],2995000,455000,3450000,4015,Svensk Fastighetsförmedling,323.1727894552403,Ornsberg
+2012-11-14,Hägerstensvägen 105,Aspudden,Röd Norsborg,3,84,3,Lägenhet,1912,[Aspudden],3695000,0,3695000,3988,Svensk Fastighetsförmedling,281.58518513966914,Aspudden
+2012-11-14,Sigfridsvägen 19,Aspudden,Röd Norsborg,3,64,null,Lägenhet,1949,[Aspudden],2845000,0,2845000,3229,Svensk Fastighetsförmedling,181.635527485285,Aspudden
+2012-11-14,Hägerstensvägen 105,Aspudden,Röd Norsborg,1,39,null,Lägenhet,1912,[Aspudden],1675000,95000,1770000,1997,Svensk Fastighetsförmedling,281.58518513966914,Aspudden
+2012-11-13,Hägerstensvägen 157A,Aspudden,Röd Norsborg,3,60.5,null,Lägenhet,1946,[Aspudden],2395000,360000,2755000,3243,SkandiaMäklarna,278.6102459975522,Aspudden
+2012-11-09,Vapengatan 5,Aspudden,Röd Norsborg,2,40.5,null,Lägenhet,1945,[Aspudden],1875000,10000,1885000,2307,Svensk Fastighetsförmedling,274.4968863767978,Aspudden
+2012-11-09,Schlytersvägen 52,Aspudden,Röd Norsborg,3,67,null,Lägenhet,2009,[Aspudden],3495000,455000,3950000,2920,Svensk Fastighetsförmedling,57.78362406705948,Aspudden
+2012-11-09,Sigurd Rings gata 12,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1949,[Aspudden],2275000,125000,2400000,3266,Notar,534.5380914465279,Ornsberg
+2012-11-07,Hägerstensvägen 159B,Aspudden,Röd Norsborg,2,49.5,0.5,Lägenhet,1946,[Aspudden],1975000,-25000,1950000,2580,Notar,304.8529679814018,Aspudden
+2012-11-07,Hövdingagatan 5A,Aspudden,Röd Norsborg,2,56,null,Lägenhet,1946,[Aspudden],2295000,45000,2340000,3040,Svensk Fastighetsförmedling,278.4290297482951,Aspudden
+2012-11-06,Torsten Alms gata 8,Aspudden,Röd Norsborg,4,85,null,Lägenhet,1948,[Aspudden],3800000,-200000,3600000,3922,Svenska Mäklarhuset,461.50793013065686,Aspudden
+2012-11-05,Hägerstensvägen 163,Aspudden,Röd Norsborg,2,50.5,null,Lägenhet,1947,[Aspudden],1975000,-20000,1955000,2809,Svensk Fastighetsförmedling,332.4934344381047,Ornsberg
+2012-11-01,Härbärgesvägen 1,Aspudden,Röd Norsborg,2,62,3,Lägenhet,null,[Aspudden],2775000,35000,2810000,2932,Erik Olsson Fastighetsförmedling,153.2338391455731,Aspudden
+2012-10-31,Hägerstensvägen 153,Aspudden,Röd Norsborg,1.5,45,null,Lägenhet,1912,[Midsommarkransen],1895000,350000,2245000,2863,Fastighetsbyrån,202.72410861086578,Aspudden
+2012-10-30,Styrbjörnsvägen 24,Aspudden,Röd Norsborg,2,52,2,Lägenhet,2005,[Aspudden],2100000,160000,2260000,2428,Erik Olsson Fastighetsförmedling,422.22805395535835,Aspudden
+2012-10-27,Vapengatan 19,Aspudden,Röd Norsborg,2,53.5,2,Lägenhet,1949,[Aspudden],1995000,225000,2220000,3058,Svensk Fastighetsförmedling,293.93911757936166,Ornsberg
+2012-10-26,Manhemsgatan 4,Aspudden,Röd Norsborg,3,75,null,Lägenhet,1912,[Aspudden],3695000,205000,3900000,3157,Svensk Fastighetsförmedling,185.5004340820745,Aspudden
+2012-10-26,Hövdingagatan 5,Aspudden,Röd Norsborg,2,56,null,Lägenhet,1947,[Aspudden],2195000,-45000,2150000,3040,Svensk Fastighetsförmedling,261.55065319755727,Aspudden
+2012-10-25,Sigurd Rings gata 8,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1948,[Aspudden],1795000,115000,1910000,2756,Svensk Fastighetsförmedling,518.2353512528492,Aspudden
+2012-10-23,Blommensbergsvägen 130,Aspudden,Röd Norsborg,3,82.5,0.5,Lägenhet,2003,[Aspudden],2875000,-125000,2750000,5321,Svensk Fastighetsförmedling,453.35519382438144,Aspudden
+2012-10-20,Husabyvägen 23,Aspudden,Röd Norsborg,3,66,null,Lägenhet,1945,[Aspudden],2695000,-95000,2600000,4306,Svensk Fastighetsförmedling,219.56924988348214,Aspudden
+2012-10-20,Blommensbergsvägen 132,Aspudden,Röd Norsborg,4,97,3,Lägenhet,2003,[Aspudden],3550000,0,3550000,6048,SkandiaMäklarna,436.1548395433489,Aspudden
+2012-10-18,Olof Skötkonungs väg 4,Aspudden,Röd Norsborg,2,51,null,Lägenhet,1947,[Aspudden],2095000,205000,2300000,3162,Svensk Fastighetsförmedling,162.55161412881446,Aspudden
+2012-10-12,Hägerstensvägen 138,Aspudden,Röd Norsborg,3,71,null,Lägenhet,1912,[Aspudden],3350000,300000,3650000,2989,Svensk Fastighetsförmedling,138.5665765475313,Aspudden
+2012-10-10,Hägerstensvägen 99B,Aspudden,Röd Norsborg,1,38,null,Lägenhet,2007,[Aspudden],1775000,-25000,1750000,2580,Svensk Fastighetsförmedling,355.5928533262186,Aspudden
+2012-10-10,Sigfridsvägen 9,Aspudden,Röd Norsborg,3,68,null,Lägenhet,1982,[Aspudden],2945000,525000,3470000,2302,Svensk Fastighetsförmedling,110.16589486227949,Aspudden
+2012-10-07,Hägerstensvägen 142,Aspudden,Röd Norsborg,3,67,2,Lägenhet,1912,[Aspudden],2995000,305000,3300000,2821,Svensk Fastighetsförmedling,180.61060435241015,Aspudden
+2012-10-07,Hägerstensvägen 154,Aspudden,Röd Norsborg,2,51.5,null,Lägenhet,1945,[Aspudden],2095000,85000,2180000,2832,Svensk Fastighetsförmedling,319.02044767275845,Aspudden
+2012-10-07,Erik Segersälls väg 17,Aspudden,Röd Norsborg,2,55,null,Lägenhet,null,[Aspudden],2245000,-5000,2240000,3095,Svensk Fastighetsförmedling,124.7064972125662,Aspudden
+2012-10-05,Blommensbergsvägen 151,Aspudden,Röd Norsborg,3,56,null,Lägenhet,1946,[Aspudden],2395000,0,2395000,3040,Fastighetsbyrån,335.46236539074545,Ornsberg
+2012-09-30,Sigfridsvägen 15,Aspudden,Röd Norsborg,3,64,null,Lägenhet,1949,[Aspudden],2875000,295000,3170000,2907,Fastighetsbyrån,116.46894566042205,Aspudden
+2012-09-23,Manhemsgatan 7,Aspudden,Röd Norsborg,1,35,null,Lägenhet,1948,[Aspudden],1695000,115000,1810000,2000,Fastighetsbyrån,211.53672641653614,Aspudden
+2012-09-18,Hägerstensvägen 173,Aspudden,Röd Norsborg,2,46,null,Lägenhet,1947,[Midsommarkransen],1850000,70000,1920000,2786,Fastighetsbyrån,241.2442770883185,Ornsberg
+2012-09-13,Torsten Alms gata 31,Aspudden,Röd Norsborg,2,58,null,Lägenhet,1949,[Aspudden],2200000,290000,2490000,3273,Fastighetsbyrån,369.036749497994,Ornsberg
+2012-09-12,Blommensbergsvägen 190,Aspudden,Röd Norsborg,2,58,null,Lägenhet,1948,[Aspudden],1995000,655000,2650000,3765,Svensk Fastighetsförmedling,251.87633237308356,Ornsberg
+2012-09-12,Sigurd Rings Gata 10,Aspudden,Röd Norsborg,2,54,null,Lägenhet,1949,[Aspudden],2125000,155000,2280000,3267,Svensk Fastighetsförmedling,549.1892762483441,Aspudden
+2012-09-12,Torsten Alms gata 59,Aspudden,Röd Norsborg,2,54,null,Lägenhet,null,[Aspudden],2195000,30000,2225000,2310,Fastighetsbyrån,400.9883728658377,Ornsberg
+2012-09-12,Sigurd Rings gata 8,Aspudden,Röd Norsborg,3,63,null,Lägenhet,1948,[Aspudden],3095000,335000,3430000,3086,Svensk Fastighetsförmedling,518.2353512528492,Aspudden
+2012-09-07,Hägerstensvägen 130,Aspudden,Röd Norsborg,2,59,2,Lägenhet,1920,[Aspudden],2695000,190000,2885000,2278,Svensk Fastighetsförmedling,80.74762465854354,Aspudden
+2012-09-07,Manhemsgatan 7,Aspudden,Röd Norsborg,2,42.5,null,Lägenhet,1945,[Aspudden],1845000,-25000,1820000,2208,Svensk Fastighetsförmedling,211.53672641653614,Aspudden
+2012-08-30,Hägerstensvägen 157B,Aspudden,Röd Norsborg,3,58.5,null,Lägenhet,1946,[Hägersten],2395000,250000,2645000,3166,Svensk Fastighetsförmedling,278.52797039397734,Aspudden

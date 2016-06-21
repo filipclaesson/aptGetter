@@ -1,0 +1,324 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-12,Mariehällsvägen 18,Mariehäll,Blå Sundbyberg,3,78.5,2,Lägenhet,2004,[Mariehäll],3795000,445000,4240000,5192,Länsförsäkringar Fastighetsförmedling,809.9263092689029,Sundbybergs centrum
+2016-05-11,Askängsbacken 3,Mariehäll,Blå Sundbyberg,1,27,3,Lägenhet,null,[Bromma],1795000,280000,2075000,1928,Svenska Mäklarhuset,748.543342834153,Sundbybergs centrum
+2016-05-06,Adolfsbergsvägen 42,Mariehäll,Blå Sundbyberg,4,124,null,Radhus,1989,[Bromma],5495000,825000,6320000,null,Svensk Fastighetsförmedling,1092.0832763966735,Sundbybergs centrum
+2016-05-06,Svalvägen 3,Mariehäll,Blå Sundbyberg,3,73,2,Lägenhet,1951,[Mariehäll],2995000,205000,3200000,4904,Fastighetsbyrån,1183.5143315566409,Sundbybergs centrum
+2016-05-05,Askängsbacken 16,Mariehäll,Blå Sundbyberg,3,78,1,Lägenhet,2012,[Mariehäll],3795000,505000,4300000,4651,Fastighetsbyrån,688.2861479594973,Sundbybergs centrum
+2016-05-05,Alpvägen 14,Mariehäll,Blå Sundbyberg,3,76,null,Lägenhet,2008,[Bromma Mariehäll],3495000,0,3495000,4962,Notar,842.7114704862273,Duvbo
+2016-05-02,Solbergsvägen 47,Mariehäll,Blå Sundbyberg,1.5,30,2,Lägenhet,1938,[Mariehäll],1795000,605000,2400000,1759,Fastighetsbyrån,1216.0941449122938,Sundbybergs centrum
+2016-04-27,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,3,70,6,Lägenhet,2005,[Bromma Mariehäll],3695000,725000,4420000,4608,Notar,828.426296626654,Sundbybergs centrum
+2016-04-26,Hagelstavägen 12,Mariehäll,Blå Sundbyberg,2,42,3,Lägenhet,null,[Bromma],1995000,535000,2530000,3142,Svenska Mäklarhuset,1338.423152487963,Sundbybergs centrum
+2016-04-25,Askängsbacken 12,Mariehäll,Blå Sundbyberg,4,87,3,Lägenhet,null,[Bromma],4795000,180000,4975000,5123,Svenska Mäklarhuset,703.8539631479439,Sundbybergs centrum
+2016-04-22,Kratsboda Backe 4,Mariehäll,Blå Sundbyberg,3,63,1,Lägenhet,1993,[Bromma],3295000,0,3295000,2878,Svensk Fastighetsförmedling,1014.3556769994126,Sundbybergs centrum
+2016-04-16,Klintbacken 2,Mariehäll,Blå Sundbyberg,2,60,1,Lägenhet,null,[Bromma],2895000,220000,3115000,3048,Svenska Mäklarhuset,869.1226003171543,Sundbybergs centrum
+2016-04-14,Mariehällsvägen 10,Mariehäll,Blå Sundbyberg,2,57,3,Lägenhet,2005,[Mariehäll],2695000,605000,3300000,3993,Länsförsäkringar Fastighetsförmedling,765.4765164105819,Sundbybergs centrum
+2016-04-14,Adolfsbergsvägen 20,Mariehäll,Blå Sundbyberg,3,64,3,Lägenhet,1947,[Mariehäll],2795000,530000,3325000,3601,Fastighetsbyrån,904.3431848086905,Sundbybergs centrum
+2016-04-13,Cronströmsvägen 14,Mariehäll,Blå Sundbyberg,2,48,2,Lägenhet,1913,[Mariehäll],2695000,355000,3050000,1434,Fastighetsbyrån,1013.5778518482621,Sundbybergs centrum
+2016-04-12,Klintbacken 2,Mariehäll,Blå Sundbyberg,2,64,1,Lägenhet,2004,[Mariehäll],2850000,680000,3530000,3234,Länsförsäkringar Fastighetsförmedling,869.1226003171543,Sundbybergs centrum
+2016-04-12,Karlsbodavägen 40,Mariehäll,Blå Sundbyberg,3,89,null,Lägenhet,null,[Bromma],4395000,1005000,5400000,5545,Erik Olsson Fastighetsförmedling,671.3632660559604,Sundbybergs centrum
+2016-04-08,Fredriksbergsvägen 12,Mariehäll,Blå Sundbyberg,1,34,3,Lägenhet,1929,[Bromma],1850000,430000,2280000,2981,Bjurfors,974.4934736493373,Sundbybergs centrum
+2016-04-08,Alpvägen 14,Mariehäll,Blå Sundbyberg,3,76,2,Lägenhet,2007,[Bromma],3495000,0,3495000,4962,Svensk Fastighetsförmedling,842.7114704862273,Duvbo
+2016-04-08,Askängsbacken 1,Mariehäll,Blå Sundbyberg,3,72,2,Lägenhet,null,[Bromma],2795000,605000,3400000,5141,Svenska Mäklarhuset,762.0571978831291,Sundbybergs centrum
+2016-04-07,Alpvägen 14,Mariehäll,Blå Sundbyberg,2.5,61,3,Lägenhet,2008,[Mariehäll],2795000,580000,3375000,4174,Fastighetsbyrån,842.7114704862273,Duvbo
+2016-03-18,Bällstavägen 49,Mariehäll,Blå Sundbyberg,2,57,3,Lägenhet,1943,[Bromma],2195000,385000,2580000,2278,Svensk Fastighetsförmedling,1152.8035355701902,Duvbo
+2016-03-17,Mariehällsvägen 7,Mariehäll,Blå Sundbyberg,2,39.5,1,Lägenhet,1944,[Mariehäll],2195000,255000,2450000,1997,Fastighetsbyrån,852.5315452788328,Sundbybergs centrum
+2016-03-15,Klintbacken 62B,Mariehäll,Blå Sundbyberg,4,90,3,Lägenhet,null,[Bromma],4495000,305000,4800000,5048,Svenska Mäklarhuset,991.3837702863311,Sundbybergs centrum
+2016-03-09,Kratsbodavägen 24,Mariehäll,Blå Sundbyberg,2.5,59,3,Lägenhet,1986,[Bromma Mariehäll],2495000,855000,3350000,2611,HusmanHagberg,912.6885374893626,Sundbybergs centrum
+2016-03-07,Alpvägen 8,Mariehäll,Blå Sundbyberg,3,62,3,Lägenhet,2003,[Bromma],2675000,450000,3125000,4109,Mäklarhuset,825.9294388186067,Duvbo
+2016-03-02,Askängsbacken 52,Mariehäll,Blå Sundbyberg,1,36,3,Lägenhet,null,[Bromma],2195000,435000,2630000,2762,Svenska Mäklarhuset,704.4477847231233,Sundbybergs centrum
+2016-02-26,Askängsbacken 1,Mariehäll,Blå Sundbyberg,4,72,1,Lägenhet,null,[Bromma],2495000,625000,3120000,5141,Svenska Mäklarhuset,762.0571978831291,Sundbybergs centrum
+2016-02-25,Kratsbodavägen 25,Mariehäll,Blå Sundbyberg,2,40,1,Lägenhet,1986,[Mariehäll],1995000,490000,2485000,1330,Fastighetsbyrån,941.3296137672388,Sundbybergs centrum
+2016-02-24,Gårdsfogdevägen 50,Mariehäll,Blå Sundbyberg,5.5,137,null,Villa,1933,[Mariehäll],6895000,210000,7105000,null,Mäklarringen,1403.0426167654414,Duvbo
+2016-02-23,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,4,94,6,Lägenhet,2008,[Bromma],5775000,225000,6000000,7350,Mäklarhuset,691.659191282598,Sundbybergs centrum
+2016-02-18,Adolfsbergsvägen 48,Mariehäll,Blå Sundbyberg,5,130,null,Radhus,1989,[Bromma Mariehäll],4995000,1355000,6350000,null,Länsförsäkringar Fastighetsförmedling,1086.152592032899,Sundbybergs centrum
+2016-02-18,Kratsboda Backe 4,Mariehäll,Blå Sundbyberg,3,63,3,Lägenhet,1993,[Bromma],3495000,135000,3630000,2878,Svensk Fastighetsförmedling,1014.3556769994126,Sundbybergs centrum
+2016-02-11,Alpvägen 18,Mariehäll,Blå Sundbyberg,2.5,70,4,Lägenhet,null,[Bromma],2395000,430000,2825000,5451,Svenska Mäklarhuset,796.6798998504802,Duvbo
+2016-02-05,Fredriksbergsvägen 12,Mariehäll,Blå Sundbyberg,2,51,2,Lägenhet,1929,[Mariehäll],1995000,105000,2100000,4470,Länsförsäkringar Fastighetsförmedling,974.4934736493373,Sundbybergs centrum
+2016-02-04,Mariehällsvägen 7,Mariehäll,Blå Sundbyberg,2,41.5,3,Lägenhet,1944,[Bromma],2195000,105000,2300000,2053,Svensk Fastighetsförmedling,852.5315452788328,Sundbybergs centrum
+2016-01-29,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,4,94,3,Lägenhet,2008,[Mariehäll],4495000,55000,4550000,5947,Fastighetsbyrån,691.659191282598,Sundbybergs centrum
+2016-01-29,Askängsbacken 56,Mariehäll,Blå Sundbyberg,1,36,2,Lägenhet,2012,[Mariehäll],2195000,255000,2450000,2762,Fastighetsbyrån,701.4652734836543,Sundbybergs centrum
+2016-01-28,Askängsbacken 56,Mariehäll,Blå Sundbyberg,1,36,1,Lägenhet,2011,[Mariehäll],2195000,185000,2380000,2762,Länsförsäkringar Fastighetsförmedling,701.4652734836543,Sundbybergs centrum
+2016-01-27,Karlsbodavägen 40,Mariehäll,Blå Sundbyberg,2,65,5,Lägenhet,2006,[Mariehäll],2975000,635000,3610000,4243,Fastighetsbyrån,671.3632660559604,Sundbybergs centrum
+2016-01-27,Karlsbodavägen 44,Mariehäll,Blå Sundbyberg,4,91.5,3,Lägenhet,2006,[Bromma Bällstaviken],4595000,155000,4750000,5797,HusmanHagberg,650.4478328741349,Sundbybergs centrum
+2016-01-23,Klintbacken 1,Mariehäll,Blå Sundbyberg,2,41.5,1,Lägenhet,1945,[Mariehäll],1995000,155000,2150000,2603,Fastighetsbyrån,885.3725802793199,Sundbybergs centrum
+2016-01-22,Karlsbodavägen 40,Mariehäll,Blå Sundbyberg,3,89,4,Lägenhet,2006,[Bällsta],4295000,505000,4800000,5545,Länsförsäkringar Fastighetsförmedling,671.3632660559604,Sundbybergs centrum
+2016-01-13,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1.5,35,4,Lägenhet,2008,[Bromma Mariehäll],1995000,405000,2400000,2608,HusmanHagberg,691.659191282598,Sundbybergs centrum
+2015-12-21,Mariehällsvägen 14,Mariehäll,Blå Sundbyberg,3,70.4,1,Lägenhet,2005,[Bromma Mariehäll],3495000,415000,3910000,4697,Notar,751.2354101711028,Sundbybergs centrum
+2015-12-11,Alpvägen 20,Mariehäll,Blå Sundbyberg,4,118,null,Lägenhet,2007,[Annedal],5495000,105000,5600000,6640,Notar,819.3381434508365,Duvbo
+2015-12-11,Kratsbodavägen 53,Mariehäll,Blå Sundbyberg,2,53,2,Lägenhet,1953,[Mariehäll],2495000,270000,2765000,2800,Vision Fastighetsmäkleri AB,921.5687763580188,Duvbo
+2015-12-02,Karlsbodavägen 55,Mariehäll,Blå Sundbyberg,1.5,35,0,Lägenhet,2008,[Bromma Mariehäll],1995000,435000,2430000,2608,HusmanHagberg,692.3137942172789,Sundbybergs centrum
+2015-11-30,Alpvägen 22,Mariehäll,Blå Sundbyberg,3,70,5,Lägenhet,null,[Bromma],3395000,325000,3720000,4633,Svenska Mäklarhuset,851.4369911794128,Duvbo
+2015-11-20,Karlsbodavägen 40,Mariehäll,Blå Sundbyberg,2,50.5,2,Lägenhet,null,[Bromma],2495000,655000,3150000,3456,Svenska Mäklarhuset,671.3632660559604,Sundbybergs centrum
+2015-11-18,Klintbacken 1,Mariehäll,Blå Sundbyberg,1.5,41.5,1,Lägenhet,1945,[Mariehäll],1995000,205000,2200000,2693,Fastighetsbyrån,885.3725802793199,Sundbybergs centrum
+2015-11-14,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1,35,3,Lägenhet,2008,[Mariehäll],1995000,305000,2300000,2847,Länsförsäkringar Fastighetsförmedling,691.659191282598,Sundbybergs centrum
+2015-11-13,Alpvägen 22,Mariehäll,Blå Sundbyberg,2,49,null,Lägenhet,2007,[Mariehäll],2850000,0,2850000,3590,Länsförsäkringar Fastighetsförmedling,851.4369911794128,Duvbo
+2015-11-06,Mariehällsvägen 16,Mariehäll,Blå Sundbyberg,2,57.2,1,Lägenhet,2004,[Bromma Mariehäll],2595000,405000,3000000,4240,Notar,785.400598436101,Sundbybergs centrum
+2015-11-05,Mariehällsvägen 16,Mariehäll,Blå Sundbyberg,2,57.2,1,Lägenhet,2004,[Mariehäll],2495000,260000,2755000,4240,Fastighetsbyrån,785.400598436101,Sundbybergs centrum
+2015-11-03,Mariehällsvägen 18,Mariehäll,Blå Sundbyberg,3,78.5,12,Lägenhet,2004,[Bromma Mariehäll],3495000,305000,3800000,5321,Notar,809.9263092689029,Sundbybergs centrum
+2015-10-30,Kratsbodavägen 26,Mariehäll,Blå Sundbyberg,1,41,1,Lägenhet,1986,[Bromma Mariehäll],1995000,515000,2510000,1815,HusmanHagberg,889.8897213133465,Sundbybergs centrum
+2015-10-29,Klintbacken 74A,Mariehäll,Blå Sundbyberg,2,56,1,Lägenhet,2004,[Mariehäll],2495000,555000,3050000,3332,Fastighetsbyrån,1036.810340504123,Sundbybergs centrum
+2015-10-27,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,3,Lägenhet,1975,[Bromma Mariehäll],1695000,105000,1800000,2551,HusmanHagberg,796.4864089848815,Duvbo
+2015-10-23,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1.5,35,3,Lägenhet,2008,[Bromma Mariehäll],1995000,405000,2400000,2608,HusmanHagberg,691.659191282598,Sundbybergs centrum
+2015-10-22,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,2,49,5,Lägenhet,2005,[Mariehäll],2495000,605000,3100000,3389,Fastighetsbyrån,828.426296626654,Sundbybergs centrum
+2015-10-19,Mariehällsvägen 12,Mariehäll,Blå Sundbyberg,4,91.7,1,Lägenhet,2005,[Bromma Mariehäll],4095000,755000,4850000,5676,Notar,759.0953268958154,Sundbybergs centrum
+2015-10-19,Alpvägen 22,Mariehäll,Blå Sundbyberg,3,70,2,Lägenhet,2007,[Bromma Mariehäll],3350000,100000,3450000,4633,Notar,851.4369911794128,Duvbo
+2015-10-19,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,2,57,3,Lägenhet,2005,[Bromma Mariehäll],2495000,805000,3300000,3884,Notar,828.426296626654,Sundbybergs centrum
+2015-10-19,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,3,70.7,6,Lägenhet,2004,[Bromma Mariehäll],3395000,885000,4280000,5129,Notar,833.9706752253475,Sundbybergs centrum
+2015-10-16,Bällstavägen 62,Mariehäll,Blå Sundbyberg,3,84,2,Lägenhet,2015,[Annedal],4100000,0,4100000,5285,Diplomat Fastighetsmäkleri AB,1260.8593273556173,Duvbo
+2015-10-14,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,2,40.7,4,Lägenhet,2004,[Mariehäll-Sundbyberg],1995000,455000,2450000,3367,SthlmFast,833.9706752253475,Sundbybergs centrum
+2015-10-09,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,3,Lägenhet,1975,[Bromma Mariehäll],1595000,0,1595000,2695,HusmanHagberg,796.4864089848815,Duvbo
+2015-10-05,Alpvägen 14,Mariehäll,Blå Sundbyberg,3,76,1,Lägenhet,2007,[Bromma Mariehäll],3295000,55000,3350000,4864,Notar,842.7114704862273,Duvbo
+2015-10-02,Alpvägen 16,Mariehäll,Blå Sundbyberg,2,61,2,Lägenhet,2008,[Mariehäll],2695000,525000,3220000,4092,Fastighetsbyrån,809.9018855156427,Duvbo
+2015-09-30,Askängsbacken 48,Mariehäll,Blå Sundbyberg,1,36,4,Lägenhet,2012,[Mariehäll],1995000,525000,2520000,2707,Fastighetsbyrån,709.5096819731639,Sundbybergs centrum
+2015-09-24,Adolfsbergsvägen 14,Mariehäll,Blå Sundbyberg,2,53,2.5,Lägenhet,1947,[Bromma],2395000,705000,3100000,2982,Mäklarhuset,863.4165429935805,Sundbybergs centrum
+2015-09-23,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1.5,35,3,Lägenhet,2008,[Bromma Mariehäll],1995000,585000,2580000,2608,HusmanHagberg,691.659191282598,Sundbybergs centrum
+2015-09-23,Flyttblocksvägen 18,Mariehäll,Blå Sundbyberg,5,114,null,Villa,1909,[Mariehäll],5250000,1150000,6400000,null,Fastighetsbyrån,1223.8625994919055,Sundbybergs centrum
+2015-09-12,Bällstavägen 47,Mariehäll,Blå Sundbyberg,8,218,null,Villa,1930,[Mariehäll],8495000,2155000,10650000,null,Fastighetsbyrån,1141.8670744827284,Duvbo
+2015-09-11,Alpvägen 8,Mariehäll,Blå Sundbyberg,3,62,2,Lägenhet,2002,[Bromma Mariehäll],2995000,240000,3235000,4109,Länsförsäkringar Fastighetsförmedling,825.9294388186067,Duvbo
+2015-09-10,Askängsbacken 20,Mariehäll,Blå Sundbyberg,4,92,1,Lägenhet,2012,[Mariehäll],3950000,845000,4795000,5201,Karlsson & Uddare,669.2684048344105,Sundbybergs centrum
+2015-09-08,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1,35,4,Lägenhet,2008,[Mariehäll],1995000,655000,2650000,2608,Fastighetsbyrån,691.659191282598,Sundbybergs centrum
+2015-09-07,Klintbacken 4,Mariehäll,Blå Sundbyberg,2,46,null,Lägenhet,2004,[Bromma Mariehäll],2150000,250000,2400000,2381,Notar,894.6553847225018,Sundbybergs centrum
+2015-09-07,Klintbacken 4,Mariehäll,Blå Sundbyberg,2,51,null,Lägenhet,2004,[Mariehäll],2295000,485000,2780000,2622,Länsförsäkringar Fastighetsförmedling,894.6553847225018,Sundbybergs centrum
+2015-09-02,Hagelstavägen 12,Mariehäll,Blå Sundbyberg,1,27,null,Lägenhet,1948,[Mariehäll],1495000,55000,1550000,1844,Fastighetsbyrån,1338.423152487963,Sundbybergs centrum
+2015-08-27,Klintbacken 4,Mariehäll,Blå Sundbyberg,4,98,null,Lägenhet,2004,[Mariehäll],4395000,305000,4700000,4725,Fastighetsbyrån,894.6553847225018,Sundbybergs centrum
+2015-08-26,Askängsbacken 5,Mariehäll,Blå Sundbyberg,1,27,3,Lägenhet,1940,[Bromma Mariehäll],1695000,555000,2250000,1872,HusmanHagberg,751.3331907642104,Sundbybergs centrum
+2015-08-26,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1,35,2,Lägenhet,2008,[Bromma Mariehäll],1895000,555000,2450000,2608,HusmanHagberg,691.659191282598,Sundbybergs centrum
+2015-08-24,Mariehällsvägen 1,Mariehäll,Blå Sundbyberg,2,41,2,Lägenhet,1940,[Mariehäll],2295000,765000,3060000,2692,Innerstadsspecialisten AB,911.0285877026523,Sundbybergs centrum
+2015-08-20,Kratsboda Backe 4,Mariehäll,Blå Sundbyberg,4,74,2,Lägenhet,1993,[Bromma Mariehäll],3395000,655000,4050000,3570,Länsförsäkringar Fastighetsförmedling,1014.3556769994126,Sundbybergs centrum
+2015-08-13,Kratsbodavägen 25,Mariehäll,Blå Sundbyberg,4.5,112,1,Lägenhet,1986,[Mariehäll],4495000,1030000,5525000,3724,Fastighetsbyrån,941.3296137672388,Sundbybergs centrum
+2015-08-12,Klintbacken 64A,Mariehäll,Blå Sundbyberg,2,56,1,Lägenhet,2004,[Mariehäll],2495000,415000,2910000,3332,Fastighetsbyrån,1013.1410035320582,Sundbybergs centrum
+2015-08-11,Askängsbacken 48,Mariehäll,Blå Sundbyberg,2,49,2,Lägenhet,2013,[Annedal],2350000,300000,2650000,3349,Notar,709.5096819731639,Sundbybergs centrum
+2015-07-31,Askängsbacken 52,Mariehäll,Blå Sundbyberg,2,49,4,Lägenhet,null,[Bromma],2495000,425000,2920000,3349,Svenska Mäklarhuset,704.4477847231233,Sundbybergs centrum
+2015-07-07,Hagelstavägen 12,Mariehäll,Blå Sundbyberg,3,73,1,Lägenhet,1948,[Bromma Mariehäll],2450000,-75000,2375000,4975,Notar,1338.423152487963,Sundbybergs centrum
+2015-07-01,Alpvägen 22,Mariehäll,Blå Sundbyberg,2,49,2,Lägenhet,2007,[Bromma],2195000,425000,2620000,3590,Erik Olsson Fastighetsförmedling,851.4369911794128,Duvbo
+2015-07-01,Klintbacken 90,Mariehäll,Blå Sundbyberg,2,41,1,Lägenhet,1920,[Mariehäll],2295000,405000,2700000,2434,Fastighetsbyrån,1049.4310407766488,Sundbybergs centrum
+2015-06-15,Säterivägen 21,Mariehäll,Blå Sundbyberg,4,117,3,Lägenhet,1939,[Mariehäll],3895000,305000,4200000,4956,Fastighetsbyrån,1372.902112383564,Duvbo
+2015-06-12,Alpvägen 14,Mariehäll,Blå Sundbyberg,2.5,60,1,Lägenhet,2007,[Mariehäll],2595000,0,2595000,4054,Länsförsäkringar Fastighetsförmedling,842.7114704862273,Duvbo
+2015-05-21,Klintbacken 8,Mariehäll,Blå Sundbyberg,3,62,1,Lägenhet,null,[Bromma],2895000,-200000,2695000,3141,Svenska Mäklarhuset,952.3716891251362,Sundbybergs centrum
+2015-05-20,Klintbacken 72A,Mariehäll,Blå Sundbyberg,2,56,1,Lägenhet,2004,[Mariehäll],2395000,115000,2510000,3270,Fastighetsbyrån,1030.9831519756467,Sundbybergs centrum
+2015-05-19,Cronströmsvägen 14,Mariehäll,Blå Sundbyberg,4,86,4,Lägenhet,null,[Bromma],3295000,365000,3660000,2691,Svenska Mäklarhuset,1013.5778518482621,Sundbybergs centrum
+2015-05-13,Askängsbacken 38,Mariehäll,Blå Sundbyberg,5,139,null,Lägenhet,2013,[Bromma],6495000,505000,7000000,5165,Svensk Fastighetsförmedling,675.7568699240934,Sundbybergs centrum
+2015-05-13,Mariehällsvägen 10,Mariehäll,Blå Sundbyberg,3,70.7,6,Lägenhet,2005,[Mariehäll],3295000,805000,4100000,4697,Notar,765.4765164105819,Sundbybergs centrum
+2015-05-13,Adolfsbergsvägen 14A,Mariehäll,Blå Sundbyberg,2,61,null,Lägenhet,1947,[Mariehäll],2395000,305000,2700000,3432,Fastighetsbyrån,855.5088807183846,Sundbybergs centrum
+2015-05-09,Kratsbodavägen 53,Mariehäll,Blå Sundbyberg,2,53,1,Lägenhet,1953,[Bromma],2195000,655000,2850000,2800,Svensk Fastighetsförmedling,921.5687763580188,Duvbo
+2015-05-07,Askängsbacken 48,Mariehäll,Blå Sundbyberg,2,53,1,Lägenhet,2012,[Mariehäll],2295000,285000,2580000,3491,Fastighetsbyrån,709.5096819731639,Sundbybergs centrum
+2015-04-30,Cronströmsvägen 12,Mariehäll,Blå Sundbyberg,1,34,2,Lägenhet,1912,[Mariehäll],1795000,75000,1870000,1016,Fastighetsbyrån,1004.5460679242235,Sundbybergs centrum
+2015-04-29,Hagelstavägen 12,Mariehäll,Blå Sundbyberg,1.5,40,3,Lägenhet,1948,[Mariehäll],1895000,205000,2100000,2735,Fastighetsbyrån,1338.423152487963,Sundbybergs centrum
+2015-04-29,Klintbacken 1,Mariehäll,Blå Sundbyberg,1.5,41.5,2,Lägenhet,1944,[Bromma],1945000,215000,2160000,2497,Notar,885.3725802793199,Sundbybergs centrum
+2015-04-27,Mariehällsvägen 22,Mariehäll,Blå Sundbyberg,3,83,null,Lägenhet,null,[Mariehäll],3995000,1555000,5550000,4218,Fastighetsbyrån,789.4101123715196,Sundbybergs centrum
+2015-04-24,Mariehällsvägen 7,Mariehäll,Blå Sundbyberg,2,39.5,null,Lägenhet,1944,[Bromma Mariehäll],1975000,175000,2150000,1902,Notar,852.5315452788328,Sundbybergs centrum
+2015-04-17,Alpvägen 22,Mariehäll,Blå Sundbyberg,2,49,2,Lägenhet,2007,[Bromma],2195000,435000,2630000,3590,Länsförsäkringar Fastighetsförmedling,851.4369911794128,Duvbo
+2015-04-16,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,4,94,2,Lägenhet,2008,[Bromma Mariehäll],3775000,495000,4270000,5947,Notar,691.659191282598,Sundbybergs centrum
+2015-04-16,Askängsbacken 16,Mariehäll,Blå Sundbyberg,2,55,2,Lägenhet,2013,[Annedal],2695000,245000,2940000,3562,Notar,688.2861479594973,Sundbybergs centrum
+2015-04-15,Alpvägen 16,Mariehäll,Blå Sundbyberg,4,92,2,Lägenhet,2008,[Bromma],3795000,125000,3920000,5598,Svensk Fastighetsförmedling,809.9018855156427,Duvbo
+2015-04-15,Klintbacken 1,Mariehäll,Blå Sundbyberg,2,41.5,3,Lägenhet,null,[Mariehäll],2000000,520000,2520000,2532,Fastighetsmäklarna,885.3725802793199,Sundbybergs centrum
+2015-04-01,Mariehällsvägen 1,Mariehäll,Blå Sundbyberg,2,56,null,Lägenhet,1940,[Mariehäll],2495000,135000,2630000,3528,Fastighetsbyrån,911.0285877026523,Sundbybergs centrum
+2015-03-30,Cronströmsvägen 14,Mariehäll,Blå Sundbyberg,1,35,1,Lägenhet,1913,[Bromma],1795000,355000,2150000,1167,Länsförsäkringar Fastighetsförmedling,1013.5778518482621,Sundbybergs centrum
+2015-03-25,Cronströmsvägen 12,Mariehäll,Blå Sundbyberg,6,127,2,Lägenhet,1912,[Mariehäll],4495000,30000,4525000,3916,Fastighetsbyrån,1004.5460679242235,Sundbybergs centrum
+2015-03-25,Tegelbergsvägen 36,Mariehäll,Blå Sundbyberg,3,79,2,Lägenhet,1948,[Bromma Mariehäll],2495000,-45000,2450000,5200,Notar,1127.964329842221,Duvbo
+2015-03-23,Fredriksbergsvägen 12,Mariehäll,Blå Sundbyberg,2,50,3,Lägenhet,1929,[Bromma],2095000,0,2095000,4470,Länsförsäkringar Fastighetsförmedling,974.4934736493373,Sundbybergs centrum
+2015-03-23,Karlsbodavägen 42,Mariehäll,Blå Sundbyberg,2,65,5,Lägenhet,2006,[Bromma],2795000,0,2795000,4243,Länsförsäkringar Fastighetsförmedling,660.3010468757323,Sundbybergs centrum
+2015-03-19,Kratsbodavägen 26,Mariehäll,Blå Sundbyberg,3,86,1,Lägenhet,1986,[Bromma Mariehäll],3495000,675000,4170000,3593,HusmanHagberg,889.8897213133465,Sundbybergs centrum
+2015-03-18,Karlsbodavägen 53,Mariehäll,Blå Sundbyberg,1.5,35,1,Lägenhet,2008,[Bromma],1795000,505000,2300000,2847,Svensk Fastighetsförmedling,704.6260773526833,Sundbybergs centrum
+2015-03-16,Alpvägen 20,Mariehäll,Blå Sundbyberg,2,49,5,Lägenhet,null,[Mariehäll],2395000,0,2395000,3590,Fastighetsbyrån,819.3381434508365,Duvbo
+2015-03-16,Karlsbodavägen 40,Mariehäll,Blå Sundbyberg,4,97,3,Lägenhet,2006,[Mariehäll],4495000,305000,4800000,6097,Fastighetsbyrån,671.3632660559604,Sundbybergs centrum
+2015-03-13,Klintbacken 2,Mariehäll,Blå Sundbyberg,3,62,2,Lägenhet,2004,[Bromma],2500000,700000,3200000,3141,Länsförsäkringar Fastighetsförmedling,869.1226003171543,Sundbybergs centrum
+2015-03-12,Adolfsbergsvägen 14,Mariehäll,Blå Sundbyberg,3,64,2,Lägenhet,1947,[Mariehäll],2495000,475000,2970000,3602,Fastighetsbyrån,863.4165429935805,Sundbybergs centrum
+2015-03-11,Karlsbodavägen 44,Mariehäll,Blå Sundbyberg,4,92,3,Lägenhet,2006,[Bromma],3975000,225000,4200000,5797,Svensk Fastighetsförmedling,650.4478328741349,Sundbybergs centrum
+2015-03-11,Mariehällsvägen 10,Mariehäll,Blå Sundbyberg,3,70.7,5,Lägenhet,2005,[Bromma],3450000,0,3450000,4697,Notar,765.4765164105819,Sundbybergs centrum
+2015-03-11,Kratsbodavägen 36,Mariehäll,Blå Sundbyberg,2,38,3,Lägenhet,1944,[Bromma],1795000,505000,2300000,2202,Svensk Fastighetsförmedling,965.7862983259351,Sundbybergs centrum
+2015-03-04,Askängsbacken 12,Mariehäll,Blå Sundbyberg,2,55,3,Lägenhet,2013,[Bromma],2495000,505000,3000000,3562,Notar,703.8539631479439,Sundbybergs centrum
+2015-03-04,Askängsbacken 52,Mariehäll,Blå Sundbyberg,2,49,4,Lägenhet,2013,[Bromma Mariehäll],2650000,0,2650000,3349,Notar,704.4477847231233,Sundbybergs centrum
+2015-02-27,Alpvägen 8,Mariehäll,Blå Sundbyberg,3,62,3,Lägenhet,2003,[Bromma Mariehäll],2495000,445000,2940000,4109,HusmanHagberg,825.9294388186067,Duvbo
+2015-02-26,Karlsbodavägen 44,Mariehäll,Blå Sundbyberg,3,96,3,Lägenhet,2006,[Bromma],2995000,565000,3560000,5885,Mäklarhuset,650.4478328741349,Sundbybergs centrum
+2015-02-25,Alpvägen 20,Mariehäll,Blå Sundbyberg,3,70,6,Lägenhet,2008,[Ulvsunda],2950000,445000,3395000,4633,Svenska Mäklarhuset,819.3381434508365,Duvbo
+2015-02-11,Hagelstavägen 12,Mariehäll,Blå Sundbyberg,1,34,null,Lägenhet,1948,[Bromma],1495000,265000,1760000,2323,Erik Olsson Fastighetsförmedling,1338.423152487963,Sundbybergs centrum
+2015-02-05,Klintbacken 70A,Mariehäll,Blå Sundbyberg,2,56,null,Lägenhet,2004,[Mariehäll],2295000,15000,2310000,3270,Fastighetsbyrån,1023.5186904972451,Sundbybergs centrum
+2015-01-30,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,1,Lägenhet,1975,[Mariehäll],1395000,105000,1500000,2380,Länsförsäkringar Fastighetsförmedling,796.4864089848815,Duvbo
+2015-01-22,Klintbacken 6,Mariehäll,Blå Sundbyberg,3,62,1,Lägenhet,2004,[Bromma],2495000,525000,3020000,3141,Svenska Mäklarhuset,923.1858541079979,Sundbybergs centrum
+2015-01-22,Skolgatan 1B,Mariehäll,Blå Sundbyberg,3,81,null,Lägenhet,1999,[Sundbyberg/Duvbo],3295000,390000,3685000,5351,Fastighetsbyrån,683.6419050352787,Sundbybergs centrum
+2015-01-15,Askängsbacken 56,Mariehäll,Blå Sundbyberg,3,82,6,Lägenhet,2012,[Ulvsunda],3850000,550000,4400000,4702,BOSTHLM,701.4652734836543,Sundbybergs centrum
+2015-01-15,Mariehällsvägen 16,Mariehäll,Blå Sundbyberg,4,91.8,3,Lägenhet,2004,[Mariehäll],3495000,655000,4150000,5922,Länsförsäkringar Fastighetsförmedling,785.400598436101,Sundbybergs centrum
+2015-01-14,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,2,57.2,null,Lägenhet,2004,[Bromma Mariehäll],2350000,25000,2375000,4137,Notar,833.9706752253475,Sundbybergs centrum
+2014-12-19,Flyttblocksvägen 10,Mariehäll,Blå Sundbyberg,6,209,null,Villa,1939,[Mariehäll],8500000,-1150000,7350000,null,Magnusson Mäkleri,1266.0713637797503,Sundbybergs centrum
+2014-12-10,Kratsbodavägen 25,Mariehäll,Blå Sundbyberg,2,66,1,Lägenhet,1986,[Bromma],1995000,555000,2550000,2640,Bjurfors,941.3296137672388,Sundbybergs centrum
+2014-11-27,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1,35,4,Lägenhet,2008,[Bromma Mariehäll],1695000,355000,2050000,2608,Notar,691.659191282598,Sundbybergs centrum
+2014-11-27,Mariehällsvägen 16,Mariehäll,Blå Sundbyberg,3,78.5,null,Lägenhet,2004,[Mariehäll],2895000,330000,3225000,5192,Fastighetsbyrån,785.400598436101,Sundbybergs centrum
+2014-11-20,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1,35,3,Lägenhet,2008,[Bromma Mariehäll],1850000,50000,1900000,2847,Mäklarringen,691.659191282598,Sundbybergs centrum
+2014-11-19,Bällstavägen 49,Mariehäll,Blå Sundbyberg,1,36,1,Lägenhet,1943,[Ulvsunda],1750000,0,1750000,1427,Svensk Fastighetsförmedling,1152.8035355701902,Duvbo
+2014-11-15,Mariehällsvägen 1,Mariehäll,Blå Sundbyberg,2,41,2,Lägenhet,1940,[Mariehäll],1995000,305000,2300000,2665,Notar,911.0285877026523,Sundbybergs centrum
+2014-11-13,Mariehällsvägen 6,Mariehäll,Blå Sundbyberg,3,70,null,Lägenhet,2004,[Ulvsunda],2995000,-95000,2900000,4473,SkandiaMäklarna,819.8245857178636,Sundbybergs centrum
+2014-11-12,Alpvägen 10,Mariehäll,Blå Sundbyberg,3,81.3,1,Lägenhet,1975,[Mariehäll],2195000,55000,2250000,5595,Länsförsäkringar Fastighetsförmedling,796.4864089848815,Duvbo
+2014-11-12,Mariehällsvägen 10,Mariehäll,Blå Sundbyberg,3,70.4,null,Lägenhet,2005,[Mariehäll],2795000,230000,3025000,4697,Fastighetsbyrån,765.4765164105819,Sundbybergs centrum
+2014-11-08,Askängsbacken 44,Mariehäll,Blå Sundbyberg,5,139,null,Lägenhet,2011,[Bromma],6890000,-90000,6800000,5165,Erik Olsson Fastighetsförmedling,678.0149843075999,Sundbybergs centrum
+2014-11-07,Alpvägen 22,Mariehäll,Blå Sundbyberg,2,49,7,Lägenhet,2008,[Bromma],2495000,360000,2855000,3590,Svenska Mäklarhuset,851.4369911794128,Duvbo
+2014-11-07,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1,35,2,Lägenhet,2008,[Bromma Mariehäll],1850000,50000,1900000,2847,Mäklarringen,691.659191282598,Sundbybergs centrum
+2014-11-06,Klintbacken 76A,Mariehäll,Blå Sundbyberg,2,56,null,Lägenhet,2004,[Mariehäll],2495000,55000,2550000,3270,Fastighetsbyrån,1044.3638973097534,Sundbybergs centrum
+2014-10-29,Skolgatan 1B,Mariehäll,Blå Sundbyberg,3,81,null,Lägenhet,1998,[Sundbyberg/Duvbo],3250000,-175000,3075000,5351,Erik Olsson Fastighetsförmedling,683.6419050352787,Sundbybergs centrum
+2014-10-25,Tegelbergsvägen 28,Mariehäll,Blå Sundbyberg,5,154,null,Villa,1910,[Ulvsunda],5995000,505000,6500000,null,Svensk Fastighetsförmedling,1094.4263993249915,Sundbybergs centrum
+2014-10-23,Kratsbodavägen 26,Mariehäll,Blå Sundbyberg,5,112,2,Lägenhet,1986,[Bromma Mariehäll],4450000,-200000,4250000,4486,HusmanHagberg,889.8897213133465,Sundbybergs centrum
+2014-10-03,Askängsbacken 48,Mariehäll,Blå Sundbyberg,3,77,null,Lägenhet,2013,[Mariehäll],3495000,190000,3685000,4524,Fastighetsbyrån,709.5096819731639,Sundbybergs centrum
+2014-09-25,Cronströmsvägen 14,Mariehäll,Blå Sundbyberg,2,49,2,Lägenhet,1912,[Bromma],2200000,20000,2220000,1585,Mäklarhuset,1013.5778518482621,Sundbybergs centrum
+2014-09-20,Mariehällsvägen 10,Mariehäll,Blå Sundbyberg,3,78.2,null,Lägenhet,2005,[Mariehäll],2695000,55000,2750000,5010,Fastighetsbyrån,765.4765164105819,Sundbybergs centrum
+2014-09-18,Alpvägen 8,Mariehäll,Blå Sundbyberg,3,62,2,Lägenhet,2002,[Bromma],2295000,130000,2425000,4109,Erik Olsson Fastighetsförmedling,825.9294388186067,Duvbo
+2014-09-14,Askängsbacken 12,Mariehäll,Blå Sundbyberg,4,87,2,Lägenhet,null,[Ulvsunda],3295000,275000,3570000,5023,Svensk Fastighetsförmedling,703.8539631479439,Sundbybergs centrum
+2014-09-11,Alpvägen 18,Mariehäll,Blå Sundbyberg,2,49,2,Lägenhet,null,[Ulvsunda],2150000,200000,2350000,3814,Svensk Fastighetsförmedling,796.6798998504802,Duvbo
+2014-09-10,Kratsbodavägen 55,Mariehäll,Blå Sundbyberg,2,54,null,Lägenhet,1953,[Mariehäll],2150000,100000,2250000,3050,Fastighetsbyrån,932.9610991099228,Duvbo
+2014-09-04,Askängsbacken 56,Mariehäll,Blå Sundbyberg,2,49,2,Lägenhet,2012,[Mariehäll],2395000,-45000,2350000,3349,Mäklarringen,701.4652734836543,Sundbybergs centrum
+2014-08-30,Mariehällsvägen 12,Mariehäll,Blå Sundbyberg,2,57.1,null,Lägenhet,2005,[Mariehäll],2195000,255000,2450000,3993,Fastighetsbyrån,759.0953268958154,Sundbybergs centrum
+2014-08-25,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1,35,null,Lägenhet,2008,[Bromma Mariehäll],1695000,225000,1920000,2608,Notar,691.659191282598,Sundbybergs centrum
+2014-08-18,Kratsbodavägen 55,Mariehäll,Blå Sundbyberg,2,53,3,Lägenhet,null,[Ulvsunda],2150000,150000,2300000,3050,Svensk Fastighetsförmedling,932.9610991099228,Duvbo
+2014-08-18,Tegelbergsvägen 36,Mariehäll,Blå Sundbyberg,2,43,null,Lägenhet,1948,[Mariehäll],1710000,40000,1750000,3214,Fastighetsbyrån,1127.964329842221,Duvbo
+2014-08-13,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,null,Lägenhet,1975,[Mariehäll],1395000,165000,1560000,2656,Fastighetsbyrån,796.4864089848815,Duvbo
+2014-08-07,Mariehällsvägen 14,Mariehäll,Blå Sundbyberg,3,70.4,6,Lägenhet,2004,[Bromma Mariehäll],2950000,270000,3220000,4697,Notar,751.2354101711028,Sundbybergs centrum
+2014-07-31,Alpvägen 18,Mariehäll,Blå Sundbyberg,3,67,2,Lägenhet,1928,[Mariehäll],2650000,0,2650000,5220,Erik Olsson Fastighetsförmedling,796.6798998504802,Duvbo
+2014-07-25,Alpvägen 22,Mariehäll,Blå Sundbyberg,2,49,4,Lägenhet,2008,[Bromma],1995000,405000,2400000,3590,Svenska Mäklarhuset,851.4369911794128,Duvbo
+2014-07-18,Askängsbacken 52,Mariehäll,Blå Sundbyberg,2,53,null,Lägenhet,2013,[Mariehäll],2420000,0,2420000,3491,Fastighetsbyrån,704.4477847231233,Sundbybergs centrum
+2014-07-17,Klintbacken 2,Mariehäll,Blå Sundbyberg,4,105,3,Lägenhet,2004,[Mariehäll],3295000,-95000,3200000,4938,Länsförsäkringar Fastighetsförmedling,869.1226003171543,Sundbybergs centrum
+2014-06-25,Mariehällsvägen 16,Mariehäll,Blå Sundbyberg,3,78.5,null,Lägenhet,2004,[Mariehäll],2795000,455000,3250000,5192,Fastighetsbyrån,785.400598436101,Sundbybergs centrum
+2014-06-19,Mariehällsvägen 10,Mariehäll,Blå Sundbyberg,3,78.2,null,Lägenhet,2005,[Mariehäll],2895000,455000,3350000,5010,Fastighetsbyrån,765.4765164105819,Sundbybergs centrum
+2014-06-18,Klintbacken 1,Mariehäll,Blå Sundbyberg,2,41.5,3,Lägenhet,1944,[Bromma Mariehäll],1750000,100000,1850000,2532,HusmanHagberg,885.3725802793199,Sundbybergs centrum
+2014-06-13,Kratsbodavägen 26,Mariehäll,Blå Sundbyberg,3,88,3,Lägenhet,1986,[Mariehäll],3195000,155000,3350000,3648,Länsförsäkringar Fastighetsförmedling,889.8897213133465,Sundbybergs centrum
+2014-05-29,Mariehällsvägen 12,Mariehäll,Blå Sundbyberg,4,91.7,null,Lägenhet,2005,[Mariehäll],3295000,155000,3450000,5676,Fastighetsbyrån,759.0953268958154,Sundbybergs centrum
+2014-05-29,Kratsbodavägen 26,Mariehäll,Blå Sundbyberg,2,59,2,Lägenhet,1986,[Bromma Mariehäll],2195000,155000,2350000,2712,HusmanHagberg,889.8897213133465,Sundbybergs centrum
+2014-05-28,Askängsbacken 1,Mariehäll,Blå Sundbyberg,3,100,null,Lägenhet,1940,[Bromma],2950000,0,2950000,6917,Svenska Mäklarhuset,762.0571978831291,Sundbybergs centrum
+2014-05-23,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1.5,35,null,Lägenhet,2008,[Mariehäll],1750000,-50000,1700000,2847,Fastighetsbyrån,691.659191282598,Sundbybergs centrum
+2014-05-20,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,2,40.7,null,Lägenhet,2005,[Mariehäll],1750000,325000,2075000,3385,Fastighetsbyrån,833.9706752253475,Sundbybergs centrum
+2014-05-15,Mariehällsvägen 18,Mariehäll,Blå Sundbyberg,1.5,40.7,2,Lägenhet,2003,[Bromma],1795000,200000,1995000,3285,Svenska Mäklarhuset,809.9263092689029,Sundbybergs centrum
+2014-05-14,Klintbacken 58B,Mariehäll,Blå Sundbyberg,4,90,3,Lägenhet,2004,[Bromma],3995000,230000,4225000,4861,Fabergé Fastighetsmäkleri,976.6615513226744,Sundbybergs centrum
+2014-05-14,Alpvägen 1,Mariehäll,Blå Sundbyberg,4,78,null,Lägenhet,1954,[Mariehäll],2895000,455000,3350000,3200,Fastighetsbyrån,830.6362132774891,Duvbo
+2014-05-07,Kratsboda Backe 4,Mariehäll,Blå Sundbyberg,2,63,1,Lägenhet,null,[Ulvsunda],2200000,375000,2575000,2878,Svensk Fastighetsförmedling,1014.3556769994126,Sundbybergs centrum
+2014-05-06,Svalvägen 3,Mariehäll,Blå Sundbyberg,2,52,1,Lägenhet,1951,[Bromma Mariehäll],1895000,0,1895000,3684,HusmanHagberg,1183.5143315566409,Sundbybergs centrum
+2014-05-06,Tegelbergsvägen 19,Mariehäll,Blå Sundbyberg,6,164,null,Villa,1977,[Bromma Mariehäll],5800000,100000,5900000,null,Mäklarringen,1152.6197870498931,Sundbybergs centrum
+2014-05-01,Askängsbacken 48,Mariehäll,Blå Sundbyberg,2,49,2,Lägenhet,2013,[Mariehäll],2095000,425000,2520000,3349,Notar,709.5096819731639,Sundbybergs centrum
+2014-04-30,Askängsbacken 16,Mariehäll,Blå Sundbyberg,3,78,4,Lägenhet,null,[Ulvsunda],3395000,315000,3710000,4560,Svensk Fastighetsförmedling,688.2861479594973,Sundbybergs centrum
+2014-04-30,Mariehällsvägen 12,Mariehäll,Blå Sundbyberg,3,70.4,5,Lägenhet,2004,[Mariehäll],3150000,290000,3440000,4697,Länsförsäkringar Fastighetsförmedling,759.0953268958154,Sundbybergs centrum
+2014-04-30,Mariehällsvägen 16,Mariehäll,Blå Sundbyberg,3,70.7,4,Lägenhet,null,[Ulvsunda],2795000,455000,3250000,4907,Svensk Fastighetsförmedling,785.400598436101,Sundbybergs centrum
+2014-04-29,Karlsbodavägen 44,Mariehäll,Blå Sundbyberg,3,82,6,Lägenhet,2006,[Mariehäll],3495000,-195000,3300000,5281,Erik Olsson Fastighetsförmedling,650.4478328741349,Sundbybergs centrum
+2014-04-27,Klintbacken 4,Mariehäll,Blå Sundbyberg,2,51,null,Lägenhet,2004,[Mariehäll],1995000,5000,2000000,2584,Fastighetsbyrån,894.6553847225018,Sundbybergs centrum
+2014-04-23,Mariehällsvägen 12,Mariehäll,Blå Sundbyberg,4,91.7,5,Lägenhet,2004,[Mariehäll],3695000,320000,4015000,5676,Notar,759.0953268958154,Sundbybergs centrum
+2014-04-11,Cronströmsvägen 12,Mariehäll,Blå Sundbyberg,2,68,1,Lägenhet,1907,[Mariehäll],2495000,130000,2625000,2153,Erik Olsson Fastighetsförmedling,1004.5460679242235,Sundbybergs centrum
+2014-04-11,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,1.5,40.7,4,Lägenhet,2004,[Bromma Mariehäll],1825000,125000,1950000,3285,HusmanHagberg,833.9706752253475,Sundbybergs centrum
+2014-04-02,Alpvägen 16,Mariehäll,Blå Sundbyberg,3,76,1,Lägenhet,2008,[Bromma],2795000,435000,3230000,4769,Svenska Mäklarhuset,809.9018855156427,Duvbo
+2014-03-28,Askängsbacken 5,Mariehäll,Blå Sundbyberg,3,55,3,Lägenhet,1940,[Bromma],1895000,135000,2030000,4237,Svenska Mäklarhuset,751.3331907642104,Sundbybergs centrum
+2014-03-26,Klintbacken 56B,Mariehäll,Blå Sundbyberg,4,90,null,Lägenhet,2004,[Bromma],3850000,300000,4150000,4861,Svenska Mäklarhuset,981.7475689010366,Sundbybergs centrum
+2014-03-13,Askängsbacken 48,Mariehäll,Blå Sundbyberg,1,34,1,Lägenhet,null,[Mariehäll],1495000,275000,1770000,2636,Svensk Fastighetsförmedling,709.5096819731639,Sundbybergs centrum
+2014-03-13,Askängsbacken 48,Mariehäll,Blå Sundbyberg,1,34,1,Lägenhet,null,[Mariehäll],1495000,275000,1770000,2636,Svensk Fastighetsförmedling,709.5096819731639,Sundbybergs centrum
+2014-03-13,Adolfsbergsvägen 26,Mariehäll,Blå Sundbyberg,5,125,3,Lägenhet,1951,[Bromma Mariehäll],3495000,0,3495000,5313,HusmanHagberg,969.3465347939157,Sundbybergs centrum
+2014-02-18,Adolfsbergsvägen 20,Mariehäll,Blå Sundbyberg,2,53,null,Lägenhet,1947,[Mariehäll],1795000,125000,1920000,2982,Svensk Fastighetsförmedling,904.3431848086905,Sundbybergs centrum
+2014-02-16,Askängsbacken 56,Mariehäll,Blå Sundbyberg,3,82,1,Lägenhet,2013,[Mariehäll],3795000,-295000,3500000,4702,Svensk Fastighetsförmedling,701.4652734836543,Sundbybergs centrum
+2014-02-13,Alpvägen 14,Mariehäll,Blå Sundbyberg,3,76,null,Lägenhet,null,[Mariehäll],2750000,-50000,2700000,4868,Svensk Fastighetsförmedling,842.7114704862273,Duvbo
+2014-02-07,Mariehällsvägen 16,Mariehäll,Blå Sundbyberg,3,70.7,null,Lägenhet,2004,[Ulvsunda],2595000,125000,2720000,4907,Fastighetsbyrån,785.400598436101,Sundbybergs centrum
+2014-02-05,Kratsbodavägen 26,Mariehäll,Blå Sundbyberg,2,59,2,Lägenhet,1986,[Bromma Mariehäll],1995000,455000,2450000,2712,HusmanHagberg,889.8897213133465,Sundbybergs centrum
+2014-01-24,Klintbacken 4,Mariehäll,Blå Sundbyberg,4,105,null,Lägenhet,2004,[Ulvsunda],2995000,250000,3245000,4938,Fastighetsbyrån,894.6553847225018,Sundbybergs centrum
+2014-01-23,Kratsbodavägen 36,Mariehäll,Blå Sundbyberg,2,39,null,Lägenhet,1943,[Mariehäll],1495000,255000,1750000,2488,Svensk Fastighetsförmedling,965.7862983259351,Sundbybergs centrum
+2014-01-22,Klintbacken 64B,Mariehäll,Blå Sundbyberg,4,90,null,Lägenhet,2004,[Ulvsunda],null,NaN,3950000,4861,Svenska Mäklarhuset,1004.3263096613324,Sundbybergs centrum
+2014-01-22,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,1.5,40.7,null,Lägenhet,2005,[Ulvsunda],1695000,255000,1950000,3285,Fastighetsbyrån,833.9706752253475,Sundbybergs centrum
+2014-01-17,Mariehällsvägen 18,Mariehäll,Blå Sundbyberg,1.5,40.7,null,Lägenhet,2004,[Mariehäll],1800000,25000,1825000,3250,Svensk Fastighetsförmedling,809.9263092689029,Sundbybergs centrum
+2014-01-15,Klintbacken 58B,Mariehäll,Blå Sundbyberg,4,90,null,Lägenhet,2002,[Mariehäll],3450000,550000,4000000,4861,Svenska Mäklarhuset,976.6615513226744,Sundbybergs centrum
+2014-01-14,Fredriksbergsvägen 12,Mariehäll,Blå Sundbyberg,1,36,2,Lägenhet,1929,[Bromma Mariehäll],1395000,220000,1615000,3157,HusmanHagberg,974.4934736493373,Sundbybergs centrum
+2014-01-13,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,null,Lägenhet,1975,[Bromma],1195000,15000,1210000,2655,Wendell Fastighetsförmedling AB,796.4864089848815,Duvbo
+2014-01-10,Bällstavägen 18,Mariehäll,Blå Sundbyberg,3,72,2,Lägenhet,1940,[Bromma],1850000,175000,2025000,5546,Svenska Mäklarhuset,776.3172370177942,Sundbybergs centrum
+2014-01-08,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,4,Lägenhet,1975,[Bromma Mariehäll],1250000,40000,1290000,2655,HusmanHagberg,796.4864089848815,Duvbo
+2013-12-20,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,3,78,null,Lägenhet,2005,[Ulvsunda],2695000,0,2695000,4634,Fastighetsbyrån,828.426296626654,Sundbybergs centrum
+2013-12-14,Klintbacken 2,Mariehäll,Blå Sundbyberg,2,64,null,Lägenhet,2004,[Ulvsunda],1950000,400000,2350000,3186,Fastighetsbyrån,869.1226003171543,Sundbybergs centrum
+2013-12-06,Hagelstavägen 12,Mariehäll,Blå Sundbyberg,2,40,3,Lägenhet,1948,[Mariehäll],1895000,0,1895000,2655,Länsförsäkringar Fastighetsförmedling,1338.423152487963,Sundbybergs centrum
+2013-12-05,Adolfsbergsvägen 18,Mariehäll,Blå Sundbyberg,2.5,53,3,Lägenhet,1947,[Bromma Mariehäll],1695000,240000,1935000,2982,HusmanHagberg,887.4215101336048,Sundbybergs centrum
+2013-11-22,Karlsbodavägen 40,Mariehäll,Blå Sundbyberg,2,50.5,2,Lägenhet,2006,[Bromma],1990000,210000,2200000,3456,HusmanHagberg,671.3632660559604,Sundbybergs centrum
+2013-11-15,Mariehällsvägen 7,Mariehäll,Blå Sundbyberg,2,39.5,2,Lägenhet,1944,[Bromma Mariehäll],1595000,185000,1780000,1902,HusmanHagberg,852.5315452788328,Sundbybergs centrum
+2013-11-11,Fredriksbergsvägen 12,Mariehäll,Blå Sundbyberg,2,50,3,Lägenhet,1929,[Mariehäll],1595000,-95000,1500000,4470,Länsförsäkringar Fastighetsförmedling,974.4934736493373,Sundbybergs centrum
+2013-11-08,Mariehällsvägen 7,Mariehäll,Blå Sundbyberg,2,39.5,null,Lägenhet,1944,[Bromma Mariehäll],1550000,150000,1700000,1902,Notar,852.5315452788328,Sundbybergs centrum
+2013-11-03,Mariehällsvägen 7,Mariehäll,Blå Sundbyberg,2,41.5,null,Lägenhet,1944,[Bromma Mariehäll],1450000,200000,1650000,1949,Notar,852.5315452788328,Sundbybergs centrum
+2013-10-31,Kratsbodavägen 32,Mariehäll,Blå Sundbyberg,2,41,null,Lägenhet,1940,[Ulvsunda],1795000,225000,2020000,2639,Fastighetsbyrån,944.4533850506776,Sundbybergs centrum
+2013-10-31,Alpvägen 22,Mariehäll,Blå Sundbyberg,4,88,6,Lägenhet,null,[Bromma],3400000,60000,3460000,5375,Mäklarhuset,851.4369911794128,Duvbo
+2013-10-24,Askängsbacken 5,Mariehäll,Blå Sundbyberg,3,55,2,Lägenhet,1940,[Bromma],1895000,155000,2050000,4237,Svenska Mäklarhuset,751.3331907642104,Sundbybergs centrum
+2013-10-18,Alpvägen 22,Mariehäll,Blå Sundbyberg,3,70,null,Lägenhet,2008,[Mariehäll],2650000,0,2650000,4542,Länsförsäkringar Fastighetsförmedling,851.4369911794128,Duvbo
+2013-10-10,Adolfsbergsvägen 24,Mariehäll,Blå Sundbyberg,4,94,null,Lägenhet,1951,[Bromma Mariehäll],2795000,-120000,2675000,3995,HusmanHagberg,952.5074889699936,Sundbybergs centrum
+2013-10-10,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,1.5,49,null,Lägenhet,2005,[Ulvsunda],1795000,310000,2105000,3226,Fastighetsbyrån,828.426296626654,Sundbybergs centrum
+2013-10-10,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,2,40.7,null,Lägenhet,2004,[Mariehäll],1795000,-115000,1680000,3285,Länsförsäkringar Fastighetsförmedling,833.9706752253475,Sundbybergs centrum
+2013-10-09,Askängsbacken 3,Mariehäll,Blå Sundbyberg,1,27,3,Lägenhet,1940,[Bromma],1395000,70000,1465000,2080,Svenska Mäklarhuset,748.543342834153,Sundbybergs centrum
+2013-10-07,Askängsbacken 5,Mariehäll,Blå Sundbyberg,2,45,null,Lägenhet,1940,[Bromma],1450000,160000,1610000,3466,Svenska Mäklarhuset,751.3331907642104,Sundbybergs centrum
+2013-09-25,Adolfsbergsvägen 12,Mariehäll,Blå Sundbyberg,1,20,null,Lägenhet,1952,[Ulvsunda],950000,80000,1030000,1764,Fastighetsbyrån,763.373860076606,Sundbybergs centrum
+2013-09-23,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,null,Lägenhet,1975,[Bromma Mariehäll],1090000,160000,1250000,2380,HusmanHagberg,796.4864089848815,Duvbo
+2013-09-22,Mariehällsvägen 16,Mariehäll,Blå Sundbyberg,2,57,null,Lägenhet,2004,[Bromma],2095000,65000,2160000,4137,Svenska Mäklarhuset,785.400598436101,Sundbybergs centrum
+2013-09-20,Adolfsbergsvägen 26,Mariehäll,Blå Sundbyberg,3.5,94,null,Lägenhet,1951,[Ulvsunda],2895000,50000,2945000,3995,Fastighetsbyrån,969.3465347939157,Sundbybergs centrum
+2013-09-20,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,null,Lägenhet,1974,[Bromma Mariehäll],1090000,180000,1270000,2656,Notar,796.4864089848815,Duvbo
+2013-09-13,Alpvägen 8,Mariehäll,Blå Sundbyberg,3,62,1,Lägenhet,2002,[Mariehäll],1995000,135000,2130000,4109,Svenska Mäklarhuset,825.9294388186067,Duvbo
+2013-09-12,Adolfsbergsvägen 16,Mariehäll,Blå Sundbyberg,2,53,null,Lägenhet,1947,[Bromma Mariehäll],1695000,225000,1920000,2593,HusmanHagberg,872.7307457423607,Sundbybergs centrum
+2013-09-07,Karlsbodavägen 44,Mariehäll,Blå Sundbyberg,3,89,null,Lägenhet,2006,[Mariehäll],3295000,-95000,3200000,5545,Wallenberg Fastighetsförmedling,650.4478328741349,Sundbybergs centrum
+2013-09-03,Askängsbacken 52,Mariehäll,Blå Sundbyberg,1,41,null,Lägenhet,2013,[Bromma Mariehäll],1650000,85000,1735000,2886,Notar,704.4477847231233,Sundbybergs centrum
+2013-08-29,Bällstavägen 51,Mariehäll,Blå Sundbyberg,2.5,57,3,Lägenhet,1943,[Bromma Mariehäll],1995000,155000,2150000,1945,HusmanHagberg,1159.727577518245,Duvbo
+2013-08-27,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,3,70,null,Lägenhet,2005,[Ulvsunda],2495000,155000,2650000,4386,Fastighetsbyrån,828.426296626654,Sundbybergs centrum
+2013-08-07,Mariehällsvägen 3,Mariehäll,Blå Sundbyberg,2,41,null,Lägenhet,1940,[Ulvsunda],1795000,145000,1940000,2639,Fastighetsbyrån,905.9229404331539,Sundbybergs centrum
+2013-08-07,Alpvägen 10,Mariehäll,Blå Sundbyberg,3,81.3,null,Lägenhet,1975,[Bromma Mariehäll],1800000,0,1800000,5684,HusmanHagberg,796.4864089848815,Duvbo
+2013-08-02,Bällstavägen 51,Mariehäll,Blå Sundbyberg,1,36,2,Lägenhet,1943,[Bromma],1450000,215000,1665000,1344,Svenska Mäklarhuset,1159.727577518245,Duvbo
+2013-07-27,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,2,57,null,Lägenhet,2005,[Bromma Mariehäll],2195000,115000,2310000,3697,Notar,828.426296626654,Sundbybergs centrum
+2013-07-19,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,null,Lägenhet,1974,[Bromma Mariehäll],995000,275000,1270000,2656,Notar,796.4864089848815,Duvbo
+2013-07-17,Askängsbacken 5,Mariehäll,Blå Sundbyberg,1,27,null,Lägenhet,1940,[Bromma],1295000,180000,1475000,2041,Svenska Mäklarhuset,751.3331907642104,Sundbybergs centrum
+2013-07-11,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,3,70.5,null,Lägenhet,2005,[Ulvsunda],2650000,300000,2950000,4386,Fastighetsbyrån,828.426296626654,Sundbybergs centrum
+2013-06-28,Klintbacken 76A,Mariehäll,Blå Sundbyberg,2.5,56,null,Lägenhet,2004,[Ulvsunda],1995000,235000,2230000,3270,Fastighetsbyrån,1044.3638973097534,Sundbybergs centrum
+2013-06-20,Svalvägen 3,Mariehäll,Blå Sundbyberg,3,70,null,Lägenhet,1951,[Ulvsunda],1895000,0,1895000,4553,Fastighetsbyrån,1183.5143315566409,Sundbybergs centrum
+2013-06-13,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,null,Lägenhet,1975,[Bromma Mariehäll],1095000,55000,1150000,2656,SkandiaMäklarna,796.4864089848815,Duvbo
+2013-06-13,Klintbacken 1,Mariehäll,Blå Sundbyberg,1,25,3,Lägenhet,1944,[Ulvsunda],1225000,225000,1450000,1510,Länsförsäkringar Fastighetsförmedling,885.3725802793199,Sundbybergs centrum
+2013-06-08,Karlsbodavägen 47,Mariehäll,Blå Sundbyberg,1.5,35,2,Lägenhet,2008,[Bromma],1500000,60000,1560000,2771,Innerstadsspecialisten AB,691.659191282598,Sundbybergs centrum
+2013-06-07,Askängsbacken 5,Mariehäll,Blå Sundbyberg,3,55,null,Lägenhet,1940,[Mariehäll],1895000,30000,1925000,4237,Svensk Fastighetsförmedling,751.3331907642104,Sundbybergs centrum
+2013-06-06,Alpvägen 20,Mariehäll,Blå Sundbyberg,3,74,null,Lägenhet,2008,[Ulvsunda],2795000,0,2795000,4693,Fastighetsbyrån,819.3381434508365,Duvbo
+2013-06-05,Klintbacken 1,Mariehäll,Blå Sundbyberg,1,25,null,Lägenhet,1944,[Bromma Mariehäll],1090000,270000,1360000,1510,Notar,885.3725802793199,Sundbybergs centrum
+2013-05-31,Kratsbodavägen 24,Mariehäll,Blå Sundbyberg,2,59,2,Lägenhet,1986,[Mariehäll],1995000,105000,2100000,2611,Svensk Fastighetsförmedling,912.6885374893626,Sundbybergs centrum
+2013-05-29,Karlsbodavägen 42,Mariehäll,Blå Sundbyberg,3,89,null,Lägenhet,2006,[Ulvsunda],3195000,205000,3400000,5545,Fastighetsbyrån,660.3010468757323,Sundbybergs centrum
+2013-05-24,Karlsbodavägen 42,Mariehäll,Blå Sundbyberg,4,97,null,Lägenhet,2006,[Ulvsunda],3795000,440000,4235000,6096,Fastighetsbyrån,660.3010468757323,Sundbybergs centrum
+2013-05-22,Kratsbodavägen 25,Mariehäll,Blå Sundbyberg,2,62,2,Lägenhet,null,[Bromma],1995000,310000,2305000,2480,Erik Olsson Fastighetsförmedling,941.3296137672388,Sundbybergs centrum
+2013-05-17,Hagelstavägen 12,Mariehäll,Blå Sundbyberg,1,27,null,Lägenhet,1948,[Bromma Mariehäll],1145000,105000,1250000,1790,Notar,1338.423152487963,Sundbybergs centrum
+2013-05-16,Adolfsbergsvägen 12,Mariehäll,Blå Sundbyberg,1,20,null,Lägenhet,1951,[Mariehäll],945000,-20000,925000,1764,Svensk Fastighetsförmedling,763.373860076606,Sundbybergs centrum
+2013-05-16,Adolfsbergsvägen 12,Mariehäll,Blå Sundbyberg,1,20,null,Lägenhet,1951,[Mariehäll],945000,-20000,925000,1764,Svensk Fastighetsförmedling,763.373860076606,Sundbybergs centrum
+2013-05-10,Mariehällsvägen 3,Mariehäll,Blå Sundbyberg,2,41,null,Lägenhet,1940,[Ulvsunda],1695000,205000,1900000,2639,Fastighetsbyrån,905.9229404331539,Sundbybergs centrum
+2013-05-04,Alpvägen 18,Mariehäll,Blå Sundbyberg,3,67,1,Lägenhet,1929,[Mariehäll],2195000,0,2195000,4745,Svensk Fastighetsförmedling,796.6798998504802,Duvbo
+2013-05-04,Alpvägen 18,Mariehäll,Blå Sundbyberg,3,67,1,Lägenhet,1929,[Mariehäll],2195000,0,2195000,4745,Svensk Fastighetsförmedling,796.6798998504802,Duvbo
+2013-04-25,Klintbacken 1,Mariehäll,Blå Sundbyberg,1,25,null,Lägenhet,1944,[Bromma Mariehäll],1090000,210000,1300000,1492,Notar,885.3725802793199,Sundbybergs centrum
+2013-04-16,Alpvägen 18,Mariehäll,Blå Sundbyberg,3,80,3,Lägenhet,1929,[Bromma Mariehäll],2350000,50000,2400000,5664,HusmanHagberg,796.6798998504802,Duvbo
+2013-04-12,Mariehällsvägen 10,Mariehäll,Blå Sundbyberg,3,78.2,null,Lägenhet,2005,[Bromma Mariehäll],2795000,0,2795000,5010,Notar,765.4765164105819,Sundbybergs centrum
+2013-04-04,Mariehällsvägen 10,Mariehäll,Blå Sundbyberg,2,49.2,null,Lägenhet,2005,[Bromma Mariehäll],1790000,80000,1870000,3444,Notar,765.4765164105819,Sundbybergs centrum
+2013-03-29,Fredriksbergsvägen 12,Mariehäll,Blå Sundbyberg,1,34,null,Lägenhet,1929,[Ulvsunda],1250000,125000,1375000,2981,Länsförsäkringar Fastighetsförmedling,974.4934736493373,Sundbybergs centrum
+2013-03-29,Mariehällsvägen 14,Mariehäll,Blå Sundbyberg,3,70.4,null,Lägenhet,2005,[Ulvsunda],2795000,105000,2900000,4697,Fastighetsbyrån,751.2354101711028,Sundbybergs centrum
+2013-03-28,Askängsbacken 5,Mariehäll,Blå Sundbyberg,1,27,null,Lägenhet,1940,[Mariehäll],1250000,215000,1465000,2080,Svensk Fastighetsförmedling,751.3331907642104,Sundbybergs centrum
+2013-03-22,Klintbacken 2,Mariehäll,Blå Sundbyberg,3,62,null,Lägenhet,2004,[Ulvsunda],2095000,30000,2125000,3095,Fastighetsbyrån,869.1226003171543,Sundbybergs centrum
+2013-03-21,Mariehällsvägen 1,Mariehäll,Blå Sundbyberg,2,41,null,Lägenhet,1940,[Ulvsunda],1695000,195000,1890000,2639,Fastighetsbyrån,911.0285877026523,Sundbybergs centrum
+2013-03-21,Mariehällsvägen 14,Mariehäll,Blå Sundbyberg,2,57,null,Lägenhet,2004,[Ulvsunda],2195000,10000,2205000,3993,Fastighetsbyrån,751.2354101711028,Sundbybergs centrum
+2013-03-15,Bällstavägen 18,Mariehäll,Blå Sundbyberg,3,72,null,Lägenhet,1940,[Bromma Mariehäll],1995000,-95000,1900000,5546,HusmanHagberg,776.3172370177942,Sundbybergs centrum
+2013-03-13,Askängsbacken 1,Mariehäll,Blå Sundbyberg,3,72,null,Lägenhet,1940,[Bromma Mariehäll],1850000,125000,1975000,5546,HusmanHagberg,762.0571978831291,Sundbybergs centrum
+2013-03-06,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,2,57,null,Lägenhet,2005,[Ulvsunda],1995000,135000,2130000,3697,Fastighetsbyrån,828.426296626654,Sundbybergs centrum
+2013-03-02,Alpvägen 22,Mariehäll,Blå Sundbyberg,2,49,4,Lägenhet,2008,[Mariehäll],1895000,75000,1970000,3520,Svenska Mäklarhuset,851.4369911794128,Duvbo
+2013-03-01,Mariehällsvägen 6,Mariehäll,Blå Sundbyberg,3,78,null,Lägenhet,2005,[Bromma Mariehäll],2795000,25000,2820000,4640,Fastighetsbyrån,819.8245857178636,Sundbybergs centrum
+2013-02-28,Alpvägen 1,Mariehäll,Blå Sundbyberg,1,24,null,Lägenhet,null,[Bromma Mariehäll],1125000,375000,1500000,990,SkandiaMäklarna,830.6362132774891,Duvbo
+2013-02-24,Karlsbodavägen 42,Mariehäll,Blå Sundbyberg,4,91.5,null,Lägenhet,2006,[Ulvsunda],3325000,-25000,3300000,5629,Fastighetsbyrån,660.3010468757323,Sundbybergs centrum
+2013-02-12,Adolfsbergsvägen 14B,Mariehäll,Blå Sundbyberg,3,64,null,Lägenhet,1947,[Ulvsunda],1995000,-45000,1950000,3132,Fastighetsbyrån,867.5293382941087,Sundbybergs centrum
+2013-02-06,Bällstavägen 49,Mariehäll,Blå Sundbyberg,1,36,null,Lägenhet,1937,[Bromma Mariehäll],1390000,150000,1540000,1263,Notar,1152.8035355701902,Duvbo
+2013-02-02,Tegelbergsvägen 38,Mariehäll,Blå Sundbyberg,5,128,null,Radhus,1906,[Mariehäll],4700000,900000,5600000,null,Svensk Fastighetsförmedling,1107.9874263986726,Duvbo
+2013-01-23,Mariehällsvägen 12,Mariehäll,Blå Sundbyberg,3,78.2,null,Lägenhet,2005,[Ulvsunda],2695000,55000,2750000,5011,Fastighetsbyrån,759.0953268958154,Sundbybergs centrum
+2013-01-18,Svalvägen 3,Mariehäll,Blå Sundbyberg,2,62,3,Lägenhet,1951,[Mariehäll],1495000,145000,1640000,4035,Svenska Mäklarhuset,1183.5143315566409,Sundbybergs centrum
+2013-01-18,Kratsbodavägen 26,Mariehäll,Blå Sundbyberg,3,88,null,Lägenhet,1986,[Bromma Mariehäll],3195000,0,3195000,3648,HusmanHagberg,889.8897213133465,Sundbybergs centrum
+2013-01-18,Klintbacken 72B,Mariehäll,Blå Sundbyberg,4,90,null,Lägenhet,2004,[Mariehäll],3375000,175000,3550000,4861,Svensk Fastighetsförmedling,1029.3478549768984,Sundbybergs centrum
+2013-01-14,Mariehällsvägen 18,Mariehäll,Blå Sundbyberg,3,78.5,1,Lägenhet,2004,[Mariehäll],2395000,0,2395000,4944,Notar,809.9263092689029,Sundbybergs centrum
+2013-01-10,Kratsbodavägen 25,Mariehäll,Blå Sundbyberg,2,40,null,Lägenhet,1986,[Bromma Mariehäll],1600000,130000,1730000,1600,Notar,941.3296137672388,Sundbybergs centrum
+2013-01-10,Askängsbacken 4,Mariehäll,Blå Sundbyberg,4,87,null,Lägenhet,2012,[Mariehäll],3345000,0,3345000,5023,Svensk Fastighetsförmedling,727.4657481312861,Sundbybergs centrum
+2013-01-05,Alpvägen 1,Mariehäll,Blå Sundbyberg,1.5,41,1,Lägenhet,1954,[Mariehäll],1395000,115000,1510000,1680,Svenska Mäklarhuset,830.6362132774891,Duvbo
+2012-12-20,Askängsbacken 20,Mariehäll,Blå Sundbyberg,5,106,null,Lägenhet,2012,[Mariehäll],4595000,0,4595000,5807,Svensk Fastighetsförmedling,669.2684048344105,Sundbybergs centrum
+2012-12-19,Askängsbacken 3,Mariehäll,Blå Sundbyberg,2,55,null,Lägenhet,1940,[Bromma Mariehäll],1500000,25000,1525000,4237,Notar,748.543342834153,Sundbybergs centrum
+2012-12-05,Mariehällsvägen 18,Mariehäll,Blå Sundbyberg,3,78.5,null,Lägenhet,2004,[Mariehäll],2400000,-50000,2350000,4944,Notar,809.9263092689029,Sundbybergs centrum
+2012-11-22,Alpvägen 10,Mariehäll,Blå Sundbyberg,1,28.7,null,Lägenhet,1974,[Bromma Mariehäll],995000,0,995000,2609,Notar,796.4864089848815,Duvbo
+2012-11-16,Kratsbodavägen 24,Mariehäll,Blå Sundbyberg,2,59,null,Lägenhet,1986,[Ulvsunda],1995000,115000,2110000,2902,Länsförsäkringar Fastighetsförmedling,912.6885374893626,Sundbybergs centrum
+2012-11-09,Kratsbodavägen 25,Mariehäll,Blå Sundbyberg,2,40,1,Lägenhet,null,[Ulvsunda],1650000,10000,1660000,1600,Länsförsäkringar Fastighetsförmedling,941.3296137672388,Sundbybergs centrum
+2012-11-05,Flyttblocksvägen 14,Mariehäll,Blå Sundbyberg,2,61,2,Lägenhet,1992,[Bromma],1450000,-50000,1400000,4444,Svenska Mäklarhuset,1263.0138791328561,Sundbybergs centrum
+2012-10-27,Mariehällsvägen 1,Mariehäll,Blå Sundbyberg,2,41,null,Lägenhet,null,[Bromma],1595000,55000,1650000,2563,Erik Olsson Fastighetsförmedling,911.0285877026523,Sundbybergs centrum
+2012-10-25,Alpvägen 18,Mariehäll,Blå Sundbyberg,3,80,null,Lägenhet,1929,[Bromma Mariehäll],2300000,-25000,2275000,5962,Notar,796.6798998504802,Duvbo
+2012-10-24,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,2,49.4,null,Lägenhet,2004,[Ulvsunda],1695000,155000,1850000,3438,Fastighetsbyrån,833.9706752253475,Sundbybergs centrum
+2012-10-24,Säterivägen 21,Mariehäll,Blå Sundbyberg,4,117,2,Lägenhet,null,[Mariehäll],2995000,0,2995000,4720,Erik Olsson Fastighetsförmedling,1372.902112383564,Duvbo
+2012-10-24,Säterivägen 21,Mariehäll,Blå Sundbyberg,4,117,null,Lägenhet,null,[Mariehäll],2995000,0,2995000,4720,Erik Olsson Fastighetsförmedling,1372.902112383564,Duvbo
+2012-10-16,Klintbacken 8,Mariehäll,Blå Sundbyberg,3,62,null,Lägenhet,2004,[Ulvsunda],2095000,0,2095000,3095,Fastighetsbyrån,952.3716891251362,Sundbybergs centrum
+2012-10-13,Kratsboda Backe 4,Mariehäll,Blå Sundbyberg,3,74,null,Lägenhet,1993,[Bromma],2400000,0,2400000,3306,Bjurfors,1014.3556769994126,Sundbybergs centrum
+2012-10-12,Alpvägen 20,Mariehäll,Blå Sundbyberg,3,70,null,Lägenhet,2008,[Ulvsunda],2695000,205000,2900000,4410,Fastighetsbyrån,819.3381434508365,Duvbo
+2012-10-11,Alpvägen 16,Mariehäll,Blå Sundbyberg,3,76,null,Lägenhet,2008,[Ulvsunda],2295000,-95000,2200000,4719,Fastighetsbyrån,809.9018855156427,Duvbo
+2012-10-07,Karlsbodavägen 40,Mariehäll,Blå Sundbyberg,4,97,null,Lägenhet,2006,[Ulvsunda],3495000,355000,3850000,5918,Fastighetsbyrån,671.3632660559604,Sundbybergs centrum
+2012-09-20,Mariehällsvägen 4,Mariehäll,Blå Sundbyberg,1.5,40,null,Lägenhet,2005,[Ulvsunda],1595000,175000,1770000,2936,Fastighetsbyrån,828.426296626654,Sundbybergs centrum
+2012-09-20,Mariehällsvägen 8,Mariehäll,Blå Sundbyberg,1.5,40.7,null,Lägenhet,2005,[Ulvsunda],1595000,70000,1665000,3129,Fastighetsbyrån,833.9706752253475,Sundbybergs centrum
+2012-09-14,Alpvägen 14,Mariehäll,Blå Sundbyberg,2.5,61,null,Lägenhet,2008,[Ulvsunda],2150000,180000,2330000,3895,Fastighetsbyrån,842.7114704862273,Duvbo

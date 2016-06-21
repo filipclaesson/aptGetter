@@ -1,0 +1,346 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-11,Roddargatan 8,Katarina,Södermalm,3,73,1,Lägenhet,1974,[Katarina],4995000,1505000,6500000,2653,Fastighetsbyrån,373.8251718598227,Slussen
+2016-05-06,Tjärhovsgatan 22,Katarina,Södermalm,1,19,4,Lägenhet,1940,[Södermalm-Katarina-Sofo],1795000,505000,2300000,2128,Södermäklarna,274.0277827296389,Medborgarplatsen
+2016-05-05,Folkungagatan 53,Katarina,Södermalm,2.5,60,4,Lägenhet,1932,[Södermalm],3990000,370000,4360000,2433,Fantastic Frank Fastighetsmäkleri,120.73784847899095,Medborgarplatsen
+2016-05-01,Tjärhovsgatan 12,Katarina,Södermalm,4,93,2,Lägenhet,1913,[Södermalm Katarina],7500000,35000,7535000,2901,Bjurfors,174.66839260198935,Medborgarplatsen
+2016-04-30,Folkungagatan 71,Katarina,Södermalm,5,114,4,Lägenhet,1971,[Södermalm],7495000,905000,8400000,3338,Innerstadsspecialisten AB,293.4660892340899,Medborgarplatsen
+2016-04-29,Tjärhovsgatan 10,Katarina,Södermalm,1,29.2,4,Lägenhet,1930,[Södermalm],2490000,310000,2800000,1360,Länsförsäkringar Fastighetsförmedling,162.60335857076984,Medborgarplatsen
+2016-04-29,Östgötagatan 29,Katarina,Södermalm,1,34,3,Lägenhet,1912,[Södermalm],2495000,415000,2910000,797,Erik Olsson Fastighetsförmedling,227.51970217091718,Medborgarplatsen
+2016-04-24,Svartensgatan 10,Katarina,Södermalm,2,37,2,Lägenhet,null,[Södermalm],2995000,435000,3430000,2383,Länsförsäkringar Fastighetsförmedling,249.9283113023046,Slussen
+2016-04-22,Folkungagatan 61,Katarina,Södermalm,5,167,2,Lägenhet,1912,[Södermalm],11500000,-250000,11250000,4305,Tradition Fastighetsmäkleri AB,200.51052454685652,Medborgarplatsen
+2016-04-21,Svartensgatan 10,Katarina,Södermalm,1,21,3,Lägenhet,1930,[Södermalm Katarina],1995000,580000,2575000,1376,HusmanHagberg,249.9283113023046,Slussen
+2016-04-21,Östgötagatan 18,Katarina,Södermalm,3,84,1,Lägenhet,1910,[Katarina],6495000,1105000,7600000,1434,Fastighetsbyrån,224.97872253366967,Medborgarplatsen
+2016-04-19,Folkungagatan 53,Katarina,Södermalm,2,45,4,Lägenhet,1932,[Södermalm],3195000,105000,3300000,1954,Erik Olsson Fastighetsförmedling,120.73784847899095,Medborgarplatsen
+2016-04-19,Tjärhovsgatan 22,Katarina,Södermalm,1,19,5,Lägenhet,1940,[Södermalm-Katarina],1875000,225000,2100000,2128,Södermäklarna,274.0277827296389,Medborgarplatsen
+2016-04-12,Svartensgatan 10,Katarina,Södermalm,1,21,2,Lägenhet,1930,[Södermalm Katarina],1995000,630000,2625000,1376,Bjurfors,249.9283113023046,Slussen
+2016-04-12,Östgötagatan 19,Katarina,Södermalm,4,98,3,Lägenhet,1885,[Katarina],5995000,1355000,7350000,5361,Fastighetsbyrån,302.93889362088186,Medborgarplatsen
+2016-03-17,Götgatan 25,Katarina,Södermalm,3,104,1,Lägenhet,null,[Katarina],7450000,900000,8350000,3013,Fastighetsbyrån,249.17290237888213,Slussen
+2016-03-17,Tjärhovsgatan 40,Katarina,Södermalm,2,59,2,Lägenhet,1906,[Södermalm],4500000,300000,4800000,2349,Per Jansson Fastighetsförmedling,489.7901447073399,Medborgarplatsen
+2016-03-17,Katarina Västra Kyrkogata 6B,Katarina,Södermalm,2,59,1.5,Lägenhet,1914,[Södermalm],4495000,895000,5390000,2409,Svensk Fastighetsförmedling,363.1824483798167,Medborgarplatsen
+2016-03-17,Nytorgsgatan 19,Katarina,Södermalm,2,62.4,2,Lägenhet,1911,[Södermalm],4500000,900000,5400000,1116,Mäklarringen,486.26296857922057,Medborgarplatsen
+2016-02-26,Folkungagatan 61,Katarina,Södermalm,5,145,2,Lägenhet,1912,[Södermalm],10500000,1750000,12250000,3628,Erik Olsson Fastighetsförmedling,200.51052454685652,Medborgarplatsen
+2016-02-25,Tjärhovsgatan 22,Katarina,Södermalm,1,19,4,Lägenhet,1940,[Södermalm],1895000,415000,2310000,2128,Mäklarhuset,274.0277827296389,Medborgarplatsen
+2016-02-25,Tjärhovsgatan 40,Katarina,Södermalm,3,70,2,Lägenhet,1906,[Södermalm Katarina],5950000,775000,6725000,2629,HusmanHagberg,489.7901447073399,Medborgarplatsen
+2016-02-23,Svartensgatan 26,Katarina,Södermalm,3,88,1,Lägenhet,1910,[Södermalm],7590000,1810000,9400000,4736,Mäklarhuset,300.78146952543403,Slussen
+2016-02-19,Svartensgatan 1,Katarina,Södermalm,4.5,106,2,Lägenhet,null,[Södermalm],9500000,0,9500000,3061,BOSTHLM,241.02456872092714,Slussen
+2016-02-19,Hökens gata 1,Katarina,Södermalm,5,151,null,Lägenhet,1984,[Södermalm],9995000,2355000,12350000,2165,Innerstadsspecialisten AB,169.60741710901533,Slussen
+2016-02-18,Högbergsgatan 30B,Katarina,Södermalm,3,79,3,Lägenhet,1901,[Södermalm],5295000,1905000,7200000,2712,Notar,297.30562318111015,Slussen
+2016-01-29,Tjärhovsgatan 22,Katarina,Södermalm,1,19,3,Lägenhet,1940,[Södermalm Katarina],1875000,175000,2050000,2257,Bjurfors,274.0277827296389,Medborgarplatsen
+2016-01-28,Tjärhovsgatan 22,Katarina,Södermalm,1,24,5,Lägenhet,1940,[Södermalm-Katarina],2250000,200000,2450000,2688,Södermäklarna,274.0277827296389,Medborgarplatsen
+2016-01-27,Folkungagatan 91,Katarina,Södermalm,2,68,null,Lägenhet,1903,[Södermalm-Sofo],4995000,1205000,6200000,2926,Innerstadsspecialisten AB,512.4485040455885,Medborgarplatsen
+2016-01-21,Folkungagatan 97,Katarina,Södermalm,3,80,4,Lägenhet,1898,[Katarina],6650000,1100000,7750000,3101,Notar,573.0957996145702,Medborgarplatsen
+2016-01-20,Kapellgränd 6,Katarina,Södermalm,1,26,0,Lägenhet,1884,[Södermalm-Katarina],2150000,650000,2800000,1363,Södermäklarna,271.4492278746145,Medborgarplatsen
+2016-01-14,Högbergsgatan 24,Katarina,Södermalm,3,62,1,Lägenhet,1930,[Katarina],4495000,1085000,5580000,3622,Fastighetsbyrån,352.2030483406401,Slussen
+2015-12-11,Tjärhovsgatan 14,Katarina,Södermalm,2,51.5,5,Lägenhet,1914,[Katarina],3975000,725000,4700000,1332,Fastighetsbyrån,188.220622897803,Medborgarplatsen
+2015-12-09,Tjärhovsgatan 10,Katarina,Södermalm,1,28.9,2,Lägenhet,1930,[Katarina],2250000,775000,3025000,1287,Fastighetsbyrån,162.60335857076984,Medborgarplatsen
+2015-12-04,Mosebacke Torg 14,Katarina,Södermalm,2,35,2,Lägenhet,1864,[Södermalm-Mosebacke],3250000,650000,3900000,1881,Södermäklarna,256.04309255057984,Slussen
+2015-12-03,Svartensgatan 28A,Katarina,Södermalm,1.5,40.5,2,Lägenhet,1887,[Södermalm Katarina],3050000,1010000,4060000,1836,HusmanHagberg,320.8213441189571,Slussen
+2015-12-02,Katarina Västra Kyrkogata 4,Katarina,Södermalm,2,60,4,Lägenhet,1914,[Södermalm],3975000,475000,4450000,3172,SkandiaMäklarna,364.0438584750243,Medborgarplatsen
+2015-12-02,Folkungagatan 97,Katarina,Södermalm,2,52,1,Lägenhet,1898,[Katarina],3995000,575000,4570000,2028,Svensk Fastighetsförmedling,573.0957996145702,Medborgarplatsen
+2015-12-02,Folkungagatan 81,Katarina,Södermalm,3,85,5,Lägenhet,1906,[Katarina],6495000,1085000,7580000,2858,Fastighetsbyrån,398.7395555830442,Medborgarplatsen
+2015-11-27,Tjärhovsgatan 5,Katarina,Södermalm,2,75,5,Lägenhet,1912,[Södermalm Katarina],5075000,825000,5900000,1814,HusmanHagberg,226.0003241015583,Medborgarplatsen
+2015-11-25,Hökens gata 6,Katarina,Södermalm,2,50,1,Lägenhet,1890,[Mosebacke],4395000,555000,4950000,2187,MOHV,173.9606454827376,Slussen
+2015-11-25,Folkungagatan 67,Katarina,Södermalm,1,32,3,Lägenhet,1934,[Södermalm],2695000,455100,3150100,1110,Mäklarhuset,264.32206514557225,Medborgarplatsen
+2015-11-20,Östgötagatan 19,Katarina,Södermalm,3,84,2,Lägenhet,1885,[Södermalm Katarina],5490000,1160000,6650000,4458,HusmanHagberg,302.93889362088186,Medborgarplatsen
+2015-11-20,Folkungagatan 83,Katarina,Södermalm,2,58,1,Lägenhet,1906,[Katarina],4595000,630000,5225000,2093,Fastighetsbyrån,414.53795394464606,Medborgarplatsen
+2015-11-18,Fiskargatan 9,Katarina,Södermalm,3,89,3,Lägenhet,1908,[Södermalm],9995000,3505000,13500000,3779,Per Jansson Fastighetsförmedling,319.4922659803566,Slussen
+2015-11-12,Folkungagatan 65,Katarina,Södermalm,1,25,4,Lägenhet,1930,[Södermalm Katarina],1995000,625000,2620000,1482,HusmanHagberg,238.32040214207484,Medborgarplatsen
+2015-11-11,Svartensgatan 12B,Katarina,Södermalm,2,50,2,Lägenhet,1915,[Södermalm Katarina],4395000,705000,5100000,2230,Bjurfors,248.19565345062327,Slussen
+2015-11-08,Nytorgsgatan 15,Katarina,Södermalm,2,33,4,Lägenhet,1938,[Södermalm Katarina],2995000,405000,3400000,1895,Bjurfors,502.4857967729213,Medborgarplatsen
+2015-11-07,Folkungagatan 69,Katarina,Södermalm,2,41,6,Lägenhet,null,[Södermalm],3495000,-95000,3400000,1217,ERA,289.0089019174829,Medborgarplatsen
+2015-11-05,Kapellgränd 6,Katarina,Södermalm,1,37,null,Lägenhet,1882,[Södermalm-Katarina],2795000,575000,3370000,1961,Södermäklarna,271.4492278746145,Medborgarplatsen
+2015-11-04,Högbergsgatan 22,Katarina,Södermalm,2,47,null,Lägenhet,1930,[Södermalm],3275000,675000,3950000,2814,Innerstadsspecialisten AB,364.0195713704143,Slussen
+2015-11-03,Tjärhovsgatan 40,Katarina,Södermalm,3,70,4,Lägenhet,1906,[Södermalm],5500000,1300000,6800000,2629,Fantastic Frank Fastighetsmäkleri,489.7901447073399,Medborgarplatsen
+2015-10-23,Folkungagatan 83,Katarina,Södermalm,2,61,2,Lägenhet,1906,[Katarina],4495000,1165000,5660000,2166,Fastighetsbyrån,414.53795394464606,Medborgarplatsen
+2015-10-19,Mosebacke Torg 14,Katarina,Södermalm,1,29,null,Lägenhet,1864,[Södermalm],2790000,110000,2900000,1682,Länsförsäkringar Fastighetsförmedling,256.04309255057984,Slussen
+2015-10-17,Folkungagatan 67,Katarina,Södermalm,1,36,null,Lägenhet,1934,[Södermalm Katarina],2990000,180000,3170000,1195,Bjurfors,264.32206514557225,Medborgarplatsen
+2015-10-16,Östgötagatan 19,Katarina,Södermalm,3,83,1,Lägenhet,1885,[Katarina],6495000,0,6495000,4442,Fastighetsbyrån,302.93889362088186,Medborgarplatsen
+2015-10-16,Hökens gata 6,Katarina,Södermalm,5,128,null,Lägenhet,1890,[Södermalm Katarina],9950000,1150000,11100000,5600,Bjurfors,173.9606454827376,Slussen
+2015-10-15,Tjärhovsgatan 22,Katarina,Södermalm,1,39,1,Lägenhet,1940,[Södermalm],2290000,130000,2420000,4144,HusmanHagberg,274.0277827296389,Medborgarplatsen
+2015-10-15,Folkungagatan 61,Katarina,Södermalm,1,38,1,Lägenhet,1912,[Södermalm],3250000,0,3250000,982,Eliases Sthlm,200.51052454685652,Medborgarplatsen
+2015-10-14,Folkungagatan 91,Katarina,Södermalm,3,77,1,Lägenhet,1903,[Södermalm],6450000,900000,7350000,3140,Mäklarringen,512.4485040455885,Medborgarplatsen
+2015-10-07,Folkungagatan 65,Katarina,Södermalm,1,32,5,Lägenhet,1929,[Södermalm],2495000,605000,3100000,1815,Innerstadsspecialisten AB,238.32040214207484,Medborgarplatsen
+2015-10-01,Katarina Västra Kyrkogata 6C,Katarina,Södermalm,2,48,1,Lägenhet,1914,[Södermalm Katarina],3800000,1020000,4820000,1998,HusmanHagberg,332.9081966530025,Medborgarplatsen
+2015-10-01,Tjärhovsgatan 22,Katarina,Södermalm,1,19,3,Lägenhet,1940,[Södermalm],1895000,525000,2420000,2128,Edward & Partners Fastighetsmäklare AB,274.0277827296389,Medborgarplatsen
+2015-10-01,Tjärhovsgatan 10,Katarina,Södermalm,1,26,5,Lägenhet,1930,[Södermalm Katarina],3150000,0,3150000,1253,Bjurfors,162.60335857076984,Medborgarplatsen
+2015-10-01,Kapellgränd 17A,Katarina,Södermalm,4,81,2,Lägenhet,1906,[Södermalm-Katarina],5995000,1855000,7850000,3233,Södermäklarna,297.8201305500679,Medborgarplatsen
+2015-09-23,Tjärhovsgatan 14,Katarina,Södermalm,4,105,2,Lägenhet,1914,[Södermalm],7800000,810000,8610000,2339,Karlsson & Uddare,188.220622897803,Medborgarplatsen
+2015-09-22,Folkungagatan 69,Katarina,Södermalm,2,48,6,Lägenhet,1971,[Södermalm],3250000,750000,4000000,1456,SkandiaMäklarna,289.0089019174829,Medborgarplatsen
+2015-09-17,Urvädersgränd 8,Katarina,Södermalm,4,109,2,Lägenhet,1859,[Södermalm Katarina],8250000,1650000,9900000,3392,HusmanHagberg,114.65945083825054,Slussen
+2015-09-17,Nytorgsgatan 15,Katarina,Södermalm,2,56,4,Lägenhet,1938,[Södermalm Katarina],4250000,1650000,5900000,3280,Bjurfors,502.4857967729213,Medborgarplatsen
+2015-09-17,Folkungagatan 91,Katarina,Södermalm,3,77,3,Lägenhet,1903,[Södermalm],5995000,855000,6850000,3199,Mäklarringen,512.4485040455885,Medborgarplatsen
+2015-09-15,Tjärhovsgatan 22,Katarina,Södermalm,1,19,1,Lägenhet,1940,[Södermalm-Katarina],1795000,725000,2520000,2128,Södermäklarna,274.0277827296389,Medborgarplatsen
+2015-09-09,Nytorgsgatan 15,Katarina,Södermalm,2.5,56,0.5,Lägenhet,1938,[Södermalm],3995000,630000,4625000,3216,Svensk Fastighetsförmedling,502.4857967729213,Medborgarplatsen
+2015-09-04,Tjärhovsgatan 22,Katarina,Södermalm,1,19,4,Lägenhet,1940,[Södermalm-Katarina],1795000,515000,2310000,2128,Södermäklarna,274.0277827296389,Medborgarplatsen
+2015-09-03,Folkungagatan 83,Katarina,Södermalm,3,84,5,Lägenhet,1907,[Södermalm-Katarina],6900000,910000,7810000,3008,Södermäklarna,414.53795394464606,Medborgarplatsen
+2015-09-03,Folkungagatan 81,Katarina,Södermalm,2,60,5,Lägenhet,1906,[Katarina],4500000,1300000,5800000,2108,Fastighetsbyrån,398.7395555830442,Medborgarplatsen
+2015-08-26,Katarina Västra Kyrkogata 4B,Katarina,Södermalm,2,61,1,Lägenhet,1915,[Katarina],4195000,655000,4850000,3582,Fastighetsbyrån,350.02749044898724,Medborgarplatsen
+2015-08-19,Tjärhovsgatan 22,Katarina,Södermalm,1,18,3,Lägenhet,1940,[Södermalm],null,NaN,1795000,2145,Svensk Fastighetsförmedling,274.0277827296389,Medborgarplatsen
+2015-08-19,Folkungagatan 67,Katarina,Södermalm,2,47,4,Lägenhet,null,[Södermalm],4000000,0,4000000,1610,BOSTHLM,264.32206514557225,Medborgarplatsen
+2015-08-18,Folkungagatan 65,Katarina,Södermalm,1,25,5,Lägenhet,1930,[Katarina],1995000,830000,2825000,1482,Fastighetsbyrån,238.32040214207484,Medborgarplatsen
+2015-08-14,Folkungagatan 97,Katarina,Södermalm,3,67,1,Lägenhet,1898,[Södermalm],4975000,535000,5510000,2614,SkandiaMäklarna,573.0957996145702,Medborgarplatsen
+2015-08-14,Folkungagatan 69,Katarina,Södermalm,3,75,5,Lägenhet,1971,[Södermalm],4995000,775000,5770000,2239,SkandiaMäklarna,289.0089019174829,Medborgarplatsen
+2015-08-12,Tjärhovsgatan 12,Katarina,Södermalm,2,56,5,Lägenhet,1913,[Södermalm Katarina],4575000,1245000,5820000,1958,Bjurfors,174.66839260198935,Medborgarplatsen
+2015-08-05,Katarina Västra Kyrkogata 4,Katarina,Södermalm,2,56,null,Lägenhet,1915,[Södermalm],3695000,1055000,4750000,3288,Fastighetsmäklarna,364.0438584750243,Medborgarplatsen
+2015-07-03,Tjärhovsgatan 22,Katarina,Södermalm,1,19,2,Lägenhet,1940,[Södermalm-Katarina],1750000,550000,2300000,2128,Södermäklarna,274.0277827296389,Medborgarplatsen
+2015-06-24,Katarina Västra Kyrkogata 4C,Katarina,Södermalm,2,53,2,Lägenhet,1915,[Katarina],3995000,325000,4320000,2995,Fastighetsbyrån,351.67316513873465,Medborgarplatsen
+2015-06-12,Urvädersgränd 7,Katarina,Södermalm,2,38,1.5,Lägenhet,1896,[Katarina],2950000,705000,3655000,1301,Fastighetsbyrån,94.72583077304725,Slussen
+2015-06-10,Östgötagatan 33,Katarina,Södermalm,2.5,72,1,Lägenhet,1912,[Södermalm],4795000,165000,4960000,1860,Svensk Fastighetsförmedling,195.88420433418483,Medborgarplatsen
+2015-06-06,Katarina Västra Kyrkogata 6,Katarina,Södermalm,3,72,0,Lägenhet,1914,[Södermalm Katarina],4900000,910000,5810000,2635,HusmanHagberg,332.9081966530025,Medborgarplatsen
+2015-06-04,Folkungagatan 69,Katarina,Södermalm,3,55.5,4,Lägenhet,1971,[Södermalm],3795000,955000,4750000,1694,Mäklarhuset,289.0089019174829,Medborgarplatsen
+2015-06-03,Svartensgatan 9,Katarina,Södermalm,3,68,null,Lägenhet,1759,[Södermalm Katarina],4750000,250000,5000000,3648,Bjurfors,237.42035002543705,Slussen
+2015-05-28,Mosebacke Torg 8A,Katarina,Södermalm,4,102,3,Lägenhet,null,null,11000000,0,11000000,5748,Fredegårds Fastighetsbyrå AB,219.23785622349953,Slussen
+2015-05-28,Svartensgatan 5,Katarina,Södermalm,3,79,2,Lägenhet,1880,[Södermalm],5490000,360000,5850000,4377,Erik Olsson Fastighetsförmedling,235.37647870532493,Slussen
+2015-05-27,Mosebacke Torg 8A,Katarina,Södermalm,4,102,4,Lägenhet,1883,[Södermalm],12000000,0,12000000,5748,Fredegårds Fastighetsbyrå AB,219.23785622349953,Slussen
+2015-05-20,Tjärhovsgatan 22,Katarina,Södermalm,1,19,1,Lägenhet,null,[Södermalm],2010000,0,2010000,2128,BOSTHLM,274.0277827296389,Medborgarplatsen
+2015-05-20,Folkungagatan 97,Katarina,Södermalm,2,51.8,3,Lägenhet,1898,[Södermalm],3490000,1130000,4620000,2020,Erik Olsson Fastighetsförmedling,573.0957996145702,Medborgarplatsen
+2015-05-20,Högbergsgatan 24,Katarina,Södermalm,1.5,48,1,Lägenhet,1930,[Södermalm],2975000,825000,3800000,2848,Svensk Fastighetsförmedling,352.2030483406401,Slussen
+2015-05-16,Folkungagatan 67,Katarina,Södermalm,1.5,36,4,Lägenhet,1934,[Södermalm],2450000,650000,3100000,1195,Notar,264.32206514557225,Medborgarplatsen
+2015-05-15,Svartensgatan 8,Katarina,Södermalm,2,61,3,Lägenhet,1892,[Södermalm],4795000,465000,5260000,2083,Erik Olsson Fastighetsförmedling,271.072647550915,Slussen
+2015-05-14,Nytorgsgatan 15,Katarina,Södermalm,1,24,2,Lägenhet,1938,[Södermalm],2195000,325000,2520000,1378,Erik Olsson Fastighetsförmedling,502.4857967729213,Medborgarplatsen
+2015-05-14,Tjärhovsgatan 6,Katarina,Södermalm,1,29,4,Lägenhet,1932,[Södermalm],2295000,695000,2990000,null,Svensk Fastighetsförmedling,131.41366978652002,Medborgarplatsen
+2015-05-13,Katarina Västra Kyrkogata 4,Katarina,Södermalm,2,56,0.5,Lägenhet,1915,[Katarina],3995000,0,3995000,3288,Fastighetsbyrån,364.0438584750243,Medborgarplatsen
+2015-05-13,Östgötagatan 29,Katarina,Södermalm,3,72,3,Lägenhet,1912,[Södermalm],null,NaN,6900000,941,SkandiaMäklarna,227.51970217091718,Medborgarplatsen
+2015-05-12,Folkungagatan 53,Katarina,Södermalm,1,45,4,Lägenhet,1932,[Södermalm],2750000,770000,3520000,1515,Svensk Fastighetsförmedling,120.73784847899095,Medborgarplatsen
+2015-05-12,Kapellgränd 19,Katarina,Södermalm,2,48,4,Lägenhet,1915,[Södermalm Katarina],5000000,0,5000000,465,Bjurfors,312.49244192845316,Medborgarplatsen
+2015-05-08,Östgötagatan 29,Katarina,Södermalm,3.5,90,2,Lägenhet,1912,[Södermalm Katarina],5995000,315000,6310000,2150,HusmanHagberg,227.51970217091718,Medborgarplatsen
+2015-05-05,Folkungagatan 51,Katarina,Södermalm,2,76,5,Lägenhet,1932,[Södermalm],4975000,1185000,6160000,2358,Erik Olsson Fastighetsförmedling,97.23070271355391,Medborgarplatsen
+2015-05-05,Kapellgränd 19,Katarina,Södermalm,2,50,1,Lägenhet,1915,[Södermalm-Mosebacke],3900000,1025000,4925000,524,Södermäklarna,312.49244192845316,Medborgarplatsen
+2015-04-30,Högbergsgatan 22,Katarina,Södermalm,2,47,2,Lägenhet,1930,[Katarina],3395000,555000,3950000,2814,Fastighetsbyrån,364.0195713704143,Slussen
+2015-04-30,Tjärhovsgatan 6,Katarina,Södermalm,1,24,5,Lägenhet,1932,[Södermalm],2195000,705000,2900000,808,Svensk Fastighetsförmedling,131.41366978652002,Medborgarplatsen
+2015-04-30,Folkungagatan 53,Katarina,Södermalm,1,38,3,Lägenhet,1932,[Södermalm],2595000,765000,3360000,1280,Svensk Fastighetsförmedling,120.73784847899095,Medborgarplatsen
+2015-04-30,Folkungagatan 65,Katarina,Södermalm,2,45,3,Lägenhet,1929,[Södermalm],2950000,1000000,3950000,2626,SkandiaMäklarna,238.32040214207484,Medborgarplatsen
+2015-04-29,Ringvägen 157,Katarina,Södermalm,1,40,4,Lägenhet,1928,[Katarina],2495000,605000,3100000,1964,Notar,561.2706279403878,Skanstull
+2015-04-29,Folkungagatan 51,Katarina,Södermalm,2,75,3,Lägenhet,1932,[Södermalm],4350000,875000,5225000,null,Svensk Fastighetsförmedling,97.23070271355391,Medborgarplatsen
+2015-04-29,Folkungagatan 67,Katarina,Södermalm,1.5,36,6,Lägenhet,1934,[Katarina],2695000,455000,3150000,1195,HusmanHagberg,264.32206514557225,Medborgarplatsen
+2015-04-25,Katarina Västra Kyrkogata 6B,Katarina,Södermalm,2,59,2,Lägenhet,1914,[Södermalm Katarina],3990000,960000,4950000,2293,HusmanHagberg,363.1824483798167,Medborgarplatsen
+2015-04-23,Folkungagatan 67,Katarina,Södermalm,2,47,2,Lägenhet,1934,[Södermalm],3250000,325000,3575000,1610,Mäklarringen,264.32206514557225,Medborgarplatsen
+2015-04-19,Folkungagatan 53,Katarina,Södermalm,3,60,5,Lägenhet,1932,[Södermalm],3875000,375000,4250000,1988,SkandiaMäklarna,120.73784847899095,Medborgarplatsen
+2015-04-17,Svartensgatan 8,Katarina,Södermalm,2,46,null,Lägenhet,1892,[Södermalm],3295000,1235000,4530000,1571,Edward & Partners Fastighetsmäklare AB,271.072647550915,Slussen
+2015-04-16,Katarina Västra Kyrkogata 10,Katarina,Södermalm,2,57,4,Lägenhet,1856,[Katarina],3695000,1105000,4800000,3671,Fastighetsbyrån,304.6774040090197,Medborgarplatsen
+2015-04-16,Tjärhovsgatan 10,Katarina,Södermalm,2,41.6,5,Lägenhet,1930,[Södermalm],3250000,900000,4150000,1781,Fantastic Frank Fastighetsmäkleri,162.60335857076984,Medborgarplatsen
+2015-04-16,Katarina Västra Kyrkogata 4B,Katarina,Södermalm,2,54,2,Lägenhet,1915,[Katarina],3695000,955000,4650000,3054,Fastighetsbyrån,350.02749044898724,Medborgarplatsen
+2015-03-31,Hökens gata 8B,Katarina,Södermalm,2,53,1,Lägenhet,1904,[Södermalm-Katarina],4450000,700000,5150000,2432,Södermäklarna,170.22159102600486,Slussen
+2015-03-26,Östgötagatan 22,Katarina,Södermalm,2,61,4,Lägenhet,1914,[Södermalm-Katarina],4990000,460000,5450000,1452,Södermäklarna,185.8274170054377,Medborgarplatsen
+2015-03-25,Östgötagatan 29,Katarina,Södermalm,2.5,63,1,Lägenhet,1912,[Katarina/Mosebacke],3995000,575000,4570000,1565,Svensk Fastighetsförmedling,227.51970217091718,Medborgarplatsen
+2015-03-24,Nytorgsgatan 15,Katarina,Södermalm,3,67,3,Lägenhet,1938,[Södermalm-Katarina],4850000,1550000,6400000,3925,Södermäklarna,502.4857967729213,Medborgarplatsen
+2015-03-19,Tjärhovsgatan 22,Katarina,Södermalm,1,17.5,4,Lägenhet,1940,[Södermalm],1675000,0,1675000,2011,Mäklarringen,274.0277827296389,Medborgarplatsen
+2015-03-11,Östgötagatan 22,Katarina,Södermalm,2,61,3,Lägenhet,1914,[Katarina/Mosebacke],4195000,1605000,5800000,1443,Svensk Fastighetsförmedling,185.8274170054377,Medborgarplatsen
+2015-03-11,Kapellgränd 6,Katarina,Södermalm,1,26,1,Lägenhet,1884,[Södermalm-Katarina],1975000,475000,2450000,1363,Södermäklarna,271.4492278746145,Medborgarplatsen
+2015-03-11,Tjärhovsgatan 22,Katarina,Södermalm,1,20,2,Lägenhet,1940,[Södermalm],1750000,240000,1990000,2297,Erik Olsson Fastighetsförmedling,274.0277827296389,Medborgarplatsen
+2015-03-11,Klevgränd 2,Katarina,Södermalm,3.5,80,1,Lägenhet,1889,[Södermalm],5350000,1500000,6850000,2480,Karlsson & Uddare,73.39479104948322,Slussen
+2015-03-10,Svartensgatan 12B,Katarina,Södermalm,2,49,1,Lägenhet,null,[Södermalm Katarina],3495000,1205000,4700000,2099,Bjurfors,248.19565345062327,Slussen
+2015-03-02,Klevgränd 1B,Katarina,Södermalm,3,67,3,Lägenhet,1897,[Katarina/Mosebacke],null,NaN,5800000,null,Fredegårds Fastighetsbyrå AB,62.36575664277928,Slussen
+2015-02-16,Urvädersgränd 7,Katarina,Södermalm,2,47,3,Lägenhet,1896,[Södermalm],4675000,545000,5220000,1673,Erik Olsson Fastighetsförmedling,94.72583077304725,Slussen
+2015-02-13,Renstiernas gata 16,Katarina,Södermalm,3,75,2,Lägenhet,1898,[Södermalm],5850000,0,5850000,2934,BOSTHLM,590.9150424911606,Medborgarplatsen
+2015-02-12,Katarina Västra Kyrkogata 4C,Katarina,Södermalm,2,53,3,Lägenhet,1914,[Södermalm],3495000,755000,4250000,2995,Erik Olsson Fastighetsförmedling,351.67316513873465,Medborgarplatsen
+2015-02-12,Svartensgatan 5,Katarina,Södermalm,2,73,2,Lägenhet,1880,[Katarina/Mosebacke],5150000,-100000,5050000,3708,HusmanHagberg,235.37647870532493,Slussen
+2015-02-10,Folkungagatan 93,Katarina,Södermalm,2,55,2,Lägenhet,1899,[Södermalm],3295000,1205000,4500000,1389,Mäklarringen,530.2184613852531,Medborgarplatsen
+2015-02-03,Tjärhovsgatan 6,Katarina,Södermalm,1,29,1,Lägenhet,1932,[Södermalm Medborgarplatsen],2275000,625000,2900000,977,HusmanHagberg,131.41366978652002,Medborgarplatsen
+2015-01-28,Kapellgränd 19,Katarina,Södermalm,2,48,4,Lägenhet,1915,[Södermalm Katarina],3790000,260000,4050000,465,HusmanHagberg,312.49244192845316,Medborgarplatsen
+2015-01-28,Tjärhovsgatan 22,Katarina,Södermalm,1,19,2,Lägenhet,1940,[Katarina/Mosebacke],1750000,200000,1950000,2183,Mäklarhuset,274.0277827296389,Medborgarplatsen
+2015-01-27,Tjärhovsgatan 10,Katarina,Södermalm,null,57,null,Lägenhet,1930,[Katarina/Mosebacke],3975000,825000,4800000,2168,Fastighetsmäklarna,162.60335857076984,Medborgarplatsen
+2015-01-22,Roddargatan 8,Katarina,Södermalm,3,73,null,Lägenhet,1974,[Katarina],4600000,550000,5150000,2653,Fastighetsbyrån,373.8251718598227,Slussen
+2015-01-22,Tjärhovsgatan 22,Katarina,Södermalm,1,19,2,Lägenhet,1940,[Södermalm],1750000,210000,1960000,2183,HusmanHagberg,274.0277827296389,Medborgarplatsen
+2015-01-22,Svartensgatan 11,Katarina,Södermalm,2,53,0,Lägenhet,1883,[Södermalm],2650000,850000,3500000,2987,HusmanHagberg,220.9507145187781,Slussen
+2015-01-16,Nytorgsgatan 15,Katarina,Södermalm,2,36,0.5,Lägenhet,1938,[Södermalm Katarina],2495000,355000,2850000,2026,HusmanHagberg,502.4857967729213,Medborgarplatsen
+2015-01-14,Högbergsgatan 22,Katarina,Södermalm,2,40,5,Lägenhet,1930,[Katarina/Mosebacke],3150000,550000,3700000,2479,Svensk Fastighetsförmedling,364.0195713704143,Slussen
+2014-12-21,Tjärhovsgatan 22,Katarina,Södermalm,1,19,3,Lägenhet,null,[Katarina/Mosebacke],1795000,115000,1910000,2183,Mäklarhuset,274.0277827296389,Medborgarplatsen
+2014-12-11,Roddargatan 8,Katarina,Södermalm,2,55,null,Lägenhet,1974,[Katarina],2995000,830000,3825000,2107,Fastighetsbyrån,373.8251718598227,Slussen
+2014-12-08,Katarina Västra Kyrkogata 10,Katarina,Södermalm,3,102,1,Lägenhet,1856,[Södermalm Katarina],6950000,-650000,6300000,6517,Bjurfors,304.6774040090197,Medborgarplatsen
+2014-11-27,Tjärhovsgatan 10,Katarina,Södermalm,2,48,1,Lägenhet,null,[Södermalm],3195000,605000,3800000,1828,Mäklarringen,162.60335857076984,Medborgarplatsen
+2014-11-26,Kapellgränd 19,Katarina,Södermalm,2,50,null,Lägenhet,1915,[Katarina],3450000,370000,3820000,524,Fastighetsbyrån,312.49244192845316,Medborgarplatsen
+2014-11-21,Mosebacke Torg 8C,Katarina,Södermalm,3,77,2,Lägenhet,1883,[Södermalm Katarina],5750000,150000,5900000,4505,HusmanHagberg,209.9620458407012,Slussen
+2014-11-20,Mäster Mikaels gata 6,Katarina,Södermalm,2,39,0.5,Lägenhet,1936,[Södermalm],2850000,475000,3325000,779,Karlsson & Uddare,556.9486369655159,Slussen
+2014-11-19,Tjärhovsgatan 22,Katarina,Södermalm,2,37,1,Lägenhet,1940,[Södermalm-Katarina],2185000,65000,2250000,3561,Södermäklarna,274.0277827296389,Medborgarplatsen
+2014-11-19,Tjärhovsgatan 22,Katarina,Södermalm,1,19,4,Lägenhet,1940,[Södermalm-Katarina],1550000,230000,1780000,2183,Södermäklarna,274.0277827296389,Medborgarplatsen
+2014-11-18,Hökens gata 8A,Katarina,Södermalm,2,35,1,Lägenhet,1904,[Södermalm],2995000,880000,3875000,1637,Erik Olsson Fastighetsförmedling,189.55729543873937,Slussen
+2014-11-13,Tjärhovsgatan 12,Katarina,Södermalm,2,60,1,Lägenhet,1913,[Södermalm Katarina],4250000,2600000,6850000,1813,Bjurfors,174.66839260198935,Medborgarplatsen
+2014-11-12,Östgötagatan 29,Katarina,Södermalm,1.5,37,1,Lägenhet,1912,[Södermalm-Katarina],2795000,155000,2950000,877,Södermäklarna,227.51970217091718,Medborgarplatsen
+2014-10-30,Högbergsgatan 30,Katarina,Södermalm,4,90,1,Lägenhet,null,[Katarina/Mosebacke],6495000,730000,7225000,2799,Svensk Fastighetsförmedling,318.65813160917094,Slussen
+2014-10-29,Folkungagatan 65,Katarina,Södermalm,1,32,2,Lägenhet,1930,[Katarina/Mosebacke],1990000,460000,2450000,1815,SkandiaMäklarna,238.32040214207484,Medborgarplatsen
+2014-10-25,Urvädersgränd 8,Katarina,Södermalm,4,99,4,Lägenhet,1859,[Södermalm Mosebacke],8050000,25000,8075000,2926,BOSTHLM,114.65945083825054,Slussen
+2014-10-23,Tjärhovsgatan 10,Katarina,Södermalm,2,49,3,Lägenhet,1930,[Katarina],3195000,415000,3610000,1923,Notar,162.60335857076984,Medborgarplatsen
+2014-10-22,Nytorgsgatan 19,Katarina,Södermalm,2,63,3,Lägenhet,null,[Katarina/Mosebacke],4100000,450000,4550000,1358,Svensk Fastighetsförmedling,486.26296857922057,Medborgarplatsen
+2014-10-16,Mariagränd 2,Katarina,Södermalm,1,32,null,Lägenhet,1726,[Katarina],2495000,55000,2550000,1278,Fastighetsbyrån,65.32362074205989,Slussen
+2014-10-16,Götgatan 35A,Katarina,Södermalm,3,97,null,Lägenhet,1892,[Katarina],7995000,-125000,7870000,0,Fastighetsbyrån,285.43605242697186,Medborgarplatsen
+2014-10-16,Kapellgränd 6A,Katarina,Södermalm,2,39,1,Lägenhet,1882,[Södermalm-Katarina],2850000,500000,3350000,2142,Södermäklarna,182.6051402438123,Medborgarplatsen
+2014-10-10,Folkungagatan 91,Katarina,Södermalm,2,68,1,Lägenhet,1903,[Södermalm-Katarina],4375000,875000,5250000,2926,Södermäklarna,512.4485040455885,Medborgarplatsen
+2014-10-10,Nytorgsgatan 19,Katarina,Södermalm,3,87,3,Lägenhet,1911,[Katarina/Mosebacke],6175000,235000,6410000,1554,SkandiaMäklarna,486.26296857922057,Medborgarplatsen
+2014-10-09,Hökens gata 8A,Katarina,Södermalm,2,72,4,Lägenhet,1904,[Katarina],5995000,1055000,7050000,3269,Fastighetsbyrån,189.55729543873937,Slussen
+2014-10-08,Tjärhovsgatan 10,Katarina,Södermalm,1,28.9,3,Lägenhet,1930,[Katarina],2100000,410000,2510000,1324,Fastighetsbyrån,162.60335857076984,Medborgarplatsen
+2014-10-08,Mariagränd 1,Katarina,Södermalm,1,33,null,Lägenhet,1650,[Katarina],2600000,300000,2900000,744,Fastighetsbyrån,62.50758173589001,Slussen
+2014-10-08,Tjärhovsgatan 40,Katarina,Södermalm,2,45,null,Lägenhet,1906,[Katarina/Mosebacke],3450000,550000,4000000,1948,SkandiaMäklarna,489.7901447073399,Medborgarplatsen
+2014-10-03,Nytorgsgatan 15,Katarina,Södermalm,2,54,null,Lägenhet,1938,[Katarina/Mosebacke],2990000,235000,3225000,3163,SkandiaMäklarna,502.4857967729213,Medborgarplatsen
+2014-10-01,Östgötagatan 18,Katarina,Södermalm,2,47,2,Lägenhet,1909,[Södermalm Katarina],3795000,0,3795000,882,Bjurfors,224.97872253366967,Medborgarplatsen
+2014-10-01,Hökens gata 7,Katarina,Södermalm,1,35,3,Lägenhet,1904,[Södermalm],2595000,360000,2955000,2176,Fantastic Frank Fastighetsmäkleri,159.14212469584228,Slussen
+2014-09-30,Katarina Västra Kyrkogata 4B,Katarina,Södermalm,2,57,null,Lägenhet,1915,[Södermalm Katarina],4230000,0,4230000,2877,Bjurfors,350.02749044898724,Medborgarplatsen
+2014-09-30,Folkungagatan 67,Katarina,Södermalm,1.5,36,5,Lägenhet,null,[Katarina/Mosebacke],2395000,805000,3200000,1195,Svensk Fastighetsförmedling,264.32206514557225,Medborgarplatsen
+2014-09-26,Tjärhovsgatan 10,Katarina,Södermalm,1,29.5,1.5,Lägenhet,1930,[Södermalm Katarina],2250000,170000,2420000,1195,Bjurfors,162.60335857076984,Medborgarplatsen
+2014-09-24,Folkungagatan 95,Katarina,Södermalm,4,106,null,Lägenhet,1899,[Södermalm],6650000,-50000,6600000,3346,SthlmFast,549.4584171572375,Medborgarplatsen
+2014-09-24,Ringvägen 157,Katarina,Södermalm,2,62,3,Lägenhet,1927,[Sofia],3650000,350000,4000000,2871,Erik Olsson Fastighetsförmedling,561.2706279403878,Skanstull
+2014-09-21,Kapellgränd 6A,Katarina,Södermalm,2,39,2,Lägenhet,1880,[Södermalm],2890000,280000,3170000,2199,Erik Olsson Fastighetsförmedling,182.6051402438123,Medborgarplatsen
+2014-09-18,Tjärhovsgatan 22,Katarina,Södermalm,1,19,1,Lägenhet,1940,[Södermalm-Katarina],1545000,135000,1680000,2183,Södermäklarna,274.0277827296389,Medborgarplatsen
+2014-09-16,Urvädersgränd 6C,Katarina,Södermalm,2,52,null,Lägenhet,1859,[Katarina],3895000,530000,4425000,1494,Fastighetsbyrån,112.71896093520849,Slussen
+2014-09-16,Svartensgatan 10,Katarina,Södermalm,1,23,1,Lägenhet,null,[Katarina/Mosebacke],1995000,280000,2275000,1443,Svensk Fastighetsförmedling,249.9283113023046,Slussen
+2014-09-12,Hökens gata 8,Katarina,Södermalm,4,167,4,Lägenhet,1904,[Södermalm],16950000,-1750000,15200000,7173,Westning Fastighetsförmedling,172.00354209436958,Slussen
+2014-09-11,Kapellgränd 17,Katarina,Södermalm,4,117,6,Lägenhet,1906,[Katarina],8600000,-500000,8100000,5421,Fastighetsbyrån,297.8201305500679,Medborgarplatsen
+2014-09-09,Hökens Gata 9,Katarina,Södermalm,2,43,3,Lägenhet,null,[Katarina/Mosebacke],3495000,605000,4100000,2697,Svensk Fastighetsförmedling,158.716643939245,Slussen
+2014-09-08,Tjärhovsgatan 22,Katarina,Södermalm,1,19,2,Lägenhet,1940,[Katarina/Mosebacke],1675000,20000,1695000,2183,Hemverket,274.0277827296389,Medborgarplatsen
+2014-09-05,Tjärhovsgatan 10,Katarina,Södermalm,1,26.2,5,Lägenhet,1930,[Katarina],2250000,160000,2410000,1254,Fastighetsbyrån,162.60335857076984,Medborgarplatsen
+2014-09-04,Götgatan 35,Katarina,Södermalm,5,169,3,Lägenhet,1892,[Södermalm Katarina],12500000,1050000,13550000,null,HusmanHagberg,283.44085079656173,Medborgarplatsen
+2014-08-28,Nytorgsgatan 15,Katarina,Södermalm,2,56,null,Lägenhet,1938,[Katarina],3850000,0,3850000,2923,Fastighetsbyrån,502.4857967729213,Medborgarplatsen
+2014-08-28,Nytorgsgatan 15,Katarina,Södermalm,null,67,2,Lägenhet,1938,[Södermalm-Katarina],4795000,555000,5350000,3924,Södermäklarna,502.4857967729213,Medborgarplatsen
+2014-08-27,Högbergsgatan 30,Katarina,Södermalm,2,58,2,Lägenhet,1901,[Södermalm],4495000,0,4495000,2036,Erik Olsson Fastighetsförmedling,318.65813160917094,Slussen
+2014-08-25,Hökens gata 1,Katarina,Södermalm,2,79,1,Lägenhet,1984,[Södermalm],3995000,255000,4250000,2673,Edward & Partners Fastighetsmäklare AB,169.60741710901533,Slussen
+2014-08-21,Högbergsgatan 24,Katarina,Södermalm,2.5,61,4,Lägenhet,1930,[Katarina/Mosebacke],4450000,535000,4985000,3364,SkandiaMäklarna,352.2030483406401,Slussen
+2014-08-19,Svartensgatan 10,Katarina,Södermalm,1,24,3,Lägenhet,1930,[Södermalm],2090000,210000,2300000,1443,Erik Olsson Fastighetsförmedling,249.9283113023046,Slussen
+2014-08-16,Nytorgsgatan 15,Katarina,Södermalm,2,40,2,Lägenhet,1940,[Södermalm],2500000,910000,3410000,2596,Erik Olsson Fastighetsförmedling,502.4857967729213,Medborgarplatsen
+2014-08-15,Kapellgränd 19,Katarina,Södermalm,2,52,2.5,Lägenhet,1915,[Södermalm Katarina],3595000,805000,4400000,523,HusmanHagberg,312.49244192845316,Medborgarplatsen
+2014-08-13,Folkungagatan 71,Katarina,Södermalm,2,55.5,2,Lägenhet,1971,[Katarina],3500000,500000,4000000,1694,Fastighetsbyrån,293.4660892340899,Medborgarplatsen
+2014-08-06,Hökens Gata 9,Katarina,Södermalm,2,48,0.5,Lägenhet,1858,[Södermalm Hökens Gata],3190000,560000,3750000,2702,HusmanHagberg,158.716643939245,Slussen
+2014-07-20,Tjärhovsgatan 10,Katarina,Södermalm,2,57,1,Lägenhet,1929,[Södermalm],3750000,-100000,3650000,1969,Fantastic Frank Fastighetsmäkleri,162.60335857076984,Medborgarplatsen
+2014-07-03,Mosebacke Torg 8,Katarina,Södermalm,3,101,2,Lägenhet,1883,[Södermalm],6950000,425000,7375000,5843,HusmanHagberg,219.33312295669654,Slussen
+2014-06-21,Ringvägen 157,Katarina,Södermalm,2,65,0.5,Lägenhet,1927,[Katarina],3595000,105000,3700000,2539,Notar,561.2706279403878,Skanstull
+2014-06-16,Östgötagatan 33,Katarina,Södermalm,1,37,2,Lägenhet,1912,[Södermalm Katarina],2595000,155000,2750000,966,Bjurfors,195.88420433418483,Medborgarplatsen
+2014-05-30,Folkungagatan 65,Katarina,Södermalm,2,53.5,3,Lägenhet,1929,[Södermalm],2995000,625000,3620000,2932,Erik Olsson Fastighetsförmedling,238.32040214207484,Medborgarplatsen
+2014-05-28,Hökens gata 8,Katarina,Södermalm,3,78,null,Lägenhet,1904,[Södermalm],4995000,605000,5600000,3648,Gripsholms Fastighetsförmedling,172.00354209436958,Slussen
+2014-05-28,Tjärhovsgatan 22,Katarina,Södermalm,1,17.5,null,Lägenhet,1940,[Katarina],1495000,25000,1520000,2010,Fastighetsbyrån,274.0277827296389,Medborgarplatsen
+2014-05-27,Folkungagatan 53,Katarina,Södermalm,2,60,5,Lägenhet,null,[Katarina/Mosebacke],3595000,-175000,3420000,1988,Svensk Fastighetsförmedling,120.73784847899095,Medborgarplatsen
+2014-05-27,Svartensgatan 12A,Katarina,Södermalm,1,23,0.5,Lägenhet,1915,[Katarina],1975000,175000,2150000,906,Fastighetsbyrån,247.44139227795785,Slussen
+2014-05-22,Tjärhovsgatan 8B,Katarina,Södermalm,4,112,3,Lägenhet,1890,[Katarina],8295000,505000,8800000,3050,Fastighetsbyrån,151.18900867386208,Medborgarplatsen
+2014-05-22,Ringvägen 157,Katarina,Södermalm,2,64,1,Lägenhet,1927,[Tullgården],3390000,460000,3850000,2633,HusmanHagberg,561.2706279403878,Skanstull
+2014-05-21,Folkungagatan 95,Katarina,Södermalm,2,54,null,Lägenhet,1899,[Katarina],3300000,400000,3700000,1721,Fastighetsbyrån,549.4584171572375,Medborgarplatsen
+2014-05-15,Östgötagatan 29,Katarina,Södermalm,3,72,3,Lägenhet,1912,[Södermalm-Katarina],5795000,125000,5920000,941,Södermäklarna,227.51970217091718,Medborgarplatsen
+2014-05-15,Nytorgsgatan 19A,Katarina,Södermalm,2,53,1,Lägenhet,1911,[Södermalm Katarina],3350000,300000,3650000,796,HusmanHagberg,482.1206797181644,Medborgarplatsen
+2014-05-12,Nytorgsgatan 19,Katarina,Södermalm,3,85,3,Lägenhet,1911,[Katarina],6195000,-195000,6000000,1554,Fastighetsbyrån,486.26296857922057,Medborgarplatsen
+2014-05-08,Mosebacke Torg 8,Katarina,Södermalm,2,77,1,Lägenhet,1883,[Södermalm],4695000,705000,5400000,4505,Living Fastighetsmäkleri,219.33312295669654,Slussen
+2014-05-07,Katarina Västra Kyrkogata 6,Katarina,Södermalm,2,49,3,Lägenhet,1914,[Södermalm Katarina],3495000,705000,4200000,1740,HusmanHagberg,332.9081966530025,Medborgarplatsen
+2014-04-30,Hökens gata 8,Katarina,Södermalm,3,86,0.5,Lägenhet,1904,[Södermalm],5195000,-195000,5000000,4022,Erik Olsson Fastighetsförmedling,172.00354209436958,Slussen
+2014-04-30,Hökens gata 8B,Katarina,Södermalm,2,51,null,Lägenhet,1905,[Katarina/Mosebacke],3550000,300000,3850000,2384,Bostadsrättsspecialisten,170.22159102600486,Slussen
+2014-04-29,Mosebacke Torg 14,Katarina,Södermalm,6,110,4,Lägenhet,1905,[Södermalm],8250000,0,8250000,3648,Eklund Stockholm New York,256.04309255057984,Slussen
+2014-04-24,Folkungagatan 65,Katarina,Södermalm,2,54,4,Lägenhet,1929,[Katarina],3195000,105000,3300000,2959,Notar,238.32040214207484,Medborgarplatsen
+2014-04-17,Katarina Västra Kyrkogata 10,Katarina,Södermalm,2,64,1,Lägenhet,1856,[Södermalm Katarina],3850000,425000,4275000,3936,Bjurfors,304.6774040090197,Medborgarplatsen
+2014-04-16,Folkungagatan 63,Katarina,Södermalm,2,49,0.5,Lägenhet,1912,[Södermalm-Katarina],2995000,605000,3600000,2516,Södermäklarna,219.84084121021058,Medborgarplatsen
+2014-04-16,Urvädersgränd 6C,Katarina,Södermalm,2,55,1,Lägenhet,1906,[Södermalm Katarina],3980000,670000,4650000,1641,Bjurfors,112.71896093520849,Slussen
+2014-04-14,Mosebacke Torg 14,Katarina,Södermalm,2,74,5,Lägenhet,1905,[Katarina/Mosebacke],5975000,75000,6050000,3323,SkandiaMäklarna,256.04309255057984,Slussen
+2014-04-14,Katarina Västra Kyrkogata 10,Katarina,Södermalm,3,88,1,Lägenhet,1856,[Södermalm],6195000,0,6195000,5069,Edward & Partners Fastighetsmäklare AB,304.6774040090197,Medborgarplatsen
+2014-04-09,Svartensgatan 26,Katarina,Södermalm,1.5,34,2,Lägenhet,1910,[Katarina/Mosebacke],2775000,175000,2950000,1790,SkandiaMäklarna,300.78146952543403,Slussen
+2014-04-05,Östgötagatan 18,Katarina,Södermalm,2,47,3.5,Lägenhet,1910,[Södermalm],3695000,405000,4100000,873,Magnusson Mäkleri,224.97872253366967,Medborgarplatsen
+2014-04-03,Folkungagatan 65,Katarina,Södermalm,2,53.5,2,Lägenhet,1930,[Katarina],2895000,635000,3530000,2932,Fastighetsbyrån,238.32040214207484,Medborgarplatsen
+2014-03-29,Hökens gata 1,Katarina,Södermalm,3,82,1,Lägenhet,1984,[Katarina],4800000,-200000,4600000,2774,Fastighetsbyrån,169.60741710901533,Slussen
+2014-03-27,Svartensgatan 8,Katarina,Södermalm,2,64.6,3,Lägenhet,1892,[Södermalm Katarina],4500000,200000,4700000,1984,Bjurfors,271.072647550915,Slussen
+2014-03-27,Folkungagatan 53,Katarina,Södermalm,2,45,2,Lägenhet,1932,[Södermalm-Katarina],2995000,205000,3200000,1515,Södermäklarna,120.73784847899095,Medborgarplatsen
+2014-03-27,Folkungagatan 85,Katarina,Södermalm,2,50,3,Lägenhet,1906,[Södermalm-Katarina],3450000,200000,3650000,2104,Södermäklarna,436.3204835638484,Medborgarplatsen
+2014-03-27,Folkungagatan 53,Katarina,Södermalm,2,75,4,Lägenhet,1932,[Södermalm],4150000,250000,4400000,2459,Erik Olsson Fastighetsförmedling,120.73784847899095,Medborgarplatsen
+2014-03-19,Tjärhovsgatan 22,Katarina,Södermalm,1,19,2,Lägenhet,null,[Södermalm],1590000,230000,1820000,2183,Svensk Fastighetsförmedling,274.0277827296389,Medborgarplatsen
+2014-03-05,Folkungagatan 67,Katarina,Södermalm,1.5,32,5,Lägenhet,1934,[Katarina],2495000,105000,2600000,1110,Notar,264.32206514557225,Medborgarplatsen
+2014-02-26,Svartensgatan 10,Katarina,Södermalm,2,41,1,Lägenhet,1930,[Södermalm Katarina],2895000,255000,3150000,2506,Bjurfors,249.9283113023046,Slussen
+2014-02-21,Folkungagatan 69,Katarina,Södermalm,4,102,2,Lägenhet,1971,[Södermalm Katarina],6595000,-295000,6300000,2995,HusmanHagberg,289.0089019174829,Medborgarplatsen
+2014-02-20,Nytorgsgatan 15,Katarina,Södermalm,3,67,3,Lägenhet,1938,[Södermalm-Katarina],4850000,-300000,4550000,3924,Södermäklarna,502.4857967729213,Medborgarplatsen
+2014-02-18,Tjärhovsgatan 10,Katarina,Södermalm,2,57,1.5,Lägenhet,1930,[Katarina/Mosebacke],3700000,-170000,3530000,1969,Stones Fastighetsförmedling,162.60335857076984,Medborgarplatsen
+2014-02-12,Tjärhovsgatan 10,Katarina,Södermalm,2,48,4,Lägenhet,1929,[Södermalm],3295000,615000,3910000,2016,Erik Olsson Fastighetsförmedling,162.60335857076984,Medborgarplatsen
+2014-02-12,Tjärhovsgatan 10,Katarina,Södermalm,1.5,48,4,Lägenhet,1929,[Södermalm],3295000,615000,3910000,2016,Erik Olsson Fastighetsförmedling,162.60335857076984,Medborgarplatsen
+2014-02-06,Svartensgatan 10,Katarina,Södermalm,1,21,1,Lägenhet,1930,[Södermalm Katarina],1850000,0,1850000,1316,Bjurfors,249.9283113023046,Slussen
+2014-01-31,Urvädersgränd 7,Katarina,Södermalm,2,47,3,Lägenhet,1896,[Södermalm],4490000,210000,4700000,1673,Erik Olsson Fastighetsförmedling,94.72583077304725,Slussen
+2014-01-29,Nytorgsgatan 15,Katarina,Södermalm,1,24,null,Lägenhet,1938,[Södermalm],1895000,295000,2190000,1378,Gripsholms Fastighetsförmedling,502.4857967729213,Medborgarplatsen
+2014-01-24,Mosebacke Torg 8,Katarina,Södermalm,4,101,3,Lägenhet,1883,[Södermalm Katarina],7950000,830000,8780000,5746,Bjurfors,219.33312295669654,Slussen
+2014-01-23,Tjärhovsgatan 22,Katarina,Södermalm,1,19,3,Lägenhet,1940,[Södermalm Katarina],1550000,-55000,1495000,2183,HusmanHagberg,274.0277827296389,Medborgarplatsen
+2014-01-23,Nytorgsgatan 15,Katarina,Södermalm,2,38,null,Lägenhet,1938,[Katarina/Mosebacke],2600000,405000,3005000,2411,Fastighetsbyrån,502.4857967729213,Medborgarplatsen
+2014-01-15,Katarina Västra Kyrkogata 8,Katarina,Södermalm,6,164,2,Lägenhet,1915,[Södermalm],9995000,3505000,13500000,1715,Svensk Fastighetsförmedling,333.35444927802604,Medborgarplatsen
+2014-01-05,Klevgränd 1B,Katarina,Södermalm,3,77,1.5,Lägenhet,1897,[Södermalm Mosebacke],6650000,-50000,6600000,4261,BOSTHLM,62.36575664277928,Slussen
+2013-12-13,Götgatan 35,Katarina,Södermalm,3.5,68,1.5,Lägenhet,1892,[Södermalm],5200000,450000,5650000,233,Svensk Fastighetsförmedling,283.44085079656173,Medborgarplatsen
+2013-12-13,Renstiernas gata 14,Katarina,Södermalm,2,46,null,Lägenhet,1902,[Katarina/Mosebacke],2650000,0,2650000,1277,SkandiaMäklarna,593.4731126192436,Medborgarplatsen
+2013-12-10,Folkungagatan 93,Katarina,Södermalm,2,58,null,Lägenhet,1899,[Katarina],3695000,355000,4050000,1451,Notar,530.2184613852531,Medborgarplatsen
+2013-11-30,Svartensgatan 8,Katarina,Södermalm,2,60,3,Lägenhet,1892,[Södermalm],4250000,150000,4400000,1952,Notar,271.072647550915,Slussen
+2013-11-21,Östgötagatan 33,Katarina,Södermalm,2,55,null,Lägenhet,1912,[Katarina/Mosebacke],3495000,5000,3500000,1292,Fastighetsbyrån,195.88420433418483,Medborgarplatsen
+2013-11-20,Tjärhovsgatan 22,Katarina,Södermalm,1,19,4,Lägenhet,1940,[Södermalm],1395000,225000,1620000,2183,Svensk Fastighetsförmedling,274.0277827296389,Medborgarplatsen
+2013-11-14,Tjärhovsgatan 14,Katarina,Södermalm,3,105,2,Lägenhet,1914,[Södermalm],5950000,1075000,7025000,2339,Svenska Mäklarhuset,188.220622897803,Medborgarplatsen
+2013-11-13,Högbergsgatan 18,Katarina,Södermalm,3,86,2,Lägenhet,1974,[Södermalm-Katarina],5300000,0,5300000,3442,Södermäklarna,381.4000858156121,Slussen
+2013-11-13,Katarina Västra Kyrkogata 6,Katarina,Södermalm,2,48,1,Lägenhet,1914,[Södermalm Katarina],3275000,675000,3950000,1816,HusmanHagberg,332.9081966530025,Medborgarplatsen
+2013-11-07,Hökens gata 1,Katarina,Södermalm,2,60,2,Lägenhet,1984,[Södermalm-Katarina, Götgatsbacken],3595000,-295000,3300000,2268,Södermäklarna,169.60741710901533,Slussen
+2013-11-05,Högbergsgatan 22,Katarina,Södermalm,2,47,1,Lägenhet,1930,[Södermalm Mosebacke],2890000,-30000,2860000,2814,MäklarMäster,364.0195713704143,Slussen
+2013-10-25,Nytorgsgatan 21B,Katarina,Södermalm,4,92,null,Lägenhet,1902,[Katarina/Mosebacke],7500000,300000,7800000,3563,Fastighetsbyrån,471.18389796661876,Medborgarplatsen
+2013-10-25,Folkungagatan 53,Katarina,Södermalm,1,38,4,Lägenhet,1932,[Södermalm],2250000,370000,2620000,1213,Svensk Fastighetsförmedling,120.73784847899095,Medborgarplatsen
+2013-10-24,Östgötagatan 18,Katarina,Södermalm,3,84,null,Lägenhet,1911,[Katarina/Mosebacke],4975000,450000,5425000,1583,Fastighetsbyrån,224.97872253366967,Medborgarplatsen
+2013-10-22,Tjärhovsgatan 10,Katarina,Södermalm,1,28.9,null,Lägenhet,1930,[Katarina/Mosebacke],1900000,115000,2015000,1266,Fastighetsbyrån,162.60335857076984,Medborgarplatsen
+2013-10-18,Katarina Västra Kyrkogata 4,Katarina,Södermalm,3,81,1,Lägenhet,1914,[Södermalm],5250000,450000,5700000,4581,Erik Olsson Fastighetsförmedling,364.0438584750243,Medborgarplatsen
+2013-10-16,Tjärhovsgatan 5,Katarina,Södermalm,2,76,2,Lägenhet,1912,[Södermalm],4195000,755000,4950000,1628,Svenska Mäklarhuset,226.0003241015583,Medborgarplatsen
+2013-10-10,Folkungagatan 81,Katarina,Södermalm,3,80,1,Lägenhet,null,[Katarina/Mosebacke],4800000,0,4800000,2708,BOSTHLM,398.7395555830442,Medborgarplatsen
+2013-10-09,Folkungagatan 85,Katarina,Södermalm,3,87,null,Lägenhet,1906,[Södermalm],4900000,1320000,6220000,3082,SthlmFast,436.3204835638484,Medborgarplatsen
+2013-10-07,Kapellgränd 6B,Katarina,Södermalm,2,60,2,Lägenhet,1880,[Södermalm],3995000,555000,4550000,3536,Svenska Mäklarhuset,225.84873102970525,Medborgarplatsen
+2013-10-06,Högbergsgatan 28,Katarina,Södermalm,2,38,null,Lägenhet,1913,[Södermalm Katarina],2695000,-70000,2625000,849,HusmanHagberg,323.5344095464419,Slussen
+2013-10-02,Mosebacke Torg 8,Katarina,Södermalm,3,83,null,Lägenhet,1884,[Södermalm Mosebacke],5950000,0,5950000,4481,BOSTHLM,219.33312295669654,Slussen
+2013-09-24,Tjärhovsgatan 12,Katarina,Södermalm,2,60,1,Lägenhet,null,[Södermalm-Katarina],3750000,625000,4375000,2324,Södermäklarna,174.66839260198935,Medborgarplatsen
+2013-09-10,Urvädersgränd 6C,Katarina,Södermalm,2,56,null,Lägenhet,1859,[Södermalm Katarina],3850000,60000,3910000,1646,HusmanHagberg,112.71896093520849,Slussen
+2013-09-06,Klevgränd 2,Katarina,Södermalm,3,87,null,Lägenhet,1889,[Södermalm],5650000,150000,5800000,2762,Wrede,73.39479104948322,Slussen
+2013-08-31,Roddargatan 8,Katarina,Södermalm,2,49,null,Lägenhet,1974,[Södermalm Katarina],3100000,100000,3200000,1954,Bjurfors,373.8251718598227,Slussen
+2013-08-30,Tjärhovsgatan 10,Katarina,Södermalm,2,57,2,Lägenhet,null,[Södermalm],3100000,-70000,3030000,2016,Erik Olsson Fastighetsförmedling,162.60335857076984,Medborgarplatsen
+2013-08-29,Nytorgsgatan 15,Katarina,Södermalm,2,56,null,Lägenhet,1938,[Katarina/Mosebacke],3595000,315000,3910000,3280,Fastighetsbyrån,502.4857967729213,Medborgarplatsen
+2013-08-28,Folkungagatan 81,Katarina,Södermalm,2,60,5,Lägenhet,null,[Södermalm],4300000,0,4300000,2108,BOSTHLM,398.7395555830442,Medborgarplatsen
+2013-08-28,Östgötagatan 18,Katarina,Södermalm,3.5,84,4,Lägenhet,1910,[Katarina/Mosebacke],5550000,0,5550000,1555,BOSTHLM,224.97872253366967,Medborgarplatsen
+2013-08-20,Renstiernas gata 16,Katarina,Södermalm,2,60,null,Lägenhet,1898,[Katarina/Mosebacke],3495000,455000,3950000,2341,Fastighetsbyrån,590.9150424911606,Medborgarplatsen
+2013-08-16,Tjärhovsgatan 10,Katarina,Södermalm,2.5,57,1,Lägenhet,null,[Södermalm-Katarina],2995000,205000,3200000,1851,Södermäklarna,162.60335857076984,Medborgarplatsen
+2013-08-16,Katarina Västra Kyrkogata 10,Katarina,Södermalm,2,62,2,Lägenhet,null,[Katarina/Mosebacke],3900000,150000,4050000,3844,Bostadsrättsspecialisten,304.6774040090197,Medborgarplatsen
+2013-07-15,Nytorgsgatan 15,Katarina,Södermalm,2,40,1.5,Lägenhet,1938,[Södermalm],2895000,55000,2950000,2297,Svensk Fastighetsförmedling,502.4857967729213,Medborgarplatsen
+2013-07-04,Tjärhovsgatan 22,Katarina,Södermalm,1,24,5,Lägenhet,1940,[Södermalm],1595000,255000,1850000,2757,Svensk Fastighetsförmedling,274.0277827296389,Medborgarplatsen
+2013-06-20,Nytorgsgatan 15,Katarina,Södermalm,3,67,2,Lägenhet,null,[Södermalm-Katarina],3875000,525000,4400000,3924,Södermäklarna,502.4857967729213,Medborgarplatsen
+2013-06-19,Hökens gata 8B,Katarina,Södermalm,2,57,3,Lägenhet,1904,[Katarina/Mosebacke],3750000,320000,4070000,2318,Mäklarhuset,170.22159102600486,Slussen
+2013-06-16,Folkungagatan 61,Katarina,Södermalm,5,146,4,Lägenhet,1912,[Katarina/Mosebacke],8145000,0,8145000,3387,Mäklarhuset,200.51052454685652,Medborgarplatsen
+2013-06-14,Nytorgsgatan 19,Katarina,Södermalm,5,134,5,Lägenhet,null,[Katarina/Mosebacke],9500000,-500000,9000000,2394,Bostadsrättsspecialisten,486.26296857922057,Medborgarplatsen
+2013-06-13,Folkungagatan 83,Katarina,Södermalm,2,57,null,Lägenhet,1906,[Katarina/Mosebacke],3195000,205000,3400000,1338,Fastighetsbyrån,414.53795394464606,Medborgarplatsen
+2013-06-12,Katarina Västra Kyrkogata 6B,Katarina,Södermalm,2,59,null,Lägenhet,1914,[Katarina/Mosebacke],3595000,35000,3630000,2197,Fastighetsbyrån,363.1824483798167,Medborgarplatsen
+2013-06-08,Kapellgränd 6C,Katarina,Södermalm,2,50,2,Lägenhet,null,[Södermalm-Katarina],3195000,5000,3200000,2746,Södermäklarna,275.0152461800377,Medborgarplatsen
+2013-06-05,Nytorgsgatan 15,Katarina,Södermalm,2,38,2,Lägenhet,1938,[Södermalm],2450000,470000,2920000,2088,Svensk Fastighetsförmedling,502.4857967729213,Medborgarplatsen
+2013-05-30,Hökens Gata 9,Katarina,Södermalm,4,83,null,Lägenhet,1858,[Mosebacke],5195000,80000,5275000,4453,Privatmäklaren,158.716643939245,Slussen
+2013-05-24,Högbergsgatan 22,Katarina,Södermalm,2,40,4,Lägenhet,1930,[Södermalm],2750000,-25000,2725000,2479,Svensk Fastighetsförmedling,364.0195713704143,Slussen
+2013-05-22,Högbergsgatan 24,Katarina,Södermalm,2,45,1,Lägenhet,null,[Södermalm],2495000,305000,2800000,2747,Erik Olsson Fastighetsförmedling,352.2030483406401,Slussen
+2013-05-22,Högbergsgatan 24,Katarina,Södermalm,2,40,null,Lägenhet,1930,[Södermalm],2495000,0,2495000,2479,Svenska Mäklarhuset,352.2030483406401,Slussen
+2013-05-15,Svartensgatan 8,Katarina,Södermalm,2,64,2,Lägenhet,null,[Södermalm],3895000,805000,4700000,1984,Alexander White Fastighetsmäkleri,271.072647550915,Slussen
+2013-04-30,Tjärhovsgatan 10,Katarina,Södermalm,2.5,56,null,Lägenhet,1929,[Medborgarplatsen Södermalm],2990000,0,2990000,1911,HusmanHagberg,162.60335857076984,Medborgarplatsen
+2013-04-26,Tjärhovsgatan 22,Katarina,Södermalm,1,19,null,Lägenhet,1940,[Katarina/Mosebacke],1350000,0,1350000,2183,Fastighetsbyrån,274.0277827296389,Medborgarplatsen
+2013-04-26,Katarina Västra Kyrkogata 10,Katarina,Södermalm,3,105,2,Lägenhet,1856,[Södermalm],5995000,0,5995000,6456,Svensk Fastighetsförmedling,304.6774040090197,Medborgarplatsen
+2013-04-25,Folkungagatan 65,Katarina,Södermalm,1,32,null,Lägenhet,1930,[Södermalm],1995000,325000,2320000,1815,SkandiaMäklarna,238.32040214207484,Medborgarplatsen
+2013-04-19,Urvädersgränd 6C,Katarina,Södermalm,1,39,null,Lägenhet,1859,[Katarina/Mosebacke],2250000,20000,2270000,1189,Fastighetsbyrån,112.71896093520849,Slussen
+2013-04-19,Tjärhovsgatan 40,Katarina,Södermalm,2,54,null,Lägenhet,null,[Södermalm],2875000,275000,3150000,1953,Erik Olsson Fastighetsförmedling,489.7901447073399,Medborgarplatsen
+2013-04-19,Mosebacke Torg 8,Katarina,Södermalm,2,61,2,Lägenhet,1985,[Södermalm],4495000,255000,4750000,3328,Living Fastighetsmäkleri,219.33312295669654,Slussen
+2013-04-17,Urvädersgränd 7,Katarina,Södermalm,2,78,3,Lägenhet,1896,[Södermalm],6500000,-450000,6050000,3409,Svensk Fastighetsförmedling,94.72583077304725,Slussen
+2013-04-10,Tjärhovsgatan 10,Katarina,Södermalm,2,48,1.5,Lägenhet,1929,[Södermalm Katarina],2995000,55000,3050000,1828,HusmanHagberg,162.60335857076984,Medborgarplatsen
+2013-04-03,Tjärhovsgatan 10,Katarina,Södermalm,1,29,2,Lägenhet,1920,[Södermalm],1995000,5000,2000000,1289,RE/MAX Sverige,162.60335857076984,Medborgarplatsen
+2013-03-29,Folkungagatan 69,Katarina,Södermalm,2,55.5,4,Lägenhet,1971,[Katarina],2995000,205000,3200000,1694,Notar,289.0089019174829,Medborgarplatsen
+2013-03-27,Svartensgatan 8,Katarina,Södermalm,2,58,null,Lägenhet,null,[Södermalm],3495000,80000,3575000,1887,Alexander White Fastighetsmäkleri,271.072647550915,Slussen
+2013-03-19,Folkungagatan 65,Katarina,Södermalm,2,54,null,Lägenhet,1930,[Katarina/Mosebacke],2895000,205000,3100000,2932,Fastighetsbyrån,238.32040214207484,Medborgarplatsen
+2013-03-14,Folkungagatan 63,Katarina,Södermalm,1,19,null,Lägenhet,null,[Södermalm],1250000,470000,1720000,975,BOSTHLM,219.84084121021058,Medborgarplatsen
+2013-03-13,Folkungagatan 97,Katarina,Södermalm,2,51.9,2,Lägenhet,1898,[Södermalm],3595000,0,3595000,2025,Fantastic Frank Fastighetsmäkleri,573.0957996145702,Medborgarplatsen
+2013-03-12,Nytorgsgatan 15,Katarina,Södermalm,2,36,null,Lägenhet,1938,[Södermalm],2150000,0,2150000,2026,Notar,502.4857967729213,Medborgarplatsen
+2013-03-11,Nytorgsgatan 15,Katarina,Södermalm,2,56,null,Lägenhet,1938,[Södermalm],3250000,-250000,3000000,3280,SkandiaMäklarna,502.4857967729213,Medborgarplatsen
+2013-03-11,Urvädersgränd 7,Katarina,Södermalm,1,28,null,Lägenhet,1896,[Södermalm],2650000,-50000,2600000,1276,SkandiaMäklarna,94.72583077304725,Slussen
+2013-02-22,Kapellgränd 6B,Katarina,Södermalm,3,73,null,Lägenhet,1883,[Katarina/Mosebacke],4400000,1050000,5450000,3321,Fastighetsbyrån,225.84873102970525,Medborgarplatsen
+2013-02-11,Östgötagatan 29,Katarina,Södermalm,3,84,4,Lägenhet,null,[Katarina/Mosebacke],4750000,280000,5030000,1463,Bostadsrättsspecialisten,227.51970217091718,Medborgarplatsen
+2013-02-06,Nytorgsgatan 15,Katarina,Södermalm,2,56,null,Lägenhet,1938,[Katarina/Mosebacke],3495000,-295000,3200000,3280,Fastighetsbyrån,502.4857967729213,Medborgarplatsen
+2013-02-02,Folkungagatan 63,Katarina,Södermalm,2,51,3.5,Lägenhet,1912,[Södermalm],3195000,255000,3450000,2618,Svensk Fastighetsförmedling,219.84084121021058,Medborgarplatsen
+2013-01-29,Tjärhovsgatan 22,Katarina,Södermalm,1,19,2,Lägenhet,1940,[Södermalm],1300000,320000,1620000,2239,Svensk Fastighetsförmedling,274.0277827296389,Medborgarplatsen
+2013-01-22,Högbergsgatan 24,Katarina,Södermalm,2,61,4,Lägenhet,null,[Södermalm],3890000,500000,4390000,3364,MäklarMäster,352.2030483406401,Slussen
+2013-01-19,Östgötagatan 19,Katarina,Södermalm,3,81,null,Lägenhet,1885,[Katarina/Mosebacke],4495000,105000,4600000,3774,Fastighetsbyrån,302.93889362088186,Medborgarplatsen
+2013-01-18,Kapellgränd 6C,Katarina,Södermalm,3,73,1,Lägenhet,1883,[Södermalm],5315000,-165000,5150000,3279,Svensk Fastighetsförmedling,275.0152461800377,Medborgarplatsen
+2013-01-10,Folkungagatan 63,Katarina,Södermalm,2,49,1,Lägenhet,null,[Södermalm],2900000,0,2900000,2516,Erik Olsson Fastighetsförmedling,219.84084121021058,Medborgarplatsen
+2013-01-10,Tjärhovsgatan 10,Katarina,Södermalm,1.5,44.6,null,Lägenhet,1930,[Katarina/Mosebacke],2250000,320000,2570000,1722,Fastighetsbyrån,162.60335857076984,Medborgarplatsen
+2013-01-09,Nytorgsgatan 15,Katarina,Södermalm,2,47,5,Lägenhet,null,[Södermalm],2995000,515000,3510000,2753,Erik Olsson Fastighetsförmedling,502.4857967729213,Medborgarplatsen
+2012-12-21,Östgötagatan 33,Katarina,Södermalm,2,72,4,Lägenhet,1912,[Södermalm],3995000,0,3995000,1584,Svenska Mäklarhuset,195.88420433418483,Medborgarplatsen
+2012-12-19,Mosebacke Torg 8C,Katarina,Södermalm,3,77,2,Lägenhet,1883,[Södermalm],4850000,-250000,4600000,4088,Notar,209.9620458407012,Slussen
+2012-11-23,Tjärhovsgatan 22,Katarina,Södermalm,1,24,null,Lägenhet,null,[Södermalm],1490000,10000,1500000,2828,Susanne Persson Fastighetsförmedling AB,274.0277827296389,Medborgarplatsen
+2012-11-23,Folkungagatan 83,Katarina,Södermalm,2,61,3,Lägenhet,null,[Södermalm],3850000,350000,4200000,1384,Erik Olsson Fastighetsförmedling,414.53795394464606,Medborgarplatsen
+2012-11-16,Folkungagatan 63,Katarina,Södermalm,3,96,null,Lägenhet,1912,[Katarina/Mosebacke],4795000,205000,5000000,4928,Fastighetsbyrån,219.84084121021058,Medborgarplatsen
+2012-11-15,Urvädersgränd 7,Katarina,Södermalm,2,47,null,Lägenhet,1896,[Södermalm Katarina],3550000,50000,3600000,2091,Bjurfors,94.72583077304725,Slussen
+2012-11-14,Folkungagatan 97,Katarina,Södermalm,2,51.8,3,Lägenhet,1901,[Södermalm],3095000,155000,3250000,2020,Notar,573.0957996145702,Medborgarplatsen
+2012-11-14,Tjärhovsgatan 22,Katarina,Södermalm,1,20,1,Lägenhet,1940,[Södermalm],1295000,155000,1450000,2356,Svenska Mäklarhuset,274.0277827296389,Medborgarplatsen
+2012-10-30,Götgatan 39,Katarina,Södermalm,3,90,2,Lägenhet,1851,[Södermalm],5950000,100000,6050000,3089,SkandiaMäklarna,238.2671745555265,Medborgarplatsen
+2012-10-25,Folkungagatan 67,Katarina,Södermalm,1.5,36,5,Lägenhet,1934,[Södermalm],2190000,180000,2370000,1195,SkandiaMäklarna,264.32206514557225,Medborgarplatsen
+2012-10-20,Folkungagatan 61,Katarina,Södermalm,3,133,4,Lägenhet,1912,[Södermalm],7295000,175000,7470000,2925,Svenska Mäklarhuset,200.51052454685652,Medborgarplatsen
+2012-10-10,Katarina Västra Kyrkogata 4,Katarina,Södermalm,3,80,null,Lägenhet,1915,[Katarina/Mosebacke],5295000,705000,6000000,4581,Fastighetsbyrån,364.0438584750243,Medborgarplatsen
+2012-09-30,Götgatan 29,Katarina,Södermalm,3,82.3,null,Lägenhet,1778,[Södermalm],5350000,-350000,5000000,796,SkandiaMäklarna,295.95052421365125,Slussen
+2012-09-26,Folkungagatan 91,Katarina,Södermalm,2,62,5,Lägenhet,null,[Katarina/Mosebacke],3700000,70000,3770000,2901,Mäklarhuset,512.4485040455885,Medborgarplatsen
+2012-09-26,Folkungagatan 65,Katarina,Södermalm,2,53.5,null,Lägenhet,null,[Katarina/Mosebacke],2975000,0,2975000,2846,Mäklarhuset,238.32040214207484,Medborgarplatsen
+2012-09-22,Katarina Västra Kyrkogata 4,Katarina,Södermalm,2,52,null,Lägenhet,1915,[Katarina/Mosebacke],2800000,160000,2960000,3288,Fastighetsbyrån,364.0438584750243,Medborgarplatsen
+2012-09-18,Nytorgsgatan 15,Katarina,Södermalm,2,56,null,Lägenhet,1938,[Katarina/Mosebacke],3300000,280000,3580000,3216,Fastighetsbyrån,502.4857967729213,Medborgarplatsen
+2012-09-07,Högbergsgatan 18,Katarina,Södermalm,3.5,85,null,Lägenhet,1974,[Katarina/Mosebacke],4950000,200000,5150000,3230,Fastighetsbyrån,381.4000858156121,Slussen

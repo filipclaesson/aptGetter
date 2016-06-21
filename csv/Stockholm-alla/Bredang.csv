@@ -1,0 +1,91 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-11,Eksätravägen 112,Bredang,Röd Norsborg,5,140,null,Villa,1965,[Skärholmen],3650000,800000,4450000,null,Notar,777.1877126968028,Bredang
+2016-05-07,Eksätravägen 166,Bredang,Röd Norsborg,5,122,null,Kedjehus,1966,[Bredäng],4475000,25000,4500000,null,Mäklarringen,732.0962084361231,Bredang
+2016-05-04,Ålgrytebacken 13,Bredang,Röd Norsborg,4,94,2,Lägenhet,1963,[Skärholmen],2795000,755000,3550000,4174,Södermäklarna,465.51607336067724,Bredang
+2016-04-28,Kråksätrabacken 31,Bredang,Röd Norsborg,6,177,null,Kedjehus,1966,[Sätra],4390000,1020000,5410000,null,Fastighetsbyrån,798.8630824659868,Bredang
+2016-04-20,Aspsätravägen 7,Bredang,Röd Norsborg,1.5,44,0,Lägenhet,1965,[Sätra],1690000,460000,2150000,2346,Fastighetsbyrån,472.35641029835574,Satra
+2016-04-08,Ålgrytebacken 6,Bredang,Röd Norsborg,4,94,1,Lägenhet,1963,[Bredäng],2790000,210000,3000000,4133,Fastighetsbyrån,388.05826108067976,Bredang
+2016-04-06,Odd Fellowvägen 51,Bredang,Röd Norsborg,2.5,67,0,Lägenhet,1991,[Bredäng],2600000,-210000,2390000,3890,Fastighetsbyrån,253.534605049363,Bredang
+2016-03-24,Tankebyggarbacken 101,Bredang,Röd Norsborg,6,132,null,Radhus,1969,[Skärholmen],3450000,450000,3900000,null,Fastighetsbyrån,342.1890733404272,Bredang
+2016-03-02,Lilla Sällskapets väg 5B,Bredang,Röd Norsborg,2.5,77.5,0,Lägenhet,1999,[Bredäng],2490000,710000,3200000,4303,Fastighetsbyrån,638.1405956365655,Bredang
+2016-02-25,Odd Fellowvägen 30,Bredang,Röd Norsborg,4,91,1,Lägenhet,1992,[Skärholmen],2650000,600000,3250000,4386,Erik Olsson Fastighetsförmedling,358.42404474686657,Bredang
+2016-02-19,Lilla Sällskapets väg 7A,Bredang,Röd Norsborg,3,77.5,0,Lägenhet,1999,[Bredäng],2490000,1020000,3510000,4303,Fastighetsbyrån,643.3425652953327,Bredang
+2016-02-05,Järnbärarvägen 12,Bredang,Röd Norsborg,2,48,null,Lägenhet,1966,[Bredäng],1625000,385000,2010000,2374,Bukowskis Mäklarbyrå,373.2870542025261,Bredang
+2016-01-30,Eksätravägen 162,Bredang,Röd Norsborg,5,121,null,Kedjehus,1966,[Bredäng],4475000,900000,5375000,null,Mäklarringen,727.1005034512222,Bredang
+2016-01-28,Kråksätrabacken 79,Bredang,Röd Norsborg,7,179,null,Kedjehus,1967,[Skärholmen],4495000,105000,4600000,null,SkandiaMäklarna,723.0040103049939,Satra
+2016-01-22,Odd Fellowvägen 9,Bredang,Röd Norsborg,4,104,2,Lägenhet,1965,[Bredäng],2995000,715000,3710000,3901,HusmanHagberg,611.8502961546551,Bredang
+2016-01-18,Aspsätravägen 27,Bredang,Röd Norsborg,1.5,48,2,Lägenhet,1964,[Skärholmen],1695000,445000,2140000,2526,Tomas Mäklarbyrå,434.6763701826431,Satra
+2016-01-15,Odd Fellowvägen 30,Bredang,Röd Norsborg,1.5,45.5,2,Lägenhet,null,[Bredäng],1695000,685000,2380000,2440,Svenska Mäklarhuset,358.42404474686657,Bredang
+2015-12-17,Odd Fellowvägen 35,Bredang,Röd Norsborg,2,67,2,Lägenhet,1992,[Bredäng-Mälarhöjden],1975000,325000,2300000,3897,Mäklarringen,353.1050491031254,Bredang
+2015-12-11,Ålgrytebacken 3,Bredang,Röd Norsborg,3,80,2,Lägenhet,1963,[Skärholmen],2100000,420000,2520000,3485,Tomas Mäklarbyrå,437.34066012152437,Bredang
+2015-11-30,Järnbärarvägen 2,Bredang,Röd Norsborg,1,36,null,Lägenhet,1966,[Bredäng],1295000,705000,2000000,1927,Notar,488.0050666912438,Bredang
+2015-11-30,Ålgrytebacken 9,Bredang,Röd Norsborg,3,80,1,Lägenhet,1963,[Bredäng],2095000,575000,2670000,3485,Notar,468.4160015780135,Bredang
+2015-10-13,Järnbärarvägen 2,Bredang,Röd Norsborg,4,102,4,Lägenhet,1966,[Bredäng],2190000,760000,2950000,4943,Fastighetsbyrån,488.0050666912438,Bredang
+2015-10-09,Järnbärarvägen 12,Bredang,Röd Norsborg,3,82,1,Lägenhet,1966,[Skärholmen],1875000,645000,2520000,3931,Mäklarhuset,373.2870542025261,Bredang
+2015-10-05,Aspsätravägen 17,Bredang,Röd Norsborg,3,80,2,Lägenhet,1965,[Sätra],2195000,325000,2520000,3905,Notar,501.05309498048035,Satra
+2015-09-29,Odd Fellowvägen 9,Bredang,Röd Norsborg,4,104,2,Lägenhet,1965,[Bredäng-Mälarhöjden],2795000,315000,3110000,3715,Mäklarringen,611.8502961546551,Bredang
+2015-09-29,Aspsätravägen 27,Bredang,Röd Norsborg,3,80,3,Lägenhet,1965,[Skärholmen],2250000,300000,2550000,3904,Fastighetsmäklarna,434.6763701826431,Satra
+2015-09-21,Odd Fellowvägen 37,Bredang,Röd Norsborg,3.5,86,1,Lägenhet,1992,[Bredäng-Mälarhöjden],2295000,305000,2600000,4686,Mäklarringen,342.52129944233747,Bredang
+2015-09-21,Ålgrytebacken 10,Bredang,Röd Norsborg,3,80,null,Lägenhet,1963,[Bredäng],2250000,430000,2680000,3451,Länsförsäkringar Fastighetsförmedling,369.73328515825517,Bredang
+2015-09-12,Odd Fellowvägen 7,Bredang,Röd Norsborg,4,104,1,Lägenhet,1965,[Bredäng],2690000,810000,3500000,3715,Fastighetsbyrån,632.5364182737869,Bredang
+2015-09-08,Järnbärarvägen 6,Bredang,Röd Norsborg,2,62,6,Lägenhet,1966,[Bredäng],1590000,610000,2200000,3044,Fastighetsbyrån,456.4089490724218,Bredang
+2015-08-26,Lilla Sällskapets väg 19A,Bredang,Röd Norsborg,3,77.5,0,Lägenhet,1999,[Bredäng],1990000,1185000,3175000,4303,Fastighetsbyrån,629.1657180989098,Bredang
+2015-07-16,Ålgrytebacken 10,Bredang,Röd Norsborg,4,94,3,Lägenhet,1963,[Bredäng],2490000,260000,2750000,4052,Fastighetsbyrån,369.73328515825517,Bredang
+2015-06-11,Eksätravägen 164,Bredang,Röd Norsborg,6,121,null,Kedjehus,1965,[Bredäng],3790000,410000,4200000,null,Fastighetsbyrån,726.696692218396,Bredang
+2015-06-02,Odd Fellowvägen 39,Bredang,Röd Norsborg,2.5,67,1,Lägenhet,1991,[Bredäng],1690000,330000,2020000,3897,Fastighetsbyrån,326.44461889399724,Bredang
+2015-05-27,Ålgrytebacken 4,Bredang,Röd Norsborg,2,46,0,Lägenhet,1963,[Bredäng],1390000,475000,1865000,2107,Fastighetsbyrån,390.9680696045306,Bredang
+2015-05-27,Järnbärarvägen 14,Bredang,Röd Norsborg,2,72,null,Lägenhet,1966,[Bredäng],1690000,260000,1950000,3432,Fastighetsbyrån,362.22160453249086,Bredang
+2015-05-27,Odd Fellowvägen 39,Bredang,Röd Norsborg,2.5,67,1,Lägenhet,1991,[Bredäng],1690000,440000,2130000,3897,Fastighetsbyrån,326.44461889399724,Bredang
+2015-05-22,Ålgrytebacken 17,Bredang,Röd Norsborg,1,32.5,0,Lägenhet,1963,[Bredäng],1490000,340000,1830000,1540,Fastighetsbyrån,446.6455942757053,Bredang
+2015-05-21,Ålgrytebacken 3,Bredang,Röd Norsborg,4,94,2,Lägenhet,1963,[Bredäng],2950000,0,2950000,4012,Fastighetsbyrån,437.34066012152437,Bredang
+2015-05-16,Ålgrytebacken 4,Bredang,Röd Norsborg,3,80,2,Lägenhet,1963,[Skärholmen],2095000,355000,2450000,3416,Svensk Fastighetsförmedling,390.9680696045306,Bredang
+2015-04-30,Ålgrytebacken 8,Bredang,Röd Norsborg,3,80,2,Lägenhet,1963,[Bredäng],1950000,810000,2760000,3486,Fastighetsbyrån,377.0986916232566,Bredang
+2015-04-17,Järnbärarvägen 16,Bredang,Röd Norsborg,3,78,6,Lägenhet,1966,[Bredäng],1875000,720000,2595000,3711,Notar,348.1791481139045,Bredang
+2015-03-22,Odd Fellowvägen 55,Bredang,Röd Norsborg,2.5,67,2,Lägenhet,1992,[Bredäng-Mälarhöjden],1795000,720000,2515000,4807,Mäklarringen,246.97651711258658,Bredang
+2015-03-17,Järnbärarvägen 2,Bredang,Röd Norsborg,1.5,48,null,Lägenhet,1966,[Bredäng],1295000,575000,1870000,2377,Fastighetsbyrån,488.0050666912438,Bredang
+2015-03-17,Eksätravägen 156,Bredang,Röd Norsborg,7,120,null,Kedjehus,1966,[Bredäng],3250000,1450000,4700000,null,Fastighetsbyrån,754.4627219864025,Bredang
+2015-03-14,Järnbärarvägen 10,Bredang,Röd Norsborg,3,82,5,Lägenhet,1966,[Bredäng],1695000,610000,2305000,3930,Södermäklarna,385.9187607156024,Bredang
+2015-03-11,Odd Fellowvägen 30,Bredang,Röd Norsborg,3,78.5,1,Lägenhet,1992,[Bredäng],2295000,905000,3200000,4855,Notar,358.42404474686657,Bredang
+2015-03-04,Ålgrytebacken 7,Bredang,Röd Norsborg,2,60,-1,Lägenhet,1963,[Bredäng],1300000,760000,2060000,2675,Fastighetsbyrån,460.01189071835813,Bredang
+2015-01-31,Järnbärarvägen 12,Bredang,Röd Norsborg,3,82,4,Lägenhet,1966,[Skärholmen],1900000,310000,2210000,3930,Notar,373.2870542025261,Bredang
+2015-01-30,Järnbärarvägen 10,Bredang,Röd Norsborg,3,82,2,Lägenhet,1966,[Bredäng],1895000,155000,2050000,3930,Fastighetsbyrån,385.9187607156024,Bredang
+2015-01-19,Odd Fellowvägen 11,Bredang,Röd Norsborg,4,104,2,Lägenhet,1965,[Bredäng],2750000,150000,2900000,3715,Svenska Mäklarhuset,686.9966183798052,Bredang
+2014-12-15,Odd Fellowvägen 12,Bredang,Röd Norsborg,4,104,null,Lägenhet,1964,[Bredäng],2495000,235000,2730000,4349,Svenska Mäklarhuset,610.5074347918769,Bredang
+2014-11-28,Aspsätravägen 27,Bredang,Röd Norsborg,3,80,1,Lägenhet,1965,[Sätra],1890000,560000,2450000,3828,Fastighetsbyrån,434.6763701826431,Satra
+2014-11-26,Odd Fellowvägen 35,Bredang,Röd Norsborg,3,76,null,Lägenhet,null,[Bredäng],1695000,230000,1925000,4365,Södermäklarna,353.1050491031254,Bredang
+2014-10-23,Ålgrytevägen 35,Bredang,Röd Norsborg,5,104,1,Lägenhet,1965,[Mälarhöjden],2995000,880000,3875000,3731,Wendell Fastighetsförmedling AB,684.5174938828269,Bredang
+2014-10-16,Lilla Sällskapets väg 13A,Bredang,Röd Norsborg,3,72.3,null,Lägenhet,1999,[Bredäng],1695000,280000,1975000,3825,Mäklarringen,632.7227026983038,Bredang
+2014-10-09,Aspsätravägen 3,Bredang,Röd Norsborg,3,79,2,Lägenhet,1965,[Sätra],1895000,215000,2110000,3789,Fastighetsbyrån,442.7349244999607,Satra
+2014-09-28,Lilla Sällskapets väg 17B,Bredang,Röd Norsborg,3,77.5,null,Lägenhet,1999,[Bredäng],1800000,480000,2280000,4221,Fastighetsbyrån,633.2696275375082,Bredang
+2014-09-18,Järnbärarvägen 4,Bredang,Röd Norsborg,3,82,3,Lägenhet,1966,[Bredäng],1695000,505000,2200000,3930,Notar,469.89108572012515,Bredang
+2014-09-12,Ålgrytebacken 9,Bredang,Röd Norsborg,3,80,null,Lägenhet,1963,[Bredäng],1795000,580000,2375000,3520,Fastighetsbyrån,468.4160015780135,Bredang
+2014-09-12,Ålgrytebacken 16,Bredang,Röd Norsborg,4,94,1,Lägenhet,1963,[Bredäng],1950000,420000,2370000,4052,Fastighetsbyrån,394.25268898493636,Bredang
+2014-08-25,Eksätravägen 178,Bredang,Röd Norsborg,7,121,null,Kedjehus,1965,[Skärholmen/Bredäng],3495000,765000,4260000,null,Svensk Fastighetsförmedling,692.2842897578718,Bredang
+2014-08-22,Ålgrytevägen 45,Bredang,Röd Norsborg,4,104,5,Lägenhet,1965,[Skärholmen/Bredäng],2495000,15000,2510000,3672,SkandiaMäklarna,644.744986674819,Bredang
+2014-08-14,Aspsätravägen 9,Bredang,Röd Norsborg,3,79,null,Lägenhet,1965,[Sätra],1850000,350000,2200000,3789,Fastighetsbyrån,492.0280534006238,Satra
+2014-07-03,Järnbärarvägen 2,Bredang,Röd Norsborg,1,36,null,Lägenhet,1966,[Bredäng],1275000,140000,1415000,1927,Bukowskis Mäklarbyrå,488.0050666912438,Bredang
+2014-06-18,Tankebyggarbacken 52,Bredang,Röd Norsborg,3,101,null,Radhus,1969,[Skärholmen/Bredäng],2750000,250000,3000000,0,SkandiaMäklarna,480.1487020370015,Bredang
+2014-06-13,Ålgrytebacken 6,Bredang,Röd Norsborg,4,94,1,Lägenhet,1963,[Bredäng],1900000,340000,2240000,4012,Fastighetsbyrån,388.05826108067976,Bredang
+2014-05-22,Järnbärarvägen 12,Bredang,Röd Norsborg,3,82,1,Lägenhet,1966,[Bredäng],1400000,510000,1910000,3930,Fastighetsbyrån,373.2870542025261,Bredang
+2014-04-29,Odd Fellowvägen 30,Bredang,Röd Norsborg,1,45.5,null,Lägenhet,1992,[Bredäng],1195000,510000,1705000,2440,Svenska Mäklarhuset,358.42404474686657,Bredang
+2014-02-13,Odd Fellowvägen 30,Bredang,Röd Norsborg,1,45.5,null,Lägenhet,1992,[Bredäng],1095000,315000,1410000,2440,Svenska Mäklarhuset,358.42404474686657,Bredang
+2013-12-27,Järnbärarvägen 12,Bredang,Röd Norsborg,3,82,4,Lägenhet,1966,[Skärholmen],1275000,585000,1860000,3930,Mäklarhuset,373.2870542025261,Bredang
+2013-11-30,Ålgrytebacken 8,Bredang,Röd Norsborg,2,46,6,Lägenhet,1963,[Bredäng],1195000,285000,1480000,2007,HusmanHagberg,377.0986916232566,Bredang
+2013-11-30,Eksätravägen 90,Bredang,Röd Norsborg,5,130,null,Radhus,1965,[Skärholmen],3295000,165000,3460000,11500,Hemverket,768.0107297425036,Bredang
+2013-11-22,Ålgrytevägen 174,Bredang,Röd Norsborg,6,136,null,Kedjehus,1966,[Bredäng],2395000,140000,2535000,1275,Ulf Nerén Fast.förmedling,677.680469597836,Bredang
+2013-11-11,Järnbärarvägen 6,Bredang,Röd Norsborg,2,62,4,Lägenhet,1966,[Skärholmen],995000,375000,1370000,3044,Mäklarhuset,456.4089490724218,Bredang
+2013-10-09,Järnbärarvägen 2,Bredang,Röd Norsborg,4,100,6,Lägenhet,1966,[Skärholmen],1575000,265000,1840000,4747,Mäklarhuset,488.0050666912438,Bredang
+2013-09-11,Aspsätravägen 7,Bredang,Röd Norsborg,3,79,null,Lägenhet,1965,[Skärholmen/Bredäng],1495000,55000,1550000,3643,Fastighetsbyrån,472.35641029835574,Satra
+2013-08-30,Odd Fellowvägen 19,Bredang,Röd Norsborg,2,56,null,Lägenhet,1991,[Skärholmen/Bredäng],1150000,150000,1300000,3583,Fastighetsbyrån,451.11839630878956,Bredang
+2013-08-23,Ålgrytebacken 3,Bredang,Röd Norsborg,3,80,null,Lägenhet,1963,[Skärholmen/Bredäng],1450000,250000,1700000,3451,Fastighetsbyrån,437.34066012152437,Bredang
+2013-08-19,Odd Fellowvägen 10,Bredang,Röd Norsborg,4,104,null,Lägenhet,1965,[Skärholmen/Bredäng],1800000,400000,2200000,4296,Fastighetsbyrån,629.7323894439894,Bredang
+2013-05-20,Aspsätravägen 13,Bredang,Röd Norsborg,3,80,null,Lägenhet,1964,[Sätra],1595000,10000,1605000,3680,Bukowskis Mäklarbyrå,502.85182209982446,Satra
+2013-05-17,Odd Fellowvägen 55,Bredang,Röd Norsborg,2.5,67,null,Lägenhet,null,[Skärholmen/Bredäng],1295000,165000,1460000,3890,Fastighetsbyrån,246.97651711258658,Bredang
+2013-05-16,Odd Fellowvägen 34,Bredang,Röd Norsborg,4,79.5,2,Lägenhet,1992,[Skärholmen/Bredäng],1850000,0,1850000,4974,Fastighetsbyrån,416.4625845905927,Bredang
+2013-05-15,Ålgrytevägen 59,Bredang,Röd Norsborg,5,118,1,Lägenhet,null,[Mälarhöjden],2850000,-290000,2560000,4770,Diplomat Fastighetsmäkleri AB,555.6848875542497,Bredang
+2012-12-13,Ålgrytevägen 81,Bredang,Röd Norsborg,2,67,null,Lägenhet,1992,[Skärholmen/Bredäng],895000,280000,1175000,3897,Fastighetsbyrån,671.8450614246664,Bredang
+2012-12-13,Odd Fellowvägen 32,Bredang,Röd Norsborg,4,79.5,null,Lägenhet,1992,[Skärholmen/Bredäng],1500000,325000,1825000,3961,Fastighetsbyrån,691.1246011335925,Bredang
+2012-12-07,Ålgrytebacken 4,Bredang,Röd Norsborg,3,80,null,Lägenhet,1963,[Bredäng],1595000,35000,1630000,3451,Svensk Fastighetsförmedling,390.9680696045306,Bredang
+2012-12-07,Aspsätravägen 9,Bredang,Röd Norsborg,3,79,null,Lägenhet,1964,[Sätra],1495000,25000,1520000,3343,Mäklarringen,492.0280534006238,Satra
+2012-12-03,Tankebyggarbacken 51,Bredang,Röd Norsborg,5,126,null,Radhus,1969,[Bredäng],2500000,-50000,2450000,null,SkandiaMäklarna,537.4683551764819,Bredang
+2012-10-09,Ålgrytevägen 63,Bredang,Röd Norsborg,4,104,null,Lägenhet,1965,[Bredäng],1995000,95000,2090000,4228,Notar,518.4212623437074,Bredang

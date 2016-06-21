@@ -1,0 +1,190 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-13,Jönåkersvägen 26,Svedmyra,Grön Hagsätra,1,18,1,Lägenhet,1950,[Svedmyra],1495000,385000,1880000,1121,Fastighetsbyrån,516.793951768818,Svedmyra
+2016-05-13,Jönåkersvägen 1,Svedmyra,Grön Hagsätra,2,55,3,Lägenhet,1950,[Svedmyra],3200000,-350000,2850000,2681,MOHV,604.4723404304034,Svedmyra
+2016-05-11,Jönåkersvägen 26,Svedmyra,Grön Hagsätra,2,57,3,Lägenhet,1950,[Svedmyra],2200000,600000,2800000,3550,HusmanHagberg,516.793951768818,Svedmyra
+2016-05-04,Jönåkersvägen 21,Svedmyra,Grön Hagsätra,2,56,1,Lägenhet,1950,[Svedmyra],2300000,50000,2350000,3717,Notar,545.2211071108298,Svedmyra
+2016-04-29,Fållnäsgatan 69,Svedmyra,Grön Hagsätra,6,68,null,Villa,1952,[Svedmyra],6350000,1225000,7575000,null,Mäklarhuset,553.1825189560052,Svedmyra
+2016-04-27,Brevvägen 5,Svedmyra,Grön Hagsätra,2,47,3,Lägenhet,null,[Svedmyra],2295000,405000,2700000,2863,Grand Fastighetsförmedling,545.3615560802147,Svedmyra
+2016-04-21,Brevvägen 3,Svedmyra,Grön Hagsätra,2,48,null,Lägenhet,1949,[Svedmyra],2195000,405000,2600000,2924,Notar,517.7419697812885,Svedmyra
+2016-04-21,Brevvägen 1,Svedmyra,Grön Hagsätra,2,44,3,Lägenhet,null,[Svedmyra],2295000,530000,2825000,2680,Grand Fastighetsförmedling,504.4453701149485,Svedmyra
+2016-04-19,Jönåkersvägen 25,Svedmyra,Grön Hagsätra,2,56,2,Lägenhet,1950,[Enskede],1995000,460000,2455000,3717,Södermäklarna,564.3547722674243,Svedmyra
+2016-04-13,Jönåkersvägen 17,Svedmyra,Grön Hagsätra,2,56,3,Lägenhet,1950,[Svedmyra],2295000,405000,2700000,3717,HusmanHagberg,522.900584347094,Svedmyra
+2016-04-13,Brevvägen 7,Svedmyra,Grön Hagsätra,2,40,1,Lägenhet,1949,[Enskede],1995000,480000,2475000,2437,Svensk Fastighetsförmedling,572.4003432959305,Svedmyra
+2016-04-08,Brevvägen 7,Svedmyra,Grön Hagsätra,2,46,2,Lägenhet,1949,[Svedmyra],2095000,385000,2480000,2803,Fastighetsbyrån,572.4003432959305,Svedmyra
+2016-04-08,Selebovägen 3,Svedmyra,Grön Hagsätra,3,74,2,Lägenhet,1950,[Svedmyra],2890000,220000,3110000,4074,Fastighetsbyrån,601.6255065431762,Svedmyra
+2016-04-07,Oppundavägen 31,Svedmyra,Grön Hagsätra,2,58,3,Lägenhet,1949,[Svedmyra],2495000,515000,3010000,3418,Grand Fastighetsförmedling,781.0702497848641,Tallkrogen
+2016-03-31,Jönåkersvägen 9,Svedmyra,Grön Hagsätra,2,57,2,Lägenhet,1950,[Enskede],2495000,405000,2900000,2772,Länsförsäkringar Fastighetsförmedling,562.0749827322683,Svedmyra
+2016-03-19,Selebovägen 7,Svedmyra,Grön Hagsätra,2,58,3,Lägenhet,1950,[Farsta stadsdelsområde],2195000,230000,2425000,3193,SkandiaMäklarna,633.0667258528625,Svedmyra
+2016-03-17,Oppundavägen 23,Svedmyra,Grön Hagsätra,3,58,2,Lägenhet,1950,[Enskede],2495000,405000,2900000,3418,Mäklarhuset,737.0038663427218,Svedmyra
+2016-02-19,Postiljonsvägen 33,Svedmyra,Grön Hagsätra,2,54,2,Lägenhet,null,[Svedmyra],2495000,425000,2920000,2787,Diplomat Fastighetsmäkleri AB,156.59897676919354,Svedmyra
+2016-02-18,Jönåkersvägen 7,Svedmyra,Grön Hagsätra,1,18,1,Lägenhet,1950,[Svedmyra],1495000,485000,1980000,967,Länsförsäkringar Fastighetsförmedling,573.0759912734475,Svedmyra
+2016-02-11,Brevvägen 5,Svedmyra,Grön Hagsätra,2,48,2,Lägenhet,1949,[Svedmyra],2195000,335000,2530000,2785,Fastighetsbyrån,545.3615560802147,Svedmyra
+2016-02-11,Brevvägen 4,Svedmyra,Grön Hagsätra,1,33,2,Lägenhet,1949,[Svedmyra],1895000,305000,2200000,1951,Diplomat Fastighetsmäkleri AB,478.9546786206366,Svedmyra
+2016-02-04,Postiljonsvägen 8,Svedmyra,Grön Hagsätra,3,72,1,Lägenhet,1948,[Enskede],2795000,655000,3450000,4436,Mäklarhuset,460.9753137622471,Svedmyra
+2016-02-04,Postiljonsvägen 33,Svedmyra,Grön Hagsätra,2,54,null,Lägenhet,1948,[Svedmyra],2325000,385000,2710000,2787,Mäklarringen,156.59897676919354,Svedmyra
+2016-01-28,Frimärksvägen 5,Svedmyra,Grön Hagsätra,2,45,2,Lägenhet,1948,[Svedmyra],1995000,405000,2400000,2567,Länsförsäkringar Fastighetsförmedling,492.16048597843553,Svedmyra
+2016-01-14,Postiljonsvägen 4,Svedmyra,Grön Hagsätra,4,72,1,Lägenhet,1948,[Svedmyra],2990000,840000,3830000,4436,Fastighetsmäklarna,473.35586910424985,Svedmyra
+2016-01-12,Brevvägen 7,Svedmyra,Grön Hagsätra,2,44,2,Lägenhet,1949,[Enskede],2395000,330000,2725000,2347,Diplomat Fastighetsmäkleri AB,572.4003432959305,Svedmyra
+2015-12-16,Jönåkersvägen 9,Svedmyra,Grön Hagsätra,1,18,null,Lägenhet,1950,[Svedmyra],1395000,410000,1805000,967,Notar,562.0749827322683,Svedmyra
+2015-12-12,Oppundavägen 35,Svedmyra,Grön Hagsätra,2,55,3,Lägenhet,null,[Enskede],2395000,5000,2400000,3241,Södermäklarna,803.2290820917474,Svedmyra
+2015-12-11,Selebovägen 7,Svedmyra,Grön Hagsätra,3,74,1,Lägenhet,1950,[Svedmyra],2495000,1060000,3555000,3955,Notar,633.0667258528625,Svedmyra
+2015-12-11,Oppundavägen 31,Svedmyra,Grön Hagsätra,2,58,3,Lägenhet,1949,[Svedmyra],2295000,125000,2420000,3418,Fastighetsbyrån,781.0702497848641,Tallkrogen
+2015-12-11,Jönåkersvägen 26,Svedmyra,Grön Hagsätra,1,40,2,Lägenhet,1950,[Farsta stadsdelsområde],2095000,280000,2375000,2491,SkandiaMäklarna,516.793951768818,Svedmyra
+2015-12-02,Jönåkersvägen 8,Svedmyra,Grön Hagsätra,3,74,2,Lägenhet,1950,[Svedmyra],2975000,545000,3520000,4152,Mäklarringen,576.5386869079282,Svedmyra
+2015-11-28,Brevvägen 3,Svedmyra,Grön Hagsätra,3,61,1,Lägenhet,1949,[Svedmyra],2650000,0,2650000,3539,Diplomat Fastighetsmäkleri AB,517.7419697812885,Svedmyra
+2015-11-26,Postiljonsvägen 31,Svedmyra,Grön Hagsätra,2,53,null,Lägenhet,null,[Svedmyra],2495000,305000,2800000,2753,Diplomat Fastighetsmäkleri AB,184.87474254313116,Svedmyra
+2015-11-19,Postiljonsvägen 16,Svedmyra,Grön Hagsätra,2,55,0.5,Lägenhet,1948,[Svedmyra],1995000,405000,2400000,3729,Mäklarringen,378.81073344740025,Svedmyra
+2015-11-10,Oppundavägen 35,Svedmyra,Grön Hagsätra,2,55,3,Lägenhet,null,[Enskede],2600000,-100000,2500000,3241,Södermäklarna,803.2290820917474,Svedmyra
+2015-11-03,Brevvägen 4,Svedmyra,Grön Hagsätra,2,46,2,Lägenhet,1949,[Svedmyra],1995000,605000,2600000,2619,Notar,478.9546786206366,Svedmyra
+2015-10-24,Oppundavägen 35,Svedmyra,Grön Hagsätra,1,18,1,Lägenhet,1949,[Svedmyra],1295000,405000,1700000,1061,Fastighetsbyrån,803.2290820917474,Svedmyra
+2015-10-14,Brevvägen 9,Svedmyra,Grön Hagsätra,2,47,3,Lägenhet,1949,[Svedmyra],1995000,575000,2570000,2727,Diplomat Fastighetsmäkleri AB,585.5007104259868,Stureby
+2015-10-01,Postiljonsvägen 31,Svedmyra,Grön Hagsätra,2,53,3,Lägenhet,1948,[Svedmyra],2450000,300000,2750000,2735,Fastighetsbyrån,184.87474254313116,Svedmyra
+2015-09-30,Postiljonsvägen 18A,Svedmyra,Grön Hagsätra,3,74,7,Lägenhet,1948,[Enskede],2600000,800000,3400000,4731,Mäklarhuset,376.7450960998768,Svedmyra
+2015-09-25,Frimärksvägen 9,Svedmyra,Grön Hagsätra,1,38,3,Lägenhet,1949,[Svedmyra],1750000,740000,2490000,2208,HusmanHagberg,474.3914618172346,Svedmyra
+2015-09-24,Oppundavägen 9,Svedmyra,Grön Hagsätra,2,56,null,Lägenhet,1950,[Svedmyra],2095000,505000,2600000,3142,Notar,630.8328173115833,Svedmyra
+2015-09-17,Postiljonsvägen 4,Svedmyra,Grön Hagsätra,3,69,0,Lägenhet,1948,[Enskede],2295000,530000,2825000,4436,Svensk Fastighetsförmedling,473.35586910424985,Svedmyra
+2015-09-11,Jönåkersvägen 7,Svedmyra,Grön Hagsätra,1,18,1,Lägenhet,1950,[Svedmyra],1395000,355000,1750000,967,Länsförsäkringar Fastighetsförmedling,573.0759912734475,Svedmyra
+2015-09-10,Brevvägen 1,Svedmyra,Grön Hagsätra,1,37,1,Lägenhet,1949,[Svedmyra],1995000,430000,2425000,2147,Diplomat Fastighetsmäkleri AB,504.4453701149485,Svedmyra
+2015-09-05,Postiljonsvägen 29,Svedmyra,Grön Hagsätra,3,69,2,Lägenhet,1948,[Svedmyra],2925000,315000,3240000,3561,Mäklarringen,212.0347043113805,Svedmyra
+2015-09-04,Muskögatan 27,Svedmyra,Grön Hagsätra,5,125,null,Villa,1932,[Enskede],7500000,0,7500000,null,Bjurfors,431.67198328424735,Svedmyra
+2015-08-20,Värmbolsvägen 37,Svedmyra,Grön Hagsätra,5,120,8,Lägenhet,1995,[Enskede],4950000,1700000,6650000,5190,Mäklarhuset,764.4747467948272,Svedmyra
+2015-08-11,Frimärksvägen 5,Svedmyra,Grön Hagsätra,1,32,1,Lägenhet,1949,[Svedmyra],1595000,515000,2110000,1900,Notar,492.16048597843553,Svedmyra
+2015-08-07,Postiljonsvägen 31,Svedmyra,Grön Hagsätra,2,53,1,Lägenhet,1948,[Svedmyra],2450000,650000,3100000,2735,Diplomat Fastighetsmäkleri AB,184.87474254313116,Svedmyra
+2015-07-04,Selebovägen 9,Svedmyra,Grön Hagsätra,2,58,3,Lägenhet,1950,[Enskede],2195000,415000,2610000,3100,Mäklarhuset,647.4410378359428,Svedmyra
+2015-06-24,Oppundavägen 27,Svedmyra,Grön Hagsätra,2,58,1,Lägenhet,1950,[Svedmyra],2095000,325000,2420000,3418,Länsförsäkringar Fastighetsförmedling,760.6869473527481,Svedmyra
+2015-06-12,Jönåkersvägen 8,Svedmyra,Grön Hagsätra,3,74,3,Lägenhet,1950,[Svedmyra],2895000,175000,3070000,4152,Mäklarringen,576.5386869079282,Svedmyra
+2015-06-12,Frimärksvägen 5,Svedmyra,Grön Hagsätra,1,32,2,Lägenhet,1949,[Svedmyra],1495000,605000,2100000,1900,Notar,492.16048597843553,Svedmyra
+2015-06-12,Enskedevägen 145,Svedmyra,Grön Hagsätra,6,98,null,Villa,1932,[Enskede],6795000,855000,7650000,null,Bjurfors,187.8969120961307,Svedmyra
+2015-06-11,Jönåkersvägen 8,Svedmyra,Grön Hagsätra,3,74,1,Lägenhet,1950,[Svedmyra],2750000,-50000,2700000,4152,Mäklarringen,576.5386869079282,Svedmyra
+2015-05-28,Brevvägen 7,Svedmyra,Grön Hagsätra,2,46,3,Lägenhet,1949,[Svedmyra],2195000,330000,2525000,2565,Fastighetsbyrån,572.4003432959305,Svedmyra
+2015-05-26,Oppundavägen 21,Svedmyra,Grön Hagsätra,3,74,2,Lägenhet,1950,[Svedmyra],2495000,105000,2600000,4361,Notar,724.3385211119954,Svedmyra
+2015-05-10,Öknebovägen 11,Svedmyra,Grön Hagsätra,3,85,4,Lägenhet,2013,[Enskede],3790000,135000,3925000,4723,SkandiaMäklarna,97.66186645811541,Svedmyra
+2015-05-07,Oppundavägen 29,Svedmyra,Grön Hagsätra,2,58,1,Lägenhet,1950,[Svedmyra],1895000,255000,2150000,3418,Mäklarringen,769.3194699891001,Svedmyra
+2015-05-06,Jönåkersvägen 2A,Svedmyra,Grön Hagsätra,1,39,null,Lägenhet,null,[Enskede],1695000,505000,2200000,null,Mäklarhuset,662.7349515931614,Svedmyra
+2015-04-29,Oppundavägen 21,Svedmyra,Grön Hagsätra,3,74,2,Lägenhet,1950,[Svedmyra],2750000,370000,3120000,4361,Mäklarringen,724.3385211119954,Svedmyra
+2015-04-25,Brevvägen 7,Svedmyra,Grön Hagsätra,2,47,2,Lägenhet,1949,[Svedmyra],2000000,525000,2525000,2727,Fastighetsmäklarna,572.4003432959305,Svedmyra
+2015-04-22,Oppundavägen 23,Svedmyra,Grön Hagsätra,2.5,58,3,Lägenhet,1950,[Svedmyra],2095000,515000,2610000,3418,Södermäklarna,737.0038663427218,Svedmyra
+2015-04-21,Oppundavägen 33,Svedmyra,Grön Hagsätra,2,58,1,Lägenhet,1950,[Enskede],2095000,375000,2470000,3418,Länsförsäkringar Fastighetsförmedling,787.1775991106891,Tallkrogen
+2015-04-17,Oppundavägen 6,Svedmyra,Grön Hagsätra,1,35,1,Lägenhet,1950,[Enskede],1650000,350000,2000000,1871,Svensk Fastighetsförmedling,587.5320285554243,Svedmyra
+2015-04-02,Jönåkersvägen 23,Svedmyra,Grön Hagsätra,null,null,1,Lägenhet,1950,[Svedmyra],2095000,210000,2305000,3753,Södermäklarna,551.2335121947898,Svedmyra
+2015-03-27,Brevvägen 2,Svedmyra,Grön Hagsätra,2,39,2,Lägenhet,1949,[Svedmyra],1695000,505000,2200000,2259,Notar,464.72337868476694,Svedmyra
+2015-03-26,Jönåkersvägen 5,Svedmyra,Grön Hagsätra,1,40,2,Lägenhet,1950,[Enskede],1850000,235000,2085000,1975,HusmanHagberg,584.270839093668,Svedmyra
+2015-03-26,Jönåkersvägen 2B,Svedmyra,Grön Hagsätra,2,59,2,Lägenhet,2006,[Svedmyra],1995000,265000,2260000,3311,Mäklarringen,647.7376056661964,Svedmyra
+2015-03-23,Frimärksvägen 9,Svedmyra,Grön Hagsätra,1,38,2,Lägenhet,1949,[Enskede],1695000,285000,1980000,2208,Svensk Fastighetsförmedling,474.3914618172346,Svedmyra
+2015-03-18,Brevvägen 3,Svedmyra,Grön Hagsätra,1,36,1,Lägenhet,1949,[Enskede-Svedmyra],1550000,600000,2150000,2089,Husfokus Mäklarbyrå,517.7419697812885,Svedmyra
+2015-03-17,Jönåkersvägen 2C,Svedmyra,Grön Hagsätra,3,70,null,Lägenhet,null,[Svedmyra],2150000,1080000,3230000,3928,BOSTHLM,626.9331331961437,Svedmyra
+2015-03-13,Postiljonsvägen 31,Svedmyra,Grön Hagsätra,2,53,1,Lägenhet,1948,[Svedmyra],2195000,215000,2410000,2735,Fastighetsbyrån,184.87474254313116,Svedmyra
+2015-03-13,Jönåkersvägen 5,Svedmyra,Grön Hagsätra,1,40,0.5,Lägenhet,1950,[Svedmyra],1695000,590000,2285000,1975,Notar,584.270839093668,Svedmyra
+2015-03-11,Muskögatan 17,Svedmyra,Grön Hagsätra,5,84,null,Villa,1932,[Enskede],6300000,550000,6850000,null,Svensk Fastighetsförmedling,344.0844623312472,Svedmyra
+2015-03-07,Selebovägen 17,Svedmyra,Grön Hagsätra,3,72,3,Lägenhet,1952,[Svedmyra],2495000,705000,3200000,3693,Mäklarringen,739.7773957687157,Svedmyra
+2015-03-04,Jönåkersvägen 7,Svedmyra,Grön Hagsätra,2,57,2,Lägenhet,1950,[Svedmyra],1995000,455000,2450000,2772,Notar,573.0759912734475,Svedmyra
+2015-02-27,Frimärksvägen 3,Svedmyra,Grön Hagsätra,2,38,3,Lägenhet,1949,[Svedmyra],1795000,220000,2015000,2208,HusmanHagberg,505.021476134059,Svedmyra
+2015-02-27,Frimärksvägen 5,Svedmyra,Grön Hagsätra,2,45,3,Lägenhet,1949,[Svedmyra],1895000,225000,2120000,2567,Fastighetsbyrån,492.16048597843553,Svedmyra
+2015-02-26,Jönåkersvägen 15,Svedmyra,Grön Hagsätra,null,null,3,Lägenhet,1950,[Svedmyra],1850000,390000,2240000,3609,Södermäklarna,513.5532224814339,Svedmyra
+2015-02-10,Postiljonsvägen 33,Svedmyra,Grön Hagsätra,3,69,2,Lägenhet,1948,[Svedmyra],2495000,500000,2995000,3559,Mäklarringen,156.59897676919354,Svedmyra
+2015-01-31,Jönåkersvägen 9,Svedmyra,Grön Hagsätra,1,40,1.5,Lägenhet,1950,[Svedmyra],1695000,275000,1970000,1975,Notar,562.0749827322683,Svedmyra
+2015-01-31,Jönåkersvägen 15,Svedmyra,Grön Hagsätra,2,56,1.5,Lägenhet,1950,[Svedmyra],1795000,255000,2050000,3609,Notar,513.5532224814339,Svedmyra
+2015-01-29,Jönåkersvägen 23,Svedmyra,Grön Hagsätra,2,56,0.5,Lägenhet,1950,[Svedmyra],2195000,0,2195000,3609,HusmanHagberg,551.2335121947898,Svedmyra
+2015-01-23,Oppundavägen 6,Svedmyra,Grön Hagsätra,1,35,0.5,Lägenhet,1950,[Enskede],1600000,190000,1790000,1871,Svensk Fastighetsförmedling,587.5320285554243,Svedmyra
+2015-01-21,Postiljonsvägen 29,Svedmyra,Grön Hagsätra,3,69,1,Lägenhet,1948,[Svedmyra],2695000,455000,3150000,3561,Mäklarringen,212.0347043113805,Svedmyra
+2015-01-14,Jönåkersvägen 2B,Svedmyra,Grön Hagsätra,2,59,null,Lägenhet,2006,[Svedmyra],1995000,255000,2250000,3311,Mäklarringen,647.7376056661964,Svedmyra
+2014-12-22,Brevvägen 3,Svedmyra,Grön Hagsätra,2,48,null,Lägenhet,1949,[Svedmyra],1850000,300000,2150000,2730,Södermäklarna,517.7419697812885,Svedmyra
+2014-12-05,Jönåkersvägen 2D,Svedmyra,Grön Hagsätra,1,39,null,Lägenhet,2006,[Enskede],1595000,205000,1800000,2188,Svensk Fastighetsförmedling,605.845761473542,Svedmyra
+2014-11-28,Selebovägen 10,Svedmyra,Grön Hagsätra,2,52,2,Lägenhet,1950,[Enskede],1995000,410000,2405000,3082,Länsförsäkringar Fastighetsförmedling,659.8773554081474,Svedmyra
+2014-11-28,Oppundavägen 35,Svedmyra,Grön Hagsätra,2,55,4,Lägenhet,1950,[Svedmyra],1895000,315000,2210000,3001,Fastighetsbyrån,803.2290820917474,Svedmyra
+2014-11-26,Oppundavägen 6,Svedmyra,Grön Hagsätra,1,35,0.5,Lägenhet,1950,[Enskede],1550000,180000,1730000,1871,Svensk Fastighetsförmedling,587.5320285554243,Svedmyra
+2014-11-21,Selebovägen 4,Svedmyra,Grön Hagsätra,4,90,3,Lägenhet,1950,[Svedmyra],2975000,365000,3340000,5049,Mäklarringen,577.5215377046212,Svedmyra
+2014-11-17,Brevvägen 9,Svedmyra,Grön Hagsätra,3,81,1,Lägenhet,1949,[Enskede],2195000,130000,2325000,4608,Svensk Fastighetsförmedling,585.5007104259868,Stureby
+2014-10-30,Jönåkersvägen 25,Svedmyra,Grön Hagsätra,2,56,1,Lägenhet,1950,[Svedmyra],1895000,355000,2250000,3609,Bjurfors,564.3547722674243,Svedmyra
+2014-10-15,Postiljonsvägen 31,Svedmyra,Grön Hagsätra,2,53,4,Lägenhet,null,[Svedmyra],1895000,630000,2525000,2735,Fastighetsbyrån,184.87474254313116,Svedmyra
+2014-10-10,Frimärksvägen 1,Svedmyra,Grön Hagsätra,1,39,1,Lägenhet,1949,[Enskede],1495000,60000,1555000,2259,Mäklarhuset,459.7030378574677,Svedmyra
+2014-10-03,Selebovägen 13,Svedmyra,Grön Hagsätra,3,74,3,Lägenhet,1950,[Enskede],2295000,255000,2550000,3955,Mäklarhuset,693.3120528919363,Svedmyra
+2014-10-02,Oppundavägen 35,Svedmyra,Grön Hagsätra,2,55,2,Lägenhet,1950,[Enskede],2295000,75000,2370000,3001,Bostadsrättsspecialisten,803.2290820917474,Svedmyra
+2014-10-02,Jönåkersvägen 1,Svedmyra,Grön Hagsätra,2,55,0.5,Lägenhet,1950,[Svedmyra],1795000,205000,2000000,2559,Restate,604.4723404304034,Svedmyra
+2014-10-02,Jönåkersvägen 2C,Svedmyra,Grön Hagsätra,1,39,2,Lägenhet,null,[Enskede],1525000,400000,1925000,2188,Svensk Fastighetsförmedling,626.9331331961437,Svedmyra
+2014-10-01,Jönåkersvägen 17,Svedmyra,Grön Hagsätra,2,56,2,Lägenhet,1950,[Svedmyra],1850000,500000,2350000,3609,Erik Olsson Fastighetsförmedling,522.900584347094,Svedmyra
+2014-10-01,Jönåkersvägen 6,Svedmyra,Grön Hagsätra,3,74,null,Lägenhet,1950,[Svedmyra],1995000,285000,2280000,4152,Fastighetsbyrån,590.2812786959691,Svedmyra
+2014-09-18,Oppundavägen 29,Svedmyra,Grön Hagsätra,2,58,2,Lägenhet,null,[Svedmyra],1750000,360000,2110000,3165,Fastighetsbyrån,769.3194699891001,Svedmyra
+2014-09-09,Jönåkersvägen 9,Svedmyra,Grön Hagsätra,1,40,null,Lägenhet,1950,[Svedmyra],1566325,0,1566325,1885,Restate,562.0749827322683,Svedmyra
+2014-09-09,Jönåkersvägen 5,Svedmyra,Grön Hagsätra,1,18,null,Lägenhet,1950,[Svedmyra],748099,281901,1030000,975,Restate,584.270839093668,Svedmyra
+2014-08-26,Selebovägen 7,Svedmyra,Grön Hagsätra,3,74,2,Lägenhet,1950,[Enskede/Årsta/Skarpnäck],2095000,235000,2330000,3955,SkandiaMäklarna,633.0667258528625,Svedmyra
+2014-08-25,Brevvägen 9,Svedmyra,Grön Hagsätra,2,64,null,Lägenhet,1949,[Enskede],1995000,105000,2100000,3641,Wallenberg Fastighetsförmedling,585.5007104259868,Stureby
+2014-07-24,Postiljonsvägen 31,Svedmyra,Grön Hagsätra,2,53,2,Lägenhet,1948,[Enskede],1795000,455000,2250000,2735,Mäklarhuset,184.87474254313116,Svedmyra
+2014-07-23,Brevvägen 6,Svedmyra,Grön Hagsätra,2,40,2,Lägenhet,1949,[Enskedefältet],1595000,330000,1925000,2259,BOSTHLM,491.98679547350145,Svedmyra
+2014-06-25,Brevvägen 4,Svedmyra,Grön Hagsätra,1,34,3,Lägenhet,1949,[Svedmyra],1475000,205000,1680000,2002,Bjurfors,478.9546786206366,Svedmyra
+2014-06-05,Jönåkersvägen 2A,Svedmyra,Grön Hagsätra,1,39,null,Lägenhet,null,[Enskede],1495000,325000,1820000,2188,Svensk Fastighetsförmedling,662.7349515931614,Svedmyra
+2014-06-02,Jönåkersvägen 2C,Svedmyra,Grön Hagsätra,3,70,null,Lägenhet,2006,[Svedmyra],2395000,-100000,2295000,3928,Restate,626.9331331961437,Svedmyra
+2014-05-29,Brevvägen 7,Svedmyra,Grön Hagsätra,2,46,3,Lägenhet,1949,[Svedmyra],1795000,155000,1950000,2565,Fastighetsbyrån,572.4003432959305,Svedmyra
+2014-05-22,Selebovägen 6,Svedmyra,Grön Hagsätra,2,52,2,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1775000,135000,1910000,3082,Svensk Fastighetsförmedling,611.1714528157012,Svedmyra
+2014-05-21,Frimärksvägen 9,Svedmyra,Grön Hagsätra,2,46,3,Lägenhet,null,[Svedmyra],1695000,0,1695000,2619,Bjurfors,474.3914618172346,Svedmyra
+2014-05-08,Brevvägen 7,Svedmyra,Grön Hagsätra,2,48,2,Lägenhet,1949,[Svedmyra],1575000,105000,1680000,2677,Bjurfors,572.4003432959305,Svedmyra
+2014-05-07,Oppundavägen 11,Svedmyra,Grön Hagsätra,2,56,1,Lägenhet,1950,[Svedmyra],1595000,100000,1695000,3142,Restate,640.6780526644233,Svedmyra
+2014-04-16,Postiljonsvägen 6,Svedmyra,Grön Hagsätra,1,45,3,Lägenhet,1948,[Enskede],1495000,465000,1960000,2697,Erik Olsson Fastighetsförmedling,466.79657015799415,Svedmyra
+2014-04-11,Brevvägen 7,Svedmyra,Grön Hagsätra,2,47,3,Lägenhet,1949,[Svedmyra],1695000,0,1695000,2621,Fastighetsbyrån,572.4003432959305,Svedmyra
+2014-03-27,Brevvägen 7,Svedmyra,Grön Hagsätra,2,46,null,Lägenhet,1949,[Svedmyra],1795000,425000,2220000,2565,Fastighetsbyrån,572.4003432959305,Svedmyra
+2014-03-27,Oppundavägen 9,Svedmyra,Grön Hagsätra,2,56,1,Lägenhet,1950,[Svedmyra],1650000,150000,1800000,3142,Mäklarringen,630.8328173115833,Svedmyra
+2014-03-21,Öknebovägen 11,Svedmyra,Grön Hagsätra,2,69,3,Lägenhet,2013,[Enskede],2850000,350000,3200000,4153,HusmanHagberg,97.66186645811541,Svedmyra
+2014-03-21,Frimärksvägen 1,Svedmyra,Grön Hagsätra,2,39,3,Lägenhet,1949,[Svedmyra],1495000,175000,1670000,2259,Bjurfors,459.7030378574677,Svedmyra
+2014-03-19,Frimärksvägen 7,Svedmyra,Grön Hagsätra,1,31,3,Lägenhet,1949,[Svedmyra],1225000,315000,1540000,1848,Bjurfors,478.7458041504899,Svedmyra
+2014-03-14,Jönåkersvägen 2D,Svedmyra,Grön Hagsätra,2,59,2,Lägenhet,2006,[Enskede],1875000,0,1875000,3311,Mäklarhuset,605.845761473542,Svedmyra
+2014-03-13,Frimärksvägen 5,Svedmyra,Grön Hagsätra,1,33,null,Lägenhet,1949,[Svedmyra],1225000,200000,1425000,1951,Classic Home Fastighetsmäkleri,492.16048597843553,Svedmyra
+2014-02-27,Muskögatan 34,Svedmyra,Grön Hagsätra,9,null,null,Villa,null,[Svedmyra],5600000,950000,6550000,null,Södermäklarna,551.5300982732584,Svedmyra
+2014-02-06,Jönåkersvägen 2A,Svedmyra,Grön Hagsätra,1,39,2,Lägenhet,2006,[Svedmyra],1450000,190000,1640000,2188,Notar,662.7349515931614,Svedmyra
+2014-02-05,Selebovägen 9,Svedmyra,Grön Hagsätra,2,58,null,Lägenhet,1950,[Enskede],1795000,0,1795000,3100,Svenska Mäklarhuset,647.4410378359428,Svedmyra
+2014-02-05,Brevvägen 9,Svedmyra,Grön Hagsätra,2,41,1,Lägenhet,1949,[Svedmyra],1495000,260000,1755000,2287,Bjurfors,585.5007104259868,Stureby
+2014-01-24,Herrhagsvägen 33,Svedmyra,Grön Hagsätra,5,104,3,Villa,1932,[Svedmyra],5950000,1150000,7100000,null,HusmanHagberg,561.4439459169591,Svedmyra
+2014-01-21,Grödingegatan 6,Svedmyra,Grön Hagsätra,5,128,null,Villa,1932,[Svedmyra],5000000,400000,5400000,null,Svensk Fastighetsförmedling,410.8003574159567,Svedmyra
+2014-01-17,Selebovägen 1,Svedmyra,Grön Hagsätra,3,74,1,Lägenhet,1950,[Enskede],2195000,70000,2265000,3955,Mäklarhuset,588.776257080813,Svedmyra
+2013-12-22,Jönåkersvägen 30,Svedmyra,Grön Hagsätra,4,86,null,Lägenhet,1950,[Enskede/Årsta/Skarpnäck],2695000,65000,2760000,4551,Fastighetsbyrån,538.2226386598679,Svedmyra
+2013-12-03,Selebovägen 14,Svedmyra,Grön Hagsätra,2,52,0.5,Lägenhet,1950,[Enskede],1899000,-99000,1800000,3096,Erik Olsson Fastighetsförmedling,708.0994352152242,Svedmyra
+2013-11-25,Jönåkersvägen 26,Svedmyra,Grön Hagsätra,2,57,2,Lägenhet,1950,[Enskede/Årsta/Skarpnäck],1850000,0,1850000,3016,Fastighetsbyrån,516.793951768818,Svedmyra
+2013-11-21,Selebovägen 3,Svedmyra,Grön Hagsätra,3,74,3,Lägenhet,1950,[Enskede/Årsta/Skarpnäck],2195000,0,2195000,3955,Fastighetsbyrån,601.6255065431762,Svedmyra
+2013-10-31,Brevvägen 7,Svedmyra,Grön Hagsätra,2,42,null,Lägenhet,1949,[Svedmyra],1450000,200000,1650000,2231,HusmanHagberg,572.4003432959305,Svedmyra
+2013-10-19,Selebovägen 6,Svedmyra,Grön Hagsätra,2,52,2,Lägenhet,1950,[Svedmyra],1795000,80000,1875000,3067,Notar,611.1714528157012,Svedmyra
+2013-10-18,Jönåkersvägen 8,Svedmyra,Grön Hagsätra,3,74,null,Lägenhet,1950,[Svedmyra],2100000,-10000,2090000,4152,HusmanHagberg,576.5386869079282,Svedmyra
+2013-10-04,Brevvägen 3,Svedmyra,Grön Hagsätra,3,61,null,Lägenhet,1949,[Enskede],1750000,-30000,1720000,3402,Svenska Mäklarhuset,517.7419697812885,Svedmyra
+2013-09-05,Postiljonsvägen 16,Svedmyra,Grön Hagsätra,2,55,3,Lägenhet,null,[Svedmyra],1750000,0,1750000,3031,Erik Olsson Fastighetsförmedling,378.81073344740025,Svedmyra
+2013-08-30,Oppundavägen 25,Svedmyra,Grön Hagsätra,2.5,58,0.5,Lägenhet,null,[Enskede],1550000,50000,1600000,2930,Erik Olsson Fastighetsförmedling,747.5634011971263,Svedmyra
+2013-08-29,Postiljonsvägen 4,Svedmyra,Grön Hagsätra,2,45,2,Lägenhet,1948,[Svedmyra],1575000,125000,1700000,2520,Svensk Fastighetsförmedling,473.35586910424985,Svedmyra
+2013-08-23,Oppundavägen 27,Svedmyra,Grön Hagsätra,2,58,null,Lägenhet,1949,[Enskede],1525000,105000,1630000,2930,Fastighetsbyrån,760.6869473527481,Svedmyra
+2013-08-12,Postiljonsvägen 29,Svedmyra,Grön Hagsätra,2,54,3.5,Lägenhet,1948,[Svedmyra],1695000,305000,2000000,2787,Mäklarringen,212.0347043113805,Svedmyra
+2013-08-08,Jönåkersvägen 23,Svedmyra,Grön Hagsätra,2,56,null,Lägenhet,1950,[Svedmyra],1595000,165000,1760000,3609,Notar,551.2335121947898,Svedmyra
+2013-07-31,Jönåkersvägen 25,Svedmyra,Grön Hagsätra,2,56,0.5,Lägenhet,null,[Svedmyra],1550000,0,1550000,3609,Erik Olsson Fastighetsförmedling,564.3547722674243,Svedmyra
+2013-06-21,Brevvägen 5,Svedmyra,Grön Hagsätra,2,47,null,Lägenhet,1949,[Enskedefältet],1495000,105000,1600000,2621,Fastighetsbyrån,545.3615560802147,Svedmyra
+2013-06-20,Postiljonsvägen 12,Svedmyra,Grön Hagsätra,3,70,null,Lägenhet,1948,[Enskedefältet],2095000,0,2095000,3637,Fastighetsbyrån,401.4454671544766,Svedmyra
+2013-06-18,Brevvägen 9,Svedmyra,Grön Hagsätra,2,40,null,Lägenhet,1949,[Stureby],1495000,45000,1540000,2231,Svensk Fastighetsförmedling,585.5007104259868,Stureby
+2013-06-15,Värmbolsvägen 7,Svedmyra,Grön Hagsätra,5,114,null,Radhus,1995,[Enskede/Årsta/Skarpnäck],3895000,655000,4550000,4174,Fastighetsbyrån,662.0641954450717,Svedmyra
+2013-06-13,Brevvägen 7,Svedmyra,Grön Hagsätra,2,46,null,Lägenhet,1949,[Enskedefältet],1595000,0,1595000,2565,Fastighetsbyrån,572.4003432959305,Svedmyra
+2013-06-01,Postiljonsvägen 33,Svedmyra,Grön Hagsätra,2,55,null,Lägenhet,1948,[Svedmyra],1750000,-100000,1650000,2838,Mäklarringen,156.59897676919354,Svedmyra
+2013-05-30,Jönåkersvägen 22,Svedmyra,Grön Hagsätra,3,76,null,Lägenhet,1950,[Svedmyra],2095000,0,2095000,4022,Svensk Fastighetsförmedling,493.3329811555377,Svedmyra
+2013-05-24,Jönåkersvägen 8,Svedmyra,Grön Hagsätra,3,74,2,Lägenhet,1950,[Svedmyra],1995000,105000,2100000,4152,Mäklarringen,576.5386869079282,Svedmyra
+2013-05-16,Jönåkersvägen 2D,Svedmyra,Grön Hagsätra,4,85,2,Lägenhet,2006,[Svedmyra],2795000,105000,2900000,4769,Svensk Fastighetsförmedling,605.845761473542,Svedmyra
+2013-05-10,Jönåkersvägen 2C,Svedmyra,Grön Hagsätra,2,59,null,Lägenhet,2006,[Svedmyra],1590000,60000,1650000,3311,HusmanHagberg,626.9331331961437,Svedmyra
+2013-04-27,Postiljonsvägen 31,Svedmyra,Grön Hagsätra,2,53,null,Lägenhet,1948,[Svedmyra],1650000,150000,1800000,2735,Mäklarringen,184.87474254313116,Svedmyra
+2013-04-24,Postiljonsvägen 29,Svedmyra,Grön Hagsätra,2,54,1,Lägenhet,1948,[Trp],1675000,245000,1920000,2787,Mäklarhuset,212.0347043113805,Svedmyra
+2013-04-19,Oppundavägen 23,Svedmyra,Grön Hagsätra,3,58,null,Lägenhet,1950,[Svedmyra],1650000,300000,1950000,2930,HusmanHagberg,737.0038663427218,Svedmyra
+2013-04-13,Postiljonsvägen 12,Svedmyra,Grön Hagsätra,3,70,1,Lägenhet,1948,[Enskede],2100000,100000,2200000,3637,Mäklarhuset,401.4454671544766,Svedmyra
+2013-04-08,Svedmyrastigen 24,Svedmyra,Grön Hagsätra,3,72,null,Villa,1953,[Enskede],4995000,-95000,4900000,null,SkandiaMäklarna,488.6783066508837,Svedmyra
+2013-03-28,Oppundavägen 6,Svedmyra,Grön Hagsätra,1,35,null,Lägenhet,1950,[Stureby],995000,415000,1410000,1871,Svensk Fastighetsförmedling,587.5320285554243,Svedmyra
+2013-03-27,Oppundavägen 29,Svedmyra,Grön Hagsätra,2,58,null,Lägenhet,null,[Svedmyra],1625000,0,1625000,2930,Mäklarringen,769.3194699891001,Svedmyra
+2013-03-22,Jönåkersvägen 2D,Svedmyra,Grön Hagsätra,1,39,1,Lägenhet,2006,[Svedmyra],1395000,0,1395000,2189,Restate,605.845761473542,Svedmyra
+2013-03-20,Jönåkersvägen 8,Svedmyra,Grön Hagsätra,3,74,3,Lägenhet,1950,[Svedmyra],1795000,115000,1910000,4153,Restate,576.5386869079282,Svedmyra
+2013-03-20,Herrhagsvägen 27,Svedmyra,Grön Hagsätra,5,88,null,Villa,1932,[Svedmyra],4500000,-100000,4400000,null,Svensk Fastighetsförmedling,508.9956411597827,Svedmyra
+2013-03-13,Oppundavägen 21,Svedmyra,Grön Hagsätra,3,74,null,Lägenhet,null,[Svedmyra],1995000,235000,2230000,3739,Mäklarringen,724.3385211119954,Svedmyra
+2013-03-13,Jönåkersvägen 2A,Svedmyra,Grön Hagsätra,3,70,null,Lägenhet,2006,[Svedmyra],2250000,225000,2475000,3928,Svenska Mäklarhuset,662.7349515931614,Svedmyra
+2013-03-04,Brevvägen 3,Svedmyra,Grön Hagsätra,2,47,null,Lägenhet,1949,[Svedmyra],1595000,0,1595000,2621,Hemmäklarna,517.7419697812885,Svedmyra
+2013-02-21,Brevvägen 1,Svedmyra,Grön Hagsätra,1.5,36,null,Lägenhet,1949,[Enskedefältet],1295000,155000,1450000,2008,Fastighetsbyrån,504.4453701149485,Svedmyra
+2013-02-18,Fållnäsgatan 3,Svedmyra,Grön Hagsätra,4,98,null,Villa,1932,[Svedmyra],4995000,455000,5450000,null,Notar,208.65836569345072,Svedmyra
+2013-02-09,Oppundavägen 35,Svedmyra,Grön Hagsätra,2,55,null,Lägenhet,null,[Svedmyra],1695000,175000,1870000,2779,Mäklarringen,803.2290820917474,Svedmyra
+2013-01-30,Oppundavägen 25,Svedmyra,Grön Hagsätra,2,58,null,Lägenhet,1950,[Svedmyra],1590000,165000,1755000,2930,HusmanHagberg,747.5634011971263,Svedmyra
+2013-01-18,Brevvägen 5,Svedmyra,Grön Hagsätra,2,48,null,Lägenhet,1949,[Enskedefältet],1395000,135000,1530000,2677,Fastighetsbyrån,545.3615560802147,Svedmyra
+2013-01-16,Selebovägen 1,Svedmyra,Grön Hagsätra,2,55,null,Lägenhet,1950,[Svedmyra],1295000,310000,1605000,2940,Svenska Mäklarhuset,588.776257080813,Svedmyra
+2013-01-12,Oppundavägen 33,Svedmyra,Grön Hagsätra,null,58,null,Lägenhet,1950,[Svedmyra],1495000,5000,1500000,null,Mäklarringen,787.1775991106891,Tallkrogen
+2013-01-11,Brevvägen 7,Svedmyra,Grön Hagsätra,2,46,3,Lägenhet,null,[Enskede],1300000,160000,1460000,2565,Erik Olsson Fastighetsförmedling,572.4003432959305,Svedmyra
+2013-01-10,Selebovägen 3,Svedmyra,Grön Hagsätra,3,74,null,Lägenhet,1950,[Enskede/Årsta/Skarpnäck],2150000,0,2150000,3955,Fastighetsbyrån,601.6255065431762,Svedmyra
+2012-11-25,Oppundavägen 35,Svedmyra,Grön Hagsätra,1,18,2,Lägenhet,1949,[Enskede],795000,135000,930000,909,Fastighetsbyrån,803.2290820917474,Svedmyra
+2012-11-22,Oppundavägen 35,Svedmyra,Grön Hagsätra,2,55,null,Lägenhet,1949,[Enskede],1395000,55000,1450000,2779,Fastighetsbyrån,803.2290820917474,Svedmyra
+2012-11-15,Brevvägen 9,Svedmyra,Grön Hagsätra,2,47,null,Lägenhet,1949,[Stureby],1375000,90000,1465000,2621,Svensk Fastighetsförmedling,585.5007104259868,Stureby
+2012-10-25,Oppundavägen 35,Svedmyra,Grön Hagsätra,1,18,null,Lägenhet,1949,[Enskede],800000,220000,1020000,909,Fastighetsbyrån,803.2290820917474,Svedmyra
+2012-10-19,Jönåkersvägen 28,Svedmyra,Grön Hagsätra,1,18,null,Lägenhet,1950,[Enskede/Årsta/Skarpnäck],800000,215000,1015000,890,Fastighetsbyrån,526.0128464360497,Svedmyra
+2012-10-01,Oppundavägen 33,Svedmyra,Grön Hagsätra,3,74,3,Lägenhet,1950,[Svedmyra],1950000,350000,2300000,3739,Mäklarringen,787.1775991106891,Tallkrogen

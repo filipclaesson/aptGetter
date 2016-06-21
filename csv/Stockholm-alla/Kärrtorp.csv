@@ -1,0 +1,301 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-11,Fyrskeppsvägen 38,Kärrtorp,Grön Skarpnäck,2,58,2,Lägenhet,1949,[Kärrtorp],2195000,380000,2575000,3542,Mäklarhuset,686.0377550729821,Blasut
+2016-05-05,Vikstensvägen 11,Kärrtorp,Grön Skarpnäck,3.5,69,3,Lägenhet,1950,[Johanneshov],3300000,220000,3520000,4370,Erik Olsson Fastighetsförmedling,79.34241844398326,Karrtorp
+2016-05-02,Fyrskeppsvägen 56,Kärrtorp,Grön Skarpnäck,2,52,1,Lägenhet,null,[Kärrtorp],2500000,-205000,2295000,3175,Mäklarhuset,716.7965236440027,Karrtorp
+2016-04-28,Fyrskeppsvägen 66,Kärrtorp,Grön Skarpnäck,2,58,null,Lägenhet,1949,[Kärrtorp],2295000,405000,2700000,3541,MäklarMäster,662.1659488695716,Karrtorp
+2016-04-28,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,6,Lägenhet,null,[Johanneshov],1795000,355000,2150000,1647,Svensk Fastighetsförmedling,49.07831076219705,Karrtorp
+2016-04-26,Fyrskeppsvägen 106,Kärrtorp,Grön Skarpnäck,2,56,3,Lägenhet,1949,[Kärrtorp],2150000,310000,2460000,3614,Notar,358.8642571308031,Karrtorp
+2016-04-23,Fyrskeppsvägen 85,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1949,[Johanneshov],2295000,105000,2400000,3550,Svensk Fastighetsförmedling,379.53698796882276,Karrtorp
+2016-04-22,Arkövägen 1,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1949,[Johanneshov],3295000,255000,3550000,3163,Svensk Fastighetsförmedling,335.47262686282835,Karrtorp
+2016-04-21,Söderarmsvägen 25,Kärrtorp,Grön Skarpnäck,2,46,2,Lägenhet,2008,[Johanneshov],2195000,630000,2825000,3451,Notar,231.97447727691414,Karrtorp
+2016-04-20,Vikstensvägen 48,Kärrtorp,Grön Skarpnäck,1,23,1,Lägenhet,1952,[Kärrtorp],1825000,175000,2000000,1525,Hemverket,448.20268971550445,Karrtorp
+2016-04-15,Vikstensvägen 21,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1949,[Kärrtorp],3095000,525000,3620000,4370,Fastighetsbyrån,156.91320329014172,Karrtorp
+2016-04-15,Fyrskeppsvägen 86,Kärrtorp,Grön Skarpnäck,4,79,1,Lägenhet,1949,[Kärrtorp],3895000,105000,4000000,4299,MäklarMäster,503.65533104157424,Karrtorp
+2016-04-15,Fyrskeppsvägen 81,Kärrtorp,Grön Skarpnäck,3,72,1,Lägenhet,1949,[Kärrtorp],2500000,720000,3220000,4646,HusmanHagberg,389.5059961290194,Karrtorp
+2016-04-13,Fyrskeppsvägen 81,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,1949,[Kärrtorp],1995000,725000,2720000,3550,HusmanHagberg,389.5059961290194,Karrtorp
+2016-04-07,Fyrskeppsvägen 77,Kärrtorp,Grön Skarpnäck,2,55,null,Lägenhet,1949,[Kärrtorp],2295000,325000,2620000,3550,MäklarMäster,392.0373023226608,Karrtorp
+2016-03-29,Kärrtorpsvägen 93,Kärrtorp,Grön Skarpnäck,3,75,3,Lägenhet,1950,[Kärrtorp],2895000,505000,3400000,4961,Notar,192.40701841486586,Karrtorp
+2016-03-25,Fyrskeppsvägen 15,Kärrtorp,Grön Skarpnäck,4,88,1,Lägenhet,1949,[Kärrtorp],3795000,105000,3900000,5627,Mäklarhuset,604.7791936580077,Blasut
+2016-03-24,Vikstensvägen 25,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1949,[Kärrtorp],2995000,715000,3710000,4370,Fastighetsbyrån,180.5022869848502,Karrtorp
+2016-03-24,Fyrskeppsvägen 130,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,1949,[Johanneshov],2350000,450000,2800000,3317,Svensk Fastighetsförmedling,309.0307908651985,Karrtorp
+2016-03-24,Fyrskeppsvägen 50,Kärrtorp,Grön Skarpnäck,3,71,3,Lägenhet,1949,[Kärrtorp],2950000,840000,3790000,4589,Bjurfors,702.6602400208063,Karrtorp
+2016-03-24,Kärrtorpsvägen 6,Kärrtorp,Grön Skarpnäck,2,59,2,Lägenhet,2009,[Kärrtorp],2495000,585000,3080000,3163,HusmanHagberg,304.8312925416716,Karrtorp
+2016-03-11,Fyrskeppsvägen 34,Kärrtorp,Grön Skarpnäck,2.5,61,2,Lägenhet,null,[Kärrtorp],2395000,505000,2900000,3978,Mäklarringen,649.3388893431635,Sandsborg
+2016-03-10,Gåshällsvägen 8,Kärrtorp,Grön Skarpnäck,3,71,1,Lägenhet,1952,[Kärrtorp],2600000,1075000,3675000,4027,Bjurfors,417.3849501288166,Karrtorp
+2016-03-10,Gåshällsvägen 4,Kärrtorp,Grön Skarpnäck,3,59,2,Lägenhet,1952,[Kärrtorp],2150000,870000,3020000,3402,Bjurfors,404.09989784356407,Karrtorp
+2016-03-09,Fyrskeppsvägen 100,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1949,[Kärrtorp],2995000,805000,3800000,4453,Fastighetsbyrån,335.94056218111774,Karrtorp
+2016-03-04,Fyrskeppsvägen 41,Kärrtorp,Grön Skarpnäck,3,70,2,Lägenhet,1949,[Kärrtorp],2795000,410000,3205000,4528,HusmanHagberg,674.7591757762384,Karrtorp
+2016-03-03,Vikstensvägen 48,Kärrtorp,Grön Skarpnäck,3,71,1,Lägenhet,1952,[Kärrtorp],2995000,55000,3050000,4027,Södermäklarna,448.20268971550445,Karrtorp
+2016-02-25,Arkövägen 7,Kärrtorp,Grön Skarpnäck,3,69,1,Lägenhet,1949,[Johanneshov],2995000,605000,3600000,3163,Svensk Fastighetsförmedling,301.4385798315395,Karrtorp
+2016-02-25,Kärrtorpsvägen 93,Kärrtorp,Grön Skarpnäck,1,27,3,Lägenhet,1950,[Kärrtorp],1595000,465000,2060000,2057,HusmanHagberg,192.40701841486586,Karrtorp
+2016-02-24,Fyrskeppsvägen 62,Kärrtorp,Grön Skarpnäck,2,52,3,Lägenhet,null,[Kärrtorp],2350000,425000,2775000,3421,Svenska Mäklarhuset,686.2595188136687,Karrtorp
+2016-02-20,Söderarmsvägen 10,Kärrtorp,Grön Skarpnäck,3,73,1,Lägenhet,1949,[Kärrtorp],2995000,175000,3170000,4013,HusmanHagberg,418.04279350594754,Karrtorp
+2016-02-18,Kärrtorpsvägen 91,Kärrtorp,Grön Skarpnäck,1,27,1,Lägenhet,1950,[Kärrtorp],1695000,455000,2150000,2152,Fastighetsbyrån,185.6773290255334,Karrtorp
+2016-02-12,Vikstensvägen 9,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1950,[Johanneshov],2995000,725000,3720000,4370,Svensk Fastighetsförmedling,59.81605683098531,Karrtorp
+2016-02-11,Söderarmsvägen 12,Kärrtorp,Grön Skarpnäck,3,68,2,Lägenhet,1949,[Kärrtorp],2995000,0,2995000,3793,Länsförsäkringar Fastighetsförmedling,404.09625734181634,Karrtorp
+2016-02-11,Vikstensvägen 48,Kärrtorp,Grön Skarpnäck,1,23,2,Lägenhet,1952,[Kärrtorp],1650000,270000,1920000,1525,Bjurfors,448.20268971550445,Karrtorp
+2016-02-09,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,3,66,null,Lägenhet,1950,[Kärrtorp],2695000,345000,3040000,4180,MäklarMäster,49.07831076219705,Karrtorp
+2016-01-29,Fyrskeppsvägen 50,Kärrtorp,Grön Skarpnäck,3,71,3,Lägenhet,1949,[Kärrtorp],3195000,380000,3575000,4589,HusmanHagberg,702.6602400208063,Karrtorp
+2016-01-28,Vikstensvägen 9,Kärrtorp,Grön Skarpnäck,3,69,null,Lägenhet,1950,[Johanneshov],2695000,665000,3360000,4370,Svensk Fastighetsförmedling,59.81605683098531,Karrtorp
+2016-01-20,Kärrtorpsvägen 7,Kärrtorp,Grön Skarpnäck,2,46,3,Lägenhet,2010,[Kärrtorp],2350000,350000,2700000,2821,Mäklarringen,312.4332267881468,Karrtorp
+2016-01-19,Fyrskeppsvägen 104,Kärrtorp,Grön Skarpnäck,2,55,2,Lägenhet,1949,[Kärrtorp],2350000,250000,2600000,3550,Fastighetsbyrån,344.1400189901767,Karrtorp
+2016-01-15,Vikstensvägen 9,Kärrtorp,Grön Skarpnäck,3,69,3,Lägenhet,1950,[Kärrtorp],2995000,1055000,4050000,4370,MäklarMäster,59.81605683098531,Karrtorp
+2016-01-14,Vikstensvägen 9,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1950,[Kärrtorp],2595000,1225000,3820000,4370,Länsförsäkringar Fastighetsförmedling,59.81605683098531,Karrtorp
+2016-01-13,Fyrskeppsvägen 78,Kärrtorp,Grön Skarpnäck,3,76,2,Lägenhet,1949,[Kärrtorp],2995000,1125000,4120000,4894,HusmanHagberg,627.1757026379195,Karrtorp
+2015-12-08,Fyrskeppsvägen 73,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,1949,[Johanneshov],2450000,150000,2600000,3550,Mäklarhuset,405.007221135365,Karrtorp
+2015-12-05,Fyrskeppsvägen 73,Kärrtorp,Grön Skarpnäck,2,55,2,Lägenhet,null,[Kärrtorp],2450000,175000,2625000,3550,Svenska Mäklarhuset,405.007221135365,Karrtorp
+2015-12-04,Fyrskeppsvägen 114,Kärrtorp,Grön Skarpnäck,4,89,1,Lägenhet,1949,[Kärrtorp],3895000,775000,4670000,5743,HusmanHagberg,312.8347295661439,Karrtorp
+2015-12-04,Vikstensvägen 5,Kärrtorp,Grön Skarpnäck,2,58,3,Lägenhet,1950,[Kärrtorp],2295000,255000,2550000,3673,MäklarMäster,43.064750812516195,Karrtorp
+2015-12-03,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,3,66,4,Lägenhet,1950,[Kärrtorp],2895000,430000,3325000,4180,MäklarMäster,49.07831076219705,Karrtorp
+2015-12-03,Fyrskeppsvägen 79,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,null,[Kärrtorp],2450000,210000,2660000,3550,Fastighetsbyrån,393.9777446720814,Karrtorp
+2015-12-02,Söderarmsvägen 29,Kärrtorp,Grön Skarpnäck,2,46,2,Lägenhet,2008,[Johanneshov],2500000,100000,2600000,3451,Mäklarhuset,191.8413732842057,Karrtorp
+2015-11-28,Fyrskeppsvägen 74,Kärrtorp,Grön Skarpnäck,2,52,3,Lägenhet,1949,[Johanneshov],2200000,350000,2550000,3113,Mäklarhuset,618.6443693998204,Karrtorp
+2015-11-28,Huvudskärsvägen 7,Kärrtorp,Grön Skarpnäck,2,57,3,Lägenhet,null,[Kärrtorp],2450000,450000,2900000,3257,BOSTHLM,472.02977627174386,Karrtorp
+2015-11-25,Söderarmsvägen 14,Kärrtorp,Grön Skarpnäck,2,57,1,Lägenhet,1949,[Kärrtorp],2295000,465000,2760000,3257,MäklarMäster,389.739405653262,Karrtorp
+2015-11-25,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,10,Lägenhet,1950,[Johanneshov],1795000,405000,2200000,1647,Mäklarhuset,49.07831076219705,Karrtorp
+2015-11-21,Arkövägen 29,Kärrtorp,Grön Skarpnäck,3,69,1,Lägenhet,1949,[Kärrtorp],2895000,780000,3675000,3012,Fastighetsbyrån,246.386584363004,Karrtorp
+2015-11-13,Holmögaddsvägen 37,Kärrtorp,Grön Skarpnäck,3,76,2,Lägenhet,1960,[Johanneshov],2850000,100000,2950000,3804,Svensk Fastighetsförmedling,473.2016459534132,Karrtorp
+2015-11-13,Fyrskeppsvägen 78,Kärrtorp,Grön Skarpnäck,2,61,2,Lägenhet,1949,[Kärrtorp],2250000,860000,3110000,3906,HusmanHagberg,627.1757026379195,Karrtorp
+2015-11-06,Fyrskeppsvägen 100,Kärrtorp,Grön Skarpnäck,1,39,1,Lägenhet,1949,[Kärrtorp],1895000,375000,2270000,2517,Fastighetsbyrån,335.94056218111774,Karrtorp
+2015-10-31,Fyrskeppsvägen 134,Kärrtorp,Grön Skarpnäck,2,56,3,Lägenhet,1949,[Kärrtorp],2495000,255000,2750000,3614,Mäklarringen,351.2936524709675,Karrtorp
+2015-10-29,Fyrskeppsvägen 102,Kärrtorp,Grön Skarpnäck,4,89,1,Lägenhet,1949,[Johanneshov],3595000,1105000,4700000,5743,Mäklarhuset,329.73343051987814,Karrtorp
+2015-10-24,Fyrskeppsvägen 96,Kärrtorp,Grön Skarpnäck,3,72,2.5,Lägenhet,null,[Johanneshov Kärrtorp],2900000,300000,3200000,4453,Fastighetsmäklarna,361.34229514305184,Karrtorp
+2015-10-23,Fyrskeppsvägen 102,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1949,[Johanneshov],2275000,275000,2550000,3550,Mäklarhuset,329.73343051987814,Karrtorp
+2015-10-17,Fyrskeppsvägen 76,Kärrtorp,Grön Skarpnäck,2,52,3,Lägenhet,1949,[Skarpnäcks stadsdelsområde],2095000,345000,2440000,3113,SkandiaMäklarna,613.3560287594713,Karrtorp
+2015-10-16,Fyrskeppsvägen 40,Kärrtorp,Grön Skarpnäck,3,73,2,Lägenhet,1949,[Kärrtorp],2895000,1025000,3920000,4370,HusmanHagberg,702.8433706644889,Sandsborg
+2015-10-16,Fyrskeppsvägen 108,Kärrtorp,Grön Skarpnäck,3,69,1,Lägenhet,1949,[Kärrtorp],2895000,430000,3325000,4453,Fastighetsbyrån,351.87427959373645,Karrtorp
+2015-10-16,Fyrskeppsvägen 100,Kärrtorp,Grön Skarpnäck,3,72,null,Lägenhet,1949,[Skarpnäcks stadsdelsområde],2990000,0,2990000,4453,Gripsholms Fastighetsförmedling,335.94056218111774,Karrtorp
+2015-10-15,Fyrskeppsvägen 114,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,1949,[Kärrtorp],2275000,425000,2700000,3550,Fastighetsbyrån,312.8347295661439,Karrtorp
+2015-10-14,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,8,Lägenhet,1950,[Kärrtorp],1775000,535000,2310000,1647,HusmanHagberg,49.07831076219705,Karrtorp
+2015-10-08,Fyrskeppsvägen 25,Kärrtorp,Grön Skarpnäck,4,92,1,Lägenhet,1949,[Johanneshov],3150000,1050000,4200000,5761,Mäklarhuset,682.6454577927489,Blasut
+2015-10-01,Fyrskeppsvägen 73,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1949,[Johanneshov],2395000,25000,2420000,3550,Svensk Fastighetsförmedling,405.007221135365,Karrtorp
+2015-10-01,Fyrskeppsvägen 132,Kärrtorp,Grön Skarpnäck,2,56,2,Lägenhet,1949,[Kärrtorp],2350000,310000,2660000,3614,HusmanHagberg,332.2349067871457,Karrtorp
+2015-09-30,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,5,Lägenhet,1950,[Skarpnäcks stadsdelsområde],1695000,655000,2350000,1647,MäklarMäster,49.07831076219705,Karrtorp
+2015-09-25,Fyrskeppsvägen 74,Kärrtorp,Grön Skarpnäck,2,52,0,Lägenhet,1949,[Johanneshov],2150000,160000,2310000,3367,Mäklarhuset,618.6443693998204,Karrtorp
+2015-09-17,Fyrskeppsvägen 94,Kärrtorp,Grön Skarpnäck,3,69,1,Lägenhet,1949,[Johanneshov],2795000,335000,3130000,4453,Svensk Fastighetsförmedling,376.0052375201051,Karrtorp
+2015-09-10,Fyrskeppsvägen 36,Kärrtorp,Grön Skarpnäck,2,61,3,Lägenhet,1949,[Johanneshov],2750000,0,2750000,3651,Mäklarhuset,664.3494048328884,Sandsborg
+2015-09-03,Fyrskeppsvägen 132,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,1949,[Kärrtorp],2195000,505000,2700000,3550,Fastighetsbyrån,332.2349067871457,Karrtorp
+2015-09-03,Fyrskeppsvägen 138,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1949,[Johanneshov],2195000,445000,2640000,3550,Svensk Fastighetsförmedling,354.6424336311547,Karrtorp
+2015-09-02,Fyrskeppsvägen 73,Kärrtorp,Grön Skarpnäck,3,73,3,Lägenhet,1949,[Kärrtorp],2795000,630000,3425000,4646,HusmanHagberg,405.007221135365,Karrtorp
+2015-08-27,Arkövägen 9,Kärrtorp,Grön Skarpnäck,4,82,2,Lägenhet,1949,[Johanneshov],3800000,775000,4575000,3531,Svensk Fastighetsförmedling,292.3389512843854,Karrtorp
+2015-08-14,Söderarmsvägen 16,Kärrtorp,Grön Skarpnäck,2,57,null,Lägenhet,1949,[Skarpnäcks stadsdelsområde],2195000,215000,2410000,3102,MäklarMäster,377.00621739702797,Karrtorp
+2015-07-29,Gåshällsvägen 12,Kärrtorp,Grön Skarpnäck,2,54,3,Lägenhet,1952,[Kärrtorp],2730000,-50000,2680000,3141,Bjurfors,399.44741085894367,Karrtorp
+2015-07-29,Vikstensvägen 46,Kärrtorp,Grön Skarpnäck,1,23,3,Lägenhet,1952,[Kärrtorp],2170000,-40000,2130000,1525,Bjurfors,432.6994844132589,Karrtorp
+2015-07-24,Fyrskeppsvägen 116,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,1949,[Johanneshov],2300000,350000,2650000,3550,Mäklarhuset,326.3427772324015,Karrtorp
+2015-07-22,Vikstensvägen 48,Kärrtorp,Grön Skarpnäck,3,71,2,Lägenhet,1952,[Kärrtorp],2850000,875000,3725000,4027,Bjurfors,448.20268971550445,Karrtorp
+2015-07-14,Fyrskeppsvägen 33,Kärrtorp,Grön Skarpnäck,1,25,2,Lägenhet,1949,[Kärrtorp],1495000,905000,2400000,1496,Länsförsäkringar Fastighetsförmedling,699.8694462472462,Hammarbyhajden
+2015-07-10,Arkövägen 17,Kärrtorp,Grön Skarpnäck,2,58,null,Lägenhet,1949,[Skarpnäcks stadsdelsområde],2295000,165000,2460000,2565,MäklarMäster,249.81979654375232,Karrtorp
+2015-06-17,Arkövägen 29,Kärrtorp,Grön Skarpnäck,3,69,1,Lägenhet,1949,[Skarpnäcks stadsdelsområde],2795000,605000,3400000,3012,MäklarMäster,246.386584363004,Karrtorp
+2015-06-12,Söderarmsvägen 21,Kärrtorp,Grön Skarpnäck,2.5,59,1,Lägenhet,1949,[Skarpnäcks stadsdelsområde],2395000,315000,2710000,2996,SkandiaMäklarna,288.70620487669174,Karrtorp
+2015-06-02,Fyrskeppsvägen 37,Kärrtorp,Grön Skarpnäck,1,40,2,Lägenhet,1949,[Kärrtorp],1750000,360000,2110000,2394,Fastighetsbyrån,708.7566248348068,Bjarkhagen
+2015-05-29,Vikstensvägen 46,Kärrtorp,Grön Skarpnäck,3,71,3,Lägenhet,1952,[Johanneshov],2900000,225000,3125000,4028,Svensk Fastighetsförmedling,432.6994844132589,Karrtorp
+2015-05-29,Vikstensvägen 21,Kärrtorp,Grön Skarpnäck,4,null,null,Lägenhet,1950,[Enskededalen],null,NaN,4210000,5510,SkandiaMäklarna,156.91320329014172,Karrtorp
+2015-05-28,Fyrskeppsvägen 31,Kärrtorp,Grön Skarpnäck,2,53,3,Lägenhet,1949,[Kärrtorp],2095000,655000,2750000,3172,Fastighetsbyrån,696.5167662374178,Hammarbyhajden
+2015-05-22,Fyrskeppsvägen 71,Kärrtorp,Grön Skarpnäck,4,96,2,Lägenhet,null,[Kärrtorp],3995000,1205000,5200000,5873,Svenska Mäklarhuset,417.0493249427273,Karrtorp
+2015-05-16,Fyrskeppsvägen 128,Kärrtorp,Grön Skarpnäck,2,55,2,Lägenhet,1949,[Kärrtorp],2095000,575000,2670000,3550,Fastighetsbyrån,294.83747205082005,Karrtorp
+2015-05-15,Holmögaddsvägen 35,Kärrtorp,Grön Skarpnäck,3,76,2,Lägenhet,1960,[Enskededalen],2695000,325000,3020000,3804,SkandiaMäklarna,458.30670949971216,Karrtorp
+2015-05-05,Söderarmsvägen 16,Kärrtorp,Grön Skarpnäck,2,57,null,Lägenhet,1949,[Enskededalen],2195000,455000,2650000,3102,MäklarMäster,377.00621739702797,Karrtorp
+2015-05-05,Söderarmsvägen 11,Kärrtorp,Grön Skarpnäck,2.5,59,3,Lägenhet,1949,[Kärrtorp],2495000,105000,2600000,2996,Södermäklarna,363.3205649062877,Karrtorp
+2015-04-29,Söderarmsvägen 25,Kärrtorp,Grön Skarpnäck,2,46,2,Lägenhet,2008,[Kärrtorp],1995000,730000,2725000,3451,Fastighetsbyrån,231.97447727691414,Karrtorp
+2015-04-24,Gåshällsvägen 18,Kärrtorp,Grön Skarpnäck,2.5,59,3,Lägenhet,1952,[Kärrtorp],2195000,255000,2450000,3402,HusmanHagberg,403.31438888482216,Karrtorp
+2015-04-23,Fyrskeppsvägen 54,Kärrtorp,Grön Skarpnäck,2,52,6,Lägenhet,null,[Johanneshov],2195000,0,2195000,3113,Mäklarhuset,731.1832827658927,Karrtorp
+2015-04-17,Fyrskeppsvägen 106,Kärrtorp,Grön Skarpnäck,2,56,1,Lägenhet,1949,[Kärrtorp],1995000,125000,2120000,3614,Mäklarringen,358.8642571308031,Karrtorp
+2015-04-16,Fyrskeppsvägen 50,Kärrtorp,Grön Skarpnäck,3.5,71,1,Lägenhet,null,[Kärrtorp],2875000,675000,3550000,4250,Fastighetsbyrån,702.6602400208063,Karrtorp
+2015-04-10,Vikstensvägen 23,Kärrtorp,Grön Skarpnäck,3,69,1,Lägenhet,1950,[Kärrtorp],2575000,250000,2825000,4370,Fastighetsbyrån,155.6641006021067,Karrtorp
+2015-04-01,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,3,66,8,Lägenhet,1950,[Kärrtorp],2895000,155000,3050000,4179,HusmanHagberg,49.07831076219705,Karrtorp
+2015-04-01,Söderarmsvägen 27,Kärrtorp,Grön Skarpnäck,2,49,1,Lägenhet,2008,[Enskededalen],2150000,200000,2350000,3769,Svenska Mäklarhuset,215.80107496928932,Karrtorp
+2015-04-01,Fyrskeppsvägen 15,Kärrtorp,Grön Skarpnäck,3,71,2,Lägenhet,1949,[Johanneshov],2695000,405000,3100000,4250,Mäklarhuset,604.7791936580077,Blasut
+2015-03-25,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,null,Lägenhet,1950,[Enskededalen],1495000,405000,1900000,1647,MäklarMäster,49.07831076219705,Karrtorp
+2015-03-25,Fyrskeppsvägen 40,Kärrtorp,Grön Skarpnäck,3.5,73,3,Lägenhet,null,[Kärrtorp],2995000,60000,3055000,4370,Fastighetsbyrån,702.8433706644889,Sandsborg
+2015-03-24,Holmögaddsvägen 37,Kärrtorp,Grön Skarpnäck,4,104,4,Lägenhet,1960,[Kärrtorp],3695000,245000,3940000,4871,Fastighetsbyrån,473.2016459534132,Karrtorp
+2015-03-20,Fyrskeppsvägen 75,Kärrtorp,Grön Skarpnäck,3,72,9,Lägenhet,null,[Johanneshov],2350000,250000,2600000,4646,Mäklarhuset,400.5854484169778,Karrtorp
+2015-03-19,Vikstensvägen 19,Kärrtorp,Grön Skarpnäck,3,69,3,Lägenhet,1950,[Johanneshov],2595000,765000,3360000,4370,Svensk Fastighetsförmedling,140.55226917309312,Karrtorp
+2015-03-17,Fyrskeppsvägen 28,Kärrtorp,Grön Skarpnäck,3.5,76,null,Lägenhet,1949,[Johanneshov],2850000,50000,2900000,null,Svensk Fastighetsförmedling,655.7492835426178,Blasut
+2015-03-13,Kärrtorpsvägen 7,Kärrtorp,Grön Skarpnäck,4.5,107,1,Lägenhet,null,[Johanneshov],4495000,425000,4920000,null,Svensk Fastighetsförmedling,312.4332267881468,Karrtorp
+2015-03-12,Arkövägen 23,Kärrtorp,Grön Skarpnäck,3,69,3,Lägenhet,1949,[Johanneshov],2695000,505000,3200000,3012,Mäklarhuset,248.45815228590075,Karrtorp
+2015-03-06,Fyrskeppsvägen 33,Kärrtorp,Grön Skarpnäck,3,73,2,Lägenhet,1949,[Johanneshov],2695000,205000,2900000,4370,Mäklarhuset,699.8694462472462,Hammarbyhajden
+2015-03-06,Arkövägen 17,Kärrtorp,Grön Skarpnäck,4,82,3,Lägenhet,1949,[Kärrtorp],3395000,705000,4100000,3531,Fastighetsbyrån,249.81979654375232,Karrtorp
+2015-03-06,Karlsövägen 1,Kärrtorp,Grön Skarpnäck,3,75,2,Lägenhet,2008,[Kärrtorp],3295000,430000,3725000,4959,HusmanHagberg,159.19707914643809,Karrtorp
+2015-02-26,Fyrskeppsvägen 54,Kärrtorp,Grön Skarpnäck,2,52,2,Lägenhet,null,[Kärrtorp],1895000,455000,2350000,3113,Mäklarringen,731.1832827658927,Karrtorp
+2015-02-16,Fyrskeppsvägen 34,Kärrtorp,Grön Skarpnäck,3.5,76,2,Lägenhet,1950,[Kärrtorp],2495000,275000,2770000,4549,HusmanHagberg,649.3388893431635,Sandsborg
+2015-02-11,Söderarmsvägen 15,Kärrtorp,Grön Skarpnäck,2.5,59,1,Lägenhet,1949,[Enskededalen],2295000,405000,2700000,2996,SkandiaMäklarna,333.7461314334835,Karrtorp
+2015-02-10,Fyrskeppsvägen 120,Kärrtorp,Grön Skarpnäck,1,39,1,Lägenhet,1949,[Kärrtorp],1595000,445000,2040000,2517,Länsförsäkringar Fastighetsförmedling,334.2418289047833,Karrtorp
+2015-02-07,Söderarmsvägen 17,Kärrtorp,Grön Skarpnäck,3,59,3,Lägenhet,1949,[Johanneshov],2395000,305000,2700000,2996,Mäklarhuset,320.6088933093872,Karrtorp
+2015-02-04,Karlsövägen 3,Kärrtorp,Grön Skarpnäck,3,75,null,Lägenhet,2008,[Kärrtorp],3395000,405000,3800000,4959,Balders Ädelmarks,145.9924761096362,Karrtorp
+2015-02-02,Fyrskeppsvägen 106,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1949,[Kärrtorp],1895000,105000,2000000,3550,Erik Olsson Fastighetsförmedling,358.8642571308031,Karrtorp
+2015-01-31,Fyrskeppsvägen 116,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,1949,[Kärrtorp],1895000,330000,2225000,3550,Notar,326.3427772324015,Karrtorp
+2015-01-30,Fyrskeppsvägen 15,Kärrtorp,Grön Skarpnäck,3,71,1,Lägenhet,1949,[Kärrtorp],2595000,105000,2700000,4250,Länsförsäkringar Fastighetsförmedling,604.7791936580077,Blasut
+2015-01-29,Fyrskeppsvägen 75,Kärrtorp,Grön Skarpnäck,2,55,2,Lägenhet,1949,[Johanneshov],1895000,165000,2060000,3550,Mäklarhuset,400.5854484169778,Karrtorp
+2015-01-23,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,3,66,3,Lägenhet,1950,[Johanneshov],2595000,155000,2750000,4180,Svensk Fastighetsförmedling,49.07831076219705,Karrtorp
+2015-01-15,Fyrskeppsvägen 126,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1949,[Kärrtorp],2495000,225000,2720000,4453,Fastighetsbyrån,295.14032319945863,Karrtorp
+2015-01-07,Fyrskeppsvägen 130,Kärrtorp,Grön Skarpnäck,2,55,2,Lägenhet,1949,[Kärrtorp],1795000,535000,2330000,3550,Erik Olsson Fastighetsförmedling,309.0307908651985,Karrtorp
+2014-12-26,Huvudskärsvägen 3,Kärrtorp,Grön Skarpnäck,3,69,null,Lägenhet,1949,[Kärrtorp],2495000,665000,3160000,3662,MäklarMäster,482.741573136361,Karrtorp
+2014-12-15,Vikstensvägen 19,Kärrtorp,Grön Skarpnäck,3,69,3,Lägenhet,1950,[Kärrtorp],2695000,315000,3010000,4243,MäklarMäster,140.55226917309312,Karrtorp
+2014-12-09,Arkövägen 25,Kärrtorp,Grön Skarpnäck,3,69,null,Lägenhet,1949,[Johanneshov],2595000,305000,2900000,3012,Mäklarhuset,249.10947021035938,Karrtorp
+2014-12-05,Söderarmsvägen 7,Kärrtorp,Grön Skarpnäck,2,59,3,Lägenhet,1949,[Enskededalen],2150000,420000,2570000,2996,SkandiaMäklarna,390.2563978874854,Karrtorp
+2014-11-28,Arkövägen 27,Kärrtorp,Grön Skarpnäck,3,69,3,Lägenhet,1949,[Johanneshov],2650000,500000,3150000,3012,Erik Olsson Fastighetsförmedling,249.63143129845466,Karrtorp
+2014-11-26,Holmögaddsvägen 22,Kärrtorp,Grön Skarpnäck,3,84.2,2,Lägenhet,1998,[Kärrtorp],2850000,0,2850000,4812,Fastighetsbyrån,405.36733811020446,Karrtorp
+2014-11-26,Fyrskeppsvägen 74,Kärrtorp,Grön Skarpnäck,2,52,1,Lägenhet,1949,[Johanneshov],1995000,285000,2280000,3113,Mäklarhuset,618.6443693998204,Karrtorp
+2014-11-26,Fyrskeppsvägen 72,Kärrtorp,Grön Skarpnäck,2,52,3,Lägenhet,1949,[Kärrtorp],2195000,50000,2245000,3112,Bjurfors,624.8234022241597,Karrtorp
+2014-11-26,Söderarmsvägen 9,Kärrtorp,Grön Skarpnäck,2.5,59,1,Lägenhet,1949,[Kärrtorp],1895000,615000,2510000,2996,Notar,376.6234629430431,Karrtorp
+2014-11-21,Kärrtorpsvägen 7,Kärrtorp,Grön Skarpnäck,5,114,5,Lägenhet,2009,[Kärrtorp],4650000,850000,5500000,5423,Erik Olsson Fastighetsförmedling,312.4332267881468,Karrtorp
+2014-11-21,Kärrtorpsvägen 7,Kärrtorp,Grön Skarpnäck,2,59,4,Lägenhet,2009,[Enskededalen],2395000,465000,2860000,3163,SkandiaMäklarna,312.4332267881468,Karrtorp
+2014-11-06,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,3,66,null,Lägenhet,1950,[Kärrtorp],2590000,210000,2800000,4058,MäklarMäster,49.07831076219705,Karrtorp
+2014-10-29,Fyrskeppsvägen 77,Kärrtorp,Grön Skarpnäck,3,72,3,Lägenhet,1949,[Kärrtorp],2590000,150000,2740000,4646,HusmanHagberg,392.0373023226608,Karrtorp
+2014-10-29,Fyrskeppsvägen 30,Kärrtorp,Grön Skarpnäck,3.5,76,3,Lägenhet,null,[Kärrtorp],2695000,315000,3010000,4549,Fastighetsbyrån,650.5363543950593,Sandsborg
+2014-10-28,Fyrskeppsvägen 134,Kärrtorp,Grön Skarpnäck,2,56,3,Lägenhet,1949,[Kärrtorp],1895000,380000,2275000,3614,Bjurfors,351.2936524709675,Karrtorp
+2014-10-24,Söderarmsvägen 29,Kärrtorp,Grön Skarpnäck,3,75,null,Lägenhet,2008,[Kärrtorp],3375000,100000,3475000,4959,Balders Ädelmarks,191.8413732842057,Karrtorp
+2014-10-24,Gåshällsvägen 10,Kärrtorp,Grön Skarpnäck,1,23,1,Lägenhet,1952,[Kärrtorp],1375000,265000,1640000,1525,HusmanHagberg,435.4063966201561,Karrtorp
+2014-10-22,Vikstensvägen 48,Kärrtorp,Grön Skarpnäck,1,23,1,Lägenhet,1952,[Enskededalen],1395000,430000,1825000,1525,SkandiaMäklarna,448.20268971550445,Karrtorp
+2014-10-20,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,5,Lägenhet,1950,[Kärrtorp],1495000,255000,1750000,1599,Fastighetsbyrån,49.07831076219705,Karrtorp
+2014-10-16,Kärrtorpsvägen 4,Kärrtorp,Grön Skarpnäck,4.5,107,4,Lägenhet,null,[Enskededalen],4450000,450000,4900000,5324,Svensk Fastighetsförmedling,304.61088209419165,Karrtorp
+2014-10-15,Söderarmsvägen 25,Kärrtorp,Grön Skarpnäck,3,75,3,Lägenhet,2008,[Kärrtorp],3250000,300000,3550000,4959,Fastighetsbyrån,231.97447727691414,Karrtorp
+2014-10-01,Vikstensvägen 19,Kärrtorp,Grön Skarpnäck,3,69,3,Lägenhet,null,[Enskededalen],2495000,555000,3050000,4243,Svensk Fastighetsförmedling,140.55226917309312,Karrtorp
+2014-10-01,Fyrskeppsvägen 27,Kärrtorp,Grön Skarpnäck,1,40,3,Lägenhet,null,[Kärrtorp],1695000,0,1695000,2394,Fastighetsbyrån,695.5168485869019,Hammarbyhajden
+2014-10-01,Fyrskeppsvägen 30,Kärrtorp,Grön Skarpnäck,3.5,76,1,Lägenhet,null,[Kärrtorp],2695000,265000,2960000,4549,Fastighetsbyrån,650.5363543950593,Sandsborg
+2014-09-13,Söderarmsvägen 14,Kärrtorp,Grön Skarpnäck,2,57,null,Lägenhet,1949,[Kärrtorp],1850000,400000,2250000,3102,MäklarMäster,389.739405653262,Karrtorp
+2014-09-11,Fyrskeppsvägen 132,Kärrtorp,Grön Skarpnäck,2,56,3,Lägenhet,1949,[Kärrtorp],1875000,205000,2080000,3614,SverigeMäklaren,332.2349067871457,Karrtorp
+2014-09-11,Kärrtorpsvägen 6,Kärrtorp,Grön Skarpnäck,4.5,107,3,Lägenhet,null,[Enskededalen],5300000,0,5300000,5324,Svensk Fastighetsförmedling,304.8312925416716,Karrtorp
+2014-09-10,Söderarmsvägen 7,Kärrtorp,Grön Skarpnäck,3,71,2,Lägenhet,1949,[Kärrtorp],2595000,655000,3250000,3606,Notar,390.2563978874854,Karrtorp
+2014-09-09,Fyrskeppsvägen 83,Kärrtorp,Grön Skarpnäck,3,72,null,Lägenhet,1949,[Kärrtorp],2495000,230000,2725000,4224,MäklarMäster,386.5227685575053,Karrtorp
+2014-09-04,Fyrskeppsvägen 87,Kärrtorp,Grön Skarpnäck,2,55,0.5,Lägenhet,1949,[Kärrtorp],1850000,100000,1950000,3605,SverigeMäklaren,380.1917430862021,Karrtorp
+2014-08-29,Huvudskärsvägen 17,Kärrtorp,Grön Skarpnäck,4,79,3,Lägenhet,1949,[Kärrtorp],2995000,1215000,4210000,4095,MäklarMäster,389.5849555114008,Karrtorp
+2014-08-28,Gåshällsvägen 10,Kärrtorp,Grön Skarpnäck,3,70,1,Lägenhet,null,[Johanneshov],2195000,305000,2500000,3975,Mäklarhuset,435.4063966201561,Karrtorp
+2014-08-28,Vikstensvägen 13,Kärrtorp,Grön Skarpnäck,1,42,1,Lägenhet,1950,[Kärrtorp],1750000,420000,2170000,2583,Fastighetsbyrån,86.93016288750351,Karrtorp
+2014-08-27,Söderarmsvägen 29,Kärrtorp,Grön Skarpnäck,4,75,1,Lägenhet,2008,[Kärrtorp],2775000,815000,3590000,4959,Fastighetsbyrån,191.8413732842057,Karrtorp
+2014-08-27,Fyrskeppsvägen 124,Kärrtorp,Grön Skarpnäck,1,28,2,Lägenhet,1949,[Kärrtorp],1395000,130000,1525000,1688,Bjurfors,301.42153634859204,Karrtorp
+2014-08-24,Söderarmsvägen 12,Kärrtorp,Grön Skarpnäck,3,68,3,Lägenhet,1949,[Kärrtorp],2695000,70000,2765000,3613,Living Fastighetsmäkleri,404.09625734181634,Karrtorp
+2014-08-20,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,11,Lägenhet,1950,[Kärrtorp],1495000,230000,1725000,1599,Fastighetsbyrån,49.07831076219705,Karrtorp
+2014-08-13,Gåshällsvägen 14,Kärrtorp,Grön Skarpnäck,3,70,3,Lägenhet,1952,[Enskededalen],2195000,185000,2380000,3975,SkandiaMäklarna,395.297493069338,Karrtorp
+2014-08-07,Vikstensvägen 13,Kärrtorp,Grön Skarpnäck,3,69,1,Lägenhet,1950,[Johanneshov],2695000,0,2695000,4243,Mäklarhuset,86.93016288750351,Karrtorp
+2014-08-06,Fyrskeppsvägen 98,Kärrtorp,Grön Skarpnäck,1,29,3,Lägenhet,1949,[Kärrtorp],1520000,90000,1610000,1871,Bjurfors,346.2703450320568,Karrtorp
+2014-07-24,Söderarmsvägen 11,Kärrtorp,Grön Skarpnäck,3,71,2,Lägenhet,1949,[Kärrtorp],2395000,380000,2775000,3606,Bjurfors,363.3205649062877,Karrtorp
+2014-06-27,Kärrtorpsvägen 4,Kärrtorp,Grön Skarpnäck,2,59,1,Lägenhet,2009,[Kärrtorp],2375000,0,2375000,3163,Erik Olsson Fastighetsförmedling,304.61088209419165,Karrtorp
+2014-06-18,Fyrskeppsvägen 136,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1949,[Enskededalen],1850000,100000,1950000,3227,SkandiaMäklarna,605.5519868781479,Blasut
+2014-06-12,Söderarmsvägen 12,Kärrtorp,Grön Skarpnäck,3,68,2,Lägenhet,1949,[Kärrtorp],2295000,540000,2835000,3613,HusmanHagberg,404.09625734181634,Karrtorp
+2014-06-04,Fyrskeppsvägen 114,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1947,[Kärrtorp],1750000,155000,1905000,3227,Notar,312.8347295661439,Karrtorp
+2014-05-29,Fyrskeppsvägen 50,Kärrtorp,Grön Skarpnäck,4,88,1,Lägenhet,1949,[Kärrtorp],2995000,455000,3450000,5268,Erik Olsson Fastighetsförmedling,702.6602400208063,Karrtorp
+2014-05-22,Söderarmsvägen 19,Kärrtorp,Grön Skarpnäck,3,59,3,Lägenhet,null,[Enskededalen],1995000,355000,2350000,2997,Svensk Fastighetsförmedling,301.6994556282633,Karrtorp
+2014-05-22,Söderarmsvägen 10,Kärrtorp,Grön Skarpnäck,3,68,3,Lägenhet,null,[Kärrtorp],2395000,730000,3125000,3613,Fastighetsbyrån,418.04279350594754,Karrtorp
+2014-05-22,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,3,Lägenhet,1950,[Enskededalen],1295000,205000,1500000,1599,SkandiaMäklarna,49.07831076219705,Karrtorp
+2014-05-13,Fyrskeppsvägen 43,Kärrtorp,Grön Skarpnäck,2,52,3,Lägenhet,1949,[Kärrtorp],1750000,280000,2030000,3113,Södermäklarna,663.576426521101,Karrtorp
+2014-05-10,Arkövägen 1,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1949,[Kärrtorp],2150000,200000,2350000,3012,Notar,335.47262686282835,Karrtorp
+2014-05-09,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,9,Lägenhet,1950,[Kärrtorp],1295000,365000,1660000,1599,Fastighetsbyrån,49.07831076219705,Karrtorp
+2014-05-08,Fyrskeppsvägen 29,Kärrtorp,Grön Skarpnäck,3,68,1,Lägenhet,null,[Kärrtorp],2300000,110000,2410000,4070,Mäklarringen,695.702914605607,Hammarbyhajden
+2014-04-30,Arkövägen 9,Kärrtorp,Grön Skarpnäck,2,73,null,Lägenhet,1049,[Kärrtorp],2195000,515000,2710000,3172,MäklarMäster,292.3389512843854,Karrtorp
+2014-04-30,Fyrskeppsvägen 124,Kärrtorp,Grön Skarpnäck,1,28,3,Lägenhet,null,[Kärrtorp],1450000,60000,1510000,1643,Fastighetsbyrån,301.42153634859204,Karrtorp
+2014-04-30,Fyrskeppsvägen 37,Kärrtorp,Grön Skarpnäck,1,40,1,Lägenhet,1949,[Kärrtorp],1595000,0,1595000,2394,Notar,708.7566248348068,Bjarkhagen
+2014-04-25,Kärrtorpsvägen 7,Kärrtorp,Grön Skarpnäck,3,94,3,Lägenhet,2009,[Kärrtorp],3495000,505000,4000000,4601,Erik Olsson Fastighetsförmedling,312.4332267881468,Karrtorp
+2014-04-17,Kärrtorpsvägen 93,Kärrtorp,Grön Skarpnäck,1,27,2,Lägenhet,null,[Kärrtorp],1495000,155000,1650000,1793,Erik Olsson Fastighetsförmedling,192.40701841486586,Karrtorp
+2014-04-14,Söderarmsvägen 7,Kärrtorp,Grön Skarpnäck,3,71,1,Lägenhet,1949,[Kärrtorp],2800000,0,2800000,3606,Bjurfors,390.2563978874854,Karrtorp
+2014-04-04,Gåshällsvägen 8,Kärrtorp,Grön Skarpnäck,3,71,3,Lägenhet,null,[Kärrtorp],2195000,655000,2850000,4027,Fastighetsbyrån,417.3849501288166,Karrtorp
+2014-04-04,Arkövägen 7,Kärrtorp,Grön Skarpnäck,null,69,2,Lägenhet,null,[Kärrtorp],2495000,155000,2650000,3012,Svensk Fastighetsförmedling,301.4385798315395,Karrtorp
+2014-04-03,Söderarmsvägen 29,Kärrtorp,Grön Skarpnäck,2,46,null,Lägenhet,2008,[Kärrtorp],1700000,350000,2050000,3451,Svenska Mäklarhuset,191.8413732842057,Karrtorp
+2014-04-01,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,5,Lägenhet,1950,[Kärrtorp],1295000,315000,1610000,1599,MäklarMäster,49.07831076219705,Karrtorp
+2014-03-26,Gåshällsvägen 14,Kärrtorp,Grön Skarpnäck,3,59,3,Lägenhet,1951,[Kärrtorp],1795000,65000,1860000,3402,Bjurfors,395.297493069338,Karrtorp
+2014-03-21,Söderarmsvägen 10,Kärrtorp,Grön Skarpnäck,3,73,3,Lägenhet,1949,[Kärrtorp],2495000,105000,2600000,3822,Mäklarringen,418.04279350594754,Karrtorp
+2014-03-20,Arkövägen 25,Kärrtorp,Grön Skarpnäck,3,69,0.5,Lägenhet,1949,[Kärrtorp],2350000,200000,2550000,3012,Bjurfors,249.10947021035938,Karrtorp
+2014-03-13,Vikstensvägen 23,Kärrtorp,Grön Skarpnäck,4,87,2,Lägenhet,null,[Kärrtorp],2995000,230000,3225000,5349,Svensk Fastighetsförmedling,155.6641006021067,Karrtorp
+2014-03-12,Vikstensvägen 46,Kärrtorp,Grön Skarpnäck,3,71,1,Lägenhet,null,[Johanneshov],2495000,0,2495000,4027,Mäklarhuset,432.6994844132589,Karrtorp
+2014-03-06,Söderarmsvägen 8,Kärrtorp,Grön Skarpnäck,2.5,57,2,Lägenhet,1949,[Kärrtorp],1895000,215000,2110000,3102,Svenska Mäklarhuset,433.1222545675869,Karrtorp
+2014-02-26,Fyrskeppsvägen 116,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1947,[Kärrtorp],1750000,310000,2060000,3227,Notar,326.3427772324015,Karrtorp
+2014-02-20,Kärrtorpsvägen 6,Kärrtorp,Grön Skarpnäck,2,73.5,5,Lägenhet,2009,[Kärrtorp],2560000,415000,2975000,3759,Erik Olsson Fastighetsförmedling,304.8312925416716,Karrtorp
+2014-02-14,Vikstensvägen 46,Kärrtorp,Grön Skarpnäck,3,71,3,Lägenhet,1951,[Kärrtorp],2250000,-900000,1350000,4027,Bjurfors,432.6994844132589,Karrtorp
+2014-02-05,Fyrskeppsvägen 116,Kärrtorp,Grön Skarpnäck,2,55,2,Lägenhet,1949,[Kärrtorp],1695000,280000,1975000,3227,Svensk Fastighetsförmedling,326.3427772324015,Karrtorp
+2014-01-29,Fyrskeppsvägen 122,Kärrtorp,Grön Skarpnäck,1,28,3,Lägenhet,1947,[Kärrtorp],1395000,205000,1600000,1643,Notar,325.6696990660609,Karrtorp
+2014-01-23,Vikstensvägen 7,Kärrtorp,Grön Skarpnäck,1,41,2,Lägenhet,1950,[Enskededalen],1495000,205000,1700000,2521,SkandiaMäklarna,43.817353774105065,Karrtorp
+2014-01-22,Fyrskeppsvägen 112,Kärrtorp,Grön Skarpnäck,3,70,null,Lägenhet,1949,[Kärrtorp],2350000,10000,2360000,4107,Svensk Fastighetsförmedling,314.91074603551834,Karrtorp
+2014-01-21,Kärrtorpsvägen 91,Kärrtorp,Grön Skarpnäck,3,75,1,Lägenhet,1950,[Kärrtorp],2350000,300000,2650000,3950,HusmanHagberg,185.6773290255334,Karrtorp
+2014-01-20,Fyrskeppsvägen 43,Kärrtorp,Grön Skarpnäck,2,52,1,Lägenhet,1949,[Enskededalen],1595000,355000,1950000,3113,BOSTHLM,663.576426521101,Karrtorp
+2014-01-17,Fyrskeppsvägen 89,Kärrtorp,Grön Skarpnäck,3,72,1,Lägenhet,1949,[Kärrtorp],2450000,0,2450000,4224,HusmanHagberg,378.19906121578657,Karrtorp
+2014-01-17,Gåshällsvägen 8,Kärrtorp,Grön Skarpnäck,4,88,2,Lägenhet,null,[Johanneshov],2795000,555000,3350000,4914,Mäklarhuset,417.3849501288166,Karrtorp
+2014-01-16,Fyrskeppsvägen 62,Kärrtorp,Grön Skarpnäck,2,52,3,Lägenhet,1949,[Kärrtorp],1750000,230000,1980000,3113,Svensk Fastighetsförmedling,686.2595188136687,Karrtorp
+2014-01-15,Fyrskeppsvägen 30,Kärrtorp,Grön Skarpnäck,2,61,3,Lägenhet,1949,[Enskededalen],1875000,85000,1960000,3651,Fastighetsbyrån,650.5363543950593,Sandsborg
+2014-01-13,Gåshällsvägen 20,Kärrtorp,Grön Skarpnäck,3,59,null,Lägenhet,null,[Kärrtorp],1695000,505000,2200000,3402,Svensk Fastighetsförmedling,417.4496181483167,Karrtorp
+2013-12-16,Vikstensvägen 5,Kärrtorp,Grön Skarpnäck,5,126,3,Lägenhet,1950,[Kärrtorp],3395000,-95000,3300000,7747,Svensk Fastighetsförmedling,43.064750812516195,Karrtorp
+2013-12-12,Fyrskeppsvägen 58,Kärrtorp,Grön Skarpnäck,3,68,3,Lägenhet,1949,[Enskededalen],2195000,20000,2215000,4070,Fastighetsbyrån,701.5869853893493,Karrtorp
+2013-12-11,Fyrskeppsvägen 35,Kärrtorp,Grön Skarpnäck,2,53,2,Lägenhet,1949,[Kärrtorp],1850000,-100000,1750000,3172,MäklarMäster,704.1943790981911,Hammarbyhajden
+2013-12-03,Holmögaddsvägen 31,Kärrtorp,Grön Skarpnäck,3,76,2,Lägenhet,1960,[Enskededalen],2295000,105000,2400000,4042,SkandiaMäklarna,426.76228315777234,Karrtorp
+2013-11-27,Fyrskeppsvägen 96,Kärrtorp,Grön Skarpnäck,1,28,2,Lägenhet,1947,[Kärrtorp],1295000,235000,1530000,1643,Notar,361.34229514305184,Karrtorp
+2013-11-26,Fyrskeppsvägen 73,Kärrtorp,Grön Skarpnäck,3,72,1,Lägenhet,1949,[Kärrtorp],2350000,480000,2830000,4224,HusmanHagberg,405.007221135365,Karrtorp
+2013-11-23,Gåshällsvägen 18,Kärrtorp,Grön Skarpnäck,4,81,2,Lägenhet,1951,[Kärrtorp],2650000,295000,2945000,4548,Bjurfors,403.31438888482216,Karrtorp
+2013-11-22,Holmögaddsvägen 20,Kärrtorp,Grön Skarpnäck,3,84.2,3,Lägenhet,null,[Enskededalen],2395000,405000,2800000,4812,Fastighetsbyrån,384.2395476437791,Karrtorp
+2013-11-20,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,6,175,null,Lägenhet,1950,[Kärrtorp],4990000,60000,5050000,9899,MäklarMäster,49.07831076219705,Karrtorp
+2013-11-14,Gåshällsvägen 20,Kärrtorp,Grön Skarpnäck,3,70,0.5,Lägenhet,1951,[Kärrtorp],2250000,0,2250000,3975,Bjurfors,417.4496181483167,Karrtorp
+2013-11-13,Fyrskeppsvägen 87,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1949,[Enskededalen],1695000,0,1695000,3227,Fastighetsbyrån,380.1917430862021,Karrtorp
+2013-11-08,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,null,Lägenhet,1949,[Enskededalen],1350000,5000,1355000,1599,Fastighetsbyrån,49.07831076219705,Karrtorp
+2013-10-30,Söderarmsvägen 9,Kärrtorp,Grön Skarpnäck,2,59,2,Lägenhet,1949,[Johanneshov],1850000,200000,2050000,2854,Erik Olsson Fastighetsförmedling,376.6234629430431,Karrtorp
+2013-10-25,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,6,Lägenhet,1950,[Enskededalen],1345000,0,1345000,1599,SkandiaMäklarna,49.07831076219705,Karrtorp
+2013-10-12,Fyrskeppsvägen 126,Kärrtorp,Grön Skarpnäck,1,39,2,Lägenhet,null,[Johanneshov],1495000,45000,1540000,2288,Mäklarhuset,295.14032319945863,Karrtorp
+2013-10-10,Vikstensvägen 1,Kärrtorp,Grön Skarpnäck,2,58,null,Lägenhet,1950,[Kärrtorp],1795000,0,1795000,3567,Svensk Fastighetsförmedling,29.954485821205104,Karrtorp
+2013-10-03,Fyrskeppsvägen 79,Kärrtorp,Grön Skarpnäck,3,72,null,Lägenhet,1949,[Kärrtorp],2195000,65000,2260000,4224,Bjurfors,393.9777446720814,Karrtorp
+2013-09-19,Arkövägen 19,Kärrtorp,Grön Skarpnäck,4,82,3,Lägenhet,1949,[Kärrtorp],2925000,285000,3210000,3530,Länsförsäkringar Fastighetsförmedling,252.58135611860817,Karrtorp
+2013-09-12,Söderarmsvägen 10,Kärrtorp,Grön Skarpnäck,3,68,null,Lägenhet,null,[Kärrtorp],2195000,465000,2660000,3345,MäklarMäster,418.04279350594754,Karrtorp
+2013-09-11,Söderarmsvägen 15,Kärrtorp,Grön Skarpnäck,2,59,3,Lägenhet,null,[Kärrtorp],1875000,125000,2000000,2854,Mäklarhuset Lindroos & Hamstedt,333.7461314334835,Karrtorp
+2013-08-30,Fyrskeppsvägen 81,Kärrtorp,Grön Skarpnäck,3,72,3,Lägenhet,1949,[Kärrtorp],2450000,125000,2575000,3947,Mäklarringen,389.5059961290194,Karrtorp
+2013-08-24,Söderarmsvägen 20,Kärrtorp,Grön Skarpnäck,3.5,68,null,Lägenhet,1949,[Kärrtorp],2195000,255000,2450000,3345,Svensk Fastighetsförmedling,347.0151921434813,Karrtorp
+2013-08-22,Karlsövägen 3,Kärrtorp,Grön Skarpnäck,3,65,null,Lägenhet,2008,[Enskededalen],2295000,-45000,2250000,4361,Fastighetsbyrån,145.9924761096362,Karrtorp
+2013-08-22,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,null,Lägenhet,null,[Kärrtorp],1290000,135000,1425000,1599,MäklarMäster,49.07831076219705,Karrtorp
+2013-08-20,Fyrskeppsvägen 134,Kärrtorp,Grön Skarpnäck,2,55,null,Lägenhet,1949,[Kärrtorp],1750000,210000,1960000,3015,HusmanHagberg,351.2936524709675,Karrtorp
+2013-08-19,Fyrskeppsvägen 120,Kärrtorp,Grön Skarpnäck,1,39,null,Lägenhet,1949,[Kärrtorp],1750000,-150000,1600000,2138,Svenska Mäklarhuset,334.2418289047833,Karrtorp
+2013-08-16,Holmögaddsvägen 22,Kärrtorp,Grön Skarpnäck,3,81.8,null,Lägenhet,1998,[Enskededalen],2100000,500000,2600000,4718,Fastighetsbyrån,405.36733811020446,Karrtorp
+2013-08-01,Söderarmsvägen 13,Kärrtorp,Grön Skarpnäck,3,71,3,Lägenhet,1949,[Kärrtorp],2195000,55000,2250000,3434,Svensk Fastighetsförmedling,346.7903290337141,Karrtorp
+2013-07-26,Fyrskeppsvägen 38,Kärrtorp,Grön Skarpnäck,3.5,73,2,Lägenhet,null,[Johanneshov],2150000,390000,2540000,4370,Mäklarhuset,686.0377550729821,Blasut
+2013-07-05,Fyrskeppsvägen 39,Kärrtorp,Grön Skarpnäck,1,40,3,Lägenhet,null,[Johanneshov],1395000,255000,1650000,2394,Mäklarhuset,700.1843222074485,Bjarkhagen
+2013-07-05,Fyrskeppsvägen 30,Kärrtorp,Grön Skarpnäck,3.5,76,null,Lägenhet,1949,[Enskededalen],2350000,-50000,2300000,4549,Fastighetsbyrån,650.5363543950593,Sandsborg
+2013-06-20,Fyrskeppsvägen 100,Kärrtorp,Grön Skarpnäck,2,39,null,Lägenhet,1949,[Enskededalen],1495000,0,1495000,2138,Fastighetsbyrån,335.94056218111774,Karrtorp
+2013-06-20,Fyrskeppsvägen 100,Kärrtorp,Grön Skarpnäck,1,39,null,Lägenhet,1949,[Enskededalen],1495000,0,1495000,2138,Fastighetsbyrån,335.94056218111774,Karrtorp
+2013-06-11,Fyrskeppsvägen 85,Kärrtorp,Grön Skarpnäck,2,55,3,Lägenhet,1949,[Kärrtorp],1750000,0,1750000,3015,Svensk Fastighetsförmedling,379.53698796882276,Karrtorp
+2013-06-10,Fyrskeppsvägen 38,Kärrtorp,Grön Skarpnäck,3,73,3,Lägenhet,null,[Johanneshov],1995000,235000,2230000,4370,Mäklarhuset,686.0377550729821,Blasut
+2013-06-10,Kärrtorpsvägen 6,Kärrtorp,Grön Skarpnäck,4,107,null,Lägenhet,2009,[Johanneshov],3975000,0,3975000,5134,Mäklarhuset,304.8312925416716,Karrtorp
+2013-06-09,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,3,66,null,Lägenhet,1950,[Enskededalen],1995000,5000,2000000,4058,Fastighetsbyrån,49.07831076219705,Karrtorp
+2013-06-05,Söderarmsvägen 14,Kärrtorp,Grön Skarpnäck,2,57,3,Lägenhet,1949,[Kärrtorp],1695000,255000,1950000,2872,Svensk Fastighetsförmedling,389.739405653262,Karrtorp
+2013-06-04,Fyrskeppsvägen 100,Kärrtorp,Grön Skarpnäck,3,69,null,Lägenhet,1949,[Kärrtorp],2095000,355000,2450000,3782,Svensk Fastighetsförmedling,335.94056218111774,Karrtorp
+2013-05-30,Fyrskeppsvägen 73,Kärrtorp,Grön Skarpnäck,2,55,2,Lägenhet,1949,[Kärrtorp],1745000,85000,1830000,3015,Svenska Mäklarhuset,405.007221135365,Karrtorp
+2013-05-30,Fyrskeppsvägen 128,Kärrtorp,Grön Skarpnäck,4,89,2,Lägenhet,1949,[Kärrtorp],2900000,300000,3200000,4879,Mäklarringen,294.83747205082005,Karrtorp
+2013-05-30,Fyrskeppsvägen 76,Kärrtorp,Grön Skarpnäck,2,52,3,Lägenhet,null,[Hammarby],1525000,215000,1740000,3113,Erik Olsson Fastighetsförmedling,613.3560287594713,Karrtorp
+2013-05-24,Fyrskeppsvägen 94,Kärrtorp,Grön Skarpnäck,3,69,null,Lägenhet,1949,[Kärrtorp],2190000,340000,2530000,3782,HusmanHagberg,376.0052375201051,Karrtorp
+2013-05-21,Vikstensvägen 17,Kärrtorp,Grön Skarpnäck,3,69,null,Lägenhet,null,[Kärrtorp],2090000,180000,2270000,4243,MäklarMäster,74.0726503666035,Karrtorp
+2013-05-17,Fyrskeppsvägen 40,Kärrtorp,Grön Skarpnäck,3,73,3,Lägenhet,null,[Enskededalen],1975000,-40000,1935000,4370,ERA,702.8433706644889,Sandsborg
+2013-05-16,Holmögaddsvägen 37,Kärrtorp,Grön Skarpnäck,3,76,1,Lägenhet,null,[Kärrtorp],2500000,0,2500000,4042,Erik Olsson Fastighetsförmedling,473.2016459534132,Karrtorp
+2013-05-16,Arkövägen 27,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1949,[Enskededalen],2200000,260000,2460000,3012,Länsförsäkringar Fastighetsförmedling,249.63143129845466,Karrtorp
+2013-05-08,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,null,Lägenhet,null,[Kärrtorp],1250000,10000,1260000,1599,MäklarMäster,49.07831076219705,Karrtorp
+2013-05-07,Fyrskeppsvägen 98,Kärrtorp,Grön Skarpnäck,1,28,2,Lägenhet,1949,[Kärrtorp],1250000,250000,1500000,1535,Mäklarringen,346.2703450320568,Karrtorp
+2013-05-04,Karlsövägen 3,Kärrtorp,Grön Skarpnäck,4,83,null,Lägenhet,2008,[Enskededalen],2895000,-45000,2850000,5263,Fastighetsbyrån,145.9924761096362,Karrtorp
+2013-04-26,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,1,26,8,Lägenhet,1950,[Kärrtorp],1250000,150000,1400000,1598,Svenska Mäklarhuset,49.07831076219705,Karrtorp
+2013-04-19,Fyrskeppsvägen 30,Kärrtorp,Grön Skarpnäck,3,76,null,Lägenhet,null,[Johanneshov],2050000,75000,2125000,4549,Mäklarhuset,650.5363543950593,Sandsborg
+2013-04-18,Söderarmsvägen 5,Kärrtorp,Grön Skarpnäck,2,59,null,Lägenhet,1949,[Enskededalen],1650000,180000,1830000,2854,Fastighetsbyrån,407.36456492871383,Karrtorp
+2013-04-16,Fyrskeppsvägen 118,Kärrtorp,Grön Skarpnäck,2,55,1,Lägenhet,1949,[Johanneshov],1695000,205000,1900000,3015,Svensk Fastighetsförmedling,337.1035539713623,Bjarkhagen
+2013-04-14,Karlsövägen 1,Kärrtorp,Grön Skarpnäck,2,49,null,Lägenhet,2008,[Johanneshov],1795000,40000,1835000,3731,Svensk Fastighetsförmedling,159.19707914643809,Karrtorp
+2013-04-13,Arkövägen 9,Kärrtorp,Grön Skarpnäck,4,82,null,Lägenhet,1949,[Enskededalen],3100000,195000,3295000,3530,Fastighetsbyrån,292.3389512843854,Karrtorp
+2013-03-28,Fyrskeppsvägen 138,Kärrtorp,Grön Skarpnäck,2,55,null,Lägenhet,null,[Kärrtorp],1595000,65000,1660000,3015,Mäklarringen,354.6424336311547,Karrtorp
+2013-03-28,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,3,66,null,Lägenhet,null,[Kärrtorp],2090000,420000,2510000,4059,MäklarMäster,49.07831076219705,Karrtorp
+2013-03-23,Karlsövägen 3,Kärrtorp,Grön Skarpnäck,4,94,null,Lägenhet,2008,[Enskededalen],3195000,105000,3300000,5812,Fastighetsbyrån,145.9924761096362,Karrtorp
+2013-03-13,Söderarmsvägen 27,Kärrtorp,Grön Skarpnäck,3,75,1,Lägenhet,2008,[Enskededalen],2395000,0,2395000,4911,Länsförsäkringar Fastighetsförmedling,215.80107496928932,Karrtorp
+2013-02-26,Kärrtorpsvägen 6,Kärrtorp,Grön Skarpnäck,4,107,null,Lägenhet,null,[Årsta Skarpnäck],3950000,0,3950000,5324,Hemverket,304.8312925416716,Karrtorp
+2013-02-21,Fyrskeppsvägen 118,Kärrtorp,Grön Skarpnäck,2,56,2,Lägenhet,1949,[Johanneshov],1695000,215000,1910000,3070,Svensk Fastighetsförmedling,337.1035539713623,Bjarkhagen
+2013-02-09,Kärrtorpsvägen 91,Kärrtorp,Grön Skarpnäck,1,27,1,Lägenhet,1950,[Kärrtorp],1095000,235000,1330000,1793,RE/MAX Sverige,185.6773290255334,Karrtorp
+2013-01-27,Vikstensvägen 25,Kärrtorp,Grön Skarpnäck,3,69,null,Lägenhet,1950,[Kärrtorp],1995000,230000,2225000,4243,SkandiaMäklarna,180.5022869848502,Karrtorp
+2013-01-25,Söderarmsvägen 29,Kärrtorp,Grön Skarpnäck,3,83,null,Lägenhet,2008,[Kärrtorp],2700000,-200000,2500000,5159,HusmanHagberg,191.8413732842057,Karrtorp
+2013-01-18,Arkövägen 13,Kärrtorp,Grön Skarpnäck,2,58,3,Lägenhet,1949,[Johanneshov],1995000,80000,2075000,2490,Svenska Mäklarhuset,262.51368343858195,Karrtorp
+2013-01-17,Fyrskeppsvägen 45,Kärrtorp,Grön Skarpnäck,3,70,2,Lägenhet,1949,[Johanneshov],2100000,-90000,2010000,3810,Mäklarhuset,649.8673454534935,Karrtorp
+2013-01-15,Kärrtorpsvägen 6,Kärrtorp,Grön Skarpnäck,2,59,null,Lägenhet,2009,[Hammarbyhöjden],1950000,240000,2190000,3136,Fastighetsbyrån,304.8312925416716,Karrtorp
+2012-12-20,Söderarmsvägen 11,Kärrtorp,Grön Skarpnäck,2.5,59,3,Lägenhet,1949,[Kärrtorp],1695000,125000,1820000,2854,SkandiaMäklarna,363.3205649062877,Karrtorp
+2012-12-12,Fyrskeppsvägen 17,Kärrtorp,Grön Skarpnäck,2,61,2,Lägenhet,1949,[Johanneshov],1550000,125000,1675000,3265,Mäklarhuset,624.2880977767667,Blasut
+2012-12-10,Huvudskärsvägen 9,Kärrtorp,Grön Skarpnäck,2,57,3,Lägenhet,1949,[Kärrtorp],1895000,0,1895000,2816,Svenska Mäklarhuset,445.7192155036779,Karrtorp
+2012-12-04,Fyrskeppsvägen 78,Kärrtorp,Grön Skarpnäck,2,61,2,Lägenhet,1949,[Johanneshov],1650000,0,1650000,3320,Mäklarhuset,627.1757026379195,Karrtorp
+2012-11-30,Fyrskeppsvägen 122,Kärrtorp,Grön Skarpnäck,1,28,null,Lägenhet,1949,[Enskededalen],1150000,230000,1380000,1535,Fastighetsbyrån,325.6696990660609,Karrtorp
+2012-11-08,Vikstensvägen 5,Kärrtorp,Grön Skarpnäck,5,126,null,Lägenhet,null,[Kärrtorp],3295000,-100000,3195000,7378,MäklarMäster,43.064750812516195,Karrtorp
+2012-11-08,Arkövägen 5,Kärrtorp,Grön Skarpnäck,4,87,null,Lägenhet,1949,[Enskededalen],2750000,80000,2830000,3617,Fastighetsbyrån,316.31475002658306,Karrtorp
+2012-10-31,Fyrskeppsvägen 100,Kärrtorp,Grön Skarpnäck,1,39,null,Lägenhet,1949,[Kärrtorp],1325000,0,1325000,2138,Bjurfors,335.94056218111774,Karrtorp
+2012-10-29,Söderarmsvägen 18,Kärrtorp,Grön Skarpnäck,3,68,null,Lägenhet,1949,[Kärrtorp],1950000,110000,2060000,3280,Balders Ädelmarks,362.1281811885631,Karrtorp
+2012-10-27,Fyrskeppsvägen 50,Kärrtorp,Grön Skarpnäck,4,88,null,Lägenhet,1949,[Johanneshov],3100000,-300000,2800000,4789,Svensk Fastighetsförmedling,702.6602400208063,Karrtorp
+2012-10-25,Söderarmsvägen 19,Kärrtorp,Grön Skarpnäck,2.5,59,null,Lägenhet,1949,[Kärrtorp],1695000,95000,1790000,2718,SkandiaMäklarna,301.6994556282633,Karrtorp
+2012-10-23,Kärrtorpsvägen 34,Kärrtorp,Grön Skarpnäck,3,66,7,Lägenhet,null,[Kärrtorp],2150000,-165000,1985000,3681,MäklarMäster,49.07831076219705,Karrtorp
+2012-10-22,Fyrskeppsvägen 124,Kärrtorp,Grön Skarpnäck,3,69,null,Lägenhet,1949,[Johanneshov],1850000,0,1850000,3782,Svensk Fastighetsförmedling,301.42153634859204,Karrtorp
+2012-10-19,Fyrskeppsvägen 54,Kärrtorp,Grön Skarpnäck,2,52,null,Lägenhet,1949,[Enskededalen],1670000,-30000,1640000,2830,Fastighetsbyrån,731.1832827658927,Karrtorp
+2012-10-15,Vikstensvägen 13,Kärrtorp,Grön Skarpnäck,3,69,2,Lägenhet,1950,[Enskededalen],2100000,-125000,1975000,4040,Länsförsäkringar Fastighetsförmedling,86.93016288750351,Karrtorp
+2012-10-07,Fyrskeppsvägen 46,Kärrtorp,Grön Skarpnäck,3,68,null,Lägenhet,1949,[Enskededalen],1995000,-45000,1950000,3700,Fastighetsbyrån,694.3235639889754,Sandsborg
+2012-09-21,Fyrskeppsvägen 81,Kärrtorp,Grön Skarpnäck,3,72,null,Lägenhet,1949,[Enskededalen],1895000,505000,2400000,3947,Fastighetsbyrån,389.5059961290194,Karrtorp
+2012-09-06,Fyrskeppsvägen 50,Kärrtorp,Grön Skarpnäck,3,71,null,Lägenhet,1949,[Johanneshov],1950000,70000,2020000,3864,Mäklarhuset,702.6602400208063,Karrtorp
+2012-08-28,Holmögaddsvägen 31,Kärrtorp,Grön Skarpnäck,3,76,3,Lägenhet,1960,[Enskededalen],1895000,125000,2020000,4042,SkandiaMäklarna,426.76228315777234,Karrtorp

@@ -1,0 +1,636 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-06,Fregattvägen 67,Gröndal,Röd Norsborg,2,46,2,Lägenhet,1943,[Gröndal],2195000,830000,3025000,3303,Notar,749.6727587274838,Aspudden
+2016-05-05,Gröndalsvägen 106,Gröndal,Röd Norsborg,2,43,3,Lägenhet,1957,[Gröndal],2350000,360000,2710000,2560,Mäklarhuset,1003.4902040794123,Aspudden
+2016-05-05,Lustigkullavägen 7,Gröndal,Röd Norsborg,2,62,null,Lägenhet,1986,[Gröndal],2795000,805000,3600000,3604,Notar,793.0662438611068,Liljeholmen
+2016-05-04,Ekensbergsvägen 15,Gröndal,Röd Norsborg,3,80,1,Lägenhet,1981,[Gröndal],3995000,605000,4600000,2535,Notar,1003.200384842653,Ornsberg
+2016-05-04,Maskinistgatan 17,Gröndal,Röd Norsborg,1,41,1,Lägenhet,1911,[Gröndal],2395000,820000,3215000,1978,Notar,814.6906317097794,Liljeholmen
+2016-05-03,Fregattvägen 85,Gröndal,Röd Norsborg,2,46,3,Lägenhet,null,[Gröndal],2195000,555000,2750000,3303,Svenska Mäklarhuset,805.4612210116603,Aspudden
+2016-04-29,Gröndalsvägen 141,Gröndal,Röd Norsborg,4,91,1,Lägenhet,1981,[Gröndal],4495000,805000,5300000,4031,Notar,927.2073755550592,Ornsberg
+2016-04-28,Sannadalsvägen 4,Gröndal,Röd Norsborg,1,33,2,Lägenhet,1938,[Gröndal],1995000,525000,2520000,2332,Notar,674.1501808331539,Liljeholmen
+2016-04-28,Fregattvägen 59,Gröndal,Röd Norsborg,2,46,2,Lägenhet,1943,[Gröndal],2195000,430000,2625000,3303,Notar,788.1669078602747,Aspudden
+2016-04-22,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,25,1,Lägenhet,1947,[Gröndal],2250000,0,2250000,1394,BOSTHLM,1052.7135972482408,Aspudden
+2016-04-22,Jungmansgränd 14,Gröndal,Röd Norsborg,5,112,null,Lägenhet,1949,[Gröndal],7500000,1975000,9475000,6874,BOSTHLM,1007.2185362659259,Liljeholmen
+2016-04-21,Gröndalsvägen 164,Gröndal,Röd Norsborg,3,68,null,Lägenhet,1981,[Gröndal],3695000,905000,4600000,2154,Notar,943.2437227182793,Ornsberg
+2016-04-19,Gröndalsvägen 120,Gröndal,Röd Norsborg,3,74,5,Lägenhet,1959,[Gröndal],3695000,555000,4250000,3606,Notar,994.9973588091256,Aspudden
+2016-04-19,Lustigkullavägen 7,Gröndal,Röd Norsborg,4,83.5,null,Lägenhet,1986,[Gröndal],4495000,1380000,5875000,4745,Notar,793.0662438611068,Liljeholmen
+2016-04-18,Sjöbjörnsvägen 4,Gröndal,Röd Norsborg,4,58,1,Lägenhet,null,[Gröndal],3295000,380000,3675000,3650,Svenska Mäklarhuset,933.8127790616779,Liljeholmen
+2016-04-18,Sjöbjörnsvägen 31,Gröndal,Röd Norsborg,6,126,null,Villa,null,[Gröndal],10250000,1400000,11650000,null,Svenska Mäklarhuset,1261.6989084881097,Aspudden
+2016-04-14,Fregattvägen 74,Gröndal,Röd Norsborg,2,53,3,Lägenhet,1943,[Gröndal],2495000,905000,3400000,3808,Notar,841.5291316639731,Aspudden
+2016-04-14,Lustigkullavägen 4,Gröndal,Röd Norsborg,2,73,1,Lägenhet,1913,[Gröndal],4195000,1030000,5225000,3328,Bjurfors,787.3834050000445,Liljeholmen
+2016-04-14,Gröndalsvägen 115,Gröndal,Röd Norsborg,4,87,5,Lägenhet,2009,[Gröndal],4995000,580000,5575000,4789,Fastighetsbyrån,963.8313418535242,Aspudden
+2016-04-12,Grenljusbacken 26,Gröndal,Röd Norsborg,3,74.5,8,Lägenhet,1959,[Gröndal],3995000,505000,4500000,3637,Notar,780.4889122038155,Liljeholmen
+2016-04-09,Sjöbjörnsvägen 38,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],3195000,225000,3420000,3651,Fastighetsbyrån,1006.5547819677076,Liljeholmen
+2016-04-06,Sjöbjörnsvägen 46,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],3195000,230000,3425000,3650,Notar,1018.3508707157561,Liljeholmen
+2016-03-31,Ljusstöparbacken 5,Gröndal,Röd Norsborg,1,22,null,Lägenhet,1961,[Gröndal],1495000,530000,2025000,1123,Svensk Fastighetsförmedling,776.1320894840586,Liljeholmen
+2016-03-29,Fregattvägen 56,Gröndal,Röd Norsborg,3,57,3,Lägenhet,1945,[Gröndal],2650000,1200000,3850000,3237,Notar,813.3712851567265,Aspudden
+2016-03-24,Gröndalsvägen 17,Gröndal,Röd Norsborg,1.5,43,3,Lägenhet,1933,[Gröndal],2495000,1105000,3600000,2671,Länsförsäkringar Fastighetsförmedling,718.233033950459,Liljeholmen
+2016-03-24,Sjöbjörnsvägen 13,Gröndal,Röd Norsborg,2,45,1,Lägenhet,null,[Gröndal],2595000,515000,3110000,2854,Svensk Fastighetsförmedling,1064.6334781330481,Liljeholmen
+2016-03-24,Sjöbjörnsvägen 9,Gröndal,Röd Norsborg,3,66,3,Lägenhet,1949,[Gröndal],3995000,1015000,5010000,4160,Innerstadsspecialisten AB,1032.9963153604322,Liljeholmen
+2016-03-23,Sjöbjörnsvägen 18,Gröndal,Röd Norsborg,4.5,116,2,Lägenhet,1946,[Gröndal],8495000,0,8495000,7301,Notar,1032.921793357471,Liljeholmen
+2016-03-18,Jungmansgränd 2,Gröndal,Röd Norsborg,1,31,2,Lägenhet,1907,[Gröndal],2150000,495000,2645000,1882,Notar,1046.5248169267632,Liljeholmen
+2016-03-18,Sjöbjörnsvägen 52,Gröndal,Röd Norsborg,1,29,null,Lägenhet,1946,[Gröndal],1995000,255000,2250000,1825,Notar,1046.9240195331442,Liljeholmen
+2016-03-16,Gröndalsvägen 39,Gröndal,Röd Norsborg,2,52,4,Lägenhet,1913,[Gröndal],3795000,105000,3900000,3120,Svensk Fastighetsförmedling,887.0529749006928,Liljeholmen
+2016-03-10,Fregattvägen 36,Gröndal,Röd Norsborg,2,47,3,Lägenhet,1946,[Gröndal],2095000,625000,2720000,3196,Notar,850.3853312728336,Aspudden
+2016-03-07,Sjöbjörnsvägen 52,Gröndal,Röd Norsborg,2,47,null,Lägenhet,1946,[Gröndal],2495000,705000,3200000,2958,Notar,1046.9240195331442,Liljeholmen
+2016-03-03,Sannadalsvägen 16,Gröndal,Röd Norsborg,2,45,3,Lägenhet,1938,[Gröndal],2450000,400000,2850000,3075,HusmanHagberg,732.2886286211271,Liljeholmen
+2016-03-02,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2.5,60,1,Lägenhet,null,[Gröndal],3195000,885000,4080000,4356,Länsförsäkringar Fastighetsförmedling,1220.5225971373213,Liljeholmen
+2016-02-26,Gröndalsvägen 36,Gröndal,Röd Norsborg,2,64,3,Lägenhet,1963,[Gröndal],3195000,1105000,4300000,974,Notar,888.1174312971111,Liljeholmen
+2016-02-26,Gröndalsvägen 214,Gröndal,Röd Norsborg,3,87.5,4,Lägenhet,null,[Gröndal],4795000,1855000,6650000,5333,Svenska Mäklarhuset,1141.6684755337646,Ornsberg
+2016-02-21,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,2,66,2,Lägenhet,null,[Gröndal],3545000,605000,4150000,3879,BOSTHLM,962.1916454897391,Liljeholmen
+2016-02-19,Sannadalsvägen 22,Gröndal,Röd Norsborg,2,45,2,Lägenhet,1938,[Gröndal],2295000,605000,2900000,3045,Fastighetsbyrån,704.8583682580854,Liljeholmen
+2016-02-18,Gröndalsvägen 175,Gröndal,Röd Norsborg,3,83,5,Lägenhet,1981,[Gröndal],4295000,1505000,5800000,4292,Notar,1096.8107420961835,Ornsberg
+2016-02-17,Fregattvägen 87,Gröndal,Röd Norsborg,2,46,2,Lägenhet,1943,[Gröndal],2595000,615000,3210000,3428,Bjurfors,805.5055072409189,Aspudden
+2016-02-17,Sjöbjörnsvägen 34,Gröndal,Röd Norsborg,2,58,1,Lägenhet,1946,[Gröndal],2995000,355000,3350000,3651,Södermäklarna,978.4270700440306,Liljeholmen
+2016-02-16,Gröndalshamnen 1,Gröndal,Röd Norsborg,2,61,4,Lägenhet,1911,[Gröndal],3695000,755000,4450000,2700,Notar,829.1512687294598,Liljeholmen
+2016-02-10,Jungmansgränd 2,Gröndal,Röd Norsborg,2,55,4,Lägenhet,1907,[Gröndal],3295000,805000,4100000,3523,Notar,1046.5248169267632,Liljeholmen
+2016-02-10,Gröndalsvägen 181,Gröndal,Röd Norsborg,5,104,1,Lägenhet,1982,[Gröndal],4995000,1105000,6100000,5246,Notar,1100.6823603286903,Ornsberg
+2016-02-10,Gröndalsvägen 164,Gröndal,Röd Norsborg,2,68,null,Lägenhet,1981,[Gröndal],2995000,355000,3350000,2154,Notar,943.2437227182793,Ornsberg
+2016-02-10,Gröndalshamnen 1,Gröndal,Röd Norsborg,1,37,2,Lägenhet,1911,[Gröndal],2395000,1105000,3500000,1755,Notar,829.1512687294598,Liljeholmen
+2016-02-10,Sjöbjörnsvägen 40,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],2995000,355000,3350000,3650,Notar,1035.3319317642802,Liljeholmen
+2016-02-10,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,6,Lägenhet,null,[Gröndal],3295000,755000,4050000,2952,Svenska Mäklarhuset,938.5174965134896,Aspudden
+2016-02-04,Gröndalsvägen 34,Gröndal,Röd Norsborg,5,125,null,Lägenhet,1963,[Gröndal],5995000,2855000,8850000,1743,Innerstadsspecialisten AB,869.5435126819624,Liljeholmen
+2016-02-04,Sannadalsvägen 8,Gröndal,Röd Norsborg,1,33,3,Lägenhet,1938,[Gröndal],1995000,525000,2520000,2352,Länsförsäkringar Fastighetsförmedling,656.7708616927393,Liljeholmen
+2016-02-03,Sannadalsvägen 18,Gröndal,Röd Norsborg,2,45,2,Lägenhet,1930,[Gröndal],2350000,570000,2920000,2982,Fastighetsbyrån,721.7737390042629,Liljeholmen
+2016-02-02,Sjöbjörnsvägen 18,Gröndal,Röd Norsborg,2,58,2,Lägenhet,1946,[Gröndal],3195000,-95000,3100000,3650,Svensk Fastighetsförmedling,1032.921793357471,Liljeholmen
+2016-02-01,Jungmansgränd 2,Gröndal,Röd Norsborg,1,31,1,Lägenhet,1907,[Gröndal],1995000,830000,2825000,1882,Notar,1046.5248169267632,Liljeholmen
+2016-02-01,Fregattvägen 50,Gröndal,Röd Norsborg,2,44.5,2,Lägenhet,1946,[Gröndal],1995000,505000,2500000,3026,Notar,817.2745710675913,Aspudden
+2016-01-30,Skonertvägen 9A,Gröndal,Röd Norsborg,1.5,37,4,Lägenhet,1990,[Gröndal],1995000,395000,2390000,2253,Fastighetsbyrån,773.3775811104011,Aspudden
+2016-01-27,Lustigkullavägen 7,Gröndal,Röd Norsborg,3,62,null,Lägenhet,null,[Hägersten-Liljeholmen],2995000,755000,3750000,3668,Erik Olsson Fastighetsförmedling,793.0662438611068,Liljeholmen
+2016-01-27,Sannadalsvägen 8,Gröndal,Röd Norsborg,2,45,3,Lägenhet,null,[Gröndal],2350000,750000,3100000,3012,Svenska Mäklarhuset,656.7708616927393,Liljeholmen
+2016-01-25,Ljusstöparbacken 7B,Gröndal,Röd Norsborg,1,24,null,Lägenhet,1959,[Gröndal],1995000,15000,2010000,1225,Notar,818.014788254863,Liljeholmen
+2016-01-25,Gröndalsvägen 196,Gröndal,Röd Norsborg,2,68,3,Lägenhet,1981,[Gröndal],2995000,905000,3900000,3055,Notar,1092.1476068175134,Ornsberg
+2016-01-22,Eldarvägen 4,Gröndal,Röd Norsborg,2,30.5,4,Lägenhet,1924,[Gröndal],2295000,655000,2950000,1582,Fastighetsbyrån,834.076824418034,Liljeholmen
+2016-01-21,Gröndalsvägen 25,Gröndal,Röd Norsborg,3,69,2,Lägenhet,1913,[Gröndal],3950000,1360000,5310000,3188,Fastighetsbyrån,809.0067854407367,Liljeholmen
+2016-01-15,Sjöbjörnsvägen 46,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],3195000,205000,3400000,3650,Notar,1018.3508707157561,Liljeholmen
+2016-01-14,Fregattvägen 64,Gröndal,Röd Norsborg,2,41,3,Lägenhet,null,[Gröndal],2195000,565000,2760000,2434,Fastighetsbyrån,821.1633189429306,Aspudden
+2016-01-14,Fregattvägen 42A,Gröndal,Röd Norsborg,1,33,null,Lägenhet,1946,[Gröndal],1850000,720000,2570000,2244,Notar,832.5847791912031,Aspudden
+2015-12-16,Gröndalsvägen 115,Gröndal,Röd Norsborg,2,46,4,Lägenhet,2009,[Gröndal],2495000,480000,2975000,3089,Notar,963.8313418535242,Aspudden
+2015-12-16,Ekensbergsvägen 118,Gröndal,Röd Norsborg,2,52,3,Lägenhet,1947,[Gröndal],2495000,380000,2875000,2902,Svensk Fastighetsförmedling,1052.7135972482408,Aspudden
+2015-12-11,Sjöbjörnsvägen 50,Gröndal,Röd Norsborg,2,47,null,Lägenhet,1946,[Gröndal],2495000,305000,2800000,2959,Notar,1027.0259236450909,Liljeholmen
+2015-12-11,Gröndalsvägen 188,Gröndal,Röd Norsborg,4,90,5,Lägenhet,1981,[Gröndal],4395000,1305000,5700000,4043,Notar,1054.3235779166894,Ornsberg
+2015-12-11,Sjöbjörnsvägen 26,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],3450000,70000,3520000,3650,Notar,995.078610708537,Liljeholmen
+2015-12-11,Gröndalsvägen 115,Gröndal,Röd Norsborg,3,79,0.5,Lägenhet,2009,[Hägersten-Liljeholmen],3850000,400000,4250000,4381,SkandiaMäklarna,963.8313418535242,Aspudden
+2015-12-11,Gröndalsvägen 202,Gröndal,Röd Norsborg,2,70,1,Lägenhet,1982,[Hägersten-Liljeholmen],2950000,250000,3200000,3295,Mäklarhuset,1097.5083551006517,Ornsberg
+2015-12-10,Eldarvägen 2,Gröndal,Röd Norsborg,2,44,4,Lägenhet,1925,[Gröndal],2495000,480000,2975000,2095,Carl Martin Fastighetsmäkleri,839.2044652430097,Liljeholmen
+2015-11-30,Sjöbjörnsvägen 15D,Gröndal,Röd Norsborg,3,73,null,Lägenhet,null,[Gröndal],3495000,340000,3835000,4649,Svenska Mäklarhuset,1088.9017906894812,Liljeholmen
+2015-11-29,Lustigkullavägen 7,Gröndal,Röd Norsborg,4,91.5,2,Lägenhet,1985,[Gröndal],4750000,0,4750000,4717,Bjurfors,793.0662438611068,Liljeholmen
+2015-11-27,Gröndalsvägen 202,Gröndal,Röd Norsborg,2,68,6,Lägenhet,1982,[Gröndal],2995000,785000,3780000,3055,Svensk Fastighetsförmedling,1097.5083551006517,Ornsberg
+2015-11-26,Sjöbjörnsvägen 4,Gröndal,Röd Norsborg,4,101,3,Lägenhet,1946,[Gröndal],5995000,1205000,7200000,5916,Fastighetsbyrån,933.8127790616779,Liljeholmen
+2015-11-26,Maskinistgatan 9,Gröndal,Röd Norsborg,1,23.5,3,Lägenhet,1932,[Gröndal],1795000,445000,2240000,1894,Bjurfors,856.272203155781,Liljeholmen
+2015-11-19,Ormbergsvägen 16,Gröndal,Röd Norsborg,3.5,93,4,Lägenhet,2002,[Gröndal],4995000,455000,5450000,5406,Fastighetsbyrån,1151.6354119477216,Liljeholmen
+2015-11-19,Ormbergsvägen 11,Gröndal,Röd Norsborg,3,89,2,Lägenhet,1946,[Gröndal],4995000,680000,5675000,5038,Fastighetsbyrån,1080.5726897554032,Liljeholmen
+2015-11-19,Gröndalsvägen 115,Gröndal,Röd Norsborg,3,79,2,Lägenhet,2009,[Gröndal],3895000,665000,4560000,4381,Notar,963.8313418535242,Aspudden
+2015-11-17,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,3,70,2,Lägenhet,1949,[Gröndal],4400000,0,4400000,4115,BOSTHLM,962.1916454897391,Liljeholmen
+2015-11-13,Gröndalsvägen 198,Gröndal,Röd Norsborg,5,139,5,Lägenhet,1981,[Gröndal],6295000,805000,7100000,6245,Notar,1090.3076047310474,Ornsberg
+2015-11-13,Sjöbjörnsvägen 14,Gröndal,Röd Norsborg,2.5,58,null,Lägenhet,1946,[Gröndal],3475000,500000,3975000,3650,Notar,982.7781132948578,Liljeholmen
+2015-11-13,Sjöbjörnsvägen 12,Gröndal,Röd Norsborg,4,102,null,Lägenhet,1946,[Gröndal],5995000,1630000,7625000,5916,Notar,955.849628088961,Liljeholmen
+2015-11-13,Sannadalsvägen 12,Gröndal,Röd Norsborg,3,63,2,Lägenhet,1938,[Gröndal],3095000,295000,3390000,3794,Fastighetsbyrån,692.9921604759633,Liljeholmen
+2015-11-12,Gröndalsvägen 39,Gröndal,Röd Norsborg,2,52,1,Lägenhet,1913,[Gröndal],3795000,815000,4610000,2866,Svensk Fastighetsförmedling,887.0529749006928,Liljeholmen
+2015-11-06,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,9,Lägenhet,1959,[Gröndal],3995000,1375000,5370000,3560,Notar,715.5983881864446,Liljeholmen
+2015-11-05,Gröndalsvägen 50,Gröndal,Röd Norsborg,2,68,3,Lägenhet,1951,[Gröndal],3950000,1400000,5350000,3994,Notar,964.9251554835548,Liljeholmen
+2015-11-05,Ljusstöparbacken 7A,Gröndal,Röd Norsborg,2,57.5,1,Lägenhet,1959,[Gröndal],2795000,215000,3010000,2703,Notar,813.2055139898483,Liljeholmen
+2015-11-03,Sjöbjörnsvägen 26,Gröndal,Röd Norsborg,2,47,null,Lägenhet,null,[Gröndal],2495000,75000,2570000,2958,Notar,995.078610708537,Liljeholmen
+2015-11-03,Grenljusbacken 26,Gröndal,Röd Norsborg,3,74.5,7,Lägenhet,1959,[Gröndal],3295000,560000,3855000,3579,Notar,780.4889122038155,Liljeholmen
+2015-10-26,Gröndalsvägen 161,Gröndal,Röd Norsborg,3,80,2,Lägenhet,null,[Gröndal],3495000,930000,4425000,4106,Svenska Mäklarhuset,1020.8792615274156,Ornsberg
+2015-10-21,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,25,2,Lägenhet,null,[Ekensberg],1695000,405000,2100000,1394,Fastighetsbyrån,1052.7135972482408,Aspudden
+2015-10-19,Fregattvägen 42,Gröndal,Röd Norsborg,2,44.5,2,Lägenhet,1946,[Gröndal],2095000,685000,2780000,3026,Notar,834.2714733470851,Aspudden
+2015-10-19,Sjöbjörnsvägen 66B,Gröndal,Röd Norsborg,3,83,1,Lägenhet,1947,[Gröndal],4795000,1305000,6100000,5399,Notar,1220.5225971373213,Liljeholmen
+2015-10-19,Sjöbjörnsvägen 10,Gröndal,Röd Norsborg,1,27,1,Lägenhet,1946,[Gröndal],1995000,405000,2400000,1699,Notar,970.8698445397455,Liljeholmen
+2015-10-19,Sjöbjörnsvägen 22,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],3475000,525000,4000000,3650,Notar,1003.4929372009873,Liljeholmen
+2015-10-19,Gröndalsvägen 118,Gröndal,Röd Norsborg,2,61,6,Lägenhet,1959,[Gröndal],2795000,825000,3620000,3064,Notar,986.4340848698613,Aspudden
+2015-10-19,Skonertvägen 9A,Gröndal,Röd Norsborg,2,62,2,Lägenhet,1990,[Gröndal],2150000,535000,2685000,3735,Notar,773.3775811104011,Aspudden
+2015-10-19,Gröndalsvägen 111,Gröndal,Röd Norsborg,2,46,4,Lägenhet,2009,[Gröndal],2495000,555000,3050000,3089,Notar,968.937946796296,Aspudden
+2015-10-08,Gröndalsvägen 80B,Gröndal,Röd Norsborg,1.5,42,1,Lägenhet,1906,[Gröndal],2495000,715000,3210000,2774,Fastighetsbyrån,993.2596705597313,Aspudden
+2015-10-08,Gröndalsvägen 39,Gröndal,Röd Norsborg,3,67,1,Lägenhet,1913,[Hägersten-Liljeholmen],4395000,335000,4730000,3350,Svensk Fastighetsförmedling,887.0529749006928,Liljeholmen
+2015-10-05,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,2.5,70,5,Lägenhet,1951,[Gröndal],3295000,530000,3825000,4124,Notar,962.1916454897391,Liljeholmen
+2015-10-05,Fregattvägen 36,Gröndal,Röd Norsborg,2,44.5,1,Lägenhet,1946,[Gröndal],1995000,805000,2800000,3026,Notar,850.3853312728336,Aspudden
+2015-10-05,Grenljusbacken 15,Gröndal,Röd Norsborg,3,67.5,null,Lägenhet,1985,[Gröndal],3495000,1005000,4500000,4019,Notar,677.18943591019,Liljeholmen
+2015-10-05,Sjöbjörnsvägen 28,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],3195000,515000,3710000,3650,Notar,1017.3440491047974,Liljeholmen
+2015-10-01,Lustigkullavägen 4,Gröndal,Röd Norsborg,3,82,5,Lägenhet,1913,[Gröndal],4795000,1145000,5940000,4022,Fastighetsbyrån,787.3834050000445,Liljeholmen
+2015-09-30,Grenljusbacken 26,Gröndal,Röd Norsborg,3,74.5,3.5,Lägenhet,1959,[Hägersten-Liljeholmen],3695000,325000,4020000,3537,SkandiaMäklarna,780.4889122038155,Liljeholmen
+2015-09-28,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,52,8,Lägenhet,2015,[Gröndal],3475000,275000,3750000,2683,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-24,Fågelsångsvägen 13,Gröndal,Röd Norsborg,4,101,8,Lägenhet,2015,[Gröndal],5875000,0,5875000,4474,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-24,Fregattvägen 75,Gröndal,Röd Norsborg,2,47,2,Lägenhet,1943,[Gröndal],2195000,655000,2850000,3373,Notar,787.9424384400642,Aspudden
+2015-09-24,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2,45,1.5,Lägenhet,1947,[Gröndal],3495000,255000,3750000,3212,Notar,1220.5225971373213,Liljeholmen
+2015-09-23,Fågelsångsvägen 13,Gröndal,Röd Norsborg,1,35,8,Lägenhet,2015,[Gröndal],2475000,345000,2820000,2145,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-23,Gröndalsvägen 80,Gröndal,Röd Norsborg,1.5,46,1,Lägenhet,1906,[Gröndal],2095000,200000,2295000,3016,Erik Olsson Fastighetsförmedling,1013.1554507968856,Aspudden
+2015-09-20,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,3.5,87,null,Lägenhet,1947,[Gröndal],5975000,1325000,7300000,5538,Edward & Partners Fastighetsmäklare AB,1220.5225971373213,Liljeholmen
+2015-09-17,Sannadalsvägen 24,Gröndal,Röd Norsborg,1,33,1,Lägenhet,null,[Gröndal],2630000,0,2630000,2332,BOSTHLM,726.5771721984424,Liljeholmen
+2015-09-17,Maskinistgatan 15,Gröndal,Röd Norsborg,3,59,4,Lägenhet,1911,[Gröndal],3295000,705000,4000000,2357,Notar,813.8718897016561,Liljeholmen
+2015-09-17,Gröndalsvägen 206,Gröndal,Röd Norsborg,2,63,1,Lägenhet,1981,[Gröndal],2895000,515000,3410000,2743,Notar,1099.9419772628028,Ornsberg
+2015-09-17,Gröndalsvägen 159,Gröndal,Röd Norsborg,4,97,2,Lägenhet,1982,[Gröndal],4195000,875000,5070000,4884,Notar,1061.084246478073,Ornsberg
+2015-09-14,Lustigkullavägen 7,Gröndal,Röd Norsborg,4,83.5,null,Lägenhet,1985,[Gröndal],3995000,1230000,5225000,4769,Notar,793.0662438611068,Liljeholmen
+2015-09-11,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,2,Lägenhet,2015,[Gröndal],3475000,185000,3660000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-11,Gröndalsvägen 188,Gröndal,Röd Norsborg,3,68,3,Lägenhet,1982,[Gröndal],3295000,730000,4025000,3205,Södermäklarna,1054.3235779166894,Ornsberg
+2015-09-11,Fågelsångsvägen 13,Gröndal,Röd Norsborg,4,101,9,Lägenhet,2015,[Gröndal],5975000,0,5975000,4474,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-11,Sjöbjörnsvägen 15B,Gröndal,Röd Norsborg,1,24,2,Lägenhet,1947,[Hägersten-Liljeholmen],1975000,175000,2150000,1522,Mäklarhuset,1099.9956732171115,Liljeholmen
+2015-09-10,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,1,78,2,Lägenhet,null,[Gröndal Centrum],2950000,525000,3475000,4581,BOSTHLM,962.1916454897391,Liljeholmen
+2015-09-10,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,2,Lägenhet,2015,[Gröndal],3575000,300000,3875000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-10,Fågelsångsvägen 13,Gröndal,Röd Norsborg,1,35,2,Lägenhet,2015,[Gröndal],2375000,250000,2625000,2145,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-09,Ljusstöparbacken 18,Gröndal,Röd Norsborg,2,60,3,Lägenhet,1959,[Hägersten-Liljeholmen],2675000,775000,3450000,2861,Mäklarhuset,892.5155940228514,Liljeholmen
+2015-09-09,Gröndalsvägen 120,Gröndal,Röd Norsborg,1,24,3,Lägenhet,1959,[Gröndal],1495000,605000,2100000,1360,Fastighetsbyrån,994.9973588091256,Aspudden
+2015-09-08,Fågelsångsvägen 13,Gröndal,Röd Norsborg,4,101,2,Lägenhet,2015,[Gröndal],5250000,500000,5750000,4474,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-08,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,52,2,Lägenhet,2015,[Gröndal],3375000,115000,3490000,2683,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-09-07,Eldarvägen 2,Gröndal,Röd Norsborg,1,30,4,Lägenhet,1924,[Gröndal],1895000,755000,2650000,1549,Notar,839.2044652430097,Liljeholmen
+2015-09-07,Gröndalsvägen 188,Gröndal,Röd Norsborg,3,68,4,Lägenhet,1981,[Gröndal],3295000,705000,4000000,3205,Notar,1054.3235779166894,Ornsberg
+2015-09-07,Sjöbjörnsvägen 32,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],3195000,355000,3550000,3650,Notar,1010.8697783507299,Liljeholmen
+2015-09-04,Lustigkullavägen 7,Gröndal,Röd Norsborg,2,62,4,Lägenhet,1985,[Gröndal],3295000,85000,3380000,3571,Stones Fastighetsförmedling,793.0662438611068,Liljeholmen
+2015-09-02,Gröndalsvägen 111,Gröndal,Röd Norsborg,3,79,4,Lägenhet,2009,[Gröndal],3695000,905000,4600000,4381,Fastighetsbyrån,968.937946796296,Aspudden
+2015-09-02,Sannadalsvägen 8,Gröndal,Röd Norsborg,1,33,2,Lägenhet,null,[Gröndal],1895000,665000,2560000,2332,Svenska Mäklarhuset,656.7708616927393,Liljeholmen
+2015-08-27,Ormbergsvägen 7,Gröndal,Röd Norsborg,2,62,3,Lägenhet,1946,[Gröndal],3495000,755000,4250000,3877,Fastighetsbyrån,1095.401839590603,Liljeholmen
+2015-08-27,Gröndalsvägen 182,Gröndal,Röd Norsborg,3,81,1,Lägenhet,1981,[Gröndal],3295000,655000,3950000,2567,Notar,997.0658877157367,Ornsberg
+2015-08-27,Ekensbergsvägen 126,Gröndal,Röd Norsborg,3,65,1,Lägenhet,1947,[Gröndal],2795000,755000,3550000,3627,Notar,1080.888907770621,Aspudden
+2015-08-27,Gröndalsvägen 177,Gröndal,Röd Norsborg,4,97,3,Lägenhet,1982,[Gröndal],3995000,1135000,5130000,4968,Notar,1096.0721196522863,Ornsberg
+2015-08-27,Ormbergsvägen 10,Gröndal,Röd Norsborg,3,85,7,Lägenhet,1982,[Gröndal],5550000,500000,6050000,5145,Karlsson & Uddare,1118.516188736149,Liljeholmen
+2015-08-26,Fågelsångsvägen 13,Gröndal,Röd Norsborg,1,35,3,Lägenhet,2015,[Gröndal],2375000,230000,2605000,2145,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-08-26,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,52,3,Lägenhet,2015,[Gröndal],3375000,205000,3580000,2683,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-08-26,Ljusstöparbacken 26B,Gröndal,Röd Norsborg,3,74,2,Lägenhet,null,[Gröndal],3495000,815000,4310000,3399,Svenska Mäklarhuset,886.6758193815718,Liljeholmen
+2015-08-25,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,3,Lägenhet,2015,[Gröndal],3475000,225000,3700000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-08-25,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,3,Lägenhet,2015,[Gröndal],3575000,625000,4200000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-08-25,Fågelsångsvägen 13,Gröndal,Röd Norsborg,4,101,3,Lägenhet,2015,[Gröndal],5500000,0,5500000,4474,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-08-20,Ekensbergsvägen 36,Gröndal,Röd Norsborg,1,28,null,Lägenhet,null,[Gröndal],1695000,665000,2360000,2409,Svenska Mäklarhuset,1041.5283592815329,Aspudden
+2015-08-20,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,2,70,4,Lägenhet,null,[Gröndal Centrum],3175000,875000,4050000,4109,BOSTHLM,962.1916454897391,Liljeholmen
+2015-08-20,Ljusstöparbacken 5C,Gröndal,Röd Norsborg,2,57.5,1,Lägenhet,1959,[Gröndal],2695000,485000,3180000,2703,Notar,792.8752010477425,Liljeholmen
+2015-08-19,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2,63,null,Lägenhet,1947,[Gröndal],3395000,955000,4350000,4386,Erik Olsson Fastighetsförmedling,1220.5225971373213,Liljeholmen
+2015-08-14,Ekensbergsvägen 124,Gröndal,Röd Norsborg,4,81,1,Lägenhet,1947,[Gröndal],3395000,305000,3700000,4521,HusmanHagberg,1079.5848980096155,Aspudden
+2015-08-14,Gröndalsvägen 212,Gröndal,Röd Norsborg,3,62,3,Lägenhet,1981,[Gröndal],2895000,665000,3560000,2915,Notar,1110.7010556765513,Ornsberg
+2015-08-14,Ljusstöparbacken 5C,Gröndal,Röd Norsborg,1,22,null,Lägenhet,1959,[Gröndal],1495000,615000,2110000,1090,Notar,792.8752010477425,Liljeholmen
+2015-08-12,Gröndalsvägen 118,Gröndal,Röd Norsborg,1,25,1,Lägenhet,1959,[Gröndal],1495000,515000,2010000,1242,Magnusson Mäkleri,986.4340848698613,Aspudden
+2015-08-11,Gröndalsvägen 210,Gröndal,Röd Norsborg,4,93,2,Lägenhet,1981,[Gröndal],4495000,1215000,5710000,4179,Notar,1113.7277796693952,Ornsberg
+2015-08-11,Ljusstöparbacken 18C,Gröndal,Röd Norsborg,2,60,3,Lägenhet,1959,[Gröndal],2495000,255000,2750000,2812,Notar,907.2902525225311,Liljeholmen
+2015-08-11,Gröndalsvägen 175,Gröndal,Röd Norsborg,3,79,1,Lägenhet,1982,[Gröndal],3495000,585000,4080000,3990,Notar,1096.8107420961835,Ornsberg
+2015-08-05,Grenljusbacken 15,Gröndal,Röd Norsborg,2,53.5,2,Lägenhet,1985,[Gröndal],2650000,100000,2750000,3042,Notar,677.18943591019,Liljeholmen
+2015-08-05,Sjöbjörnsvägen 16,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],3295000,380000,3675000,3650,Notar,1013.3927142796161,Liljeholmen
+2015-08-05,Jungmansgränd 2,Gröndal,Röd Norsborg,2,55,1,Lägenhet,1907,[Gröndal],2995000,605000,3600000,3378,Notar,1046.5248169267632,Liljeholmen
+2015-07-30,Gröndalsvägen 33,Gröndal,Röd Norsborg,2,54,2,Lägenhet,1913,[Hägersten-Liljeholmen],3675000,-75000,3600000,2694,Mäklarhuset,850.471206680837,Liljeholmen
+2015-07-24,Ljusstöparbacken 9A,Gröndal,Röd Norsborg,2,57.5,null,Lägenhet,1959,[Gröndal],2495000,255000,2750000,2638,Notar,842.2228008192128,Liljeholmen
+2015-07-16,Ekensbergsvägen 118,Gröndal,Röd Norsborg,2,39,6,Lägenhet,1947,[Gröndal],2820000,0,2820000,2177,BOSTHLM,1052.7135972482408,Aspudden
+2015-07-16,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,24,4,Lägenhet,null,[Gröndal],1495000,775000,2270000,1205,Svenska Mäklarhuset,1052.7135972482408,Aspudden
+2015-07-13,Fregattvägen 67,Gröndal,Röd Norsborg,2,46,3,Lägenhet,1943,[Gröndal],2195000,455000,2650000,3303,Notar,749.6727587274838,Aspudden
+2015-07-07,Klyvarvägen 4,Gröndal,Röd Norsborg,1,26,1,Lägenhet,1957,[Gröndal],1475000,685000,2160000,1548,Länsförsäkringar Fastighetsförmedling,1036.4874208442898,Aspudden
+2015-07-01,Sjöbjörnsvägen 15B,Gröndal,Röd Norsborg,1,25,2,Lägenhet,1947,[Hägersten-Liljeholmen],1975000,250000,2225000,1586,Mäklarhuset,1099.9956732171115,Liljeholmen
+2015-06-29,Sannadalsvägen 12,Gröndal,Röd Norsborg,3,65,3,Lägenhet,1938,[Gröndal],3490000,60000,3550000,3794,Bjurfors,692.9921604759633,Liljeholmen
+2015-06-27,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2,51,2,Lägenhet,1947,[Hägersten-Liljeholmen],3195000,370000,3565000,3829,Svensk Fastighetsförmedling,1220.5225971373213,Liljeholmen
+2015-06-26,Gröndalsvägen 118,Gröndal,Röd Norsborg,3,84,7,Lägenhet,1959,[Hägersten-Liljeholmen],3795000,90000,3885000,4004,Svensk Fastighetsförmedling,986.4340848698613,Aspudden
+2015-06-18,Gröndalsvägen 39,Gröndal,Röd Norsborg,2,52,2,Lägenhet,1913,[Gröndal],3550000,0,3550000,2612,BOSTHLM,887.0529749006928,Liljeholmen
+2015-06-13,Skonertvägen 9A,Gröndal,Röd Norsborg,1.5,37,2,Lägenhet,1990,[Gröndal],1695000,715000,2410000,2253,Notar,773.3775811104011,Aspudden
+2015-06-12,Ljusstöparbacken 22B,Gröndal,Röd Norsborg,4,89,1,Lägenhet,1959,[Gröndal],3995000,755000,4750000,3972,Fastighetsbyrån,914.1288446606034,Liljeholmen
+2015-06-12,Ljusstöparbacken 30A,Gröndal,Röd Norsborg,2,60,1,Lägenhet,1959,[Gröndal],2650000,350000,3000000,2811,Notar,820.0949174239137,Liljeholmen
+2015-06-11,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,5,Lägenhet,2015,[Gröndal],3450000,200000,3650000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-06-10,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,5,Lägenhet,2015,[Gröndal],3525000,255000,3780000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-06-10,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,52,5,Lägenhet,2015,[Gröndal],3375000,135000,3510000,2683,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-06-10,Gröndalsvägen 118,Gröndal,Röd Norsborg,1,25,5,Lägenhet,1959,[Gröndal],1495000,405000,1900000,1274,Notar,986.4340848698613,Aspudden
+2015-06-09,Gröndalsvägen 80A,Gröndal,Röd Norsborg,2,33,0,Lägenhet,1906,[Hägersten-Liljeholmen],1995000,550000,2545000,2389,MOHV,991.6330464453692,Aspudden
+2015-06-06,Sannadalsvägen 4,Gröndal,Röd Norsborg,1,33,2,Lägenhet,1938,[Gröndal],1895000,405000,2300000,2332,HusmanHagberg,674.1501808331539,Liljeholmen
+2015-06-05,Gröndalsvägen 198,Gröndal,Röd Norsborg,4,104,7,Lägenhet,1982,[Gröndal],4995000,1105000,6100000,4823,Södermäklarna,1090.3076047310474,Ornsberg
+2015-06-04,Lustigkullavägen 1,Gröndal,Röd Norsborg,2,46,1,Lägenhet,1933,[Gröndal],2495000,305000,2800000,2858,Fastighetsbyrån,746.58292659216,Liljeholmen
+2015-06-03,Gröndalsvägen 120,Gröndal,Röd Norsborg,1,24,5,Lägenhet,1959,[Gröndal],1495000,585000,2080000,1258,Fastighetsbyrån,994.9973588091256,Aspudden
+2015-06-02,Fregattvägen 66,Gröndal,Röd Norsborg,1.5,41,null,Lägenhet,1945,[Gröndal],1995000,420000,2415000,2434,Notar,824.2531485629568,Aspudden
+2015-06-02,Bryggvägen 4,Gröndal,Röd Norsborg,5,112,null,Lägenhet,1957,[Gröndal],5495000,0,5495000,6667,Notar,1040.2900582536702,Aspudden
+2015-06-02,Sjöbjörnsvägen 44,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],3295000,155000,3450000,3650,Notar,1041.5236229894965,Liljeholmen
+2015-06-02,Fregattvägen 58,Gröndal,Röd Norsborg,2.5,57,1,Lägenhet,1945,[Gröndal],3050000,-450000,2600000,3237,Notar,811.5548607481435,Aspudden
+2015-05-29,Sjöbjörnsvägen 9,Gröndal,Röd Norsborg,3,66,2,Lägenhet,1949,[Hägersten-Liljeholmen],3795000,815000,4610000,3899,Svensk Fastighetsförmedling,1032.9963153604322,Liljeholmen
+2015-05-29,Fågelsångsvägen 13,Gröndal,Röd Norsborg,4,101,4,Lägenhet,2015,[Gröndal],5475000,25000,5500000,4474,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-29,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,4,Lägenhet,2015,[Gröndal],3375000,50000,3425000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-28,Ljusstöparbacken 1,Gröndal,Röd Norsborg,3,77,1,Lägenhet,1959,[Hägersten-Liljeholmen],3650000,550000,4200000,3492,Mäklarhuset,728.5014848672166,Liljeholmen
+2015-05-28,Sannadalsvägen 30,Gröndal,Röd Norsborg,1,33,1.5,Lägenhet,1938,[Gröndal],1995000,315000,2310000,2332,Fastighetsbyrån,750.0892512961836,Liljeholmen
+2015-05-27,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,4,Lägenhet,2015,[Gröndal],3475000,50000,3525000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-27,Ormbergsvägen 14,Gröndal,Röd Norsborg,5,179,-1,Lägenhet,2001,[Gröndal],10500000,250000,10750000,7917,Ekenstam Fastighetsmäklare,1151.794178503199,Liljeholmen
+2015-05-27,Ormbergsvägen 20,Gröndal,Röd Norsborg,2.5,74,6,Lägenhet,1982,[Gröndal],3750000,1100000,4850000,4604,Karlsson & Uddare,1138.7821671091954,Liljeholmen
+2015-05-27,Fågelsångsvägen 13,Gröndal,Röd Norsborg,1,35,4,Lägenhet,2015,[Gröndal],2375000,125000,2500000,2145,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-27,Sjöbjörnsvägen 20,Gröndal,Röd Norsborg,2.5,58,null,Lägenhet,1946,[Gröndal],3295000,905000,4200000,3650,Fastighetsbyrån,1029.7772146659058,Liljeholmen
+2015-05-22,Sjöbjörnsvägen 44,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],3250000,0,3250000,3650,Notar,1041.5236229894965,Liljeholmen
+2015-05-22,Ormbergsvägen 1,Gröndal,Röd Norsborg,1.5,44,1,Lägenhet,2009,[Gröndal],3195000,-600000,2595000,2374,Svensk Fastighetsförmedling,1099.6857911470224,Liljeholmen
+2015-05-22,Eldarvägen 4,Gröndal,Röd Norsborg,1,30.5,4,Lägenhet,1924,[Gröndal],1995000,305000,2300000,1582,Fastighetsbyrån,834.076824418034,Liljeholmen
+2015-05-21,Grenljusbacken 17, v4,Gröndal,Röd Norsborg,4,83.5,null,Lägenhet,1986,[Gröndal],3495000,1035000,4530000,4645,Notar,703.8805934142099,Liljeholmen
+2015-05-20,Ormbergsvägen 20,Gröndal,Röd Norsborg,3,91,2,Lägenhet,2003,[Gröndal],5250000,-25000,5225000,5309,Bjurfors,1138.7821671091954,Liljeholmen
+2015-05-19,Gröndalsvägen 80,Gröndal,Röd Norsborg,1.5,41,2,Lägenhet,1906,[Gröndal-Liljeholmen],2450000,475000,2925000,2835,Husfokus Mäklarbyrå,1013.1554507968856,Aspudden
+2015-05-18,Gröndalsvägen 210,Gröndal,Röd Norsborg,4,93,0,Lägenhet,1981,[Gröndal],4495000,0,4495000,4179,Notar,1113.7277796693952,Ornsberg
+2015-05-13,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,7,Lägenhet,2015,[Gröndal],3475000,140000,3615000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-13,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2,65,null,Lägenhet,null,[Gröndal],2995000,505000,3500000,4462,Notar,1220.5225971373213,Liljeholmen
+2015-05-13,Ekensbergsvägen 6,Gröndal,Röd Norsborg,1.5,34,null,Lägenhet,1957,[Gröndal],1950000,470000,2420000,2700,Living Fastighetsmäkleri,1004.8967681082335,Ornsberg
+2015-05-12,Lustigkullavägen 2,Gröndal,Röd Norsborg,3,67,2,Lägenhet,1913,[Gröndal],4195000,1005000,5200000,2071,SkandiaMäklarna,775.4857545409111,Liljeholmen
+2015-05-12,Fågelsångsvägen 13,Gröndal,Röd Norsborg,1,35,9,Lägenhet,2015,[Gröndal],2475000,25000,2500000,2145,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-12,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,52,9,Lägenhet,2015,[Gröndal],3475000,0,3475000,2683,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-08,Klyvarvägen 6,Gröndal,Röd Norsborg,2,62,0.5,Lägenhet,1957,[Gröndal],1995000,515000,2510000,3691,Notar,1060.2964564218914,Aspudden
+2015-05-06,Eldarvägen 4,Gröndal,Röd Norsborg,1.5,36.5,2,Lägenhet,1924,[Gröndal],2150000,420000,2570000,1816,Fastighetsbyrån,834.076824418034,Liljeholmen
+2015-05-06,Gröndalsvägen 216,Gröndal,Röd Norsborg,4,98.5,4,Lägenhet,2008,[Gröndal],5475000,-175000,5300000,5884,Mäklarhuset,1161.7230335790432,Ornsberg
+2015-05-05,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,8,Lägenhet,2015,[Gröndal],3475000,50000,3525000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-05,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,58,8,Lägenhet,2015,[Gröndal],3475000,275000,3750000,2952,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-05,Fågelsångsvägen 13,Gröndal,Röd Norsborg,1,35,10,Lägenhet,2015,[Gröndal],2475000,225000,2700000,2145,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-05,Fågelsångsvägen 13,Gröndal,Röd Norsborg,2,52,10,Lägenhet,2015,[Gröndal],3475000,60000,3535000,2683,Erik Olsson Fastighetsförmedling,938.5174965134896,Aspudden
+2015-05-03,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,2,70,8,Lägenhet,1949,[Gröndal],3950000,-25000,3925000,4423,BOSTHLM,962.1916454897391,Liljeholmen
+2015-05-01,Fregattvägen 61,Gröndal,Röd Norsborg,2,46,2,Lägenhet,1943,[Gröndal],1995000,575000,2570000,null,Notar,785.9079307583489,Aspudden
+2015-05-01,Ekensbergsvägen 118,Gröndal,Röd Norsborg,2,53,2,Lägenhet,1947,[Gröndal],2395000,165000,2560000,2958,SkandiaMäklarna,1052.7135972482408,Aspudden
+2015-04-30,Sjöbjörnsvägen 46,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],3095000,295000,3390000,3650,Notar,1018.3508707157561,Liljeholmen
+2015-04-30,Ekensbergsvägen 120,Gröndal,Röd Norsborg,1,30,1,Lägenhet,1947,[Gröndal],1595000,435000,2030000,1674,Notar,1077.5793345012748,Aspudden
+2015-04-30,Ljusstöparbacken 7B,Gröndal,Röd Norsborg,3,77,1,Lägenhet,1959,[Gröndal],3195000,815000,4010000,3465,Notar,818.014788254863,Liljeholmen
+2015-04-29,Ormbergsvägen 7,Gröndal,Röd Norsborg,2,58,4,Lägenhet,1946,[Gröndal],3195000,505000,3700000,3551,Fastighetsbyrån,1095.401839590603,Liljeholmen
+2015-04-29,Ormbergsvägen 10,Gröndal,Röd Norsborg,3.5,91,3,Lägenhet,2002,[Gröndal],4695000,1355000,6050000,5394,Fastighetsbyrån,1118.516188736149,Liljeholmen
+2015-04-28,Klyvarvägen 6,Gröndal,Röd Norsborg,2,42,1,Lägenhet,1957,[Gröndal],1995000,235000,2230000,2500,Södermäklarna,1060.2964564218914,Aspudden
+2015-04-24,Skonertvägen 9B,Gröndal,Röd Norsborg,1.5,37,1,Lägenhet,1991,[Gröndal],1795000,455000,2250000,2253,Erik Olsson Fastighetsförmedling,755.3110282107393,Aspudden
+2015-04-24,Maskinistgatan 9,Gröndal,Röd Norsborg,2,40,3,Lägenhet,1932,[Gröndal],2295000,225000,2520000,3181,Notar,856.272203155781,Liljeholmen
+2015-04-22,Lustigkullavägen 2,Gröndal,Röd Norsborg,3,67,3,Lägenhet,1913,[Gröndal],3895000,945000,4840000,2113,Notar,775.4857545409111,Liljeholmen
+2015-04-22,Gröndalsvägen 111,Gröndal,Röd Norsborg,3,79,5,Lägenhet,2009,[Gröndal],3495000,915000,4410000,4381,Fastighetsbyrån,968.937946796296,Aspudden
+2015-04-20,Fregattvägen 52,Gröndal,Röd Norsborg,3,70,3,Lägenhet,1946,[Gröndal],2895000,405000,3300000,4760,Notar,816.1334717923139,Aspudden
+2015-04-17,Ljusstöparbacken 5A,Gröndal,Röd Norsborg,4,80,1,Lägenhet,null,[Gröndal],3695000,505000,4200000,3645,Svenska Mäklarhuset,774.1954871668482,Liljeholmen
+2015-04-15,Sjöbjörnsvägen 12,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],3495000,805000,4300000,3650,Notar,955.849628088961,Liljeholmen
+2015-04-15,Fregattvägen 77,Gröndal,Röd Norsborg,2,47,1.5,Lägenhet,1943,[Gröndal],1995000,740000,2735000,3373,Notar,772.8840912039351,Aspudden
+2015-04-10,Sannadalsvägen 28,Gröndal,Röd Norsborg,1,33,2,Lägenhet,1938,[Gröndal],2350000,0,2350000,2352,BOSTHLM,745.0920984265266,Liljeholmen
+2015-04-10,Ljusstöparbacken 7A,Gröndal,Röd Norsborg,1.5,45,2,Lägenhet,1959,[Gröndal],1995000,615000,2610000,2159,Notar,813.2055139898483,Liljeholmen
+2015-04-02,Fregattvägen 58,Gröndal,Röd Norsborg,2.5,57,1,Lägenhet,1945,[Gröndal],2395000,420000,2815000,3236,Edward & Partners Fastighetsmäklare AB,811.5548607481435,Aspudden
+2015-04-02,Eldarvägen 4,Gröndal,Röd Norsborg,3,94,3,Lägenhet,1924,[Gröndal],4695000,805000,5500000,4394,Fastighetsbyrån,834.076824418034,Liljeholmen
+2015-04-02,Klyvarvägen 8,Gröndal,Röd Norsborg,3,67,1,Lägenhet,null,[Gröndal],2990000,0,2990000,3988,BOSTHLM,1034.7904465651259,Aspudden
+2015-04-01,Gröndalsvägen 182,Gröndal,Röd Norsborg,2.5,69,1,Lägenhet,null,[Gröndal],3265000,0,3265000,2298,BOSTHLM,997.0658877157367,Ornsberg
+2015-03-31,Ljusstöparbacken 11C,Gröndal,Röd Norsborg,2,57.5,null,Lägenhet,null,[Gröndal],2395000,105000,2500000,2687,Fastighetsbyrån,899.9048476814437,Liljeholmen
+2015-03-26,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,25,4,Lägenhet,1947,[Gröndal],1875000,0,1875000,1394,Mäklarhuset,1052.7135972482408,Aspudden
+2015-03-23,Ekensbergsvägen 21,Gröndal,Röd Norsborg,2,66,2,Lägenhet,1981,[Gröndal],2795000,105000,2900000,2965,Notar,1059.1291996708107,Ornsberg
+2015-03-20,Sannadalsvägen 18,Gröndal,Röd Norsborg,2,45,2,Lägenhet,1938,[Gröndal],2295000,555000,2850000,3012,Erik Olsson Fastighetsförmedling,721.7737390042629,Liljeholmen
+2015-03-19,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,8,Lägenhet,1959,[Gröndal],3725000,25000,3750000,3560,Mäklarhuset,715.5983881864446,Liljeholmen
+2015-03-19,Fregattvägen 68,Gröndal,Röd Norsborg,1.5,41,2,Lägenhet,1940,[Gröndal],1995000,275000,2270000,2434,Erik Olsson Fastighetsförmedling,825.144690539044,Aspudden
+2015-03-18,Lustigkullavägen 7,Gröndal,Röd Norsborg,2,62,6,Lägenhet,1985,[Gröndal],2395000,430000,2825000,3634,Erik Olsson Fastighetsförmedling,793.0662438611068,Liljeholmen
+2015-03-17,Gröndalsvägen 216,Gröndal,Röd Norsborg,3,87.5,2,Lägenhet,2008,[Gröndal],4375000,1025000,5400000,5333,Mäklarhuset,1161.7230335790432,Ornsberg
+2015-03-13,Grenljusbacken 21,Gröndal,Röd Norsborg,4.5,101,13,Lägenhet,1959,[Gröndal],4695000,910000,5605000,4372,Notar,715.5983881864446,Liljeholmen
+2015-03-13,Gröndalsvägen 186,Gröndal,Röd Norsborg,3,81,1,Lägenhet,1981,[Gröndal],3495000,515000,4010000,3639,Notar,1042.4731089668282,Ornsberg
+2015-03-13,Gröndalsvägen 147,Gröndal,Röd Norsborg,3,68,null,Lägenhet,1981,[Gröndal],2995000,505000,3500000,2929,Notar,961.300446572399,Ornsberg
+2015-03-12,Sjöbjörnsvägen 25,Gröndal,Röd Norsborg,1,35,1,Lägenhet,1903,[Gröndal],2175000,25000,2200000,2558,Mäklarhuset,1244.053242450659,Liljeholmen
+2015-03-11,Fågelsångsvägen 5,Gröndal,Röd Norsborg,2,64.5,3,Lägenhet,1956,[Gröndal],2850000,700000,3550000,3008,Södermäklarna,949.3642842789002,Aspudden
+2015-03-11,Fregattvägen 74,Gröndal,Röd Norsborg,2,53,2,Lägenhet,1943,[Gröndal],1995000,435000,2430000,3808,Notar,841.5291316639731,Aspudden
+2015-03-11,Sjöbjörnsvägen 25,Gröndal,Röd Norsborg,2.5,52,3,Lägenhet,1903,[Gröndal],2900000,200000,3100000,3538,Mäklarhuset,1244.053242450659,Liljeholmen
+2015-02-27,Ljusstöparbacken 1,Gröndal,Röd Norsborg,3,77,1.5,Lägenhet,1959,[Gröndal],3375000,525000,3900000,3492,Mäklarhuset,728.5014848672166,Liljeholmen
+2015-02-19,Sjöbjörnsvägen 12,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],3495000,805000,4300000,3650,Notar,955.849628088961,Liljeholmen
+2015-02-19,Gröndalsvägen 214,Gröndal,Röd Norsborg,4,98.5,4,Lägenhet,2008,[Gröndal],4995000,405000,5400000,5884,Notar,1141.6684755337646,Ornsberg
+2015-02-16,Fregattvägen 56,Gröndal,Röd Norsborg,2,58,3,Lägenhet,1945,[Gröndal],2595000,105000,2700000,3284,Edward & Partners Fastighetsmäklare AB,813.3712851567265,Aspudden
+2015-02-13,Fregattvägen 66,Gröndal,Röd Norsborg,1.5,39,0.5,Lägenhet,1940,[Gröndal],1695000,515000,2210000,2328,Erik Olsson Fastighetsförmedling,824.2531485629568,Aspudden
+2015-02-13,Skonertvägen 9B,Gröndal,Röd Norsborg,2,62,1,Lägenhet,1990,[Gröndal],2510000,0,2510000,3735,Fastighetsbyrån,755.3110282107393,Aspudden
+2015-02-12,Fregattvägen 58,Gröndal,Röd Norsborg,2,58,1,Lägenhet,1940,[Gröndal],2495000,60000,2555000,3284,Erik Olsson Fastighetsförmedling,811.5548607481435,Aspudden
+2015-02-11,Sjöbjörnsvägen 23,Gröndal,Röd Norsborg,1,35.5,0.5,Lägenhet,1904,[Gröndal],1995000,215000,2210000,3253,SkandiaMäklarna,1222.6417221132267,Liljeholmen
+2015-02-10,Bryggvägen 4,Gröndal,Röd Norsborg,3,63,2,Lägenhet,1957,[Gröndal],2595000,55000,2650000,3750,BOSTHLM,1040.2900582536702,Aspudden
+2015-02-10,Gröndalsvägen 170,Gröndal,Röd Norsborg,4,97,5,Lägenhet,1980,[Gröndal],3995000,780000,4775000,3073,Notar,986.6203265387342,Ornsberg
+2015-02-10,Gröndalsvägen 145,Gröndal,Röd Norsborg,3,83,null,Lägenhet,1981,[Gröndal],3795000,105000,3900000,3523,Notar,919.4726170389355,Ornsberg
+2015-02-03,Sjöbjörnsvägen 50,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],3095000,255000,3350000,3650,Notar,1027.0259236450909,Liljeholmen
+2015-01-31,Fregattvägen 36,Gröndal,Röd Norsborg,2,47,2,Lägenhet,1946,[Gröndal],1995000,440000,2435000,3196,Notar,850.3853312728336,Aspudden
+2015-01-31,Fregattvägen 59,Gröndal,Röd Norsborg,2,46,1,Lägenhet,1943,[Gröndal],2195000,405000,2600000,3209,Notar,788.1669078602747,Aspudden
+2015-01-31,Sjöbjörnsvägen 66B, v2,Gröndal,Röd Norsborg,3,84,3,Lägenhet,1947,[Gröndal],4195000,905000,5100000,5388,Notar,1209.372927028611,Liljeholmen
+2015-01-31,Gröndalsvägen 171,Gröndal,Röd Norsborg,3,83,4,Lägenhet,1982,[Gröndal],4250000,650000,4900000,4375,Notar,1056.6069370305065,Ornsberg
+2015-01-29,Ormbergsvägen 11,Gröndal,Röd Norsborg,1.5,41,null,Lägenhet,1946,[Gröndal],1795000,205000,2000000,2936,Ekenstam Fastighetsmäklare,1080.5726897554032,Liljeholmen
+2015-01-28,Fregattvägen 64,Gröndal,Röd Norsborg,1.5,41,3,Lägenhet,1940,[Gröndal],1795000,615000,2410000,2434,HusmanHagberg,821.1633189429306,Aspudden
+2015-01-22,Gröndalsvägen 198,Gröndal,Röd Norsborg,2,68,2,Lägenhet,1982,[Gröndal],2595000,215000,2810000,3205,Fastighetsbyrån,1090.3076047310474,Ornsberg
+2015-01-15,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,8,Lägenhet,1959,[Gröndal],3600000,700000,4300000,3560,Mäklarhuset,715.5983881864446,Liljeholmen
+2015-01-14,Ljusstöparbacken 5A,Gröndal,Röd Norsborg,2,45,3,Lägenhet,1959,[Gröndal],2295000,135000,2430000,2017,Notar,774.1954871668482,Liljeholmen
+2014-12-19,Grenljusbacken 21,Gröndal,Röd Norsborg,4,81,10,Lägenhet,1959,[Gröndal],3875000,185000,4060000,3747,Svenska Mäklarhuset,715.5983881864446,Liljeholmen
+2014-12-17,Ormbergsvägen 10,Gröndal,Röd Norsborg,2,65,5,Lägenhet,2001,[Gröndal],3295000,270000,3565000,4173,Erik Olsson Fastighetsförmedling,1118.516188736149,Liljeholmen
+2014-12-13,Grenljusbacken 21,Gröndal,Röd Norsborg,4,90,2,Lägenhet,1959,[Gröndal],3495000,365000,3860000,3994,Svensk Fastighetsförmedling,715.5983881864446,Liljeholmen
+2014-12-10,Gröndalsvägen 182,Gröndal,Röd Norsborg,3,81,3,Lägenhet,1981,[Ekensberg],3195000,605000,3800000,2716,Fastighetsbyrån,997.0658877157367,Ornsberg
+2014-12-09,Ljusstöparbacken 11A,Gröndal,Röd Norsborg,4,86,1,Villa,1959,[Gröndal],4175000,0,4175000,null,Mäklarhuset,864.0880938394322,Liljeholmen
+2014-12-08,Gröndalsvägen 177,Gröndal,Röd Norsborg,2,66,1,Lägenhet,1982,[Gröndal],3195000,335000,3530000,3523,Notar,1096.0721196522863,Ornsberg
+2014-11-26,Ljusstöparbacken 1,Gröndal,Röd Norsborg,3,84.5,4.5,Lägenhet,1959,[Gröndal],3575000,575000,4150000,3696,Mäklarhuset,728.5014848672166,Liljeholmen
+2014-11-26,Sannadalsvägen 20,Gröndal,Röd Norsborg,2,45,3,Lägenhet,1938,[Gröndal],1895000,425000,2320000,3012,Fastighetsbyrån,712.2600061322322,Liljeholmen
+2014-11-26,Sjöbjörnsvägen 66A, v5,Gröndal,Röd Norsborg,2.5,66,2,Lägenhet,1947,[Gröndal],3295000,655000,3950000,4530,Notar,1195.4550798522175,Liljeholmen
+2014-11-26,Bryggvägen 4,Gröndal,Röd Norsborg,3,63,2,Lägenhet,1957,[Gröndal],2990000,160000,3150000,3741,BOSTHLM,1040.2900582536702,Aspudden
+2014-11-25,Sjöbjörnsvägen 15C,Gröndal,Röd Norsborg,2,59,3,Lägenhet,1947,[Gröndal],2995000,705000,3700000,3742,Fastighetsbyrån,1116.411280334929,Liljeholmen
+2014-11-24,Ekensbergsvägen 23,Gröndal,Röd Norsborg,2,68,null,Lägenhet,1982,[Gröndal],2695000,-95000,2600000,2802,Svensk Fastighetsförmedling,1064.168288875299,Ornsberg
+2014-11-20,Fregattvägen 89,Gröndal,Röd Norsborg,2,46,2,Lägenhet,1943,[Gröndal],2250000,560000,2810000,3303,Notar,791.3246654164067,Aspudden
+2014-11-20,Grenljusbacken 17, v7,Gröndal,Röd Norsborg,4,114,null,Lägenhet,1986,[Gröndal],4195000,1305000,5500000,6910,Notar,704.912992768119,Liljeholmen
+2014-11-18,Grenljusbacken 21,Gröndal,Röd Norsborg,3,71,1,Lägenhet,1959,[Gröndal],2995000,485000,3480000,3453,Fastighetsbyrån,715.5983881864446,Liljeholmen
+2014-11-13,Grenljusbacken 21,Gröndal,Röd Norsborg,4,81,8,Lägenhet,1959,[Gröndal],3875000,75000,3950000,3747,SkandiaMäklarna,715.5983881864446,Liljeholmen
+2014-11-06,Fågelsångsvägen 5,Gröndal,Röd Norsborg,4,86,3,Lägenhet,1956,[Gröndal],4295000,315000,4610000,3855,Notar,949.3642842789002,Aspudden
+2014-11-06,Ormbergsvägen 10,Gröndal,Röd Norsborg,3.5,90,4,Lägenhet,1982,[Gröndal],4495000,505000,5000000,5286,Södermäklarna,1118.516188736149,Liljeholmen
+2014-11-06,Fregattvägen 85,Gröndal,Röd Norsborg,2,46,1,Lägenhet,1944,[Gröndal],1895000,505000,2400000,3209,Svenska Mäklarhuset,805.4612210116603,Aspudden
+2014-11-05,Gröndalsvägen 115,Gröndal,Röd Norsborg,3,79,6,Lägenhet,2009,[Gröndal],3495000,425000,3920000,4381,Fastighetsbyrån,963.8313418535242,Aspudden
+2014-11-05,Gröndalsvägen 149,Gröndal,Röd Norsborg,2,68,1,Lägenhet,1981,[Gröndal],2695000,-45000,2650000,2929,Notar,972.3627097566347,Ornsberg
+2014-10-30,Gröndalsvägen 118,Gröndal,Röd Norsborg,1,25,4,Lägenhet,1959,[Gröndal],1495000,305000,1800000,1263,Fastighetsbyrån,986.4340848698613,Aspudden
+2014-10-30,Sannadalsvägen 1,Gröndal,Röd Norsborg,2.5,62,2,Lägenhet,1985,[Gröndal],2795000,255000,3050000,3806,Notar,706.2425632892672,Liljeholmen
+2014-10-30,Fregattvägen 34,Gröndal,Röd Norsborg,2,53,2,Lägenhet,1946,[Gröndal],1895000,425000,2320000,3611,Notar,852.8087600370436,Aspudden
+2014-10-30,Sjöbjörnsvägen 6,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],2995000,230000,3225000,3650,Notar,947.2964383625949,Liljeholmen
+2014-10-30,Ormbergsvägen 20,Gröndal,Röd Norsborg,3,93,6,Lägenhet,null,[Gröndal],4875000,0,4875000,5471,Mäklarhuset,1138.7821671091954,Liljeholmen
+2014-10-28,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2,51,4,Lägenhet,1947,[Gröndal],2995000,455000,3450000,3754,Södermäklarna,1220.5225971373213,Liljeholmen
+2014-10-23,Fregattvägen 87,Gröndal,Röd Norsborg,2,46,3,Lägenhet,1943,[Gröndal],1895000,705000,2600000,3303,Notar,805.5055072409189,Aspudden
+2014-10-16,Eldarvägen 2,Gröndal,Röd Norsborg,1,35,3,Lägenhet,1925,[Gröndal],2195000,150000,2345000,1749,Erik Olsson Fastighetsförmedling,839.2044652430097,Liljeholmen
+2014-10-09,Fregattvägen 42,Gröndal,Röd Norsborg,2,44.5,3,Lägenhet,1946,[Gröndal],1750000,560000,2310000,3026,Notar,834.2714733470851,Aspudden
+2014-10-08,Sjöbjörnsvägen 20,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],2995000,355000,3350000,3651,Notar,1029.7772146659058,Liljeholmen
+2014-10-08,Eldarvägen 4,Gröndal,Röd Norsborg,1,38,4,Lägenhet,1924,[Gröndal],2150000,50000,2200000,1891,Fastighetsbyrån,834.076824418034,Liljeholmen
+2014-10-03,Fregattvägen 61,Gröndal,Röd Norsborg,2,46,null,Lägenhet,1947,[Gröndal],1795000,755000,2550000,3209,Fastighetsbyrån,785.9079307583489,Aspudden
+2014-10-03,Gröndalsvägen 206,Gröndal,Röd Norsborg,3,70,null,Lägenhet,1981,[Gröndal],2795000,55000,2850000,2886,Notar,1099.9419772628028,Ornsberg
+2014-10-02,Gröndalsvägen 170,Gröndal,Röd Norsborg,3,83,6,Lägenhet,1981,[Gröndal],3795000,455000,4250000,2630,Notar,986.6203265387342,Ornsberg
+2014-10-01,Ljusstöparbacken 5A,Gröndal,Röd Norsborg,2,44,null,Lägenhet,1959,[Gröndal],1995000,525000,2520000,1956,Notar,774.1954871668482,Liljeholmen
+2014-10-01,Ekensbergsvägen 8,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1650000,60000,1710000,2224,Notar,1011.1211135252706,Ornsberg
+2014-09-27,Gröndalsvägen 186,Gröndal,Röd Norsborg,3,81,4,Lägenhet,null,[Gröndal],3295000,425000,3720000,3488,Svensk Fastighetsförmedling,1042.4731089668282,Ornsberg
+2014-09-26,Ormbergsvägen 12,Gröndal,Röd Norsborg,1.5,52,null,Lägenhet,2001,[Gröndal],2385000,315000,2700000,3552,Erik Olsson Fastighetsförmedling,1131.1742307551733,Liljeholmen
+2014-09-26,Jungmansgränd 2,Gröndal,Röd Norsborg,2,55,4,Lägenhet,null,[Gröndal],3495000,105000,3600000,3454,Notar,1046.5248169267632,Liljeholmen
+2014-09-22,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,null,Lägenhet,1959,[Gröndal],3995000,-35000,3960000,3747,Notar,715.5983881864446,Liljeholmen
+2014-09-18,Sjöbjörnsvägen 52,Gröndal,Röd Norsborg,2,58,2,Lägenhet,null,[Gröndal],2995000,895000,3890000,3650,Fastighetsbyrån,1046.9240195331442,Liljeholmen
+2014-09-18,Skonertvägen 9A,Gröndal,Röd Norsborg,1.5,37,4,Lägenhet,1990,[Gröndal],1695000,175000,1870000,2253,Fastighetsbyrån,773.3775811104011,Aspudden
+2014-09-18,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,4,Lägenhet,1959,[Gröndal],3195000,55000,3250000,3747,Notar,715.5983881864446,Liljeholmen
+2014-09-12,Sjöbjörnsvägen 23,Gröndal,Röd Norsborg,2,48,1,Lägenhet,1904,[Gröndal],2875000,775000,3650000,3326,Svenska Mäklarhuset,1222.6417221132267,Liljeholmen
+2014-09-12,Gröndalsvägen 188,Gröndal,Röd Norsborg,4,93,null,Lägenhet,1982,[Gröndal],3495000,230000,3725000,3833,Länsförsäkringar Fastighetsförmedling,1054.3235779166894,Ornsberg
+2014-09-10,Jungmansgränd 2,Gröndal,Röd Norsborg,2,55,2,Lägenhet,1907,[Gröndal],2395000,815000,3210000,3350,Notar,1046.5248169267632,Liljeholmen
+2014-09-09,Fågelsångsvägen 5,Gröndal,Röd Norsborg,2,64.5,null,Lägenhet,1956,[Gröndal],2500000,775000,3275000,3008,Södermäklarna,949.3642842789002,Aspudden
+2014-09-09,Gröndalsvägen 159,Gröndal,Röd Norsborg,4,97,4,Lägenhet,1982,[Gröndal],3995000,505000,4500000,4946,Notar,1061.084246478073,Ornsberg
+2014-09-03,Skonertvägen 9B,Gröndal,Röd Norsborg,2,62,4,Lägenhet,1990,[Gröndal],2395000,285000,2680000,3735,Erik Olsson Fastighetsförmedling,755.3110282107393,Aspudden
+2014-08-29,Gröndalsvägen 214,Gröndal,Röd Norsborg,2,68,5,Lägenhet,2008,[Gröndal],3450000,415000,3865000,4331,Södermäklarna,1141.6684755337646,Ornsberg
+2014-08-28,Lustigkullavägen 4,Gröndal,Röd Norsborg,2,70,null,Lägenhet,null,[Gröndal],3500000,185000,3685000,3188,Classic Home Fastighetsmäkleri,787.3834050000445,Liljeholmen
+2014-08-25,Ormbergsvägen 7,Gröndal,Röd Norsborg,3.5,null,5,Lägenhet,1946,[Gröndal],4975000,-75000,4900000,5074,Södermäklarna,1095.401839590603,Liljeholmen
+2014-08-21,Fregattvägen 63,Gröndal,Röd Norsborg,2,46,null,Lägenhet,1944,[Gröndal],1750000,480000,2230000,3303,Svenska Mäklarhuset,777.0993475739953,Aspudden
+2014-08-20,Eldarvägen 4,Gröndal,Röd Norsborg,1.5,36.5,4,Lägenhet,1924,[Gröndal],1995000,305000,2300000,1816,Fastighetsbyrån,834.076824418034,Liljeholmen
+2014-08-15,Grenljusbacken 26,Gröndal,Röd Norsborg,4,86,5.5,Lägenhet,1959,[Gröndal],3495000,615000,4110000,3635,Notar,780.4889122038155,Liljeholmen
+2014-08-14,Eldarvägen 4,Gröndal,Röd Norsborg,2,37,2,Lägenhet,1924,[Gröndal],1995000,455000,2450000,1816,Fastighetsbyrån,834.076824418034,Liljeholmen
+2014-08-13,Sjöbjörnsvägen 22,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],2595000,905000,3500000,3650,Notar,1003.4929372009873,Liljeholmen
+2014-08-07,Gröndalsvägen 147,Gröndal,Röd Norsborg,2,68,2,Lägenhet,1981,[Gröndal],2295000,275000,2570000,2929,Notar,961.300446572399,Ornsberg
+2014-07-25,Bryggvägen 4,Gröndal,Röd Norsborg,1,28,3,Lägenhet,1957,[Gröndal],1395000,310000,1705000,1663,Notar,1040.2900582536702,Aspudden
+2014-07-22,Klyvarvägen 6,Gröndal,Röd Norsborg,2,42,2,Lägenhet,1957,[Gröndal],1850000,10000,1860000,2494,HusmanHagberg,1060.2964564218914,Aspudden
+2014-07-10,Grenljusbacken 17,Gröndal,Röd Norsborg,2,53,4,Lägenhet,null,[Gröndal],2595000,0,2595000,3370,Fastighetsbyrån,699.6253011017367,Liljeholmen
+2014-06-19,Fregattvägen 52,Gröndal,Röd Norsborg,2,44.5,null,Lägenhet,1946,[Gröndal],1750000,320000,2070000,3026,Notar,816.1334717923139,Aspudden
+2014-06-18,Gröndalsvägen 48,Gröndal,Röd Norsborg,1,26,null,Lägenhet,1900,[Gröndal],1595000,280000,1875000,1872,Mäklarringen,958.680009581935,Liljeholmen
+2014-06-17,Gröndalsvägen 108,Gröndal,Röd Norsborg,2,58,null,Lägenhet,1957,[Gröndal],2095000,115000,2210000,3444,Fastighetsbyrån,1010.4874758755942,Aspudden
+2014-06-16,Gröndalsvägen 23,Gröndal,Röd Norsborg,3,67,1,Lägenhet,1913,[Gröndal],3750000,475000,4225000,2235,Mäklarringen,795.415889839741,Liljeholmen
+2014-06-13,Skonertvägen 9A,Gröndal,Röd Norsborg,3,63,4,Lägenhet,1990,[Gröndal],2395000,105000,2500000,3557,Fastighetsbyrån,773.3775811104011,Aspudden
+2014-06-06,Gröndalsvägen 208,Gröndal,Röd Norsborg,3,73,null,Lägenhet,1981,[Gröndal],3350000,0,3350000,3012,Notar,1107.2454723753024,Ornsberg
+2014-06-05,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,2.5,61,3,Lägenhet,1949,[Gröndal],2595000,635000,3230000,3522,Notar,962.1916454897391,Liljeholmen
+2014-05-31,Gröndalsvägen 54,Gröndal,Röd Norsborg,2,68,2,Lägenhet,1949,[Gröndal],3350000,850000,4200000,4032,BOSTHLM,992.4843347636405,Liljeholmen
+2014-05-29,Gröndalsvägen 170,Gröndal,Röd Norsborg,4,97,6,Lägenhet,null,[Gröndal],4195000,305000,4500000,3223,Fastighetsbyrån,986.6203265387342,Ornsberg
+2014-05-28,Ekensbergsvägen 50,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1495000,125000,1620000,2190,Svenska Mäklarhuset,1035.3693545128938,Aspudden
+2014-05-28,Bryggvägen 4,Gröndal,Röd Norsborg,1,24,null,Lägenhet,1957,[Gröndal],1295000,280000,1575000,1425,BOSTHLM,1040.2900582536702,Aspudden
+2014-05-25,Ekensbergsvägen 28,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1495000,0,1495000,2021,Svenska Mäklarhuset,1032.4946718030596,Aspudden
+2014-05-22,Ljusstöparbacken 24,Gröndal,Röd Norsborg,1,32.5,null,Lägenhet,1961,[Gröndal],1595000,305000,1900000,1505,HusmanHagberg,909.3488883443629,Liljeholmen
+2014-05-20,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,24,5,Lägenhet,1947,[Gröndal],1450000,260000,1710000,1340,Länsförsäkringar Fastighetsförmedling,1052.7135972482408,Aspudden
+2014-05-20,Fregattvägen 85,Gröndal,Röd Norsborg,2,46,1,Lägenhet,1943,[Gröndal],1950000,100000,2050000,3209,Notar,805.4612210116603,Aspudden
+2014-05-19,Ormbergsvägen 16,Gröndal,Röd Norsborg,3,77,7,Lägenhet,1982,[Gröndal],4495000,1105000,5600000,4751,Södermäklarna,1151.6354119477216,Liljeholmen
+2014-05-18,Gröndalsvägen 170,Gröndal,Röd Norsborg,4,97,2,Lägenhet,1981,[Gröndal],3795000,305000,4100000,3073,Notar,986.6203265387342,Ornsberg
+2014-05-18,Gröndalsvägen 171,Gröndal,Röd Norsborg,3,83,2,Lägenhet,1982,[Gröndal],3750000,65000,3815000,4328,Notar,1056.6069370305065,Ornsberg
+2014-05-17,Gröndalsvägen 208,Gröndal,Röd Norsborg,3,72,null,Lägenhet,1981,[Gröndal],3250000,0,3250000,2970,Notar,1107.2454723753024,Ornsberg
+2014-05-16,Gröndalsvägen 206,Gröndal,Röd Norsborg,1.5,40,null,Lägenhet,1981,[Gröndal],1950000,0,1950000,1650,Notar,1099.9419772628028,Ornsberg
+2014-05-15,Sjöbjörnsvägen 26,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],2495000,275000,2770000,3650,Notar,995.078610708537,Liljeholmen
+2014-05-14,Fregattvägen 36,Gröndal,Röd Norsborg,2,44.5,1,Lägenhet,1946,[Gröndal],1695000,55000,1750000,3026,Notar,850.3853312728336,Aspudden
+2014-05-14,Sjöbjörnsvägen 4,Gröndal,Röd Norsborg,2.5,58,null,Lägenhet,1946,[Gröndal],2495000,640000,3135000,3650,Notar,933.8127790616779,Liljeholmen
+2014-05-14,Gröndalsvägen 208,Gröndal,Röd Norsborg,4,89,null,Lägenhet,1981,[Gröndal],3995000,0,3995000,3671,Notar,1107.2454723753024,Ornsberg
+2014-05-11,Klyvarvägen 6,Gröndal,Röd Norsborg,2,52,1,Lägenhet,1957,[Gröndal],1795000,105000,1900000,3088,HusmanHagberg,1060.2964564218914,Aspudden
+2014-05-08,Sjöbjörnsvägen 25,Gröndal,Röd Norsborg,1,35,2,Lägenhet,1903,[Gröndal],1875000,195000,2070000,2558,Erik Olsson Fastighetsförmedling,1244.053242450659,Liljeholmen
+2014-05-07,Gröndalsvägen 212,Gröndal,Röd Norsborg,3,80,null,Lägenhet,1981,[Gröndal],3395000,0,3395000,3300,Notar,1110.7010556765513,Ornsberg
+2014-05-06,Gröndalsvägen 37,Gröndal,Röd Norsborg,1,25,4,Lägenhet,1913,[Gröndal],1650000,405000,2055000,1321,Fastighetsbyrån,874.6488588726297,Liljeholmen
+2014-05-06,Gröndalsvägen 206,Gröndal,Röd Norsborg,3,66,null,Lägenhet,1981,[Gröndal],2950000,10000,2960000,2723,Notar,1099.9419772628028,Ornsberg
+2014-05-05,Gröndalsvägen 208,Gröndal,Röd Norsborg,1.5,43,null,Lägenhet,1981,[Gröndal],1995000,0,1995000,1774,Notar,1107.2454723753024,Ornsberg
+2014-05-02,Ormbergsvägen 12,Gröndal,Röd Norsborg,1,40,null,Lägenhet,2002,[Gröndal],1795000,35000,1830000,3124,SkandiaMäklarna,1131.1742307551733,Liljeholmen
+2014-05-02,Ekensbergsvägen 21,Gröndal,Röd Norsborg,5,104,null,Lägenhet,1982,[Gröndal],4025000,0,4025000,4436,Fastighetsbyrån,1059.1291996708107,Ornsberg
+2014-05-01,Fregattvägen 77,Gröndal,Röd Norsborg,2,47,2,Lägenhet,1943,[Gröndal],1795000,245000,2040000,3372,Notar,772.8840912039351,Aspudden
+2014-05-01,Gröndalsvägen 171,Gröndal,Röd Norsborg,3,79,3,Lägenhet,1982,[Gröndal],3195000,265000,3460000,4037,Notar,1056.6069370305065,Ornsberg
+2014-05-01,Fregattvägen 71,Gröndal,Röd Norsborg,2,47,1,Lägenhet,1943,[Gröndal],1795000,165000,1960000,3279,Notar,788.7038021577645,Aspudden
+2014-05-01,Eldarvägen 4,Gröndal,Röd Norsborg,1.5,35,1,Lägenhet,1924,[Gröndal],1795000,445000,2240000,1759,Länsförsäkringar Fastighetsförmedling,834.076824418034,Liljeholmen
+2014-04-29,Gröndalsvägen 179,Gröndal,Röd Norsborg,2.5,68,3,Lägenhet,1982,[Gröndal],2795000,555000,3350000,3546,Notar,1094.8667057981909,Ornsberg
+2014-04-24,Gröndalsvägen 48,Gröndal,Röd Norsborg,1,30,2,Lägenhet,1900,[Gröndal],1695000,35000,1730000,1657,Notar,958.680009581935,Liljeholmen
+2014-04-23,Gröndalsvägen 118,Gröndal,Röd Norsborg,1,24,6,Lägenhet,1959,[Gröndal],1450000,195000,1645000,1269,Notar,986.4340848698613,Aspudden
+2014-04-18,Sannadalsvägen 4,Gröndal,Röd Norsborg,2,45,2,Lägenhet,1938,[Gröndal],2000000,0,2000000,2982,Fastighetsbyrån,674.1501808331539,Liljeholmen
+2014-04-17,Lustigkullavägen 1,Gröndal,Röd Norsborg,1,45,null,Lägenhet,1933,[Gröndal],1950000,500000,2450000,2796,Svenska Mäklarhuset,746.58292659216,Liljeholmen
+2014-04-14,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,25,3,Lägenhet,1947,[Gröndal],1495000,15000,1510000,1394,Fastighetsbyrån,1052.7135972482408,Aspudden
+2014-04-13,Sjöbjörnsvägen 11,Gröndal,Röd Norsborg,1,20,3,Lägenhet,null,[Gröndal],1295000,0,1295000,1269,Fastighetsbyrån,1064.8218424744787,Liljeholmen
+2014-04-10,Gröndalsvägen 33,Gröndal,Röd Norsborg,1,34,2,Lägenhet,1913,[Gröndal],1850000,250000,2100000,1751,Fastighetsbyrån,850.471206680837,Liljeholmen
+2014-04-10,Gröndalsvägen 120,Gröndal,Röd Norsborg,3,74,null,Lägenhet,1959,[Gröndal],2795000,805000,3600000,3187,Fastighetsbyrån,994.9973588091256,Aspudden
+2014-04-10,Sjöbjörnsvägen 66B,Gröndal,Röd Norsborg,3,75,4,Lägenhet,1998,[Gröndal],5050000,0,5050000,4893,BOSTHLM,1220.5225971373213,Liljeholmen
+2014-04-10,Fregattvägen 34,Gröndal,Röd Norsborg,2,53.1,3,Lägenhet,1946,[Gröndal],1750000,120000,1870000,3611,Erik Olsson Fastighetsförmedling,852.8087600370436,Aspudden
+2014-04-10,Ormbergsvägen 20,Gröndal,Röd Norsborg,2,66,5,Lägenhet,2001,[Gröndal],3300000,0,3300000,4215,Erik Olsson Fastighetsförmedling,1138.7821671091954,Liljeholmen
+2014-04-09,Ljusstöparbacken 22A,Gröndal,Röd Norsborg,2,60,3,Lägenhet,1959,[Gröndal],2250000,50000,2300000,2627,Magnusson Mäkleri,913.7514980879714,Liljeholmen
+2014-04-06,Ekensbergsvägen 32,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1375000,0,1375000,2190,Hemmäklarna,1036.7668980160033,Aspudden
+2014-04-04,Ormbergsvägen 11,Gröndal,Röd Norsborg,4,106,3,Lägenhet,1946,[Gröndal],4995000,665000,5660000,5575,Södermäklarna,1080.5726897554032,Liljeholmen
+2014-04-04,Fregattvägen 34,Gröndal,Röd Norsborg,2,55.5,2,Lägenhet,1946,[Gröndal],1795000,355000,2150000,3774,Notar,852.8087600370436,Aspudden
+2014-04-02,Sjöbjörnsvägen 50,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],2495000,235000,2730000,3650,Notar,1027.0259236450909,Liljeholmen
+2014-04-02,Lustigkullavägen 7,Gröndal,Röd Norsborg,4,81,5,Lägenhet,1985,[Gröndal],3450000,500000,3950000,4925,Erik Olsson Fastighetsförmedling,793.0662438611068,Liljeholmen
+2014-04-02,Lustigkullavägen 1,Gröndal,Röd Norsborg,3,88,1,Lägenhet,1933,[Gröndal],3595000,275000,3870000,5468,Fastighetsbyrån,746.58292659216,Liljeholmen
+2014-03-27,Ormbergsvägen 7,Gröndal,Röd Norsborg,2,63,1,Lägenhet,1946,[Gröndal],2995000,-45000,2950000,3949,Södermäklarna,1095.401839590603,Liljeholmen
+2014-03-27,Ormbergsvägen 20,Gröndal,Röd Norsborg,20,129,7,Lägenhet,1982,[Gröndal],6975000,280000,7255000,7205,Södermäklarna,1138.7821671091954,Liljeholmen
+2014-03-27,Grenljusbacken 26,Gröndal,Röd Norsborg,3,86,3.5,Lägenhet,1961,[Gröndal],2990000,10000,3000000,3664,HusmanHagberg,780.4889122038155,Liljeholmen
+2014-03-26,Maskinistgatan 9,Gröndal,Röd Norsborg,1.5,35,3,Lägenhet,1932,[Gröndal],2150000,0,2150000,2540,BOSTHLM,856.272203155781,Liljeholmen
+2014-03-26,Grenljusbacken 26,Gröndal,Röd Norsborg,3,87,7,Lägenhet,1959,[Gröndal],3495000,705000,4200000,3696,Notar,780.4889122038155,Liljeholmen
+2014-03-24,Gröndalsvägen 202,Gröndal,Röd Norsborg,3,81,5,Lägenhet,1981,[Gröndal],3495000,205000,3700000,3339,Notar,1097.5083551006517,Ornsberg
+2014-03-21,Gröndalsvägen 118,Gröndal,Röd Norsborg,1,24,2,Lägenhet,1959,[Gröndal],1395000,0,1395000,1225,Notar,986.4340848698613,Aspudden
+2014-03-19,Sjöbjörnsvägen 48,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],2595000,15000,2610000,3650,Notar,1048.46841409037,Liljeholmen
+2014-03-14,Fregattvägen 75,Gröndal,Röd Norsborg,2,47,3,Lägenhet,1944,[Gröndal],1875000,295000,2170000,3856,HusmanHagberg,787.9424384400642,Aspudden
+2014-03-13,Sjöbjörnsvägen 11,Gröndal,Röd Norsborg,2,39,2,Lägenhet,null,[Gröndal],1795000,0,1795000,2474,Svensk Fastighetsförmedling,1064.8218424744787,Liljeholmen
+2014-03-13,Ormbergsvägen 10,Gröndal,Röd Norsborg,2.5,60,null,Lägenhet,2001,[Gröndal],3150000,0,3150000,3961,Erik Olsson Fastighetsförmedling,1118.516188736149,Liljeholmen
+2014-03-13,Sjöbjörnsvägen 66D, v4,Gröndal,Röd Norsborg,4,104,null,Lägenhet,1947,[Gröndal],3950000,1210000,5160000,6515,Notar,1212.6037152640542,Liljeholmen
+2014-03-05,Sannadalsvägen 30,Gröndal,Röd Norsborg,3,59,1,Lägenhet,1938,[Gröndal],2795000,70000,2865000,3669,Notar,750.0892512961836,Liljeholmen
+2014-03-04,Gröndalsvägen 52,Gröndal,Röd Norsborg,2,67,null,Lägenhet,null,[Gröndal],3195000,685000,3880000,3895,BOSTHLM,976.6177202443241,Liljeholmen
+2014-02-28,Ormbergsvägen 20,Gröndal,Röd Norsborg,2,69,6,Lägenhet,2002,[Gröndal],3100000,250000,3350000,4400,SkandiaMäklarna,1138.7821671091954,Liljeholmen
+2014-02-24,Sannadalsvägen 30,Gröndal,Röd Norsborg,1,33,2.5,Lägenhet,1938,[Gröndal],1595000,125000,1720000,2352,Notar,750.0892512961836,Liljeholmen
+2014-02-20,Sjöbjörnsvägen 66A,Gröndal,Röd Norsborg,2,60,6,Lägenhet,1998,[Gröndal],3900000,0,3900000,4088,BOSTHLM,1220.5225971373213,Liljeholmen
+2014-02-19,Ljusstöparbacken 11A,Gröndal,Röd Norsborg,3,77,1,Lägenhet,1959,[Gröndal],2995000,305000,3300000,3239,Notar,864.0880938394322,Liljeholmen
+2014-02-19,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2.5,61,4,Lägenhet,1947,[Gröndal],2995000,0,2995000,4431,Bjurfors,1220.5225971373213,Liljeholmen
+2014-02-15,Ormbergsvägen 1,Gröndal,Röd Norsborg,3,91,1,Lägenhet,null,[Gröndal],4975000,100000,5075000,4287,BOSTHLM,1099.6857911470224,Liljeholmen
+2014-02-15,Ljusstöparbacken 18,Gröndal,Röd Norsborg,2,71,null,Lägenhet,1959,[Gröndal],2595000,330000,2925000,3236,Mäklarhuset,892.5155940228514,Liljeholmen
+2014-02-15,Ormbergsvägen 20,Gröndal,Röd Norsborg,6,172,null,Lägenhet,1982,[Gröndal],6495000,540000,7035000,5314,Södermäklarna,1138.7821671091954,Liljeholmen
+2014-02-12,Skonertvägen 9A,Gröndal,Röd Norsborg,1,37,2,Lägenhet,1990,[Gröndal],1695000,110000,1805000,2146,Svensk Fastighetsförmedling,773.3775811104011,Aspudden
+2014-02-11,Gröndalsvägen 106,Gröndal,Röd Norsborg,2,43,1,Lägenhet,1957,[Gröndal],2080000,0,2080000,2554,BOSTHLM,1003.4902040794123,Aspudden
+2014-02-11,Ljusstöparbacken 9A,Gröndal,Röd Norsborg,2,57.5,3,Lägenhet,1959,[Gröndal],2195000,545000,2740000,2575,BOSTHLM,842.2228008192128,Liljeholmen
+2014-02-08,Lustigkullavägen 4,Gröndal,Röd Norsborg,3,75,1,Lägenhet,1912,[Gröndal],3700000,-70000,3630000,3679,Svensk Fastighetsförmedling,787.3834050000445,Liljeholmen
+2014-02-07,Grenljusbacken 21,Gröndal,Röd Norsborg,3,71,9,Lägenhet,1959,[Gröndal],2895000,215000,3110000,3453,Notar,715.5983881864446,Liljeholmen
+2014-02-07,Gröndalsvägen 110,Gröndal,Röd Norsborg,4,93,2,Lägenhet,1965,[Gröndal],3395000,20000,3415000,4980,Notar,1003.7547078981177,Aspudden
+2014-02-05,Sjöbjörnsvägen 15A,Gröndal,Röd Norsborg,2,59,1,Lägenhet,1947,[Gröndal],2600000,675000,3275000,3742,Fastighetsbyrån,1086.1035069280613,Liljeholmen
+2014-02-01,Ljusstöparbacken 1,Gröndal,Röd Norsborg,3,77,6,Lägenhet,1959,[Gröndal],3475000,125000,3600000,3369,Mäklarhuset,728.5014848672166,Liljeholmen
+2014-01-30,Ekensbergsvägen 3,Gröndal,Röd Norsborg,4,104,null,Lägenhet,1981,[Gröndal],3975000,435000,4410000,3661,BOSTHLM,961.6247162238956,Ornsberg
+2014-01-30,Grenljusbacken 15,Gröndal,Röd Norsborg,4,83.5,null,Lägenhet,1984,[Gröndal],3850000,-160000,3690000,4838,Fastighetsbyrån,677.18943591019,Liljeholmen
+2014-01-27,Fregattvägen 74,Gröndal,Röd Norsborg,2,53,3,Lägenhet,1944,[Gröndal],1950000,150000,2100000,3808,HusmanHagberg,841.5291316639731,Aspudden
+2014-01-25,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,4,84,10,Lägenhet,1949,[Gröndal],5725000,0,5725000,5012,BOSTHLM,962.1916454897391,Liljeholmen
+2014-01-25,Ljusstöparbacken 22C,Gröndal,Röd Norsborg,4.5,126.5,3,Lägenhet,1959,[Gröndal],4795000,430000,5225000,4775,Notar,909.8659277325036,Liljeholmen
+2014-01-23,Sannadalsvägen 3,Gröndal,Röd Norsborg,2,62,1,Lägenhet,1985,[Gröndal],2495000,165000,2660000,3840,Notar,748.7504796438803,Liljeholmen
+2014-01-21,Maskinistgatan 9,Gröndal,Röd Norsborg,2,40,2,Lägenhet,1932,[Gröndal],1895000,445000,2340000,3240,Fastighetsbyrån,856.272203155781,Liljeholmen
+2014-01-19,Ljusstöparbacken 26B,Gröndal,Röd Norsborg,2,60,3,Lägenhet,1959,[Gröndal],2195000,285000,2480000,2627,Notar,886.6758193815718,Liljeholmen
+2014-01-19,Lustigkullavägen 7,Gröndal,Röd Norsborg,2,54,1,Lägenhet,1985,[Gröndal],2295000,0,2295000,3467,Notar,793.0662438611068,Liljeholmen
+2014-01-16,Ljusstöparbacken 11B,Gröndal,Röd Norsborg,1,22,null,Lägenhet,1961,[Gröndal],1350000,0,1350000,1183,SkandiaMäklarna,871.4544967896067,Liljeholmen
+2014-01-16,Ormbergsvägen 10,Gröndal,Röd Norsborg,3,95,7,Lägenhet,2002,[Gröndal],4600000,940000,5540000,5491,Fastighetsbyrån,1118.516188736149,Liljeholmen
+2014-01-15,Ormbergsvägen 7,Gröndal,Röd Norsborg,3,97,2,Lägenhet,1946,[Gröndal],4475000,425000,4900000,5123,Södermäklarna,1095.401839590603,Liljeholmen
+2014-01-15,Ljusstöparbacken 5C,Gröndal,Röd Norsborg,2,57.5,3,Lägenhet,null,[Gröndal],2195000,415000,2610000,2596,Svensk Fastighetsförmedling,792.8752010477425,Liljeholmen
+2014-01-15,Skonertvägen 9B,Gröndal,Röd Norsborg,1,37,2,Lägenhet,1990,[Gröndal],1495000,225000,1720000,2146,Svensk Fastighetsförmedling,755.3110282107393,Aspudden
+2014-01-10,Gröndalsvägen 141,Gröndal,Röd Norsborg,3,83,1,Lägenhet,1981,[Gröndal],3375000,225000,3600000,3523,Notar,927.2073755550592,Ornsberg
+2014-01-09,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,25,6,Lägenhet,1947,[Gröndal],1395000,165000,1560000,1394,Notar,1052.7135972482408,Aspudden
+2014-01-08,Fregattvägen 73,Gröndal,Röd Norsborg,2,47,null,Lägenhet,1943,[Gröndal],1495000,565000,2060000,3372,Notar,790.9157799441193,Aspudden
+2014-01-08,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,25,3,Lägenhet,1947,[Gröndal],1395000,255000,1650000,1394,Fastighetsbyrån,1052.7135972482408,Aspudden
+2014-01-06,Gröndalsvägen 17,Gröndal,Röd Norsborg,4,117,2,Lägenhet,1934,[Gröndal],4250000,375000,4625000,7268,BOSTHLM,718.233033950459,Liljeholmen
+2013-12-19,Gröndalsvägen 38,Gröndal,Röd Norsborg,3,64,null,Lägenhet,1963,[Gröndal],2995000,700000,3695000,901,Fastighetsbyrån,908.3641738717373,Liljeholmen
+2013-12-18,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,39,6,Lägenhet,1947,[Gröndal],1795000,105000,1900000,2178,HusmanHagberg,1052.7135972482408,Aspudden
+2013-12-09,Eldarvägen 4,Gröndal,Röd Norsborg,1,38,1,Lägenhet,1925,[Gröndal],1750000,350000,2100000,1891,BOSTHLM,834.076824418034,Liljeholmen
+2013-12-06,Ljusstöparbacken 28A,Gröndal,Röd Norsborg,3,74,2,Lägenhet,1959,[Gröndal],2975000,350000,3325000,3341,Mäklarhuset,848.6214399876933,Liljeholmen
+2013-11-30,Ormbergsvägen 10,Gröndal,Röd Norsborg,3,83,6,Lägenhet,1982,[Gröndal],3895000,505000,4400000,4997,Södermäklarna,1118.516188736149,Liljeholmen
+2013-11-27,Gröndalsvägen 50,Gröndal,Röd Norsborg,2,66,2.5,Lägenhet,1949,[Gröndal],2795000,715000,3510000,3838,Notar,964.9251554835548,Liljeholmen
+2013-11-20,Sannadalsvägen 8,Gröndal,Röd Norsborg,1,33,null,Lägenhet,1938,[Gröndal],1645000,75000,1720000,2202,Notar,656.7708616927393,Liljeholmen
+2013-11-17,Gröndalsvägen 202,Gröndal,Röd Norsborg,3,57,null,Lägenhet,1982,[Gröndal],2695000,100000,2795000,2117,Länsförsäkringar Fastighetsförmedling,1097.5083551006517,Ornsberg
+2013-11-16,Klyvarvägen 6,Gröndal,Röd Norsborg,2,42,null,Lägenhet,1957,[Gröndal],1595000,115000,1710000,2476,Notar,1060.2964564218914,Aspudden
+2013-11-15,Ljusstöparbacken 22,Gröndal,Röd Norsborg,4,95,null,Lägenhet,1959,[Gröndal],3675000,535000,4210000,4100,Mäklarhuset,916.4353072272818,Liljeholmen
+2013-11-15,Ljusstöparbacken 18,Gröndal,Röd Norsborg,2,57,null,Lägenhet,1959,[Gröndal],2475000,210000,2685000,2649,Mäklarhuset,892.5155940228514,Liljeholmen
+2013-11-14,Lustigkullavägen 7,Gröndal,Röd Norsborg,4,85.5,1,Lägenhet,1985,[Gröndal],3695000,100000,3795000,5295,Notar,793.0662438611068,Liljeholmen
+2013-11-13,Ekensbergsvägen 126,Gröndal,Röd Norsborg,3,58,2,Lägenhet,1947,[Gröndal],2300000,300000,2600000,3236,Fastighetsbyrån,1080.888907770621,Aspudden
+2013-11-08,Sjöbjörnsvägen 29,Gröndal,Röd Norsborg,2,49.4,2.5,Lägenhet,1904,[Gröndal],2495000,330000,2825000,2646,Notar,1262.5356477670732,Aspudden
+2013-11-07,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,3,Lägenhet,1959,[Gröndal],2795000,255000,3050000,3747,Notar,715.5983881864446,Liljeholmen
+2013-11-04,Gröndalsvägen 27,Gröndal,Röd Norsborg,4,90,1,Lägenhet,1913,[Gröndal],4100000,475000,4575000,4120,Svensk Fastighetsförmedling,819.2633263959633,Liljeholmen
+2013-11-02,Gröndalsvägen 54,Gröndal,Röd Norsborg,2.5,69,null,Lägenhet,1949,[Gröndal],2695000,1105000,3800000,4263,BOSTHLM,992.4843347636405,Liljeholmen
+2013-11-01,Sjöbjörnsvägen 38,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],2395000,305000,2700000,3650,Notar,1006.5547819677076,Liljeholmen
+2013-11-01,Ormbergsvägen 10,Gröndal,Röd Norsborg,3,95,2,Lägenhet,2001,[Gröndal],3995000,105000,4100000,5491,Erik Olsson Fastighetsförmedling,1118.516188736149,Liljeholmen
+2013-10-31,Skonertvägen 9A,Gröndal,Röd Norsborg,3,63,null,Lägenhet,1990,[Gröndal],1995000,505000,2500000,3614,Fastighetsbyrån,773.3775811104011,Aspudden
+2013-10-30,Sannadalsvägen 26,Gröndal,Röd Norsborg,3,59,null,Lägenhet,1938,[Gröndal],2450000,50000,2500000,3434,Fastighetsbyrån,736.3358739380707,Liljeholmen
+2013-10-30,Fregattvägen 67,Gröndal,Röd Norsborg,2,46,2,Lägenhet,1944,[Gröndal],1695000,30000,1725000,3303,SkandiaMäklarna,749.6727587274838,Aspudden
+2013-10-30,Fregattvägen 42,Gröndal,Röd Norsborg,2,44.5,null,Lägenhet,1946,[Gröndal],1495000,335000,1830000,3026,Notar,834.2714733470851,Aspudden
+2013-10-28,Ormbergsvägen 7,Gröndal,Röd Norsborg,1.5,54,null,Lägenhet,1946,[Gröndal],2325000,100000,2425000,3276,BOSTHLM,1095.401839590603,Liljeholmen
+2013-10-22,Ekensbergsvägen 118,Gröndal,Röd Norsborg,2,52,null,Lägenhet,1947,[Gröndal],2100000,0,2100000,2902,Fastighetsbyrån,1052.7135972482408,Aspudden
+2013-10-20,Sjöbjörnsvägen 52,Gröndal,Röd Norsborg,2,58,null,Lägenhet,1946,[Gröndal],2695000,45000,2740000,3650,Svensk Fastighetsförmedling,1046.9240195331442,Liljeholmen
+2013-10-17,Ljusstöparbacken 1,Gröndal,Röd Norsborg,3,82,null,Lägenhet,null,[Gröndal],3125000,290000,3415000,3708,BOSTHLM,728.5014848672166,Liljeholmen
+2013-10-16,Ekensbergsvägen 5,Gröndal,Röd Norsborg,3,81,2,Lägenhet,1981,[Gröndal],3495000,-45000,3450000,2851,Notar,957.5478168313848,Ornsberg
+2013-10-09,Utkiksbacken 23,Gröndal,Röd Norsborg,3,62,null,Lägenhet,1948,[Gröndal],3200000,-300000,2900000,3402,Svensk Fastighetsförmedling,1208.0172382408991,Aspudden
+2013-10-09,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,24,7,Lägenhet,1947,[Gröndal],1375000,135000,1510000,1340,Mäklarhuset,1052.7135972482408,Aspudden
+2013-10-04,Ormbergsvägen 12,Gröndal,Röd Norsborg,3.5,93,null,Lägenhet,null,[Gröndal],3950000,445000,4395000,5406,Södermäklarna,1131.1742307551733,Liljeholmen
+2013-10-04,Gröndalsvägen 17,Gröndal,Röd Norsborg,4,86,null,Lägenhet,1934,[Gröndal],3725000,0,3725000,5343,Fastighetsbyrån,718.233033950459,Liljeholmen
+2013-10-03,Sjöbjörnsvägen 11,Gröndal,Röd Norsborg,1,20,1,Lägenhet,1944,[Gröndal],1095000,85000,1180000,1269,Notar,1064.8218424744787,Liljeholmen
+2013-10-03,Sjöbjörnsvägen 46,Gröndal,Röd Norsborg,2.5,58,null,Lägenhet,null,[Gröndal],2295000,355000,2650000,3650,BOSTHLM,1018.3508707157561,Liljeholmen
+2013-10-03,Gröndalsvägen 27,Gröndal,Röd Norsborg,3,65,null,Lägenhet,1913,[Gröndal],3450000,350000,3800000,3041,Fastighetsbyrån,819.2633263959633,Liljeholmen
+2013-10-02,Maskinistgatan 17,Gröndal,Röd Norsborg,3,95,1,Lägenhet,1911,[Gröndal],5600000,0,5600000,4111,BOSTHLM,814.6906317097794,Liljeholmen
+2013-10-02,Gröndalsvägen 21,Gröndal,Röd Norsborg,4,117,1,Lägenhet,1913,[Gröndal],5850000,0,5850000,3250,BOSTHLM,775.508418053464,Liljeholmen
+2013-09-30,Sjöbjörnsvägen 8,Gröndal,Röd Norsborg,3.5,null,2,Lägenhet,null,[Gröndal],4975000,350000,5325000,5916,Södermäklarna,960.5113829870113,Liljeholmen
+2013-09-25,Sannadalsvägen 6,Gröndal,Röd Norsborg,1,33,null,Lägenhet,1938,[Gröndal],1490000,380000,1870000,2221,Notar,664.8146913562781,Liljeholmen
+2013-09-20,Gröndalsvägen 188,Gröndal,Röd Norsborg,3,81,4,Lägenhet,1981,[Gröndal],3295000,505000,3800000,3007,Notar,1054.3235779166894,Ornsberg
+2013-09-20,Ljusstöparbacken 11A,Gröndal,Röd Norsborg,3,77,2,Lägenhet,1959,[Liljeholmen],2995000,0,2995000,3238,Notar,864.0880938394322,Liljeholmen
+2013-09-19,Gröndalsvägen 198,Gröndal,Röd Norsborg,2,null,null,Lägenhet,null,[Gröndal],2400000,650000,3050000,2339,Hans Göthe Fastighetsbyrå AB,1090.3076047310474,Ornsberg
+2013-09-12,Gröndalsvägen 214,Gröndal,Röd Norsborg,2,68,4,Lägenhet,2008,[Gröndal],2995000,0,2995000,4331,Notar,1141.6684755337646,Ornsberg
+2013-09-12,Ljusstöparbacken 30A,Gröndal,Röd Norsborg,2,60,null,Lägenhet,null,[Gröndal],2195000,415000,2610000,2627,Fastighetsbyrån,820.0949174239137,Liljeholmen
+2013-09-11,Gröndalsvägen 120,Gröndal,Röd Norsborg,3,74,null,Lägenhet,1959,[Gröndal],2875000,475000,3350000,3217,Fastighetsbyrån,994.9973588091256,Aspudden
+2013-09-09,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,5,Lägenhet,1959,[Gröndal],2995000,75000,3070000,3747,SkandiaMäklarna,715.5983881864446,Liljeholmen
+2013-09-07,Gröndalsvägen 80,Gröndal,Röd Norsborg,1.5,37,null,Lägenhet,1906,[Gröndal],2275000,175000,2450000,3148,Fastighetsbyrån,1013.1554507968856,Aspudden
+2013-09-07,Gröndalsvägen 186,Gröndal,Röd Norsborg,3,81,3,Lägenhet,1981,[Gröndal],3295000,0,3295000,3007,Notar,1042.4731089668282,Ornsberg
+2013-09-07,Gröndalsvägen 214,Gröndal,Röd Norsborg,2,68,6,Lägenhet,2008,[Gröndal],2995000,200000,3195000,4331,Notar,1141.6684755337646,Ornsberg
+2013-09-05,Blommensbergsvägen 112,Gröndal,Röd Norsborg,3,84,null,Lägenhet,1911,[Gröndal],3650000,340000,3990000,4254,Mäklarringen,668.1623866778983,Aspudden
+2013-08-31,Gröndalsvägen 164,Gröndal,Röd Norsborg,4,104,1,Lägenhet,1981,[Gröndal],3695000,-85000,3610000,3811,BOSTHLM,943.2437227182793,Ornsberg
+2013-08-28,Ekensbergsvägen 5,Gröndal,Röd Norsborg,2,null,null,Lägenhet,null,[Gröndal],null,NaN,2650000,null,Hemverket,957.5478168313848,Ornsberg
+2013-08-28,Fregattvägen 85,Gröndal,Röd Norsborg,2,46,null,Lägenhet,1944,[Gröndal],1650000,300000,1950000,3303,BOSTHLM,805.4612210116603,Aspudden
+2013-08-27,Fregattvägen 48,Gröndal,Röd Norsborg,2,42,null,Lägenhet,1947,[Gröndal],1295000,225000,1520000,2856,Svenska Mäklarhuset,820.0334495693248,Aspudden
+2013-08-27,Ljusstöparbacken 5A,Gröndal,Röd Norsborg,1,29,null,Lägenhet,null,[Gröndal],1495000,35000,1530000,1520,Svensk Fastighetsförmedling,774.1954871668482,Liljeholmen
+2013-08-23,Gröndalsvägen 182,Gröndal,Röd Norsborg,2.5,68,4,Lägenhet,1981,[Gröndal],2850000,400000,3250000,2394,Notar,997.0658877157367,Ornsberg
+2013-08-23,Gröndalsvägen 159,Gröndal,Röd Norsborg,4,97,2,Lägenhet,1982,[Gröndal],3695000,135000,3830000,4805,Notar,1061.084246478073,Ornsberg
+2013-08-23,Gröndalsvägen 179,Gröndal,Röd Norsborg,4,90,5,Lägenhet,1981,[Gröndal],3950000,0,3950000,4599,Mäklarhuset,1094.8667057981909,Ornsberg
+2013-08-21,Sannadalsvägen 20,Gröndal,Röd Norsborg,2,45,null,Lägenhet,1938,[Gröndal],1850000,70000,1920000,2840,Fastighetsbyrån,712.2600061322322,Liljeholmen
+2013-08-21,Fregattvägen 74,Gröndal,Röd Norsborg,2.5,53,null,Lägenhet,1947,[Gröndal],1650000,170000,1820000,4175,Fastighetsbyrån,841.5291316639731,Aspudden
+2013-08-21,Sjöbjörnsvägen 28,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],2295000,280000,2575000,3650,Notar,1017.3440491047974,Liljeholmen
+2013-08-19,Sjöbjörnsvägen 38,Gröndal,Röd Norsborg,2,47,null,Lägenhet,null,[Gröndal],2295000,-120000,2175000,2880,Södermäklarna,1006.5547819677076,Liljeholmen
+2013-08-14,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2,66,null,Lägenhet,1947,[Gröndal],2695000,455000,3150000,4605,Fastighetsbyrån,1220.5225971373213,Liljeholmen
+2013-08-09,Ljusstöparbacken 7C,Gröndal,Röd Norsborg,2,57.5,2,Lägenhet,1959,[Gröndal],2195000,55000,2250000,2526,Notar,832.5080183339495,Liljeholmen
+2013-08-08,Sjöbjörnsvägen 12,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],2550000,190000,2740000,3650,Notar,955.849628088961,Liljeholmen
+2013-08-08,Ormbergsvägen 7,Gröndal,Röd Norsborg,2.5,80,null,Lägenhet,1946,[Gröndal],3495000,450000,3945000,4391,Fastighetsbyrån,1095.401839590603,Liljeholmen
+2013-08-03,Sjöbjörnsvägen 1,Gröndal,Röd Norsborg,2,70,null,Lägenhet,1948,[Gröndal],2650000,125000,2775000,3955,Notar,962.1916454897391,Liljeholmen
+2013-08-01,Gröndalsvägen 198,Gröndal,Röd Norsborg,5,126,6,Lägenhet,1981,[Gröndal],4995000,5000,5000000,4679,Notar,1090.3076047310474,Ornsberg
+2013-07-31,Grenljusbacken 13,Gröndal,Röd Norsborg,4,83.5,null,Lägenhet,1985,[Gröndal],3175000,625000,3800000,5037,BOSTHLM,658.387383662704,Liljeholmen
+2013-07-31,Ekensbergsvägen 34,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1450000,-50000,1400000,2190,Notar,1041.793777265924,Aspudden
+2013-07-31,Ekensbergsvägen 36,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1395000,0,1395000,2190,Svenska Mäklarhuset,1041.5283592815329,Aspudden
+2013-07-29,Gröndalsvägen 111,Gröndal,Röd Norsborg,2,46,5,Lägenhet,2009,[Gröndal],1995000,20000,2015000,2943,Notar,968.937946796296,Aspudden
+2013-07-26,Gröndalsvägen 118,Gröndal,Röd Norsborg,2,61,null,Lägenhet,1959,[Gröndal],2195000,175000,2370000,2709,Notar,986.4340848698613,Aspudden
+2013-07-26,Sjöbjörnsvägen 20,Gröndal,Röd Norsborg,2.5,58,null,Lägenhet,1946,[Gröndal],2195000,215000,2410000,3650,Notar,1029.7772146659058,Liljeholmen
+2013-07-24,Ljusstöparbacken 11C,Gröndal,Röd Norsborg,2,57.5,2,Lägenhet,1959,[Gröndal],1995000,25000,2020000,2596,Notar,899.9048476814437,Liljeholmen
+2013-07-18,Grenljusbacken 26,Gröndal,Röd Norsborg,3,86,9.5,Lägenhet,1959,[Gröndal],2695000,585000,3280000,3655,Notar,780.4889122038155,Liljeholmen
+2013-07-11,Lustigkullavägen 6,Gröndal,Röd Norsborg,2,56,1,Lägenhet,1934,[Gröndal],1995000,0,1995000,3624,Notar,803.0508851214128,Liljeholmen
+2013-07-08,Gröndalsvägen 80,Gröndal,Röd Norsborg,2,63,null,Lägenhet,1906,[Gröndal],2895000,45000,2940000,4071,Fastighetsbyrån,1013.1554507968856,Aspudden
+2013-07-05,Grenljusbacken 15,Gröndal,Röd Norsborg,3,67.5,null,Lägenhet,1985,[Gröndal],2695000,315000,3010000,4532,Fastighetsbyrån,677.18943591019,Liljeholmen
+2013-07-05,Ormbergsvägen 20,Gröndal,Röd Norsborg,6,175,1,Lägenhet,null,[Gröndal],5950000,875000,6825000,5365,Mäklarhuset,1138.7821671091954,Liljeholmen
+2013-07-04,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2,69,null,Lägenhet,1947,[Gröndal],2695000,305000,3000000,4642,Fastighetsbyrån,1220.5225971373213,Liljeholmen
+2013-07-03,Eldarvägen 4,Gröndal,Röd Norsborg,1,30.5,null,Lägenhet,1925,[Gröndal],1750000,110000,1860000,1582,Bjurfors,834.076824418034,Liljeholmen
+2013-06-28,Ljusstöparbacken 26C,Gröndal,Röd Norsborg,5,105,null,Lägenhet,1959,[Gröndal],4825000,-75000,4750000,4064,Widerlöv & Co,898.7295874775614,Liljeholmen
+2013-06-24,Ekensbergsvägen 22,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1495000,115000,1610000,1670,Svenska Mäklarhuset,1036.0339814110741,Aspudden
+2013-06-22,Sannadalsvägen 28,Gröndal,Röd Norsborg,2,45,null,Lägenhet,1938,[Gröndal],1850000,65000,1915000,2868,Fastighetsbyrån,745.0920984265266,Liljeholmen
+2013-06-20,Maskinistgatan 15,Gröndal,Röd Norsborg,2,57,null,Lägenhet,1911,[Gröndal],2495000,345000,2840000,2406,Fastighetsbyrån,813.8718897016561,Liljeholmen
+2013-06-17,Eldarvägen 4,Gröndal,Röd Norsborg,2,35,null,Lägenhet,1925,[Gröndal],1800000,20000,1820000,1759,Svensk Fastighetsförmedling,834.076824418034,Liljeholmen
+2013-06-14,Sjöbjörnsvägen 9,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1949,[Gröndal],1495000,105000,1600000,1769,Svenska Mäklarhuset,1032.9963153604322,Liljeholmen
+2013-06-13,Maskinistgatan 9,Gröndal,Röd Norsborg,2,47.5,3,Lägenhet,1932,[Gröndal],2195000,0,2195000,3249,SkandiaMäklarna,856.272203155781,Liljeholmen
+2013-06-06,Sannadalsvägen 18,Gröndal,Röd Norsborg,2,45,null,Lägenhet,1938,[Gröndal],1900000,0,1900000,2868,Fastighetsbyrån,721.7737390042629,Liljeholmen
+2013-06-04,Maskinistgatan 9,Gröndal,Röd Norsborg,1.5,35,2,Lägenhet,1932,[Gröndal],1650000,0,1650000,2540,Notar,856.272203155781,Liljeholmen
+2013-05-27,Gröndalsvägen 164,Gröndal,Röd Norsborg,6,139,4,Lägenhet,1981,[Gröndal],5295000,730000,6025000,4893,Notar,943.2437227182793,Ornsberg
+2013-05-24,Grenljusbacken 13, v5,Gröndal,Röd Norsborg,3,67.5,null,Lägenhet,1986,[Gröndal],2495000,55000,2550000,4457,Notar,662.5941764174173,Liljeholmen
+2013-05-22,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,4,122,3,Lägenhet,null,[Gröndal],5350000,-120000,5230000,6993,Bostadsrättsspecialisten,1220.5225971373213,Liljeholmen
+2013-05-21,Ekensbergsvägen 118,Gröndal,Röd Norsborg,3,53,null,Lägenhet,1947,[Gröndal],1995000,10000,2005000,2958,Notar,1052.7135972482408,Aspudden
+2013-05-17,Gröndalsvägen 214,Gröndal,Röd Norsborg,2,68,2,Lägenhet,2008,[Gröndal],2850000,10000,2860000,4331,Notar,1141.6684755337646,Ornsberg
+2013-05-16,Ormbergsvägen 18,Gröndal,Röd Norsborg,3,122,null,Lägenhet,null,[Gröndal],4500000,-125000,4375000,5688,Erik Olsson Fastighetsförmedling,1145.0922818489998,Liljeholmen
+2013-05-09,Ormbergsvägen 9,Gröndal,Röd Norsborg,2,63,null,Lägenhet,1946,[Gröndal],2695000,15000,2710000,3764,Svenska Mäklarhuset,1087.492471677478,Liljeholmen
+2013-05-08,Gröndalsvägen 202,Gröndal,Röd Norsborg,2,57,2,Lägenhet,1981,[Gröndal],2295000,85000,2380000,2117,Notar,1097.5083551006517,Ornsberg
+2013-05-08,Ekensbergsvägen 76,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1495000,145000,1640000,1810,Svenska Mäklarhuset,1010.7504838641181,Ornsberg
+2013-05-05,Lustigkullavägen 4,Gröndal,Röd Norsborg,3,82,null,Lägenhet,1913,[Gröndal],3275000,500000,3775000,4022,Svensk Fastighetsförmedling,787.3834050000445,Liljeholmen
+2013-05-01,Gröndalsvägen 111,Gröndal,Röd Norsborg,2,46,5,Lägenhet,2009,[Gröndal],1995000,215000,2210000,2943,Svenska Mäklarhuset,968.937946796296,Aspudden
+2013-04-28,Lustigkullavägen 7, v8,Gröndal,Röd Norsborg,4,85.5,null,Lägenhet,1986,[Gröndal],3395000,325000,3720000,5518,Notar,797.6783043253614,Liljeholmen
+2013-04-27,Ormbergsvägen 10,Gröndal,Röd Norsborg,2,65,3,Lägenhet,1982,[Gröndal],2995000,105000,3100000,4173,Notar,1118.516188736149,Liljeholmen
+2013-04-26,Skonertvägen 9A,Gröndal,Röd Norsborg,3,63,3,Lägenhet,1990,[Gröndal],1995000,215000,2210000,3614,Notar,773.3775811104011,Aspudden
+2013-04-25,Ljusstöparbacken 24,Gröndal,Röd Norsborg,1,32.5,null,Lägenhet,1961,[Gröndal],1610000,0,1610000,1400,SkandiaMäklarna,909.3488883443629,Liljeholmen
+2013-04-24,Ormbergsvägen 20,Gröndal,Röd Norsborg,2.5,74,null,Lägenhet,2002,[Gröndal],2995000,105000,3100000,4539,Fastighetsbyrån,1138.7821671091954,Liljeholmen
+2013-04-23,Gröndalsvägen 180,Gröndal,Röd Norsborg,3,81,null,Lägenhet,null,[Gröndal],3500000,-20000,3480000,3001,Svensk Fastighetsförmedling,1003.668034059832,Ornsberg
+2013-04-22,Lustigkullavägen 7,Gröndal,Röd Norsborg,2,56.5,6,Lägenhet,null,[Gröndal],1995000,215000,2210000,3855,Mäklarhuset,793.0662438611068,Liljeholmen
+2013-04-20,Sannadalsvägen 1,Gröndal,Röd Norsborg,2.5,61.5,4,Lägenhet,1985,[Gröndal],2395000,230000,2625000,4015,SkandiaMäklarna,706.2425632892672,Liljeholmen
+2013-04-19,Lustigkullavägen 3,Gröndal,Röd Norsborg,3,63,null,Lägenhet,1933,[Gröndal],2495000,455000,2950000,3914,Fastighetsbyrån,755.4431783285735,Liljeholmen
+2013-04-19,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,1.5,45,6,Lägenhet,1947,[Gröndal],2995000,230000,3225000,3324,Notar,1220.5225971373213,Liljeholmen
+2013-04-19,Ormbergsvägen 9,Gröndal,Röd Norsborg,2,67,2,Lägenhet,null,[Gröndal],2795000,0,2795000,3903,SkandiaMäklarna,1087.492471677478,Liljeholmen
+2013-04-18,Lustigkullavägen 3,Gröndal,Röd Norsborg,2,49,3,Lägenhet,1934,[Gröndal],2195000,365000,2560000,3045,Notar,755.4431783285735,Liljeholmen
+2013-04-17,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,4,101,6,Lägenhet,null,[Gröndal],4975000,525000,5500000,5562,Bostadsrättsspecialisten,1220.5225971373213,Liljeholmen
+2013-04-12,Gröndalsvägen 147,Gröndal,Röd Norsborg,6,139,null,Lägenhet,null,[Gröndal],4595000,1425000,6020000,5739,BOSTHLM,961.300446572399,Ornsberg
+2013-04-10,Gröndalsvägen 111,Gröndal,Röd Norsborg,4,87,null,Lägenhet,null,[Gröndal],3750000,20000,3770000,4561,Svensk Fastighetsförmedling,968.937946796296,Aspudden
+2013-04-10,Sannadalsvägen 4,Gröndal,Röd Norsborg,1,33,null,Lägenhet,1938,[Gröndal],1500000,80000,1580000,2221,Fastighetsbyrån,674.1501808331539,Liljeholmen
+2013-04-06,Fregattvägen 74,Gröndal,Röd Norsborg,2,53,3,Lägenhet,1944,[Gröndal],1895000,-45000,1850000,3808,HusmanHagberg,841.5291316639731,Aspudden
+2013-04-05,Grenljusbacken 21,Gröndal,Röd Norsborg,3,71,5,Lägenhet,1959,[Gröndal],2825000,500000,3325000,3453,Mäklarhuset,715.5983881864446,Liljeholmen
+2013-04-02,Ormbergsvägen 20,Gröndal,Röd Norsborg,2,71,2,Lägenhet,2002,[Gröndal],2995000,-25000,2970000,4484,SkandiaMäklarna,1138.7821671091954,Liljeholmen
+2013-03-27,Ljusstöparbacken 28C,Gröndal,Röd Norsborg,2,66,null,Lägenhet,1959,[Gröndal],2295000,25000,2320000,2721,Notar,865.7419088928149,Liljeholmen
+2013-03-27,Ekensbergsvägen 126,Gröndal,Röd Norsborg,3,65,1,Lägenhet,1947,[Gröndal],2195000,0,2195000,3627,Notar,1080.888907770621,Aspudden
+2013-03-22,Klyvarvägen 8,Gröndal,Röd Norsborg,3,67,null,Lägenhet,1957,[Gröndal],2300000,0,2300000,3950,Fastighetsbyrån,1034.7904465651259,Aspudden
+2013-03-21,Sjöbjörnsvägen 9,Gröndal,Röd Norsborg,3,66,2,Lägenhet,1949,[Gröndal],2795000,345000,3140000,3736,Notar,1032.9963153604322,Liljeholmen
+2013-03-21,Gröndalsvägen 33,Gröndal,Röd Norsborg,2,52,0.5,Lägenhet,1913,[Gröndal],2195000,380000,2575000,2307,SkandiaMäklarna,850.471206680837,Liljeholmen
+2013-03-20,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,3,72,null,Lägenhet,1947,[Gröndal],3395000,415000,3810000,4878,Fastighetsbyrån,1220.5225971373213,Liljeholmen
+2013-03-20,Lustigkullavägen 1,Gröndal,Röd Norsborg,1,49,null,Lägenhet,1933,[Gröndal],1850000,405000,2255000,3045,Fastighetsbyrån,746.58292659216,Liljeholmen
+2013-03-18,Fregattvägen 59,Gröndal,Röd Norsborg,2,46,1,Lägenhet,1944,[Gröndal],1695000,0,1695000,3209,SkandiaMäklarna,788.1669078602747,Aspudden
+2013-03-18,Ormbergsvägen 7,Gröndal,Röd Norsborg,2,68,3,Lägenhet,null,[Gröndal],3095000,-145000,2950000,3938,SkandiaMäklarna,1095.401839590603,Liljeholmen
+2013-03-18,Ormbergsvägen 20,Gröndal,Röd Norsborg,2.5,74,2,Lägenhet,2002,[Gröndal],3295000,-295000,3000000,4539,Innerstadsspecialisten AB,1138.7821671091954,Liljeholmen
+2013-03-15,Ormbergsvägen 9,Gröndal,Röd Norsborg,4,90,null,Lägenhet,1946,[Gröndal],4395000,405000,4800000,4879,Bjurfors,1087.492471677478,Liljeholmen
+2013-03-13,Sannadalsvägen 30,Gröndal,Röd Norsborg,3,56,1,Lägenhet,1938,[Gröndal],2295000,25000,2320000,3327,Notar,750.0892512961836,Liljeholmen
+2013-03-12,Gröndalsvägen 39,Gröndal,Röd Norsborg,1,31,1,Lägenhet,1913,[Gröndal],1775000,0,1775000,1421,Svensk Fastighetsförmedling,887.0529749006928,Liljeholmen
+2013-03-09,Gröndalsvägen 164,Gröndal,Röd Norsborg,5,104,null,Lägenhet,null,[Gröndal],4600000,0,4600000,3661,BOSTHLM,943.2437227182793,Ornsberg
+2013-03-08,Gröndalsvägen 184,Gröndal,Röd Norsborg,2,45,null,Lägenhet,1700,[Gröndal],2095000,-95000,2000000,2713,Fantastic Frank Fastighetsmäkleri,1016.6118361852399,Ornsberg
+2013-03-05,Ekensbergsvägen 118,Gröndal,Röd Norsborg,2,52,null,Lägenhet,null,[Gröndal],1895000,185000,2080000,2902,Erik Olsson Fastighetsförmedling,1052.7135972482408,Aspudden
+2013-03-02,Gröndalsvägen 25,Gröndal,Röd Norsborg,3,65,null,Lägenhet,1913,[Gröndal],3195000,205000,3400000,2765,Svenska Mäklarhuset,809.0067854407367,Liljeholmen
+2013-02-28,Fregattvägen 42,Gröndal,Röd Norsborg,2,44.5,1,Lägenhet,1947,[Gröndal],1595000,35000,1630000,3026,HusmanHagberg,834.2714733470851,Aspudden
+2013-02-26,Gröndalsvägen 120,Gröndal,Röd Norsborg,1,24,null,Lägenhet,1959,[Gröndal],1275000,160000,1435000,1236,Fastighetsbyrån,994.9973588091256,Aspudden
+2013-02-21,Sjöbjörnsvägen 32,Gröndal,Röd Norsborg,2,47,null,Lägenhet,1946,[Gröndal],1950000,0,1950000,2958,SkandiaMäklarna,1010.8697783507299,Liljeholmen
+2013-02-21,Gröndalsvägen 27,Gröndal,Röd Norsborg,1,24,null,Lägenhet,1913,[Gröndal],1495000,65000,1560000,1177,Svensk Fastighetsförmedling,819.2633263959633,Liljeholmen
+2013-02-16,Ekensbergsvägen 118,Gröndal,Röd Norsborg,2,53,null,Lägenhet,1947,[Gröndal],1795000,-95000,1700000,2958,Notar,1052.7135972482408,Aspudden
+2013-02-13,Sannadalsvägen 18,Gröndal,Röd Norsborg,2,45,null,Lägenhet,1938,[Gröndal],1800000,205000,2005000,2840,Fastighetsbyrån,721.7737390042629,Liljeholmen
+2013-02-10,Gröndalsvägen 39,Gröndal,Röd Norsborg,3,65,3,Lägenhet,1913,[Gröndal],3275000,375000,3650000,2769,Svensk Fastighetsförmedling,887.0529749006928,Liljeholmen
+2013-02-09,Ormbergsvägen 9,Gröndal,Röd Norsborg,4,97,1,Lägenhet,1946,[Gröndal],3995000,5000,4000000,5123,Notar,1087.492471677478,Liljeholmen
+2013-02-09,Fregattvägen 63,Gröndal,Röd Norsborg,2,46,2,Lägenhet,1944,[Gröndal],1695000,55000,1750000,3303,SkandiaMäklarna,777.0993475739953,Aspudden
+2013-02-06,Sjöbjörnsvägen 4,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],2550000,60000,2610000,3650,Notar,933.8127790616779,Liljeholmen
+2013-02-06,Sjöbjörnsvägen 16,Gröndal,Röd Norsborg,2.5,58,1,Lägenhet,1946,[Gröndal],2495000,375000,2870000,3650,Notar,1013.3927142796161,Liljeholmen
+2013-02-05,Sjöbjörnsvägen 48,Gröndal,Röd Norsborg,2,58,null,Lägenhet,1946,[Gröndal],2595000,0,2595000,3650,Fastighetsbyrån,1048.46841409037,Liljeholmen
+2013-02-02,Sjöbjörnsvägen 10,Gröndal,Röd Norsborg,2,58,null,Lägenhet,1946,[Gröndal],2495000,0,2495000,3650,Notar,970.8698445397455,Liljeholmen
+2013-01-30,Lustigkullavägen 1,Gröndal,Röd Norsborg,3,88,null,Lägenhet,1934,[Gröndal],3650000,-50000,3600000,4374,Notar,746.58292659216,Liljeholmen
+2013-01-30,Sannadalsvägen 28,Gröndal,Röd Norsborg,3,56,null,Lägenhet,1938,[Gröndal],2350000,150000,2500000,3327,Fastighetsbyrån,745.0920984265266,Liljeholmen
+2013-01-30,Ekensbergsvägen 118,Gröndal,Röd Norsborg,1,27,1,Lägenhet,1947,[Gröndal],1195000,115000,1310000,1506,Notar,1052.7135972482408,Aspudden
+2013-01-28,Ekensbergsvägen 120,Gröndal,Röd Norsborg,2,61,2,Lägenhet,1947,[Gröndal],1895000,0,1895000,3404,SkandiaMäklarna,1077.5793345012748,Aspudden
+2013-01-22,Ormbergsvägen 7,Gröndal,Röd Norsborg,3.5,101,null,Lägenhet,1946,[Gröndal],4200000,0,4200000,5262,Fastighetsbyrån,1095.401839590603,Liljeholmen
+2013-01-22,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,10,Lägenhet,1959,[Gröndal],2795000,0,2795000,3747,Notar,715.5983881864446,Liljeholmen
+2013-01-19,Grenljusbacken 13,Gröndal,Röd Norsborg,null,51,null,Lägenhet,null,[Gröndal],1690000,10000,1700000,null,Mäklarringen,658.387383662704,Liljeholmen
+2013-01-18,Sannadalsvägen 30,Gröndal,Röd Norsborg,2,45,null,Lägenhet,1938,[Gröndal],1850000,155000,2005000,2762,Fastighetsbyrån,750.0892512961836,Liljeholmen
+2013-01-18,Gröndalsvägen 149,Gröndal,Röd Norsborg,2,68,1,Lägenhet,1981,[Gröndal],2395000,0,2395000,2929,Notar,972.3627097566347,Ornsberg
+2013-01-11,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2.5,59,null,Lägenhet,1947,[Gröndal],2295000,0,2295000,4284,Notar,1220.5225971373213,Liljeholmen
+2012-12-12,Gröndalsvägen 39,Gröndal,Röd Norsborg,2,52,3,Lägenhet,1913,[Gröndal],2495000,55000,2550000,2307,SkandiaMäklarna,887.0529749006928,Liljeholmen
+2012-12-12,Ekensbergsvägen 54,Gröndal,Röd Norsborg,1,28,null,Lägenhet,1957,[Gröndal],1275000,245000,1520000,1810,Fastighetsbyrån,1031.486154823183,Aspudden
+2012-12-11,Sjöbjörnsvägen 13,Gröndal,Röd Norsborg,2,45,2,Lägenhet,1947,[Gröndal],1695000,305000,2000000,2854,Svensk Fastighetsförmedling,1064.6334781330481,Liljeholmen
+2012-12-07,Ormbergsvägen 20,Gröndal,Röd Norsborg,4,94,7,Lägenhet,null,[Gröndal],4495000,0,4495000,5513,Svensk Fastighetsförmedling,1138.7821671091954,Liljeholmen
+2012-12-06,Ormbergsvägen 9,Gröndal,Röd Norsborg,3.5,103,null,Lägenhet,1946,[Gröndal],4775000,-475000,4300000,5332,Bjurfors,1087.492471677478,Liljeholmen
+2012-11-30,Grenljusbacken 21,Gröndal,Röd Norsborg,3,81,3,Lägenhet,1959,[Gröndal],2495000,0,2495000,3747,Svenska Mäklarhuset,715.5983881864446,Liljeholmen
+2012-11-30,Grenljusbacken 21,Gröndal,Röd Norsborg,3,71,1,Lägenhet,1959,[Gröndal],2450000,50000,2500000,3453,Svensk Fastighetsförmedling,715.5983881864446,Liljeholmen
+2012-11-29,Sjöbjörnsvägen 13,Gröndal,Röd Norsborg,2,45,null,Lägenhet,1947,[Gröndal],1695000,-45000,1650000,2854,Svensk Fastighetsförmedling,1064.6334781330481,Liljeholmen
+2012-11-29,Gröndalsvägen 164,Gröndal,Röd Norsborg,3,80,1,Lägenhet,1981,[Gröndal],3195000,0,3195000,2816,Notar,943.2437227182793,Ornsberg
+2012-11-27,Sjöbjörnsvägen 46,Gröndal,Röd Norsborg,2,58,null,Lägenhet,1946,[Gröndal],2195000,-195000,2000000,3477,SkandiaMäklarna,1018.3508707157561,Liljeholmen
+2012-11-23,Sjöbjörnsvägen 11,Gröndal,Röd Norsborg,1.5,39,1,Lägenhet,1944,[Gröndal],1395000,125000,1520000,2474,Notar,1064.8218424744787,Liljeholmen
+2012-11-15,Gröndalsvägen 17,Gröndal,Röd Norsborg,3,86,null,Lägenhet,1934,[Gröndal],3700000,-100000,3600000,4277,Fastighetsbyrån,718.233033950459,Liljeholmen
+2012-11-15,Gröndalsvägen 159,Gröndal,Röd Norsborg,3,66,3,Lägenhet,null,[Gröndal],2900000,0,2900000,3137,Erik Olsson Fastighetsförmedling,1061.084246478073,Ornsberg
+2012-11-13,Lustigkullavägen 2,Gröndal,Röd Norsborg,2,66,null,Lägenhet,1913,[Gröndal],2995000,0,2995000,2238,Svensk Fastighetsförmedling,775.4857545409111,Liljeholmen
+2012-11-08,Sannadalsvägen 3,Gröndal,Röd Norsborg,4,79,null,Lägenhet,1984,[Gröndal],2700000,150000,2850000,5073,Fastighetsbyrån,748.7504796438803,Liljeholmen
+2012-11-06,Sjöbjörnsvägen 66C,Gröndal,Röd Norsborg,2,61,5,Lägenhet,null,[Gröndal],2695000,50000,2745000,4429,Erik Olsson Fastighetsförmedling,1220.5225971373213,Liljeholmen
+2012-11-02,Ormbergsvägen 1,Gröndal,Röd Norsborg,4,118,null,Lägenhet,1947,[Gröndal],7195000,-495000,6700000,5077,Bjurfors,1099.6857911470224,Liljeholmen
+2012-10-29,Gröndalsvägen 37,Gröndal,Röd Norsborg,1,27,1,Lägenhet,1913,[Gröndal],1495000,55000,1550000,1201,SkandiaMäklarna,874.6488588726297,Liljeholmen
+2012-10-25,Gröndalsvägen 27,Gröndal,Röd Norsborg,3,62,4,Lägenhet,null,[Gröndal],2995000,375000,3370000,2765,Svensk Fastighetsförmedling,819.2633263959633,Liljeholmen
+2012-10-24,Ekensbergsvägen 3,Gröndal,Röd Norsborg,2,68,1,Lägenhet,1981,[Gröndal],2495000,140000,2635000,2394,Notar,961.6247162238956,Ornsberg
+2012-10-20,Klyvarvägen 6,Gröndal,Röd Norsborg,2,59,null,Lägenhet,null,[Gröndal],2150000,-250000,1900000,3479,Svenska Mäklarhuset,1060.2964564218914,Aspudden
+2012-10-13,Sjöbjörnsvägen 4,Gröndal,Röd Norsborg,2,58,null,Lägenhet,1946,[Gröndal],2295000,90000,2385000,3477,Svensk Fastighetsförmedling,933.8127790616779,Liljeholmen
+2012-10-12,Eldarvägen 4,Gröndal,Röd Norsborg,1,36.5,null,Lägenhet,1924,[Gröndal],1700000,100000,1800000,1660,Fastighetsbyrån,834.076824418034,Liljeholmen
+2012-10-12,Fregattvägen 75,Gröndal,Röd Norsborg,2,47,3,Lägenhet,1945,[Gröndal],1625000,40000,1665000,3856,Svensk Fastighetsförmedling,787.9424384400642,Aspudden
+2012-10-10,Sjöbjörnsvägen 38,Gröndal,Röd Norsborg,2.5,58,2,Lägenhet,1946,[Gröndal],2395000,160000,2555000,3477,SkandiaMäklarna,1006.5547819677076,Liljeholmen
+2012-10-10,Grenljusbacken 15,Gröndal,Röd Norsborg,3,67.5,2,Lägenhet,1985,[Gröndal],2495000,0,2495000,4532,Notar,677.18943591019,Liljeholmen
+2012-10-01,Sannadalsvägen 10,Gröndal,Röd Norsborg,3,63,0.5,Lägenhet,1938,[Gröndal],2295000,55000,2350000,3408,Notar,704.1750194039809,Liljeholmen
+2012-09-07,Ormbergsvägen 11,Gröndal,Röd Norsborg,2,52,null,Lägenhet,1946,[Gröndal],2495000,156000,2651000,3380,Fastighetsbyrån,1080.5726897554032,Liljeholmen
+2012-09-07,Grenljusbacken 26,Gröndal,Röd Norsborg,3,86,null,Lägenhet,1959,[Gröndal],2795000,375000,3170000,3544,Fastighetsbyrån,780.4889122038155,Liljeholmen

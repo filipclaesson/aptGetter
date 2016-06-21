@@ -1,0 +1,143 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-14,Bullerholmsgränd 36,Vårberg,Röd Norsborg,7,180,null,Radhus,1969,[Skärholmen],3950000,1350000,5300000,null,Länsförsäkringar Fastighetsförmedling,546.7684220722581,Varberg
+2016-05-14,Varpholmsgränd 63,Vårberg,Röd Norsborg,8,139,null,Radhus,1968,[Skärholmen],3790000,250000,4040000,null,Fastighetsbyrån,601.3800479672454,Varberg
+2016-05-13,Ekholmsvägen 253,Vårberg,Röd Norsborg,2,36.5,4,Lägenhet,2000,[Skärholmen],1595000,225000,1820000,3668,Svensk Fastighetsförmedling,374.5457327533527,Skarholmen
+2016-05-11,Vårholmsbackarna 80,Vårberg,Röd Norsborg,2,44,0,Lägenhet,1969,[Vårberg],1495000,260000,1755000,2979,Fastighetsbyrån,367.0316365441452,Varberg
+2016-05-04,Gränsholmsbacken 4,Vårberg,Röd Norsborg,3,88,1,Lägenhet,1968,[Vårberg],2500000,-210000,2290000,3870,Fastighetsbyrån,436.55323782133433,Varberg
+2016-05-04,Falkholmsgränd 19,Vårberg,Röd Norsborg,2,68,4,Lägenhet,1967,[Skärholmen],1790000,210000,2000000,4485,Fastighetsbyrån,536.2924637656026,Skarholmen
+2016-04-27,Vårholmsbackarna 90,Vårberg,Röd Norsborg,3,82,1,Lägenhet,1969,[Vårberg],1995000,225000,2220000,4748,Fastighetsbyrån,278.7704132336426,Varberg
+2016-04-26,Gränsholmsbacken 6,Vårberg,Röd Norsborg,2,65,null,Lägenhet,1967,[Vårberg],1695000,505000,2200000,2869,Notar,446.78529822213847,Varberg
+2016-04-23,Norrholmsgränd 61,Vårberg,Röd Norsborg,6,135,null,Radhus,1970,[Skärholmen],3990000,570000,4560000,null,Fastighetsbyrån,537.032845131384,Varberg
+2016-04-22,Fjärdholmsgränd 9A,Vårberg,Röd Norsborg,4,95,5,Lägenhet,1968,[Skärholmen],2195000,405000,2600000,4728,SthlmFast,206.6633156936039,Varberg
+2016-04-22,Falkholmsgränd 33,Vårberg,Röd Norsborg,4,84,null,Lägenhet,1967,[Skärholmen],2790000,-190000,2600000,5481,Fastighetsbyrån,448.4354647686961,Varberg
+2016-04-20,Lindholmsbacken 104,Vårberg,Röd Norsborg,6,134,null,Radhus,1969,[Skärholmen],3850000,0,3850000,null,Ansvar Fastighetsförmedling,664.7238104901637,Skarholmen
+2016-04-20,Skridskovägen 7,Vårberg,Röd Norsborg,2,40,3,Lägenhet,1956,[Västertorp],2195000,325000,2520000,2607,Fastighetsbyrån,942.118551073073,Varberg
+2016-04-15,Skridskovägen 7,Vårberg,Röd Norsborg,2,50,4,Lägenhet,1956,[Hägersten],2495000,15000,2510000,3259,Svensk Fastighetsförmedling,942.118551073073,Varberg
+2016-04-15,Vårholmsbackarna 60,Vårberg,Röd Norsborg,3,82,3,Lägenhet,1969,[Vårberg],2095000,205000,2300000,4748,Fastighetsbyrån,362.17188571014105,Varberg
+2016-04-14,Gränsholmsbacken 7,Vårberg,Röd Norsborg,3,83,3,Lägenhet,1968,[Vårberg],1895000,350000,2245000,3647,HusmanHagberg,428.77940276360874,Varberg
+2016-04-14,Bullerholmsgränd 111,Vårberg,Röd Norsborg,6,139,null,Radhus,1969,[Skärholmen],3650000,720000,4370000,null,Fastighetsbyrån,422.87039182284093,Varberg
+2016-04-09,Fjärdholmsgränd 9A,Vårberg,Röd Norsborg,3,95,6,Lägenhet,1968,[Skärholmen],2195000,100000,2295000,4728,SthlmFast,206.6633156936039,Varberg
+2016-04-08,Båtholmsbacken 19,Vårberg,Röd Norsborg,3,71,2,Lägenhet,1967,[Vårberg],2095000,665000,2760000,3341,Notar,525.0386935249525,Varberg
+2016-04-05,Örnholmsbrinken 26,Vårberg,Röd Norsborg,7,140,null,Radhus,1972,[Vårberg],4650000,120000,4770000,null,Fastighetsbyrån,745.006761027101,Varberg
+2016-04-02,Gränsholmsbacken 19,Vårberg,Röd Norsborg,3,88,2,Lägenhet,1967,[Vårberg],2495000,315000,2810000,3780,Södermäklarna,503.0533892221649,Varberg
+2016-03-29,Gränsholmsbacken 17,Vårberg,Röd Norsborg,3,71,2,Lägenhet,1967,[Skärholmen],1995000,465000,2460000,3341,Notar,421.3078830598665,Varberg
+2016-03-24,Vårholmsbackarna 82,Vårberg,Röd Norsborg,3,82,2,Lägenhet,1969,[Vårberg],1995000,565000,2560000,4748,Fastighetsbyrån,362.99580201316644,Varberg
+2016-03-15,Vårholmsbackarna 70,Vårberg,Röd Norsborg,3,82,3,Lägenhet,1969,[Vårberg],1990000,310000,2300000,4615,Fastighetsbyrån,382.87703871822794,Varberg
+2016-03-09,Vårholmsbackarna 78,Vårberg,Röd Norsborg,3,82,2,Lägenhet,1969,[Vårberg],1950000,440000,2390000,4748,Fastighetsbyrån,375.93759401732825,Varberg
+2016-03-09,Vårholmsbackarna 60,Vårberg,Röd Norsborg,3,82,2,Lägenhet,1969,[Skärholmen],1995000,320000,2315000,4748,SkandiaMäklarna,362.17188571014105,Varberg
+2016-03-03,Fjärdholmsgränd 9A,Vårberg,Röd Norsborg,2,68,2,Lägenhet,1968,[Skärholmen],1700000,420000,2120000,3384,SthlmFast,206.6633156936039,Varberg
+2016-02-26,Falkholmsgränd 3,Vårberg,Röd Norsborg,2,44.5,-1,Lägenhet,null,[Skärholmen],1595000,430000,2025000,2903,Svenska Mäklarhuset,479.4594410131237,Skarholmen
+2016-02-19,Skridskovägen 7,Vårberg,Röd Norsborg,1.5,38,null,Lägenhet,1950,[Hägersten],1895000,615000,2510000,2477,Länsförsäkringar Fastighetsförmedling,942.118551073073,Varberg
+2016-02-14,Båtholmsbacken 18,Vårberg,Röd Norsborg,2,65,3,Lägenhet,1968,[Vårberg],1995000,0,1995000,3012,Mäklarringen,476.0532727729846,Varberg
+2016-02-04,Lindholmsbacken 109,Vårberg,Röd Norsborg,4,113,null,Radhus,1969,[Skärholmen],3890000,560000,4450000,null,Fastighetsbyrån,801.5531756277784,Skarholmen
+2016-01-13,Falkholmsgränd 5,Vårberg,Röd Norsborg,1,44.5,-1,Lägenhet,null,[Skärholmen],1095000,805000,1900000,2965,Svenska Mäklarhuset,472.1810562266279,Skarholmen
+2015-12-18,Laxholmsbacken 20,Vårberg,Röd Norsborg,5,136,null,Radhus,1972,[Vårberg],3450000,450000,3900000,null,Fastighetsbyrån,832.758628913121,Varberg
+2015-12-17,Bullerholmsgränd 49,Vårberg,Röd Norsborg,7,139,null,Radhus,1969,[Skärholmen],3790000,610000,4400000,null,Fastighetsbyrån,465.0341307805664,Varberg
+2015-12-17,Lindholmsbacken 50,Vårberg,Röd Norsborg,6,151,null,Villa,1969,[Skärholmen],4675000,-495000,4180000,null,Mäklarhuset,737.7523291524682,Skarholmen
+2015-12-02,Ekholmsvägen 206,Vårberg,Röd Norsborg,2,67,5,Lägenhet,1967,[Skärholmen],1790000,360000,2150000,2861,Fastighetsbyrån,346.6061294338714,Skarholmen
+2015-11-27,Laxholmsbacken 20,Vårberg,Röd Norsborg,5,136,null,Radhus,1972,[Skärholmen],3490000,610000,4100000,null,Fastighetsbyrån,832.758628913121,Varberg
+2015-11-26,Varpholmsgränd 27,Vårberg,Röd Norsborg,7,139,null,Radhus,1968,[Skärholmen],3690000,1310000,5000000,null,Fastighetsbyrån,625.6564199497546,Varberg
+2015-11-12,Våruddsringen 86,Vårberg,Röd Norsborg,5,133,null,Radhus,1969,[Skärholmen],3495000,105000,3600000,null,SkandiaMäklarna,715.3593308628439,Varberg
+2015-11-11,Ekholmsvägen 255,Vårberg,Röd Norsborg,2,36.5,5,Lägenhet,1999,[Skärholmen],1390000,360000,1750000,3668,Fastighetsbyrån,386.18690891228914,Skarholmen
+2015-11-06,Falkholmsgränd 33,Vårberg,Röd Norsborg,3,84,null,Lägenhet,1967,[Skärholmen],1590000,430000,2020000,5481,Fastighetsbyrån,448.4354647686961,Varberg
+2015-11-06,Lindholmsbacken 61,Vårberg,Röd Norsborg,4,113,null,Radhus,1969,[Skärholmen],3490000,335000,3825000,null,Fastighetsbyrån,924.0467525418617,Skarholmen
+2015-11-06,Falkholmsgränd 15,Vårberg,Röd Norsborg,5,117.5,4,Lägenhet,1967,[Skärholmen],2190000,710000,2900000,7889,Fastighetsbyrån,501.3760637977741,Skarholmen
+2015-11-03,Falkholmsgränd 3,Vårberg,Röd Norsborg,3,83.5,5,Lägenhet,1967,[Skärholmen],1795000,10000,1805000,5735,Notar,479.4594410131237,Skarholmen
+2015-10-30,Estbrötevägen 10,Vårberg,Röd Norsborg,7,208,null,Villa,1973,[Johannesdal],7950000,3450000,11400000,null,Fastighetsbyrån,1204.5090542547885,Varberg
+2015-10-28,Båtholmsbacken 4,Vårberg,Röd Norsborg,3,83,2,Lägenhet,1967,[Vårberg],1990000,640000,2630000,3647,Fastighetsbyrån,509.0993393773554,Varberg
+2015-10-21,Ekholmsvägen 255,Vårberg,Röd Norsborg,3.5,93.4,7,Lägenhet,1999,[Skärholmen],2250000,450000,2700000,6876,Fastighetsbyrån,386.18690891228914,Skarholmen
+2015-10-19,Falkholmsgränd 11,Vårberg,Röd Norsborg,3,83.5,2,Lägenhet,1967,[Skärholmen],1795000,265000,2060000,5705,Notar,519.8874728038166,Skarholmen
+2015-10-16,Båtholmsbacken 12,Vårberg,Röd Norsborg,2,65,2,Lägenhet,1967,[Vårberg],1790000,360000,2150000,3012,Fastighetsbyrån,494.27399598714175,Varberg
+2015-10-15,Ekholmsvägen 255,Vårberg,Röd Norsborg,4,93.4,7,Lägenhet,1999,[Skärholmen],2250000,450000,2700000,6876,Fastighetsbyrån,386.18690891228914,Skarholmen
+2015-10-13,Falkholmsgränd 31,Vårberg,Röd Norsborg,3,73,5,Lägenhet,1967,[Skärholmen],1300000,410000,1710000,4792,Tomas Mäklarbyrå,498.6121986163437,Varberg
+2015-10-05,Båtholmsbacken 17,Vårberg,Röd Norsborg,3,71,1,Lägenhet,1967,[Vårberg],1695000,455000,2150000,3181,Notar,427.1542159894657,Varberg
+2015-09-27,Skridskovägen 7,Vårberg,Röd Norsborg,1.5,38,2,Lägenhet,1956,[Västertorp],1995000,505000,2500000,2477,Fastighetsbyrån,942.118551073073,Varberg
+2015-08-27,Båtholmsbacken 7,Vårberg,Röd Norsborg,1,43,null,Lägenhet,1967,[Skärholmen],1295000,316000,1611000,1766,SkandiaMäklarna,517.4748355218575,Varberg
+2015-08-21,Bullerholmsgränd 21,Vårberg,Röd Norsborg,6,139,null,Radhus,1968,[Skärholmen],3690000,360000,4050000,null,Fastighetsbyrån,481.0232363594003,Varberg
+2015-07-13,Skridskovägen 7,Vårberg,Röd Norsborg,2,51,-1,Lägenhet,1957,[Västertorp],1995000,705000,2700000,3324,Länsförsäkringar Fastighetsförmedling,942.118551073073,Varberg
+2015-07-01,Båtholmsbacken 12,Vårberg,Röd Norsborg,2,65,2,Lägenhet,1967,[Skärholmen],1695000,-145000,1550000,3012,Svenska Mäklargruppen,494.27399598714175,Varberg
+2015-06-19,Gränsholmsbacken 5,Vårberg,Röd Norsborg,3,71,1,Lägenhet,1965,[Skärholmen],1790000,440000,2230000,3229,Fastighetsbyrån,415.7212643602878,Varberg
+2015-06-18,Bullerholmsgränd 21,Vårberg,Röd Norsborg,6,139,null,Radhus,1968,[Skärholmen],4200000,-100000,4100000,null,Fastighetsbyrån,481.0232363594003,Varberg
+2015-06-12,Gränsholmsbacken 9,Vårberg,Röd Norsborg,3,71,3,Lägenhet,1967,[Vårberg],1595000,465000,2060000,3341,Notar,443.25962731890166,Varberg
+2015-06-03,Skridskovägen 7,Vårberg,Röd Norsborg,3,81,5,Lägenhet,1956,[Västertorp],2950000,800000,3750000,5280,Fastighetsbyrån,942.118551073073,Varberg
+2015-05-29,Stävholmsgränd 84,Vårberg,Röd Norsborg,4,143,null,Kedjehus,1969,[Skärholmen],3290000,1375000,4665000,null,Fastighetsbyrån,936.5094578938304,Skarholmen
+2015-05-29,Skridskovägen 7,Vårberg,Röd Norsborg,2,43,2,Lägenhet,1956,[Västertorp],1995000,455000,2450000,2803,Fastighetsbyrån,942.118551073073,Varberg
+2015-05-27,Gränsholmsbacken 10,Vårberg,Röd Norsborg,2,71,1,Lägenhet,1968,[Vårberg],1490000,840000,2330000,2974,Fastighetsbyrån,481.0027181391691,Varberg
+2015-05-22,Båtholmsbacken 14,Vårberg,Röd Norsborg,2,65,1,Lägenhet,1967,[Vårberg],1595000,325000,1920000,3012,Notar,450.79165276134825,Varberg
+2015-05-20,Gränsholmsbacken 18,Vårberg,Röd Norsborg,2,65,1,Lägenhet,1968,[Vårberg],1450000,450000,1900000,3012,Fastighetsbyrån,390.0371351174412,Varberg
+2015-05-13,Våruddsringen 63,Vårberg,Röd Norsborg,5,159,null,Villa,1987,[Johannesdal],4950000,1250000,6200000,null,Fastighetsbyrån,915.6387200749475,Varberg
+2015-05-08,Stävholmsgränd 95,Vårberg,Röd Norsborg,5,113,null,Radhus,1968,[Skärholmen],2990000,720000,3710000,null,Fastighetsbyrån,779.8767322486575,Varberg
+2015-05-08,Gränsholmsbacken 15,Vårberg,Röd Norsborg,3,71,2,Lägenhet,null,[Vårberg],1595000,645000,2240000,3341,Notar,431.8641828460377,Varberg
+2015-05-01,Falkholmsgränd 37,Vårberg,Röd Norsborg,2,68,4,Lägenhet,1967,[Skärholmen],1490000,210000,1700000,4454,Fastighetsbyrån,466.11894298457406,Varberg
+2015-04-17,Ekholmsvägen 206,Vårberg,Röd Norsborg,3,79,0,Lägenhet,1968,[Skärholmen],2300000,30000,2330000,3373,Restate,346.6061294338714,Skarholmen
+2015-04-16,Båtholmsbacken 14,Vårberg,Röd Norsborg,3,83,1,Lägenhet,1967,[Skärholmen],1750000,575000,2325000,3536,Svenska Mäklarhuset,450.79165276134825,Varberg
+2015-03-25,Stävholmsgränd 48,Vårberg,Röd Norsborg,4,121,null,Kedjehus,1969,[Skärholmen],2990000,1310000,4300000,null,Fastighetsbyrån,966.8123490594098,Varberg
+2015-03-23,Gränsholmsbacken 9,Vårberg,Röd Norsborg,3,71,1,Lägenhet,1967,[Vårberg],1595000,605000,2200000,3181,Notar,443.25962731890166,Varberg
+2015-03-06,Falkholmsgränd 15,Vårberg,Röd Norsborg,5,117.5,6,Lägenhet,1967,[Skärholmen/Bredäng],1995000,5000,2000000,7495,SkandiaMäklarna,501.3760637977741,Skarholmen
+2015-02-12,Falkholmsgränd 19,Vårberg,Röd Norsborg,2,68,null,Lägenhet,1967,[Skärholmen],1490000,160000,1650000,4454,Fastighetsbyrån,536.2924637656026,Skarholmen
+2015-01-31,Falkholmsgränd 5,Vårberg,Röd Norsborg,3,83.5,5,Lägenhet,1967,[Skärholmen],1495000,380000,1875000,5506,Notar,472.1810562266279,Skarholmen
+2014-12-17,Falkholmsgränd 11,Vårberg,Röd Norsborg,3,83.5,2,Lägenhet,null,[Skärholmen],1490000,210000,1700000,5449,Fastighetsbyrån,519.8874728038166,Skarholmen
+2014-12-11,Skridskovägen 7,Vårberg,Röd Norsborg,2,40,4,Lägenhet,1956,[Västertorp],1895000,405000,2300000,2607,Svenska Mäklarhuset,942.118551073073,Varberg
+2014-12-04,Falkholmsgränd 33,Vårberg,Röd Norsborg,2.5,68,null,Lägenhet,1967,[Skärholmen],1195000,365000,1560000,4216,Fastighetsbyrån,448.4354647686961,Varberg
+2014-11-25,Ekholmsvägen 206,Vårberg,Röd Norsborg,4,94,4,Lägenhet,1968,[Skärholmen],2095000,755000,2850000,3211,Restate,346.6061294338714,Skarholmen
+2014-11-18,Falkholmsgränd 17,Vårberg,Röd Norsborg,2,68,3,Lägenhet,1967,[Skärholmen/Bredäng],1350000,350000,1700000,4355,SkandiaMäklarna,526.9815422412759,Skarholmen
+2014-11-13,Ekholmsvägen 253,Vårberg,Röd Norsborg,2,60.7,null,Lägenhet,2000,[Skärholmen],1520000,80000,1600000,5068,Fastighetsbyrån,374.5457327533527,Skarholmen
+2014-11-13,Falkholmsgränd 37,Vårberg,Röd Norsborg,5,117.5,null,Lägenhet,1967,[Skärholmen],1790000,210000,2000000,7336,Fastighetsbyrån,466.11894298457406,Varberg
+2014-11-12,Båtholmsbacken 18,Vårberg,Röd Norsborg,2,65,1,Lägenhet,1967,[Vårberg],1320000,450000,1770000,2773,Notar,476.0532727729846,Varberg
+2014-11-07,Lindholmsbacken 163,Vårberg,Röd Norsborg,5,115,null,Radhus,1969,[Skärholmen],2350000,325000,2675000,null,Fastighetsbyrån,786.0866249206565,Skarholmen
+2014-10-09,Våruddsringen 186,Vårberg,Röd Norsborg,8,173,null,Villa,1973,[Johannesdal],4895000,555000,5450000,null,Fastighetsbyrån,936.5095422841827,Varberg
+2014-09-18,Lammholmsbacken 29,Vårberg,Röd Norsborg,6,113,null,Villa,1969,[Skärholmen],3295000,90000,3385000,null,Fastighetsbyrån,764.6057145117304,Varby gard
+2014-09-12,Falkholmsgränd 27,Vårberg,Röd Norsborg,3,83.5,3,Lägenhet,1967,[Skärholmen],1495000,205000,1700000,5172,Fastighetsbyrån,517.7121013325964,Varberg
+2014-09-09,Falkholmsgränd 11,Vårberg,Röd Norsborg,3,83.5,4,Lägenhet,1967,[Skärholmen],1495000,25000,1520000,5332,Notar,519.8874728038166,Skarholmen
+2014-09-04,Gränsholmsbacken 19,Vårberg,Röd Norsborg,3,83,9,Lägenhet,1967,[Vårberg],1595000,535000,2130000,3647,Notar,503.0533892221649,Varberg
+2014-09-04,Estbrötevägen 5,Vårberg,Röd Norsborg,8,182,null,Villa,1997,[Johannesdal],5495000,155000,5650000,null,HusmanHagberg,1198.2164562778134,Varberg
+2014-08-14,Skridskovägen 7,Vårberg,Röd Norsborg,2.5,75,4,Lägenhet,1956,[Västertorp],2395000,295000,2690000,4889,Svenska Mäklarhuset,942.118551073073,Varberg
+2014-06-19,Peterséns väg 40,Vårberg,Röd Norsborg,5,110,null,Villa,2013,[Skärholmen-Johannesdal],4500000,0,4500000,null,Fantastic Frank Fastighetsmäkleri,1150.8150877697253,Varberg
+2014-05-27,Gränsholmsbacken 17,Vårberg,Röd Norsborg,4,100,2,Lägenhet,null,[Vårberg],1975000,25000,2000000,4448,Bukowskis Mäklarbyrå,421.3078830598665,Varberg
+2014-05-21,Falkholmsgränd 31,Vårberg,Röd Norsborg,3,83.5,5,Lägenhet,1967,[Skärholmen],1300000,250000,1550000,5298,Fastighetsbyrån,498.6121986163437,Varberg
+2014-04-03,Båtholmsbacken 16,Vårberg,Röd Norsborg,2,71,1,Lägenhet,1967,[Vårberg],1450000,-65000,1385000,2974,HusmanHagberg,463.02791727427183,Varberg
+2014-04-02,Gränsholmsbacken 17,Vårberg,Röd Norsborg,3,71,3,Lägenhet,1967,[Vårberg],1195000,305000,1500000,3341,Notar,421.3078830598665,Varberg
+2014-03-27,Falkholmsgränd 27,Vårberg,Röd Norsborg,3,83.5,9,Lägenhet,1967,[Skärholmen],1395000,55000,1450000,5271,Notar,517.7121013325964,Varberg
+2014-02-19,Ekholmsvägen 255,Vårberg,Röd Norsborg,2,60.7,1,Lägenhet,2000,[Skärholmen/Bredäng],1275000,75000,1350000,5067,Stones Fastighetsförmedling,386.18690891228914,Skarholmen
+2014-02-14,Båtholmsbacken 6,Vårberg,Röd Norsborg,2,65,2,Lägenhet,1967,[Vårberg],1295000,315000,1610000,3012,HusmanHagberg,513.5522665820363,Varberg
+2014-02-08,Båtholmsbacken 13,Vårberg,Röd Norsborg,4,100,2,Lägenhet,null,[Vårberg],1685000,120000,1805000,4448,Mäklarringen,548.0998185971134,Varberg
+2014-02-05,Falkholmsgränd 17,Vårberg,Röd Norsborg,2,68,3,Lägenhet,1967,[Skärholmen],1095000,190000,1285000,4286,Notar,526.9815422412759,Skarholmen
+2014-02-05,Skridskovägen 7,Vårberg,Röd Norsborg,3,76,5,Lägenhet,1956,[Mälarhöjden],2495000,105000,2600000,4954,Fastighetsbyrån,942.118551073073,Varberg
+2014-01-29,Falkholmsgränd 3,Vårberg,Röd Norsborg,2,44.5,null,Lägenhet,1967,[Skärholmen],895000,485000,1380000,2810,Notar,479.4594410131237,Skarholmen
+2013-12-13,Våruddsringen 125,Vårberg,Röd Norsborg,5,118,null,Villa,1982,[Skärholmen],3850000,-200000,3650000,null,Notar,680.6181635697302,Varberg
+2013-12-13,Ekholmsvägen 253,Vårberg,Röd Norsborg,1,36.5,1,Lägenhet,2000,[Skärholmen/Bredäng],995000,125000,1120000,3668,Fastighetsbyrån,374.5457327533527,Skarholmen
+2013-11-22,Båtholmsbacken 21,Vårberg,Röd Norsborg,2,71,null,Lägenhet,1967,[Skärholmen],1195000,125000,1320000,2974,Svenska Mäklarhuset,510.84034904351785,Varberg
+2013-10-29,Våruddsringen 125,Vårberg,Röd Norsborg,5,163,null,Villa,1982,[Skärholmen/Bredäng],3600000,-50000,3550000,null,Fastighetsbyrån,680.6181635697302,Varberg
+2013-10-18,Falkholmsgränd 21,Vårberg,Röd Norsborg,2,68,null,Lägenhet,1967,[Skärholmen/Bredäng],900000,210000,1110000,4121,Fastighetsbyrån,543.1819858736241,Skarholmen
+2013-10-16,Båtholmsbacken 19,Vårberg,Röd Norsborg,4,100,null,Lägenhet,null,[Vårberg],1650000,120000,1770000,4448,Mäklarringen,525.0386935249525,Varberg
+2013-10-07,Båtholmsbacken 13,Vårberg,Röd Norsborg,3,83,null,Lägenhet,null,[Vårberg],1290000,10000,1300000,3536,Ulf Nerén Fast.förmedling,548.0998185971134,Varberg
+2013-10-03,Laxholmsbacken 132,Vårberg,Röd Norsborg,7,137,null,Radhus,1972,[Skärholmen/Bredäng],2600000,-100000,2500000,null,SkandiaMäklarna,1030.0613645465091,Varberg
+2013-09-25,Falkholmsgränd 19,Vårberg,Röd Norsborg,2,68,2,Lägenhet,1967,[Skärholmen],995000,265000,1260000,4166,Notar,536.2924637656026,Skarholmen
+2013-09-22,Bullerholmsgränd 63,Vårberg,Röd Norsborg,7,185,null,Radhus,null,[Skärholmen Skärholmshöjden],2975000,50000,3025000,null,Svenska Mäklargruppen,410.7828772764647,Varberg
+2013-07-12,Ekholmsvägen 253,Vårberg,Röd Norsborg,2,60.7,3,Lägenhet,2000,[Skärholmen],1095000,115000,1210000,4993,Svenska Mäklarhuset,374.5457327533527,Skarholmen
+2013-07-04,Gränsholmsbacken 18,Vårberg,Röd Norsborg,3,83,null,Lägenhet,1967,[Vårberg],1295000,135000,1430000,3536,Notar,390.0371351174412,Varberg
+2013-06-30,Falkholmsgränd 17,Vårberg,Röd Norsborg,5,117.5,null,Lägenhet,1967,[Skärholmen],1350000,10000,1360000,7268,HusmanHagberg,526.9815422412759,Skarholmen
+2013-05-27,Falkholmsgränd 35,Vårberg,Röd Norsborg,4,107.5,null,Lägenhet,1967,[Skärholmen/Bredäng],1395000,40000,1435000,6487,Fastighetsbyrån,458.75403914294907,Varberg
+2013-05-22,Falkholmsgränd 17,Vårberg,Röd Norsborg,5,117.5,null,Lägenhet,1967,[Skärholmen],1350000,20000,1370000,7268,HusmanHagberg,526.9815422412759,Skarholmen
+2013-04-19,Skridskovägen 7,Vårberg,Röd Norsborg,3,81,null,Lägenhet,1956,[Mälarhöjden],2595000,100000,2695000,5480,Fastighetsbyrån,942.118551073073,Varberg
+2013-04-12,Båtholmsbacken 9,Vårberg,Röd Norsborg,3,71,null,Lägenhet,null,[Vårberg],1250000,100000,1350000,3341,Svensk Fastighetsförmedling,513.1493194373194,Varberg
+2013-03-15,Falkholmsgränd 13,Vårberg,Röd Norsborg,3,83.5,null,Lägenhet,1967,[Skärholmshöjden],1275000,-75000,1200000,5145,Mäklarringen,509.45194053281915,Skarholmen
+2013-03-04,Båtholmsbacken 6,Vårberg,Röd Norsborg,4,100,null,Lägenhet,null,[Vårberg],1495000,265000,1760000,4361,Mäklarringen,513.5522665820363,Varberg
+2013-03-02,Gränsholmsbacken 2,Vårberg,Röd Norsborg,2,65,3,Lägenhet,1968,[Vårberg],995000,175000,1170000,2953,Svenska Mäklarhuset,425.86904555382387,Varberg
+2013-02-28,Ekholmsvägen 255,Vårberg,Röd Norsborg,1.5,36.5,null,Lägenhet,2000,[Skärholmen/Bredäng],750000,75000,825000,3614,Fastighetsbyrån,386.18690891228914,Skarholmen
+2013-02-25,Peterséns väg 16,Vårberg,Röd Norsborg,6,282,null,Villa,1875,[Johannesdal],15000000,-3000000,12000000,null,Svensk Fastighetsförmedling,1077.7523802984745,Varberg
+2013-02-22,Gränsholmsbacken 2,Vårberg,Röd Norsborg,2,65,null,Lägenhet,1967,[Skärholmen/Bredäng],995000,5000,1000000,2953,Fastighetsbyrån,425.86904555382387,Varberg
+2013-02-02,Falkholmsgränd 19,Vårberg,Röd Norsborg,4,107.5,null,Lägenhet,null,[Skärholmen],1350000,125000,1475000,null,Mäklarringen,536.2924637656026,Skarholmen
+2013-01-31,Ekholmsvägen 255,Vårberg,Röd Norsborg,2,60.7,4,Lägenhet,null,[Skärholmen],1050000,0,1050000,4993,Erik Olsson Fastighetsförmedling,386.18690891228914,Skarholmen
+2013-01-21,Falkholmsgränd 27,Vårberg,Röd Norsborg,3,68.5,null,Lägenhet,1967,[Skärholmen],1095000,-95000,1000000,4151,Svensk Fastighetsförmedling,517.7121013325964,Varberg
+2013-01-17,Skridskovägen 7,Vårberg,Röd Norsborg,2.5,76,1,Lägenhet,null,[Västertorp],1995000,0,1995000,4954,SkandiaMäklarna,942.118551073073,Varberg
+2013-01-17,Ekholmsvägen 255,Vårberg,Röd Norsborg,3,73.5,null,Lägenhet,2000,[Skärholmen],1195000,0,1195000,5834,Bjurfors,386.18690891228914,Skarholmen
+2013-01-16,Falkholmsgränd 21,Vårberg,Röd Norsborg,2,68,null,Lägenhet,1967,[Skärholmen],750000,140000,890000,4153,Notar,543.1819858736241,Skarholmen
+2012-11-21,Gränsholmsbacken 13,Vårberg,Röd Norsborg,2,71,null,Lägenhet,1968,[Vårberg],1100000,10000,1110000,2916,Svenska Mäklarhuset,447.7713578000193,Varberg
+2012-11-06,Lammholmsbacken 87,Vårberg,Röd Norsborg,4,132,null,Villa,1968,[Skärholmen/Bredäng],2550000,160000,2710000,null,Fastighetsbyrån,699.5652419184424,Varby gard
+2012-10-31,Gränsholmsbacken 12,Vårberg,Röd Norsborg,2,65,null,Lägenhet,1965,[Skärholmen/Bredäng],1195000,30000,1225000,2895,Fastighetsbyrån,425.3150938408139,Varberg
+2012-10-17,Falkholmsgränd 27,Vårberg,Röd Norsborg,3,68,null,Lägenhet,1967,[Skärholmen],1095000,-195000,900000,3991,Svensk Fastighetsförmedling,517.7121013325964,Varberg
+2012-10-17,Vårbergsvägen 159,Vårberg,Röd Norsborg,7,256,null,Villa,1973,[Johannesdal],4995000,-395000,4600000,null,Svensk Fastighetsförmedling,563.6750536552444,Varberg
+2012-10-16,Falkholmsgränd 17,Vårberg,Röd Norsborg,5,117.5,1,Lägenhet,1967,[Skärholmen],1595000,-95000,1500000,6881,Svensk Fastighetsförmedling,526.9815422412759,Skarholmen
+2012-10-09,Gränsholmsbacken 2,Vårberg,Röd Norsborg,3,83,null,Lägenhet,1967,[Skärholmen],1250000,-25000,1225000,3398,Bjurfors,425.86904555382387,Varberg
+2012-09-14,Falkholmsgränd 5,Vårberg,Röd Norsborg,3,68,null,Lägenhet,1967,[Skärholmen],995000,65000,1060000,3991,Svensk Fastighetsförmedling,472.1810562266279,Skarholmen

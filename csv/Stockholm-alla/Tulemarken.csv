@@ -1,0 +1,136 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-14,Tulegatan 66,Tulemarken,Blå Sundbyberg,1.5,40,1,Lägenhet,1942,[Sundbyberg/Duvbo],2250000,360000,2610000,2499,Notar,97.54869731469279,Duvbo
+2016-05-14,Bergaliden 31,Tulemarken,Blå Sundbyberg,5,129,null,Villa,null,[Sundbyberg/Duvbo],7995000,1230000,9225000,null,Svenska Mäklarhuset,402.1446389962427,Duvbo
+2016-05-06,Tulegatan 72,Tulemarken,Blå Sundbyberg,2,53,3,Lägenhet,1942,[Sundbyberg/Duvbo],2475000,525000,3000000,3255,Mäklarhuset,199.11712198235654,Duvbo
+2016-04-29,Bergaliden 11,Tulemarken,Blå Sundbyberg,3,80,1,Lägenhet,null,[Lötsjöhöjden],4700000,800000,5500000,4708,Svenska Mäklarhuset,312.87252378652414,Duvbo
+2016-04-23,Bergaliden 5,Tulemarken,Blå Sundbyberg,4,88,1,Lägenhet,2008,[Sundbyberg/Duvbo],4395000,255000,4650000,5112,Fastighetsbyrån,214.53205124484182,Duvbo
+2016-04-14,Tulegatan 68,Tulemarken,Blå Sundbyberg,3,67,2,Lägenhet,null,[Sundbyberg/Duvbo],3295000,325000,3620000,3766,Svenska Mäklarhuset,128.69277701163261,Duvbo
+2016-04-08,Fredsgränd 11,Tulemarken,Blå Sundbyberg,3,76,3,Lägenhet,null,[Sundbyberg/Duvbo],4195000,955000,5150000,4589,Svenska Mäklarhuset,231.11692104606578,Duvbo
+2016-04-01,Tulegatan 58B,Tulemarken,Blå Sundbyberg,2,46.5,3,Lägenhet,1931,[Sundbyberg/Duvbo],2395000,575000,2970000,2728,Bjurfors,45.56493031254633,Duvbo
+2016-03-24,Furuvägen 26,Tulemarken,Blå Sundbyberg,3,82.5,4,Lägenhet,2008,[Tulemarken],4395000,1075000,5470000,4380,Fastighetsbyrån,381.986298792804,Duvbo
+2016-03-18,Fredsgränd 9,Tulemarken,Blå Sundbyberg,2,64.5,5,Lägenhet,2009,[Lötsjöhöjden],3095000,855000,3950000,3998,Notar,152.60767499453786,Duvbo
+2016-03-12,Tulegatan 78,Tulemarken,Blå Sundbyberg,1,37.3,null,Lägenhet,1948,[Duvbo],2200000,-305000,1895000,2173,Notar,277.57333976600586,Duvbo
+2016-03-01,Rensgatan 3,Tulemarken,Blå Sundbyberg,6,115,null,Villa,1938,[Tulemarken],7795000,1455000,9250000,null,Svensk Fastighetsförmedling,292.68876690099796,Duvbo
+2016-02-16,Tulegatan 68,Tulemarken,Blå Sundbyberg,3,67,null,Lägenhet,null,[Sundbyberg/Duvbo],3295000,105000,3400000,3633,Notar,128.69277701163261,Duvbo
+2016-02-10,Furuvägen 23,Tulemarken,Blå Sundbyberg,2,63,null,Lägenhet,1949,[Sundbyberg/Duvbo],2995000,605000,3600000,3562,Notar,397.87209646453687,Duvbo
+2016-01-20,Stenbrottsgatan 5,Tulemarken,Blå Sundbyberg,3,72.5,1,Lägenhet,1950,[Sundbyberg/Duvbo],3495000,325000,3820000,4239,Fastighetsbyrån,471.1893812803285,Sundbybergs centrum
+2016-01-14,Fredsgränd 13,Tulemarken,Blå Sundbyberg,3,77,2,Lägenhet,2009,[Lötsjöhöjden],3895000,1205000,5100000,4492,Notar,295.6375761470959,Duvbo
+2015-11-26,Furuvägen 23,Tulemarken,Blå Sundbyberg,2,63,4,Lägenhet,1949,[Sundbyberg/Duvbo],2995000,605000,3600000,3741,HusmanHagberg,397.87209646453687,Duvbo
+2015-11-18,Tulegatan 20,Tulemarken,Blå Sundbyberg,3,73,3,Lägenhet,1950,[Sundbyberg/Duvbo],3295000,905000,4200000,4258,Fastighetsbyrån,471.1893812803285,Sundbybergs centrum
+2015-10-19,Stenbrottsgatan 3,Tulemarken,Blå Sundbyberg,3,67,1,Lägenhet,1948,[Tulemarken],2895000,445000,3340000,3896,Länsförsäkringar Fastighetsförmedling,466.0343346883986,Duvbo
+2015-10-01,Bergaliden 11,Tulemarken,Blå Sundbyberg,2,63,1,Lägenhet,2008,[Sundbyberg/Duvbo],2995000,355000,3350000,3849,Fastighetsbyrån,312.87252378652414,Duvbo
+2015-09-24,Furuvägen 23,Tulemarken,Blå Sundbyberg,2.5,62.5,null,Lägenhet,1949,[Sundbyberg/Duvbo],2850000,700000,3550000,3721,Notar,397.87209646453687,Duvbo
+2015-09-24,Tulegatan 62,Tulemarken,Blå Sundbyberg,2,53,3,Lägenhet,1942,[Sundbyberg/Duvbo],2695000,305000,3000000,3022,Notar,46.97910318403176,Duvbo
+2015-09-24,Fredsgränd 9,Tulemarken,Blå Sundbyberg,3,77,5,Lägenhet,2009,[Sundbyberg/Duvbo],3995000,985000,4980000,4641,Notar,152.60767499453786,Duvbo
+2015-09-12,Tulegatan 78,Tulemarken,Blå Sundbyberg,3,62,3,Lägenhet,1948,[Sundbyberg/Duvbo],2995000,505000,3500000,4082,Mäklarringen,277.57333976600586,Duvbo
+2015-09-02,Tulegatan 58B,Tulemarken,Blå Sundbyberg,2,39.5,3,Lägenhet,1931,[Sundbyberg/Duvbo],2195000,605000,2800000,2342,SkandiaMäklarna,45.56493031254633,Duvbo
+2015-08-17,Tulegatan 76,Tulemarken,Blå Sundbyberg,3,62,2,Lägenhet,1948,[Sundbyberg/Duvbo],2595000,725000,3320000,4082,Fastighetsbyrån,245.6148796172261,Duvbo
+2015-06-19,Furuvägen 23,Tulemarken,Blå Sundbyberg,2,63,5,Lägenhet,1950,[Sundbyberg/Duvbo],2895000,-100000,2795000,3741,SkandiaMäklarna,397.87209646453687,Duvbo
+2015-06-18,Vackra vägen 10B,Tulemarken,Blå Sundbyberg,4,102,7,Lägenhet,2008,[Storskogen],4295000,605000,4900000,5651,Mäklarringen,493.9021335457423,Duvbo
+2015-06-12,Stenbrottsgatan 5,Tulemarken,Blå Sundbyberg,2,67,null,Lägenhet,1950,[Sundbyberg/Duvbo],2495000,305000,2800000,3896,SkandiaMäklarna,471.1893812803285,Sundbybergs centrum
+2015-06-12,Bergaliden 5,Tulemarken,Blå Sundbyberg,4,88,1,Lägenhet,2008,[Sundbyberg/Duvbo],4795000,-395000,4400000,5112,Svensk Fastighetsförmedling,214.53205124484182,Duvbo
+2015-06-03,Bergaliden 5,Tulemarken,Blå Sundbyberg,3,76,3,Lägenhet,2008,[Bergaliden],4100000,800000,4900000,4505,Bjurfors,214.53205124484182,Duvbo
+2015-05-27,Fredsgränd 9,Tulemarken,Blå Sundbyberg,2,64.5,2,Lägenhet,2009,[Lötsjöhöjden],2995000,225000,3220000,null,One Fastighetsmäkleri,152.60767499453786,Duvbo
+2015-05-27,Tulegatan 20,Tulemarken,Blå Sundbyberg,3,null,null,Lägenhet,1949,[Sundbyberg/Duvbo],null,NaN,3185000,4297,SkandiaMäklarna,471.1893812803285,Sundbybergs centrum
+2015-05-21,Tulegatan 72,Tulemarken,Blå Sundbyberg,1,26,3,Lägenhet,1942,[Sundbyberg/Duvbo],1695000,75000,1770000,1939,Notar,199.11712198235654,Duvbo
+2015-05-20,Tulegatan 62,Tulemarken,Blå Sundbyberg,2,53,1,Lägenhet,1942,[Sundbyberg/Duvbo],2495000,105000,2600000,3196,Fastighetsbyrån,46.97910318403176,Duvbo
+2015-05-09,Rensgatan 1,Tulemarken,Blå Sundbyberg,9,236,null,Villa,1937,[Tulemarken],12600000,0,12600000,null,Bjurfors,268.9096432759006,Duvbo
+2015-05-08,Stenbrottsgatan 3,Tulemarken,Blå Sundbyberg,3,72.5,null,Lägenhet,1950,[Sundbyberg/Duvbo],2995000,405000,3400000,4239,Fastighetsbyrån,466.0343346883986,Duvbo
+2015-05-07,Tulegatan 48,Tulemarken,Blå Sundbyberg,4,103.5,1,Lägenhet,null,[Sundbyberg/Duvbo],2995000,505000,3500000,6575,Svenska Mäklarhuset,192.88554147958757,Duvbo
+2015-05-06,Tulegatan 62,Tulemarken,Blå Sundbyberg,2,53,2,Lägenhet,1942,[Sundbyberg/Duvbo],2695000,0,2695000,3224,HusmanHagberg,46.97910318403176,Duvbo
+2015-04-28,Fredsgränd 9,Tulemarken,Blå Sundbyberg,3,77,3,Lägenhet,2009,[Lötsjöhöjden],3495000,1065000,4560000,4640,Notar,152.60767499453786,Duvbo
+2015-04-23,Tulegatan 76,Tulemarken,Blå Sundbyberg,3,62,2,Lägenhet,1948,[Sundbyberg/Duvbo],2795000,215000,3010000,4082,HusmanHagberg,245.6148796172261,Duvbo
+2015-04-15,Stenbrottsgatan 5,Tulemarken,Blå Sundbyberg,3,73,1,Lägenhet,1953,[Sundbyberg/Duvbo],2995000,630000,3625000,4181,SkandiaMäklarna,471.1893812803285,Sundbybergs centrum
+2015-04-01,Fredsgränd 7,Tulemarken,Blå Sundbyberg,4,89,2,Lägenhet,2009,[Lötsjöhöjden],3995000,465000,4460000,null,One Fastighetsmäkleri,86.76202054985134,Duvbo
+2015-03-27,Tulegatan 48,Tulemarken,Blå Sundbyberg,2,57,null,Lägenhet,1996,[Sundbyberg/Duvbo],2295000,505000,2800000,4308,Notar,192.88554147958757,Duvbo
+2015-03-26,Fredsgränd 9,Tulemarken,Blå Sundbyberg,2,64.5,3,Lägenhet,2008,[Lötsjöhöjden],2995000,505000,3500000,3998,Erik Olsson Fastighetsförmedling,152.60767499453786,Duvbo
+2015-03-26,Tulegatan 58A,Tulemarken,Blå Sundbyberg,2,47,3,Lägenhet,1931,[Sundbyberg/Duvbo],2295000,330000,2625000,2728,Svenska Mäklarhuset,43.52674173112213,Duvbo
+2015-03-19,Tulegatan 20,Tulemarken,Blå Sundbyberg,3,73,3,Lägenhet,1953,[Sundbyberg/Duvbo],3295000,0,3295000,4134,SkandiaMäklarna,471.1893812803285,Sundbybergs centrum
+2015-03-17,Tulegatan 66,Tulemarken,Blå Sundbyberg,2,53,1,Lägenhet,1942,[Sundbyberg/Duvbo],2495000,425000,2920000,2963,HusmanHagberg,97.54869731469279,Duvbo
+2015-03-12,Fredsgränd 13,Tulemarken,Blå Sundbyberg,3,77,null,Lägenhet,2009,[Sundbyberg/Duvbo],3495000,735000,4230000,4492,ERA,295.6375761470959,Duvbo
+2015-03-11,Fredsgränd 11,Tulemarken,Blå Sundbyberg,4,89,1,Lägenhet,2009,[Lötsjöhöjden],3995000,455000,4450000,null,One Fastighetsmäkleri,231.11692104606578,Duvbo
+2015-03-10,Fredsgränd 11,Tulemarken,Blå Sundbyberg,4,89,3,Lägenhet,2009,[Sundbyberg/Duvbo],3995000,1020000,5015000,5369,HusmanHagberg,231.11692104606578,Duvbo
+2015-03-04,Bergaliden 7,Tulemarken,Blå Sundbyberg,2,63,1,Lägenhet,null,[Sundbyberg/Duvbo],2995000,255000,3250000,3849,Fastighetsbyrån,245.3437646611203,Duvbo
+2015-02-10,Tulegatan 58A,Tulemarken,Blå Sundbyberg,2,51,0.5,Lägenhet,1931,[Sundbyberg/Duvbo],1995000,655000,2650000,2763,Notar,43.52674173112213,Duvbo
+2015-02-04,Furuvägen 24,Tulemarken,Blå Sundbyberg,3,78.5,1,Lägenhet,2008,[Sundbyberg/Duvbo],3495000,655000,4150000,4451,Svenska Mäklarhuset,381.4589960829427,Duvbo
+2015-01-31,Tulegatan 72,Tulemarken,Blå Sundbyberg,1,40,2,Lägenhet,1942,[Sundbyberg/Duvbo],1995000,265000,2260000,2354,Fastighetsbyrån,199.11712198235654,Duvbo
+2015-01-25,Stenbrottsgatan 5,Tulemarken,Blå Sundbyberg,3,74,5,Lägenhet,1953,[Sundbyberg/Duvbo],3195000,355000,3550000,4297,SkandiaMäklarna,471.1893812803285,Sundbybergs centrum
+2015-01-23,Bergaliden 13,Tulemarken,Blå Sundbyberg,4,88,1,Lägenhet,2008,[Sundbyberg/Duvbo],4795000,805000,5600000,5112,Svensk Fastighetsförmedling,338.8682869815405,Duvbo
+2015-01-22,Bergaliden 13,Tulemarken,Blå Sundbyberg,2,63,1,Lägenhet,2008,[Sundbyberg/Duvbo],2795000,605000,3400000,3849,Svenska Mäklarhuset,338.8682869815405,Duvbo
+2014-12-18,Fredsgatan 22,Tulemarken,Blå Sundbyberg,2,43,3,Lägenhet,1938,[Sundbyberg/Duvbo],2295000,0,2295000,2807,Svenska Mäklarhuset,118.28467201518467,Duvbo
+2014-12-10,Tulegatan 60,Tulemarken,Blå Sundbyberg,2,42,3,Lägenhet,1942,[Sundbyberg/Duvbo],2095000,315000,2410000,2381,Notar,33.209246353474356,Duvbo
+2014-11-28,Furuvägen 23,Tulemarken,Blå Sundbyberg,2,63,3,Lägenhet,1950,[Sundbyberg/Duvbo],2195000,395000,2590000,3632,Svensk Fastighetsförmedling,397.87209646453687,Duvbo
+2014-11-12,Furuvägen 23,Tulemarken,Blå Sundbyberg,2,63,6,Lägenhet,1950,[Sundbyberg/Duvbo],2495000,630000,3125000,3632,Erik Olsson Fastighetsförmedling,397.87209646453687,Duvbo
+2014-11-06,Fredsgränd 13,Tulemarken,Blå Sundbyberg,2,46.5,null,Lägenhet,null,[Sundbyberg/Duvbo],2095000,5000,2100000,2937,Svensk Fastighetsförmedling,295.6375761470959,Duvbo
+2014-11-05,Stenbrottsgatan 5,Tulemarken,Blå Sundbyberg,1.5,50,6,Lägenhet,1950,[Sundbyberg/Duvbo],2350000,470000,2820000,2733,SkandiaMäklarna,471.1893812803285,Sundbybergs centrum
+2014-10-29,Tulegatan 60,Tulemarken,Blå Sundbyberg,1.5,33,4,Lägenhet,null,[Tulemarken],1795000,205000,2000000,1994,Bjurfors,33.209246353474356,Duvbo
+2014-10-10,Fredsgränd 11,Tulemarken,Blå Sundbyberg,2,64.5,4,Lägenhet,2009,[Sundbyberg/Duvbo],2995000,0,2995000,3998,Bjurfors,231.11692104606578,Duvbo
+2014-10-09,Tulegatan 60,Tulemarken,Blå Sundbyberg,2,42,2,Lägenhet,1942,[Sundbyberg/Duvbo],2095000,275000,2370000,2381,Notar,33.209246353474356,Duvbo
+2014-10-01,Tulegatan 58A,Tulemarken,Blå Sundbyberg,2,46.5,2,Lägenhet,1931,[Tulemarken],2195000,225000,2420000,2728,Bjurfors,43.52674173112213,Duvbo
+2014-09-23,Bergaliden 11,Tulemarken,Blå Sundbyberg,2,63,1,Lägenhet,2008,[Sundbyberg/Duvbo],2650000,400000,3050000,3773,Svenska Mäklarhuset,312.87252378652414,Duvbo
+2014-09-13,Fredsgränd 17,Tulemarken,Blå Sundbyberg,4,89,null,Lägenhet,2009,[Sundbyberg/Duvbo],3995000,205000,4200000,5197,One Fastighetsmäkleri,307.45216895847534,Duvbo
+2014-08-27,Tulegatan 72,Tulemarken,Blå Sundbyberg,1,26,null,Lägenhet,1942,[Sundbyberg/Duvbo],1495000,255000,1750000,1801,Erik Olsson Fastighetsförmedling,199.11712198235654,Duvbo
+2014-08-27,Fredsgränd 13,Tulemarken,Blå Sundbyberg,2,64.5,5,Lägenhet,2009,[Lötsjöhöjden],2795000,405000,3200000,3869,One Fastighetsmäkleri,295.6375761470959,Duvbo
+2014-07-18,Tulegatan 70,Tulemarken,Blå Sundbyberg,1,26,2,Lägenhet,1942,[Sundbyberg/Duvbo],1750000,0,1750000,1801,Länsförsäkringar Fastighetsförmedling,128.4016787331554,Duvbo
+2014-07-09,Fredsgränd 11,Tulemarken,Blå Sundbyberg,3,64.5,null,Lägenhet,2009,[Sundbyberg/Duvbo],2895000,305000,3200000,3998,Fastighetsbyrån,231.11692104606578,Duvbo
+2014-06-13,Furuvägen 26,Tulemarken,Blå Sundbyberg,3,73.5,null,Lägenhet,2008,[Tulemarken],3295000,0,3295000,4181,Fastighetsbyrån,381.986298792804,Duvbo
+2014-06-12,Tulegatan 70,Tulemarken,Blå Sundbyberg,1,40,3,Lägenhet,1942,[Sundbyberg/Duvbo],1795000,215000,2010000,2380,Länsförsäkringar Fastighetsförmedling,128.4016787331554,Duvbo
+2014-06-05,Tulegatan 70,Tulemarken,Blå Sundbyberg,1.5,26,3,Lägenhet,1942,[Sundbyberg/Duvbo],1495000,175000,1670000,1847,Notar,128.4016787331554,Duvbo
+2014-06-04,Tulegatan 68,Tulemarken,Blå Sundbyberg,1.5,40,null,Lägenhet,1942,[Sundbyberg/Duvbo],1795000,55000,1850000,2380,Fastighetsbyrån,128.69277701163261,Duvbo
+2014-05-28,Tulegatan 58A,Tulemarken,Blå Sundbyberg,2,39.5,null,Lägenhet,1931,[Sundbyberg/Duvbo],1850000,150000,2000000,2342,Fastighetsbyrån,43.52674173112213,Duvbo
+2014-05-21,Tulegatan 70,Tulemarken,Blå Sundbyberg,2,53,3,Lägenhet,1942,[Sundbyberg/Duvbo],1995000,0,1995000,3100,Svenska Mäklarhuset,128.4016787331554,Duvbo
+2014-05-21,Fredsgränd 7,Tulemarken,Blå Sundbyberg,4,89,null,Lägenhet,2009,[Sundbyberg/Duvbo],3895000,-45000,3850000,5369,Fastighetsbyrån,86.76202054985134,Duvbo
+2014-05-18,Stenbrottsgatan 3,Tulemarken,Blå Sundbyberg,3,72.5,3,Lägenhet,1959,[Sundbyberg/Duvbo],2995000,205000,3200000,4115,SkandiaMäklarna,466.0343346883986,Duvbo
+2014-05-14,Bergaliden 13,Tulemarken,Blå Sundbyberg,3,80,null,Lägenhet,2008,[Sundbyberg/Duvbo],4295000,40000,4335000,4615,Svenska Mäklarhuset,338.8682869815405,Duvbo
+2014-05-13,Stenbrottsgatan 5,Tulemarken,Blå Sundbyberg,3,73,2,Lägenhet,1950,[Sundbyberg/Duvbo],2995000,0,2995000,4134,SkandiaMäklarna,471.1893812803285,Sundbybergs centrum
+2014-04-30,Tulegatan 70,Tulemarken,Blå Sundbyberg,2,53,null,Lägenhet,1942,[Sundbyberg/Duvbo],1995000,455000,2450000,3044,Svenska Mäklarhuset,128.4016787331554,Duvbo
+2014-04-25,Fredsgränd 15,Tulemarken,Blå Sundbyberg,3,64.5,2,Lägenhet,2007,[Sundbyberg/Duvbo],2495000,235000,2730000,3869,Svenska Mäklarhuset,265.13091667142936,Duvbo
+2014-04-16,Tulegatan 58B,Tulemarken,Blå Sundbyberg,2,47,1,Lägenhet,1931,[Sundbyberg/Duvbo],1995000,245000,2240000,2727,SkandiaMäklarna,45.56493031254633,Duvbo
+2014-04-09,Stenbrottsgatan 5,Tulemarken,Blå Sundbyberg,3,72.5,null,Lägenhet,1950,[Sundbyberg/Duvbo],2395000,335000,2730000,3919,Fastighetsbyrån,471.1893812803285,Sundbybergs centrum
+2014-04-05,Bergaliden 11,Tulemarken,Blå Sundbyberg,5,131,null,Lägenhet,null,[Sundbyberg/Duvbo],5195000,-195000,5000000,7143,Svensk Fastighetsförmedling,312.87252378652414,Duvbo
+2014-03-26,Fredsgränd 15,Tulemarken,Blå Sundbyberg,3,77,null,Lägenhet,2009,[Lötsjöhöjden],3195000,330000,3525000,4492,One Fastighetsmäkleri,265.13091667142936,Duvbo
+2014-03-07,Bergaliden 7,Tulemarken,Blå Sundbyberg,4,92,2,Lägenhet,2008,[Bergaliden],4495000,705000,5200000,5210,One Fastighetsmäkleri,245.3437646611203,Duvbo
+2014-02-12,Stenbrottsgatan 3,Tulemarken,Blå Sundbyberg,3,74,2,Lägenhet,1950,[Sundbyberg/Duvbo],2595000,315000,2910000,3973,Erik Olsson Fastighetsförmedling,466.0343346883986,Duvbo
+2014-02-04,Tulegatan 74,Tulemarken,Blå Sundbyberg,3,62,null,Lägenhet,1948,[Sundbyberg/Duvbo],2095000,250000,2345000,3888,Fastighetsbyrån,226.14098578406862,Duvbo
+2014-01-16,Bergaliden 13,Tulemarken,Blå Sundbyberg,2,63,null,Lägenhet,2008,[Sundbyberg/Duvbo],2295000,420000,2715000,3773,Svensk Fastighetsförmedling,338.8682869815405,Duvbo
+2014-01-15,Fredsgränd 11,Tulemarken,Blå Sundbyberg,3,76,1,Lägenhet,2007,[Sundbyberg/Duvbo],2995000,325000,3320000,4455,Svenska Mäklarhuset,231.11692104606578,Duvbo
+2014-01-15,Tulegatan 74,Tulemarken,Blå Sundbyberg,3,62,2,Lägenhet,1948,[Sundbyberg/Duvbo],1995000,305000,2300000,3888,Svensk Fastighetsförmedling,226.14098578406862,Duvbo
+2013-12-10,Tulegatan 74,Tulemarken,Blå Sundbyberg,3,62,1,Lägenhet,1948,[Sundbyberg/Duvbo],2095000,50000,2145000,3888,Svenska Mäklarhuset,226.14098578406862,Duvbo
+2013-12-06,Tulegatan 62,Tulemarken,Blå Sundbyberg,2,53,null,Lägenhet,1942,[Sundbyberg/Duvbo],1995000,0,1995000,2981,Fastighetsbyrån,46.97910318403176,Duvbo
+2013-12-06,Tulegatan 20,Tulemarken,Blå Sundbyberg,3,72,1,Lägenhet,1950,[Sundbyberg/Duvbo],2375000,35000,2410000,3901,Svenska Mäklarhuset,471.1893812803285,Sundbybergs centrum
+2013-11-14,Tulegatan 62,Tulemarken,Blå Sundbyberg,2,53,null,Lägenhet,1942,[Sundbyberg/Duvbo],1850000,150000,2000000,3053,Fastighetsbyrån,46.97910318403176,Duvbo
+2013-10-18,Bergaliden 7,Tulemarken,Blå Sundbyberg,2,63,null,Lägenhet,2008,[Lötsjöhöjden],2395000,55000,2450000,3663,Notar,245.3437646611203,Duvbo
+2013-10-16,Tulegatan 74,Tulemarken,Blå Sundbyberg,3,62,2,Lägenhet,1948,[Sundbyberg/Duvbo],2195000,100000,2295000,3888,Svensk Fastighetsförmedling,226.14098578406862,Duvbo
+2013-10-10,Fredsgatan 22,Tulemarken,Blå Sundbyberg,2,48,4,Lägenhet,null,[Sundbyberg/Duvbo],1995000,155000,2150000,2830,Erik Olsson Fastighetsförmedling,118.28467201518467,Duvbo
+2013-10-07,Fredsgränd 7,Tulemarken,Blå Sundbyberg,3,77,1,Lägenhet,2009,[Sundbyberg/Duvbo],3295000,5000,3300000,4505,Svenska Mäklarhuset,86.76202054985134,Duvbo
+2013-09-18,Fredsgränd 15,Tulemarken,Blå Sundbyberg,4,89,null,Lägenhet,2009,[Sundbyberg/Duvbo],3795000,105000,3900000,5197,Fastighetsbyrån,265.13091667142936,Duvbo
+2013-08-21,Fredsgatan 22,Tulemarken,Blå Sundbyberg,2,42,1,Lägenhet,1938,[Duvbo],1675000,105000,1780000,2521,Notar,118.28467201518467,Duvbo
+2013-08-11,Tulegatan 60,Tulemarken,Blå Sundbyberg,2,59,4,Lägenhet,null,[Sundbyberg/Duvbo],1995000,155000,2150000,2633,Bjurfors,33.209246353474356,Duvbo
+2013-08-09,Tulegatan 66,Tulemarken,Blå Sundbyberg,3,67,1,Lägenhet,1942,[Sundbyberg/Duvbo],2195000,55000,2250000,3359,Notar,97.54869731469279,Duvbo
+2013-08-09,Tulegatan 78,Tulemarken,Blå Sundbyberg,3,62,null,Lägenhet,1948,[Sundbyberg/Duvbo],2295000,305000,2600000,3888,Länsförsäkringar Fastighetsförmedling,277.57333976600586,Duvbo
+2013-08-08,Fredsgatan 22,Tulemarken,Blå Sundbyberg,1,43,2,Lägenhet,1938,[Sundbyberg/Duvbo],1695000,105000,1800000,2680,Svenska Mäklarhuset,118.28467201518467,Duvbo
+2013-08-07,Fredsgränd 9,Tulemarken,Blå Sundbyberg,3,76,null,Lägenhet,2009,[Sundbyberg/Duvbo],2995000,105000,3100000,4455,Fastighetsbyrån,152.60767499453786,Duvbo
+2013-08-06,Tulegatan 58B,Tulemarken,Blå Sundbyberg,1.5,39.5,null,Lägenhet,1931,[Sundbyberg/Duvbo],1595000,305000,1900000,2342,Fastighetsbyrån,45.56493031254633,Duvbo
+2013-07-24,Tulegatan 72,Tulemarken,Blå Sundbyberg,2,53,3,Lägenhet,1942,[Sundbyberg/Duvbo],1995000,5000,2000000,3010,Notar,199.11712198235654,Duvbo
+2013-05-18,Fredsgränd 17,Tulemarken,Blå Sundbyberg,3,64.5,null,Lägenhet,null,[Sundbyberg/Duvbo],2495000,0,2495000,3834,Erik Olsson Fastighetsförmedling,307.45216895847534,Duvbo
+2013-05-10,Fredsgatan 22,Tulemarken,Blå Sundbyberg,1.5,34,1,Lägenhet,1938,[Sundbyberg/Duvbo],1595000,0,1595000,2149,Svenska Mäklarhuset,118.28467201518467,Duvbo
+2013-04-26,Bergaliden 11,Tulemarken,Blå Sundbyberg,3,75,null,Lägenhet,2008,[Tulemarken],3690000,-80000,3610000,4240,SkandiaMäklarna,312.87252378652414,Duvbo
+2013-04-16,Tulegatan 72,Tulemarken,Blå Sundbyberg,1.5,40,null,Lägenhet,1942,[Sundbyberg/Duvbo],1595000,0,1595000,2311,Fastighetsbyrån,199.11712198235654,Duvbo
+2013-04-09,Tulegatan 70,Tulemarken,Blå Sundbyberg,2.5,53,null,Lägenhet,1942,[Sundbyberg/Duvbo],1895000,0,1895000,2981,Svenska Mäklarhuset,128.4016787331554,Duvbo
+2013-03-28,Bergaliden 13,Tulemarken,Blå Sundbyberg,3,76,null,Lägenhet,2008,[Bergaliden],3695000,20000,3715000,4288,Svenska Mäklarhuset,338.8682869815405,Duvbo
+2013-03-13,Bergaliden 9,Tulemarken,Blå Sundbyberg,3,92,null,Lägenhet,2008,[Bergaliden],4595000,-70000,4525000,5058,Svenska Mäklarhuset,270.52295173984885,Duvbo
+2013-03-09,Tulegatan 78,Tulemarken,Blå Sundbyberg,1.5,37.3,null,Lägenhet,null,[Sundbyberg/Duvbo],1495000,15000,1510000,2009,BOSTHLM,277.57333976600586,Duvbo
+2013-03-08,Tulegatan 78,Tulemarken,Blå Sundbyberg,3,62,null,Lägenhet,1945,[Sundbyberg/Duvbo],2295000,-195000,2100000,3775,Svenska Mäklarhuset,277.57333976600586,Duvbo
+2013-03-06,Furuvägen 23,Tulemarken,Blå Sundbyberg,2,63,5,Lägenhet,1950,[Tulemarken],1995000,105000,2100000,3170,SkandiaMäklarna,397.87209646453687,Duvbo
+2013-02-21,Tulegatan 70,Tulemarken,Blå Sundbyberg,1,40,3,Lägenhet,1942,[Sundbyberg/Duvbo],1495000,145000,1640000,2190,Svensk Fastighetsförmedling,128.4016787331554,Duvbo
+2013-02-16,Tulegatan 58B,Tulemarken,Blå Sundbyberg,2,47,null,Lägenhet,1931,[Sundbyberg/Duvbo],1895000,-65000,1830000,2727,SkandiaMäklarna,45.56493031254633,Duvbo
+2013-02-13,Tulegatan 48,Tulemarken,Blå Sundbyberg,4,94,1,Lägenhet,1996,[Sundbyberg/Duvbo],2795000,-95000,2700000,6897,Svenska Mäklarhuset,192.88554147958757,Duvbo
+2013-02-09,Fredsgatan 22,Tulemarken,Blå Sundbyberg,2,48,2,Lägenhet,1938,[Sundbyberg/Duvbo],1895000,-45000,1850000,2975,Svenska Mäklarhuset,118.28467201518467,Duvbo
+2013-01-31,Fredsgränd 15,Tulemarken,Blå Sundbyberg,4,89,2,Lägenhet,2009,[Sundbyberg/Duvbo],3600000,-100000,3500000,5197,Svenska Mäklarhuset,265.13091667142936,Duvbo
+2013-01-24,Stenbrottsgatan 3,Tulemarken,Blå Sundbyberg,3,74,5,Lägenhet,1950,[Sundbyberg/Duvbo],2595000,-10000,2585000,3784,Svensk Fastighetsförmedling,466.0343346883986,Duvbo
+2013-01-23,Bergaliden 9,Tulemarken,Blå Sundbyberg,2,63,null,Lägenhet,2008,[Tulemarken],2095000,125000,2220000,3663,SkandiaMäklarna,270.52295173984885,Duvbo
+2013-01-17,Tulegatan 74,Tulemarken,Blå Sundbyberg,1.5,29,null,Lägenhet,1948,[Duvbo],1295000,165000,1460000,1552,SkandiaMäklarna,226.14098578406862,Duvbo
+2012-12-14,Tulegatan 48,Tulemarken,Blå Sundbyberg,4,94,2,Lägenhet,1996,[Sundbyberg/Duvbo],2695000,120000,2815000,6893,Svenska Mäklarhuset,192.88554147958757,Duvbo
+2012-12-12,Tulegatan 76,Tulemarken,Blå Sundbyberg,3,62,null,Lägenhet,1948,[Sundbyberg/Duvbo],2295000,130000,2425000,3775,Fastighetsbyrån,245.6148796172261,Duvbo
+2012-10-19,Tulegatan 60,Tulemarken,Blå Sundbyberg,2,59,1.5,Lägenhet,1942,[Sundbyberg/Duvbo],1895000,0,1895000,3307,Mäklarhuset,33.209246353474356,Duvbo
+2012-09-21,Fredsgatan 22,Tulemarken,Blå Sundbyberg,1,43,3,Lägenhet,1938,[Sundbyberg/Duvbo],1650000,40000,1690000,2680,Svensk Fastighetsförmedling,118.28467201518467,Duvbo

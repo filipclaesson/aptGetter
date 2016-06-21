@@ -1,0 +1,174 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-11,Anundsvägen 42,Norra Ångby,,Grön Hässelby,6,133,null,Villa,1954,[Norra Ängby],7700000,450000,8150000,null,Fastighetsbyrån,528.4091774410123,Racksta
+2016-04-29,Hirdvägen 6,Norra Ångby,,Grön Hässelby,5,81,null,Villa,1936,[Bromma],5495000,105000,5600000,null,Svensk Fastighetsförmedling,450.1810617210035,Islandstorget
+2016-04-29,Kiviksvägen 2,Norra Ångby,,Grön Hässelby,7,149,null,Villa,1934,[Bromma],12300000,600000,12900000,null,Bjurfors,752.5416734652237,Angbyplan
+2016-04-22,Ruriksvägen 9,Norra Ångby,,Grön Hässelby,6,116,null,Villa,1932,[Bromma],8200000,600000,8800000,null,Bjurfors,332.39053715758223,Islandstorget
+2016-04-22,Adilsvägen 5,Norra Ångby,,Grön Hässelby,5,66,null,Villa,1936,[Bromma],5900000,470000,6370000,null,Bjurfors,483.5539725101515,Islandstorget
+2016-04-21,Frösövägen 6,Norra Ångby,,Grön Hässelby,7,133,null,Villa,1970,[Norra Ängby],8995000,50000,9045000,null,Fastighetsbyrån,908.7384646392194,Islandstorget
+2016-04-15,Islandsvägen 4,Norra Ångby,,Grön Hässelby,6,90,null,Villa,1936,[Norra Ängby],7495000,1105000,8600000,null,Fastighetsbyrån,501.96321656228224,Islandstorget
+2016-04-06,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1967,[Bromma Norra Ängby],1645000,605000,2250000,1850,HusmanHagberg,458.9843663866506,Racksta
+2016-03-24,Jomsborgsvägen 17,Norra Ångby,,Grön Hässelby,8,149,null,Villa,1940,[Bromma],9600000,950000,10550000,null,Bjurfors,417.4805834685571,Angbyplan
+2016-03-23,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,54,4,Lägenhet,1967,[Norra Ängby],1995000,515000,2510000,3568,Fastighetsbyrån,458.9843663866506,Racksta
+2016-03-22,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1967,[Bromma Norra Ängby],1595000,505000,2100000,1850,HusmanHagberg,424.08088533962217,Racksta
+2016-03-19,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,48,4,Lägenhet,1967,[Bromma Norra Ängby],1895000,300000,2195000,3172,HusmanHagberg,458.9843663866506,Racksta
+2016-03-18,Vereliusvägen 14,Norra Ångby,,Grön Hässelby,7,168,null,Villa,1932,[Bromma],8900000,75000,8975000,null,Bjurfors,572.5651259370169,Islandstorget
+2016-03-18,Bällstavägen 249,Norra Ångby,,Grön Hässelby,6,91.5,null,Villa,1932,[Norra Ängby],7750000,675000,8425000,null,Fastighetsbyrån,771.423046925029,Islandstorget
+2016-03-17,Brennervägen 18,Norra Ångby,,Grön Hässelby,5,77,null,Villa,1932,[Norra Ängby],7495000,755000,8250000,null,Fastighetsbyrån,562.1851604494385,Islandstorget
+2016-02-25,Hågavägen 7,Norra Ångby,,Grön Hässelby,7,142,null,Villa,1933,[Bromma],10900000,1200000,12100000,null,Bjurfors,682.8277727506216,Angbyplan
+2016-02-24,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,54,4,Lägenhet,1967,[Bromma Norra Ängby],1995000,305000,2300000,3568,HusmanHagberg,458.9843663866506,Racksta
+2016-02-20,Möjbrovägen 13,Norra Ångby,,Grön Hässelby,6,115,null,Villa,1937,[Bromma],10600000,0,10600000,null,Bjurfors,282.7192350349653,Akeshov
+2016-02-18,Hågavägen 40,Norra Ångby,,Grön Hässelby,6,114,null,Villa,1932,[Bromma],8900000,150000,9050000,null,Bjurfors,678.0998638260273,Angbyplan
+2016-02-17,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,3,Lägenhet,1967,[Bromma Norra Ängby],1595000,505000,2100000,1850,HusmanHagberg,424.08088533962217,Racksta
+2016-02-05,Peringskiöldsvägen 56,Norra Ångby,,Grön Hässelby,7,133,null,Villa,1932,[Bromma],9400000,1650000,11050000,null,Bjurfors,752.3854851209352,Islandstorget
+2016-01-18,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,4,Lägenhet,1960,[Bromma Norra Ängby],1990000,160000,2150000,3172,Notar,424.08088533962217,Racksta
+2016-01-13,Bergslagsvägen 178C,Norra Ångby,,Grön Hässelby,5,153,null,Radhus,2013,[Bromma],7795000,655000,8450000,null,Magnusson Mäkleri,106.66577699978932,Angbyplan
+2015-11-20,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,3,Lägenhet,null,[Norra Ängby],1595000,275000,1870000,1850,Svenska Mäklarhuset,424.08088533962217,Racksta
+2015-11-19,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,48,5,Lägenhet,1967,[Bromma Norra Ängby],1995000,455000,2450000,3172,HusmanHagberg,458.9843663866506,Racksta
+2015-11-18,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,48,5,Lägenhet,1967,[Bromma Norra Ängby],1995000,455000,2450000,3172,HusmanHagberg,458.9843663866506,Racksta
+2015-11-04,Björketorpsvägen 9,Norra Ångby,,Grön Hässelby,3.5,77,4,Lägenhet,2009,[Norra Ängby],2995000,805000,3800000,4240,Fastighetsbyrån,432.4527223685671,Racksta
+2015-11-03,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,48,0,Lägenhet,1967,[Bromma],1775000,155000,1930000,3172,Svensk Fastighetsförmedling,458.9843663866506,Racksta
+2015-11-02,Ramsundsvägen 3,Norra Ångby,,Grön Hässelby,5,72,null,Villa,1936,[Bromma],5400000,1300000,6700000,null,Bjurfors,918.1699594058325,Islandstorget
+2015-10-24,Hirdvägen 34,Norra Ångby,,Grön Hässelby,5,91,null,Villa,1952,[Bromma],4800000,825000,5625000,null,Bjurfors,532.3525362282251,Blackeberg
+2015-10-14,Brennervägen 14,Norra Ångby,,Grön Hässelby,5,73,null,Villa,1931,[Norra Ängby],7650000,1250000,8900000,null,Fastighetsbyrån,590.2816717234481,Islandstorget
+2015-10-08,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,54,5,Lägenhet,1967,[Bromma],2095000,330000,2425000,3568,Svensk Fastighetsförmedling,424.08088533962217,Racksta
+2015-10-01,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,0,Lägenhet,1967,[Bromma Norra Ängby],1595000,455000,2050000,1850,HusmanHagberg,424.08088533962217,Racksta
+2015-09-29,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,4,Lägenhet,null,[Norra Ängby],2400000,0,2400000,3172,BOSTHLM,424.08088533962217,Racksta
+2015-09-17,Spångavägen 49,Norra Ångby,,Grön Hässelby,4,87,1,Lägenhet,1940,[Bromma],2995000,330000,3325000,6167,Notar,460.5713998546239,Akeshov
+2015-09-11,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,0.5,Lägenhet,1963,[Norra Ängby],1695000,305000,2000000,1850,Länsförsäkringar Fastighetsförmedling,424.08088533962217,Racksta
+2015-08-21,Beckombergavägen 63,Norra Ångby,,Grön Hässelby,6,83,null,Villa,null,[Norra Ängby],6295000,605000,6900000,null,Svenska Mäklarhuset,551.7845285058622,Akeshov
+2015-08-20,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1963,[Norra Ängby],1595000,230000,1825000,1850,Länsförsäkringar Fastighetsförmedling,458.9843663866506,Racksta
+2015-07-28,Stockholm Runsavägen 1,Norra Ångby,,Grön Hässelby,4,78,null,Villa,1935,[Bromma],5495000,1255000,6750000,null,Feretti Mäkleri,189.76232388096676,Akeshov
+2015-07-10,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,0,Lägenhet,1967,[Bromma Norra Ängby],1495000,420000,1915000,1850,HusmanHagberg,424.08088533962217,Racksta
+2015-07-03,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,3,Lägenhet,1967,[Bromma Norra Ängby],1450000,525000,1975000,1850,HusmanHagberg,458.9843663866506,Racksta
+2015-06-24,Björketorpsvägen 7,Norra Ångby,,Grön Hässelby,2,43,2,Lägenhet,2009,[Bromma],1895000,305000,2200000,2543,Erik Olsson Fastighetsförmedling,466.2537341761929,Racksta
+2015-06-18,Beckombergavägen 172,Norra Ångby,,Grön Hässelby,6,97,null,Villa,1993,[Norra Ängby],7995000,1155000,9150000,null,Fastighetsbyrån,682.9767386923119,Islandstorget
+2015-06-16,Bromma Spångavägen 37,Norra Ångby,,Grön Hässelby,3,60,2,Lägenhet,1940,[Brommaplan Bromma],1800000,515000,2315000,4602,Olle Lind AB,484.58975091534205,Akeshov
+2015-06-11,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1967,[Bromma Norra Ängby],1450000,320000,1770000,1850,HusmanHagberg,424.08088533962217,Racksta
+2015-06-10,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,1,Lägenhet,null,[Norra Ängby],1495000,330000,1825000,1850,BOSTHLM,458.9843663866506,Racksta
+2015-05-29,Snorrevägen 17,Norra Ångby,,Grön Hässelby,7,142,null,Villa,1933,[Bromma],9800000,1900000,11700000,null,Bjurfors,786.4819045600474,Angbyplan
+2015-05-29,Hedebyvägen 16,Norra Ångby,,Grön Hässelby,4,117,null,Villa,1932,[Bromma],5495000,1155000,6650000,null,Svensk Fastighetsförmedling,314.83867826236946,Islandstorget
+2015-05-25,Hirdvägen 15,Norra Ångby,,Grön Hässelby,7,73,null,Villa,1938,[Norra Ängby],6395000,105000,6500000,null,Länsförsäkringar Fastighetsförmedling,510.2979987417151,Islandstorget
+2015-05-14,Björketorpsvägen 7,Norra Ångby,,Grön Hässelby,4,96,6,Lägenhet,2009,[Norra Ängby],2995000,1005000,4000000,5188,Fastighetsbyrån,466.2537341761929,Racksta
+2015-05-13,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1967,[Bromma Norra Ängby],1495000,405000,1900000,1850,HusmanHagberg,424.08088533962217,Racksta
+2015-05-05,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,1967,[Bromma],1395000,325000,1720000,null,Svensk Fastighetsförmedling,424.08088533962217,Racksta
+2015-05-01,Anundsvägen 3,Norra Ångby,,Grön Hässelby,5,66,null,Villa,1938,[Bromma],5900000,300000,6200000,null,Bjurfors,613.4389251151345,Islandstorget
+2015-04-30,Franklandsvägen 42,Norra Ångby,,Grön Hässelby,6,73,null,Villa,1937,[Bromma],5300000,50000,5350000,null,Bjurfors,763.2966752740326,Racksta
+2015-04-29,Adilsvägen 19,Norra Ångby,,Grön Hässelby,7,68,null,Villa,1937,[Norra Ängby],5895000,5000,5900000,null,Fastighetsbyrån,572.0432344037084,Islandstorget
+2015-04-23,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1967,[Bromma Norra Ängby],1395000,505000,1900000,1850,HusmanHagberg,458.9843663866506,Racksta
+2015-04-17,Björketorpsvägen 7,Norra Ångby,,Grön Hässelby,2,43,5,Lägenhet,2009,[Bromma],1795000,405000,2200000,2544,Länsförsäkringar Fastighetsförmedling,466.2537341761929,Racksta
+2015-04-10,Björketorpsvägen 17,Norra Ångby,,Grön Hässelby,3.5,79,2,Lägenhet,2009,[Bromma],2590000,560000,3150000,4340,Notar,492.26026843511295,Racksta
+2015-04-03,Bergslagsvägen 74,Norra Ångby,,Grön Hässelby,2,64,4,Lägenhet,2008,[Bromma Norra Ängby],2875000,225000,3100000,3576,Mäklarringen,81.14636431445258,Akeshov
+2015-03-23,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,4,Lägenhet,1967,[Bromma Norra Ängby],1595000,455000,2050000,3172,Notar,424.08088533962217,Racksta
+2015-03-19,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,4,Lägenhet,1967,[Bromma Norra Ängby],1595000,325000,1920000,3172,HusmanHagberg,424.08088533962217,Racksta
+2015-03-11,Franklandsvägen 23,Norra Ångby,,Grön Hässelby,6,98,null,Villa,1937,[Bromma Norra Ängby],5790000,1610000,7400000,null,Notar,724.2585692000885,Islandstorget
+2015-02-05,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,54,4,Lägenhet,1967,[Bromma Norra Ängby],1795000,160000,1955000,3568,HusmanHagberg,458.9843663866506,Racksta
+2015-02-04,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1967,[Bromma Norra Ängby],1295000,375000,1670000,1850,HusmanHagberg,424.08088533962217,Racksta
+2015-01-14,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,3,Lägenhet,1967,[Bromma Norra Ängby],1495000,292000,1787000,3172,HusmanHagberg,424.08088533962217,Racksta
+2014-12-19,Bergslagsvägen 212,Norra Ångby,,Grön Hässelby,6,93,null,Villa,1935,[Bromma Norra Ängby],4490000,1140000,5630000,null,HusmanHagberg,313.7054206249655,Angbyplan
+2014-11-29,Islandsvägen 15,Norra Ångby,,Grön Hässelby,6,62,null,Villa,1936,[Bromma],4650000,465000,5115000,null,Bjurfors,383.45893129109754,Islandstorget
+2014-11-29,Bergslagsvägen 256,Norra Ångby,,Grön Hässelby,5,85,null,Villa,1938,[Bromma],4995000,-245000,4750000,null,BOSTHLM,122.77804446542568,Islandstorget
+2014-11-21,Bergslagsvägen 78,Norra Ångby,,Grön Hässelby,3,82,4,Lägenhet,2008,[Norra Ängby],3550000,20000,3570000,4201,Länsförsäkringar Fastighetsförmedling,137.95407801646613,Akeshov
+2014-11-20,Björketorpsvägen 17,Norra Ångby,,Grön Hässelby,2,43,null,Lägenhet,2009,[Bromma],1595000,415000,2010000,2494,Notar,492.26026843511295,Racksta
+2014-11-16,Långskeppsgatan 49,Norra Ångby,,Grön Hässelby,5,76,null,Villa,1937,[Bromma],6400000,350000,6750000,null,Bjurfors,721.4638619082405,Racksta
+2014-11-10,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,1,Lägenhet,1967,[Bromma],1495000,205000,1700000,3172,Notar,424.08088533962217,Racksta
+2014-11-10,Bergslagsvägen 180,Norra Ångby,,Grön Hässelby,6,65,null,Villa,1939,[Norra Ängby],4500000,-500000,4000000,null,Fastighetsbyrån,130.87519166078565,Angbyplan
+2014-11-06,Vultejusvägen 19,Norra Ångby,,Grön Hässelby,7,190,null,Villa,1976,[Bromma Norra Ängby],7490000,435000,7925000,null,Notar,714.1991785708163,Angbyplan
+2014-10-31,Bergslagsvägen 76,Norra Ångby,,Grön Hässelby,3,64,5,Lägenhet,2008,[Bromma],2695000,80000,2775000,3406,Erik Olsson Fastighetsförmedling,75.17355522876532,Akeshov
+2014-10-25,Egilsvägen 19,Norra Ångby,,Grön Hässelby,6,96,null,Villa,1932,[Norra Ängby],6495000,1455000,7950000,null,Länsförsäkringar Fastighetsförmedling,494.7921224268621,Angbyplan
+2014-10-21,Beckombergavägen 216,Norra Ångby,,Grön Hässelby,3,79.5,1,Lägenhet,null,[Bromma],2650000,220000,2870000,4106,Bjurfors,1014.0316053410396,Islandstorget
+2014-10-16,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,54,null,Lägenhet,1967,[Norra Ängby],1995000,0,1995000,3568,Fastighetsbyrån,458.9843663866506,Racksta
+2014-10-09,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,1967,[Bromma],1095000,440000,1535000,2062,Erik Olsson Fastighetsförmedling,424.08088533962217,Racksta
+2014-10-09,Snorrevägen 11,Norra Ångby,,Grön Hässelby,9,184,null,Villa,1933,[Bromma],9800000,1900000,11700000,null,Bjurfors,772.0502784672151,Akeshov
+2014-09-20,Björketorpsvägen 9,Norra Ångby,,Grön Hässelby,3.5,77,null,Lägenhet,2008,[Norra Ängby],2495000,0,2495000,4157,ERA,432.4527223685671,Racksta
+2014-09-18,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,3,Lägenhet,1967,[Bromma Norra Ängby],1195000,305000,1500000,1762,HusmanHagberg,458.9843663866506,Racksta
+2014-09-18,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,1967,[Norra Ängby],1195000,285000,1480000,1762,Svenska Mäklarhuset,424.08088533962217,Racksta
+2014-09-16,Danavägen 25,Norra Ångby,,Grön Hässelby,6,111,null,Villa,1937,[Norra Ängby],4975000,-475000,4500000,null,Fastighetsbyrån,486.4400936579346,Blackeberg
+2014-09-11,Bergslagsvägen 74,Norra Ångby,,Grön Hässelby,5,168,6,Lägenhet,2008,[Bromma Åkeshov],6790000,0,6790000,6410,Notar,81.14636431445258,Akeshov
+2014-09-09,Tingvallavägen 7,Norra Ångby,,Grön Hässelby,5,81,null,Villa,1937,[Norra Ängby],null,NaN,6250000,null,Fastighetsbyrån,761.4608413112984,Racksta
+2014-08-31,Beckombergavägen 191,Norra Ångby,,Grön Hässelby,7,153,null,Villa,1938,[Bromma Norra Ängby],6250000,0,6250000,null,Notar,927.5705241510808,Islandstorget
+2014-08-30,Grekfararvägen 23,Norra Ångby,,Grön Hässelby,4,51,null,Lägenhet,1941,[Bromma],4200000,400000,4600000,3906,Bjurfors,681.0830800636752,Islandstorget
+2014-08-27,Stiklastadsvägen 8,Norra Ångby,,Grön Hässelby,5,96,null,Villa,1935,[Bromma],5400000,700000,6100000,null,Bjurfors,892.6507789871235,Islandstorget
+2014-08-19,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,null,[Bromma],1195000,375000,1570000,1762,Mäklarhuset,458.9843663866506,Racksta
+2014-08-13,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,1967,[Bromma],1195000,390000,1585000,1762,Svenska Mäklarhuset,424.08088533962217,Racksta
+2014-07-14,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,48,null,Lägenhet,2006,[Bromma],1495000,285000,1780000,3021,BOSTHLM,458.9843663866506,Racksta
+2014-06-23,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,54,5,Lägenhet,1967,[Bromma Norra Ängby],1650000,100000,1750000,3398,HusmanHagberg,424.08088533962217,Racksta
+2014-06-19,Beckombergavägen 216,Norra Ångby,,Grön Hässelby,4,89,3,Lägenhet,null,[Bromma],2990000,350000,3340000,4706,SkandiaMäklarna,1014.0316053410396,Islandstorget
+2014-06-05,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,2,Lägenhet,1967,[Bromma],1595000,0,1595000,3021,Notar,424.08088533962217,Racksta
+2014-06-04,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,54,5,Lägenhet,1967,[Bromma Norra Ängby],1650000,0,1650000,3398,HusmanHagberg,424.08088533962217,Racksta
+2014-05-15,Ottarsvägen 3,Norra Ångby,,Grön Hässelby,6,103,null,Villa,1935,[Bromma],6300000,1175000,7475000,null,Bjurfors,322.2844202097616,Angbyplan
+2014-05-09,Saxlandsvägen 8,Norra Ångby,,Grön Hässelby,5,70,null,Villa,1936,[Bromma],4900000,550000,5450000,null,Bjurfors,255.47095235407158,Islandstorget
+2014-05-07,Spångavägen 47,Norra Ångby,,Grön Hässelby,2,59.5,0.5,Lägenhet,1940,[Bromma Brommaplan],1490000,-60000,1430000,4143,Notar,469.20641129158423,Akeshov
+2014-05-02,Bergslagsvägen 78,Norra Ångby,,Grön Hässelby,3,82,null,Lägenhet,2008,[Bromma Norra Ängby],2975000,225000,3200000,4169,Mäklarringen,137.95407801646613,Akeshov
+2014-04-16,Björketorpsvägen 17,Norra Ångby,,Grön Hässelby,2,43,null,Lägenhet,2009,[Norra Ängby],1595000,325000,1920000,2445,Fastighetsbyrån,492.26026843511295,Racksta
+2014-04-16,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,54,null,Lägenhet,1967,[Norra Ängby],1595000,155000,1750000,3398,Fastighetsbyrån,458.9843663866506,Racksta
+2014-04-16,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1967,[Bromma Norra Ängby],1195000,255000,1450000,1762,HusmanHagberg,424.08088533962217,Racksta
+2014-04-09,Peringskiöldsvägen 39,Norra Ångby,,Grön Hässelby,6,109,null,Villa,1937,[Bromma],7350000,950000,8300000,null,Bjurfors,902.986308330104,Islandstorget
+2014-04-09,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,1,Lägenhet,1967,[Bromma],1195000,130000,1325000,1762,Hemverket,424.08088533962217,Racksta
+2014-03-28,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,0,Lägenhet,1967,[Bromma Norra Ängby],1195000,215000,1410000,1762,HusmanHagberg,424.08088533962217,Racksta
+2014-03-25,Tacitusvägen 4,Norra Ångby,,Grön Hässelby,7,107,null,Villa,1933,[Norra Ängby],null,NaN,7500000,null,Fastighetsbyrån,512.4310634566541,Angbyplan
+2014-03-19,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,54,5,Lägenhet,1967,[Bromma Norra Ängby],1595000,135000,1730000,3398,HusmanHagberg,424.08088533962217,Racksta
+2014-03-07,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,48,null,Lägenhet,2005,[Bromma],1495000,15000,1510000,3021,BOSTHLM,458.9843663866506,Racksta
+2014-02-28,Dybecksvägen 49,Norra Ångby,,Grön Hässelby,6,73,null,Villa,1935,[Bromma],6200000,900000,7100000,null,Bjurfors,274.52613725296817,Angbyplan
+2014-02-26,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,2,Lägenhet,1967,[Bromma Norra Ängby],1195000,245000,1440000,1762,HusmanHagberg,458.9843663866506,Racksta
+2014-02-26,Spångavägen 47,Norra Ångby,,Grön Hässelby,2,59.5,4,Lägenhet,1940,[Bromma Brommaplan],1590000,35000,1625000,4398,Notar,469.20641129158423,Akeshov
+2014-02-23,Bergslagsvägen 76,Norra Ångby,,Grön Hässelby,4,90.5,6,Lägenhet,2008,[Norra Ängby],3650000,-30000,3620000,4849,Svenska Mäklarhuset,75.17355522876532,Akeshov
+2014-02-21,Björketorpsvägen 9,Norra Ångby,,Grön Hässelby,4,96,null,Lägenhet,2009,[Norra Ängby],2995000,25000,3020000,4986,Svensk Fastighetsförmedling,432.4527223685671,Racksta
+2014-02-15,Beckombergavägen 65,Norra Ångby,,Grön Hässelby,6,54,null,Villa,1936,[Norra Ängby],4850000,625000,5475000,null,Svenska Mäklarhuset,565.3039378036497,Akeshov
+2014-02-10,Långskeppsgatan 7,Norra Ångby,,Grön Hässelby,2,null,null,Tomt/Mark,null,[Runstensplan],125000,0,125000,null,ERA,701.7624797919046,Islandstorget
+2014-02-05,Bergslagsvägen 74,Norra Ångby,,Grön Hässelby,3,82,null,Lägenhet,2008,[Bromma],2845000,155000,3000000,3974,Fastighetsbyrån,81.14636431445258,Akeshov
+2014-02-03,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,0,Lägenhet,1967,[Bromma Norra Ängby],1495000,35000,1530000,3021,HusmanHagberg,424.08088533962217,Racksta
+2014-01-24,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,3,Lägenhet,1967,[Bromma Norra Ängby],1195000,255000,1450000,1762,Mäklarringen,458.9843663866506,Racksta
+2014-01-24,Bergslagsvägen 78,Norra Ångby,,Grön Hässelby,3,82,8,Lägenhet,2008,[Bromma Åkeshov],2845000,365000,3210000,4001,Notar,137.95407801646613,Akeshov
+2014-01-24,Hildebrandsvägen 4,Norra Ångby,,Grön Hässelby,5,65,null,Villa,1933,[Norra Ängby],5500000,325000,5825000,null,Svenska Mäklarhuset,570.4747774844773,Angbyplan
+2014-01-13,Bergslagsvägen 136,Norra Ångby,,Grön Hässelby,6,92,null,Villa,1937,[Bromma],5495000,255000,5750000,null,Fastighetsbyrån,464.614670185172,Angbyplan
+2013-12-20,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,1,Lägenhet,1967,[Bromma Norra Ängby],1195000,105000,1300000,1762,HusmanHagberg,458.9843663866506,Racksta
+2013-11-23,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,1,Lägenhet,1967,[Bromma],1195000,205000,1400000,1762,HusmanHagberg,424.08088533962217,Racksta
+2013-11-17,Beckombergavägen 105,Norra Ångby,,Grön Hässelby,7,129,null,Villa,1931,[Bromma],6995000,30000,7025000,null,Fastighetsbyrån,567.781445410544,Angbyplan
+2013-11-14,Björketorpsvägen 7,Norra Ångby,,Grön Hässelby,4,96,1,Lägenhet,2009,[Bromma],2995000,-45000,2950000,4986,Notar,466.2537341761929,Racksta
+2013-10-24,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,null,[Bromma],1250000,-25000,1225000,1762,Notar,458.9843663866506,Racksta
+2013-10-19,Bergslagsvägen 78,Norra Ångby,,Grön Hässelby,4,90.5,null,Lägenhet,2008,[Bromma],3195000,10000,3205000,4449,Fastighetsbyrån,137.95407801646613,Akeshov
+2013-10-19,Holmgårdsvägen 13,Norra Ångby,,Grön Hässelby,5,100,null,Villa,1938,[Bromma],4995000,55000,5050000,null,Fastighetsbyrån,248.64180786230898,Islandstorget
+2013-10-18,Åloppevägen 29,Norra Ångby,,Grön Hässelby,5,115,null,Villa,1932,[Bromma],6500000,550000,7050000,null,Bjurfors,344.0097488007754,Angbyplan
+2013-10-12,Jomsborgsvägen 22,Norra Ångby,,Grön Hässelby,7,111,null,Villa,1931,[Bromma],5750000,350000,6100000,null,Bjurfors,407.30573071812137,Angbyplan
+2013-10-04,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,54,null,Lägenhet,1967,[Bromma Norra Ängby],1595000,65000,1660000,3398,HusmanHagberg,458.9843663866506,Racksta
+2013-09-27,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,54,null,Lägenhet,1967,[Bromma],1450000,150000,1600000,3398,Notar,424.08088533962217,Racksta
+2013-09-25,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,null,[Norra Ängby],1250000,0,1250000,1762,Svensk Fastighetsförmedling,424.08088533962217,Racksta
+2013-09-12,Spångavägen 49,Norra Ångby,,Grön Hässelby,1,41.5,null,Lägenhet,1940,[Bromma Brommaplan],1395000,200000,1595000,3073,Fastighetsbyrån,460.5713998546239,Akeshov
+2013-09-07,Björketorpsvägen 17,Norra Ångby,,Grön Hässelby,3.5,73,null,Lägenhet,2009,[Bromma],2350000,200000,2550000,3883,Notar,492.26026843511295,Racksta
+2013-09-07,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,48,null,Lägenhet,1967,[Bromma],1495000,0,1495000,3021,HusmanHagberg,424.08088533962217,Racksta
+2013-08-30,Åloppevägen 12,Norra Ångby,,Grön Hässelby,6,82,null,Villa,1934,[Bromma],4850000,950000,5800000,null,Bjurfors,508.0419300726402,Akeshov
+2013-08-28,Frösövägen 15,Norra Ångby,,Grön Hässelby,7,127,null,Villa,1942,[Bromma],5875000,-150000,5725000,null,Bjurfors,955.2124032353119,Islandstorget
+2013-08-14,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,1967,[Bromma Norra Ängby],1195000,230000,1425000,1762,HusmanHagberg,424.08088533962217,Racksta
+2013-07-04,Bergslagsvägen 76,Norra Ångby,,Grön Hässelby,3,82,null,Lägenhet,2008,[Bromma],2895000,305000,3200000,4001,Notar,75.17355522876532,Akeshov
+2013-06-17,Bergslagsvägen 78,Norra Ångby,,Grön Hässelby,3,82,null,Lägenhet,2008,[Bromma Norra Ängby],2975000,-75000,2900000,3971,Mäklarringen,137.95407801646613,Akeshov
+2013-06-07,Frösövägen 6,Norra Ångby,,Grön Hässelby,7,140,null,Villa,1970,[Bromma],6200000,600000,6800000,null,Bjurfors,908.7384646392194,Islandstorget
+2013-06-04,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,54,null,Lägenhet,1967,[Bromma Norra Ängby],1475000,0,1475000,3398,Mäklarringen,424.08088533962217,Racksta
+2013-05-31,Islandsvägen 28,Norra Ångby,,Grön Hässelby,5,83,null,Villa,1937,[Bromma],3975000,425000,4400000,null,Bjurfors,266.6023930747562,Islandstorget
+2013-05-31,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,2,54,4,Lägenhet,1967,[Bromma],1575000,0,1575000,3398,Länsförsäkringar Fastighetsförmedling,424.08088533962217,Racksta
+2013-05-13,Hugleiksvägen 18,Norra Ångby,,Grön Hässelby,6,126,null,Villa,1952,[Bromma],4700000,-100000,4600000,null,Bjurfors,628.787361975905,Racksta
+2013-05-03,Tingvallavägen 7,Norra Ångby,,Grön Hässelby,6,81,null,Villa,1937,[Norra Ängby],4500000,0,4500000,null,Svensk Fastighetsförmedling,761.4608413112984,Racksta
+2013-04-30,Peringskiöldsvägen 43,Norra Ångby,,Grön Hässelby,7,142,null,Villa,1937,[Bromma],6995000,-395000,6600000,null,Fastighetsbyrån,885.2272485846507,Islandstorget
+2013-04-27,Anundsvägen 38,Norra Ångby,,Grön Hässelby,6,110,null,Villa,1950,[Bromma],5795000,755000,6550000,null,Fastighetsbyrån,550.5925381032835,Racksta
+2013-04-24,Stiklastadsvägen 3,Norra Ångby,,Grön Hässelby,6,128,null,Villa,1932,[Bromma-Norra Ängby],5450000,200000,5650000,null,HusmanHagberg,873.3147172586425,Islandstorget
+2013-04-22,Runsavägen 20,Norra Ångby,,Grön Hässelby,5,99,null,Villa,1934,[Bromma],6200000,50000,6250000,null,Bjurfors,355.9710164428651,Akeshov
+2013-04-20,Björketorpsvägen 17,Norra Ångby,,Grön Hässelby,4,96,null,Lägenhet,2009,[Bromma Norra Ängby],2900000,0,2900000,4987,Mäklarringen,492.26026843511295,Racksta
+2013-04-19,Peringskiöldsvägen 49,Norra Ångby,,Grön Hässelby,7,161,null,Villa,1939,[Bromma],6650000,720000,7370000,null,Bjurfors,832.0726821942973,Islandstorget
+2013-04-19,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,1967,[Bromma Norra Ängby],1150000,310000,1460000,1762,HusmanHagberg,424.08088533962217,Racksta
+2013-03-20,Björketorpsvägen 17,Norra Ångby,,Grön Hässelby,2,43,null,Lägenhet,2009,[Bromma],1550000,0,1550000,2445,Fastighetsbyrån,492.26026843511295,Racksta
+2013-03-15,Bergslagsvägen 74,Norra Ångby,,Grön Hässelby,3,82,null,Lägenhet,2008,[Bromma Åkeshov],2895000,155000,3050000,4001,Notar,81.14636431445258,Akeshov
+2013-03-06,Beckombergavägen 124,Norra Ångby,,Grön Hässelby,5,91,null,Villa,1934,[Bromma],5600000,-100000,5500000,null,Bjurfors,642.7053965145142,Angbyplan
+2013-03-02,Björketorpsvägen 11,Norra Ångby,,Grön Hässelby,1,28,null,Lägenhet,1967,[Bromma Norra Ängby],1095000,130000,1225000,1762,HusmanHagberg,424.08088533962217,Racksta
+2013-02-24,Vendelstigen 16,Norra Ångby,,Grön Hässelby,null,46,null,Villa,1937,[Bromma],4250000,500000,4750000,null,Fastighetsbyrån,829.4987168339268,Islandstorget
+2013-02-23,Bergslagsvägen 74,Norra Ångby,,Grön Hässelby,4,90.5,null,Lägenhet,null,[Bromma Norra Ängby Åkeshov],3300000,770000,4070000,4449,Mäklarringen,81.14636431445258,Akeshov
+2013-02-02,Adilsvägen 20,Norra Ångby,,Grön Hässelby,6,117,null,Villa,1937,[Bromma],5200000,150000,5350000,null,Mäklarhuset,602.3689865763168,Islandstorget
+2013-01-29,Ramsundsvägen 1,Norra Ångby,,Grön Hässelby,7,96,null,Villa,1935,[Bromma],4195000,-495000,3700000,null,Fastighetsbyrån,937.8055562788724,Islandstorget
+2013-01-19,Björketorpsvägen 17,Norra Ångby,,Grön Hässelby,2,43,1,Lägenhet,2009,[Bromma],1495000,5000,1500000,2445,Mäklarhuset,492.26026843511295,Racksta
+2012-12-20,Björketorpsvägen 17,Norra Ångby,,Grön Hässelby,4,96,null,Lägenhet,2009,[Bromma],2995000,100000,3095000,4794,Fastighetsbyrån,492.26026843511295,Racksta
+2012-12-14,Möjbrovägen 18,Norra Ångby,,Grön Hässelby,5,127,null,Lägenhet,1988,[Norra Ängby],4000000,0,4000000,7282,Svensk Fastighetsförmedling,470.468839416388,Akeshov
+2012-11-01,Björketorpsvägen 9,Norra Ångby,,Grön Hässelby,3,76,5,Lägenhet,2009,[Norra Ängby],2495000,-95000,2400000,3872,Svensk Fastighetsförmedling,432.4527223685671,Racksta
+2012-10-31,Stambogränd 9,Norra Ångby,,Grön Hässelby,5,89,null,Villa,1951,[Norra Ängby],2900000,120000,3020000,null,Exbo,545.6273494005023,Blackeberg
+2012-10-17,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,54,null,Lägenhet,1967,[Bromma],1495000,105000,1600000,3398,Fastighetsbyrån,458.9843663866506,Racksta
+2012-10-07,Bergslagsvägen 74,Norra Ångby,,Grön Hässelby,5,168,null,Lägenhet,2008,[Bromma Åkeshov],5400000,650000,6050000,6105,Notar,81.14636431445258,Akeshov
+2012-10-05,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,48,null,Lägenhet,1963,[Bromma],1250000,110000,1360000,3021,Länsförsäkringar Fastighetsförmedling,458.9843663866506,Racksta
+2012-09-15,Björketorpsvägen 9,Norra Ångby,,Grön Hässelby,3.5,77,null,Lägenhet,2009,[Bromma],2495000,0,2495000,3918,Fastighetsbyrån,432.4527223685671,Racksta
+2012-09-13,Björketorpsvägen 13,Norra Ångby,,Grön Hässelby,2,48,null,Lägenhet,1967,[Bromma Norra Ängby],1295000,205000,1500000,3021,Fastighetsbyrån,458.9843663866506,Racksta

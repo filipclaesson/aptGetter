@@ -1,0 +1,47 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-12,Alviksvägen 11,Alvik,Grön Hässelby,1.5,44,3,Lägenhet,1929,[Bromma Alvik],2495000,665000,3160000,2249,HusmanHagberg,278.6889773563585,Alvik
+2016-04-22,Gustavslundsvägen 149T,Alvik,Grön Hässelby,3,85,5,Lägenhet,2015,[Bromma Alvik],5790000,1040000,6830000,4408,HusmanHagberg,251.7714360212236,Alvik
+2016-03-12,Gustavslundsvägen 149E,Alvik,Grön Hässelby,3,85,1,Lägenhet,2013,[Alvik],5975000,575000,6550000,4407,Mäklarhuset,334.7493150105367,Alvik
+2016-02-12,Tranebergsvägen 97,Alvik,Grön Hässelby,2,53.5,2,Lägenhet,1945,[Alvik],2795000,565000,3360000,3131,Länsförsäkringar Fastighetsförmedling,368.12050053678496,Stora mossen
+2016-02-06,Gustavslundsvägen 149R,Alvik,Grön Hässelby,2,74,6,Lägenhet,2015,[Alvik],5210000,0,5210000,3899,Länsförsäkringar Fastighetsförmedling,251.7714360212236,Alvik
+2016-02-03,Gustavslundsvägen 149E,Alvik,Grön Hässelby,3,85,1,Lägenhet,2013,[Bromma],6850000,-350000,6500000,4407,Mäklarhuset,334.7493150105367,Alvik
+2016-01-27,Alviksvägen 11,Alvik,Grön Hässelby,1.5,45,1,Lägenhet,1929,[Bromma Alvik],2495000,705000,3200000,2300,HusmanHagberg,278.6889773563585,Alvik
+2015-12-09,Gustavslundsvägen 149G,Alvik,Grön Hässelby,2,61,8,Lägenhet,2015,[Bromma Alvik],3695000,730000,4425000,3274,HusmanHagberg,282.4887871584774,Alvik
+2015-11-12,Tranebergsvägen 91,Alvik,Grön Hässelby,2,53.5,2,Lägenhet,1945,[Bromma Traneberg],2790000,410000,3200000,3131,Notar,408.12072088447513,Stora mossen
+2015-10-19,Gustavslundsvägen 149P,Alvik,Grön Hässelby,3,86.5,4,Lägenhet,2015,[Alvik],5495000,605000,6100000,4475,Länsförsäkringar Fastighetsförmedling,251.7714360212236,Alvik
+2015-10-15,Gustavslundsvägen 149P,Alvik,Grön Hässelby,3,75.5,null,Lägenhet,2014,[Bromma],4500000,900000,5400000,3969,Gripsholms Fastighetsförmedling,251.7714360212236,Alvik
+2015-09-17,Alviksvägen 11,Alvik,Grön Hässelby,2,45,3,Lägenhet,1929,[Bromma Alvik],2295000,820000,3115000,2300,HusmanHagberg,278.6889773563585,Alvik
+2015-09-09,Gustavslundsvägen 149V,Alvik,Grön Hässelby,2,74,null,Lägenhet,null,[Alvik],3750000,1350000,5100000,3899,Fastighetsbyrån,251.7714360212236,Alvik
+2015-09-03,Tranebergsvägen 91,Alvik,Grön Hässelby,2.5,60.5,2,Lägenhet,1945,[Traneberg],2795000,545000,3340000,3517,Fastighetsbyrån,408.12072088447513,Stora mossen
+2015-08-20,Gustavslundsvägen 149P,Alvik,Grön Hässelby,3,75.5,3,Lägenhet,2015,[Bromma Alvik],4795000,335000,5130000,3969,Notar,251.7714360212236,Alvik
+2015-06-09,Tranebergsvägen 95,Alvik,Grön Hässelby,2,53.5,1,Lägenhet,1945,[Bromma],2575000,165000,2740000,3027,Karlsson & Uddare,383.71561895364135,Stora mossen
+2015-04-30,Alviksvägen 7,Alvik,Grön Hässelby,1,19,2,Lägenhet,1929,[Bromma Alvik],1645000,535000,2180000,971,HusmanHagberg,279.472472193133,Alvik
+2015-04-03,Gustavslundsvägen 149T,Alvik,Grön Hässelby,5,138,null,Lägenhet,2014,[Alvik],8795000,855000,9650000,6601,SkandiaMäklarna,251.7714360212236,Alvik
+2015-04-01,Tranebergsvägen 93,Alvik,Grön Hässelby,2,53.5,2,Lägenhet,1945,[Bromma],2575000,650000,3225000,3131,Karlsson & Uddare,394.8567864966158,Stora mossen
+2015-03-30,Gustavslundsvägen 149U,Alvik,Grön Hässelby,4,121,null,Gård,null,[Bromma],750000,4875000,5625000,null,Länsförsäkringar Fastighetsförmedling,251.7714360212236,Alvik
+2015-03-24,Gustavslundsvägen 149P,Alvik,Grön Hässelby,3,75.5,2,Lägenhet,2015,[Bromma],3875000,675000,4550000,3969,Mäklarhuset,251.7714360212236,Alvik
+2015-03-13,Tranebergsvägen 97,Alvik,Grön Hässelby,3,68.5,3,Lägenhet,1945,[Bromma Traneberg],3190000,310000,3500000,3861,Notar,368.12050053678496,Stora mossen
+2015-02-07,Gustavslundsvägen 149T,Alvik,Grön Hässelby,3,86,5,Lägenhet,2015,[Bromma],5275000,215000,5490000,4475,Mäklarhuset,251.7714360212236,Alvik
+2015-01-31,Gustavslundsvägen 165,Alvik,Grön Hässelby,3,61,3,Lägenhet,1931,[Bromma Alvik],2995000,65000,3060000,3172,Notar,119.55771346799338,Alvik
+2015-01-28,Tranebergsvägen 103,Alvik,Grön Hässelby,2,53.5,3,Lägenhet,1945,[Bromma Traneberg],2495000,295000,2790000,3131,HusmanHagberg,391.743852920487,Stora mossen
+2015-01-14,Tranebergsvägen 118,Alvik,Grön Hässelby,3,60.5,null,Lägenhet,1945,[Traneberg],2895000,30000,2925000,3517,Fastighetsbyrån,347.17394042710686,Stora mossen
+2014-11-26,Gustavslundsvägen 147,Alvik,Grön Hässelby,null,104,2,Lägenhet,2014,[Bromma],6850000,0,6850000,5243,Fastighetsmäklarna,454.7177530862619,Alvik
+2014-11-18,Alviksvägen 15,Alvik,Grön Hässelby,2,58,2,Lägenhet,1924,[Bromma],2975000,535000,3510000,2920,Edward & Partners Fastighetsmäklare AB,314.9420032175361,Alvik
+2014-10-31,Gustavslundsvägen 173,Alvik,Grön Hässelby,2,41,null,Lägenhet,1928,[Alvik],2395000,405000,2800000,1722,Fastighetsbyrån,147.79120669348026,Alvik
+2014-09-24,Alviksvägen 7,Alvik,Grön Hässelby,1.5,44,2,Lägenhet,1929,[Bromma Äppelviken],2190000,430000,2620000,2249,HusmanHagberg,279.472472193133,Alvik
+2014-05-12,Gustavslundsvägen 165,Alvik,Grön Hässelby,2,57,null,Lägenhet,1930,[Alvik],2250000,245000,2495000,2950,Fastighetsbyrån,119.55771346799338,Alvik
+2014-05-02,Alviksvägen 15,Alvik,Grön Hässelby,3.5,87,1,Lägenhet,1924,[Bromma Äppelviken],4790000,810000,5600000,4380,HusmanHagberg,314.9420032175361,Alvik
+2014-04-02,Tranebergsvägen 97,Alvik,Grön Hässelby,2,53.5,null,Lägenhet,1945,[Traneberg],2350000,0,2350000,2880,Fastighetsbyrån,368.12050053678496,Stora mossen
+2014-03-21,Tranebergsvägen 107,Alvik,Grön Hässelby,2,53.5,0.5,Lägenhet,1945,[Bromma Traneberg],1995000,105000,2100000,2986,Notar,297.34911696457925,Stora mossen
+2013-11-23,Alviksvägen 11,Alvik,Grön Hässelby,1,19,null,Lägenhet,1929,[Bromma],995000,555000,1550000,971,Erik Olsson Fastighetsförmedling,278.6889773563585,Alvik
+2013-11-01,Gustavslundsvägen 173,Alvik,Grön Hässelby,1.5,39,4,Lägenhet,1928,[Bromma Alvik],2195000,-95000,2100000,1646,HusmanHagberg,147.79120669348026,Alvik
+2013-10-18,Tranebergsvägen 97,Alvik,Grön Hässelby,2,53.5,null,Lägenhet,1945,[Bromma Traneberg],2195000,235000,2430000,3131,Notar,368.12050053678496,Stora mossen
+2013-06-06,Alviksvägen 11,Alvik,Grön Hässelby,1.5,44,null,Lägenhet,1929,[Bromma Alvik],1895000,255000,2150000,2249,HusmanHagberg,278.6889773563585,Alvik
+2013-05-08,Alviksvägen 11,Alvik,Grön Hässelby,1,19,null,Lägenhet,1929,[Bromma Alvik],1250000,250000,1500000,971,Notar,278.6889773563585,Alvik
+2013-04-24,Alviksvägen 11,Alvik,Grön Hässelby,1.5,44,null,Lägenhet,1929,[Bromma Alvik],1895000,305000,2200000,2249,HusmanHagberg,278.6889773563585,Alvik
+2013-03-22,Gustavslundsvägen 175,Alvik,Grön Hässelby,3,84,null,Lägenhet,null,[Äppelviken],3700000,740000,4440000,3376,Balders Ädelmarks,184.16739641460762,Alvik
+2013-02-22,Gustavslundsvägen 173,Alvik,Grön Hässelby,2,66,3,Lägenhet,1928,[Alvik],2975000,25000,3000000,2780,Svenska Mäklarhuset,147.79120669348026,Alvik
+2012-11-21,Alviksvägen 7,Alvik,Grön Hässelby,1.5,45,null,Lägenhet,1929,[Bromma Alvik],1950000,20000,1970000,2291,Notar,279.472472193133,Alvik
+2012-11-11,Runda vägen 11,Alvik,Grön Hässelby,8,228,null,Parhus,null,[Bromma],9500000,200000,9700000,null,Balders Ädelmarks,196.60248321592553,Alvik
+2012-10-07,Gustavslundsvägen 175,Alvik,Grön Hässelby,3,84,null,Lägenhet,1913,[Alvik],3500000,0,3500000,3375,Fastighetsbyrån,184.16739641460762,Alvik
+2012-09-08,Alviksvägen 7,Alvik,Grön Hässelby,1.5,44,null,Lägenhet,1929,[Alvik],1795000,125000,1920000,2249,Fastighetsbyrån,279.472472193133,Alvik

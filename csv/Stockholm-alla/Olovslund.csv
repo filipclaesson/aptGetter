@@ -1,0 +1,5 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-04-29,Stugvägen 15,Olovslund,Grön Hässelby,5,79,null,Villa,1927,[Bromma Olovslund],7900000,1500000,9400000,null,HusmanHagberg,877.6646471838677,Brommaplan
+2014-05-29,Djupdalsvägen 116A,Olovslund,Grön Hässelby,6,86,null,Villa,1933,[Olovslund],6750000,450000,7200000,null,Svenska Mäklarhuset,788.3403296063444,Brommaplan
+2014-05-16,Gustav III:s väg 71,Olovslund,Grön Hässelby,7,96,null,Villa,1932,[Bromma],6975000,225000,7200000,null,Bjurfors,688.9061913566118,Brommaplan
+2013-11-16,Gustav III:s väg 80,Olovslund,Grön Hässelby,2,59,3,Lägenhet,2009,[Åkeslund],2450000,200000,2650000,3422,Länsförsäkringar Fastighetsförmedling,668.753227723648,Brommaplan

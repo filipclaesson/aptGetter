@@ -1,0 +1,650 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-13,Vidängsvägen 49,Traneberg,Grön Hässelby,2,41.5,3,Lägenhet,1938,[Traneberg],2295000,205000,2500000,2968,Fastighetsbyrån,664.7077572707688,Alvik
+2016-05-06,Svartviksslingan 67,Traneberg,Grön Hässelby,3,68.5,2,Lägenhet,1986,[Bromma],3995000,1315000,5310000,3568,Svensk Fastighetsförmedling,968.786452238297,Alvik
+2016-05-06,Hunnebergsvägen 4,Traneberg,Grön Hässelby,1,35,1,Lägenhet,1934,[Bromma],2195000,205000,2400000,2233,Svensk Fastighetsförmedling,170.01076548274966,Alvik
+2016-05-04,Svartviksslingan 21,Traneberg,Grön Hässelby,4,91,5,Lägenhet,1986,[Bromma],4495000,855000,5350000,5254,Erik Olsson Fastighetsförmedling,966.5246646027681,Alvik
+2016-05-03,Grindstuvägen 32,Traneberg,Grön Hässelby,1.5,44,0.5,Lägenhet,1930,[Traneberg],2095000,855000,2950000,2074,Fastighetsbyrån,536.3170954649703,Alvik
+2016-05-03,Hunnebergsvägen 16,Traneberg,Grön Hässelby,2,37,3,Lägenhet,1935,[Bromma],2195000,555000,2750000,2265,Erik Olsson Fastighetsförmedling,202.88923083151525,Alvik
+2016-04-30,Kebnekaisevägen 10,Traneberg,Grön Hässelby,3,56,2,Lägenhet,null,[Traneberg],2850000,555000,3405000,3429,Svenska Mäklarhuset,598.1681384233742,Alvik
+2016-04-29,Grindstuvägen 32B,Traneberg,Grön Hässelby,3,76,3,Lägenhet,2014,[Bromma],5575000,325000,5900000,3267,Balders Ädelmarks,537.4930621982977,Alvik
+2016-04-28,Kinnekullevägen 41,Traneberg,Grön Hässelby,1,39,3,Lägenhet,null,[Traneberg],2195000,380000,2575000,2887,Svenska Mäklarhuset,278.673089215318,Alvik
+2016-04-28,Svartviksslingan 37,Traneberg,Grön Hässelby,4,91,5,Lägenhet,1986,[Bromma],4995000,1055000,6050000,5218,Svensk Fastighetsförmedling,956.0202412900506,Alvik
+2016-04-28,Hunnebergsvägen 16,Traneberg,Grön Hässelby,1,31,1,Lägenhet,1935,[Bromma Traneberg],1995000,365000,2360000,2021,Notar,202.88923083151525,Alvik
+2016-04-28,Hunnebergsvägen 17,Traneberg,Grön Hässelby,2.5,51,1,Lägenhet,1935,[Bromma Traneberg],2995000,305000,3300000,2522,HusmanHagberg,253.58108851219257,Alvik
+2016-04-28,Mössebergsvägen 17,Traneberg,Grön Hässelby,3,57,2,Lägenhet,1936,[Bromma Traneberg],3295000,655000,3950000,3111,HusmanHagberg,321.56858135586504,Alvik
+2016-04-28,Svartviksvägen 4,Traneberg,Grön Hässelby,2,45,3,Lägenhet,1938,[Bromma Traneberg],2395000,790000,3185000,2920,HusmanHagberg,594.1854731826827,Alvik
+2016-04-26,Svartviksslingan 94,Traneberg,Grön Hässelby,2,63.5,7,Lägenhet,1986,[Bromma Minneberg],2495000,1105000,3600000,3736,Notar,829.2937459412782,Alvik
+2016-04-25,Svartviksslingan 27,Traneberg,Grön Hässelby,4,90.5,8,Lägenhet,null,[Bromma],4995000,905000,5900000,5260,Svenska Mäklarhuset,983.1387453717921,Alvik
+2016-04-25,Sulitelmavägen 27,Traneberg,Grön Hässelby,3,78,2,Lägenhet,null,[Traneberg],4495000,535000,5030000,3351,Svenska Mäklarhuset,512.0476862829918,Alvik
+2016-04-23,Kinnekullevägen 42,Traneberg,Grön Hässelby,1,35,1,Lägenhet,1938,[Bromma Traneberg],1995000,415000,2410000,2979,HusmanHagberg,353.957721974131,Alvik
+2016-04-18,Svartviksslingan 19,Traneberg,Grön Hässelby,3,75.5,null,Lägenhet,1985,[Bromma-Minneberg],3075000,1375000,4450000,4365,Balders Ädelmarks,930.2490621532255,Alvik
+2016-04-18,Tranebergsvägen 9,Traneberg,Grön Hässelby,4,97,3,Lägenhet,1938,[Bromma Traneberg],4995000,855000,5850000,5589,HusmanHagberg,604.5029589760577,Alvik
+2016-04-15,Nipfjällsvägen 8,Traneberg,Grön Hässelby,3,75,3,Lägenhet,1984,[Traneberg],4195000,525000,4720000,3115,Fastighetsbyrån,607.4151849311063,Alvik
+2016-04-15,Tranebegsvägen 39A,Traneberg,Grön Hässelby,3,69,null,Lägenhet,1934,[Bromma],3495000,5000,3500000,4293,Fastighetsmäklarna,164.59020422051995,Alvik
+2016-04-15,Kinnekullevägen 27,Traneberg,Grön Hässelby,2,52,1,Lägenhet,null,[Traneberg],2995000,320000,3315000,3233,Svenska Mäklarhuset,212.44674447554343,Alvik
+2016-04-15,Sareksvägen 18,Traneberg,Grön Hässelby,1.5,41,2,Lägenhet,1939,[Bromma Traneberg],2395000,455000,2850000,2450,HusmanHagberg,380.4813295591082,Alvik
+2016-04-13,Mössebergsvägen 26,Traneberg,Grön Hässelby,3,66,2,Lägenhet,1937,[Bromma Traneberg],3590000,935000,4525000,3184,Notar,402.15636034660236,Alvik
+2016-04-09,Svartviksslingan 37,Traneberg,Grön Hässelby,3,68.5,5,Lägenhet,null,[Minneberg],2995000,765000,3760000,3979,Fastighetsbyrån,956.0202412900506,Alvik
+2016-04-08,Hunnebergsvägen 2,Traneberg,Grön Hässelby,1,36,2,Lägenhet,null,[Traneberg],2175000,475000,2650000,2677,Svenska Mäklarhuset,146.7958179546453,Alvik
+2016-04-08,Nipfjällsvägen 12,Traneberg,Grön Hässelby,2,62,2,Lägenhet,1984,[Bromma Traneberg],3195000,315000,3510000,2647,HusmanHagberg,694.7974012904605,Alvik
+2016-04-07,Svartviksslingan 116,Traneberg,Grön Hässelby,2.5,63,4,Lägenhet,1986,[Bromma],2995000,505000,3500000,3578,Svensk Fastighetsförmedling,802.398197945659,Alvik
+2016-04-06,Kinnekullevägen 32,Traneberg,Grön Hässelby,1,38,3,Lägenhet,1936,[Bromma Traneberg],2245000,505000,2750000,2939,HusmanHagberg,285.97877133540516,Alvik
+2016-04-05,Fältspatvägen 1,Traneberg,Grön Hässelby,2,54,2,Lägenhet,1939,[Bromma Traneberg],3195000,405000,3600000,3437,HusmanHagberg,615.7088902950189,Alvik
+2016-03-29,Margretelundsvägen 80,Traneberg,Grön Hässelby,3,75,2,Lägenhet,1984,[Bromma Traneberg],4290000,210000,4500000,3500,Notar,728.7261749290826,Alvik
+2016-03-24,Klyftvägen 1,Traneberg,Grön Hässelby,7,136,null,Villa,1971,[Ulvsunda],8975000,275000,9250000,null,Fastighetsbyrån,474.2991186500198,Stora mossen
+2016-03-23,Sareksvägen 2,Traneberg,Grön Hässelby,2,49,1,Lägenhet,1937,[Bromma],2495000,425000,2920000,2873,Erik Olsson Fastighetsförmedling,295.09035616974126,Alvik
+2016-03-23,Nipfjällsvägen 12,Traneberg,Grön Hässelby,2,62,2,Lägenhet,1984,[Bromma Traneberg],3095000,385000,3480000,2647,HusmanHagberg,694.7974012904605,Alvik
+2016-03-23,Kebnekaisevägen 22,Traneberg,Grön Hässelby,2,56,2,Lägenhet,null,[Traneberg],2195000,630000,2825000,3450,Svenska Mäklarhuset,632.2256858668966,Alvik
+2016-03-17,Mössebergsvägen 13,Traneberg,Grön Hässelby,2,55,3,Lägenhet,null,[Traneberg],2995000,880000,3875000,3573,Svenska Mäklarhuset,300.64828658444696,Alvik
+2016-03-17,Tranebergsvägen 26,Traneberg,Grön Hässelby,3,62,2,Lägenhet,1936,[Bromma Traneberg],3195000,1225000,4420000,4416,HusmanHagberg,294.81177797178844,Alvik
+2016-03-16,Fältspatvägen 1,Traneberg,Grön Hässelby,2,54,2,Lägenhet,1939,[Bromma],2845000,275000,3120000,3343,SkandiaMäklarna,615.7088902950189,Alvik
+2016-03-11,Hallebergsvägen 25,Traneberg,Grön Hässelby,3,66,1,Lägenhet,1938,[Traneberg],2995000,550000,3545000,3764,Fastighetsbyrån,571.2408084773758,Alvik
+2016-03-10,Sareksvägen 16,Traneberg,Grön Hässelby,3,60,2,Lägenhet,1939,[Bromma],3495000,530000,4025000,3585,Erik Olsson Fastighetsförmedling,380.36847473092473,Alvik
+2016-03-10,Nipfjällsvägen 8,Traneberg,Grön Hässelby,2,62,3,Lägenhet,1984,[Bromma Traneberg],2895000,520000,3415000,2582,HusmanHagberg,607.4151849311063,Alvik
+2016-03-08,Porfyrvägen 9,Traneberg,Grön Hässelby,2,55,1,Lägenhet,1937,[Bromma],3395000,555000,3950000,3503,Erik Olsson Fastighetsförmedling,472.9361024442043,Alvik
+2016-03-08,Tranebergsvägen 40,Traneberg,Grön Hässelby,2,42,1,Lägenhet,1939,[Bromma Traneberg],1995000,905000,2900000,2795,HusmanHagberg,171.97261568643125,Alvik
+2016-03-03,Vidängsvägen 47,Traneberg,Grön Hässelby,2,38.5,0.5,Lägenhet,1939,[Traneberg],1895000,465000,2360000,2492,Länsförsäkringar Fastighetsförmedling,656.0438587450806,Alvik
+2016-03-02,Margretelundsvägen 82,Traneberg,Grön Hässelby,4,86,null,Lägenhet,1984,[Traneberg],3695000,905000,4600000,3908,Länsförsäkringar Fastighetsförmedling,737.4534624961555,Alvik
+2016-03-01,Kinnekullevägen 22,Traneberg,Grön Hässelby,2,47,3,Lägenhet,1936,[Traneberg],2995000,405000,3400000,2637,Länsförsäkringar Fastighetsförmedling,246.0785854150396,Alvik
+2016-02-27,Vidängsvägen 39,Traneberg,Grön Hässelby,2,42,1,Lägenhet,1938,[Bromma Traneberg],2295000,355000,2650000,2392,HusmanHagberg,534.013928196181,Alvik
+2016-02-26,Sareksvägen 14,Traneberg,Grön Hässelby,2,33,null,Lägenhet,null,[Traneberg],1995000,435000,2430000,1972,Svenska Mäklarhuset,369.44705082853164,Alvik
+2016-02-26,Kinnekullevägen 41,Traneberg,Grön Hässelby,1.5,39,1,Lägenhet,null,[Traneberg],2275000,445000,2720000,2887,Svenska Mäklarhuset,278.673089215318,Alvik
+2016-02-26,Svartviksslingan 112,Traneberg,Grön Hässelby,3,90.5,2,Lägenhet,null,[Bromma],4175000,725000,4900000,4810,Svenska Mäklarhuset,809.765078139558,Alvik
+2016-02-26,Åkerhielmsgatan 14,Traneberg,Grön Hässelby,3,64,2,Lägenhet,1942,[Bromma Traneberg],3195000,730000,3925000,3243,HusmanHagberg,313.068344006826,Stora mossen
+2016-02-26,Sulitelmavägen 14A,Traneberg,Grön Hässelby,2,41.5,2,Lägenhet,1940,[Bromma],2295000,565000,2860000,2903,Svensk Fastighetsförmedling,453.1977328441306,Alvik
+2016-02-24,Tranebergsvägen 27,Traneberg,Grön Hässelby,2,58,2,Lägenhet,1935,[Bromma Traneberg],2995000,950000,3945000,2802,HusmanHagberg,335.9080683171341,Alvik
+2016-02-24,Svartviksslingan 51,Traneberg,Grön Hässelby,3,68.5,6,Lägenhet,1986,[Bromma],3775000,845000,4620000,3643,Svensk Fastighetsförmedling,844.3325534570391,Alvik
+2016-02-18,Tranebergsvägen 43,Traneberg,Grön Hässelby,2,59,2,Lägenhet,1934,[Bromma Traneberg],2695000,815000,3510000,3446,HusmanHagberg,120.55678702463462,Alvik
+2016-02-17,Porfyrvägen 11,Traneberg,Grön Hässelby,2,39,1,Lägenhet,1938,[Bromma],2495000,145000,2640000,2955,Svensk Fastighetsförmedling,485.95928568218363,Alvik
+2016-02-16,Tranebergsvägen 27,Traneberg,Grön Hässelby,1.5,44,3,Lägenhet,1935,[Bromma],2375000,995000,3370000,2029,Fantastic Frank Fastighetsmäkleri,335.9080683171341,Alvik
+2016-02-13,Tranebergsvägen 25,Traneberg,Grön Hässelby,3.5,79,2,Lägenhet,1935,[Bromma],3995000,925000,4920000,3881,Svensk Fastighetsförmedling,355.08139058844955,Alvik
+2016-02-11,Tranebergsvägen 52,Traneberg,Grön Hässelby,2,55,3,Lägenhet,null,[Traneberg],2995000,795000,3790000,2757,Svenska Mäklarhuset,119.06481671982196,Alvik
+2016-02-10,Gesundaplan 57,Traneberg,Grön Hässelby,2,40,3,Lägenhet,null,[Traneberg],2395000,355000,2750000,2387,Svenska Mäklarhuset,492.6092452361397,Alvik
+2016-02-08,Kinnekullevägen 23,Traneberg,Grön Hässelby,2,51,2,Lägenhet,null,[Traneberg],2675000,675000,3350000,3249,Svenska Mäklarhuset,209.18176449234375,Alvik
+2016-02-04,Tranebergsvägen 9,Traneberg,Grön Hässelby,2,48,1,Lägenhet,null,[Traneberg],2695000,415000,3110000,2824,Svenska Mäklarhuset,604.5029589760577,Alvik
+2016-02-03,Sareksvägen 2,Traneberg,Grön Hässelby,2,52,3,Lägenhet,1937,[Bromma],2895000,1005000,3900000,2965,Erik Olsson Fastighetsförmedling,295.09035616974126,Alvik
+2016-02-03,Tranebergsvägen 10,Traneberg,Grön Hässelby,2,55,1,Lägenhet,1938,[Bromma Traneberg],2995000,875000,3870000,3099,HusmanHagberg,576.6349751476087,Alvik
+2016-02-03,Hunnebergsvägen 5,Traneberg,Grön Hässelby,2,36,3,Lägenhet,1935,[Traneberg],2295000,715000,3010000,2235,Länsförsäkringar Fastighetsförmedling,176.50818250126264,Alvik
+2016-02-03,Kinnekullevägen 41,Traneberg,Grön Hässelby,1,39,1,Lägenhet,null,[Traneberg],1995000,630000,2625000,2761,Svenska Mäklarhuset,278.673089215318,Alvik
+2016-02-02,Kinnekullevägen 25,Traneberg,Grön Hässelby,2,51,3,Lägenhet,null,[Traneberg],2895000,855000,3750000,3233,Svenska Mäklarhuset,210.16796241572962,Alvik
+2016-02-01,Kebnekaisevägen 18,Traneberg,Grön Hässelby,2,41,3,Lägenhet,1939,[Bromma Traneberg],2375000,465000,2840000,2528,Notar,652.7110794047514,Alvik
+2016-01-31,Tranebergsvägen 94,Traneberg,Grön Hässelby,3,57,2,Lägenhet,1938,[Bromma Traneberg],2995000,505000,3500000,2836,HusmanHagberg,444.07642446795035,Alvik
+2016-01-30,Vidängsvägen 49,Traneberg,Grön Hässelby,2,41.5,1,Lägenhet,1939,[Traneberg],2195000,305000,2500000,2710,Fastighetsbyrån,664.7077572707688,Alvik
+2016-01-29,Tranebergsvägen 36,Traneberg,Grön Hässelby,2,53,3,Lägenhet,1934,[Traneberg],2995000,405000,3400000,3314,Fastighetsbyrån,209.22010605816357,Alvik
+2016-01-28,Tranebergsvägen 88,Traneberg,Grön Hässelby,3,81,3,Lägenhet,1938,[Bromma Traneberg],3995000,605000,4600000,4030,HusmanHagberg,444.07642446795035,Alvik
+2016-01-27,Minnebergsvägen 16,Traneberg,Grön Hässelby,2,45,null,Lägenhet,null,[Bromma],1995000,605000,2600000,2603,Erik Olsson Fastighetsförmedling,526.710469531458,Alvik
+2016-01-27,Porfyrvägen 7,Traneberg,Grön Hässelby,2,55,2,Lägenhet,1937,[Bromma],2795000,475000,3270000,3934,Erik Olsson Fastighetsförmedling,472.8981387910613,Alvik
+2016-01-27,Sulitelmavägen 23,Traneberg,Grön Hässelby,3,80,2,Lägenhet,1938,[Bromma],4695000,575000,5270000,4362,Erik Olsson Fastighetsförmedling,515.6929951591212,Alvik
+2016-01-26,Hunnebergsvägen 9,Traneberg,Grön Hässelby,3.5,75,3,Lägenhet,1935,[Bromma],4100000,540000,4640000,5176,Wendell Fastighetsförmedling AB,194.4694285775211,Alvik
+2016-01-25,Mössebergsvägen 7,Traneberg,Grön Hässelby,2,38,3,Lägenhet,1938,[Bromma],2295000,305000,2600000,2649,Mäklarhuset,292.8169348713027,Alvik
+2016-01-22,Svartviksslingan 90,Traneberg,Grön Hässelby,2,59.5,3,Lägenhet,null,[Bromma],2875000,665000,3540000,3597,Svenska Mäklarhuset,833.2456449280937,Alvik
+2016-01-22,Tranebergsplan 8B,Traneberg,Grön Hässelby,2,53,0,Lägenhet,1937,[Bromma Traneberg],2595000,545000,3140000,3192,HusmanHagberg,233.85757440136277,Alvik
+2016-01-18,Gesundaplan 50,Traneberg,Grön Hässelby,2,60,3,Lägenhet,1937,[Bromma],2850000,800000,3650000,3195,BOSTHLM,450.1905204512227,Alvik
+2016-01-14,Tranebergsvägen 52,Traneberg,Grön Hässelby,1,43,3,Lägenhet,null,[Traneberg],2375000,585000,2960000,2488,Svenska Mäklarhuset,119.06481671982196,Alvik
+2016-01-14,Tranebergsvägen 40,Traneberg,Grön Hässelby,2,62,0.5,Lägenhet,1939,[Bromma Traneberg],2690000,40000,2730000,4127,Notar,171.97261568643125,Alvik
+2016-01-13,Ödmårdsvägen 7,Traneberg,Grön Hässelby,2,44,3,Lägenhet,1942,[Traneberg],2195000,605000,2800000,3266,Fastighetsbyrån,646.5405103303721,Alvik
+2016-01-12,Tranebergsvägen 39,Traneberg,Grön Hässelby,1,41,3,Lägenhet,null,[Traneberg],2375000,750000,3125000,2322,Svenska Mäklarhuset,149.44569651517168,Alvik
+2015-12-19,Sareksvägen 1,Traneberg,Grön Hässelby,2,49,3,Lägenhet,1938,[Bromma Traneberg],3150000,50000,3200000,2568,Mäklarringen,256.6342278246156,Alvik
+2015-12-16,Tranebergsvägen 31,Traneberg,Grön Hässelby,1.5,40,1,Lägenhet,null,[Traneberg],2350000,530000,2880000,2433,Svenska Mäklarhuset,297.726121917614,Alvik
+2015-12-14,Vidängsvägen 49,Traneberg,Grön Hässelby,2,41.5,2,Lägenhet,1939,[Alvik],2475000,185000,2660000,2842,Länsförsäkringar Fastighetsförmedling,664.7077572707688,Alvik
+2015-12-11,Kinnekullevägen 1,Traneberg,Grön Hässelby,2,37,null,Lägenhet,1935,[Bromma Traneberg],2295000,505000,2800000,1687,HusmanHagberg,331.43140468063774,Alvik
+2015-12-08,Sulitelmavägen 22,Traneberg,Grön Hässelby,2,53,2,Lägenhet,null,[Traneberg],2795000,905000,3700000,3084,Svenska Mäklarhuset,439.9736149767943,Alvik
+2015-12-04,Minnebergsvägen 21,Traneberg,Grön Hässelby,2,35,1,Lägenhet,1938,[Bromma Traneberg],1995000,485000,2480000,1883,HusmanHagberg,539.587750098376,Alvik
+2015-12-04,Fältspatvägen 5B,Traneberg,Grön Hässelby,2,45,1,Lägenhet,1939,[Bromma Traneberg],2495000,345000,2840000,2880,HusmanHagberg,617.9065091075018,Alvik
+2015-12-04,Tranebergsvägen 8,Traneberg,Grön Hässelby,2,54,1,Lägenhet,1938,[Bromma Traneberg],2995000,725000,3720000,2906,HusmanHagberg,608.6522360440442,Alvik
+2015-12-03,Fältspatvägen 1,Traneberg,Grön Hässelby,2,56,3,Lägenhet,1939,[Bromma],3495000,1205000,4700000,3626,Svensk Fastighetsförmedling,615.7088902950189,Alvik
+2015-11-26,Grindstuvägen 28,Traneberg,Grön Hässelby,4,106,null,Lägenhet,2011,[Traneberg],5795000,1450000,7245000,5213,Fastighetsbyrån,502.809156475698,Alvik
+2015-11-26,Ödmårdsvägen 7,Traneberg,Grön Hässelby,2,39,1,Lägenhet,1942,[Traneberg],2195000,355000,2550000,2895,Fastighetsbyrån,646.5405103303721,Alvik
+2015-11-24,Svartviksslingan 27,Traneberg,Grön Hässelby,4,90.5,8,Lägenhet,1986,[Bromma Minneberg],4250000,1950000,6200000,5260,HusmanHagberg,983.1387453717921,Alvik
+2015-11-19,Ödmårdsvägen 7,Traneberg,Grön Hässelby,2,44,4,Lägenhet,1940,[Bromma],2495000,315000,2810000,3266,SkandiaMäklarna,646.5405103303721,Alvik
+2015-11-19,Tranebergsplan 8B,Traneberg,Grön Hässelby,2,40,3,Lägenhet,1936,[Bromma Traneberg],2395000,530000,2925000,2584,HusmanHagberg,233.85757440136277,Alvik
+2015-11-18,Tranebergsvägen 31,Traneberg,Grön Hässelby,1,44,3,Lägenhet,null,[Traneberg],2375000,730000,3105000,2579,Svenska Mäklarhuset,297.726121917614,Alvik
+2015-11-18,Minnebergsvägen 27,Traneberg,Grön Hässelby,2,38,2,Lägenhet,null,[Traneberg],2275000,325000,2600000,2298,Svenska Mäklarhuset,590.8124420215053,Alvik
+2015-11-17,Svartviksslingan 75,Traneberg,Grön Hässelby,2,59.5,4,Lägenhet,1985,[Bromma],2875000,845000,3720000,3184,Mäklarhuset,918.2143588939263,Kristineberg
+2015-11-14,Gesundaplan 59,Traneberg,Grön Hässelby,2,46,3,Lägenhet,1937,[Bromma Traneberg],2695000,585000,3280000,2690,HusmanHagberg,511.27183393119424,Alvik
+2015-11-13,Svartviksslingan 23,Traneberg,Grön Hässelby,2.5,67.5,0,Lägenhet,1986,[Bromma Minneberg],3390000,160000,3550000,3576,HusmanHagberg,995.2461150886961,Huvudsta
+2015-11-12,Svartviksslingan 69,Traneberg,Grön Hässelby,3,90.5,6,Lägenhet,1986,[Bromma],5495000,1205000,6700000,4787,Svensk Fastighetsförmedling,950.7403987343533,Alvik
+2015-11-12,Kinnekullevägen 53,Traneberg,Grön Hässelby,2,53,3,Lägenhet,1935,[Traneberg],2995000,640000,3635000,2975,Fastighetsbyrån,390.9357871517746,Alvik
+2015-11-11,Mössebergsvägen 14,Traneberg,Grön Hässelby,2.5,58,null,Lägenhet,1936,[Bromma Traneberg],2750000,750000,3500000,3661,Mäklare Sjögren,350.8988032661248,Alvik
+2015-11-05,Kinnekullevägen 39,Traneberg,Grön Hässelby,1,39,2,Lägenhet,1937,[Traneberg],2095000,530000,2625000,2887,Fastighetsbyrån,270.3305326035073,Alvik
+2015-11-05,Tranebergsvägen 41,Traneberg,Grön Hässelby,2,45,2,Lägenhet,1934,[Traneberg],2375000,375000,2750000,2549,Fastighetsbyrån,134.3747329458265,Alvik
+2015-11-04,Margretelundsvägen 26,Traneberg,Grön Hässelby,2,55,1,Lägenhet,1938,[Bromma],3530000,0,3530000,3047,BOSTHLM,415.73032570955183,Alvik
+2015-11-03,Kinnekullevägen 41A,Traneberg,Grön Hässelby,1,39,1,Lägenhet,1937,[Traneberg],1995000,90000,2085000,2950,Länsförsäkringar Fastighetsförmedling,287.3187180564539,Alvik
+2015-10-31,Svartviksslingan 96,Traneberg,Grön Hässelby,2.5,63,4,Lägenhet,1986,[Bromma],2995000,30000,3025000,3795,Svensk Fastighetsförmedling,833.3420686888347,Alvik
+2015-10-28,Svartviksslingan 59,Traneberg,Grön Hässelby,3,75.5,3,Lägenhet,1986,[Bromma],3875000,775000,4650000,3884,Svensk Fastighetsförmedling,895.1329667830582,Alvik
+2015-10-23,Gesundaplan 59,Traneberg,Grön Hässelby,3,63,1,Lägenhet,1937,[Bromma Traneberg],2995000,755000,3750000,3348,HusmanHagberg,511.27183393119424,Alvik
+2015-10-22,Tranebergsvägen 22,Traneberg,Grön Hässelby,2,55.5,3,Lägenhet,1935,[Bromma Traneberg],2995000,605000,3600000,2421,HusmanHagberg,331.43140468063774,Alvik
+2015-10-21,Nipfjällsvägen 10,Traneberg,Grön Hässelby,2,62,null,Lägenhet,1984,[Bromma Traneberg],2995000,1105000,4100000,2582,HusmanHagberg,666.1898913827878,Alvik
+2015-10-17,Svartviksslingan 83,Traneberg,Grön Hässelby,4,91,1,Lägenhet,1985,[Bromma],4500000,1050000,5550000,4641,SkandiaMäklarna,865.7560879296303,Alvik
+2015-10-14,Svartviksvägen 6,Traneberg,Grön Hässelby,2,62,2,Lägenhet,1938,[Bromma],2995000,505000,3500000,4139,Erik Olsson Fastighetsförmedling,602.0289386304881,Alvik
+2015-10-09,Hoburgsstigen 12,Traneberg,Grön Hässelby,2,46,3,Lägenhet,1937,[Bromma],2800000,0,2800000,2270,BOSTHLM,689.4690872411564,Alvik
+2015-10-08,Tranebergsvägen 40,Traneberg,Grön Hässelby,3,72,3,Lägenhet,1939,[Bromma],3995000,0,3995000,4791,Svensk Fastighetsförmedling,171.97261568643125,Alvik
+2015-10-08,Vidängsvägen 51A,Traneberg,Grön Hässelby,2,38,2,Lägenhet,1938,[Bromma Traneberg],2395000,530000,2925000,2041,HusmanHagberg,677.1250158356595,Alvik
+2015-10-07,Kinnekullevägen 42A,Traneberg,Grön Hässelby,1,35,1,Lägenhet,1938,[Traneberg],1995000,535000,2530000,2979,Fastighetsbyrån,353.957721974131,Alvik
+2015-10-03,Tranebergsvägen 26,Traneberg,Grön Hässelby,3,69,0,Lägenhet,1936,[Bromma],2795000,455000,3250000,4880,HusmanHagberg,294.81177797178844,Alvik
+2015-10-03,Svartviksslingan 59,Traneberg,Grön Hässelby,2,41.5,2,Lägenhet,1985,[Bromma Minneberg],2295000,355000,2650000,2075,HusmanHagberg,895.1329667830582,Alvik
+2015-09-24,Svartviksslingan 65,Traneberg,Grön Hässelby,4,91,4,Lägenhet,1986,[Bromma],4775000,1425000,6200000,4731,Svensk Fastighetsförmedling,949.1767914248327,Alvik
+2015-09-24,Kebnekaisevägen 1,Traneberg,Grön Hässelby,2,43,3,Lägenhet,1938,[Traneberg],2495000,470000,2965000,2361,Länsförsäkringar Fastighetsförmedling,546.0073965713783,Alvik
+2015-09-24,Svartviksslingan 112,Traneberg,Grön Hässelby,2.5,68,1,Lägenhet,1986,[Bromma],2995000,765000,3760000,3458,Svensk Fastighetsförmedling,809.765078139558,Alvik
+2015-09-18,Svartviksslingan 19,Traneberg,Grön Hässelby,4,91,4,Lägenhet,1986,[Bromma],4475000,0,4475000,5149,Svensk Fastighetsförmedling,930.2490621532255,Alvik
+2015-09-18,Åkerhielmsgatan 12,Traneberg,Grön Hässelby,3,67,2,Lägenhet,1942,[Ulvsunda],2995000,605000,3600000,3281,Fastighetsbyrån,310.0328965885306,Stora mossen
+2015-09-17,Hunnebergsvägen 6,Traneberg,Grön Hässelby,1.5,29,3,Lägenhet,1934,[Bromma Traneberg],1790000,760000,2550000,1812,Notar,172.33526883759976,Alvik
+2015-09-15,Sulitelmavägen 4,Traneberg,Grön Hässelby,2,39,3,Lägenhet,1936,[Bromma Traneberg],2395000,730000,3125000,2874,HusmanHagberg,359.39581716651327,Alvik
+2015-09-10,Svartviksslingan 63,Traneberg,Grön Hässelby,2.5,65,2,Lägenhet,1986,[Bromma],2975000,325000,3300000,3316,Svensk Fastighetsförmedling,922.6562842235985,Alvik
+2015-09-09,Mössebergsvägen 32,Traneberg,Grön Hässelby,3,83,2,Lägenhet,1938,[Traneberg],3995000,905000,4900000,4707,Fastighetsbyrån,453.30508207365637,Alvik
+2015-09-03,Svartviksslingan 98,Traneberg,Grön Hässelby,3,72,2,Lägenhet,1986,[Minneberg],3195000,695000,3890000,4195,Fastighetsbyrån,820.3733151994169,Alvik
+2015-09-03,Sulitelmavägen 25,Traneberg,Grön Hässelby,2,58,3,Lägenhet,1938,[Bromma Traneberg],2995000,755000,3750000,3094,HusmanHagberg,533.9842295874142,Alvik
+2015-09-03,Kinnekullevägen 31,Traneberg,Grön Hässelby,2,50.5,3,Lägenhet,1936,[Traneberg],2895000,405000,3300000,3198,Fastighetsbyrån,226.3273315250833,Alvik
+2015-09-03,Kinnekullevägen 42,Traneberg,Grön Hässelby,1,35,1,Lägenhet,null,[Traneberg],1995000,275000,2270000,2979,Svenska Mäklarhuset,353.957721974131,Alvik
+2015-09-02,Svartviksslingan 116,Traneberg,Grön Hässelby,4,91,4,Lägenhet,1986,[Bromma],4775000,1425000,6200000,5031,Svensk Fastighetsförmedling,802.398197945659,Alvik
+2015-08-26,Kinnekullevägen 21,Traneberg,Grön Hässelby,2,51,2,Lägenhet,1935,[Bromma Traneberg],2695000,355000,3050000,3249,HusmanHagberg,209.51053384661824,Alvik
+2015-08-26,Mössebergsvägen 7,Traneberg,Grön Hässelby,2,38,1,Lägenhet,1938,[Bromma Traneberg],2095000,665000,2760000,2649,HusmanHagberg,292.8169348713027,Alvik
+2015-08-26,Tranebergsvägen 120,Traneberg,Grön Hässelby,2,53.5,3,Lägenhet,1945,[Bromma],2850000,370000,3220000,3131,Karlsson & Uddare,288.6453236705034,Stora mossen
+2015-08-26,Sulitelmavägen 8,Traneberg,Grön Hässelby,2,39,3,Lägenhet,1936,[Traneberg],2395000,705000,3100000,2796,Fastighetsbyrån,368.71672054502983,Alvik
+2015-08-20,Tranebergsvägen 46,Traneberg,Grön Hässelby,2,51.5,1,Lägenhet,1936,[Bromma Traneberg],2795000,315000,3110000,2222,HusmanHagberg,125.4279013597073,Alvik
+2015-08-19,Svartviksslingan 19,Traneberg,Grön Hässelby,3.5,83,1,Lägenhet,1986,[Bromma],3495000,705000,4200000,4327,Svensk Fastighetsförmedling,930.2490621532255,Alvik
+2015-08-19,Vidängsvägen 35,Traneberg,Grön Hässelby,2,52,1,Lägenhet,null,[Traneberg],2695000,255000,2950000,2922,Svenska Mäklarhuset,503.50677610761176,Alvik
+2015-08-19,Sareksvägen 14,Traneberg,Grön Hässelby,1,38,2,Lägenhet,1939,[Bromma],2195000,505000,2700000,2271,Svensk Fastighetsförmedling,369.44705082853164,Alvik
+2015-08-11,Ödmårdsvägen 7,Traneberg,Grön Hässelby,2,44,2,Lägenhet,1940,[Bromma Traneberg],2195000,680000,2875000,3266,HusmanHagberg,646.5405103303721,Alvik
+2015-08-06,Svartviksslingan 77,Traneberg,Grön Hässelby,2,41.5,5,Lägenhet,null,[Bromma Minneberg],2145000,385000,2530000,2256,HusmanHagberg,896.87664840635,Alvik
+2015-07-24,Vidängsvägen 49,Traneberg,Grön Hässelby,2,38.5,1,Lägenhet,1939,[Traneberg],2295000,305000,2600000,2536,Länsförsäkringar Fastighetsförmedling,664.7077572707688,Alvik
+2015-07-20,Margretelundsvägen 26,Traneberg,Grön Hässelby,2,45,1,Lägenhet,1938,[Traneberg],2295000,255000,2550000,2493,Länsförsäkringar Fastighetsförmedling,415.73032570955183,Alvik
+2015-07-04,Tranebergsvägen 46,Traneberg,Grön Hässelby,1.5,41,null,Lägenhet,1936,[Bromma Traneberg],1995000,285000,2280000,1568,HusmanHagberg,125.4279013597073,Alvik
+2015-07-02,Svartviksslingan 35,Traneberg,Grön Hässelby,1.5,56,1,Lägenhet,1986,[Bromma],2250000,275000,2525000,3190,Svensk Fastighetsförmedling,972.8125961534407,Alvik
+2015-06-26,Hunnebergsvägen 9,Traneberg,Grön Hässelby,3,75,4,Lägenhet,1935,[Bromma Traneberg],3690000,410000,4100000,5176,Notar,194.4694285775211,Alvik
+2015-06-24,Svartviksvägen 6,Traneberg,Grön Hässelby,2,37,null,Lägenhet,1938,[Bromma],2195000,330000,2525000,null,Svensk Fastighetsförmedling,602.0289386304881,Alvik
+2015-06-19,Svartviksslingan 104,Traneberg,Grön Hässelby,2,59.5,6,Lägenhet,1985,[Minneberg],2695000,430000,3125000,3314,Fastighetsbyrån,806.6077234884901,Alvik
+2015-06-18,Mössebergsvägen 11,Traneberg,Grön Hässelby,2,37,null,Lägenhet,1938,[Bromma Traneberg],2195000,305000,2500000,2575,Mäklare Sjögren,296.5258869861024,Alvik
+2015-06-17,Kinnekullevägen 32,Traneberg,Grön Hässelby,1,36,1,Lägenhet,1936,[Bromma],1975000,175000,2150000,2661,Erik Olsson Fastighetsförmedling,285.97877133540516,Alvik
+2015-06-17,Svartviksslingan 110,Traneberg,Grön Hässelby,3,90.5,4,Lägenhet,1985,[Minneberg],4395000,585000,4980000,4789,Fastighetsbyrån,811.1553229286519,Alvik
+2015-06-16,Svartviksslingan 33,Traneberg,Grön Hässelby,2,63,4,Lägenhet,1986,[Bromma],2575000,225000,2800000,3637,Svensk Fastighetsförmedling,967.1401445185932,Alvik
+2015-06-12,Tranebergsvägen 10,Traneberg,Grön Hässelby,3,70,3,Lägenhet,1938,[Bromma Traneberg],3495000,580000,4075000,3806,HusmanHagberg,576.6349751476087,Alvik
+2015-06-06,Minnebergsvägen 5,Traneberg,Grön Hässelby,4,70,1,Lägenhet,1938,[Bromma],3495000,255000,3750000,4079,Erik Olsson Fastighetsförmedling,430.65676854948157,Alvik
+2015-06-03,Käglestigen 4,Traneberg,Grön Hässelby,3,78,null,Lägenhet,1938,[Bromma],3375000,650000,4025000,null,Svensk Fastighetsförmedling,363.1341667458431,Alvik
+2015-06-03,Tranebergsvägen 43,Traneberg,Grön Hässelby,3,80,2,Lägenhet,1934,[Bromma],3695000,420000,4115000,4530,Gripsholms Fastighetsförmedling,120.55678702463462,Alvik
+2015-06-01,Sareksvägen 4,Traneberg,Grön Hässelby,2,38,3,Lägenhet,null,[Traneberg],2350000,360000,2710000,2327,Svenska Mäklarhuset,309.31469431105626,Alvik
+2015-05-30,Kebnekaisevägen 20,Traneberg,Grön Hässelby,2,41,2,Lägenhet,1939,[Bromma Traneberg],2095000,450000,2545000,2528,HusmanHagberg,617.8051019670885,Alvik
+2015-05-27,Fältspatvägen 3,Traneberg,Grön Hässelby,2,54,3,Lägenhet,null,[Bromma],3285000,0,3285000,3437,BOSTHLM,616.6446187916256,Alvik
+2015-05-24,Svartviksslingan 102,Traneberg,Grön Hässelby,3,77.5,5,Lägenhet,1986,[Bromma Minneberg],2995000,215000,3210000,4617,HusmanHagberg,806.4422140599221,Alvik
+2015-05-23,Svartviksslingan 86,Traneberg,Grön Hässelby,4,91,null,Lägenhet,1986,[Bromma],4375000,500000,4875000,null,Svensk Fastighetsförmedling,791.1705947028471,Alvik
+2015-05-22,Svartviksslingan 83,Traneberg,Grön Hässelby,3,69,4,Lägenhet,1986,[Bromma],3475000,275000,3750000,3643,Svensk Fastighetsförmedling,865.7560879296303,Alvik
+2015-05-21,Svartviksslingan 45,Traneberg,Grön Hässelby,2,61.5,4,Lägenhet,1986,[Bromma],2895000,215000,3110000,3577,Erik Olsson Fastighetsförmedling,889.4348371985947,Alvik
+2015-05-20,Nipfjällsvägen 8,Traneberg,Grön Hässelby,2,62,3,Lägenhet,1984,[Bromma Traneberg],2795000,705000,3500000,2582,HusmanHagberg,607.4151849311063,Alvik
+2015-05-14,Svartviksslingan 39,Traneberg,Grön Hässelby,2,63.5,4,Lägenhet,1986,[Bromma Minneberg],2595000,305000,2900000,3689,Notar,924.0477056403829,Alvik
+2015-05-14,Svartviksvägen 23,Traneberg,Grön Hässelby,2,42,3,Lägenhet,null,[Bromma],2395000,375000,2770000,2096,Svensk Fastighetsförmedling,591.894506873344,Alvik
+2015-05-13,Svartviksvägen 4,Traneberg,Grön Hässelby,2,58,3,Lägenhet,1938,[Bromma],2495000,365000,2860000,3762,Erik Olsson Fastighetsförmedling,594.1854731826827,Alvik
+2015-05-13,Svartviksvägen 8,Traneberg,Grön Hässelby,2,44,2,Lägenhet,1938,[Bromma Traneberg],2295000,455000,2750000,2380,HusmanHagberg,605.4966545505725,Alvik
+2015-05-13,Svartviksslingan 37,Traneberg,Grön Hässelby,2,48,1,Lägenhet,1986,[Bromma],1995000,455000,2450000,2569,Svensk Fastighetsförmedling,956.0202412900506,Alvik
+2015-05-13,Mössebergsvägen 14,Traneberg,Grön Hässelby,2,56,1,Lägenhet,1936,[Bromma],2795000,255000,3050000,3611,Erik Olsson Fastighetsförmedling,350.8988032661248,Alvik
+2015-05-13,Svartviksslingan 85,Traneberg,Grön Hässelby,2,62,null,Lägenhet,1986,[Bromma],2995000,225000,3220000,null,Svensk Fastighetsförmedling,830.865679977447,Alvik
+2015-05-13,Hallebergsvägen 25,Traneberg,Grön Hässelby,3,66,1,Lägenhet,1938,[Bromma],2995000,5000,3000000,3763,Erik Olsson Fastighetsförmedling,571.2408084773758,Alvik
+2015-05-12,Mössebergsvägen 15,Traneberg,Grön Hässelby,2,55,1,Lägenhet,1938,[Bromma],3300000,0,3300000,3573,SkandiaMäklarna,336.48372791289887,Alvik
+2015-05-12,Minnebergsvägen 14,Traneberg,Grön Hässelby,2,45,2,Lägenhet,1938,[Bromma],2250000,700000,2950000,2227,Mäklarhuset,501.9194926590828,Alvik
+2015-05-12,Sareksvägen 4,Traneberg,Grön Hässelby,2,38,2,Lägenhet,null,[Traneberg],1995000,655000,2650000,2327,Svenska Mäklarhuset,309.31469431105626,Alvik
+2015-05-06,Kinnekullevägen 42,Traneberg,Grön Hässelby,1,35,0.5,Lägenhet,1938,[Traneberg],1895000,415000,2310000,2979,Svenska Mäklarhuset,353.957721974131,Alvik
+2015-05-05,Minnebergsvägen 18,Traneberg,Grön Hässelby,2,45,1,Lägenhet,1940,[Bromma],1995000,540000,2535000,2481,Erik Olsson Fastighetsförmedling,526.0039125103771,Alvik
+2015-05-05,Svartviksvägen 4,Traneberg,Grön Hässelby,2,45,1,Lägenhet,1938,[Bromma],2395000,280000,2675000,2920,Erik Olsson Fastighetsförmedling,594.1854731826827,Alvik
+2015-05-05,Hallebergsvägen 18,Traneberg,Grön Hässelby,3,66,2,Lägenhet,1938,[Bromma],3475000,0,3475000,3732,Karlsson & Uddare,522.8124254720701,Alvik
+2015-04-30,Kinnekullevägen 38,Traneberg,Grön Hässelby,1,38,3,Lägenhet,1938,[Traneberg],1975000,300000,2275000,3305,Fastighetsbyrån,326.83499072498836,Alvik
+2015-04-30,Svartviksslingan 82,Traneberg,Grön Hässelby,3,90.5,3,Lägenhet,1986,[Minneberg],3695000,625000,4320000,5306,Fastighetsbyrån,757.2802889737371,Alvik
+2015-04-30,Käglestigen 4,Traneberg,Grön Hässelby,2,53,1,Lägenhet,1939,[Bromma],2595000,625000,3220000,3835,Svensk Fastighetsförmedling,363.1341667458431,Alvik
+2015-04-30,Svartviksslingan 85,Traneberg,Grön Hässelby,3,75.5,null,Lägenhet,null,[Bromma],3250000,500000,3750000,null,Mäklarhuset,830.865679977447,Alvik
+2015-04-29,Sareksvägen 9,Traneberg,Grön Hässelby,1,33,null,Lägenhet,1937,[Bromma Traneberg],1795000,565000,2360000,1838,Notar,321.1115307819189,Alvik
+2015-04-29,Kinnekullevägen 51,Traneberg,Grön Hässelby,2,53,3,Lägenhet,1936,[Traneberg],2895000,605000,3500000,2975,Svenska Mäklarhuset,377.0336989739528,Alvik
+2015-04-28,Svartviksslingan 77,Traneberg,Grön Hässelby,3,68.5,5,Lägenhet,1984,[Bromma],3495000,130000,3625000,3643,Svenska Mäklarhuset,896.87664840635,Alvik
+2015-04-28,Ödmårdsvägen 1,Traneberg,Grön Hässelby,3,60,1,Lägenhet,1937,[Bromma Traneberg],2695000,315000,3010000,2887,HusmanHagberg,651.4148236733622,Alvik
+2015-04-25,Mössebergsvägen 30,Traneberg,Grön Hässelby,2,61,2,Lägenhet,1938,[Bromma Traneberg],2945000,405000,3350000,3458,HusmanHagberg,427.43417783650415,Alvik
+2015-04-24,Mössebergsvägen 31,Traneberg,Grön Hässelby,2,58,2,Lägenhet,1937,[Traneberg],2895000,235000,3130000,3850,Fastighetsbyrån,389.833301705202,Alvik
+2015-04-23,Margretelundsvägen 66,Traneberg,Grön Hässelby,3,46,1,Lägenhet,null,[Bromma],1995000,445000,2440000,2247,Erik Olsson Fastighetsförmedling,674.40623173571,Alvik
+2015-04-23,Kinnekullevägen 24,Traneberg,Grön Hässelby,2.5,48,3,Lägenhet,1936,[Bromma],2695000,255000,2950000,2672,Svensk Fastighetsförmedling,248.8269113255526,Alvik
+2015-04-23,Margretelundsvägen 66,Traneberg,Grön Hässelby,2,46,3,Lägenhet,1937,[Traneberg],2195000,380000,2575000,2253,Fastighetsbyrån,674.40623173571,Alvik
+2015-04-23,Minnebergsvägen 19,Traneberg,Grön Hässelby,2,37,1,Lägenhet,1938,[Bromma],1995000,355000,2350000,null,BOSTHLM,537.5793198707352,Alvik
+2015-04-23,Hallebergsvägen 26A,Traneberg,Grön Hässelby,1.5,28,null,Lägenhet,1938,[Bromma Traneberg],1795000,875000,2670000,1484,HusmanHagberg,548.5289492426068,Alvik
+2015-04-23,Kebnekaisevägen 20,Traneberg,Grön Hässelby,2,41,null,Lägenhet,1939,[Bromma Traneberg],2250000,180000,2430000,2528,Mäklare Sjögren,617.8051019670885,Alvik
+2015-04-21,Hoburgsstigen 10,Traneberg,Grön Hässelby,2,46,1,Lägenhet,1937,[Bromma],2195000,405000,2600000,2247,Erik Olsson Fastighetsförmedling,695.6997718527174,Alvik
+2015-04-21,Sareksvägen 14,Traneberg,Grön Hässelby,1,38,2,Lägenhet,1939,[Bromma],1995000,605000,2600000,2271,Svensk Fastighetsförmedling,369.44705082853164,Alvik
+2015-04-21,Kebnekaisevägen 22,Traneberg,Grön Hässelby,6,175,null,Villa,null,[Bromma],8900000,-6545000,2355000,null,Länsförsäkringar Fastighetsförmedling,632.2256858668966,Alvik
+2015-04-18,Tranebergsvägen 38,Traneberg,Grön Hässelby,3,71,null,Lägenhet,1934,[Bromma],3295000,355000,3650000,2997,Erik Olsson Fastighetsförmedling,194.65930318827745,Alvik
+2015-04-17,Margretelundsvägen 26,Traneberg,Grön Hässelby,3,55,2,Lägenhet,1938,[Bromma],2495000,280000,2775000,3047,Länsförsäkringar Fastighetsförmedling,415.73032570955183,Alvik
+2015-04-17,Tranebergsvägen 38,Traneberg,Grön Hässelby,1,43,1,Lägenhet,1934,[Bromma],2150000,470000,2620000,1811,Erik Olsson Fastighetsförmedling,194.65930318827745,Alvik
+2015-04-17,Svartviksslingan 108,Traneberg,Grön Hässelby,2,59.5,3,Lägenhet,null,[Minneberg],2795000,0,2795000,3279,Fastighetsbyrån,815.2242346361036,Alvik
+2015-04-17,Sareksvägen 9,Traneberg,Grön Hässelby,1,33,3,Lägenhet,1936,[Bromma Traneberg],1795000,685000,2480000,1838,HusmanHagberg,321.1115307819189,Alvik
+2015-04-16,Grindstuvägen 28,Traneberg,Grön Hässelby,4,100,null,Lägenhet,null,[Traneberg],5695000,830000,6525000,4918,Fastighetsbyrån,502.809156475698,Alvik
+2015-04-15,Kebnekaisevägen 8,Traneberg,Grön Hässelby,2,40,2,Lägenhet,1939,[Bromma],2195000,295000,2490000,2628,Svensk Fastighetsförmedling,606.1727816948178,Alvik
+2015-04-15,Mössebergsvägen 30,Traneberg,Grön Hässelby,2,61,3,Lägenhet,1938,[Bromma],2950000,650000,3600000,null,Svensk Fastighetsförmedling,427.43417783650415,Alvik
+2015-04-15,Porfyrvägen 9,Traneberg,Grön Hässelby,2,41,3,Lägenhet,1939,[Traneberg],2195000,605000,2800000,2759,Fastighetsbyrån,472.9361024442043,Alvik
+2015-04-15,Kinnekullevägen 27,Traneberg,Grön Hässelby,1.5,45,-1,Lägenhet,1935,[Bromma Traneberg],2195000,325000,2520000,2717,HusmanHagberg,212.44674447554343,Alvik
+2015-04-15,Svartviksslingan 15,Traneberg,Grön Hässelby,3,68.5,4,Lägenhet,1985,[Minneberg],3195000,375000,3570000,3938,Fastighetsbyrån,894.7115934674791,Alvik
+2015-04-15,Tranebergsplan 8B,Traneberg,Grön Hässelby,1,40,2,Lägenhet,1939,[Traneberg],2095000,315000,2410000,2584,Svenska Mäklarhuset,233.85757440136277,Alvik
+2015-04-14,Kinnekullevägen 33,Traneberg,Grön Hässelby,2,50,2,Lägenhet,1935,[Traneberg],2795000,100000,2895000,3564,Fastighetsbyrån,233.39923401594268,Alvik
+2015-04-13,Minnebergsvägen 12,Traneberg,Grön Hässelby,2,52.5,null,Lägenhet,1938,[Bromma],2695000,285000,2980000,2599,Erik Olsson Fastighetsförmedling,487.8985495332718,Alvik
+2015-04-10,Kinnekullevägen 36A,Traneberg,Grön Hässelby,1,38,2,Lägenhet,1936,[Bromma],1995000,505000,2500000,2939,Svensk Fastighetsförmedling,308.0309025810843,Alvik
+2015-04-09,Vidängsvägen 51A,Traneberg,Grön Hässelby,2,39,2,Lägenhet,1938,[Bromma],1950000,550000,2500000,2094,Erik Olsson Fastighetsförmedling,677.1250158356595,Alvik
+2015-04-08,Kebnekaisevägen 20,Traneberg,Grön Hässelby,1.5,41,3,Lägenhet,1939,[Traneberg],2095000,630000,2725000,2528,Fastighetsbyrån,617.8051019670885,Alvik
+2015-04-03,Margretelundsvägen 84,Traneberg,Grön Hässelby,2,62,null,Lägenhet,1984,[Traneberg],2950000,-150000,2800000,2983,Fastighetsbyrån,735.2048847539269,Alvik
+2015-04-01,Mössebergsvägen 30,Traneberg,Grön Hässelby,3,57,1,Lägenhet,1938,[Bromma],2895000,505000,3400000,3251,Erik Olsson Fastighetsförmedling,427.43417783650415,Alvik
+2015-03-30,Hoburgsstigen 10,Traneberg,Grön Hässelby,3,46,1,Lägenhet,1937,[Bromma],1950000,775000,2725000,2247,Erik Olsson Fastighetsförmedling,695.6997718527174,Alvik
+2015-03-27,Svartviksslingan 33,Traneberg,Grön Hässelby,1.5,56,-1,Lägenhet,1985,[Minneberg],2295000,80000,2375000,3147,Fastighetsbyrån,967.1401445185932,Alvik
+2015-03-27,Svartviksslingan 77,Traneberg,Grön Hässelby,3,69,6,Lägenhet,1986,[Bromma],3495000,465000,3960000,3680,Svensk Fastighetsförmedling,896.87664840635,Alvik
+2015-03-26,Tranebergsvägen 8,Traneberg,Grön Hässelby,2.5,54,3,Lägenhet,1938,[Bromma],2595000,825000,3420000,3135,Mäklarhuset,608.6522360440442,Alvik
+2015-03-25,Porfyrvägen 28,Traneberg,Grön Hässelby,3,74,2,Lägenhet,1939,[Traneberg],4350000,520000,4870000,4270,Fastighetsbyrån,557.402192735787,Alvik
+2015-03-25,Hallebergsvägen 26,Traneberg,Grön Hässelby,2,55,2,Lägenhet,1938,[Bromma],2795000,505000,3300000,2844,Erik Olsson Fastighetsförmedling,551.6492599606352,Alvik
+2015-03-25,Mössebergsvägen 7,Traneberg,Grön Hässelby,2,38,null,Lägenhet,1938,[Bromma],2540000,-10000,2530000,null,Svensk Fastighetsförmedling,292.8169348713027,Alvik
+2015-03-23,Mössebergsvägen 5,Traneberg,Grön Hässelby,3,69,1,Lägenhet,1938,[Bromma Traneberg],3490000,100000,3590000,4206,Notar,290.8530189634944,Alvik
+2015-03-21,Minnebergsvägen 18,Traneberg,Grön Hässelby,2,55,3,Lägenhet,1940,[Bromma],2595000,555000,3150000,3181,Mäklarhuset,526.0039125103771,Alvik
+2015-03-20,Tranebergsvägen 27,Traneberg,Grön Hässelby,1,42,3,Lägenhet,1935,[Bromma],2195000,635000,2830000,2029,Svensk Fastighetsförmedling,335.9080683171341,Alvik
+2015-03-20,Margretelundsvägen 24,Traneberg,Grön Hässelby,2,45,3,Lägenhet,1938,[Traneberg],2395000,255000,2650000,2493,Fastighetsbyrån,414.41669756456866,Alvik
+2015-03-19,Mössebergsvägen 24,Traneberg,Grön Hässelby,2.5,66,3,Lägenhet,1937,[Traneberg],3095000,435000,3530000,3278,Fastighetsbyrån,392.552615456009,Alvik
+2015-03-19,Kinnekullevägen 53,Traneberg,Grön Hässelby,2,52,null,Lägenhet,1935,[Bromma Traneberg],2795000,555000,3350000,2975,HusmanHagberg,390.9357871517746,Alvik
+2015-03-19,Mössebergsvägen 28,Traneberg,Grön Hässelby,3,83,2,Lägenhet,1938,[Bromma Traneberg],3990000,760000,4750000,4707,Notar,427.43417783650415,Alvik
+2015-03-18,Mössebergsvägen 22,Traneberg,Grön Hässelby,4,85,3,Lägenhet,1937,[Traneberg],3795000,1125000,4920000,4077,Fastighetsbyrån,380.0995891137675,Alvik
+2015-03-17,Kebnekaisevägen 20,Traneberg,Grön Hässelby,2,54,null,Lägenhet,1939,[Traneberg],2250000,600000,2850000,3507,Svenska Mäklarhuset,617.8051019670885,Alvik
+2015-03-12,Mössebergsvägen 24,Traneberg,Grön Hässelby,3,66,2,Lägenhet,1937,[Bromma],3195000,440000,3635000,3184,Erik Olsson Fastighetsförmedling,392.552615456009,Alvik
+2015-03-12,Mössebergsvägen 26,Traneberg,Grön Hässelby,4,92,1,Lägenhet,1937,[Bromma Traneberg],4195000,605000,4800000,4306,HusmanHagberg,402.15636034660236,Alvik
+2015-03-11,Svartviksslingan 51,Traneberg,Grön Hässelby,2,61.5,6,Lägenhet,1985,[Bromma],2995000,405000,3400000,3304,Living Fastighetsmäkleri,844.3325534570391,Alvik
+2015-03-10,Tranebergsvägen 58,Traneberg,Grön Hässelby,1,40,1,Lägenhet,1935,[Bromma],1995000,655000,2650000,2195,Svensk Fastighetsförmedling,140.7629509756719,Alvik
+2015-03-10,Hallebergsvägen 20,Traneberg,Grön Hässelby,3,54,3,Lägenhet,1938,[Traneberg],2795000,505000,3300000,3143,Fastighetsbyrån,501.3795539049799,Alvik
+2015-03-05,Svartviksslingan 73,Traneberg,Grön Hässelby,2,63,4,Lägenhet,1985,[Bromma Minneberg],2495000,475000,2970000,3330,HusmanHagberg,928.7379894651419,Alvik
+2015-03-04,Kinnekullevägen 38,Traneberg,Grön Hässelby,1,35,1,Lägenhet,1938,[Bromma],1795000,305000,2100000,2979,Svensk Fastighetsförmedling,326.83499072498836,Alvik
+2015-03-04,Svartviksslingan 11,Traneberg,Grön Hässelby,3,61.5,5,Lägenhet,1985,[Minneberg],3195000,255000,3450000,3610,Fastighetsbyrån,871.3630189992822,Alvik
+2015-03-04,Hallebergsvägen 18,Traneberg,Grön Hässelby,2,54,1,Lägenhet,1938,[Bromma],2695000,205000,2900000,3143,Erik Olsson Fastighetsförmedling,522.8124254720701,Alvik
+2015-03-04,Mössebergsvägen 24,Traneberg,Grön Hässelby,2.5,66,1,Lägenhet,1937,[Bromma Traneberg],2750000,400000,3150000,3090,Notar,392.552615456009,Alvik
+2015-02-17,Grindstuvägen 32B,Traneberg,Grön Hässelby,2,50,null,Lägenhet,1930,[Traneberg],2495000,5000,2500000,2260,SkandiaMäklarna,537.4930621982977,Alvik
+2015-02-13,Porfyrvägen 11,Traneberg,Grön Hässelby,3,84,3,Lägenhet,1938,[Traneberg],3295000,830000,4125000,5910,Fastighetsbyrån,485.95928568218363,Alvik
+2015-02-13,Ödmårdsvägen 18,Traneberg,Grön Hässelby,2,60,2,Lägenhet,1938,[Bromma],2850000,-20000,2830000,2147,Svensk Fastighetsförmedling,671.958996464646,Alvik
+2015-02-13,Kinnekullevägen 41,Traneberg,Grön Hässelby,1,39,2,Lägenhet,1937,[Traneberg],1895000,220000,2115000,2887,Fastighetsbyrån,278.673089215318,Alvik
+2015-02-12,Svartviksslingan 84,Traneberg,Grön Hässelby,2,59.5,null,Lägenhet,1985,[Bromma],2575000,300000,2875000,3427,Karlsson & Uddare,783.2452386532473,Alvik
+2015-02-11,Svartviksslingan 49,Traneberg,Grön Hässelby,3,69,3,Lägenhet,1986,[Bromma],3195000,765000,3960000,3979,Svensk Fastighetsförmedling,868.3697848703713,Alvik
+2015-02-11,Hunnebergsvägen 7,Traneberg,Grön Hässelby,2,36,3,Lägenhet,1935,[Bromma Traneberg],2095000,455000,2550000,2684,Notar,185.22714091031054,Alvik
+2015-02-10,Kinnekullevägen 49,Traneberg,Grön Hässelby,2,52,1,Lägenhet,1935,[Bromma],2875000,220000,3095000,2975,Bjurfors,363.3820719706334,Alvik
+2015-02-06,Hoburgsstigen 12,Traneberg,Grön Hässelby,2,46,1,Lägenhet,1937,[Bromma],1795000,605000,2400000,2253,Erik Olsson Fastighetsförmedling,689.4690872411564,Alvik
+2015-02-06,Svartviksvägen 6,Traneberg,Grön Hässelby,3,62,null,Lägenhet,1938,[Bromma],2495000,675000,3170000,4669,Erik Olsson Fastighetsförmedling,602.0289386304881,Alvik
+2015-02-05,Svartviksslingan 73,Traneberg,Grön Hässelby,2.5,64,9,Lägenhet,1986,[Bromma],3110000,0,3110000,3306,Svensk Fastighetsförmedling,928.7379894651419,Alvik
+2015-02-04,Svartviksslingan 11,Traneberg,Grön Hässelby,3,91,5,Lägenhet,1985,[Bromma Minneberg],4800000,-525000,4275000,5218,HusmanHagberg,871.3630189992822,Alvik
+2015-01-31,Fältspatvägen 1,Traneberg,Grön Hässelby,3,56,1,Lägenhet,1939,[Bromma Traneberg],2995000,405000,3400000,3626,Notar,615.7088902950189,Alvik
+2015-01-31,Sulitelmavägen 22,Traneberg,Grön Hässelby,2,53,0.5,Lägenhet,1938,[Bromma Traneberg],2490000,-30000,2460000,3084,Notar,439.9736149767943,Alvik
+2015-01-29,Tranebergsvägen 22,Traneberg,Grön Hässelby,null,41,1,Lägenhet,1935,[Bromma],2190000,220000,2410000,1612,Fastighetsmäklarna,331.43140468063774,Alvik
+2015-01-28,Kinnekullevägen 21,Traneberg,Grön Hässelby,2,51,3,Lägenhet,1935,[Bromma Traneberg],2695000,150000,2845000,3249,HusmanHagberg,209.51053384661824,Alvik
+2015-01-23,Tranebergsvägen 41,Traneberg,Grön Hässelby,3.5,85,null,Lägenhet,1939,[Traneberg],4295000,205000,4500000,4814,Fastighetsbyrån,134.3747329458265,Alvik
+2015-01-22,Kinnekullevägen 34,Traneberg,Grön Hässelby,1,38,2,Lägenhet,1936,[Traneberg],1895000,255000,2150000,2939,Svenska Mäklarhuset,292.9575978222121,Alvik
+2015-01-22,Kinnekullevägen 35,Traneberg,Grön Hässelby,2,50,2,Lägenhet,1935,[Bromma Traneberg],2545000,195000,2740000,3564,HusmanHagberg,241.42324876681135,Alvik
+2015-01-17,Hoburgsstigen 14,Traneberg,Grön Hässelby,3,62,3,Lägenhet,1985,[Bromma],2695000,505000,3200000,3186,Erik Olsson Fastighetsförmedling,689.597285268433,Alvik
+2015-01-17,Mössebergsvägen 9,Traneberg,Grön Hässelby,2,56,3,Lägenhet,1938,[Bromma],2395000,655000,3050000,3638,Erik Olsson Fastighetsförmedling,296.8258482601091,Alvik
+2015-01-17,Svartviksslingan 96,Traneberg,Grön Hässelby,2,63,5,Lägenhet,1985,[Minneberg],2700000,200000,2900000,3829,Erik Olsson Fastighetsförmedling,833.3420686888347,Alvik
+2015-01-16,Tranebergsvägen 29,Traneberg,Grön Hässelby,2,58,2,Lägenhet,1935,[Bromma],2975000,125000,3100000,3538,Edward & Partners Fastighetsmäklare AB,316.79030304390267,Alvik
+2015-01-15,Gesundaplan 57,Traneberg,Grön Hässelby,1.5,40,2,Lägenhet,1937,[Bromma Traneberg],1990000,335000,2325000,2387,Notar,492.6092452361397,Alvik
+2015-01-15,Kinnekullevägen 27,Traneberg,Grön Hässelby,2,51,null,Lägenhet,1935,[Traneberg],2795000,380000,3175000,3079,Fastighetsbyrån,212.44674447554343,Alvik
+2015-01-08,Kinnekullevägen 34,Traneberg,Grön Hässelby,1.5,38,2,Lägenhet,1936,[Bromma Traneberg],1800000,315000,2115000,3104,Notar,292.9575978222121,Alvik
+2014-12-12,Svartviksslingan 88,Traneberg,Grön Hässelby,2.5,63,null,Lägenhet,1986,[Minneberg],2695000,25000,2720000,3727,Fastighetsbyrån,801.5969125095512,Alvik
+2014-12-11,Svartviksslingan 15,Traneberg,Grön Hässelby,3,75.5,null,Lägenhet,1985,[Minneberg],3195000,240000,3435000,4365,Fastighetsbyrån,894.7115934674791,Alvik
+2014-12-10,Svartviksslingan 15,Traneberg,Grön Hässelby,2,61.5,null,Lägenhet,1985,[Minneberg],2695000,325000,3020000,3396,Fastighetsbyrån,894.7115934674791,Alvik
+2014-12-05,Svartviksslingan 63,Traneberg,Grön Hässelby,3,61,null,Lägenhet,1986,[Minneberg],2695000,205000,2900000,3328,Fastighetsbyrån,922.6562842235985,Alvik
+2014-12-04,Tranebergsvägen 25,Traneberg,Grön Hässelby,4,84,3,Lägenhet,1935,[Traneberg],4495000,0,4495000,4126,Svenska Mäklarhuset,355.08139058844955,Alvik
+2014-12-04,Minnebergsvägen 23,Traneberg,Grön Hässelby,2,38,null,Lägenhet,1938,[Traneberg],1795000,330000,2125000,2437,Fastighetsbyrån,564.8955672772469,Alvik
+2014-12-03,Tranebergsvägen 39,Traneberg,Grön Hässelby,3,69,null,Lägenhet,1934,[Traneberg],2990000,120000,3110000,4168,Svensk Fastighetsförmedling,149.44569651517168,Alvik
+2014-12-01,Hunnebergsvägen 2,Traneberg,Grön Hässelby,2,54,1,Lägenhet,1936,[Traneberg],2395000,0,2395000,3899,SkandiaMäklarna,146.7958179546453,Alvik
+2014-11-28,Svartviksvägen 8,Traneberg,Grön Hässelby,2,53,null,Lägenhet,1938,[Bromma Traneberg],2595000,205000,2800000,2935,HusmanHagberg,605.4966545505725,Alvik
+2014-11-27,Svartviksslingan 63,Traneberg,Grön Hässelby,2,59.5,null,Lägenhet,1985,[Minneberg],2695000,355000,3050000,3571,Fastighetsbyrån,922.6562842235985,Alvik
+2014-11-20,Sareksvägen 2,Traneberg,Grön Hässelby,2,52,2,Lägenhet,1937,[Bromma],1995000,555000,2550000,2965,Erik Olsson Fastighetsförmedling,295.09035616974126,Alvik
+2014-11-19,Sulitelmavägen 37,Traneberg,Grön Hässelby,3,73,1,Lägenhet,1938,[Traneberg],3695000,655000,4350000,3507,Svenska Mäklarhuset,418.1565124718299,Alvik
+2014-11-14,Tranebergsvägen 9,Traneberg,Grön Hässelby,2,48,1,Lägenhet,1939,[Bromma Traneberg],2350000,200000,2550000,2824,Södermäklarna,604.5029589760577,Alvik
+2014-11-13,Åkerhielmsgatan 24,Traneberg,Grön Hässelby,4.5,106,null,Lägenhet,1929,[Ulvsunda],3995000,-45000,3950000,6787,Fastighetsbyrån,424.9358396739927,Stora mossen
+2014-11-12,Margretelundsvägen 64,Traneberg,Grön Hässelby,2,46,null,Lägenhet,1985,[Bromma],1995000,265000,2260000,2247,Erik Olsson Fastighetsförmedling,665.0436434197428,Alvik
+2014-11-12,Svartviksslingan 19,Traneberg,Grön Hässelby,3,75.5,4,Lägenhet,1985,[Bromma Minneberg],2990000,750000,3740000,4284,HusmanHagberg,930.2490621532255,Alvik
+2014-11-11,Tranebergsvägen 46,Traneberg,Grön Hässelby,2,53,3,Lägenhet,1934,[Traneberg],2395000,435000,2830000,2396,Länsförsäkringar Fastighetsförmedling,125.4279013597073,Alvik
+2014-11-06,Minnebergsvägen 14,Traneberg,Grön Hässelby,2,45,3,Lägenhet,1938,[Traneberg],2429000,0,2429000,2227,BOSTHLM,501.9194926590828,Alvik
+2014-11-05,Hunnebergsvägen 2,Traneberg,Grön Hässelby,1,36,2,Lägenhet,1936,[Traneberg],1950000,320000,2270000,2677,Svenska Mäklarhuset,146.7958179546453,Alvik
+2014-11-05,Sulitelmavägen 7,Traneberg,Grön Hässelby,2,36,null,Lägenhet,1937,[Traneberg],1795000,515000,2310000,2690,Fastighetsbyrån,421.0583258673871,Alvik
+2014-11-05,Sulitelmavägen 27,Traneberg,Grön Hässelby,2,46,null,Lägenhet,1938,[Traneberg],2195000,335000,2530000,2083,SkandiaMäklarna,512.0476862829918,Alvik
+2014-10-29,Hunnebergsvägen 9,Traneberg,Grön Hässelby,2,49,3,Lägenhet,1935,[Traneberg],2495000,230000,2725000,3515,Länsförsäkringar Fastighetsförmedling,194.4694285775211,Alvik
+2014-10-25,Svartviksslingan 40,Traneberg,Grön Hässelby,3,104,null,Lägenhet,null,[Bromma],4675000,650000,5325000,4641,Magnusson Mäkleri,754.7947905260083,Alvik
+2014-10-24,Sulitelmavägen 22,Traneberg,Grön Hässelby,2,53,null,Lägenhet,1938,[Traneberg],2495000,165000,2660000,3084,Fastighetsbyrån,439.9736149767943,Alvik
+2014-10-16,Svartviksvägen 4,Traneberg,Grön Hässelby,2,50,null,Lägenhet,1938,[Bromma],1995000,455000,2450000,3243,Erik Olsson Fastighetsförmedling,594.1854731826827,Alvik
+2014-10-16,Svartviksslingan 15,Traneberg,Grön Hässelby,3,68.5,null,Lägenhet,1985,[Minneberg],3395000,395000,3790000,4020,Fastighetsbyrån,894.7115934674791,Alvik
+2014-10-16,Kinnekullevägen 53,Traneberg,Grön Hässelby,2,52,null,Lägenhet,1935,[Traneberg],2795000,565000,3360000,3175,Fastighetsbyrån,390.9357871517746,Alvik
+2014-10-15,Hallebergsvägen 23,Traneberg,Grön Hässelby,2,43,2,Lägenhet,1938,[Bromma],1995000,155000,2150000,2338,Erik Olsson Fastighetsförmedling,552.1123137487226,Alvik
+2014-10-15,Hallebergsvägen 18,Traneberg,Grön Hässelby,3,66,1,Lägenhet,1938,[Bromma],3195000,215000,3410000,3732,Erik Olsson Fastighetsförmedling,522.8124254720701,Alvik
+2014-10-15,Tranebergsvägen 10,Traneberg,Grön Hässelby,3,68,2,Lägenhet,1938,[Bromma Traneberg],3175000,300000,3475000,3697,HusmanHagberg,576.6349751476087,Alvik
+2014-10-15,Käglestigen 6,Traneberg,Grön Hässelby,2,58,2,Lägenhet,null,[Traneberg],2495000,480000,2975000,3835,Svensk Fastighetsförmedling,379.0957221997345,Alvik
+2014-10-04,Svartviksslingan 104,Traneberg,Grön Hässelby,4,91,null,Lägenhet,null,[Minneberg],4295000,-145000,4150000,5038,Fastighetsbyrån,806.6077234884901,Alvik
+2014-10-01,Svartviksvägen 21,Traneberg,Grön Hässelby,3,56,1,Lägenhet,1939,[Bromma],2695000,305000,3000000,2544,Erik Olsson Fastighetsförmedling,672.3227119756921,Alvik
+2014-10-01,Svartviksslingan 112,Traneberg,Grön Hässelby,4,90.5,5,Lägenhet,1984,[Bromma Minneberg],3500000,840000,4340000,5067,HusmanHagberg,809.765078139558,Alvik
+2014-09-30,Tranebergsvägen 57,Traneberg,Grön Hässelby,3,78,0,Lägenhet,1934,[Bromma Traneberg],3645000,110000,3755000,4074,HusmanHagberg,124.35185968265282,Alvik
+2014-09-25,Margretelundsvägen 24,Traneberg,Grön Hässelby,3,55,2,Lägenhet,1938,[Traneberg],2195000,515000,2710000,3047,Länsförsäkringar Fastighetsförmedling,414.41669756456866,Alvik
+2014-09-25,Margretelundsvägen 80,Traneberg,Grön Hässelby,2,62,2,Lägenhet,1984,[Bromma Traneberg],2550000,0,2550000,2983,Notar,728.7261749290826,Alvik
+2014-09-23,Svartviksvägen 6,Traneberg,Grön Hässelby,2,62,2,Lägenhet,1938,[Bromma],2695000,605000,3300000,4599,Erik Olsson Fastighetsförmedling,602.0289386304881,Alvik
+2014-09-23,Hallebergsvägen 23,Traneberg,Grön Hässelby,2,34,1,Lägenhet,1938,[Bromma],1695000,325000,2020000,1939,Erik Olsson Fastighetsförmedling,552.1123137487226,Alvik
+2014-09-19,Margretelundsvägen 80,Traneberg,Grön Hässelby,3,74,2,Lägenhet,1984,[Bromma Traneberg],2975000,425000,3400000,3462,Notar,728.7261749290826,Alvik
+2014-09-18,Mössebergsvägen 24,Traneberg,Grön Hässelby,2.5,66,2,Lägenhet,1937,[Bromma Traneberg],2495000,855000,3350000,3541,Notar,392.552615456009,Alvik
+2014-09-15,Tranebergsvägen 26,Traneberg,Grön Hässelby,3,62,2,Lägenhet,1936,[Bromma Traneberg],2895000,415000,3310000,4015,HusmanHagberg,294.81177797178844,Alvik
+2014-09-11,Svartviksslingan 4,Traneberg,Grön Hässelby,3,77.5,1,Lägenhet,1980,[Bromma Traneberg],2795000,0,2795000,5048,Notar,443.73776807032664,Alvik
+2014-09-11,Mössebergsvägen 17,Traneberg,Grön Hässelby,3,57,2,Lägenhet,null,[Traneberg],2950000,0,2950000,3111,Svensk Fastighetsförmedling,321.56858135586504,Alvik
+2014-09-10,Minnebergsvägen 7,Traneberg,Grön Hässelby,2,41,2,Lägenhet,1938,[Bromma],1995000,355000,2350000,2334,Erik Olsson Fastighetsförmedling,434.0780725776362,Alvik
+2014-09-10,Kinnekullevägen 42,Traneberg,Grön Hässelby,1,38,2,Lägenhet,1938,[Traneberg],1795000,305000,2100000,3148,Svenska Mäklarhuset,353.957721974131,Alvik
+2014-09-10,Tranebergsvägen 31,Traneberg,Grön Hässelby,1.5,45,1,Lägenhet,1935,[Bromma],1950000,410000,2360000,2823,Mäklarhuset,297.726121917614,Alvik
+2014-09-04,Kinnekullevägen 24,Traneberg,Grön Hässelby,2.5,48,3,Lägenhet,null,[Traneberg],2375000,300000,2675000,2672,Svensk Fastighetsförmedling,248.8269113255526,Alvik
+2014-08-29,Svartviksslingan 34,Traneberg,Grön Hässelby,6,119,null,Villa,1986,[Bromma Minneberg],5990000,810000,6800000,null,HusmanHagberg,733.8564570930765,Alvik
+2014-08-29,Margretelundsvägen 82,Traneberg,Grön Hässelby,2,62,null,Lägenhet,1984,[Traneberg],2395000,0,2395000,2983,Fastighetsbyrån,737.4534624961555,Alvik
+2014-08-28,Kinnekullevägen 36,Traneberg,Grön Hässelby,1,36,null,Lägenhet,1936,[Traneberg],1795000,205000,2000000,2487,Svenska Mäklarhuset,300.31874955977196,Alvik
+2014-08-23,Grindstuvägen 32B,Traneberg,Grön Hässelby,3,73,1,Lägenhet,2013,[Ulvsunda],4100000,550000,4650000,3166,Balders Ädelmarks,537.4930621982977,Alvik
+2014-08-22,Tranebergsvägen 43,Traneberg,Grön Hässelby,4,104,null,Lägenhet,null,[Traneberg],3975000,175000,4150000,5367,Svensk Fastighetsförmedling,120.55678702463462,Alvik
+2014-08-21,Sareksvägen 18,Traneberg,Grön Hässelby,1.5,41,null,Lägenhet,1939,[Traneberg],1995000,345000,2340000,2450,Fastighetsbyrån,380.4813295591082,Alvik
+2014-08-19,Sareksvägen 5,Traneberg,Grön Hässelby,2,49,3,Lägenhet,1938,[Bromma],2195000,630000,2825000,2568,Erik Olsson Fastighetsförmedling,284.21552780552753,Alvik
+2014-08-19,Kinnekullevägen 41A,Traneberg,Grön Hässelby,1,39,2,Lägenhet,null,[Bromma Traneberg],1875000,225000,2100000,2950,Notar,287.3187180564539,Alvik
+2014-08-15,Kinnekullevägen 39,Traneberg,Grön Hässelby,1,39,null,Lägenhet,1937,[Traneberg],2100000,0,2100000,2887,Fastighetsbyrån,270.3305326035073,Alvik
+2014-08-13,Svartviksslingan 90,Traneberg,Grön Hässelby,2,59.5,4,Lägenhet,null,[Minneberg],2595000,325000,2920000,3478,Svensk Fastighetsförmedling,833.2456449280937,Alvik
+2014-08-13,Svartviksslingan 4,Traneberg,Grön Hässelby,1,38.5,2,Lägenhet,1987,[Bromma Traneberg],1695000,375000,2070000,2531,HusmanHagberg,443.73776807032664,Alvik
+2014-08-13,Vidängsvägen 37,Traneberg,Grön Hässelby,1,27,3,Lägenhet,null,[Traneberg],1350000,490000,1840000,1461,Svensk Fastighetsförmedling,513.7267644865026,Alvik
+2014-08-12,Kinnekullevägen 37,Traneberg,Grön Hässelby,1,39,1,Lägenhet,1937,[Bromma],1895000,0,1895000,2950,Erik Olsson Fastighetsförmedling,262.31681079070614,Alvik
+2014-07-25,Kebnekaisevägen 18,Traneberg,Grön Hässelby,2,56,1,Lägenhet,1939,[Bromma Traneberg],2195000,230000,2425000,3450,Notar,652.7110794047514,Alvik
+2014-07-10,Margretelundsvägen 26,Traneberg,Grön Hässelby,2.5,55,1,Lägenhet,1938,[Traneberg],2100000,-160000,1940000,3047,Länsförsäkringar Fastighetsförmedling,415.73032570955183,Alvik
+2014-07-07,Kinnekullevägen 29,Traneberg,Grön Hässelby,2,50.5,3,Lägenhet,1936,[Bromma Traneberg],2400000,400000,2800000,3198,Notar,220.27333489047138,Alvik
+2014-07-04,Porfyrvägen 28,Traneberg,Grön Hässelby,2,52,null,Lägenhet,1939,[Traneberg],2450000,250000,2700000,3001,Fastighetsbyrån,557.402192735787,Alvik
+2014-06-27,Margretelundsvägen 84,Traneberg,Grön Hässelby,2,62,null,Lägenhet,1984,[Bromma Traneberg],1990000,170000,2160000,2983,Notar,735.2048847539269,Alvik
+2014-06-23,Gesundaplan 59,Traneberg,Grön Hässelby,2,42,3,Lägenhet,1937,[Traneberg],2150000,160000,2310000,2571,Svenska Mäklarhuset,511.27183393119424,Alvik
+2014-06-19,Sareksvägen 5,Traneberg,Grön Hässelby,3,70,2,Lägenhet,1938,[Bromma],3295000,680000,3975000,3666,Erik Olsson Fastighetsförmedling,284.21552780552753,Alvik
+2014-06-18,Kinnekullevägen 31,Traneberg,Grön Hässelby,2,50.5,2,Lägenhet,1936,[Bromma Traneberg],2295000,230000,2525000,3198,Notar,226.3273315250833,Alvik
+2014-06-18,Minnebergsvägen 19,Traneberg,Grön Hässelby,2,38,3,Lägenhet,null,[Traneberg],1985000,265000,2250000,2094,SkandiaMäklarna,537.5793198707352,Alvik
+2014-06-12,Svartviksvägen 8,Traneberg,Grön Hässelby,2,51.5,3,Lägenhet,1938,[Bromma Traneberg],2495000,355000,2850000,2990,HusmanHagberg,605.4966545505725,Alvik
+2014-06-12,Svartviksslingan 29,Traneberg,Grön Hässelby,2,61.5,2,Lägenhet,1986,[Minneberg],2475000,225000,2700000,3577,Svensk Fastighetsförmedling,954.2348093734884,Alvik
+2014-06-12,Kebnekaisevägen 20,Traneberg,Grön Hässelby,2,54,null,Lägenhet,1939,[Traneberg],1925000,325000,2250000,3507,Svenska Mäklarhuset,617.8051019670885,Alvik
+2014-06-05,Tranebergsvägen 41,Traneberg,Grön Hässelby,4.5,126,3,Lägenhet,1934,[Bromma Traneberg],4295000,355000,4650000,5649,HusmanHagberg,134.3747329458265,Alvik
+2014-06-05,Sareksvägen 18,Traneberg,Grön Hässelby,2,53,null,Lägenhet,1939,[Bromma],2375000,0,2375000,3227,Wallenberg Fastighetsförmedling,380.4813295591082,Alvik
+2014-06-05,Sareksvägen 18,Traneberg,Grön Hässelby,2,42,null,Lägenhet,1939,[Bromma],1875000,125000,2000000,2629,Wallenberg Fastighetsförmedling,380.4813295591082,Alvik
+2014-06-05,Vidängsvägen 16,Traneberg,Grön Hässelby,1.5,43,2,Lägenhet,1935,[Bromma Traneberg],1695000,155000,1850000,3443,Notar,214.54384224598044,Alvik
+2014-06-04,Vidängsvägen 51A,Traneberg,Grön Hässelby,2,38,2,Lägenhet,null,[Traneberg],1895000,355000,2250000,2041,Svensk Fastighetsförmedling,677.1250158356595,Alvik
+2014-05-30,Sareksvägen 14,Traneberg,Grön Hässelby,2,32,null,Lägenhet,1939,[Bromma],1375000,525000,1900000,1972,Wallenberg Fastighetsförmedling,369.44705082853164,Alvik
+2014-05-30,Kebnekaisevägen 6,Traneberg,Grön Hässelby,1,25,null,Lägenhet,1939,[Traneberg],1395000,275000,1670000,1252,Svenska Mäklarhuset,616.3335328515562,Alvik
+2014-05-28,Hoburgstigen 14,Traneberg,Grön Hässelby,5,105,null,Lägenhet,1985,[Traneberg],3995000,20000,4015000,4881,Fastighetsbyrån,678.6252919048774,Alvik
+2014-05-28,Tranebergsvägen 105,Traneberg,Grön Hässelby,2,53.5,1,Lägenhet,1945,[Bromma Traneberg],1995000,180000,2175000,2743,Notar,297.70850664392805,Stora mossen
+2014-05-26,Svartviksslingan 82,Traneberg,Grön Hässelby,4,108.5,null,Lägenhet,1986,[Minneberg],4795000,0,4795000,5980,Fastighetsbyrån,757.2802889737371,Alvik
+2014-05-22,Margretelundsvägen 26,Traneberg,Grön Hässelby,2,45,3,Lägenhet,1938,[Traneberg],1795000,105000,1900000,2493,Länsförsäkringar Fastighetsförmedling,415.73032570955183,Alvik
+2014-05-22,Åkerhielmsgatan 12,Traneberg,Grön Hässelby,3,86,2,Lägenhet,1942,[Bromma],3695000,30000,3725000,4020,Erik Olsson Fastighetsförmedling,310.0328965885306,Stora mossen
+2014-05-21,Tranebergsvägen 29,Traneberg,Grön Hässelby,1,44,null,Lägenhet,1935,[Traneberg],1995000,285000,2280000,2684,Svenska Mäklarhuset,316.79030304390267,Alvik
+2014-05-21,Tranebergsplan 8B,Traneberg,Grön Hässelby,2,40,1,Lägenhet,1938,[Traneberg],1900000,280000,2180000,2601,Referens Mäklarbyrå,233.85757440136277,Alvik
+2014-05-21,Sulitelmavägen 8,Traneberg,Grön Hässelby,2,39,3,Lägenhet,1936,[Bromma],1895000,455000,2350000,2714,HusmanHagberg,368.71672054502983,Alvik
+2014-05-17,Vidängsvägen 51A,Traneberg,Grön Hässelby,2,37,1,Lägenhet,1938,[Traneberg],1795000,305000,2100000,1987,BOSTHLM,677.1250158356595,Alvik
+2014-05-15,Sareksvägen 5,Traneberg,Grön Hässelby,3,70,2,Lägenhet,1938,[Bromma],3150000,950000,4100000,3631,Erik Olsson Fastighetsförmedling,284.21552780552753,Alvik
+2014-05-14,Åkerhielmsgatan 14,Traneberg,Grön Hässelby,3,64,2,Lägenhet,1942,[Traneberg],2695000,335000,3030000,3243,Länsförsäkringar Fastighetsförmedling,313.068344006826,Stora mossen
+2014-05-13,Svartviksslingan 94,Traneberg,Grön Hässelby,2,63,6,Lägenhet,1986,[Bromma Minneberg],1995000,365000,2360000,3846,HusmanHagberg,829.2937459412782,Alvik
+2014-05-13,Tranebergsvägen 57,Traneberg,Grön Hässelby,3,72,3,Lägenhet,1934,[Traneberg],3195000,625000,3820000,3750,Svenska Mäklarhuset,124.35185968265282,Alvik
+2014-05-09,Tranebergsvägen 57,Traneberg,Grön Hässelby,2,56,2,Lägenhet,1934,[Traneberg],2395000,155000,2550000,2937,Svenska Mäklarhuset,124.35185968265282,Alvik
+2014-05-08,Vidängsvägen 35,Traneberg,Grön Hässelby,2,52,1,Lägenhet,null,[Traneberg],2195000,0,2195000,2922,Svensk Fastighetsförmedling,503.50677610761176,Alvik
+2014-05-07,Tranebergsvägen 46,Traneberg,Grön Hässelby,2,43,null,Lägenhet,1936,[Bromma Traneberg],1895000,255000,2150000,1645,HusmanHagberg,125.4279013597073,Alvik
+2014-05-07,Ödmårdsvägen 18,Traneberg,Grön Hässelby,2,60,null,Lägenhet,1938,[Traneberg],2495000,155000,2650000,2147,Fastighetsbyrån,671.958996464646,Alvik
+2014-05-06,Kinnekullevägen 39,Traneberg,Grön Hässelby,1,39,3,Lägenhet,1937,[Traneberg],1795000,355000,2150000,2887,Svenska Mäklarhuset,270.3305326035073,Alvik
+2014-04-25,Tranebergsvägen 31,Traneberg,Grön Hässelby,1.5,40,null,Lägenhet,1935,[Traneberg],1795000,405000,2200000,2433,Fastighetsbyrån,297.726121917614,Alvik
+2014-04-25,Mössebergsvägen 17,Traneberg,Grön Hässelby,3,57,null,Lägenhet,1936,[Traneberg],2795000,405000,3200000,3111,Svenska Mäklarhuset,321.56858135586504,Alvik
+2014-04-18,Svartviksslingan 19,Traneberg,Grön Hässelby,3,68.5,1,Lägenhet,1986,[Minneberg],2875000,475000,3350000,3898,Erik Olsson Fastighetsförmedling,930.2490621532255,Alvik
+2014-04-17,Margretelundsvägen 78,Traneberg,Grön Hässelby,2,62,null,Lägenhet,1984,[Bromma Traneberg],2295000,325000,2620000,2983,Notar,720.2571395328805,Alvik
+2014-04-16,Hallebergsvägen 26,Traneberg,Grön Hässelby,2,55,null,Lägenhet,1938,[Traneberg],2695000,115000,2810000,2879,Fastighetsbyrån,551.6492599606352,Alvik
+2014-04-16,Kinnekullevägen 20,Traneberg,Grön Hässelby,3.5,77,3,Lägenhet,1936,[Bromma Traneberg],3990000,410000,4400000,3773,HusmanHagberg,244.1389342087791,Alvik
+2014-04-11,Svartviksslingan 83,Traneberg,Grön Hässelby,3,68.5,null,Lägenhet,1985,[Minneberg],2995000,235000,3230000,4006,Fastighetsbyrån,865.7560879296303,Alvik
+2014-04-10,Mössebergsvägen 9,Traneberg,Grön Hässelby,2,37,3,Lägenhet,1938,[Bromma],1795000,245000,2040000,2580,Erik Olsson Fastighetsförmedling,296.8258482601091,Alvik
+2014-04-10,Porfyrvägen 5,Traneberg,Grön Hässelby,3,88,3,Lägenhet,null,[Traneberg],3975000,-185000,3790000,4521,Svensk Fastighetsförmedling,427.97927404816454,Alvik
+2014-04-09,Tranebergsvägen 27,Traneberg,Grön Hässelby,2,58,null,Lägenhet,1936,[Traneberg],2495000,255000,2750000,2802,Fastighetsbyrån,335.9080683171341,Alvik
+2014-04-09,Tranebergsvägen 56,Traneberg,Grön Hässelby,2,53,1,Lägenhet,1935,[Bromma Traneberg],1995000,525000,2520000,2645,HusmanHagberg,132.1776330626887,Alvik
+2014-04-04,Svartviksslingan 86,Traneberg,Grön Hässelby,2.5,62,null,Lägenhet,1985,[Bromma],1995000,215000,2210000,3016,Svenska Mäklarhuset,791.1705947028471,Alvik
+2014-04-04,Svartviksslingan 25,Traneberg,Grön Hässelby,3,77.5,1,Lägenhet,1986,[Minneberg],3495000,-195000,3300000,4172,Svensk Fastighetsförmedling,984.780695748753,Alvik
+2014-04-03,Kebnekaisevägen 6,Traneberg,Grön Hässelby,2,56,null,Lägenhet,1939,[Traneberg],1995000,0,1995000,3429,Svenska Mäklarhuset,616.3335328515562,Alvik
+2014-04-03,Svartviksslingan 87,Traneberg,Grön Hässelby,3,75.5,null,Lägenhet,1985,[Minneberg],3195000,580000,3775000,4399,Fastighetsbyrån,826.6740849429116,Alvik
+2014-04-02,Tranebergsvägen 41,Traneberg,Grön Hässelby,1,45,null,Lägenhet,1939,[Bromma Traneberg],1495000,605000,2100000,2804,Notar,134.3747329458265,Alvik
+2014-04-02,Kinnekullevägen 19,Traneberg,Grön Hässelby,2,60,0.5,Lägenhet,1935,[Bromma Traneberg],2575000,25000,2600000,3249,Notar,211.14323358518286,Alvik
+2014-03-26,Tranebergsvägen 8,Traneberg,Grön Hässelby,3,54,2,Lägenhet,null,[Traneberg],2495000,215000,2710000,3021,Svensk Fastighetsförmedling,608.6522360440442,Alvik
+2014-03-26,Svartviksslingan 102,Traneberg,Grön Hässelby,2,59.5,4,Lägenhet,null,[Minneberg],1995000,815000,2810000,3651,Svensk Fastighetsförmedling,806.4422140599221,Alvik
+2014-03-20,Margretelundsvägen 76,Traneberg,Grön Hässelby,3,74,null,Lägenhet,1984,[Traneberg],3095000,325000,3420000,3462,Svenska Mäklarhuset,474.90924532174967,Alvik
+2014-03-13,Mössebergsvägen 16,Traneberg,Grön Hässelby,1,38,null,Lägenhet,1936,[Bromma],1495000,255000,1750000,2479,Erik Olsson Fastighetsförmedling,356.2928845156984,Alvik
+2014-03-12,Åkerhielmsgatan 24,Traneberg,Grön Hässelby,2,65,2,Lägenhet,1929,[Bromma],2790000,0,2790000,4162,Erik Olsson Fastighetsförmedling,424.9358396739927,Stora mossen
+2014-03-12,Svartviksslingan 49,Traneberg,Grön Hässelby,4,91,2,Lägenhet,1986,[Minneberg],3795000,415000,4210000,5099,Svensk Fastighetsförmedling,868.3697848703713,Alvik
+2014-03-06,Margretelundsvägen 66,Traneberg,Grön Hässelby,2.5,46,3,Lägenhet,1937,[Bromma Traneberg],1995000,330000,2325000,2100,HusmanHagberg,674.40623173571,Alvik
+2014-03-03,Kinnekullevägen 42,Traneberg,Grön Hässelby,1,38,null,Lägenhet,1938,[Traneberg],1850000,130000,1980000,3148,Svenska Mäklarhuset,353.957721974131,Alvik
+2014-02-23,Margretelundsvägen 76,Traneberg,Grön Hässelby,3,74,null,Lägenhet,1984,[Alvik],2995000,155000,3150000,3462,SthlmFast,474.90924532174967,Alvik
+2014-02-20,Tranebergsvägen 22,Traneberg,Grön Hässelby,1,41,3,Lägenhet,1935,[Bromma Traneberg],1895000,355000,2250000,1607,HusmanHagberg,331.43140468063774,Alvik
+2014-02-20,Mössebergsvägen 11,Traneberg,Grön Hässelby,3,56,null,Lägenhet,1938,[Traneberg],2395000,435000,2830000,3638,Fastighetsbyrån,296.5258869861024,Alvik
+2014-02-19,Kinnekullevägen 40,Traneberg,Grön Hässelby,1,38,2,Lägenhet,1938,[Traneberg],1695000,255000,1950000,3148,Svenska Mäklarhuset,335.63094598164156,Alvik
+2014-02-18,Vidängsvägen 37,Traneberg,Grön Hässelby,2,52,null,Lägenhet,1938,[Traneberg],1950000,350000,2300000,2922,Svensk Fastighetsförmedling,513.7267644865026,Alvik
+2014-02-13,Kinnekullevägen 37,Traneberg,Grön Hässelby,1.5,39,2,Lägenhet,1937,[Traneberg],1895000,235000,2130000,2950,Svenska Mäklarhuset,262.31681079070614,Alvik
+2014-02-13,Vidängsvägen 51A,Traneberg,Grön Hässelby,1,37,null,Lägenhet,1938,[Traneberg],1650000,30000,1680000,1987,Svensk Fastighetsförmedling,677.1250158356595,Alvik
+2014-02-12,Svartviksslingan 84,Traneberg,Grön Hässelby,3,77.5,null,Lägenhet,1987,[Minneberg],2995000,215000,3210000,4532,Fastighetsbyrån,783.2452386532473,Alvik
+2014-02-10,Tranebergsvägen 101,Traneberg,Grön Hässelby,2,53.5,2,Lägenhet,1945,[Bromma Traneberg],2295000,155000,2450000,3131,Notar,468.18340411413527,Alvik
+2014-02-07,Margretelundsvägen 26,Traneberg,Grön Hässelby,2,45,1,Lägenhet,1938,[Traneberg],1695000,175000,1870000,2493,Länsförsäkringar Fastighetsförmedling,415.73032570955183,Alvik
+2014-02-03,Nipfjällsvägen 10,Traneberg,Grön Hässelby,3,75,2,Lägenhet,1984,[Traneberg],3195000,-35000,3160000,2965,Svenska Mäklarhuset,666.1898913827878,Alvik
+2014-01-29,Vidängsvägen 49,Traneberg,Grön Hässelby,2,39,3,Lägenhet,1939,[Bromma],1795000,0,1795000,2662,Erik Olsson Fastighetsförmedling,664.7077572707688,Alvik
+2014-01-27,Mössebergsvägen 19,Traneberg,Grön Hässelby,2,40,1,Lägenhet,1936,[Traneberg],1695000,475000,2170000,2132,BOSTHLM,330.5368277814997,Alvik
+2014-01-24,Hoburgsstigen 12,Traneberg,Grön Hässelby,2,46,2,Lägenhet,1939,[Bromma Traneberg],2095000,10000,2105000,2122,Notar,689.4690872411564,Alvik
+2014-01-22,Svartviksslingan 69,Traneberg,Grön Hässelby,2,63,3,Lägenhet,1985,[Bromma Minneberg],2475000,75000,2550000,3733,Notar,950.7403987343533,Alvik
+2014-01-22,Kinnekullevägen 23,Traneberg,Grön Hässelby,2,51,null,Lägenhet,1935,[Traneberg],1995000,230000,2225000,3249,Fastighetsbyrån,209.18176449234375,Alvik
+2014-01-17,Svartviksslingan 25,Traneberg,Grön Hässelby,3,77.5,null,Lägenhet,1986,[Minneberg],3295000,355000,3650000,4382,Svensk Fastighetsförmedling,984.780695748753,Alvik
+2014-01-15,Svartviksslingan 73,Traneberg,Grön Hässelby,3,79.5,null,Lägenhet,1986,[Minneberg],3795000,805000,4600000,4557,Svensk Fastighetsförmedling,928.7379894651419,Alvik
+2014-01-15,Mössebergsvägen 22,Traneberg,Grön Hässelby,4,92,1,Lägenhet,1936,[Bromma],3995000,105000,4100000,4783,Erik Olsson Fastighetsförmedling,380.0995891137675,Alvik
+2014-01-15,Fältspatvägen 5A,Traneberg,Grön Hässelby,2,41,null,Lägenhet,1939,[Traneberg],1795000,265000,2060000,2632,Fastighetsbyrån,617.6211998476214,Alvik
+2014-01-14,Margretelundsvägen 84,Traneberg,Grön Hässelby,3,74,3,Lägenhet,1984,[Traneberg],2650000,260000,2910000,3461,Svensk Fastighetsförmedling,735.2048847539269,Alvik
+2014-01-07,Ödmårdsvägen 7,Traneberg,Grön Hässelby,2,41,null,Lägenhet,1942,[Traneberg],1695000,345000,2040000,3044,Svenska Mäklarhuset,646.5405103303721,Alvik
+2013-12-12,Margretelundsvägen 82,Traneberg,Grön Hässelby,2,62,3,Lägenhet,1984,[Bromma Traneberg],2395000,135000,2530000,2954,Notar,737.4534624961555,Alvik
+2013-12-11,Mössebergsvägen 22,Traneberg,Grön Hässelby,4,92,null,Lägenhet,1937,[Traneberg],4175000,25000,4200000,4783,Fastighetsbyrån,380.0995891137675,Alvik
+2013-12-06,Vidängsvägen 35,Traneberg,Grön Hässelby,2,52,null,Lägenhet,1938,[Traneberg],2195000,165000,2360000,2922,Svensk Fastighetsförmedling,503.50677610761176,Alvik
+2013-12-06,Svartviksslingan 82,Traneberg,Grön Hässelby,4,90.5,null,Lägenhet,1986,[Minneberg],3595000,105000,3700000,5077,Svensk Fastighetsförmedling,757.2802889737371,Alvik
+2013-12-05,Margretelundsvägen 24,Traneberg,Grön Hässelby,2,45,3,Lägenhet,1938,[Traneberg],1895000,20000,1915000,2493,Länsförsäkringar Fastighetsförmedling,414.41669756456866,Alvik
+2013-12-04,Svartviksslingan 116,Traneberg,Grön Hässelby,2,63,6,Lägenhet,1984,[Bromma Minneberg],2395000,125000,2520000,3626,HusmanHagberg,802.398197945659,Alvik
+2013-11-28,Margretelundsvägen 64,Traneberg,Grön Hässelby,2,46,2,Lägenhet,1937,[Bromma],2075000,75000,2150000,1948,Widerlöv & Co,665.0436434197428,Alvik
+2013-11-28,Margretelundsvägen 80,Traneberg,Grön Hässelby,3,74,null,Lägenhet,1984,[Traneberg],2650000,280000,2930000,3427,Fastighetsbyrån,728.7261749290826,Alvik
+2013-11-22,Margretelundsvägen 78,Traneberg,Grön Hässelby,2,62,3,Lägenhet,1984,[Bromma Traneberg],2195000,55000,2250000,2954,Notar,720.2571395328805,Alvik
+2013-11-21,Svartviksslingan 21,Traneberg,Grön Hässelby,2,59.5,1,Lägenhet,1986,[Bromma],2350000,-50000,2300000,3445,Mäklarhuset,966.5246646027681,Alvik
+2013-11-21,Svartviksslingan 75,Traneberg,Grön Hässelby,2,62.5,1,Lägenhet,1986,[Bromma],2290000,385000,2675000,3508,Erik Olsson Fastighetsförmedling,918.2143588939263,Kristineberg
+2013-11-20,Kebnekaisevägen 18,Traneberg,Grön Hässelby,2,56,2,Lägenhet,1939,[Bromma Traneberg],2395000,-120000,2275000,3450,HusmanHagberg,652.7110794047514,Alvik
+2013-11-17,Svartviksslingan 31,Traneberg,Grön Hässelby,3,75.5,2,Lägenhet,1985,[Bromma Minneberg],2995000,0,2995000,4256,HusmanHagberg,947.4188255199448,Alvik
+2013-11-15,Sulitelmavägen 37,Traneberg,Grön Hässelby,3,73,null,Lägenhet,1938,[Traneberg],3395000,675000,4070000,3406,Svensk Fastighetsförmedling,418.1565124718299,Alvik
+2013-11-15,Svartviksslingan 23,Traneberg,Grön Hässelby,4,90.5,null,Lägenhet,1986,[Minneberg],4095000,185000,4280000,5062,Svensk Fastighetsförmedling,995.2461150886961,Huvudsta
+2013-11-14,Kinnekullevägen 41,Traneberg,Grön Hässelby,1,39,null,Lägenhet,null,[Bromma Traneberg],1895000,55000,1950000,2887,Notar,278.673089215318,Alvik
+2013-11-13,Kebnekaisevägen 20,Traneberg,Grön Hässelby,2,54,null,Lägenhet,1939,[Traneberg],1875000,105000,1980000,3507,SthlmFast,617.8051019670885,Alvik
+2013-11-11,Hoburgsstigen 12,Traneberg,Grön Hässelby,2,46,3,Lägenhet,1937,[Traneberg],2095000,130000,2225000,1949,Svenska Mäklarhuset,689.4690872411564,Alvik
+2013-11-08,Sulitelmavägen 37,Traneberg,Grön Hässelby,3,73,4,Lägenhet,1938,[Bromma Traneberg],3295000,820000,4115000,3407,Notar,418.1565124718299,Alvik
+2013-11-05,Svartviksslingan 104,Traneberg,Grön Hässelby,1.5,49.5,null,Lägenhet,1985,[Bromma Minneberg],1650000,50000,1700000,2769,Notar,806.6077234884901,Alvik
+2013-11-02,Minnebergsvägen 12,Traneberg,Grön Hässelby,2,52.5,2,Lägenhet,1938,[Traneberg],2375000,-45000,2330000,2599,Länsförsäkringar Fastighetsförmedling,487.8985495332718,Alvik
+2013-10-31,Kinnekullevägen 29,Traneberg,Grön Hässelby,2,50.5,null,Lägenhet,1936,[Traneberg],2295000,0,2295000,3198,Fastighetsbyrån,220.27333489047138,Alvik
+2013-10-30,Svartviksslingan 94,Traneberg,Grön Hässelby,3.5,79.5,null,Lägenhet,1986,[Bromma Minneberg],2790000,190000,2980000,4294,HusmanHagberg,829.2937459412782,Alvik
+2013-10-30,Tranebergsvägen 58,Traneberg,Grön Hässelby,1.5,40,2,Lägenhet,1935,[Traneberg],1895000,255000,2150000,2152,Svenska Mäklarhuset,140.7629509756719,Alvik
+2013-10-28,Svartviksslingan 41,Traneberg,Grön Hässelby,3,77.5,null,Lägenhet,1985,[Minneberg],3095000,205000,3300000,4423,Fastighetsbyrån,908.9012586592095,Alvik
+2013-10-26,Svartviksslingan 94,Traneberg,Grön Hässelby,3,79.5,null,Lägenhet,1985,[Bromma Minneberg],2995000,275000,3270000,4745,HusmanHagberg,829.2937459412782,Alvik
+2013-10-24,Porfyrvägen 28,Traneberg,Grön Hässelby,3,74,null,Lägenhet,1939,[Traneberg],3695000,455000,4150000,4270,Fastighetsbyrån,557.402192735787,Alvik
+2013-10-22,Svartviksslingan 29,Traneberg,Grön Hässelby,4,75.5,null,Lägenhet,1986,[Minneberg],3375000,-125000,3250000,4338,Svensk Fastighetsförmedling,954.2348093734884,Alvik
+2013-10-22,Ödmårdsvägen 16,Traneberg,Grön Hässelby,3,85,null,Lägenhet,1938,[Traneberg],3795000,55000,3850000,2757,Fastighetsbyrån,668.163809044306,Alvik
+2013-10-16,Gesundaplan 50,Traneberg,Grön Hässelby,2,60,null,Lägenhet,1937,[Traneberg],2450000,-150000,2300000,3043,Svensk Fastighetsförmedling,450.1905204512227,Alvik
+2013-10-16,Svartviksslingan 33,Traneberg,Grön Hässelby,4,90.5,null,Lägenhet,1986,[Minneberg],4095000,1355000,5450000,5180,Svensk Fastighetsförmedling,967.1401445185932,Alvik
+2013-10-12,Mössebergsvägen 28,Traneberg,Grön Hässelby,4,83,null,Lägenhet,1938,[Traneberg],3495000,555000,4050000,4955,Fastighetsbyrån,427.43417783650415,Alvik
+2013-10-11,Hunnebergsvägen 5,Traneberg,Grön Hässelby,2,36,3,Lägenhet,1935,[Traneberg],1895000,305000,2200000,2235,Svenska Mäklarhuset,176.50818250126264,Alvik
+2013-10-11,Kebnekaisevägen 8,Traneberg,Grön Hässelby,2,40,null,Lägenhet,1939,[Traneberg],1795000,-20000,1775000,2628,Fastighetsbyrån,606.1727816948178,Alvik
+2013-10-11,Hunnebergsvägen 13,Traneberg,Grön Hässelby,2,51,null,Lägenhet,1935,[Bromma Traneberg],2450000,270000,2720000,2734,Notar,228.98846593586364,Alvik
+2013-10-10,Kinnekullevägen 35,Traneberg,Grön Hässelby,2,50,null,Lägenhet,1935,[Traneberg],2195000,10000,2205000,2970,Fastighetsbyrån,241.42324876681135,Alvik
+2013-10-10,Svartviksslingan 37,Traneberg,Grön Hässelby,1.5,47.5,null,Lägenhet,1984,[Bromma Minneberg],1695000,115000,1810000,2569,HusmanHagberg,956.0202412900506,Alvik
+2013-10-08,Tranebergsvägen 54,Traneberg,Grön Hässelby,1,40,null,Lägenhet,1934,[Bromma Traneberg],1845000,265000,2110000,1859,HusmanHagberg,122.28539512371685,Alvik
+2013-10-04,Tranebergsvägen 9,Traneberg,Grön Hässelby,1,33,null,Lägenhet,1938,[Bromma Traneberg],1595000,40000,1635000,1942,HusmanHagberg,604.5029589760577,Alvik
+2013-10-04,Tranebergsvägen 10,Traneberg,Grön Hässelby,2.5,55,null,Lägenhet,1938,[Bromma],2395000,0,2395000,2952,Bjurfors,576.6349751476087,Alvik
+2013-10-02,Hunnebergsvägen 16,Traneberg,Grön Hässelby,1.5,37,null,Lägenhet,1935,[Traneberg],1695000,105000,1800000,2208,Fastighetsbyrån,202.88923083151525,Alvik
+2013-10-01,Mössebergsvägen 26,Traneberg,Grön Hässelby,3,66,null,Lägenhet,1937,[Traneberg],2695000,-95000,2600000,3435,Fastighetsbyrån,402.15636034660236,Alvik
+2013-09-27,Svartviksslingan 69,Traneberg,Grön Hässelby,2.5,63,null,Lägenhet,1986,[Minneberg],2395000,-45000,2350000,3700,Fastighetsbyrån,950.7403987343533,Alvik
+2013-09-27,Sareksvägen 5,Traneberg,Grön Hässelby,2,49,null,Lägenhet,1938,[Bromma Traneberg],1890000,20000,1910000,2507,Notar,284.21552780552753,Alvik
+2013-09-26,Porfyrvägen 5,Traneberg,Grön Hässelby,4,88,null,Lägenhet,1939,[Traneberg],3595000,-95000,3500000,4476,Svensk Fastighetsförmedling,427.97927404816454,Alvik
+2013-09-26,Vidängsvägen 16,Traneberg,Grön Hässelby,1,43,null,Lägenhet,1935,[Bromma Traneberg],1495000,20000,1515000,3443,Notar,214.54384224598044,Alvik
+2013-09-26,Mössebergsvägen 11,Traneberg,Grön Hässelby,2,37,null,Lägenhet,1938,[Traneberg],1850000,150000,2000000,2580,Fastighetsbyrån,296.5258869861024,Alvik
+2013-09-23,Gesundaplan 59,Traneberg,Grön Hässelby,2,46,null,Lägenhet,1937,[Bromma Traneberg],1995000,230000,2225000,2690,HusmanHagberg,511.27183393119424,Alvik
+2013-09-21,Sulitelmavägen 9,Traneberg,Grön Hässelby,2,36,3,Lägenhet,1938,[Bromma Traneberg],1795000,0,1795000,2690,Notar,414.51367345098004,Alvik
+2013-09-20,Porfyrvägen 9,Traneberg,Grön Hässelby,2,41,null,Lägenhet,1939,[Traneberg],1795000,115000,1910000,2759,Fastighetsbyrån,472.9361024442043,Alvik
+2013-09-13,Svartviksslingan 69,Traneberg,Grön Hässelby,2.5,63,null,Lägenhet,1986,[Minneberg],2595000,0,2595000,3665,Svensk Fastighetsförmedling,950.7403987343533,Alvik
+2013-09-13,Sulitelmavägen 23,Traneberg,Grön Hässelby,3,79,null,Lägenhet,1938,[Traneberg],3500000,200000,3700000,4362,Svensk Fastighetsförmedling,515.6929951591212,Alvik
+2013-09-11,Sareksvägen 13,Traneberg,Grön Hässelby,4,108,null,Lägenhet,null,[Traneberg],3500000,185000,3685000,5230,Svensk Fastighetsförmedling,361.8689295415457,Alvik
+2013-09-10,Tranebergsvägen 24,Traneberg,Grön Hässelby,2,48,null,Lägenhet,1935,[Bromma Traneberg],1995000,205000,2200000,2523,HusmanHagberg,313.115390001321,Alvik
+2013-09-10,Svartviksslingan 116,Traneberg,Grön Hässelby,2,63.5,null,Lägenhet,1984,[Bromma Minneberg],2295000,440000,2735000,3552,HusmanHagberg,802.398197945659,Alvik
+2013-09-09,Sareksvägen 2,Traneberg,Grön Hässelby,2,52,null,Lägenhet,1938,[Traneberg],2295000,-45000,2250000,3529,Svensk Fastighetsförmedling,295.09035616974126,Alvik
+2013-09-06,Svartviksslingan 102,Traneberg,Grön Hässelby,2.5,59.5,4,Lägenhet,1987,[Bromma],2295000,405000,2700000,3618,Svenska Mäklarhuset,806.4422140599221,Alvik
+2013-09-05,Svartviksvägen 19,Traneberg,Grön Hässelby,3,56,null,Lägenhet,1939,[Traneberg],2395000,175000,2570000,2544,Fastighetsbyrån,667.7914545128338,Alvik
+2013-09-05,Sareksvägen 14,Traneberg,Grön Hässelby,1,38,null,Lägenhet,1936,[Bromma Traneberg],1695000,275000,1970000,2271,Notar,369.44705082853164,Alvik
+2013-09-04,Sulitelmavägen 14B,Traneberg,Grön Hässelby,2,41.5,3,Lägenhet,null,[Bromma],1750000,300000,2050000,2903,Erik Olsson Fastighetsförmedling,438.48472343801023,Alvik
+2013-08-31,Tranebergsvägen 52,Traneberg,Grön Hässelby,2,55,null,Lägenhet,1934,[Bromma],2550000,110000,2660000,2757,Bjurfors,119.06481671982196,Alvik
+2013-08-31,Tranebergsvägen 52,Traneberg,Grön Hässelby,1,43,null,Lägenhet,1934,[Bromma],1950000,0,1950000,2111,Bjurfors,119.06481671982196,Alvik
+2013-08-29,Hallebergsvägen 28,Traneberg,Grön Hässelby,3,79,null,Lägenhet,1938,[Traneberg],2995000,1020000,4015000,3942,Fastighetsbyrån,547.7186000223674,Alvik
+2013-08-26,Hunnebergsvägen 4,Traneberg,Grön Hässelby,1,35,3,Lägenhet,1934,[Bromma Traneberg],1795000,155000,1950000,2030,Notar,170.01076548274966,Alvik
+2013-08-23,Gesundaplan 57,Traneberg,Grön Hässelby,3,60,null,Lägenhet,1936,[Traneberg],2450000,170000,2620000,3579,Svensk Fastighetsförmedling,492.6092452361397,Alvik
+2013-08-23,Tranebergsvägen 40,Traneberg,Grön Hässelby,3,75,2,Lägenhet,1939,[Bromma],3175000,0,3175000,4563,Mäklarhuset,171.97261568643125,Alvik
+2013-08-23,Svartviksslingan 83,Traneberg,Grön Hässelby,3,75.5,null,Lägenhet,1986,[Minneberg],3275000,275000,3550000,4440,Svensk Fastighetsförmedling,865.7560879296303,Alvik
+2013-08-23,Mössebergsvägen 22,Traneberg,Grön Hässelby,3,84,2,Lägenhet,null,[Bromma],3495000,305000,3800000,4395,Erik Olsson Fastighetsförmedling,380.0995891137675,Alvik
+2013-08-22,Hunnebergsvägen 2,Traneberg,Grön Hässelby,1,36,2,Lägenhet,1936,[Bromma Traneberg],1695000,135000,1830000,2502,Notar,146.7958179546453,Alvik
+2013-08-21,Kinnekullevägen 19,Traneberg,Grön Hässelby,2,60,null,Lägenhet,1935,[Bromma Traneberg],2195000,0,2195000,3822,HusmanHagberg,211.14323358518286,Alvik
+2013-08-20,Sareksvägen 8,Traneberg,Grön Hässelby,2,49,null,Lägenhet,1937,[Traneberg],1750000,0,1750000,3420,Fastighetsbyrån,328.6330833726173,Alvik
+2013-08-17,Tranebergsvägen 42,Traneberg,Grön Hässelby,3,77,null,Lägenhet,1934,[Traneberg],3050000,-30000,3020000,4207,Estate Fastighetsbyrå AB,158.6727282668792,Alvik
+2013-08-16,Svartviksslingan 29,Traneberg,Grön Hässelby,3,72,null,Lägenhet,1986,[Bromma],2895000,205000,3100000,4097,Svenska Mäklarhuset,954.2348093734884,Alvik
+2013-08-16,Fältspatvägen 3,Traneberg,Grön Hässelby,2,54,2,Lägenhet,1939,[Bromma Traneberg],2295000,0,2295000,3437,HusmanHagberg,616.6446187916256,Alvik
+2013-08-15,Svartviksslingan 59,Traneberg,Grön Hässelby,3,75.5,3,Lägenhet,1985,[Minneberg],3215000,0,3215000,4315,BOSTHLM,895.1329667830582,Alvik
+2013-08-15,Ödmårdsvägen 16,Traneberg,Grön Hässelby,2,47,null,Lägenhet,1938,[Traneberg],2060000,0,2060000,1840,Svenska Mäklarhuset,668.163809044306,Alvik
+2013-08-14,Svartviksslingan 4,Traneberg,Grön Hässelby,4,91.5,null,Lägenhet,1987,[Traneberg],2595000,595000,3190000,5982,Fastighetsbyrån,443.73776807032664,Alvik
+2013-08-14,Kinnekullevägen 29,Traneberg,Grön Hässelby,2,43,null,Lägenhet,1936,[Traneberg],1895000,125000,2020000,2723,Fastighetsbyrån,220.27333489047138,Alvik
+2013-08-14,Svartviksslingan 19,Traneberg,Grön Hässelby,3,75.5,null,Lägenhet,1985,[Bromma Minneberg],2950000,-50000,2900000,4122,HusmanHagberg,930.2490621532255,Alvik
+2013-08-10,Svartviksslingan 51,Traneberg,Grön Hässelby,2,61.5,3,Lägenhet,1985,[Minneberg],2495000,255000,2750000,3672,Länsförsäkringar Fastighetsförmedling,844.3325534570391,Alvik
+2013-08-09,Gesundaplan 57,Traneberg,Grön Hässelby,2.5,60,2,Lägenhet,1937,[Bromma],2195000,365000,2560000,3579,Mäklarhuset,492.6092452361397,Alvik
+2013-08-08,Hunnebergsvägen 4,Traneberg,Grön Hässelby,1,36,2,Lägenhet,1934,[Bromma Traneberg],1795000,265000,2060000,2030,Notar,170.01076548274966,Alvik
+2013-08-08,Fältspatvägen 5A,Traneberg,Grön Hässelby,2,41,null,Lägenhet,1939,[Bromma Traneberg],1850000,30000,1880000,2632,Notar,617.6211998476214,Alvik
+2013-08-07,Kebnekaisevägen 20,Traneberg,Grön Hässelby,2,41,null,Lägenhet,1939,[Bromma Traneberg],1795000,105000,1900000,2528,HusmanHagberg,617.8051019670885,Alvik
+2013-08-07,Hallebergsvägen 25,Traneberg,Grön Hässelby,2.5,66,1,Lägenhet,1938,[Traneberg],2195000,215000,2410000,3763,Svenska Mäklarhuset,571.2408084773758,Alvik
+2013-07-31,Fältspatvägen 5B,Traneberg,Grön Hässelby,2,45,null,Lägenhet,1939,[Bromma Traneberg],1890000,10000,1900000,2880,Notar,617.9065091075018,Alvik
+2013-07-18,Mössebergsvägen 32,Traneberg,Grön Hässelby,2,61,null,Lägenhet,1938,[Bromma Traneberg],2695000,0,2695000,3640,Notar,453.30508207365637,Alvik
+2013-07-05,Mössebergsvägen 5,Traneberg,Grön Hässelby,3,69,null,Lägenhet,1938,[Bromma Traneberg],2795000,105000,2900000,4206,Notar,290.8530189634944,Alvik
+2013-07-04,Svartviksslingan 94,Traneberg,Grön Hässelby,2,63,null,Lägenhet,1986,[Minneberg],2595000,255000,2850000,3846,Svensk Fastighetsförmedling,829.2937459412782,Alvik
+2013-06-26,Kinnekullevägen 49,Traneberg,Grön Hässelby,2,52,null,Lägenhet,1936,[Bromma Traneberg],2195000,-35000,2160000,3175,Notar,363.3820719706334,Alvik
+2013-06-24,Sulitelmavägen 15,Traneberg,Grön Hässelby,3,65,3,Lägenhet,1938,[Traneberg],2695000,65000,2760000,3900,Svenska Mäklarhuset,455.57517450856085,Alvik
+2013-06-19,Svartviksslingan 67,Traneberg,Grön Hässelby,3,68.5,null,Lägenhet,1986,[Minneberg],3595000,0,3595000,4115,Fastighetsbyrån,968.786452238297,Alvik
+2013-06-17,Minnebergsvägen 23,Traneberg,Grön Hässelby,2,38,null,Lägenhet,1938,[Traneberg],1795000,0,1795000,2437,Fastighetsbyrån,564.8955672772469,Alvik
+2013-06-14,Tranebergsvägen 40,Traneberg,Grön Hässelby,3,74,null,Lägenhet,1939,[Bromma Traneberg],2695000,95000,2790000,4563,Notar,171.97261568643125,Alvik
+2013-06-14,Svartviksslingan 33,Traneberg,Grön Hässelby,4,108.5,null,Lägenhet,1985,[Bromma Minneberg],3800000,320000,4120000,5808,HusmanHagberg,967.1401445185932,Alvik
+2013-06-13,Svartviksslingan 41,Traneberg,Grön Hässelby,2,59.5,null,Lägenhet,1986,[Minneberg],2295000,115000,2410000,3363,Fastighetsbyrån,908.9012586592095,Alvik
+2013-06-12,Nipfjällsvägen 10,Traneberg,Grön Hässelby,2,62,null,Lägenhet,1984,[Bromma Traneberg],2245000,455000,2700000,2458,HusmanHagberg,666.1898913827878,Alvik
+2013-06-07,Svartviksslingan 102,Traneberg,Grön Hässelby,3,77.5,null,Lägenhet,1986,[Minneberg],2795000,5000,2800000,4583,Fastighetsbyrån,806.4422140599221,Alvik
+2013-06-06,Svartviksslingan 67,Traneberg,Grön Hässelby,4,91,null,Lägenhet,1986,[Minneberg],3995000,585000,4580000,5306,Fastighetsbyrån,968.786452238297,Alvik
+2013-06-05,Svartviksslingan 75,Traneberg,Grön Hässelby,3,77.5,5,Lägenhet,1985,[Bromma Minneberg],3650000,-155000,3495000,4499,Notar,918.2143588939263,Kristineberg
+2013-06-02,Porfyrvägen 28,Traneberg,Grön Hässelby,2,37,null,Lägenhet,1939,[Bromma Traneberg],1575000,225000,1800000,2135,Mäklarringen,557.402192735787,Alvik
+2013-06-01,Vidängsvägen 51B,Traneberg,Grön Hässelby,2,38,null,Lägenhet,null,[Bromma],1395000,245000,1640000,2055,BOSTHLM,678.1656781116219,Alvik
+2013-06-01,Sulitelmavägen 37,Traneberg,Grön Hässelby,2,51,null,Lägenhet,1938,[Traneberg],2250000,0,2250000,2380,Svensk Fastighetsförmedling,418.1565124718299,Alvik
+2013-05-31,Mössebergsvägen 14,Traneberg,Grön Hässelby,3,75,null,Lägenhet,1936,[Bromma Traneberg],3195000,65000,3260000,4321,HusmanHagberg,350.8988032661248,Alvik
+2013-05-30,Tranebergsvägen 46,Traneberg,Grön Hässelby,1,43,null,Lägenhet,1934,[Traneberg],1895000,445000,2340000,1870,Svensk Fastighetsförmedling,125.4279013597073,Alvik
+2013-05-30,Hunnebergsvägen 13,Traneberg,Grön Hässelby,2,51,null,Lägenhet,1935,[Bromma Traneberg],2300000,310000,2610000,2734,Notar,228.98846593586364,Alvik
+2013-05-23,Vidängsvägen 51A,Traneberg,Grön Hässelby,2,39,null,Lägenhet,null,[Bromma],1750000,20000,1770000,2094,BOSTHLM,677.1250158356595,Alvik
+2013-05-23,Fältspatvägen 3,Traneberg,Grön Hässelby,2,54,null,Lägenhet,1939,[Traneberg],2250000,0,2250000,3437,Fastighetsbyrån,616.6446187916256,Alvik
+2013-05-22,Tranebergsvägen 58,Traneberg,Grön Hässelby,2,54,0.5,Lägenhet,1935,[Traneberg],1995000,140000,2135000,2524,Svenska Mäklarhuset,140.7629509756719,Alvik
+2013-05-17,Svartviksslingan 55,Traneberg,Grön Hässelby,3,68.5,null,Lägenhet,1986,[Minneberg],2750000,-50000,2700000,3964,Svensk Fastighetsförmedling,867.3905417226591,Alvik
+2013-05-16,Nipfjällsvägen 10,Traneberg,Grön Hässelby,2.5,62,null,Lägenhet,1984,[Traneberg],2195000,55000,2250000,2458,Fastighetsbyrån,666.1898913827878,Alvik
+2013-05-16,Svartviksslingan 33,Traneberg,Grön Hässelby,3,79.5,null,Lägenhet,1986,[Minneberg],3495000,205000,3700000,4440,Svensk Fastighetsförmedling,967.1401445185932,Alvik
+2013-05-14,Svartviksslingan 45,Traneberg,Grön Hässelby,2,61.5,null,Lägenhet,1986,[Minneberg],2495000,-45000,2450000,3369,Svensk Fastighetsförmedling,889.4348371985947,Alvik
+2013-05-14,Sulitelmavägen 37,Traneberg,Grön Hässelby,3,73,null,Lägenhet,1938,[Traneberg],3695000,-295000,3400000,3406,Svensk Fastighetsförmedling,418.1565124718299,Alvik
+2013-05-10,Tranebergsplan 6,Traneberg,Grön Hässelby,1,39,null,Lägenhet,1935,[Bromma Traneberg],1495000,-100000,1395000,3270,HusmanHagberg,208.65056781007226,Alvik
+2013-05-09,Mössebergsvägen 22,Traneberg,Grön Hässelby,3,82,null,Lägenhet,1937,[Traneberg],3295000,175000,3470000,4263,Fastighetsbyrån,380.0995891137675,Alvik
+2013-05-09,Hunnebergsvägen 7,Traneberg,Grön Hässelby,2,36,null,Lägenhet,1935,[Traneberg],1795000,100000,1895000,2631,Fastighetsbyrån,185.22714091031054,Alvik
+2013-05-09,Margretelundsvägen 84,Traneberg,Grön Hässelby,2,62,3,Lägenhet,1984,[Traneberg],2395000,205000,2600000,2954,Länsförsäkringar Fastighetsförmedling,735.2048847539269,Alvik
+2013-05-03,Fältspatvägen 3,Traneberg,Grön Hässelby,2,54,null,Lägenhet,1939,[Bromma Traneberg],2250000,-150000,2100000,3437,SkandiaMäklarna,616.6446187916256,Alvik
+2013-05-01,Tranebergsvägen 27,Traneberg,Grön Hässelby,2.5,57,null,Lägenhet,1936,[Traneberg],2195000,225000,2420000,2754,Fastighetsbyrån,335.9080683171341,Alvik
+2013-04-29,Svartviksslingan 39,Traneberg,Grön Hässelby,2.5,64.5,null,Lägenhet,1986,[Bromma Minneberg],2495000,30000,2525000,3610,HusmanHagberg,924.0477056403829,Alvik
+2013-04-27,Sareksvägen 2,Traneberg,Grön Hässelby,3,49,0.5,Lägenhet,1937,[Traneberg],1895000,0,1895000,3420,Svenska Mäklarhuset,295.09035616974126,Alvik
+2013-04-26,Kinnekullevägen 49,Traneberg,Grön Hässelby,2,52,null,Lägenhet,1936,[Bromma Traneberg],2495000,255000,2750000,3175,Notar,363.3820719706334,Alvik
+2013-04-26,Mössebergsvägen 7,Traneberg,Grön Hässelby,2,38,null,Lägenhet,1938,[Traneberg],1650000,200000,1850000,2649,Svensk Fastighetsförmedling,292.8169348713027,Alvik
+2013-04-26,Sareksvägen 3,Traneberg,Grön Hässelby,2,51,1,Lägenhet,1938,[Alvik],2250000,0,2250000,2619,Svenska Mäklarhuset,270.63906643036773,Alvik
+2013-04-25,Mössebergsvägen 13,Traneberg,Grön Hässelby,2.5,55,null,Lägenhet,1938,[Bromma Traneberg],1995000,5000,2000000,3573,HusmanHagberg,300.64828658444696,Alvik
+2013-04-20,Kinnekullevägen 35,Traneberg,Grön Hässelby,2,50,null,Lägenhet,1935,[Traneberg],2195000,115000,2310000,2970,Fastighetsbyrån,241.42324876681135,Alvik
+2013-04-20,Porfyrvägen 9,Traneberg,Grön Hässelby,2,52.5,null,Lägenhet,1939,[Traneberg],2150000,350000,2500000,3129,Fastighetsbyrån,472.9361024442043,Alvik
+2013-04-17,Hunnebergsvägen 11,Traneberg,Grön Hässelby,2,51,null,Lägenhet,1935,[Bromma Traneberg],2495000,210000,2705000,2734,Notar,216.08291159058933,Alvik
+2013-04-15,Kinnekullevägen 32,Traneberg,Grön Hässelby,1,38,null,Lägenhet,1936,[Bromma Traneberg],1695000,125000,1820000,2747,HusmanHagberg,285.97877133540516,Alvik
+2013-04-10,Kinnekullevägen 42,Traneberg,Grön Hässelby,1,35,null,Lägenhet,1938,[Traneberg],1495000,115000,1610000,2837,Fastighetsbyrån,353.957721974131,Alvik
+2013-04-08,Sulitelmavägen 14B,Traneberg,Grön Hässelby,2,41.5,2,Lägenhet,1940,[Traneberg],1695000,215000,1910000,2903,Svenska Mäklarhuset,438.48472343801023,Alvik
+2013-04-08,Kebnekaisevägen 10,Traneberg,Grön Hässelby,2.5,56,2,Lägenhet,1939,[Traneberg],1995000,55000,2050000,3429,Svenska Mäklarhuset,598.1681384233742,Alvik
+2013-04-06,Gesundaplan 57,Traneberg,Grön Hässelby,2.5,60,null,Lägenhet,1937,[Traneberg],2195000,25000,2220000,3579,Fastighetsbyrån,492.6092452361397,Alvik
+2013-04-03,Hallebergsvägen 18,Traneberg,Grön Hässelby,3,66,null,Lägenhet,1938,[Traneberg],2795000,90000,2885000,3732,Fastighetsbyrån,522.8124254720701,Alvik
+2013-03-28,Margretelundsvägen 84,Traneberg,Grön Hässelby,3,75,3,Lägenhet,1984,[Traneberg],2895000,155000,3050000,3465,Länsförsäkringar Fastighetsförmedling,735.2048847539269,Alvik
+2013-03-28,Ödmårdsvägen 1,Traneberg,Grön Hässelby,3,60,null,Lägenhet,1937,[Bromma Traneberg],2395000,100000,2495000,2501,HusmanHagberg,651.4148236733622,Alvik
+2013-03-28,Svartviksslingan 35,Traneberg,Grön Hässelby,3,75.5,null,Lägenhet,null,[Minneberg],2850000,100000,2950000,4089,Länsförsäkringar Fastighetsförmedling,972.8125961534407,Alvik
+2013-03-27,Kinnekullevägen 19,Traneberg,Grön Hässelby,2,60,null,Lägenhet,1935,[Traneberg],2395000,0,2395000,3823,Fastighetsbyrån,211.14323358518286,Alvik
+2013-03-23,Ödmårdsvägen 16,Traneberg,Grön Hässelby,3,85,null,Lägenhet,1938,[Traneberg],3795000,205000,4000000,2757,Fastighetsbyrån,668.163809044306,Alvik
+2013-03-23,Kinnekullevägen 36,Traneberg,Grön Hässelby,1.5,38,null,Lägenhet,1936,[Bromma Traneberg],1550000,150000,1700000,2747,Notar,300.31874955977196,Alvik
+2013-03-23,Hallebergsvägen 27,Traneberg,Grön Hässelby,2,61,null,Lägenhet,1938,[Bromma Traneberg],2375000,275000,2650000,3478,SkandiaMäklarna,590.1047050951396,Alvik
+2013-03-21,Kebnekaisevägen 5,Traneberg,Grön Hässelby,2,43,null,Lägenhet,1938,[Bromma Traneberg],1695000,205000,1900000,1933,HusmanHagberg,556.3217579575861,Alvik
+2013-03-20,Kinnekullevägen 36,Traneberg,Grön Hässelby,1,38,3,Lägenhet,null,[Bromma],1700000,170000,1870000,2747,Erik Olsson Fastighetsförmedling,300.31874955977196,Alvik
+2013-03-20,Tranebergsvägen 46,Traneberg,Grön Hässelby,2,51.5,null,Lägenhet,1936,[Bromma Traneberg],2195000,380000,2575000,2222,HusmanHagberg,125.4279013597073,Alvik
+2013-03-19,Svartviksslingan 85,Traneberg,Grön Hässelby,2,61.5,null,Lägenhet,1986,[Minneberg],2295000,325000,2620000,3521,Svensk Fastighetsförmedling,830.865679977447,Alvik
+2013-03-18,Mössebergsvägen 15,Traneberg,Grön Hässelby,2.5,55,null,Lägenhet,1938,[Bromma Traneberg],2245000,-40000,2205000,3573,HusmanHagberg,336.48372791289887,Alvik
+2013-03-16,Svartviksslingan 73,Traneberg,Grön Hässelby,2,63,null,Lägenhet,1985,[Bromma Minneberg],2250000,0,2250000,3700,HusmanHagberg,928.7379894651419,Alvik
+2013-03-16,Svartviksslingan 51,Traneberg,Grön Hässelby,3,68.5,null,Lägenhet,1986,[Minneberg],2795000,105000,2900000,4047,Svensk Fastighetsförmedling,844.3325534570391,Alvik
+2013-03-16,Tranebergsvägen 54,Traneberg,Grön Hässelby,2,64,null,Lägenhet,1934,[Bromma Traneberg],2595000,-15000,2580000,2974,Notar,122.28539512371685,Alvik
+2013-03-14,Kebnekaisevägen 5,Traneberg,Grön Hässelby,2,43,2,Lägenhet,1938,[Traneberg],1695000,225000,1920000,1993,Svenska Mäklarhuset,556.3217579575861,Alvik
+2013-03-14,Svartviksslingan 33,Traneberg,Grön Hässelby,3,90.5,6,Lägenhet,1986,[Bromma],3750000,-150000,3600000,5229,Svenska Mäklarhuset,967.1401445185932,Alvik
+2013-03-13,Sulitelmavägen 35,Traneberg,Grön Hässelby,2,51,null,Lägenhet,1938,[Bromma Traneberg],2195000,25000,2220000,2380,HusmanHagberg,437.4182189781432,Alvik
+2013-03-13,Kinnekullevägen 23,Traneberg,Grön Hässelby,2.5,51,null,Lägenhet,1935,[Bromma Traneberg],2095000,235000,2330000,3250,HusmanHagberg,209.18176449234375,Alvik
+2013-03-13,Tranebergsvägen 38,Traneberg,Grön Hässelby,2,58,null,Lägenhet,1934,[Bromma Traneberg],2245000,0,2245000,2448,HusmanHagberg,194.65930318827745,Alvik
+2013-03-13,Tranebergsvägen 56,Traneberg,Grön Hässelby,1,30,null,Lägenhet,1935,[Bromma Traneberg],1495000,215000,1710000,1305,Fastighetsbyrån,132.1776330626887,Alvik
+2013-03-09,Sulitelmavägen 15,Traneberg,Grön Hässelby,3,65,null,Lägenhet,1938,[Traneberg],2595000,125000,2720000,3900,Edward & Partners Fastighetsmäklare AB,455.57517450856085,Alvik
+2013-03-05,Tranebergsvägen 22,Traneberg,Grön Hässelby,1.5,38,null,Lägenhet,1935,[Bromma Traneberg],1795000,125000,1920000,1550,HusmanHagberg,331.43140468063774,Alvik
+2013-02-28,Nipfjällsvägen 12,Traneberg,Grön Hässelby,3,75,null,Lägenhet,1984,[Bromma Traneberg],2845000,105000,2950000,2893,HusmanHagberg,694.7974012904605,Alvik
+2013-02-28,Kinnekullevägen 27,Traneberg,Grön Hässelby,2,51.5,null,Lägenhet,1935,[Traneberg],2275000,85000,2360000,3079,Svenska Mäklarhuset,212.44674447554343,Alvik
+2013-02-25,Svartviksslingan 112,Traneberg,Grön Hässelby,4,90.5,null,Lägenhet,null,[Bromma Minneberg],3400000,-50000,3350000,5002,Mäklarringen,809.765078139558,Alvik
+2013-02-22,Svartviksslingan 112,Traneberg,Grön Hässelby,4,90.5,null,Lägenhet,null,[Bromma Minneberg],3400000,220000,3620000,5002,Mäklarringen,809.765078139558,Alvik
+2013-02-19,Svartviksslingan 114,Traneberg,Grön Hässelby,2,59.5,3,Lägenhet,1985,[Minneberg],2475000,-100000,2375000,3391,Länsförsäkringar Fastighetsförmedling,806.9339240123677,Alvik
+2013-02-18,Svartviksslingan 39,Traneberg,Grön Hässelby,2,64.5,null,Lägenhet,1985,[Minneberg],2075000,-75000,2000000,3610,Fastighetsbyrån,924.0477056403829,Alvik
+2013-02-16,Tranebergsvägen 105,Traneberg,Grön Hässelby,2,53.5,null,Lägenhet,1945,[Bromma Traneberg],2100000,210000,2310000,2981,Notar,297.70850664392805,Stora mossen
+2013-02-16,Margretelundsvägen 82,Traneberg,Grön Hässelby,3,75,2,Lägenhet,1984,[Traneberg],2495000,-95000,2400000,3465,Svenska Mäklarhuset,737.4534624961555,Alvik
+2013-02-15,Käglestigen 6,Traneberg,Grön Hässelby,2,53,null,Lägenhet,1938,[Bromma Traneberg],1995000,225000,2220000,3835,HusmanHagberg,379.0957221997345,Alvik
+2013-02-15,Svartviksslingan 85,Traneberg,Grön Hässelby,2,61.5,null,Lägenhet,1986,[Minneberg],2395000,5000,2400000,3521,Svensk Fastighetsförmedling,830.865679977447,Alvik
+2013-02-11,Hoburgsstigen 12,Traneberg,Grön Hässelby,2,46,null,Lägenhet,1938,[Traneberg],1600000,170000,1770000,1949,Svensk Fastighetsförmedling,689.4690872411564,Alvik
+2013-02-04,Hallebergsvägen 27,Traneberg,Grön Hässelby,2,61,3,Lägenhet,null,[Bromma],2395000,105000,2500000,3478,Erik Olsson Fastighetsförmedling,590.1047050951396,Alvik
+2013-02-02,Porfyrvägen 9,Traneberg,Grön Hässelby,2,55,null,Lägenhet,1939,[Traneberg],2350000,100000,2450000,3370,Fastighetsbyrån,472.9361024442043,Alvik
+2013-02-02,Svartviksvägen 21,Traneberg,Grön Hässelby,3,56,null,Lägenhet,1939,[Traneberg],2495000,125000,2620000,2632,Fastighetsbyrån,672.3227119756921,Alvik
+2013-02-02,Svartviksslingan 116,Traneberg,Grön Hässelby,2,63,5,Lägenhet,null,[Bromma],2195000,0,2195000,3610,Erik Olsson Fastighetsförmedling,802.398197945659,Alvik
+2013-02-02,Svartviksvägen 21,Traneberg,Grön Hässelby,3,54,null,Lägenhet,1939,[Traneberg],2300000,120000,2420000,2588,Svensk Fastighetsförmedling,672.3227119756921,Alvik
+2013-01-31,Svartviksslingan 65,Traneberg,Grön Hässelby,3,68.5,null,Lägenhet,1986,[Minneberg],2195000,105000,2300000,4089,Svensk Fastighetsförmedling,949.1767914248327,Alvik
+2013-01-30,Svartviksslingan 19,Traneberg,Grön Hässelby,4,91,null,Lägenhet,1986,[Minneberg],3495000,155000,3650000,5149,Svensk Fastighetsförmedling,930.2490621532255,Alvik
+2013-01-29,Sulitelmavägen 8,Traneberg,Grön Hässelby,2,39,null,Lägenhet,1936,[Bromma Traneberg],1695000,105000,1800000,2560,HusmanHagberg,368.71672054502983,Alvik
+2013-01-28,Svartviksslingan 83,Traneberg,Grön Hässelby,4,91,null,Lägenhet,1986,[Minneberg],4100000,0,4100000,5206,Svensk Fastighetsförmedling,865.7560879296303,Alvik
+2013-01-27,Mössebergsvägen 14,Traneberg,Grön Hässelby,3,77,null,Lägenhet,1936,[Bromma Traneberg],3290000,-115000,3175000,4437,HusmanHagberg,350.8988032661248,Alvik
+2013-01-24,Svartviksslingan 82,Traneberg,Grön Hässelby,3.5,90.5,3,Lägenhet,1986,[Minneberg],3495000,245000,3740000,5221,Länsförsäkringar Fastighetsförmedling,757.2802889737371,Alvik
+2013-01-22,Svartviksslingan 65,Traneberg,Grön Hässelby,3,75.5,null,Lägenhet,1986,[Minneberg],2975000,0,2975000,4187,Svensk Fastighetsförmedling,949.1767914248327,Alvik
+2013-01-17,Sulitelmavägen 9,Traneberg,Grön Hässelby,2,36,3,Lägenhet,null,[Bromma],1695000,0,1695000,2690,Erik Olsson Fastighetsförmedling,414.51367345098004,Alvik
+2013-01-17,Hallebergsvägen 38,Traneberg,Grön Hässelby,2,54,3,Lägenhet,null,[Bromma],2250000,50000,2300000,2330,Erik Olsson Fastighetsförmedling,623.572193099839,Alvik
+2013-01-15,Gesundaplan 57,Traneberg,Grön Hässelby,1,40,3,Lägenhet,1937,[Traneberg],1595000,115000,1710000,2387,Länsförsäkringar Fastighetsförmedling,492.6092452361397,Alvik
+2013-01-10,Hallebergsvägen 20,Traneberg,Grön Hässelby,2,54,null,Lägenhet,1938,[Bromma Traneberg],1795000,225000,2020000,3143,SkandiaMäklarna,501.3795539049799,Alvik
+2013-01-10,Gesundaplan 57,Traneberg,Grön Hässelby,2,40,3,Lägenhet,1937,[Traneberg],1595000,0,1595000,2387,Länsförsäkringar Fastighetsförmedling,492.6092452361397,Alvik
+2013-01-09,Hunnebergsvägen 7,Traneberg,Grön Hässelby,1.5,33,1,Lägenhet,1935,[Traneberg],1595000,120000,1715000,2444,Länsförsäkringar Fastighetsförmedling,185.22714091031054,Alvik
+2012-12-27,Tranebergsvägen 120,Traneberg,Grön Hässelby,2,53.5,null,Lägenhet,1945,[Bromma Traneberg],2400000,50000,2450000,2844,Notar,288.6453236705034,Stora mossen
+2012-12-14,Grindstuvägen 39,Traneberg,Grön Hässelby,7,187,null,Villa,1905,[Traneberg],8200000,-600000,7600000,null,Länsförsäkringar Fastighetsförmedling,629.9990944047186,Alvik
+2012-12-13,Kebnekaisevägen 10,Traneberg,Grön Hässelby,2,40,2,Lägenhet,1939,[Traneberg],1595000,15000,1610000,2389,Svenska Mäklarhuset,598.1681384233742,Alvik
+2012-12-13,Vidängsvägen 49,Traneberg,Grön Hässelby,2,41.5,null,Lägenhet,1938,[Traneberg],1595000,80000,1675000,2806,Svenska Mäklarhuset,664.7077572707688,Alvik
+2012-12-13,Tranebergsvägen 27,Traneberg,Grön Hässelby,4,114,null,Lägenhet,1936,[Traneberg],4095000,-95000,4000000,4450,Fastighetsbyrån,335.9080683171341,Alvik
+2012-12-11,Hunnebergsvägen 5,Traneberg,Grön Hässelby,1,36,3,Lägenhet,1935,[Bromma],1600000,100000,1700000,2235,Mäklarhuset,176.50818250126264,Alvik
+2012-12-11,Hunnebergsvägen 5,Traneberg,Grön Hässelby,1,36,null,Lägenhet,null,[Traneberg],1600000,100000,1700000,440,Klippan Fastighetsförmedling,176.50818250126264,Alvik
+2012-11-30,Kinnekullevägen 27,Traneberg,Grön Hässelby,2,51,null,Lägenhet,1935,[Traneberg],2095000,205000,2300000,3079,Fastighetsbyrån,212.44674447554343,Alvik
+2012-11-30,Sareksvägen 4,Traneberg,Grön Hässelby,2,38,null,Lägenhet,1937,[Traneberg],1600000,100000,1700000,2771,Fastighetsbyrån,309.31469431105626,Alvik
+2012-11-28,Svartviksslingan 90,Traneberg,Grön Hässelby,3,77.5,null,Lägenhet,1986,[Minneberg],2975000,-65000,2910000,4546,Svensk Fastighetsförmedling,833.2456449280937,Alvik
+2012-11-23,Kebnekaisevägen 18,Traneberg,Grön Hässelby,2,41,null,Lägenhet,1939,[Bromma Traneberg],1600000,-20000,1580000,2528,Mäklarringen,652.7110794047514,Alvik
+2012-11-22,Tranebergsvägen 9,Traneberg,Grön Hässelby,2,48,1,Lägenhet,1939,[Traneberg],1995000,10000,2005000,2824,Länsförsäkringar Fastighetsförmedling,604.5029589760577,Alvik
+2012-11-21,Vidängsvägen 35,Traneberg,Grön Hässelby,5,130,3,Lägenhet,1938,[Traneberg],4000000,-250000,3750000,8153,Svensk Fastighetsförmedling,503.50677610761176,Alvik
+2012-11-16,Åkerhielmsgatan 24,Traneberg,Grön Hässelby,2,46,2,Lägenhet,1929,[Ulvsunda],1795000,15000,1810000,2944,Svensk Fastighetsförmedling,424.9358396739927,Stora mossen
+2012-11-16,Hoburgsstigen 14,Traneberg,Grön Hässelby,3,62,3,Lägenhet,1984,[Traneberg],2395000,20000,2415000,2757,Svenska Mäklarhuset,689.597285268433,Alvik
+2012-11-16,Tranebergsvägen 36,Traneberg,Grön Hässelby,2,39,1,Lägenhet,1934,[Traneberg],1650000,70000,1720000,2437,Länsförsäkringar Fastighetsförmedling,209.22010605816357,Alvik
+2012-11-15,Hoburgsstigen 14,Traneberg,Grön Hässelby,2,62,3,Lägenhet,1984,[Traneberg],2395000,20000,2415000,2757,Svenska Mäklarhuset,689.597285268433,Alvik
+2012-11-14,Ödmårdsvägen 7,Traneberg,Grön Hässelby,2,39,3,Lägenhet,1940,[Traneberg],1300000,210000,1510000,2895,Svenska Mäklarhuset,646.5405103303721,Alvik
+2012-11-12,Svartviksslingan 35,Traneberg,Grön Hässelby,2,56,1,Lägenhet,null,[Bromma],1725000,-75000,1650000,3190,Erik Olsson Fastighetsförmedling,972.8125961534407,Alvik
+2012-11-09,Minnebergsvägen 18,Traneberg,Grön Hässelby,2,45,null,Lägenhet,1940,[Bromma Traneberg],1795000,155000,1950000,2603,Fastighetsbyrån,526.0039125103771,Alvik
+2012-11-07,Ödmårdsvägen 7,Traneberg,Grön Hässelby,2,44,null,Lägenhet,1940,[Traneberg],1500000,110000,1610000,3266,Svenska Mäklarhuset,646.5405103303721,Alvik
+2012-11-07,Sareksvägen 1,Traneberg,Grön Hässelby,3,70,null,Lägenhet,1938,[Bromma Traneberg],3095000,55000,3150000,3666,Notar,256.6342278246156,Alvik
+2012-11-07,Ödmårdsvägen 1,Traneberg,Grön Hässelby,3,60,2.5,Lägenhet,1937,[Bromma],1850000,100000,1950000,2507,Mäklarhuset,651.4148236733622,Alvik
+2012-11-03,Vidängsvägen 47,Traneberg,Grön Hässelby,2,41,3,Lägenhet,null,[Traneberg],1495000,-30000,1465000,2776,Länsförsäkringar Fastighetsförmedling,656.0438587450806,Alvik
+2012-10-26,Svartviksslingan 35,Traneberg,Grön Hässelby,3,68.5,null,Lägenhet,1986,[Minneberg],3195000,20000,3215000,3979,Fastighetsbyrån,972.8125961534407,Alvik
+2012-10-26,Sulitelmavägen 7,Traneberg,Grön Hässelby,1.5,36,null,Lägenhet,1938,[Traneberg],1500000,20000,1520000,2690,Svenska Mäklarhuset,421.0583258673871,Alvik
+2012-10-25,Minnebergsvägen 19,Traneberg,Grön Hässelby,1.5,37,null,Lägenhet,1938,[Traneberg],1750000,-150000,1600000,2039,Fastighetsbyrån,537.5793198707352,Alvik
+2012-10-25,Vidängsvägen 47,Traneberg,Grön Hässelby,2,38.5,1,Lägenhet,null,[Traneberg],1650000,0,1650000,2418,Svenska Mäklarhuset,656.0438587450806,Alvik
+2012-10-23,Svartviksslingan 37,Traneberg,Grön Hässelby,2,61.5,null,Lägenhet,1985,[Minneberg],2200000,-100000,2100000,3610,Fastighetsbyrån,956.0202412900506,Alvik
+2012-10-20,Hallebergsvägen 28,Traneberg,Grön Hässelby,2,55,null,Lägenhet,1938,[Bromma Traneberg],2250000,150000,2400000,2879,Fastighetsbyrån,547.7186000223674,Alvik
+2012-10-11,Svartviksslingan 39,Traneberg,Grön Hässelby,2,64.5,null,Lägenhet,1985,[Minneberg],1995000,0,1995000,3610,Fastighetsbyrån,924.0477056403829,Alvik
+2012-10-10,Kinnekullevägen 22,Traneberg,Grön Hässelby,2.5,48,null,Lägenhet,1936,[Bromma Traneberg],2195000,105000,2300000,2672,Fastighetsbyrån,246.0785854150396,Alvik
+2012-10-09,Svartviksslingan 94,Traneberg,Grön Hässelby,2.5,63,null,Lägenhet,1986,[Bromma Minneberg],2395000,0,2395000,3829,Fastighetsbyrån,829.2937459412782,Alvik
+2012-10-07,Tranebergsvägen 52,Traneberg,Grön Hässelby,2,55,2,Lägenhet,1934,[Traneberg],2300000,200000,2500000,2757,Svensk Fastighetsförmedling,119.06481671982196,Alvik
+2012-09-27,Svartviksslingan 82,Traneberg,Grön Hässelby,3,90.5,null,Lägenhet,1986,[Minneberg],3495000,55000,3550000,5139,Svensk Fastighetsförmedling,757.2802889737371,Alvik
+2012-09-19,Sulitelmavägen 27,Traneberg,Grön Hässelby,3,75,null,Lägenhet,null,[Traneberg],2695000,555000,3250000,3351,Fastighetsbyrån,512.0476862829918,Alvik
+2012-09-18,Hunnebergsvägen 6,Traneberg,Grön Hässelby,2,38,2,Lägenhet,1934,[Bromma],1750000,-50000,1700000,2223,Mäklarhuset,172.33526883759976,Alvik
+2012-09-17,Minnebergsvägen 21,Traneberg,Grön Hässelby,2,40,null,Lägenhet,1938,[Traneberg],1750000,50000,1800000,2203,Fastighetsbyrån,539.587750098376,Alvik
+2012-09-09,Svartviksslingan 6,Traneberg,Grön Hässelby,3,77.5,null,Lägenhet,1987,[Bromma Minneberg],2295000,-185000,2110000,5096,Fastighetsbyrån,451.29580634754575,Alvik
+2012-09-07,Tranebergsvägen 9,Traneberg,Grön Hässelby,2,48,null,Lägenhet,1939,[Traneberg],2075000,145000,2220000,2824,Fastighetsbyrån,604.5029589760577,Alvik
+2012-08-30,Svartviksslingan 98,Traneberg,Grön Hässelby,2,59.5,1,Lägenhet,null,[Bromma],1795000,0,1795000,3563,Mäklarhuset,820.3733151994169,Alvik

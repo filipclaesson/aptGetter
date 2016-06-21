@@ -1,0 +1,865 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-11,Doktor Widerströms gata 42,Fruängen,Röd Fruängen,1,25,3,Lägenhet,1953,[Fruängen],1495000,565000,2060000,1870,Notar,432.30790143478794,Fruangen
+2016-05-11,Ellen Keys gata 37,Fruängen,Röd Fruängen,3,79.3,1,Lägenhet,1957,[Hägersten],2895000,0,2895000,3957,Svensk Fastighetsförmedling,216.50669602999574,Fruangen
+2016-05-06,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,1,27,4,Lägenhet,1953,[Fruängen],1875000,340000,2215000,1878,Notar,393.40131905680227,Fruangen
+2016-05-06,Ada Nilssons gata 13,Fruängen,Röd Fruängen,3,76,null,Lägenhet,2007,[Fruängen],3800000,0,3800000,4077,Länsförsäkringar Fastighetsförmedling,619.9417678700404,Fruangen
+2016-05-06,Eva Bonniers gata 2,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1955,[Fruängen],2850000,400000,3250000,3591,Länsförsäkringar Fastighetsförmedling,177.18031860447098,Fruangen
+2016-05-05,Vantörsvägen 264,Fruängen,Röd Fruängen,3,74,1,Lägenhet,2013,[Fruängen],3295000,205000,3500000,4495,Länsförsäkringar Fastighetsförmedling,628.7096143793108,Fruangen
+2016-05-05,Anna Sandströms gata 18,Fruängen,Röd Fruängen,4,80,2,Lägenhet,1957,[Hägersten-Liljeholmen],3490000,15000,3505000,3630,SkandiaMäklarna,200.0766266672523,Fruangen
+2016-05-05,Eva Bonniers gata 15,Fruängen,Röd Fruängen,1,43,1,Lägenhet,null,[Fruängen-Hägersten],1895000,505000,2400000,2398,Svenska Mäklarhuset,251.7211159104591,Fruangen
+2016-05-04,Doktor Widerströms gata 14,Fruängen,Röd Fruängen,1,25,2,Lägenhet,1955,[Fruängen],1750000,460000,2210000,1870,Edward & Partners Fastighetsmäklare AB,452.8708441034092,Fruangen
+2016-05-04,Ellen Keys gata 37,Fruängen,Röd Fruängen,3,79.3,2,Lägenhet,1957,[Fruängen],3200000,0,3200000,3990,Fastighetsbyrån,216.50669602999574,Fruangen
+2016-05-04,Eva Bonniers gata 21,Fruängen,Röd Fruängen,1,44,-1,Lägenhet,1956,[Fruängen],1895000,505000,2400000,2401,HusmanHagberg,286.4680571396162,Fruangen
+2016-05-04,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,65,7,Lägenhet,2009,[Fruängen],2650000,775000,3425000,3487,Länsförsäkringar Fastighetsförmedling,619.9417678700404,Fruangen
+2016-05-04,Lina Sandells Plan 18,Fruängen,Röd Fruängen,3,54,3,Lägenhet,1955,[Fruängen],2395000,330000,2725000,3497,Edward & Partners Fastighetsmäklare AB,410.181840839697,Fruangen
+2016-04-30,Elsa Borgs gata 33,Fruängen,Röd Fruängen,2,58.7,3,Lägenhet,1996,[Hägersten],2395000,470000,2865000,3590,Svensk Fastighetsförmedling,393.5639470035934,Fruangen
+2016-04-29,Kata Dalströms gata 9,Fruängen,Röd Fruängen,2,58,1,Lägenhet,1955,[Fruängen],2295000,305000,2600000,2868,HusmanHagberg,268.1189314003481,Fruangen
+2016-04-28,Ellen Keys gata 24,Fruängen,Röd Fruängen,2,36,2,Lägenhet,2007,[Fruängen],1850000,185000,2035000,3235,Länsförsäkringar Fastighetsförmedling,159.49145867657714,Fruangen
+2016-04-28,Vantörsvägen 264,Fruängen,Röd Fruängen,3,74,3,Lägenhet,2013,[Fruängen],3495000,367500,3862500,4495,Mäklarhuset,628.7096143793108,Fruangen
+2016-04-28,Doktor Widerströms gata 32,Fruängen,Röd Fruängen,2,56,1,Lägenhet,1953,[Fruängen],2500000,0,2500000,3568,Länsförsäkringar Fastighetsförmedling,469.8381473651294,Fruangen
+2016-04-28,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1.5,45.5,0.5,Lägenhet,1967,[Fruängen],1795000,55000,1850000,3369,Notar,448.3225783358714,Fruangen
+2016-04-28,Anna Sandströms Gata 8,Fruängen,Röd Fruängen,3,66,2,Lägenhet,1958,[Fruängen],2690000,460000,3150000,2995,Länsförsäkringar Fastighetsförmedling,222.17949911472684,Fruangen
+2016-04-28,Eva Bonniers gata 21,Fruängen,Röd Fruängen,3,74,1.5,Lägenhet,1955,[Fruängen],3195000,650000,3845000,3750,Fastighetsbyrån,286.4680571396162,Fruangen
+2016-04-28,Eva Bonniers gata 10,Fruängen,Röd Fruängen,2,57,9,Lägenhet,1955,[Fruängen],2295000,755000,3050000,3067,Fastighetsbyrån,279.80253973736706,Fruangen
+2016-04-27,Eva Bonniers gata 29,Fruängen,Röd Fruängen,3,68,1,Lägenhet,1956,[Fruängen],2895000,405000,3300000,3369,Mäklarhuset,309.7200349905001,Fruangen
+2016-04-26,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,62,5,Lägenhet,2007,[Fruängen],3350000,0,3350000,3326,BOSTHLM,619.9417678700404,Fruangen
+2016-04-25,Vantörsvägen 264,Fruängen,Röd Fruängen,2,45,2,Lägenhet,2013,[Fruängen],2800000,0,2800000,2895,Länsförsäkringar Fastighetsförmedling,628.7096143793108,Fruangen
+2016-04-22,Eva Bonniers gata 10,Fruängen,Röd Fruängen,2,57,5,Lägenhet,1955,[Fruängen],2495000,225000,2720000,2999,Mäklarhuset,279.80253973736706,Fruangen
+2016-04-22,Elsa Borgs gata 68,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1958,[Fruängen],1995000,405000,2400000,3908,Fastighetsbyrån,307.3916164766608,Fruangen
+2016-04-22,Hanna Rydhs gata 10,Fruängen,Röd Fruängen,2,44.5,2,Lägenhet,1970,[Fruängen],1995000,255000,2250000,2977,Fastighetsbyrån,538.7123710244941,Fruangen
+2016-04-22,Ada Nilssons gata 19,Fruängen,Röd Fruängen,2,43,5,Lägenhet,2008,[Fruängen],2250000,200000,2450000,2307,Länsförsäkringar Fastighetsförmedling,547.1494660243407,Fruangen
+2016-04-21,Kata Dalströms gata 13,Fruängen,Röd Fruängen,2,58,3,Lägenhet,1955,[Fruängen],2195000,405000,2600000,2986,Notar,298.8700044997411,Fruangen
+2016-04-19,Eva Bonniers gata 27,Fruängen,Röd Fruängen,2,43,-1,Lägenhet,1955,[Fruängen],2500000,0,2500000,2398,Länsförsäkringar Fastighetsförmedling,306.6763623307749,Fruangen
+2016-04-19,Ellen Keys gata 24,Fruängen,Röd Fruängen,2,52,3,Lägenhet,2008,[Fruängen],2195000,155000,2350000,4596,Fastighetsbyrån,159.49145867657714,Fruangen
+2016-04-19,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,1,Lägenhet,1955,[Hägersten],2195000,625000,2820000,2951,Erik Olsson Fastighetsförmedling,229.81973780294786,Fruangen
+2016-04-19,Lotta Svärds Gränd 14,Fruängen,Röd Fruängen,2,41,null,Lägenhet,2011,[Fruängen],2195000,355000,2550000,2392,Notar,657.614348558157,Fruangen
+2016-04-15,Lina Sandells Plan 16,Fruängen,Röd Fruängen,2,54,2.5,Lägenhet,1955,[Fruängen],2195000,230000,2425000,3497,Fastighetsbyrån,410.736614908303,Fruangen
+2016-04-15,Hanna Rydhs gata 8,Fruängen,Röd Fruängen,2,62.5,2,Lägenhet,null,[Fruängen-Hägersten],2095000,325000,2420000,3729,Svenska Mäklarhuset,531.2352649578116,Fruangen
+2016-04-14,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,1,27,6,Lägenhet,1955,[Fruängen],1795000,365000,2160000,1602,Mäklarhuset,229.81973780294786,Fruangen
+2016-04-13,Kata Dalströms gata 7,Fruängen,Röd Fruängen,2,57,2.5,Lägenhet,1955,[Fruängen],2295000,405000,2700000,2915,Fastighetsbyrån,248.87817791988795,Fruangen
+2016-04-11,Lotta Svärds Gränd 9,Fruängen,Röd Fruängen,2,40,null,Lägenhet,2014,[Fruängen],2675000,0,2675000,2653,Länsförsäkringar Fastighetsförmedling,700.921067003036,Fruangen
+2016-04-09,Doktor Widerströms gata 44,Fruängen,Röd Fruängen,1,25,null,Lägenhet,1953,[Fruängen],2120000,0,2120000,1870,Länsförsäkringar Fastighetsförmedling,466.69377191875975,Fruangen
+2016-04-09,Wendela Hebbes gata 14,Fruängen,Röd Fruängen,2,40,null,Lägenhet,2014,[Hägersten-Liljeholmen],2820000,0,2820000,2653,Länsförsäkringar Fastighetsförmedling,725.721328196487,Fruangen
+2016-04-09,Vantörsvägen 276,Fruängen,Röd Fruängen,2,40,3,Lägenhet,2014,[Fruängen],2250000,620000,2870000,2730,Länsförsäkringar Fastighetsförmedling,714.5571229366718,Fruangen
+2016-04-09,Doktor Widerströms gata 22,Fruängen,Röd Fruängen,3,67,2,Lägenhet,1953,[Fruängen],2595000,440000,3035000,4251,Fastighetsbyrån,405.6068250914552,Fruangen
+2016-04-08,Gamla Södertäljevägen 8,Fruängen,Röd Fruängen,2,63,2,Lägenhet,2010,[Fruängen],2490000,560000,3050000,3476,Fastighetsbyrån,576.3534049643657,Fruangen
+2016-04-08,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,3,Lägenhet,1955,[Fruängen],2295000,405000,2700000,3036,Länsförsäkringar Fastighetsförmedling,229.81973780294786,Fruangen
+2016-04-08,Anna Sandströms gata 6,Fruängen,Röd Fruängen,1,36,1,Lägenhet,1957,[Hägersten],1745000,415000,2160000,1634,Svensk Fastighetsförmedling,238.5030447692108,Fruangen
+2016-04-08,Lina Sandells Plan 3,Fruängen,Röd Fruängen,3,67,2,Lägenhet,1954,[Fruängen],2645000,330000,2975000,4508,Mäklarhuset,264.5363373987374,Fruangen
+2016-04-07,Lina Sandells Plan 26,Fruängen,Röd Fruängen,2,54,2,Lägenhet,1953,[Fruängen],2195000,255000,2450000,3497,Mäklarhuset,370.4397865608565,Fruangen
+2016-04-02,Doktor Widerströms gata 46,Fruängen,Röd Fruängen,1,25,1,Lägenhet,1953,[Fruängen],2100000,0,2100000,1870,Länsförsäkringar Fastighetsförmedling,463.13918906983133,Fruangen
+2016-04-01,Elin Wägners gata 6A,Fruängen,Röd Fruängen,2,47,3,Lägenhet,2015,[Fruängen],2550000,-225000,2325000,3485,Mäklarhuset,454.5607909245617,Fruangen
+2016-03-31,Ellen Keys gata 49,Fruängen,Röd Fruängen,1,37,3,Lägenhet,null,[Fruängen-Hägersten],1795000,655000,2450000,2144,Svenska Mäklarhuset,123.54758620442072,Fruangen
+2016-03-25,Alva Myrdals gata 4,Fruängen,Röd Fruängen,2,40,null,Lägenhet,2014,[Fruängen],2650000,0,2650000,2643,Länsförsäkringar Fastighetsförmedling,751.4661530880629,Fruangen
+2016-03-24,Ellen Keys gata 53,Fruängen,Röd Fruängen,4,86,2,Lägenhet,1955,[Hägersten],3495000,655000,4150000,4745,Svensk Fastighetsförmedling,105.28380010077554,Fruangen
+2016-03-23,Eva Bonniers gata 13,Fruängen,Röd Fruängen,3,71,2,Lägenhet,1955,[Hägersten],2895000,570000,3465000,3661,Erik Olsson Fastighetsförmedling,238.8672428049343,Fruangen
+2016-03-23,Elsa Borgs gata 68,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1958,[Fruängen],2295000,205000,2500000,3908,Fastighetsbyrån,307.3916164766608,Fruangen
+2016-03-23,Elsa Borgs gata 70,Fruängen,Röd Fruängen,2,56,1,Lägenhet,1957,[Fruängen],2195000,325000,2520000,3908,Fastighetsbyrån,296.6797688251469,Fruangen
+2016-03-22,Wendela Hebbes gata 12,Fruängen,Röd Fruängen,4,95,null,Lägenhet,2014,[Fruängen],4300000,450000,4750000,5269,Länsförsäkringar Fastighetsförmedling,746.1198111792203,Fruangen
+2016-03-22,Doktor Widerströms gata 38,Fruängen,Röd Fruängen,2,56,1,Lägenhet,1953,[Fruängen],2295000,155000,2450000,3617,Fastighetsmäklarna,454.67082750737444,Fruangen
+2016-03-22,Doktor Widerströms gata 40,Fruängen,Röd Fruängen,2,57,2,Lägenhet,1953,[Fruängen],2195000,230000,2425000,3616,Mäklarringen,439.7639019174185,Fruangen
+2016-03-22,Vantörsvägen 277,Fruängen,Röd Fruängen,4,94.5,null,Lägenhet,null,[Fruängen],4650000,0,4650000,4287,Länsförsäkringar Fastighetsförmedling,634.8445120654497,Fruangen
+2016-03-19,Vantörsvägen 285,Fruängen,Röd Fruängen,4,93.5,null,Lägenhet,2013,[Fruängen],4660000,0,4660000,4200,Länsförsäkringar Fastighetsförmedling,715.2051777398606,Fruangen
+2016-03-19,Emilia Fogelklous gata 3,Fruängen,Röd Fruängen,3,77.5,2,Lägenhet,2013,[Fruängen],3495000,505000,4000000,3558,Länsförsäkringar Fastighetsförmedling,726.0827991438592,Fruangen
+2016-03-19,Eva Bonniers gata 2,Fruängen,Röd Fruängen,1,42,6,Lägenhet,1956,[Hägersten-Liljeholmen],2095000,380000,2475000,2356,SkandiaMäklarna,177.18031860447098,Fruangen
+2016-03-18,Doktor Widerströms gata 56,Fruängen,Röd Fruängen,1,31,-1,Lägenhet,1954,[Fruängen],1795000,505000,2300000,2074,Notar,455.78349157316325,Fruangen
+2016-03-18,Fruängstorget 13,Fruängen,Röd Fruängen,2,50.5,null,Lägenhet,2012,[Fruängen],2395000,625000,3020000,2842,Notar,102.78021282899526,Fruangen
+2016-03-17,Emilia Fogelklous gata 13,Fruängen,Röd Fruängen,1.5,50.5,1,Lägenhet,null,[Fruängen],2195000,555000,2750000,2553,Länsförsäkringar Fastighetsförmedling,703.6330885701094,Fruangen
+2016-03-17,Jenny Linds gata 10,Fruängen,Röd Fruängen,2,57,3,Lägenhet,null,[Fruängen-Hägersten],2195000,555000,2750000,3120,Svenska Mäklarhuset,337.57657163901644,Vastertorp
+2016-03-16,Eva Bonniers gata 19,Fruängen,Röd Fruängen,3,71,0.5,Lägenhet,1960,[Fruängen],3095000,695000,3790000,3609,Fastighetsbyrån,279.05987564508234,Fruangen
+2016-03-13,Doktor Widerströms gata 4,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1953,[Fruängen],2500000,50000,2550000,3468,Länsförsäkringar Fastighetsförmedling,399.903240857999,Fruangen
+2016-03-12,Elin Wägners gata 45,Fruängen,Röd Fruängen,2,55,2,Lägenhet,1958,[Fruängen],2195000,415000,2610000,3872,Länsförsäkringar Fastighetsförmedling,367.9184468985014,Fruangen
+2016-03-12,Emilia Fogelklous gata 27,Fruängen,Röd Fruängen,3,83.5,null,Lägenhet,2014,[Fruängen],3750000,0,3750000,3794,Länsförsäkringar Fastighetsförmedling,659.3882703104434,Fruangen
+2016-03-12,Ellen Keys gata 89,Fruängen,Röd Fruängen,2,55,1,Lägenhet,1956,[Fruängen],2250000,350000,2600000,3250,Fastighetsbyrån,223.2263188920521,Fruangen
+2016-03-11,Elsa Borgs gata 46,Fruängen,Röd Fruängen,4,91,3,Lägenhet,1957,[Fruängen],3500000,700000,4200000,5354,Mäklarhuset,405.36880885855334,Fruangen
+2016-03-11,Hanna Paulis gata 27,Fruängen,Röd Fruängen,2,55,1,Lägenhet,1956,[Fruängen],2095000,680000,2775000,2874,HusmanHagberg,200.23079413749565,Fruangen
+2016-03-10,Vantörsvägen 270,Fruängen,Röd Fruängen,2,45,4,Lägenhet,2014,[Hägersten],2395000,565000,2960000,2895,Erik Olsson Fastighetsförmedling,646.0502184398157,Fruangen
+2016-03-10,Lotta Svärds Gränd 12,Fruängen,Röd Fruängen,2,62,null,Lägenhet,2014,[Fruängen],2750000,0,2750000,3617,Länsförsäkringar Fastighetsförmedling,671.1333577674245,Fruangen
+2016-03-10,Doktor Widerströms gata 22,Fruängen,Röd Fruängen,2,55,2,Lägenhet,1953,[Fruängen],2195000,325000,2520000,3567,Fastighetsbyrån,405.6068250914552,Fruangen
+2016-03-09,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,58,3,Lägenhet,2007,[Fruängen],2490000,510000,3000000,3112,Fastighetsbyrån,619.9417678700404,Fruangen
+2016-03-09,Ellen Keys gata 69,Fruängen,Röd Fruängen,2,53,1,Lägenhet,1956,[Fruängen],2295000,425000,2720000,2597,Mäklarhuset,165.7305029189319,Fruangen
+2016-03-08,Alva Myrdals gata 6,Fruängen,Röd Fruängen,3,75,4,Lägenhet,2014,[Fruängen],3925000,0,3925000,4318,Länsförsäkringar Fastighetsförmedling,751.4661530880629,Fruangen
+2016-03-03,Doktor Widerströms gata 74,Fruängen,Röd Fruängen,1,26,null,Lägenhet,1953,[Hägersten-Liljeholmen],1795000,265000,2060000,1726,SkandiaMäklarna,419.6504848703508,Fruangen
+2016-03-03,Hanna Paulis Gata 3,Fruängen,Röd Fruängen,5,85,1,Lägenhet,1956,[Fruängen],3295000,805000,4100000,4190,BOSTHLM,144.5321633495201,Fruangen
+2016-03-03,Doktor Widerströms gata 30,Fruängen,Röd Fruängen,1,26,1,Lägenhet,1953,[Fruängen],1695000,405000,2100000,1970,Mäklarhuset,466.6041512494455,Fruangen
+2016-03-03,Lotta Svärds Gränd 18,Fruängen,Röd Fruängen,4,97,5,Lägenhet,2012,[Fruängen],5000000,0,5000000,5658,Länsförsäkringar Fastighetsförmedling,613.7757487289239,Fruangen
+2016-03-03,Vantörsvägen 262,Fruängen,Röd Fruängen,3,85,1,Lägenhet,2013,[Fruängen],3550000,460000,4010000,4995,Länsförsäkringar Fastighetsförmedling,613.9361672183423,Fruangen
+2016-03-02,Doktor Widerströms gata 56,Fruängen,Röd Fruängen,1,25,2,Lägenhet,1953,[Fruängen],2170000,0,2170000,1672,BOSTHLM,455.78349157316325,Fruangen
+2016-03-02,Lotta Svärds Gränd 12,Fruängen,Röd Fruängen,2,62,null,Lägenhet,2012,[Fruängen],2495000,125000,2620000,3617,Fastighetsbyrån,671.1333577674245,Fruangen
+2016-03-01,Lotta Svärds Gränd 7,Fruängen,Röd Fruängen,3,75,null,Lägenhet,null,[Fruängen],3195000,665000,3860000,4306,Länsförsäkringar Fastighetsförmedling,689.141691359351,Fruangen
+2016-02-29,Elin Wägners gata 1,Fruängen,Röd Fruängen,2,63,null,Lägenhet,1958,[Fruängen],2550000,0,2550000,4366,Länsförsäkringar Fastighetsförmedling,437.63506598160313,Fruangen
+2016-02-27,Doktor Widerströms gata 14,Fruängen,Röd Fruängen,5,92,1,Lägenhet,1953,[Fruängen],3695000,480000,4175000,5614,Fastighetsbyrån,452.8708441034092,Fruangen
+2016-02-25,Vantörsvägen 264,Fruängen,Röd Fruängen,3,85,3,Lägenhet,2014,[Fruängen],3590000,510000,4100000,4995,Fastighetsbyrån,628.7096143793108,Fruangen
+2016-02-25,Eva Bonniers gata 4,Fruängen,Röd Fruängen,2,57,7,Lägenhet,1955,[Hägersten-Liljeholmen],2390000,610000,3000000,3033,SkandiaMäklarna,196.78857211705832,Fruangen
+2016-02-25,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,46,2,Lägenhet,2010,[Fruängen],2195000,605000,2800000,2492,Länsförsäkringar Fastighetsförmedling,608.7666307408977,Fruangen
+2016-02-24,Elsa Borgs gata 56,Fruängen,Röd Fruängen,2,54,3,Lägenhet,null,[Fruängen],2295000,555000,2850000,3338,Fastighetsbyrån,370.54345010519705,Fruangen
+2016-02-24,Eva Bonniers gata 19,Fruängen,Röd Fruängen,3,71,3,Lägenhet,1955,[Fruängen],2995000,305000,3300000,3660,Fastighetsbyrån,279.05987564508234,Fruangen
+2016-02-24,Doktor Widerströms gata 30,Fruängen,Röd Fruängen,2,56,2,Lägenhet,1953,[Fruängen],2195000,455000,2650000,3567,Notar,466.6041512494455,Fruangen
+2016-02-22,Kata Dalströms gata 3,Fruängen,Röd Fruängen,2,55,2,Lägenhet,1955,[Fruängen],2150000,420000,2570000,2841,Notar,216.40138124527158,Fruangen
+2016-02-20,Hanna Rydhs gata 38,Fruängen,Röd Fruängen,1.5,44.5,2,Lägenhet,1970,[Hägersten],1995000,405000,2400000,2720,Svensk Fastighetsförmedling,577.3092693195441,Fruangen
+2016-02-19,Ellen Keys gata 55,Fruängen,Röd Fruängen,1,29,1,Lägenhet,1955,[Fruängen],1795000,345000,2140000,1711,Fastighetsbyrån,107.45857304837084,Fruangen
+2016-02-18,Doktor Widerströms gata 8,Fruängen,Röd Fruängen,2,57,2,Lägenhet,1953,[Hägersten],2600000,0,2600000,3617,Mäklarhuset,427.54634287019127,Fruangen
+2016-02-18,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,2,50,3,Lägenhet,1967,[Fruängen],1850000,410000,2260000,3702,Fastighetsbyrån,448.3225783358714,Fruangen
+2016-02-18,Hanna Paulis gata 35,Fruängen,Röd Fruängen,2,55,3,Lägenhet,1956,[Fruängen],2295000,295000,2590000,2908,Fastighetsbyrån,251.74042717355783,Fruangen
+2016-02-18,Lotta Svärds Gränd 3,Fruängen,Röd Fruängen,1,36,3,Lägenhet,null,[Fruängen],1995000,365000,2360000,2538,Svenska Mäklarhuset,677.9700795957314,Fruangen
+2016-02-15,Jenny Linds gata 9,Fruängen,Röd Fruängen,2,57,null,Lägenhet,null,[Fruängen],null,NaN,2500000,3060,Länsförsäkringar Fastighetsförmedling,361.47891135171625,Vastertorp
+2016-02-14,Lotta Svärds Gränd 6,Fruängen,Röd Fruängen,2,52,4,Lägenhet,2013,[Fruängen],3100000,0,3100000,3195,Länsförsäkringar Fastighetsförmedling,647.9832777854721,Fruangen
+2016-02-11,Vantörsvägen 262,Fruängen,Röd Fruängen,2,45,3,Lägenhet,2013,[Fruängen],2395000,515000,2910000,2895,Notar,613.9361672183423,Fruangen
+2016-02-10,Kata Dalströms gata 10,Fruängen,Röd Fruängen,3,70,7,Lägenhet,1956,[Fruängen],2995000,405000,3400000,3676,Fastighetsbyrån,348.69834309281777,Fruangen
+2016-02-10,Hanna Paulis Gata 3,Fruängen,Röd Fruängen,4.5,85,null,Lägenhet,1956,[Fruängen],3425000,1075000,4500000,4258,HusmanHagberg,144.5321633495201,Fruangen
+2016-02-10,Elin Wägners gata 25,Fruängen,Röd Fruängen,1,28,1,Lägenhet,1958,[Hägersten],1795000,285000,2080000,2061,Mäklarhuset,327.67085498911825,Fruangen
+2016-02-10,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,2,40,3,Lägenhet,2012,[Fruängen],2295000,355000,2650000,2333,Fastighetsbyrån,633.8430863588287,Fruangen
+2016-02-05,Ellen Fries gata 3,Fruängen,Röd Fruängen,2,53,2,Lägenhet,1958,[Fruängen],2510000,0,2510000,3389,BOSTHLM,419.81899841763897,Fruangen
+2016-02-05,Doktor Widerströms gata 68,Fruängen,Röd Fruängen,2,58,1,Lägenhet,1953,[Fruängen],2200000,200000,2400000,3363,Fastighetsbyrån,422.579864392844,Fruangen
+2016-02-04,Jenny Linds gata 12,Fruängen,Röd Fruängen,2,58,1,Lägenhet,1955,[Fruängen],2175000,525000,2700000,3108,Länsförsäkringar Fastighetsförmedling,329.8288654322428,Fruangen
+2016-02-02,Anna Sandströms gata 4,Fruängen,Röd Fruängen,4,95,2,Lägenhet,1957,[Hägersten],3695000,755000,4450000,4310,Mäklarhuset,244.17655239594234,Fruangen
+2016-02-01,Ellen Fries gata 21,Fruängen,Röd Fruängen,3,75,2,Lägenhet,1958,[Fruängen],2750000,450000,3200000,4838,Hemmäklarna,427.228763681074,Fruangen
+2016-02-01,Lotta Svärds Gränd 6,Fruängen,Röd Fruängen,2,52,2,Lägenhet,2014,[Fruängen],2395000,625000,3020000,3195,Notar,647.9832777854721,Fruangen
+2016-01-31,Hanna Rydhs gata 12,Fruängen,Röd Fruängen,2,62.5,3,Lägenhet,1970,[Fruängen],2225000,125000,2350000,3966,Mäklarringen,546.1459768113,Fruangen
+2016-01-30,Lotta Svärds Gränd 3,Fruängen,Röd Fruängen,4,97,5,Lägenhet,2014,[Fruängen],4925000,0,4925000,5351,Länsförsäkringar Fastighetsförmedling,677.9700795957314,Fruangen
+2016-01-28,Lina Sandells Plan 13,Fruängen,Röd Fruängen,2,60,3,Lägenhet,1954,[Hägersten-Liljeholmen],2300000,120000,2420000,4055,SkandiaMäklarna,230.32933569099012,Fruangen
+2016-01-28,Doktor Widerströms gata 82,Fruängen,Röd Fruängen,3,68,2,Lägenhet,1953,[Fruängen],2695000,130000,2825000,3863,Fastighetsbyrån,383.9605163659029,Fruangen
+2016-01-28,Ellen Keys gata 24,Fruängen,Röd Fruängen,1.5,37,1,Lägenhet,2008,[Fruängen],1795000,405000,2200000,3320,Fastighetsbyrån,159.49145867657714,Fruangen
+2016-01-28,Doktor Widerströms gata 86,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1954,[Hägersten],2195000,365000,2560000,3252,Erik Olsson Fastighetsförmedling,360.02678358452397,Fruangen
+2016-01-28,Ellen Keys gata 71,Fruängen,Röd Fruängen,1,42,2,Lägenhet,1956,[Fruängen],1995000,630000,2625000,2058,Fastighetsbyrån,158.61080718944552,Fruangen
+2016-01-28,Lotta Svärds Gränd 18,Fruängen,Röd Fruängen,2,40,1,Lägenhet,2012,[Fruängen],2450000,100000,2550000,2333,Diplomat Fastighetsmäkleri AB,613.7757487289239,Fruangen
+2016-01-27,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,3,Lägenhet,1962,[Fruängen],1795000,505000,2300000,2162,Fastighetsbyrån,69.41226965637328,Fruangen
+2016-01-27,Jenny Linds gata 5,Fruängen,Röd Fruängen,3,76,2,Lägenhet,1955,[Fruängen],2695000,580000,3275000,3973,Länsförsäkringar Fastighetsförmedling,351.2064578770201,Fruangen
+2016-01-26,Doktor Widerströms gata 6,Fruängen,Röd Fruängen,3,63,3,Lägenhet,1953,[Fruängen],2695000,225000,2920000,4053,Fastighetsmäklarna,413.0478671880104,Fruangen
+2016-01-26,Hanna Rydhs gata 32,Fruängen,Röd Fruängen,3,73.5,2,Lägenhet,1970,[Fruängen],2695000,15000,2710000,4352,Fastighetsbyrån,574.6149235647304,Fruangen
+2016-01-24,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,65,1,Lägenhet,null,[Fruängen-Hägersten],2650000,150000,2800000,3487,Svenska Mäklarhuset,619.9417678700404,Fruangen
+2016-01-24,Vantörsvägen 262,Fruängen,Röd Fruängen,3,74,1,Lägenhet,2013,[Fruängen],2995000,515000,3510000,4495,Länsförsäkringar Fastighetsförmedling,613.9361672183423,Fruangen
+2016-01-23,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1.5,45.5,2,Lägenhet,1967,[Fruängen],1795000,430000,2225000,3369,Fastighetsbyrån,448.3225783358714,Fruangen
+2016-01-23,Lina Sandells Plan 5,Fruängen,Röd Fruängen,3,66,2,Lägenhet,1954,[Fruängen],2395000,480000,2875000,4443,Fastighetsbyrån,250.3652943315044,Fruangen
+2016-01-23,Elin Wägners gata 6,Fruängen,Röd Fruängen,1,41.7,null,Lägenhet,2015,[Hägersten],1995000,25000,2020000,3143,Mäklarhuset,455.90925630106557,Fruangen
+2016-01-22,Eva Bonniers gata 6,Fruängen,Röd Fruängen,3,74,2,Lägenhet,1955,[Fruängen],2895000,170000,3065000,3583,Fastighetsbyrån,222.46077552806724,Fruangen
+2016-01-22,Elin Wägners gata 17,Fruängen,Röd Fruängen,1.5,28,-1,Lägenhet,1958,[Fruängen],2200000,-440000,1760000,2061,Bjurfors,370.7393548088772,Fruangen
+2016-01-22,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,2,50,2,Lägenhet,1967,[Fruängen],1795000,265000,2060000,3702,Fastighetsbyrån,448.3225783358714,Fruangen
+2016-01-22,Elsa Borgs gata 56,Fruängen,Röd Fruängen,2,54,3,Lägenhet,null,[Fruängen],2195000,555000,2750000,3338,Fastighetsbyrån,370.54345010519705,Fruangen
+2016-01-22,Elin Wägners gata 4,Fruängen,Röd Fruängen,2,60,2,Lägenhet,1958,[Fruängen],2295000,180000,2475000,4187,Fastighetsbyrån,452.0094564337671,Fruangen
+2016-01-21,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,43,4,Lägenhet,2010,[Fruängen],2145000,355000,2500000,2329,Notar,608.7666307408977,Fruangen
+2016-01-21,Lina Sandells Plan 7,Fruängen,Röd Fruängen,3,66,0.5,Lägenhet,1954,[Fruängen],2495000,55000,2550000,4443,Magnusson Mäkleri,238.1409501088476,Fruangen
+2016-01-21,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,37,2,Lägenhet,2008,[Fruängen],1795000,275000,2070000,3320,Fastighetsbyrån,159.49145867657714,Fruangen
+2016-01-20,Wendela Hebbes gata 14,Fruängen,Röd Fruängen,3,71,1,Lägenhet,2014,[Fruängen],2995000,455000,3450000,4214,Länsförsäkringar Fastighetsförmedling,725.721328196487,Fruangen
+2016-01-18,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,2,42,1,Lägenhet,2013,[Hägersten-Liljeholmen],2600000,0,2600000,2450,SkandiaMäklarna,633.8430863588287,Fruangen
+2016-01-18,Emilia Fogelklous gata 13,Fruängen,Röd Fruängen,2,54.5,2,Lägenhet,2013,[Fruängen],2395000,605000,3000000,2795,Notar,703.6330885701094,Fruangen
+2016-01-15,Ellen Fries gata 19,Fruängen,Röd Fruängen,3,75,1,Lägenhet,1958,[Hägersten-Liljeholmen],2195000,605000,2800000,4838,SkandiaMäklarna,439.3678206808968,Fruangen
+2016-01-15,Vantörsvägen 285,Fruängen,Röd Fruängen,4,93.5,2,Lägenhet,2014,[Fruängen],3695000,370000,4065000,4200,Fastighetsbyrån,715.2051777398606,Fruangen
+2016-01-13,Doktor Widerströms gata 78,Fruängen,Röd Fruängen,2,59,1,Lägenhet,1953,[Hägersten],1995000,565000,2560000,3414,Erik Olsson Fastighetsförmedling,396.5477268137948,Fruangen
+2016-01-13,Vantörsvägen 270,Fruängen,Röd Fruängen,2,62,3,Lägenhet,null,[Hägersten],3200000,0,3200000,3495,BOSTHLM,646.0502184398157,Fruangen
+2016-01-12,Eva Bonniers gata 8,Fruängen,Röd Fruängen,2,57,5,Lägenhet,1955,[Fruängen],2295000,635000,2930000,3016,Fastighetsbyrån,252.117440724061,Fruangen
+2016-01-10,Adress saknas,Fruängen,Röd Fruängen,5,126,null,Radhus,null,[Fruängen],3900000,-1375000,2525000,null,Länsförsäkringar Fastighetsförmedling,697.418287971656,Fruangen
+2016-01-07,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,33,null,Lägenhet,null,[Fruängen],2030000,0,2030000,2979,Länsförsäkringar Fastighetsförmedling,159.49145867657714,Fruangen
+2015-12-11,Vantörsvägen 270,Fruängen,Röd Fruängen,2,45,3,Lägenhet,2013,[Fruängen],2195000,705000,2900000,2895,Notar,646.0502184398157,Fruangen
+2015-12-11,Doktor Widerströms gata 12,Fruängen,Röd Fruängen,3,63,3,Lägenhet,1953,[Hägersten],2495000,550000,3045000,4052,Mäklarhuset,445.1729479806487,Fruangen
+2015-12-09,Anna Sandströms gata 6,Fruängen,Röd Fruängen,1.5,36,0,Lägenhet,2015,[Hägersten],1890000,560000,2450000,1634,Mäklarhuset,238.5030447692108,Fruangen
+2015-12-09,Doktor Widerströms gata 34,Fruängen,Röd Fruängen,2,57,2.5,Lägenhet,1953,[Fruängen],2350000,360000,2710000,3667,Fastighetsbyrån,471.8991007794995,Fruangen
+2015-12-05,Elsa Borgs gata 68,Fruängen,Röd Fruängen,2,56,1,Lägenhet,1957,[Fruängen],2300000,25000,2325000,3908,Fastighetsbyrån,307.3916164766608,Fruangen
+2015-12-04,Elin Wägners gata 10,Fruängen,Röd Fruängen,3,81,3,Lägenhet,2001,[Fruängen],2875000,750000,3625000,4566,Fastighetsbyrån,419.19999448352934,Fruangen
+2015-12-03,Elsa Borgs gata 56,Fruängen,Röd Fruängen,2,54,null,Lägenhet,null,[Fruängen],2325000,0,2325000,3338,BOSTHLM,370.54345010519705,Fruangen
+2015-12-03,Doktor Widerströms gata 26,Fruängen,Röd Fruängen,2,56,2,Lägenhet,null,[Fruängen-Hägersten],2095000,420000,2515000,3617,Svenska Mäklarhuset,451.4942206216602,Fruangen
+2015-12-02,Elin Wägners gata 6,Fruängen,Röd Fruängen,1,24.4,null,Lägenhet,2015,[Hägersten],1595000,405000,2000000,1838,Mäklarhuset,455.90925630106557,Fruangen
+2015-12-01,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1.5,45.5,0,Lägenhet,1967,[Fruängen],1795000,335000,2130000,3035,HusmanHagberg,448.3225783358714,Fruangen
+2015-11-30,Lotta Svärds Gränd 3,Fruängen,Röd Fruängen,3,74,4,Lägenhet,null,[Fruängen],3095000,755000,3850000,4257,Svenska Mäklarhuset,677.9700795957314,Fruangen
+2015-11-28,Jenny Linds gata 18,Fruängen,Röd Fruängen,3,76,1,Lägenhet,1955,[Fruängen],2650000,550000,3200000,3973,Fastighetsbyrån,301.1079182934962,Fruangen
+2015-11-26,Ada Nilssons gata 5,Fruängen,Röd Fruängen,3,76,5,Lägenhet,2009,[Fruängen],3485000,615000,4100000,4117,Mäklarringen,596.2560185827186,Fruangen
+2015-11-25,Elin Wägners gata 5,Fruängen,Röd Fruängen,3,67,2,Lägenhet,1959,[Fruängen],2895000,325000,3220000,4620,HusmanHagberg,448.70523754993934,Fruangen
+2015-11-21,Lotta Svärds Gränd 7,Fruängen,Röd Fruängen,2,59,null,Lägenhet,null,[Fruängen],2295000,805000,3100000,3544,Länsförsäkringar Fastighetsförmedling,689.141691359351,Fruangen
+2015-11-21,Elsa Borgs gata 68,Fruängen,Röd Fruängen,2,56,1,Lägenhet,1957,[Fruängen],2195000,230000,2425000,3908,Fastighetsbyrån,307.3916164766608,Fruangen
+2015-11-20,Jenny Linds gata 17,Fruängen,Röd Fruängen,3,76,1,Lägenhet,1955,[Fruängen],2695000,515000,3210000,3973,Fastighetsbyrån,378.4097835150307,Fruangen
+2015-11-19,Vantörsvägen 274,Fruängen,Röd Fruängen,3,71,2,Lägenhet,2014,[Fruängen],2995000,655000,3650000,4204,Fastighetsbyrån,700.1684995092028,Fruangen
+2015-11-19,Doktor Widerströms gata 42,Fruängen,Röd Fruängen,1,25,1,Lägenhet,1953,[Fruängen],1595000,225000,1820000,1921,Fastighetsbyrån,432.30790143478794,Fruangen
+2015-11-14,Vantörsvägen 283,Fruängen,Röd Fruängen,4,93.5,5,Lägenhet,null,[Fruängen-Hägersten],3595000,1115000,4710000,4200,Svenska Mäklarhuset,697.418287971656,Fruangen
+2015-11-14,Doktor Widerströms gata 78,Fruängen,Röd Fruängen,2,59,null,Lägenhet,1953,[Fruängen],2575000,-175000,2400000,3363,Living Fastighetsmäkleri,396.5477268137948,Fruangen
+2015-11-13,Vantörsvägen 281,Fruängen,Röd Fruängen,1,43,null,Lägenhet,2013,[Fruängen],2525000,0,2525000,2362,Länsförsäkringar Fastighetsförmedling,681.0128815770998,Fruangen
+2015-11-13,Fredrika Bremers gata 15,Fruängen,Röd Fruängen,3,65.5,2,Lägenhet,1967,[Fruängen],2450000,0,2450000,4619,Länsförsäkringar Fastighetsförmedling,484.3368321175171,Fruangen
+2015-11-13,Vantörsvägen 270,Fruängen,Röd Fruängen,2,62,null,Lägenhet,2014,[Fruängen],2960000,0,2960000,3495,Länsförsäkringar Fastighetsförmedling,646.0502184398157,Fruangen
+2015-11-13,Jenny Linds gata 10,Fruängen,Röd Fruängen,2,57,null,Lägenhet,1956,[Fruängen],2700000,0,2700000,3060,Länsförsäkringar Fastighetsförmedling,337.57657163901644,Vastertorp
+2015-11-12,Doktor Widerströms gata 30,Fruängen,Röd Fruängen,2,56,2,Lägenhet,1953,[Fruängen],1895000,565000,2460000,3617,HusmanHagberg,466.6041512494455,Fruangen
+2015-11-11,Hanna Rydhs gata 48,Fruängen,Röd Fruängen,3,73.5,3,Lägenhet,1970,[Fruängen],2395000,455000,2850000,4595,Fastighetsbyrån,547.0013864202274,Fruangen
+2015-11-11,Fruängsgatan 39,Fruängen,Röd Fruängen,2,66.4,8,Lägenhet,null,[Fruängen],2875000,775000,3650000,4013,Mäklarringen,122.90161671184804,Fruangen
+2015-11-06,Lotta Svärds Gränd 7,Fruängen,Röd Fruängen,3,75,null,Lägenhet,2014,[Fruängen],3900000,0,3900000,4306,Länsförsäkringar Fastighetsförmedling,689.141691359351,Fruangen
+2015-11-05,Barbro Alvings gata 6,Fruängen,Röd Fruängen,2,54,null,Lägenhet,2013,[Fruängen],2095000,640000,2735000,2781,Länsförsäkringar Fastighetsförmedling,669.7567149946904,Fruangen
+2015-11-03,Gamla Södertäljevägen 6,Fruängen,Röd Fruängen,2,50,3,Lägenhet,2010,[Fruängen],2295000,305000,2600000,2758,Fastighetsbyrån,571.9362347408719,Fruangen
+2015-11-03,Doktor Widerströms gata 14,Fruängen,Röd Fruängen,3,63,2,Lägenhet,1953,[Fruängen],2495000,355000,2850000,4002,Notar,452.8708441034092,Fruangen
+2015-10-31,Lina Sandells Plan 18,Fruängen,Röd Fruängen,2,54,3,Lägenhet,1955,[Hägersten],2195000,80000,2275000,3395,Mäklarhuset,410.181840839697,Fruangen
+2015-10-29,Hanna Rydhs gata 16,Fruängen,Röd Fruängen,2,62.5,1,Lägenhet,1970,[Fruängen],2195000,305000,2500000,3803,Fastighetsbyrån,531.4115487692502,Fruangen
+2015-10-27,Vantörsvägen 276,Fruängen,Röd Fruängen,2,40,null,Lägenhet,2014,[Fruängen],2750000,0,2750000,2643,Länsförsäkringar Fastighetsförmedling,714.5571229366718,Fruangen
+2015-10-24,Lina Sandells plan 2,Fruängen,Röd Fruängen,1,25,7,Lägenhet,1955,[Hägersten],1895000,255000,2150000,1666,Mäklarhuset,341.959397962883,Fruangen
+2015-10-23,Elin Wägners gata 15,Fruängen,Röd Fruängen,3,71,3,Lägenhet,null,[Fruängen],3450000,0,3450000,4862,BOSTHLM,394.8545987568555,Fruangen
+2015-10-21,Elin Wägners gata 5,Fruängen,Röd Fruängen,3,68,1,Lägenhet,1958,[Hägersten],2695000,705000,3400000,4681,Mäklarhuset,448.70523754993934,Fruangen
+2015-10-21,Alva Myrdals gata 6,Fruängen,Röd Fruängen,2,59,2,Lägenhet,2014,[Fruängen],2395000,605000,3000000,3557,Länsförsäkringar Fastighetsförmedling,751.4661530880629,Fruangen
+2015-10-21,Vantörsvägen 277,Fruängen,Röd Fruängen,1.5,43,4,Lägenhet,2014,[Fruängen],1995000,605000,2600000,2351,Notar,634.8445120654497,Fruangen
+2015-10-21,Kata Dalströms gata 10,Fruängen,Röd Fruängen,3,70,null,Fritidshus,1956,[Fruängen],2795000,1105000,3900000,3693,Fastighetsbyrån,348.69834309281777,Fruangen
+2015-10-21,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,45.5,2,Lägenhet,1967,[Fruängen],1795000,420000,2215000,3209,Fastighetsbyrån,448.3225783358714,Fruangen
+2015-10-19,Emilia Fogelklous gata 3,Fruängen,Röd Fruängen,2,51,10,Lägenhet,2014,[Fruängen],2195000,705000,2900000,2924,Notar,726.0827991438592,Fruangen
+2015-10-19,Ellen Keys gata 91,Fruängen,Röd Fruängen,3,88,3,Lägenhet,1955,[Fruängen],2795000,935000,3730000,5032,Länsförsäkringar Fastighetsförmedling,228.54301009795154,Fruangen
+2015-10-19,Lotta Svärds Gränd 7,Fruängen,Röd Fruängen,2,59,null,Lägenhet,2014,[Fruängen],2295000,825000,3120000,3544,Länsförsäkringar Fastighetsförmedling,689.141691359351,Fruangen
+2015-10-19,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,65,null,Lägenhet,2010,[Fruängen],2495000,235000,2730000,3521,Länsförsäkringar Fastighetsförmedling,608.7666307408977,Fruangen
+2015-10-19,Hanna Rydhs gata 16,Fruängen,Röd Fruängen,2,44.5,null,Lägenhet,1970,[Fruängen],1775000,175000,1950000,2693,Länsförsäkringar Fastighetsförmedling,531.4115487692502,Fruangen
+2015-10-19,Ellen Keys gata 24,Fruängen,Röd Fruängen,2,63,5,Lägenhet,2008,[Fruängen],2000000,-180000,1820000,5534,Länsförsäkringar Fastighetsförmedling,159.49145867657714,Fruangen
+2015-10-19,Anna Sandströms gata 6,Fruängen,Röd Fruängen,2,45,null,Lägenhet,1958,[Fruängen],1795000,55000,1850000,2043,Länsförsäkringar Fastighetsförmedling,238.5030447692108,Fruangen
+2015-10-19,Lotta Svärds Gränd 18,Fruängen,Röd Fruängen,2,58,null,Lägenhet,2012,[Fruängen],3175000,0,3175000,3383,Länsförsäkringar Fastighetsförmedling,613.7757487289239,Fruangen
+2015-10-17,Elin Wägners gata 7,Fruängen,Röd Fruängen,3,71,3,Lägenhet,1958,[Fruängen],2695000,825000,3520000,4862,Fastighetsbyrån,439.7269388609963,Fruangen
+2015-10-15,Doktor Widerströms gata 72,Fruängen,Röd Fruängen,2,56,1,Lägenhet,1953,[Fruängen],2095000,515000,2610000,3252,Fastighetsbyrån,427.8030150702321,Fruangen
+2015-10-14,Fruängstorget 13,Fruängen,Röd Fruängen,4,79,null,Lägenhet,2012,[Fruängen],3095000,905000,4000000,4446,Fastighetsbyrån,102.78021282899526,Fruangen
+2015-10-13,Hanna Paulis gata 37,Fruängen,Röd Fruängen,1,34,-0.5,Lägenhet,1956,[Fruängen],1895000,455000,2350000,1929,Fastighetsbyrån,249.97673294498054,Fruangen
+2015-10-13,Elsa Borgs gata 48,Fruängen,Röd Fruängen,2,56,2,Lägenhet,null,[Fruängen],2150000,450000,2600000,3498,Fastighetsbyrån,394.42003880775223,Fruangen
+2015-10-12,Elin Wägners gata 37,Fruängen,Röd Fruängen,1,28,2,Lägenhet,null,[Fruängen],1695000,415000,2110000,2061,BOSTHLM,327.5903093994872,Fruangen
+2015-10-08,Elin Wägners gata 7,Fruängen,Röd Fruängen,3,71,3,Lägenhet,1958,[Hägersten],3375000,0,3375000,4862,Mäklarhuset,439.7269388609963,Fruangen
+2015-10-07,Ellen Keys gata 95,Fruängen,Röd Fruängen,3,76,0.5,Lägenhet,1955,[Hägersten],2995000,375000,3370000,4352,Svensk Fastighetsförmedling,253.93140374546687,Fruangen
+2015-10-02,Lina Sandells Plan 28,Fruängen,Röd Fruängen,1,27,1,Lägenhet,1955,[Hägersten],1750000,385000,2135000,1948,Mäklarhuset,356.78332536459857,Fruangen
+2015-09-30,Doktor Widerströms gata 86,Fruängen,Röd Fruängen,1,43,2,Lägenhet,1953,[Fruängen],1895000,605000,2500000,2498,Fastighetsbyrån,360.02678358452397,Fruangen
+2015-09-30,Vantörsvägen 260,Fruängen,Röd Fruängen,5,105,4,Lägenhet,2013,[Hägersten-Liljeholmen],3995000,805000,4800000,6495,Länsförsäkringar Fastighetsförmedling,603.8526138111934,Fruangen
+2015-09-30,Doktor Widerströms gata 31,Fruängen,Röd Fruängen,2,56,2,Lägenhet,1953,[Fruängen],2295000,35000,2330000,3252,Fastighetsbyrån,409.968222885731,Fruangen
+2015-09-29,Eva Bonniers gata 25,Fruängen,Röd Fruängen,3,74,3,Lägenhet,1955,[Fruängen],2895000,780000,3675000,3750,Fastighetsbyrån,302.1046656043432,Fruangen
+2015-09-24,Wendela Hebbes gata 14,Fruängen,Röd Fruängen,3,71,4,Lägenhet,2014,[Fruängen],2995000,930000,3925000,4127,Länsförsäkringar Fastighetsförmedling,725.721328196487,Fruangen
+2015-09-21,Lotta Svärds Gränd 12,Fruängen,Röd Fruängen,3,74,5,Lägenhet,2012,[Fruängen],2995000,885000,3880000,4317,Länsförsäkringar Fastighetsförmedling,671.1333577674245,Fruangen
+2015-09-20,Hanna Rydhs gata 14,Fruängen,Röd Fruängen,2,62.5,0.5,Lägenhet,1970,[Fruängen],2295000,45000,2340000,3893,Fastighetsbyrån,540.0669559160572,Fruangen
+2015-09-17,Ellen Keys gata 95,Fruängen,Röd Fruängen,1,36,-1,Lägenhet,1955,[Fruängen],1895000,630000,2525000,2201,Fastighetsbyrån,253.93140374546687,Fruangen
+2015-09-17,Hanna Paulis gata 25,Fruängen,Röd Fruängen,2,58,3,Lägenhet,1956,[Hägersten],2195000,405000,2600000,3032,Mäklarhuset,204.89854296516322,Fruangen
+2015-09-17,Hanna Paulis gata 10,Fruängen,Röd Fruängen,3.5,84,2,Lägenhet,1958,[Fruängen],2995000,380000,3375000,4475,Notar,242.30952825720942,Fruangen
+2015-09-17,Eva Bonniers gata 10,Fruängen,Röd Fruängen,2,57,7,Lägenhet,null,[Hägersten-Liljeholmen],2290000,615000,2905000,3033,SkandiaMäklarna,279.80253973736706,Fruangen
+2015-09-17,Doktor Widerströms gata 58,Fruängen,Röd Fruängen,1,25,1,Lägenhet,1953,[Fruängen],2120000,0,2120000,1672,BOSTHLM,455.98952072175786,Fruangen
+2015-09-17,Puckgränd 20,Fruängen,Röd Fruängen,2,58,3,Lägenhet,1950,[Västertorp],2395000,475000,2870000,2983,Fastighetsbyrån,560.9852995888812,Fruangen
+2015-09-17,Jenny Linds gata 12,Fruängen,Röd Fruängen,3,58,2,Lägenhet,null,[Fruängen],2195000,405000,2600000,3168,Fastighetsbyrån,329.8288654322428,Fruangen
+2015-09-15,Elsa Borgs gata 42,Fruängen,Röd Fruängen,2,47,2,Lägenhet,null,[Fruängen],1995000,585000,2580000,3025,Fastighetsbyrån,414.7557225740706,Fruangen
+2015-09-15,Eva Bonniers gata 17,Fruängen,Röd Fruängen,3,71,3,Lägenhet,1955,[Fruängen],3400000,0,3400000,3661,Fastighetsbyrån,265.6806525957314,Fruangen
+2015-09-11,Lotta Svärds Gränd 3,Fruängen,Röd Fruängen,3,77,1,Lägenhet,2014,[Fruängen],2995000,505000,3500000,4400,Länsförsäkringar Fastighetsförmedling,677.9700795957314,Fruangen
+2015-09-10,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,2,55,4,Lägenhet,1953,[Fruängen],2295000,455000,2750000,3221,Fastighetsbyrån,393.40131905680227,Fruangen
+2015-09-10,Doktor Widerströms gata 34,Fruängen,Röd Fruängen,1,40,2,Lägenhet,1953,[Fruängen],1795000,455000,2250000,2735,Fastighetsbyrån,471.8991007794995,Fruangen
+2015-09-10,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,5,Lägenhet,1961,[Fruängen],1825000,435000,2260000,2162,Fastighetsbyrån,69.41226965637328,Fruangen
+2015-09-09,Ada Nilssons gata 19,Fruängen,Röd Fruängen,3,74,7,Lägenhet,2007,[Fruängen],3395000,355000,3750000,3970,Fastighetsbyrån,547.1494660243407,Fruangen
+2015-09-09,Ada Nilssons gata 5,Fruängen,Röd Fruängen,2,58,4,Lägenhet,2008,[Fruängen],2395000,805000,3200000,3142,Fastighetsbyrån,596.2560185827186,Fruangen
+2015-09-07,Eva Bonniers gata 21,Fruängen,Röd Fruängen,3,74,null,Lägenhet,1956,[Fruängen],2495000,755000,3250000,3699,Notar,286.4680571396162,Fruangen
+2015-09-07,Hanna Rydhs gata 38,Fruängen,Röd Fruängen,2,44.5,null,Lägenhet,1970,[Fruängen],1775000,505000,2280000,2610,Länsförsäkringar Fastighetsförmedling,577.3092693195441,Fruangen
+2015-09-03,Doktor Widerströms gata 62,Fruängen,Röd Fruängen,4,88,2,Lägenhet,1953,[Fruängen],2750000,1000000,3750000,4826,Fastighetsmäklarna,435.94559047832956,Fruangen
+2015-09-03,Doktor Widerströms gata 34,Fruängen,Röd Fruängen,2,57,2,Lägenhet,null,[Fruängen-Hägersten],1995000,355000,2350000,3617,Svenska Mäklarhuset,471.8991007794995,Fruangen
+2015-09-02,Kata Dalströms gata 13,Fruängen,Röd Fruängen,1,43,1,Lägenhet,1955,[Fruängen],1895000,555000,2450000,2175,Fastighetsbyrån,298.8700044997411,Fruangen
+2015-08-31,Jenny Linds gata 15,Fruängen,Röd Fruängen,2,60,null,Lägenhet,1955,[Fruängen],2095000,805000,2900000,3204,Länsförsäkringar Fastighetsförmedling,387.1718481315827,Fruangen
+2015-08-28,Ellen Keys gata 24,Fruängen,Röd Fruängen,2,63,3,Lägenhet,2006,[Fruängen],1650000,420000,2070000,5534,Bjurfors,159.49145867657714,Fruangen
+2015-08-28,Vantörsvägen 262,Fruängen,Röd Fruängen,3,85,2,Lägenhet,2014,[Fruängen],3295000,605000,3900000,4995,Fastighetsbyrån,613.9361672183423,Fruangen
+2015-08-27,Fruängstorget 3,Fruängen,Röd Fruängen,1.5,30,5,Lägenhet,1961,[Hägersten],1995000,465000,2460000,2162,Svensk Fastighetsförmedling,69.41226965637328,Fruangen
+2015-08-27,Gamla Södertäljevägen 6,Fruängen,Röd Fruängen,2,64,3,Lägenhet,2011,[Fruängen],2495000,415000,2910000,3531,Notar,571.9362347408719,Fruangen
+2015-08-27,Anna Sandströms gata 22,Fruängen,Röd Fruängen,3,65,2,Lägenhet,1957,[Fruängen],2495000,255000,2750000,2950,Notar,225.62727006245242,Fruangen
+2015-08-27,Hanna Rydhs gata 16,Fruängen,Röd Fruängen,2,62.5,3,Lägenhet,null,[Fruängen],2195000,385000,2580000,3966,Fastighetsbyrån,531.4115487692502,Fruangen
+2015-08-26,Eva Bonniers gata 10,Fruängen,Röd Fruängen,2,57,8,Lägenhet,1955,[Fruängen],2195000,665000,2860000,3049,Fastighetsbyrån,279.80253973736706,Fruangen
+2015-08-26,Hanna Paulis gata 25,Fruängen,Röd Fruängen,2,55,2,Lägenhet,1956,[Fruängen],2150000,570000,2720000,2908,Södermäklarna,204.89854296516322,Fruangen
+2015-08-26,Eva Bonniers gata 6,Fruängen,Röd Fruängen,3,72,8,Lägenhet,1955,[Fruängen],2825000,200000,3025000,3626,Mäklarringen,222.46077552806724,Fruangen
+2015-08-26,Eva Bonniers gata 15,Fruängen,Röd Fruängen,3,71,0.5,Lägenhet,1953,[Fruängen],2795000,515000,3310000,3609,Fastighetsbyrån,251.7211159104591,Fruangen
+2015-08-19,Jenny Linds gata 7,Fruängen,Röd Fruängen,3,76,3,Lägenhet,null,[Fruängen-Hägersten],2495000,535000,3030000,3973,Svenska Mäklarhuset,359.6175317293338,Fruangen
+2015-08-17,Jenny Linds gata 10,Fruängen,Röd Fruängen,2,44,1,Lägenhet,1955,[Fruängen],1795000,635000,2430000,2435,Länsförsäkringar Fastighetsförmedling,337.57657163901644,Vastertorp
+2015-08-17,Vantörsvägen 260,Fruängen,Röd Fruängen,2.5,62,1,Lägenhet,2013,[Fruängen],2475000,705000,3180000,3495,Länsförsäkringar Fastighetsförmedling,603.8526138111934,Fruangen
+2015-08-14,Doktor Widerströms gata 58,Fruängen,Röd Fruängen,2,58,null,Lägenhet,1953,[Hägersten-Liljeholmen],1995000,605000,2600000,3363,Living Fastighetsmäkleri,455.98952072175786,Fruangen
+2015-08-12,Lina Sandells plan 2,Fruängen,Röd Fruängen,2,55,4,Lägenhet,1954,[Fruängen],2195000,535000,2730000,3607,Fastighetsbyrån,341.959397962883,Fruangen
+2015-08-12,Doktor Widerströms gata 60,Fruängen,Röd Fruängen,2,56,1,Lägenhet,1953,[Fruängen],2095000,630000,2725000,3252,Fastighetsbyrån,454.2146608107266,Fruangen
+2015-08-11,Gamla Södertäljevägen 8,Fruängen,Röd Fruängen,2,40,5,Lägenhet,null,[Fruängen],2550000,0,2550000,2207,BOSTHLM,576.3534049643657,Fruangen
+2015-08-07,Lina Sandells Plan 7,Fruängen,Röd Fruängen,3,66,1,Lägenhet,1955,[Fruängen],2395000,425000,2820000,4443,HusmanHagberg,238.1409501088476,Fruangen
+2015-08-06,Elin Wägners gata 17,Fruängen,Röd Fruängen,1,28,-1,Lägenhet,1958,[Fruängen Centrum],1795000,285000,2080000,2061,HusmanHagberg,370.7393548088772,Fruangen
+2015-08-04,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1.5,45.5,3,Lägenhet,1967,[Fruängen],1695000,605000,2300000,3209,Länsförsäkringar Fastighetsförmedling,448.3225783358714,Fruangen
+2015-08-01,Doktor Widerströms gata 50,Fruängen,Röd Fruängen,3,67,2,Lägenhet,1953,[Fruängen],2495000,305000,2800000,4200,Fastighetsbyrån,432.4666282051032,Fruangen
+2015-07-29,Elin Wägners gata 1,Fruängen,Röd Fruängen,2,63,1,Lägenhet,1958,[Hägersten],2455000,0,2455000,4366,Mäklarhuset,437.63506598160313,Fruangen
+2015-07-28,Ellen Keys gata 77,Fruängen,Röd Fruängen,2,53,3,Lägenhet,1956,[Hägersten],2195000,455000,2650000,2597,Mäklarhuset,179.33556134020688,Fruangen
+2015-07-24,Lotta Svärds Gränd 3,Fruängen,Röd Fruängen,2,47,null,Lägenhet,2014,[Fruängen],2095000,775000,2870000,2975,Länsförsäkringar Fastighetsförmedling,677.9700795957314,Fruangen
+2015-07-24,Fruängstorget 5,Fruängen,Röd Fruängen,1.5,45,1,Lägenhet,null,[Fruängen-Hägersten],1995000,405000,2400000,2533,Svenska Mäklarhuset,72.7185448168156,Fruangen
+2015-07-23,Eva Bonniers gata 2,Fruängen,Röd Fruängen,1,31,4,Lägenhet,1955,[Hägersten],1800000,720000,2520000,1846,Mäklarhuset,177.18031860447098,Fruangen
+2015-07-20,Alva Myrdals gata 6,Fruängen,Röd Fruängen,2,59,6,Lägenhet,2014,[Fruängen],2250000,350000,2600000,3644,Notar,751.4661530880629,Fruangen
+2015-07-19,Alva Myrdals gata 4,Fruängen,Röd Fruängen,2,37,3,Lägenhet,null,[Fruängen-Hägersten],1995000,505000,2500000,2587,Svenska Mäklarhuset,751.4661530880629,Fruangen
+2015-07-10,Hanna Rydhs gata 18,Fruängen,Röd Fruängen,2,62.5,2,Lägenhet,null,[Fruängen],2195000,485000,2680000,3929,Fastighetsbyrån,523.2798089420637,Fruangen
+2015-07-03,Elin Wägners gata 43,Fruängen,Röd Fruängen,2,55,2,Lägenhet,1958,[Fruängen],1995000,555000,2550000,3871,BOSTHLM,361.8896934767808,Fruangen
+2015-07-01,Fruängsgatan 39,Fruängen,Röd Fruängen,4,127,9,Lägenhet,2008,[Hägersten],4495000,1405000,5900000,6281,Mäklarhuset,122.90161671184804,Fruangen
+2015-06-30,Eva Bonniers gata 8,Fruängen,Röd Fruängen,2,59,4,Lägenhet,1955,[Hägersten],2375000,375000,2750000,3057,Mäklarhuset,252.117440724061,Fruangen
+2015-06-18,Elsa Borgs gata 54,Fruängen,Röd Fruängen,1,26,3,Lägenhet,1957,[Fruängen],1595000,300000,1895000,1818,HusmanHagberg,365.75850296557917,Fruangen
+2015-06-18,Elin Wägners gata 15,Fruängen,Röd Fruängen,1,36,null,Lägenhet,1958,[Fruängen],1795000,405000,2200000,2615,Mäklarringen,394.8545987568555,Fruangen
+2015-06-18,Lina Sandells Plan 24,Fruängen,Röd Fruängen,2,54,1,Lägenhet,1954,[Fruängen],2195000,315000,2510000,3395,Fastighetsbyrån,384.4885452093898,Fruangen
+2015-06-18,Eva Bonniers gata 27,Fruängen,Röd Fruängen,3,71,2,Lägenhet,1955,[Fruängen],2695000,355000,3050000,3660,Fastighetsbyrån,306.6763623307749,Fruangen
+2015-06-18,Doktor Widerströms gata 68,Fruängen,Röd Fruängen,1,25,2,Lägenhet,null,[Fruängen],1950000,0,1950000,1672,BOSTHLM,422.579864392844,Fruangen
+2015-06-16,Doktor Widerströms gata 2,Fruängen,Röd Fruängen,4,75,null,Lägenhet,null,[Hägersten],2875000,215000,3090000,null,Mäklarhuset,384.1737184333047,Fruangen
+2015-06-11,Anna Sandströms Gata 8,Fruängen,Röd Fruängen,3,66,1,Lägenhet,1957,[Fruängen],2250000,460000,2710000,2995,Södermäklarna,222.17949911472684,Fruangen
+2015-06-11,Fruängsgatan 39,Fruängen,Röd Fruängen,3,111.3,3,Lägenhet,2007,[Fruängen],3995000,605000,4600000,5960,Fastighetsbyrån,122.90161671184804,Fruangen
+2015-06-11,Elsa Borgs gata 46,Fruängen,Röd Fruängen,4,91,3,Lägenhet,1957,[Hägersten],3090000,540000,3630000,5354,Mäklarhuset,405.36880885855334,Fruangen
+2015-06-10,Ada Nilssons gata 5,Fruängen,Röd Fruängen,2,62,5,Lägenhet,2010,[Hägersten],2495000,215000,2710000,3358,Erik Olsson Fastighetsförmedling,596.2560185827186,Fruangen
+2015-06-10,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,1,27,3,Lägenhet,1955,[Fruängen],1595000,305000,1900000,1557,Fastighetsbyrån,229.81973780294786,Fruangen
+2015-06-10,Jenny Nyströms gata 14,Fruängen,Röd Fruängen,2,65.4,1,Lägenhet,1967,[Fruängen],1795000,195000,1990000,4619,Fastighetsbyrån,549.726865410586,Fruangen
+2015-06-07,Lina Sandells Plan 28,Fruängen,Röd Fruängen,1,27,3,Lägenhet,1955,[Hägersten],1750000,315000,2065000,1792,Mäklarhuset,356.78332536459857,Fruangen
+2015-06-06,Elsa Borgs gata 42,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1957,[Fruängen],1950000,175000,2125000,3385,StjärnMäklarna AB,414.7557225740706,Fruangen
+2015-06-05,Eva Bonniers gata 8,Fruängen,Röd Fruängen,3,72,8,Lägenhet,1955,[Hägersten],2895000,155000,3050000,3642,Svensk Fastighetsförmedling,252.117440724061,Fruangen
+2015-06-05,Doktor Widerströms gata 28,Fruängen,Röd Fruängen,1,40,3,Lägenhet,1953,[Hägersten],1875000,125000,2000000,2685,Mäklarhuset,464.031617696631,Fruangen
+2015-06-05,Ellen Keys gata 89,Fruängen,Röd Fruängen,3,66,null,Lägenhet,null,[Hägersten-Liljeholmen],null,NaN,2950000,3794,SkandiaMäklarna,223.2263188920521,Fruangen
+2015-06-05,Agnes Lagerstedts gata 1,Fruängen,Röd Fruängen,3,70,null,Lägenhet,1955,[Fruängen],2495000,420000,2915000,3798,Länsförsäkringar Fastighetsförmedling,230.54066118877546,Fruangen
+2015-06-03,Hanna Paulis gata 33,Fruängen,Röd Fruängen,4,95,3,Lägenhet,1955,[Fruängen],3295000,680000,3975000,4831,Fastighetsbyrån,246.02071322794708,Fruangen
+2015-06-03,Elin Wägners gata 15,Fruängen,Röd Fruängen,1,36,null,Lägenhet,1958,[Fruängen Centrum],1795000,575000,2370000,2615,HusmanHagberg,394.8545987568555,Fruangen
+2015-06-03,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,2,55,4,Lägenhet,1953,[Hägersten],2195000,115000,2310000,3222,Mäklarhuset,393.40131905680227,Fruangen
+2015-06-03,Ada Nilssons gata 11,Fruängen,Röd Fruängen,3,74,7,Lägenhet,2010,[Fruängen],2995000,755000,3750000,4040,Länsförsäkringar Fastighetsförmedling,608.7666307408977,Fruangen
+2015-06-03,Ellen Keys gata 59,Fruängen,Röd Fruängen,2,53,null,Lägenhet,1955,[Fruängen],2195000,0,2195000,3055,Classic Home Fastighetsmäkleri,99.08347546454065,Fruangen
+2015-06-02,Hanna Rydhs gata 16,Fruängen,Röd Fruängen,2,44.5,2,Lägenhet,null,[Fruängen],1895000,55000,1950000,2920,Fastighetsbyrån,531.4115487692502,Fruangen
+2015-06-01,Ellen Fries gata 3,Fruängen,Röd Fruängen,1.5,42,null,Lägenhet,1957,[Fruängen],1795000,385000,2180000,2753,Länsförsäkringar Fastighetsförmedling,419.81899841763897,Fruangen
+2015-05-29,Hanna Paulis gata 15,Fruängen,Röd Fruängen,2,57,2,Lägenhet,1955,[Fruängen],2100000,270000,2370000,3013,Erik Olsson Fastighetsförmedling,175.04498333074014,Fruangen
+2015-05-28,Wendela Hebbes gata 12,Fruängen,Röd Fruängen,2,40,5,Lägenhet,2014,[Fruängen],1995000,535000,2530000,2740,Fastighetsbyrån,746.1198111792203,Fruangen
+2015-05-28,Doktor Widerströms gata 60,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1953,[Fruängen],2095000,365000,2460000,3252,Fastighetsbyrån,454.2146608107266,Fruangen
+2015-05-27,Eva Bonniers gata 25,Fruängen,Röd Fruängen,3,74,3,Lägenhet,1955,[Fruängen],2495000,405000,2900000,3750,Fastighetsbyrån,302.1046656043432,Fruangen
+2015-05-27,Lina Sandells Plan 17,Fruängen,Röd Fruängen,3,66,1,Lägenhet,1953,[Hägersten],2600000,0,2600000,4443,Mäklarhuset,255.84827010879658,Fruangen
+2015-05-26,Anna Sandströms gata 20,Fruängen,Röd Fruängen,1,37,null,Lägenhet,1957,[Fruängen],1795000,240000,2035000,1679,Mäklarringen,212.75589382154422,Fruangen
+2015-05-25,Elsa Borgs gata 74,Fruängen,Röd Fruängen,3,71,2,Lägenhet,1957,[Hägersten],2695000,5000,2700000,4822,Mäklarhuset,296.8937320201833,Fruangen
+2015-05-23,Ellen Keys gata 71,Fruängen,Röd Fruängen,2,53,null,Lägenhet,null,[Hägersten],2250000,290000,2540000,null,Mäklarhuset,158.61080718944552,Fruangen
+2015-05-23,Elin Wägners gata 25,Fruängen,Röd Fruängen,2,58,1,Lägenhet,null,[Fruängen],2095000,305000,2400000,4062,Fastighetsbyrån,327.67085498911825,Fruangen
+2015-05-22,Ada Nilsson gata 19,Fruängen,Röd Fruängen,4,97,7,Lägenhet,2009,[Hägersten-Liljeholmen],3495000,530000,4025000,5204,SkandiaMäklarna,643.9177169348602,Fruangen
+2015-05-22,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1.5,47,3,Lägenhet,1967,[Fruängen],1795000,225000,2020000,3314,HusmanHagberg,448.3225783358714,Fruangen
+2015-05-22,Barbro Alvings gata 23,Fruängen,Röd Fruängen,2,55,3,Lägenhet,null,[Fruängen-Hägersten],2395000,265000,2660000,2809,Svenska Mäklarhuset,695.703754926558,Fruangen
+2015-05-21,Bergtallsvägen 24,Fruängen,Röd Fruängen,4,98.5,4,Lägenhet,2009,[Älvsjö],4095000,445000,4540000,5415,Fastighetsbyrån,522.4414564876214,Fruangen
+2015-05-21,Lina Sandells plan 2,Fruängen,Röd Fruängen,1,25,2,Lägenhet,1955,[Hägersten],1750000,250000,2000000,1666,Mäklarhuset,341.959397962883,Fruangen
+2015-05-21,Vantörsvägen 285,Fruängen,Röd Fruängen,4,93.5,null,Lägenhet,null,[Fruängen],3795000,405000,4200000,4215,Svenska Mäklarhuset,715.2051777398606,Fruangen
+2015-05-21,Ada Nilssons gata 5,Fruängen,Röd Fruängen,2,65,6,Lägenhet,null,[Fruängen],3000000,0,3000000,3521,BOSTHLM,596.2560185827186,Fruangen
+2015-05-20,Doktor Widerströms gata 72,Fruängen,Röd Fruängen,2,56,2,Lägenhet,1953,[Fruängen],2295000,105000,2400000,3252,Fastighetsbyrån,427.8030150702321,Fruangen
+2015-05-14,Fredrika Bremers Gata 17,Fruängen,Röd Fruängen,3,78.5,null,Lägenhet,1967,[Fruängen],1995000,405000,2400000,5536,SverigeMäklaren,477.45294336649135,Fruangen
+2015-05-13,Fruängstorget 15,Fruängen,Röd Fruängen,2,45,1,Lägenhet,2012,[Fruängen],1895000,610000,2505000,2533,Fastighetsbyrån,69.16837471515394,Fruangen
+2015-05-10,Elin Wägners gata 21,Fruängen,Röd Fruängen,1,38,1,Lägenhet,null,[Hägersten],1595000,705000,2300000,null,Mäklarhuset,347.90862121466546,Fruangen
+2015-05-08,Emilia Fogelklous gata 23,Fruängen,Röd Fruängen,4,95,2,Lägenhet,2014,[Fruängen],3495000,525000,4020000,4294,Fastighetsbyrån,672.1264846093484,Fruangen
+2015-05-08,Ada Nilssons gata 19,Fruängen,Röd Fruängen,2,65,2,Lägenhet,2009,[Fruängen],2495000,80000,2575000,3487,Mäklarringen,547.1494660243407,Fruangen
+2015-05-07,Elsa Borgs gata 54,Fruängen,Röd Fruängen,1.5,46,1,Lägenhet,1957,[Fruängen],1895000,175000,2070000,3080,Hemmäklarna,365.75850296557917,Fruangen
+2015-05-06,Anna Sandströms gata 10,Fruängen,Röd Fruängen,3,null,3,Lägenhet,1957,[Fruängen],2575000,-55000,2520000,2950,Södermäklarna,209.84670739891757,Fruangen
+2015-05-06,Elin Wägners gata 21,Fruängen,Röd Fruängen,3,71,2,Lägenhet,1958,[Hägersten],2190000,510000,2700000,4862,Mäklarhuset,347.90862121466546,Fruangen
+2015-05-06,Hanna Rydhs gata 36,Fruängen,Röd Fruängen,4,null,0.5,Lägenhet,1970,[Fruängen],2600000,810000,3410000,5471,Södermäklarna,590.5519838709969,Fruangen
+2015-05-06,Ada Nilssons gata 19,Fruängen,Röd Fruängen,3,76,8,Lägenhet,2009,[Fruängen],3095000,355000,3450000,4077,Fastighetsbyrån,547.1494660243407,Fruangen
+2015-05-02,Hanna Rydhs gata 12,Fruängen,Röd Fruängen,2,62.5,null,Lägenhet,null,[Fruängen],1950000,270000,2220000,3893,BOSTHLM,546.1459768113,Fruangen
+2015-04-30,Anna Sandströms gata 6,Fruängen,Röd Fruängen,4,72,2,Lägenhet,1957,[Fruängen],2595000,415000,3010000,3268,Notar,238.5030447692108,Fruangen
+2015-04-30,Doktor Widerströms gata 12,Fruängen,Röd Fruängen,1,25,2,Lägenhet,1953,[Fruängen],1595000,185000,1780000,1985,Fastighetsbyrån,445.1729479806487,Fruangen
+2015-04-30,Eva Bonniers gata 8,Fruängen,Röd Fruängen,2,59,0.5,Lägenhet,1955,[Fruängen],1995000,580000,2575000,2972,Fastighetsbyrån,252.117440724061,Fruangen
+2015-04-29,Eva Bonniers gata 2,Fruängen,Röd Fruängen,1,42,8,Lägenhet,1955,[Fruängen],1895000,405000,2300000,2389,Fastighetsbyrån,177.18031860447098,Fruangen
+2015-04-29,Kata Dalströms gata 10,Fruängen,Röd Fruängen,3,70,3,Lägenhet,1957,[Fruängen],2575000,525000,3100000,3609,Fastighetsbyrån,348.69834309281777,Fruangen
+2015-04-29,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,62,4,Lägenhet,2009,[Fruängen],2375000,425000,2800000,3229,Mäklarringen,619.9417678700404,Fruangen
+2015-04-29,Doktor Widerströms gata 88,Fruängen,Röd Fruängen,3,68,null,Lägenhet,1953,[Fruängen],2595000,405000,3000000,3863,Mäklarringen,353.7803820124712,Fruangen
+2015-04-29,Doktor Widerströms gata 92,Fruängen,Röd Fruängen,3,68,2,Lägenhet,1953,[Fruängen],2395000,415000,2810000,3863,Fastighetsbyrån,348.67753465838285,Fruangen
+2015-04-29,Kata Dalströms gata 9,Fruängen,Röd Fruängen,1,43,1,Lägenhet,1955,[Fruängen],1895000,405000,2300000,2209,Fastighetsbyrån,268.1189314003481,Fruangen
+2015-04-29,Vantörsvägen 285,Fruängen,Röd Fruängen,1,43,1,Lägenhet,null,[Fruängen],1895000,155000,2050000,2351,Fastighetsbyrån,715.2051777398606,Fruangen
+2015-04-25,Doktor Widerströms gata 56,Fruängen,Röd Fruängen,1,27,-1,Lägenhet,1953,[Fruängen],1650000,125000,1775000,1750,Mäklarringen,455.78349157316325,Fruangen
+2015-04-24,Jenny Nyströms gata 12,Fruängen,Röd Fruängen,2,65.5,2,Lägenhet,1967,[Fruängen],1795000,285000,2080000,4655,Fastighetsbyrån,547.1881407815054,Fruangen
+2015-04-24,Jenny Linds gata 5,Fruängen,Röd Fruängen,3,76,3,Lägenhet,1956,[Hägersten],2350000,680000,3030000,3973,Länsförsäkringar Fastighetsförmedling,351.2064578770201,Fruangen
+2015-04-24,Lotta Svärds Gränd 6,Fruängen,Röd Fruängen,2,54,4,Lägenhet,2013,[Hägersten],2275000,300000,2575000,3225,Länsförsäkringar Fastighetsförmedling,647.9832777854721,Fruangen
+2015-04-23,Hanna Paulis gata 10,Fruängen,Röd Fruängen,4,84,3,Lägenhet,1958,[Fruängen],2795000,155000,2950000,4474,Mäklarringen,242.30952825720942,Fruangen
+2015-04-23,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,7,Lägenhet,1965,[Fruängen],1695000,125000,1820000,2161,Hemmäklarna,69.41226965637328,Fruangen
+2015-04-22,Anna Sandströms gata 4,Fruängen,Röd Fruängen,1,40,4,Lägenhet,null,[Hägersten],1595000,505000,2100000,1816,Mäklarhuset,244.17655239594234,Fruangen
+2015-04-21,Doktor Widerströms gata 40,Fruängen,Röd Fruängen,2,57,2,Lägenhet,1953,[Hägersten],2249000,271000,2520000,3617,Erik Olsson Fastighetsförmedling,439.7639019174185,Fruangen
+2015-04-21,Hanna Paulis gata 31,Fruängen,Röd Fruängen,2,55,1,Lägenhet,1956,[Fruängen],2075000,190000,2265000,2874,Fastighetsbyrån,227.15453472972834,Fruangen
+2015-04-21,Ellen Keys gata 55,Fruängen,Röd Fruängen,3,62,2,Lägenhet,1955,[Fruängen],2495000,30000,2525000,3530,Fastighetsbyrån,107.45857304837084,Fruangen
+2015-04-17,Vantörsvägen 270,Fruängen,Röd Fruängen,2,45,4,Lägenhet,2014,[Hägersten],2095000,535000,2630000,2895,Länsförsäkringar Fastighetsförmedling,646.0502184398157,Fruangen
+2015-04-16,Lina Sandells Plan 16,Fruängen,Röd Fruängen,1,27,null,Lägenhet,1955,[Fruängen],1750000,300000,2050000,1949,Fastighetsbyrån,410.736614908303,Fruangen
+2015-04-15,Hanna Paulis gata 10,Fruängen,Röd Fruängen,6,104,3,Lägenhet,1958,[Fruängen],2995000,925000,3920000,5335,Fastighetsbyrån,242.30952825720942,Fruangen
+2015-04-15,Doktor Widerströms gata 35,Fruängen,Röd Fruängen,2,56,2,Lägenhet,1953,[Fruängen],2250000,250000,2500000,3252,Fastighetsbyrån,385.5870243980017,Fruangen
+2015-04-14,Fruängstorget 15,Fruängen,Röd Fruängen,3,69.5,null,Lägenhet,2012,[Fruängen],2595000,130000,2725000,3912,Fabergé Fastighetsmäkleri,69.16837471515394,Fruangen
+2015-04-10,Hanna Rydhs gata 38,Fruängen,Röd Fruängen,2,62.5,1,Lägenhet,null,[Hägersten],1975000,240000,2215000,3783,BOSTHLM,577.3092693195441,Fruangen
+2015-04-10,Hanna Paulis gata 17,Fruängen,Röd Fruängen,3.5,85,2,Lägenhet,1956,[Fruängen],2795000,705000,3500000,4341,HusmanHagberg,169.7929608837274,Fruangen
+2015-04-07,Elsa Borgs gata 64,Fruängen,Röd Fruängen,2,57,2,Lägenhet,1957,[Fruängen],1950000,600000,2550000,3975,Fastighetsbyrån,331.8288686661246,Fruangen
+2015-04-07,Eva Bonniers gata 37,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1956,[Fruängen],2650000,475000,3125000,3629,Notar,265.60573503372467,Fruangen
+2015-04-02,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,2,42,4,Lägenhet,2012,[Hägersten],1995000,605000,2600000,2450,Länsförsäkringar Fastighetsförmedling,633.8430863588287,Fruangen
+2015-04-02,Hanna Rydhs gata 20,Fruängen,Röd Fruängen,2,62.5,3,Lägenhet,1970,[Hägersten/Liljeholmen],1975000,625000,2600000,3674,SkandiaMäklarna,524.2858313372808,Fruangen
+2015-03-30,Jenny Linds gata 10,Fruängen,Röd Fruängen,2,44,3,Lägenhet,1955,[Hägersten],1675000,595000,2270000,2435,Länsförsäkringar Fastighetsförmedling,337.57657163901644,Vastertorp
+2015-03-30,Jenny Linds gata 12,Fruängen,Röd Fruängen,2,44,null,Lägenhet,1957,[Hägersten],1595000,625000,2220000,2435,Länsförsäkringar Fastighetsförmedling,329.8288654322428,Fruangen
+2015-03-25,Doktor Widerströms gata 14,Fruängen,Röd Fruängen,5,92,2,Lägenhet,1953,[Hägersten],2990000,910000,3900000,5614,Mäklarhuset,452.8708441034092,Fruangen
+2015-03-24,Vantörsvägen 285,Fruängen,Röd Fruängen,4,93.5,3,Lägenhet,2013,[Hägersten/Liljeholmen],3495000,705000,4200000,4200,Svenska Mäklarhuset,715.2051777398606,Fruangen
+2015-03-24,Vantörsvägen 262,Fruängen,Röd Fruängen,3,74,1,Lägenhet,2014,[Fruängen],2995000,505000,3500000,4495,Fastighetsbyrån,613.9361672183423,Fruangen
+2015-03-23,Eva Bonniers gata 35,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1955,[Fruängen],2650000,150000,2800000,3579,HusmanHagberg,272.76115574881885,Fruangen
+2015-03-23,Alva Myrdals gata 6,Fruängen,Röd Fruängen,3,75,3,Lägenhet,2014,[Hägersten],2795000,405000,3200000,4406,Länsförsäkringar Fastighetsförmedling,751.4661530880629,Fruangen
+2015-03-22,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,65,6,Lägenhet,2010,[Fruängen],2550000,270000,2820000,3521,Mäklarringen,608.7666307408977,Fruangen
+2015-03-19,Ellen Keys gata 71,Fruängen,Röd Fruängen,2,53,2,Lägenhet,1956,[Hägersten],2095000,515000,2610000,2597,Mäklarhuset,158.61080718944552,Fruangen
+2015-03-18,Jenny Linds gata 18,Fruängen,Röd Fruängen,2,60,3,Lägenhet,1957,[Fruängen Centrum],2195000,455000,2650000,3264,HusmanHagberg,301.1079182934962,Fruangen
+2015-03-17,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,43,7,Lägenhet,2009,[Hägersten/Liljeholmen],1995000,585000,2580000,2240,Svenska Mäklarhuset,619.9417678700404,Fruangen
+2015-03-12,Lotta Svärds Gränd 14,Fruängen,Röd Fruängen,5,133,null,Villa,null,[Hägersten],1725000,475000,2200000,null,Länsförsäkringar Fastighetsförmedling,657.614348558157,Fruangen
+2015-03-12,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,36,2,Lägenhet,2008,[Hägersten],1495000,530000,2025000,3235,Länsförsäkringar Fastighetsförmedling,159.49145867657714,Fruangen
+2015-03-11,Fruängstorget 13,Fruängen,Röd Fruängen,3,67,3,Lägenhet,2010,[På Mycket Kort Avstånd],2795000,455000,3250000,3771,Svensk Fastighetsförmedling,102.78021282899526,Fruangen
+2015-03-11,Ellen Keys gata 51,Fruängen,Röd Fruängen,3,68,3,Lägenhet,null,[Fruängen],2495000,455000,2950000,3851,Fastighetsbyrån,113.41874591625734,Fruangen
+2015-03-11,Vantörsvägen 281,Fruängen,Röd Fruängen,4,93,2,Lägenhet,2013,[Fruängen],3495000,530000,4025000,4186,Fastighetsbyrån,681.0128815770998,Fruangen
+2015-03-10,Lotta Svärds Gränd 3,Fruängen,Röd Fruängen,4,92,null,Lägenhet,2014,[Fruängen],3650000,100000,3750000,5113,Stones Fastighetsförmedling,677.9700795957314,Fruangen
+2015-03-06,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,43,10,Lägenhet,2007,[Fruängen],1995000,505000,2500000,2239,Fastighetsbyrån,619.9417678700404,Fruangen
+2015-03-04,Elin Wägners gata 21,Fruängen,Röd Fruängen,1,36,-1,Lägenhet,1958,[Fruängen],1595000,625000,2220000,2615,Fastighetsbyrån,347.90862121466546,Fruangen
+2015-03-04,Lina Sandells Plan 10,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1954,[Fruängen],1850000,600000,2450000,3551,Länsförsäkringar Fastighetsförmedling,397.6244678168346,Fruangen
+2015-03-04,Bergtallsvägen 24,Fruängen,Röd Fruängen,3,86.5,null,Lägenhet,2010,[Älvsjö],3250000,475000,3725000,4768,Länsförsäkringar Fastighetsförmedling,522.4414564876214,Fruangen
+2015-03-03,Vantörsvägen 270,Fruängen,Röd Fruängen,2,62,3,Lägenhet,2013,[Hägersten/Liljeholmen],2495000,525000,3020000,3495,Svenska Mäklarhuset,646.0502184398157,Fruangen
+2015-02-27,Ellen Keys gata 37,Fruängen,Röd Fruängen,3,76.2,null,Lägenhet,1957,[Fruängen],2475000,575000,3050000,3723,Fastighetsbyrån,216.50669602999574,Fruangen
+2015-02-26,Lina Sandells Plan 20,Fruängen,Röd Fruängen,1,27,1,Lägenhet,1955,[Hägersten],1550000,450000,2000000,1948,Mäklarhuset,405.506324416802,Fruangen
+2015-02-19,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,43,2,Lägenhet,2010,[Fruängen],1925000,650000,2575000,2329,Mäklarringen,608.7666307408977,Fruangen
+2015-02-12,Elsa Borgs gata 48,Fruängen,Röd Fruängen,3,70,null,Lägenhet,1957,[Fruängen],2295000,415000,2710000,4250,Fastighetsbyrån,394.42003880775223,Fruangen
+2015-02-12,Hanna Paulis Gata 3,Fruängen,Röd Fruängen,4.5,85,2,Lägenhet,1956,[Fruängen],2595000,505000,3100000,4341,HusmanHagberg,144.5321633495201,Fruangen
+2015-02-11,Elsa Borgs gata 50,Fruängen,Röd Fruängen,3,70,1,Lägenhet,1957,[Fruängen],2745000,-20000,2725000,4272,BOSTHLM,373.9228190052853,Fruangen
+2015-02-06,Lotta Svärds Gränd 6,Fruängen,Röd Fruängen,2,51,null,Lägenhet,2014,[Fruängen],1995000,635000,2630000,3195,Södermäklarna,647.9832777854721,Fruangen
+2015-02-05,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,45.5,1,Lägenhet,1967,[Fruängen],1595000,315000,1910000,3208,Svenska Mäklarhuset,448.3225783358714,Fruangen
+2015-02-04,Emilia Fogelklous gata 3,Fruängen,Röd Fruängen,3,77.5,1,Lägenhet,2013,[Fruängen],2995000,355000,3350000,3558,Fastighetsbyrån,726.0827991438592,Fruangen
+2015-01-31,Ellen Keys gata 95,Fruängen,Röd Fruängen,3,64,null,Lägenhet,1955,[Fruängen],2395000,365000,2760000,3680,Notar,253.93140374546687,Fruangen
+2015-01-30,Ellen Keys gata 55,Fruängen,Röd Fruängen,1,29,null,Lägenhet,1955,[Fruängen],1495000,0,1495000,1711,Fastighetsbyrån,107.45857304837084,Fruangen
+2015-01-29,Elin Wägners gata 43,Fruängen,Röd Fruängen,1,28,3,Lägenhet,1958,[Fruängen],1495000,330000,1825000,2061,HusmanHagberg,361.8896934767808,Fruangen
+2015-01-25,Elsa Borgs gata 33,Fruängen,Röd Fruängen,3,71.9,1,Lägenhet,1996,[Fruängen-Hägersten],2395000,305000,2700000,4397,Svenska Mäklarhuset,393.5639470035934,Fruangen
+2015-01-23,Fruängstorget 7,Fruängen,Röd Fruängen,1,31.5,null,Lägenhet,2012,[Fruängen],1895000,205000,2100000,1773,Fastighetsbyrån,70.74593273711476,Fruangen
+2015-01-22,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,45.5,null,Lägenhet,1967,[Fruängen],1425000,295000,1720000,3209,Fastighetsbyrån,448.3225783358714,Fruangen
+2015-01-22,Vantörsvägen 283,Fruängen,Röd Fruängen,1.5,43,1,Lägenhet,2014,[Fruängen],1995000,75000,2070000,2351,Fastighetsbyrån,697.418287971656,Fruangen
+2015-01-21,Ellen Keys gata 93,Fruängen,Röd Fruängen,1,38,1,Lägenhet,1956,[Fruängen],1695000,205000,1900000,2320,HusmanHagberg,238.32024762026398,Fruangen
+2015-01-17,Vantörsvägen 270,Fruängen,Röd Fruängen,2,45,1,Lägenhet,2013,[Fruängen],2050000,250000,2300000,2895,HusmanHagberg,646.0502184398157,Fruangen
+2015-01-16,Ellen Keys gata 37,Fruängen,Röd Fruängen,3,80,3,Lägenhet,1957,[Hägersten],2450000,350000,2800000,4074,Mäklarhuset,216.50669602999574,Fruangen
+2015-01-15,Doktor Widerströms gata 58,Fruängen,Röd Fruängen,1,25,3,Lägenhet,1953,[Fruängen],1595000,105000,1700000,1672,Fastighetsbyrån,455.98952072175786,Fruangen
+2015-01-15,Wendela Hebbes gata 14,Fruängen,Röd Fruängen,3,71,3,Lägenhet,2014,[Fruängen],3430000,0,3430000,4214,Fastighetsbyrån,725.721328196487,Fruangen
+2015-01-15,Elin Wägners gata 23,Fruängen,Röd Fruängen,3,71,2,Lägenhet,1958,[Hägersten],2450000,0,2450000,4862,Mäklarhuset,335.9461395163858,Fruangen
+2015-01-14,Bergtallsvägen 24,Fruängen,Röd Fruängen,3,75.5,null,Lägenhet,2010,[Älvsjö],2995000,605000,3600000,4355,Länsförsäkringar Fastighetsförmedling,522.4414564876214,Fruangen
+2015-01-10,Barbro Alvings gata 25,Fruängen,Röd Fruängen,2,55,1,Lägenhet,2013,[Fruängen],2195000,225000,2420000,2861,Notar,682.6990367151333,Fruangen
+2014-12-21,Elin Wägners gata 11,Fruängen,Röd Fruängen,3,69,null,Lägenhet,1958,[Hägersten/Liljeholmen],2275000,25000,2300000,4741,BOSTHLM,421.1358784049176,Fruangen
+2014-12-17,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,62,5,Lägenhet,2010,[Fruängen],2395000,275000,2670000,3358,Fastighetsbyrån,608.7666307408977,Fruangen
+2014-12-16,Vantörsvägen 274,Fruängen,Röd Fruängen,2,40,1,Lägenhet,2014,[Fruängen],1995000,215000,2210000,2729,Stones Fastighetsförmedling,700.1684995092028,Fruangen
+2014-12-15,Anna Sandströms gata 20,Fruängen,Röd Fruängen,4,80,null,Lägenhet,1957,[Fruängen],2295000,575000,2870000,3630,Svenska Mäklargruppen,212.75589382154422,Fruangen
+2014-12-14,Hanna Paulis gata 25,Fruängen,Röd Fruängen,2,55,0.5,Lägenhet,1956,[Fruängen],2095000,105000,2200000,2874,Fastighetsbyrån,204.89854296516322,Fruangen
+2014-12-12,Vantörsvägen 262,Fruängen,Röd Fruängen,2,45,null,Lägenhet,2013,[Fruängen],2265000,0,2265000,2895,Stones Fastighetsförmedling,613.9361672183423,Fruangen
+2014-12-11,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,3,Lägenhet,1955,[Fruängen],1995000,325000,2320000,2948,Fastighetsbyrån,229.81973780294786,Fruangen
+2014-12-11,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,58,null,Lägenhet,2009,[Fruängen],2095000,355000,2450000,3021,Fastighetsbyrån,619.9417678700404,Fruangen
+2014-12-10,Vantörsvägen 283,Fruängen,Röd Fruängen,3,73,null,Lägenhet,2013,[Fruängen],2595000,205000,2800000,3425,Fastighetsbyrån,697.418287971656,Fruangen
+2014-12-09,Eva Bonniers gata 10,Fruängen,Röd Fruängen,3,72,6,Lägenhet,1955,[Fruängen],2495000,865000,3360000,3591,Fastighetsbyrån,279.80253973736706,Fruangen
+2014-12-09,Vantörsvägen 281,Fruängen,Röd Fruängen,1.5,43,5,Lägenhet,null,[Hägersten/Liljeholmen],1995000,315000,2310000,2362,Svensk Fastighetsförmedling,681.0128815770998,Fruangen
+2014-12-09,Doktor Widerströms gata 34,Fruängen,Röd Fruängen,2,57,2,Villa,1953,[Hägersten],1895000,280000,2175000,null,Mäklarhuset,471.8991007794995,Fruangen
+2014-12-09,Ellen Keys gata 37,Fruängen,Röd Fruängen,3,80,3,Lägenhet,1957,[Hägersten],2450000,-135000,2315000,4074,Mäklarhuset,216.50669602999574,Fruangen
+2014-12-09,Lotta Svärds Gränd 12,Fruängen,Röd Fruängen,2,62,5,Lägenhet,2012,[Hägersten],2195000,315000,2510000,3617,Mäklarhuset,671.1333577674245,Fruangen
+2014-12-09,Hanna Rydhs gata 22,Fruängen,Röd Fruängen,2,62.5,2,Lägenhet,1970,[Fruängen],1795000,255000,2050000,3838,HusmanHagberg,531.0915118808164,Fruangen
+2014-12-06,Lina Sandells plan 2,Fruängen,Röd Fruängen,2,55,2,Lägenhet,1954,[Hägersten/Liljeholmen],null,NaN,2420000,3522,SkandiaMäklarna,341.959397962883,Fruangen
+2014-12-03,Vantörsvägen 283,Fruängen,Röd Fruängen,1.5,43,5,Lägenhet,2013,[Fruängen-Hägersten],1995000,305000,2300000,2362,Svenska Mäklarhuset,697.418287971656,Fruangen
+2014-12-01,Barbro Alvings gata 6,Fruängen,Röd Fruängen,2,54,null,Lägenhet,2014,[Fruängen],1995000,255000,2250000,2780,Södermäklarna,669.7567149946904,Fruangen
+2014-11-28,Elsa Borgs gata 68,Fruängen,Röd Fruängen,1,27,3,Lägenhet,1957,[Fruängen],1395000,430000,1825000,2072,Mäklarringen,307.3916164766608,Fruangen
+2014-11-27,Anna Sandströms gata 22,Fruängen,Röd Fruängen,3,65,3,Lägenhet,1957,[Fruängen],2200000,400000,2600000,2950,Södermäklarna,225.62727006245242,Fruangen
+2014-11-26,Vantörsvägen 274,Fruängen,Röd Fruängen,3,71,3,Villa,2014,[Hägersten],2750000,200000,2950000,null,Mäklarhuset,700.1684995092028,Fruangen
+2014-11-20,Eva Bonniers gata 10,Fruängen,Röd Fruängen,2,57,2,Villa,1955,[Hägersten],2075000,345000,2420000,null,Mäklarhuset,279.80253973736706,Fruangen
+2014-11-20,Kata Dalströms gata 15,Fruängen,Röd Fruängen,1,43,2,Lägenhet,1955,[Fruängen],1595000,430000,2025000,2209,HusmanHagberg,311.63205278654925,Fruangen
+2014-11-19,Vantörsvägen 283,Fruängen,Röd Fruängen,1.5,43,2,Lägenhet,null,[Hägersten/Liljeholmen],1895000,325000,2220000,2362,Svensk Fastighetsförmedling,697.418287971656,Fruangen
+2014-11-19,Doktor Widerströms gata 50A,Fruängen,Röd Fruängen,2,63,null,Lägenhet,1953,[Hägersten/Liljeholmen],1750000,175000,1925000,3833,Bostadsrättsspecialisten,413.4489848176581,Fruangen
+2014-11-19,Emilia Fogelklous gata 23,Fruängen,Röd Fruängen,5,92.5,2,Lägenhet,2014,[Fruängen],3495000,0,3495000,4204,Fastighetsbyrån,672.1264846093484,Fruangen
+2014-11-17,Eva Bonniers gata 2,Fruängen,Röd Fruängen,3,72,5,Lägenhet,1956,[Hägersten/Liljeholmen],2490000,-60000,2430000,3575,Svensk Fastighetsförmedling,177.18031860447098,Fruangen
+2014-11-12,Gamla Södertäljevägen 6,Fruängen,Röd Fruängen,4,92,null,Lägenhet,2011,[Fruängen],2995000,155000,3150000,5075,Fastighetsbyrån,571.9362347408719,Fruangen
+2014-11-12,Doktor Widerströms gata 72,Fruängen,Röd Fruängen,1,25,3,Lägenhet,1953,[Fruängen],1350000,385000,1735000,1672,Bjurfors,427.8030150702321,Fruangen
+2014-11-11,Vantörsvägen 270,Fruängen,Röd Fruängen,2,62,2,Lägenhet,2013,[Fruängen],2295000,485000,2780000,3495,Notar,646.0502184398157,Fruangen
+2014-11-11,Ellen Keys gata 64,Fruängen,Röd Fruängen,2,65,2,Lägenhet,null,[Fruängen],2395000,425000,2820000,3540,Fastighetsbyrån,210.17674645162992,Fruangen
+2014-11-07,Alva Myrdahlsgata 8,Fruängen,Röd Fruängen,2,40,null,Lägenhet,2014,[Hägersten/Liljeholmen],1890000,130000,2020000,2827,Svensk Fastighetsförmedling,750.5242195204557,Fruangen
+2014-11-06,Lina Sandells Plan 24,Fruängen,Röd Fruängen,1,27,null,Lägenhet,1955,[Fruängen],1395000,480000,1875000,1905,Länsförsäkringar Fastighetsförmedling,384.4885452093898,Fruangen
+2014-11-05,Ellen Keys gata 75,Fruängen,Röd Fruängen,2,53,2,Villa,null,[Hägersten],1895000,455000,2350000,null,Mäklarhuset,168.11414303641433,Fruangen
+2014-10-31,Fredrika Bremers gata 1,Fruängen,Röd Fruängen,3,77,1,Lägenhet,null,[Fruängen],1900000,320000,2220000,5206,Fastighetsbyrån,497.75692483091836,Vastertorp
+2014-10-30,Barbro Alvings gata 6,Fruängen,Röd Fruängen,2,54.5,2,Lägenhet,2014,[Fruängen-Hägersten],null,NaN,2400000,2810,Svenska Mäklarhuset,669.7567149946904,Fruangen
+2014-10-29,Ellen Keys gata 59,Fruängen,Röd Fruängen,2,53,2,Lägenhet,1955,[Hägersten],1895000,345000,2240000,3055,Mäklarhuset,99.08347546454065,Fruangen
+2014-10-29,Doktor Widerströms gata 40,Fruängen,Röd Fruängen,1,41,3,Lägenhet,1953,[Fruängen],1595000,305000,1900000,2735,Fastighetsbyrån,439.7639019174185,Fruangen
+2014-10-29,Anna Sandströms Gata 8,Fruängen,Röd Fruängen,2,42,null,Lägenhet,1957,[Fruängen],1695000,205000,1900000,1906,Living Fastighetsmäkleri,222.17949911472684,Fruangen
+2014-10-29,Hanna Rydhs gata 32,Fruängen,Röd Fruängen,3,73.5,3,Lägenhet,1967,[Fruängen-Hägersten],1995000,355000,2350000,4288,Svenska Mäklarhuset,574.6149235647304,Fruangen
+2014-10-28,Barbro Alvings gata 3,Fruängen,Röd Fruängen,2,53,1,Lägenhet,null,[Fruängen],2275000,0,2275000,2765,Notar,643.0255255601741,Fruangen
+2014-10-25,Alva Myrdals gata 8,Fruängen,Röd Fruängen,2,52,null,Lägenhet,2014,[Fruängen],1850000,230000,2080000,3311,Fastighetsbyrån,761.8971273002514,Fruangen
+2014-10-24,Anna Sandströms gata 12,Fruängen,Röd Fruängen,2,43,null,Lägenhet,null,[Hägersten/Liljeholmen],1695000,205000,1900000,1953,Svensk Fastighetsförmedling,197.96876160742934,Fruangen
+2014-10-24,Alva Myrdahlsgata 8,Fruängen,Röd Fruängen,2,37,3,Lägenhet,null,[Hägersten/Liljeholmen],1995000,30000,2025000,2684,Svensk Fastighetsförmedling,750.5242195204557,Fruangen
+2014-10-23,Hanna Paulis gata 13,Fruängen,Röd Fruängen,2,57,2,Lägenhet,1956,[Fruängen Centrum],1950000,350000,2300000,3013,HusmanHagberg,162.82354774508312,Fruangen
+2014-10-23,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,2,58,1,Lägenhet,null,[Fruängen],2195000,330000,2525000,3383,Fastighetsbyrån,633.8430863588287,Fruangen
+2014-10-21,Lina Sandells Plan 32,Fruängen,Röd Fruängen,4,85,null,Lägenhet,null,[Fruängen],2995000,155000,3150000,4880,Fastighetsbyrån,330.6791716285321,Fruangen
+2014-10-19,Eva Bonniers gata 4,Fruängen,Röd Fruängen,3,74,2,Lägenhet,1955,[Hägersten/Liljeholmen],2790000,160000,2950000,3583,SkandiaMäklarna,196.78857211705832,Fruangen
+2014-10-17,Elin Wägners gata 9,Fruängen,Röd Fruängen,3,71,2,Lägenhet,1958,[Hägersten],2095000,305000,2400000,4862,Mäklarhuset,433.4037258596806,Fruangen
+2014-10-17,Elsa Borgs gata 35,Fruängen,Röd Fruängen,2,58.7,2,Lägenhet,null,[Hägersten/Liljeholmen],2095000,560000,2655000,3590,Svensk Fastighetsförmedling,355.02643915669177,Fruangen
+2014-10-16,Barbro Alvings gata 3,Fruängen,Röd Fruängen,2,55,2,Lägenhet,2013,[Fruängen],2095000,255000,2350000,2809,Notar,643.0255255601741,Fruangen
+2014-10-16,Doktor Widerströms gata 34,Fruängen,Röd Fruängen,1,40,3,Lägenhet,null,[Hägersten],1625000,325000,1950000,2685,Mäklarhuset,471.8991007794995,Fruangen
+2014-10-10,Jenny Linds gata 11,Fruängen,Röd Fruängen,3,74.5,1,Lägenhet,1957,[Fruängen],2150000,80000,2230000,3975,Länsförsäkringar Fastighetsförmedling,367.0692014638616,Vastertorp
+2014-10-09,Ada Nilssons gata 19,Fruängen,Röd Fruängen,2,43,4,Lägenhet,null,[Hägersten/Liljeholmen],1795000,450000,2245000,2240,BOSTHLM,547.1494660243407,Fruangen
+2014-10-09,Doktor Widerströms gata 58,Fruängen,Röd Fruängen,1,25,2,Lägenhet,1953,[Fruängen],1350000,420000,1770000,1672,Fastighetsbyrån,455.98952072175786,Fruangen
+2014-10-09,Anna Sandströms gata 4,Fruängen,Röd Fruängen,4,95,null,Lägenhet,null,[Fruängen],2695000,505000,3200000,4310,ERA,244.17655239594234,Fruangen
+2014-10-09,Lina Sandells Plan 30,Fruängen,Röd Fruängen,2,43,null,Villa,null,[Hägersten],1950000,0,1950000,null,Mäklarhuset,344.12702938473495,Fruangen
+2014-10-08,Eva Bonniers gata 2,Fruängen,Röd Fruängen,2,42,3,Lägenhet,1955,[Fruängen],1675000,445000,2120000,2305,Mäklarringen,177.18031860447098,Fruangen
+2014-10-08,Doktor Widerströms gata 46,Fruängen,Röd Fruängen,1,25,3,Lägenhet,1953,[Fruängen],1350000,365000,1715000,1870,Länsförsäkringar Fastighetsförmedling,463.13918906983133,Fruangen
+2014-10-03,Doktor Widerströms gata 78,Fruängen,Röd Fruängen,3,87,1,Lägenhet,1953,[Hägersten],2495000,255000,2750000,4779,Mäklarhuset,396.5477268137948,Fruangen
+2014-10-03,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,2,58,4,Lägenhet,2012,[Fruängen],2195000,405000,2600000,3383,Mäklarringen,633.8430863588287,Fruangen
+2014-10-02,Fruängstorget 3,Fruängen,Röd Fruängen,4,76,null,Lägenhet,1960,[Fruängen],2350000,300000,2650000,5144,Fastighetsbyrån,69.41226965637328,Fruangen
+2014-09-27,Ellen Fries gata 19,Fruängen,Röd Fruängen,3,75,2,Lägenhet,1958,[Hägersten/Liljeholmen],1890000,670000,2560000,4838,SkandiaMäklarna,439.3678206808968,Fruangen
+2014-09-25,Doktor Widerströms gata 4,Fruängen,Röd Fruängen,2,54,1,Lägenhet,1953,[Fruängen],1695000,305000,2000000,3468,Notar,399.903240857999,Fruangen
+2014-09-25,Doktor Widerströms gata 54,Fruängen,Röd Fruängen,4,86,3,Lägenhet,null,[Hägersten/Liljeholmen],2525000,635000,3160000,4728,Svensk Fastighetsförmedling,443.7320609699252,Fruangen
+2014-09-24,Hanna Rydhs gata 46,Fruängen,Röd Fruängen,4,73.5,2,Lägenhet,1967,[Fruängen-Hägersten],2095000,465000,2560000,4246,Svenska Mäklarhuset,551.8411856061342,Fruangen
+2014-09-24,Lina Sandells Plan 12,Fruängen,Röd Fruängen,2,54,1,Lägenhet,1954,[Fruängen],1775000,130000,1905000,3469,Mäklarringen,404.91691860558063,Fruangen
+2014-09-24,Lina Sandells Plan 15,Fruängen,Röd Fruängen,3,66,1,Lägenhet,1954,[Fruängen],1995000,85000,2080000,4443,Fastighetsbyrån,242.46752454261215,Fruangen
+2014-09-23,Ada Nilssons gata 19,Fruängen,Röd Fruängen,2,58,3,Villa,2009,[Hägersten],2350000,360000,2710000,null,Mäklarhuset,547.1494660243407,Fruangen
+2014-09-22,Anna Sandströms gata 20,Fruängen,Röd Fruängen,1,37,0,Lägenhet,1957,[Fruängen Centrum],1395000,165000,1560000,1679,HusmanHagberg,212.75589382154422,Fruangen
+2014-09-19,Barbro Alvings gata 21,Fruängen,Röd Fruängen,2,55,null,Lägenhet,2014,[Hägersten/Liljeholmen],1995000,420000,2415000,2861,BOSTHLM,682.6990367151333,Fruangen
+2014-09-19,Hanna Rydhs gata 30,Fruängen,Röd Fruängen,3,73.5,3,Lägenhet,1970,[Fruängen],1990000,0,1990000,4488,HusmanHagberg,564.4879267922327,Fruangen
+2014-09-18,Barbro Alvings gata 6,Fruängen,Röd Fruängen,2,54.5,null,Lägenhet,2013,[Fruängen],2095000,205000,2300000,2809,Fastighetsbyrån,669.7567149946904,Fruangen
+2014-09-18,Elin Wägners gata 2,Fruängen,Röd Fruängen,3,75,1,Lägenhet,1966,[Hägersten],2220000,30000,2250000,5100,Mäklarhuset,448.8452745859431,Fruangen
+2014-09-14,Elin Wägners gata 15,Fruängen,Röd Fruängen,3,69,1,Lägenhet,1958,[Hägersten],1995000,310000,2305000,4741,Mäklarhuset,394.8545987568555,Fruangen
+2014-09-12,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,58,2,Lägenhet,2009,[Hägersten],1895000,485000,2380000,3021,Mäklarhuset,619.9417678700404,Fruangen
+2014-09-10,Elin Wägners gata 15,Fruängen,Röd Fruängen,3,71,2,Lägenhet,1958,[Fruängen],1995000,375000,2370000,4862,Bjurfors,394.8545987568555,Fruangen
+2014-09-10,Doktor Widerströms gata 26,Fruängen,Röd Fruängen,2,54,1,Lägenhet,1953,[Fruängen],1750000,470000,2220000,3468,HusmanHagberg,451.4942206216602,Fruangen
+2014-09-10,Hanna Rydhs gata 12,Fruängen,Röd Fruängen,2,62.5,0.5,Lägenhet,1970,[Fruängen],1595000,355000,1950000,3803,Fastighetsbyrån,546.1459768113,Fruangen
+2014-09-06,Vantörsvägen 270,Fruängen,Röd Fruängen,2,45,2,Lägenhet,2013,[Fruängen],1995000,325000,2320000,2895,Södermäklarna,646.0502184398157,Fruangen
+2014-09-05,Lina Sandells Plan 24,Fruängen,Röd Fruängen,2,54,3,Lägenhet,1955,[Fruängen],1895000,365000,2260000,3469,Länsförsäkringar Fastighetsförmedling,384.4885452093898,Fruangen
+2014-09-03,Elin Wägners gata 25,Fruängen,Röd Fruängen,1,28,1,Villa,1958,[Hägersten],1250000,200000,1450000,null,Mäklarhuset,327.67085498911825,Fruangen
+2014-08-30,Ellen Keys gata 69,Fruängen,Röd Fruängen,2,53,3,Villa,null,[Hägersten],1695000,445000,2140000,null,Mäklarhuset,165.7305029189319,Fruangen
+2014-08-28,Vantörsvägen 274,Fruängen,Röd Fruängen,3,70,4,Lägenhet,2013,[Fruängen-Hägersten],2795000,0,2795000,4155,Svenska Mäklarhuset,700.1684995092028,Fruangen
+2014-08-28,Fredrika Bremers gata 36A,Fruängen,Röd Fruängen,2,71,null,Lägenhet,1967,[Hägersten/Liljeholmen],2095000,325000,2420000,3667,SkandiaMäklarna,427.8840130620487,Fruangen
+2014-08-27,Ellen Keys gata 77,Fruängen,Röd Fruängen,2,57,3,Villa,null,[Hägersten],1895000,415000,2310000,null,Mäklarhuset,179.33556134020688,Fruangen
+2014-08-26,Ada Nilssons gata 5,Fruängen,Röd Fruängen,3,76,6,Lägenhet,2010,[Hägersten],2850000,125000,2975000,4117,Mäklarhuset,596.2560185827186,Fruangen
+2014-08-22,Ada Nilssons gata 5,Fruängen,Röd Fruängen,2,58,4,Lägenhet,2010,[Fruängen],2250000,300000,2550000,3142,Fastighetsbyrån,596.2560185827186,Fruangen
+2014-08-21,Doktor Widerströms gata 56,Fruängen,Röd Fruängen,2,56,1,Lägenhet,null,[Hägersten/Liljeholmen],1695000,315000,2010000,3252,Svensk Fastighetsförmedling,455.78349157316325,Fruangen
+2014-08-21,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,5,Lägenhet,1955,[Hägersten],1675000,535000,2210000,3009,Mäklarhuset,229.81973780294786,Fruangen
+2014-08-21,Ellen Keys gata 79,Fruängen,Röd Fruängen,3,68,3,Villa,null,[Hägersten],2250000,0,2250000,3267,Mäklarhuset,192.56801165931023,Fruangen
+2014-08-18,Ellen Keys gata 57,Fruängen,Röd Fruängen,1,29,3,Villa,null,[Hägersten],1350000,345000,1695000,1781,Mäklarhuset,102.20723477761649,Fruangen
+2014-08-15,Elin Wägners gata 2,Fruängen,Röd Fruängen,3,75,1,Lägenhet,null,[Fruängen],1995000,105000,2100000,5100,Fastighetsbyrån,448.8452745859431,Fruangen
+2014-08-15,Elin Wägners gata 3,Fruängen,Röd Fruängen,3,71,2,Villa,1958,[Hägersten],2050000,200000,2250000,4862,Mäklarhuset,446.28920672684535,Fruangen
+2014-08-14,Hanna Rydhs gata 18,Fruängen,Röd Fruängen,1.5,44.5,3,Lägenhet,1970,[Fruängen Centrum],1495000,305000,1800000,2681,HusmanHagberg,523.2798089420637,Fruangen
+2014-08-13,Elin Wägners gata 43,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1958,[Hägersten/Liljeholmen],1495000,635000,2130000,3871,SkandiaMäklarna,361.8896934767808,Fruangen
+2014-08-08,Kata Dalströms gata 15,Fruängen,Röd Fruängen,1,37,null,Lägenhet,1955,[Fruängen],1595000,325000,1920000,2086,HusmanHagberg,311.63205278654925,Fruangen
+2014-08-08,Lina Sandells plan 2,Fruängen,Röd Fruängen,3,68,null,Lägenhet,1954,[Fruängen],2195000,255000,2450000,4207,Fastighetsbyrån,341.959397962883,Fruangen
+2014-08-08,Doktor Widerströms gata 44,Fruängen,Röd Fruängen,1,25,1,Lägenhet,1953,[Fruängen],1295000,355000,1650000,1871,Länsförsäkringar Fastighetsförmedling,466.69377191875975,Fruangen
+2014-08-07,Elsa Borgs gata 48,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1957,[Fruängen],1795000,415000,2210000,3453,HusmanHagberg,394.42003880775223,Fruangen
+2014-08-06,Lina Sandells Plan 20,Fruängen,Röd Fruängen,2,54,2,Lägenhet,1955,[Hägersten],1795000,205000,2000000,3313,Mäklarhuset,405.506324416802,Fruangen
+2014-07-31,Emilia Fogelklous gata 9,Fruängen,Röd Fruängen,2,54.5,2,Lägenhet,2014,[Fruängen],2150000,200000,2350000,2851,Notar,682.6990367151333,Fruangen
+2014-07-25,Vantörsvägen 276,Fruängen,Röd Fruängen,3,70,null,Lägenhet,null,[Hägersten/Liljeholmen],2820000,30000,2850000,4155,Svensk Fastighetsförmedling,714.5571229366718,Fruangen
+2014-07-25,Elin Wägners gata 39,Fruängen,Röd Fruängen,3,73,1.5,Lägenhet,1958,[Hägersten],1995000,235000,2230000,4982,Mäklarhuset,338.9614310692745,Fruangen
+2014-07-25,Vantörsvägen 276,Fruängen,Röd Fruängen,3,71,2,Lägenhet,2014,[Fruängen-Hägersten],2495000,325000,2820000,4206,Svenska Mäklarhuset,714.5571229366718,Fruangen
+2014-07-22,Ada Nilssons gata 19,Fruängen,Röd Fruängen,3,76,3,Lägenhet,2009,[Fruängen-Hägersten],2695000,-10000,2685000,3958,Svenska Mäklarhuset,547.1494660243407,Fruangen
+2014-07-18,Hanna Rydhs gata 46,Fruängen,Röd Fruängen,3,73.5,3,Lägenhet,1967,[Fruängen-Hägersten],1995000,55000,2050000,4288,Svenska Mäklarhuset,551.8411856061342,Fruangen
+2014-07-16,Vantörsvägen 270,Fruängen,Röd Fruängen,2,62,4,Lägenhet,2013,[Fruängen-Hägersten],2195000,605000,2800000,3495,Svenska Mäklarhuset,646.0502184398157,Fruangen
+2014-07-04,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,2,42,null,Lägenhet,2012,[Fruängen],1695000,280000,1975000,2450,Södermäklarna,633.8430863588287,Fruangen
+2014-07-02,Doktor Widerströms gata 18,Fruängen,Röd Fruängen,2,56,3,Lägenhet,null,[Hägersten],2160000,0,2160000,3567,Mäklarhuset,409.9656369985345,Fruangen
+2014-06-27,Ellen Keys gata 49,Fruängen,Röd Fruängen,1.5,37,1,Lägenhet,1955,[Fruängen],1495000,365000,1860000,2158,Notar,123.54758620442072,Fruangen
+2014-06-27,Jenny Linds gata 6,Fruängen,Röd Fruängen,2,60,3,Lägenhet,null,[Hägersten/Liljeholmen],1895000,100000,1995000,3112,Svensk Fastighetsförmedling,323.59733867813253,Fruangen
+2014-06-27,Lina Sandells plan 2,Fruängen,Röd Fruängen,3,68,null,Lägenhet,null,[Hägersten/Liljeholmen],1975000,-65000,1910000,4051,Svensk Fastighetsförmedling,341.959397962883,Fruangen
+2014-06-26,Fredrika Bremers gata 15,Fruängen,Röd Fruängen,2,66,2,Lägenhet,1967,[Hägersten],1495000,160000,1655000,4434,Mäklarhuset,484.3368321175171,Fruangen
+2014-06-24,Barbro Alvings gata 23,Fruängen,Röd Fruängen,2,55,2,Lägenhet,2014,[Fruängen],2150000,0,2150000,2989,Notar,695.703754926558,Fruangen
+2014-06-20,Doktor Widerströms gata 8,Fruängen,Röd Fruängen,2,57,3,Lägenhet,1953,[Fruängen],1750000,310000,2060000,3724,Fastighetsbyrån,427.54634287019127,Fruangen
+2014-06-19,Elsa Borgs gata 35,Fruängen,Röd Fruängen,3,76.7,3,Lägenhet,1996,[Fruängen],2475000,10000,2485000,4956,Mäklarringen,355.02643915669177,Fruangen
+2014-06-19,Barbro Alvings gata 23,Fruängen,Röd Fruängen,2,55,null,Lägenhet,2014,[Fruängen],2295000,-95000,2200000,2809,ERA,695.703754926558,Fruangen
+2014-06-18,Doktor Widerströms gata 92,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1953,[Hägersten/Liljeholmen],1690000,285000,1975000,3251,SkandiaMäklarna,348.67753465838285,Fruangen
+2014-06-18,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,45.5,1,Lägenhet,1967,[Fruängen],1395000,150000,1545000,3056,Notar,448.3225783358714,Fruangen
+2014-06-13,Jenny Linds gata 14,Fruängen,Röd Fruängen,3,86,2,Lägenhet,1955,[Fruängen],2250000,290000,2540000,4302,Fastighetsbyrån,327.7643789717049,Fruangen
+2014-06-13,Ellen Fries gata 11,Fruängen,Röd Fruängen,3,75,3,Lägenhet,null,[Fruängen],1995000,165000,2160000,4847,Fastighetsbyrån,434.4593420425297,Vastertorp
+2014-06-13,Ellen Keys gata 24,Fruängen,Röd Fruängen,2,62,5,Lägenhet,2008,[Fruängen],1595000,105000,1700000,5278,Fastighetsbyrån,159.49145867657714,Fruangen
+2014-06-13,Elin Wägners gata 10,Fruängen,Röd Fruängen,3,81,null,Lägenhet,2001,[Fruängen],2560000,0,2560000,4566,Fastighetsbyrån,419.19999448352934,Fruangen
+2014-06-13,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,45.5,null,Lägenhet,1967,[Fruängen],1495000,55000,1550000,3056,Fastighetsbyrån,448.3225783358714,Fruangen
+2014-06-12,Elsa Borgs gata 35,Fruängen,Röd Fruängen,3,71.9,null,Lägenhet,1996,[Fruängen],2095000,435000,2530000,4662,HusmanHagberg,355.02643915669177,Fruangen
+2014-06-12,Hanna Paulis gata 17,Fruängen,Röd Fruängen,4,87,3,Lägenhet,1956,[Fruängen],2925000,0,2925000,4363,Länsförsäkringar Fastighetsförmedling,169.7929608837274,Fruangen
+2014-06-12,Hanna Rydhs gata 10,Fruängen,Röd Fruängen,2,62.5,3,Lägenhet,1970,[Fruängen],1550000,162000,1712000,3874,Fastighetsbyrån,538.7123710244941,Fruangen
+2014-06-05,Jenny Linds gata 9,Fruängen,Röd Fruängen,2,57,3,Lägenhet,null,[Hägersten/Liljeholmen],1695000,75000,1770000,2974,Svensk Fastighetsförmedling,361.47891135171625,Vastertorp
+2014-06-02,Eva Bonniers gata 6,Fruängen,Röd Fruängen,2,59,null,Lägenhet,1955,[Fruängen],1750000,415000,2165000,3107,Fastighetsbyrån,222.46077552806724,Fruangen
+2014-05-30,Ada Nilssons gata 19,Fruängen,Röd Fruängen,3,74,9,Lägenhet,2007,[Fruängen],2495000,235000,2730000,3854,Länsförsäkringar Fastighetsförmedling,547.1494660243407,Fruangen
+2014-05-29,Doktor Widerströms gata 60,Fruängen,Röd Fruängen,1,31,null,Lägenhet,1953,[Fruängen],1325000,205000,1530000,2074,ERA,454.2146608107266,Fruangen
+2014-05-27,Lotta Svärds Gränd 3,Fruängen,Röd Fruängen,1,36,2,Lägenhet,2013,[Hägersten],1495000,105000,1600000,2541,Hemverket,677.9700795957314,Fruangen
+2014-05-23,Lina Sandells Plan 28,Fruängen,Röd Fruängen,2,54,1,Lägenhet,null,[Hägersten/Liljeholmen],1650000,160000,1810000,3312,Svensk Fastighetsförmedling,356.78332536459857,Fruangen
+2014-05-22,Eva Bonniers gata 8,Fruängen,Röd Fruängen,3,74,7,Lägenhet,1955,[Fruängen],2095000,515000,2610000,3683,Notar,252.117440724061,Fruangen
+2014-05-21,Fruängsgatan 39,Fruängen,Röd Fruängen,3,109,1,Lägenhet,null,[Fruängen],2495000,335000,2830000,5867,Fastighetsbyrån,122.90161671184804,Fruangen
+2014-05-21,Jenny Nyströms Gata 10,Fruängen,Röd Fruängen,1,30,null,Lägenhet,1967,[Fruängen],995000,255000,1250000,2048,Fastighetsbyrån,550.6057574547312,Fruangen
+2014-05-21,Ellen Fries gata 5,Fruängen,Röd Fruängen,3,72,1,Lägenhet,null,[Fruängen],1595000,355000,1950000,4642,Fastighetsbyrån,411.31215989019756,Vastertorp
+2014-05-20,Doktor Widerströms gata 52,Fruängen,Röd Fruängen,2,58,1,Lägenhet,null,[Fruängen],1675000,105000,1780000,3363,Mäklarringen,426.57183962531064,Fruangen
+2014-05-19,Lotta Svärds Gränd 3,Fruängen,Röd Fruängen,4,92,2.5,Lägenhet,2014,[Hägersten/Liljeholmen],3395000,15000,3410000,5200,SkandiaMäklarna,677.9700795957314,Fruangen
+2014-05-15,Vantörsvägen 276,Fruängen,Röd Fruängen,2,40,1,Lägenhet,2014,[Hägersten/Liljeholmen],1695000,105000,1800000,2730,BOSTHLM,714.5571229366718,Fruangen
+2014-05-15,Doktor Widerströms gata 82,Fruängen,Röd Fruängen,2,55,null,Lägenhet,null,[Fruängen],1695000,25000,1720000,3195,Fastighetsbyrån,383.9605163659029,Fruangen
+2014-05-15,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,36,null,Lägenhet,2008,[Fruängen],1450000,210000,1660000,3065,Fastighetsbyrån,159.49145867657714,Fruangen
+2014-05-14,Lina Sandells Plan 14,Fruängen,Röd Fruängen,1,27,1,Lägenhet,null,[Hägersten/Liljeholmen],1375000,0,1375000,1749,Svensk Fastighetsförmedling,409.2796898179291,Fruangen
+2014-05-14,Elin Wägners gata 33,Fruängen,Röd Fruängen,3,71,3,Lägenhet,1959,[Fruängen],1995000,0,1995000,4862,Länsförsäkringar Fastighetsförmedling,305.7545113392775,Fruangen
+2014-05-09,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,2,55,4,Lägenhet,1955,[Fruängen],1575000,335000,1910000,3221,Bomäster,393.40131905680227,Fruangen
+2014-05-09,Lina Sandells Plan 15,Fruängen,Röd Fruängen,3,66,2,Lägenhet,1954,[Fruängen],2075000,25000,2100000,4264,Fastighetsbyrån,242.46752454261215,Fruangen
+2014-05-08,Eva Bonniers gata 4,Fruängen,Röd Fruängen,3,74,2,Lägenhet,1955,[Hägersten/Liljeholmen],2175000,575000,2750000,3583,SkandiaMäklarna,196.78857211705832,Fruangen
+2014-05-08,Kata Dalströms gata 11,Fruängen,Röd Fruängen,1,37,null,Lägenhet,1955,[Fruängen],1395000,355000,1750000,2086,Fastighetsbyrån,282.7271106866129,Fruangen
+2014-05-08,Eva Bonniers gata 8,Fruängen,Röd Fruängen,2,59,2,Lägenhet,1955,[Fruängen],1895000,230000,2125000,3006,Fastighetsbyrån,252.117440724061,Fruangen
+2014-05-08,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,5,Lägenhet,1960,[Fruängen],1475000,200000,1675000,2162,Fastighetsbyrån,69.41226965637328,Fruangen
+2014-05-06,Gamla Södertäljevägen 8,Fruängen,Röd Fruängen,2,47,null,Lägenhet,2011,[Hägersten/Liljeholmen],1695000,55000,1750000,2593,SkandiaMäklarna,576.3534049643657,Fruangen
+2014-05-06,Vantörsvägen 270,Fruängen,Röd Fruängen,2,45,2,Lägenhet,2013,[Fruängen-Hägersten],1995000,0,1995000,2895,Svenska Mäklarhuset,646.0502184398157,Fruangen
+2014-05-06,Hanna Rydhs gata 32,Fruängen,Röd Fruängen,4,95.5,3,Lägenhet,1970,[Fruängen],2100000,310000,2410000,5441,Fastighetsbyrån,574.6149235647304,Fruangen
+2014-05-03,Ada Nilssons gata 13,Fruängen,Röd Fruängen,3,76,null,Lägenhet,2008,[Fruängen],2595000,90000,2685000,3958,Fastighetsbyrån,619.9417678700404,Fruangen
+2014-05-02,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,65,3,Lägenhet,2008,[Hägersten/Liljeholmen],2095000,115000,2210000,3386,BOSTHLM,619.9417678700404,Fruangen
+2014-05-01,Ellen Fries gata 9,Fruängen,Röd Fruängen,3,75,2,Lägenhet,1958,[Hägersten/Liljeholmen],1690000,220000,1910000,4838,SkandiaMäklarna,423.4461422379388,Vastertorp
+2014-04-30,Lina Sandells Plan 26,Fruängen,Röd Fruängen,2,54,3,Lägenhet,1955,[Fruängen],1795000,0,1795000,3469,Länsförsäkringar Fastighetsförmedling,370.4397865608565,Fruangen
+2014-04-30,Doktor Widerströms gata 6,Fruängen,Röd Fruängen,3,63,2,Lägenhet,1953,[Fruängen],1895000,0,1895000,4002,Fastighetsbyrån,413.0478671880104,Fruangen
+2014-04-29,Jenny Linds gata 5,Fruängen,Röd Fruängen,3,76,2,Lägenhet,1956,[Fruängen],2195000,215000,2410000,3784,Notar,351.2064578770201,Fruangen
+2014-04-24,Lina Sandells Plan 8,Fruängen,Röd Fruängen,2,54,0.5,Lägenhet,1954,[Fruängen],1800000,0,1800000,3469,Fastighetsbyrån,386.5973722470777,Fruangen
+2014-04-24,Vantörsvägen 260,Fruängen,Röd Fruängen,2,45,3,Lägenhet,2013,[Fruängen-Hägersten],1895000,55000,1950000,2895,Svenska Mäklarhuset,603.8526138111934,Fruangen
+2014-04-16,Elsa Borgs gata 68,Fruängen,Röd Fruängen,2,59,2,Lägenhet,1957,[Fruängen],1695000,165000,1860000,3573,Fastighetsbyrån,307.3916164766608,Fruangen
+2014-04-16,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,45.5,3,Lägenhet,1967,[Fruängen-Hägersten],1295000,305000,1600000,3056,Svenska Mäklarhuset,448.3225783358714,Fruangen
+2014-04-16,Doktor Widerströms gata 8,Fruängen,Röd Fruängen,1,40,3,Lägenhet,1953,[Fruängen],1395000,295000,1690000,2507,Fastighetsbyrån,427.54634287019127,Fruangen
+2014-04-10,Ada Nilssons gata 19,Fruängen,Röd Fruängen,2,46,2,Lägenhet,2007,[Fruängen],1750000,300000,2050000,2396,Fastighetsbyrån,547.1494660243407,Fruangen
+2014-04-10,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,1,27,4,Lägenhet,1955,[Fruängen],1375000,25000,1400000,1527,Fastighetsbyrån,229.81973780294786,Fruangen
+2014-04-08,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,2,40,1,Lägenhet,2012,[Fruängen],1695000,215000,1910000,2333,Fastighetsbyrån,633.8430863588287,Fruangen
+2014-04-07,Elsa Borgs gata 35,Fruängen,Röd Fruängen,4,76.7,null,Lägenhet,1996,[Fruängen-Hägersten],1995000,255000,2250000,4691,Svenska Mäklarhuset,355.02643915669177,Fruangen
+2014-04-03,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,1,27,3,Lägenhet,1953,[Fruängen],1350000,255000,1605000,2032,Fastighetsbyrån,393.40131905680227,Fruangen
+2014-04-03,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1955,[Fruängen],1895000,335000,2230000,2920,Fastighetsbyrån,229.81973780294786,Fruangen
+2014-04-03,Doktor Widerströms gata 37,Fruängen,Röd Fruängen,3,68,0.5,Lägenhet,1953,[Fruängen],2050000,180000,2230000,3863,Fastighetsbyrån,375.6681224312629,Fruangen
+2014-04-02,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,33,5,Lägenhet,2006,[Fruängen-Hägersten],1495000,105000,1600000,2809,Svenska Mäklarhuset,159.49145867657714,Fruangen
+2014-04-01,Anna Sandströms Gata 8,Fruängen,Röd Fruängen,2,42,1,Lägenhet,null,[Fruängen],1625000,0,1625000,1906,Svensk Fastighetsförmedling,222.17949911472684,Fruangen
+2014-03-31,Doktor Widerströms gata 37,Fruängen,Röd Fruängen,2,56,2,Lägenhet,null,[Fruängen],1675000,125000,1800000,3252,Mäklarringen,375.6681224312629,Fruangen
+2014-03-26,Ellen Keys gata 24,Fruängen,Röd Fruängen,2,52,2,Lägenhet,2008,[Fruängen],1495000,215000,1710000,4426,Bjurfors,159.49145867657714,Fruangen
+2014-03-26,Jenny Linds gata 15,Fruängen,Röd Fruängen,3,76,2,Lägenhet,null,[Fruängen],1800000,500000,2300000,3844,Fastighetsbyrån,387.1718481315827,Fruangen
+2014-03-19,Hanna Paulis gata 13,Fruängen,Röd Fruängen,2,59,2,Lägenhet,1956,[Fruängen Centrum],1795000,405000,2200000,3100,HusmanHagberg,162.82354774508312,Fruangen
+2014-03-19,Ellen Fries gata 19,Fruängen,Röd Fruängen,5,99,3,Lägenhet,1958,[Hägersten/Liljeholmen],2390000,320000,2710000,5821,SkandiaMäklarna,439.3678206808968,Fruangen
+2014-03-15,Lotta Svärds Gränd 18,Fruängen,Röd Fruängen,2,42,4,Lägenhet,2012,[Fruängen-Hägersten],1750000,250000,2000000,2450,Svenska Mäklarhuset,613.7757487289239,Fruangen
+2014-03-13,Doktor Widerströms gata 64,Fruängen,Röd Fruängen,4,88,1,Lägenhet,null,[Fruängen],2425000,25000,2450000,4827,Mäklarringen,423.26700143035987,Fruangen
+2014-03-12,Lina Sandells plan 2,Fruängen,Röd Fruängen,1,25,8,Lägenhet,1955,[Fruängen],1375000,295000,1670000,1626,Erik Olsson Fastighetsförmedling,341.959397962883,Fruangen
+2014-03-05,Lina Sandells Plan 14,Fruängen,Röd Fruängen,1,27,1,Lägenhet,null,[Fruängen],1250000,375000,1625000,1749,Svensk Fastighetsförmedling,409.2796898179291,Fruangen
+2014-02-28,Ada Nilssons gata 5,Fruängen,Röd Fruängen,3,76,2,Lägenhet,2009,[Hägersten/Liljeholmen],2395000,165000,2560000,4117,SkandiaMäklarna,596.2560185827186,Fruangen
+2014-02-26,Elin Wägners gata 33,Fruängen,Röd Fruängen,3,71,3,Lägenhet,1959,[Fruängen],2195000,0,2195000,4544,Länsförsäkringar Fastighetsförmedling,305.7545113392775,Fruangen
+2014-02-26,Eva Bonniers gata 39,Fruängen,Röd Fruängen,3,74,3,Lägenhet,1956,[Fruängen],2195000,255000,2450000,3717,Notar,273.21898827865436,Fruangen
+2014-02-25,Lina Sandells Plan 22,Fruängen,Röd Fruängen,1,27,null,Lägenhet,1954,[Hägersten/Liljeholmen],1290000,220000,1510000,1905,SkandiaMäklarna,397.01127613765476,Fruangen
+2014-02-24,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,3,Lägenhet,1962,[Fruängen],1495000,0,1495000,2161,Notar,69.41226965637328,Fruangen
+2014-02-20,Elsa Borgs gata 42,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1957,[Hägersten/Liljeholmen],1750000,300000,2050000,3385,Fastighetsbyrån,414.7557225740706,Fruangen
+2014-02-20,Eva Bonniers gata 37,Fruängen,Röd Fruängen,3,68,2,Lägenhet,1955,[Hägersten/Liljeholmen],2360000,0,2360000,3420,Fastighetsbyrån,265.60573503372467,Fruangen
+2014-02-20,Doktor Widerströms gata 74,Fruängen,Röd Fruängen,1,39,null,Lägenhet,1953,[Hägersten/Liljeholmen],1495000,180000,1675000,2305,Fastighetsbyrån,419.6504848703508,Fruangen
+2014-02-19,Vantörsvägen 260,Fruängen,Röd Fruängen,3,74,3,Lägenhet,2013,[Fruängen],2980000,-30000,2950000,4495,Erik Olsson Fastighetsförmedling,603.8526138111934,Fruangen
+2014-02-19,Doktor Widerströms gata 56,Fruängen,Röd Fruängen,1,25,null,Lägenhet,1953,[Fruängen],1425000,135000,1560000,1672,Svensk Fastighetsförmedling,455.78349157316325,Fruangen
+2014-02-18,Doktor Widerströms gata 72,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1954,[Hägersten],1650000,150000,1800000,3252,Svensk Fastighetsförmedling,427.8030150702321,Fruangen
+2014-02-18,Jenny Nyströms Gata 10,Fruängen,Röd Fruängen,2,66,null,Lägenhet,1967,[Hägersten],1495000,105000,1600000,4433,Erik Olsson Fastighetsförmedling,550.6057574547312,Fruangen
+2014-02-13,Elsa Borgs gata 33,Fruängen,Röd Fruängen,2,59,null,Lägenhet,1996,[Fruängen],1795000,215000,2010000,3590,Svensk Fastighetsförmedling,393.5639470035934,Fruangen
+2014-02-13,Doktor Widerströms gata 12,Fruängen,Röd Fruängen,3,63,3,Lägenhet,1955,[Hägersten],1595000,315000,1910000,4002,Mäklarhuset,445.1729479806487,Fruangen
+2014-02-12,Ellen Keys gata 99,Fruängen,Röd Fruängen,1,31,null,Lägenhet,null,[Hägersten/Liljeholmen],1200000,230000,1430000,1899,Fastighetsbyrån,272.0207897303333,Fruangen
+2014-02-11,Doktor Widerströms gata 46,Fruängen,Röd Fruängen,1,25,1,Lägenhet,1953,[Fruängen],1285000,145000,1430000,1870,Mäklarringen,463.13918906983133,Fruangen
+2014-02-09,Elsa Borgs gata 54,Fruängen,Röd Fruängen,1,26,2,Lägenhet,1957,[Hägersten/Liljeholmen],1290000,210000,1500000,1814,SkandiaMäklarna,365.75850296557917,Fruangen
+2014-02-08,Ellen Keys gata 85,Fruängen,Röd Fruängen,1,27,2,Lägenhet,1956,[Hägersten],1250000,250000,1500000,1726,Mäklarhuset,243.38976961526524,Fruangen
+2014-02-08,Hanna Paulis gata 39,Fruängen,Röd Fruängen,4,87,1,Lägenhet,1956,[Fruängen],2325000,650000,2975000,4363,Mäklarringen,241.20049795429597,Fruangen
+2014-02-08,Lina Sandells plan 2,Fruängen,Röd Fruängen,1,25,5,Lägenhet,1954,[Fruängen],1275000,225000,1500000,1782,Mäklarringen,341.959397962883,Fruangen
+2014-02-08,Lotta Svärds Gränd 14,Fruängen,Röd Fruängen,3,70,null,Lägenhet,2012,[Hägersten/Liljeholmen],2295000,155000,2450000,4083,Fastighetsbyrån,657.614348558157,Fruangen
+2014-02-07,Jenny Linds gata 16,Fruängen,Röd Fruängen,3.5,76,2,Lägenhet,1956,[Fruängen],1995000,245000,2240000,3784,Notar,312.700144751539,Fruangen
+2014-02-06,Ada Nilssons gata 19,Fruängen,Röd Fruängen,2,65,4,Lägenhet,2007,[Fruängen-Hägersten],1995000,125000,2120000,3385,Svenska Mäklarhuset,547.1494660243407,Fruangen
+2014-02-06,Eva Bonniers gata 10,Fruängen,Röd Fruängen,2,57,8,Lägenhet,1955,[Hägersten/Liljeholmen],1895000,215000,2110000,3050,Fastighetsbyrån,279.80253973736706,Fruangen
+2014-02-03,Kata Dalströms gata 10,Fruängen,Röd Fruängen,3,70,7,Lägenhet,1956,[Fruängen],1995000,25000,2020000,3658,HusmanHagberg,348.69834309281777,Fruangen
+2014-01-31,Ellen Keys gata 53,Fruängen,Röd Fruängen,4,86,3,Lägenhet,1955,[Hägersten/Liljeholmen],1995000,105000,2100000,4746,SkandiaMäklarna,105.28380010077554,Fruangen
+2014-01-31,Ellen Keys gata 68,Fruängen,Röd Fruängen,2,65,6,Lägenhet,2012,[Fruängen],2600000,60000,2660000,3351,Södermäklarna,260.4963551981863,Fruangen
+2014-01-27,Emilia Fogelklous gata 13,Fruängen,Röd Fruängen,2,54.5,2,Lägenhet,2013,[Fruängen],2195000,55000,2250000,2795,Södermäklarna,703.6330885701094,Fruangen
+2014-01-27,Ada Nilssons gata 5,Fruängen,Röd Fruängen,4,97,7,Lägenhet,2009,[Fruängen],3075000,735000,3810000,5254,HusmanHagberg,596.2560185827186,Fruangen
+2014-01-22,Elsa Borgs gata 56,Fruängen,Röd Fruängen,2,54,1,Lägenhet,1957,[Hägersten/Liljeholmen],1750000,70000,1820000,3387,SkandiaMäklarna,370.54345010519705,Fruangen
+2014-01-22,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,62,3,Lägenhet,2009,[Fruängen Centrum],1890000,140000,2030000,3358,HusmanHagberg,608.7666307408977,Fruangen
+2014-01-21,Doktor Widerströms gata 6,Fruängen,Röd Fruängen,1,25,2,Lägenhet,1953,[Hägersten/Liljeholmen],1200000,310000,1510000,1977,Fastighetsbyrån,413.0478671880104,Fruangen
+2014-01-17,Lotta Svärds Gränd 6,Fruängen,Röd Fruängen,2,49,3,Lägenhet,2013,[Fruängen],1995000,155000,2150000,2995,Notar,647.9832777854721,Fruangen
+2014-01-17,Elsa Borgs gata 48,Fruängen,Röd Fruängen,3,70,3,Lägenhet,1957,[Hägersten/Liljeholmen],1900000,250000,2150000,4250,SkandiaMäklarna,394.42003880775223,Fruangen
+2014-01-16,Ada Nilssons gata 19,Fruängen,Röd Fruängen,4,97,9,Lägenhet,2007,[Hägersten/Liljeholmen],3195000,785000,3980000,5053,Fastighetsbyrån,547.1494660243407,Fruangen
+2014-01-16,Elsa Borgs gata 33,Fruängen,Röd Fruängen,3,76.7,null,Lägenhet,1996,[Fruängen],1925000,395000,2320000,4691,Svensk Fastighetsförmedling,393.5639470035934,Fruangen
+2014-01-16,Eva Bonniers gata 8,Fruängen,Röd Fruängen,2,57,4,Lägenhet,1955,[Hägersten/Liljeholmen],1895000,405000,2300000,2999,Fastighetsbyrån,252.117440724061,Fruangen
+2014-01-16,Vantörsvägen 260,Fruängen,Röd Fruängen,2,62,3,Lägenhet,2013,[Hägersten/Liljeholmen],2418000,0,2418000,3495,SkandiaMäklarna,603.8526138111934,Fruangen
+2014-01-16,Vantörsvägen 285,Fruängen,Röd Fruängen,1,43,null,Lägenhet,2014,[Fruängen],1695000,155000,1850000,2362,Notar,715.2051777398606,Fruangen
+2014-01-16,Lotta Svärds Gränd 18,Fruängen,Röd Fruängen,2,42,1,Lägenhet,2012,[Fruängen-Hägersten],1750000,390000,2140000,2450,Svenska Mäklarhuset,613.7757487289239,Fruangen
+2014-01-14,Lina Sandells Plan 28,Fruängen,Röd Fruängen,2,54,3,Lägenhet,null,[Hägersten/Liljeholmen],1650000,300000,1950000,3469,Fastighetsbyrån,356.78332536459857,Fruangen
+2014-01-09,Vantörsvägen 270,Fruängen,Röd Fruängen,2,45,4,Lägenhet,2013,[Fruängen],1890000,160000,2050000,2895,Erik Olsson Fastighetsförmedling,646.0502184398157,Fruangen
+2013-12-20,Eva Bonniers gata 2,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1956,[Hägersten],2350000,0,2350000,3557,Svensk Fastighetsförmedling,177.18031860447098,Fruangen
+2013-12-18,Vantörsvägen 270,Fruängen,Röd Fruängen,2,45,3,Lägenhet,2013,[Fruängen],1790000,180000,1970000,2895,Erik Olsson Fastighetsförmedling,646.0502184398157,Fruangen
+2013-12-18,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,47,1,Lägenhet,1967,[Hägersten/Liljeholmen],1395000,130000,1525000,3065,Fastighetsbyrån,448.3225783358714,Fruangen
+2013-12-12,Ellen Keys gata 73,Fruängen,Röd Fruängen,1,28,2,Lägenhet,null,[Hägersten],1350000,310000,1660000,1345,Mäklarhuset,157.70776426169255,Fruangen
+2013-12-12,Ellen Keys gata 64,Fruängen,Röd Fruängen,4,92,6,Lägenhet,2011,[Hägersten/Liljeholmen],3200000,650000,3850000,4525,Fastighetsbyrån,210.17674645162992,Fruangen
+2013-12-10,Elin Wägners gata 31,Fruängen,Röd Fruängen,1,28,1,Lägenhet,1959,[Hägersten/Liljeholmen],1195000,315000,1510000,1926,Fastighetsbyrån,308.7063610759408,Fruangen
+2013-12-06,Elin Wägners gata 21,Fruängen,Röd Fruängen,3,71,2,Lägenhet,1958,[Fruängen-Hägersten],1995000,205000,2200000,4544,Svenska Mäklarhuset,347.90862121466546,Fruangen
+2013-12-03,Vantörsvägen 264,Fruängen,Röd Fruängen,2,45,3,Lägenhet,2013,[Fruängen],1895000,0,1895000,2895,Erik Olsson Fastighetsförmedling,628.7096143793108,Fruangen
+2013-11-30,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1955,[Hägersten],1575000,195000,1770000,2865,Mäklarhuset,229.81973780294786,Fruangen
+2013-11-28,Lina Sandells Plan 8,Fruängen,Röd Fruängen,2,54,2,Lägenhet,1954,[Hägersten/Liljeholmen],1595000,205000,1800000,3469,Fastighetsbyrån,386.5973722470777,Fruangen
+2013-11-27,Lotta Svärds Gränd 6,Fruängen,Röd Fruängen,2,49,2,Lägenhet,2013,[Hägersten],1975000,0,1975000,2995,Mäklarhuset,647.9832777854721,Fruangen
+2013-11-25,Elin Wägners gata 27,Fruängen,Röd Fruängen,5,97,3,Lägenhet,1958,[Hägersten/Liljeholmen],2095000,175000,2270000,5927,SkandiaMäklarna,322.1485869437701,Fruangen
+2013-11-23,Elsa Borgs gata 33,Fruängen,Röd Fruängen,2,58.7,3,Lägenhet,1997,[Hägersten/Liljeholmen],1595000,255000,1850000,3590,Fastighetsbyrån,393.5639470035934,Fruangen
+2013-11-22,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,2,55,1,Lägenhet,1955,[Hägersten/Liljeholmen],1650000,260000,1910000,3206,BOSTHLM,393.40131905680227,Fruangen
+2013-11-21,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,3,70,null,Lägenhet,2012,[Hägersten/Liljeholmen],2195000,0,2195000,4083,Fastighetsbyrån,633.8430863588287,Fruangen
+2013-11-20,Hanna Rydhs gata 24,Fruängen,Röd Fruängen,2.5,62.5,null,Lägenhet,1970,[Hägersten/Liljeholmen],1575000,185000,1760000,3803,Fastighetsbyrån,538.4400770398996,Fruangen
+2013-11-20,Eva Bonniers gata 39,Fruängen,Röd Fruängen,3,74,null,Lägenhet,1958,[Hägersten/Liljeholmen],1950000,350000,2300000,3768,Fastighetsbyrån,273.21898827865436,Fruangen
+2013-11-16,Elsa Borgs gata 56,Fruängen,Röd Fruängen,1,26,2,Lägenhet,null,[Hägersten/Liljeholmen],1325000,245000,1570000,1730,Fastighetsbyrån,370.54345010519705,Fruangen
+2013-11-15,Elsa Borgs gata 44,Fruängen,Röd Fruängen,1,28,null,Lägenhet,1957,[Fruängen],1395000,185000,1580000,1805,Svensk Fastighetsförmedling,408.7301827196801,Fruangen
+2013-11-15,Kata Dalströms gata 9,Fruängen,Röd Fruängen,1,37,null,Lägenhet,1955,[Hägersten/Liljeholmen],1395000,265000,1660000,2086,Fastighetsbyrån,268.1189314003481,Fruangen
+2013-11-15,Kata Dalströms gata 7,Fruängen,Röd Fruängen,2,55,1,Lägenhet,1955,[Hägersten/Liljeholmen],1675000,305000,1980000,2807,Fastighetsbyrån,248.87817791988795,Fruangen
+2013-11-14,Fruängsgatan 39,Fruängen,Röd Fruängen,3,108.7,3,Lägenhet,null,[Fruängen],3125000,-175000,2950000,5867,Svensk Fastighetsförmedling,122.90161671184804,Fruangen
+2013-11-07,Ellen Keys gata 91,Fruängen,Röd Fruängen,2,50,3,Lägenhet,1955,[Hägersten/Liljeholmen],1495000,265000,1760000,2959,SkandiaMäklarna,228.54301009795154,Fruangen
+2013-11-01,Elin Wägners gata 45,Fruängen,Röd Fruängen,1,28,null,Lägenhet,1958,[Fruängen],1195000,210000,1405000,1926,Svensk Fastighetsförmedling,367.9184468985014,Fruangen
+2013-11-01,Lotta Svärds Gränd 16,Fruängen,Röd Fruängen,2,40,4,Lägenhet,2012,[Fruängen],1785000,65000,1850000,2333,Mäklarringen,633.8430863588287,Fruangen
+2013-11-01,Lotta Svärds Gränd 14,Fruängen,Röd Fruängen,3,70,null,Lägenhet,2012,[Hägersten/Liljeholmen],2295000,255000,2550000,4083,Fastighetsbyrån,657.614348558157,Fruangen
+2013-10-23,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,37,null,Lägenhet,2008,[Hägersten/Liljeholmen],1295000,145000,1440000,3150,Fastighetsbyrån,159.49145867657714,Fruangen
+2013-10-21,Ellen Keys gata 71,Fruängen,Röd Fruängen,1,42,3,Lägenhet,null,[Hägersten],1495000,335000,1830000,2018,Mäklarhuset,158.61080718944552,Fruangen
+2013-10-18,Doktor Widerströms gata 35,Fruängen,Röd Fruängen,3,68,3,Lägenhet,1953,[Fruängen-Hägersten],1695000,155000,1850000,3863,Svenska Mäklarhuset,385.5870243980017,Fruangen
+2013-10-14,Eva Bonniers gata 6,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1955,[Fruängen],1975000,325000,2300000,3642,Mäklarringen,222.46077552806724,Fruangen
+2013-10-10,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,58,null,Lägenhet,2008,[Fruängen Centrum],1995000,105000,2100000,3021,HusmanHagberg,619.9417678700404,Fruangen
+2013-10-09,Lina Sandells plan 2,Fruängen,Röd Fruängen,1,25,null,Lägenhet,1954,[Hägersten/Liljeholmen],1275000,175000,1450000,1782,Fastighetsbyrån,341.959397962883,Fruangen
+2013-10-09,Eva Bonniers gata 10,Fruängen,Röd Fruängen,3,73,null,Lägenhet,1955,[Fruängen],1900000,300000,2200000,3561,Mäklarringen,279.80253973736706,Fruangen
+2013-10-08,Elin Wägners gata 10,Fruängen,Röd Fruängen,2,66,2,Lägenhet,2001,[Fruängen],1690000,260000,1950000,3913,HusmanHagberg,419.19999448352934,Fruangen
+2013-10-08,Kata Dalströms gata 9,Fruängen,Röd Fruängen,2,58,null,Lägenhet,null,[Fruängen],1650000,150000,1800000,2986,Mäklarringen,268.1189314003481,Fruangen
+2013-10-04,Kata Dalströms gata 7,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1955,[Hägersten/Liljeholmen],1625000,155000,1780000,2807,Fastighetsbyrån,248.87817791988795,Fruangen
+2013-10-04,Lotta Svärds Gränd 6,Fruängen,Röd Fruängen,2,53,3,Lägenhet,2013,[Hägersten/Liljeholmen],1945000,0,1945000,3225,SkandiaMäklarna,647.9832777854721,Fruangen
+2013-10-03,Doktor Widerströms gata 33,Fruängen,Röd Fruängen,2,68,null,Lägenhet,1953,[Fruängen],1625000,135000,1760000,3863,Mäklarringen,395.2637311348634,Fruangen
+2013-10-02,Hanna Rydhs gata 36,Fruängen,Röd Fruängen,3,73.5,1,Lägenhet,1970,[Hägersten],1695000,105000,1800000,4204,Mäklarhuset,590.5519838709969,Fruangen
+2013-09-30,Ellen Keys gata 24,Fruängen,Röd Fruängen,2,37,null,Lägenhet,2008,[Hägersten/Liljeholmen],1395000,135000,1530000,3150,Ansvar Fastighetsförmedling,159.49145867657714,Fruangen
+2013-09-30,Fruängsgatan 39,Fruängen,Röd Fruängen,3,89.5,null,Lägenhet,2006,[Hägersten/Liljeholmen],3300000,0,3300000,5119,Fastighetsbyrån,122.90161671184804,Fruangen
+2013-09-28,Lotta Svärds Gränd 18,Fruängen,Röd Fruängen,2,42,null,Lägenhet,2012,[Hägersten/Liljeholmen],1750000,85000,1835000,2450,Fastighetsbyrån,613.7757487289239,Fruangen
+2013-09-26,Doktor Widerströms gata 72,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1953,[Hägersten],1625000,10000,1635000,3252,Mäklarhuset,427.8030150702321,Fruangen
+2013-09-26,Jenny Linds gata 11,Fruängen,Röd Fruängen,2,57,2,Lägenhet,1956,[Fruängen],1650000,0,1650000,2914,Notar,367.0692014638616,Vastertorp
+2013-09-26,Kata Dalströms gata 10,Fruängen,Röd Fruängen,3,70,null,Lägenhet,1958,[Hägersten/Liljeholmen],1995000,405000,2400000,3558,Fastighetsbyrån,348.69834309281777,Fruangen
+2013-09-26,Hanna Rydhs gata 18,Fruängen,Röd Fruängen,2,62.5,null,Lägenhet,1970,[Hägersten/Liljeholmen],1495000,255000,1750000,3824,Fastighetsbyrån,523.2798089420637,Fruangen
+2013-09-24,Lotta Svärds Gränd 18,Fruängen,Röd Fruängen,2,58,4,Lägenhet,null,[Fruängen],1950000,220000,2170000,3383,Erik Olsson Fastighetsförmedling,613.7757487289239,Fruangen
+2013-09-23,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,5,Lägenhet,1955,[Fruängen Centrum],1695000,170000,1865000,3004,HusmanHagberg,229.81973780294786,Fruangen
+2013-09-20,Hanna Paulis gata 25,Fruängen,Röd Fruängen,2,58,null,Lägenhet,1956,[Hägersten/Liljeholmen],1795000,215000,2010000,3032,Fastighetsbyrån,204.89854296516322,Fruangen
+2013-09-20,Eva Bonniers gata 4,Fruängen,Röd Fruängen,3,74,null,Lägenhet,1958,[Hägersten/Liljeholmen],1995000,215000,2210000,3683,Fastighetsbyrån,196.78857211705832,Fruangen
+2013-09-20,Eva Bonniers gata 2,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1956,[Fruängen],2095000,425000,2520000,3557,Svensk Fastighetsförmedling,177.18031860447098,Fruangen
+2013-09-19,Ellen Keys gata 47,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1955,[Hägersten/Liljeholmen],1650000,150000,1800000,3159,Fastighetsbyrån,131.23068370395345,Fruangen
+2013-09-19,Kata Dalströms gata 5,Fruängen,Röd Fruängen,2,55,2,Lägenhet,1955,[Hägersten],1575000,305000,1880000,2841,Mäklarhuset,231.71613173222752,Fruangen
+2013-09-19,Lina Sandells plan 2,Fruängen,Röd Fruängen,3,68,null,Lägenhet,1954,[Hägersten/Liljeholmen],1950000,180000,2130000,4051,Fastighetsbyrån,341.959397962883,Fruangen
+2013-09-12,Ada Nilssons gata 5,Fruängen,Röd Fruängen,2,43,5,Lägenhet,2010,[Fruängen Centrum],1695000,160000,1855000,2329,HusmanHagberg,596.2560185827186,Fruangen
+2013-09-12,Kata Dalströms gata 3,Fruängen,Röd Fruängen,1,40,null,Lägenhet,1955,[Hägersten/Liljeholmen],1395000,315000,1710000,2080,Fastighetsbyrån,216.40138124527158,Fruangen
+2013-09-11,Doktor Widerströms gata 26,Fruängen,Röd Fruängen,1,26,null,Lägenhet,1953,[Fruängen Centrum],1250000,0,1250000,2027,HusmanHagberg,451.4942206216602,Fruangen
+2013-09-11,Fruängstorget 3,Fruängen,Röd Fruängen,2,45,null,Lägenhet,1960,[Hägersten/Liljeholmen],1395000,55000,1450000,3134,Fastighetsbyrån,69.41226965637328,Fruangen
+2013-09-11,Eva Bonniers gata 13,Fruängen,Röd Fruängen,3,68,null,Lägenhet,1955,[Hägersten/Liljeholmen],1850000,275000,2125000,3503,Fastighetsbyrån,238.8672428049343,Fruangen
+2013-09-06,Eva Bonniers gata 23,Fruängen,Röd Fruängen,1,43,null,Lägenhet,1955,[Hägersten/Liljeholmen],1200000,250000,1450000,2398,Fastighetsbyrån,294.6733481446692,Fruangen
+2013-09-05,Elsa Borgs gata 62,Fruängen,Röd Fruängen,3,74,null,Lägenhet,1957,[Hägersten/Liljeholmen],1790000,300000,2090000,4362,SkandiaMäklarna,337.9939875285233,Fruangen
+2013-09-05,Elsa Borgs gata 56,Fruängen,Röd Fruängen,1,26,1,Lägenhet,1957,[Hägersten],1195000,325000,1520000,1732,Mäklarhuset,370.54345010519705,Fruangen
+2013-09-04,Kata Dalströms gata 3,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1958,[Hägersten/Liljeholmen],1795000,305000,2100000,2891,Fastighetsbyrån,216.40138124527158,Fruangen
+2013-08-30,Lina Sandells Plan 5,Fruängen,Röd Fruängen,3,66,null,Lägenhet,1954,[Hägersten/Liljeholmen],1750000,225000,1975000,4264,SkandiaMäklarna,250.3652943315044,Fruangen
+2013-08-30,Hanna Rydhs gata 36,Fruängen,Röd Fruängen,4,95.5,1,Lägenhet,1970,[Hägersten],2075000,425000,2500000,5337,Mäklarhuset,590.5519838709969,Fruangen
+2013-08-30,Ada Nilssons gata 13,Fruängen,Röd Fruängen,3,76,8,Lägenhet,2007,[Fruängen],2195000,605000,2800000,3958,Svenska Mäklarhuset,619.9417678700404,Fruangen
+2013-08-30,Ellen Fries gata 3,Fruängen,Röd Fruängen,2,53,3,Lägenhet,1958,[Fruängen-Hägersten],1495000,10000,1505000,3381,Svenska Mäklarhuset,419.81899841763897,Fruangen
+2013-08-30,Jenny Linds gata 13,Fruängen,Röd Fruängen,4,86,1,Lägenhet,1957,[Hägersten],1995000,355000,2350000,4089,Mäklarhuset,373.99555308488044,Vastertorp
+2013-08-30,Hanna Rydhs gata 24,Fruängen,Röd Fruängen,2,62.5,null,Lägenhet,1970,[Hägersten/Liljeholmen],1575000,65000,1640000,3824,Fastighetsbyrån,538.4400770398996,Fruangen
+2013-08-29,Ellen Keys gata 95,Fruängen,Röd Fruängen,3,76,1,Lägenhet,null,[Hägersten],1995000,345000,2340000,4352,Erik Olsson Fastighetsförmedling,253.93140374546687,Fruangen
+2013-08-28,Elsa Borgs gata 40,Fruängen,Röd Fruängen,3,78,null,Lägenhet,1957,[Hägersten/Liljeholmen],1800000,0,1800000,4571,Fastighetsbyrån,412.90563483538347,Fruangen
+2013-08-27,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,6,Lägenhet,1955,[Fruängen],1695000,205000,1900000,2976,Mäklarringen,229.81973780294786,Fruangen
+2013-08-22,Doktor Widerströms gata 78,Fruängen,Röd Fruängen,2,59,null,Lägenhet,1953,[Fruängen],1595000,180000,1775000,3414,Svensk Fastighetsförmedling,396.5477268137948,Fruangen
+2013-08-22,Hanna Paulis gata 35,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1956,[Hägersten/Liljeholmen],1725000,100000,1825000,2908,Fastighetsbyrån,251.74042717355783,Fruangen
+2013-08-21,Ada Nilsson gata 19,Fruängen,Röd Fruängen,3,76,2,Lägenhet,null,[Hägersten],2150000,310000,2460000,3958,Erik Olsson Fastighetsförmedling,643.9177169348602,Fruangen
+2013-08-16,Fruängsgatan 39,Fruängen,Röd Fruängen,3,109,null,Lägenhet,2008,[Fruängen],3175000,175000,3350000,5867,Balders Ädelmarks,122.90161671184804,Fruangen
+2013-08-16,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,37,3,Lägenhet,null,[Fruängen],1350000,70000,1420000,3150,Erik Olsson Fastighetsförmedling,159.49145867657714,Fruangen
+2013-08-16,Ellen Keys gata 68,Fruängen,Röd Fruängen,3,70.5,null,Lägenhet,2011,[Hägersten/Liljeholmen],2475000,525000,3000000,3638,Fastighetsbyrån,260.4963551981863,Fruangen
+2013-08-16,Lina Sandells Plan 14,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1954,[Hägersten/Liljeholmen],1625000,15000,1640000,3313,Fastighetsbyrån,409.2796898179291,Fruangen
+2013-08-15,Ellen Fries gata 23,Fruängen,Röd Fruängen,3,75,null,Lägenhet,1958,[Fruängen],1650000,360000,2010000,4838,SkandiaMäklarna,413.89210775992575,Fruangen
+2013-08-14,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1953,[Hägersten/Liljeholmen],1495000,325000,1820000,3206,Fastighetsbyrån,393.40131905680227,Fruangen
+2013-08-05,Anna Sandströms gata 6,Fruängen,Röd Fruängen,1,36,null,Lägenhet,1957,[Hägersten/Liljeholmen],1295000,115000,1410000,1600,Fastighetsbyrån,238.5030447692108,Fruangen
+2013-08-01,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,3,70,1,Lägenhet,1955,[Hägersten],1995000,55000,2050000,3687,Mäklarhuset,229.81973780294786,Fruangen
+2013-08-01,Anna Sandströms gata 22,Fruängen,Röd Fruängen,1,37,null,Lägenhet,null,[Bv],1400000,140000,1540000,1599,Mäklarhuset,225.62727006245242,Fruangen
+2013-08-01,Elin Wägners gata 31,Fruängen,Röd Fruängen,3,69,1,Lägenhet,1958,[Hägersten],1775000,235000,2010000,4431,Mäklarhuset,308.7063610759408,Fruangen
+2013-08-01,Eva Bonniers gata 21,Fruängen,Röd Fruängen,3,74,null,Lägenhet,1955,[Fruängen],1675000,280000,1955000,3750,Mäklarringen,286.4680571396162,Fruangen
+2013-07-19,Hanna Rydhs gata 34,Fruängen,Röd Fruängen,3,72,3,Lägenhet,1970,[Hägersten],1695000,315000,2010000,4223,Mäklarhuset,582.4414729582824,Fruangen
+2013-07-18,Doktor Widerströms gata 60,Fruängen,Röd Fruängen,1,26,null,Lägenhet,1953,[Hägersten/Liljeholmen],1250000,170000,1420000,1726,Fastighetsbyrån,454.2146608107266,Fruangen
+2013-07-18,Elin Wägners gata 25,Fruängen,Röd Fruängen,1,36,null,Lägenhet,null,[Fruängen],1250000,110000,1360000,2444,Erik Olsson Fastighetsförmedling,327.67085498911825,Fruangen
+2013-07-17,Lina Sandells Plan 14,Fruängen,Röd Fruängen,2,54,3,Lägenhet,1954,[Fruängen],1550000,0,1550000,3313,Notar,409.2796898179291,Fruangen
+2013-07-12,Eva Bonniers gata 6,Fruängen,Röd Fruängen,3,55,null,Lägenhet,1955,[Hägersten/Liljeholmen],1895000,0,1895000,2790,Fastighetsbyrån,222.46077552806724,Fruangen
+2013-07-12,Eva Bonniers gata 15,Fruängen,Röd Fruängen,3,71,null,Lägenhet,1955,[Fruängen],1850000,0,1850000,3661,HusmanHagberg,251.7211159104591,Fruangen
+2013-07-12,Elsa Borgs gata 56,Fruängen,Röd Fruängen,1,26,null,Lägenhet,null,[Hägersten/Liljeholmen],1250000,150000,1400000,1710,Fastighetsbyrån,370.54345010519705,Fruangen
+2013-07-11,Ellen Keys gata 53,Fruängen,Röd Fruängen,4,86,null,Lägenhet,1955,[Hägersten/Liljeholmen],2300000,250000,2550000,4745,Fastighetsbyrån,105.28380010077554,Fruangen
+2013-07-05,Eva Bonniers gata 19,Fruängen,Röd Fruängen,3,71,null,Lägenhet,1956,[Fruängen],1995000,160000,2155000,3609,Svensk Fastighetsförmedling,279.05987564508234,Fruangen
+2013-07-04,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1955,[Fruängen],1695000,255000,1950000,2976,Mäklarringen,229.81973780294786,Fruangen
+2013-07-04,Hanna Rydhs gata 24,Fruängen,Röd Fruängen,2,62.5,null,Lägenhet,1970,[Fruängen],1575000,235000,1810000,3638,Svensk Fastighetsförmedling,538.4400770398996,Fruangen
+2013-06-24,Jenny Nyströms gata 12,Fruängen,Röd Fruängen,3,78.5,1,Lägenhet,1967,[Fruängen],1595000,80000,1675000,5119,BOSTHLM,547.1881407815054,Fruangen
+2013-06-20,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,4,Lägenhet,1962,[Fruängen],1250000,70000,1320000,2162,Notar,69.41226965637328,Fruangen
+2013-06-19,Eva Bonniers gata 8,Fruängen,Röd Fruängen,2,57,null,Lägenhet,1955,[Hägersten/Liljeholmen],1795000,0,1795000,3016,Fastighetsbyrån,252.117440724061,Fruangen
+2013-06-17,Doktor Widerströms gata 4,Fruängen,Röd Fruängen,2,56,null,Lägenhet,1953,[Fruängen],1495000,10000,1505000,3567,Notar,399.903240857999,Fruangen
+2013-06-14,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,6,Lägenhet,1961,[Hägersten],1260000,30000,1290000,2162,Mäklarhuset,69.41226965637328,Fruangen
+2013-06-13,Jenny Linds gata 13,Fruängen,Röd Fruängen,4,86,null,Lägenhet,1955,[Hägersten/Liljeholmen],2195000,0,2195000,4302,Fastighetsbyrån,373.99555308488044,Vastertorp
+2013-06-12,Lina Sandells Plan 11,Fruängen,Röd Fruängen,3,66,null,Lägenhet,null,[Fruängen],1750000,-30000,1720000,4264,Hemverket,227.7315928500734,Fruangen
+2013-06-08,Lotta Svärds Gränd 14,Fruängen,Röd Fruängen,3,70,null,Lägenhet,2012,[Hägersten/Liljeholmen],2225000,125000,2350000,4083,Fastighetsbyrån,657.614348558157,Fruangen
+2013-06-07,Ada Nilssons gata 5,Fruängen,Röd Fruängen,3,76,5,Lägenhet,2009,[Fruängen],2250000,260000,2510000,4117,HusmanHagberg,596.2560185827186,Fruangen
+2013-06-07,Ellen Keys gata 24,Fruängen,Röd Fruängen,1.5,37,null,Lägenhet,2008,[Hägersten/Liljeholmen],1325000,75000,1400000,3150,Fastighetsbyrån,159.49145867657714,Fruangen
+2013-06-01,Jenny Nyströms gata 12,Fruängen,Röd Fruängen,1,30.5,null,Lägenhet,1967,[Hägersten],950000,245000,1195000,1989,Mäklarhuset,547.1881407815054,Fruangen
+2013-05-30,Lina Sandells Plan 12,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1955,[Fruängen],1400000,225000,1625000,3312,Svensk Fastighetsförmedling,404.91691860558063,Fruangen
+2013-05-29,Mickelsbergsvägen 114,Fruängen,Röd Fruängen,4,107,null,Kedjehus,1967,[Älvsjö],3300000,300000,3600000,null,Svensk Fastighetsförmedling,614.3761942621157,Fruangen
+2013-05-29,Eva Bonniers gata 37,Fruängen,Röd Fruängen,3,68,null,Lägenhet,1955,[Hägersten/Liljeholmen],1795000,0,1795000,3420,Fastighetsbyrån,265.60573503372467,Fruangen
+2013-05-29,Fruängstorget 3,Fruängen,Röd Fruängen,2,45,null,Lägenhet,1960,[Hägersten/Liljeholmen],1495000,-45000,1450000,3134,Fastighetsbyrån,69.41226965637328,Fruangen
+2013-05-29,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,45.5,null,Lägenhet,1967,[Fruängen],1350000,100000,1450000,2967,SkandiaMäklarna,448.3225783358714,Fruangen
+2013-05-23,Hanna Rydhs gata 40,Fruängen,Röd Fruängen,2,62.5,null,Lägenhet,1970,[Hägersten/Liljeholmen],1495000,35000,1530000,3788,Fastighetsbyrån,570.3201011565272,Fruangen
+2013-05-20,Hanna Paulis gata 14,Fruängen,Röd Fruängen,4,87,null,Lägenhet,1955,[Fruängen],1975000,255000,2230000,4530,SkandiaMäklarna,269.72625560536625,Fruangen
+2013-05-16,Hanna Rydhs gata 12,Fruängen,Röd Fruängen,2,62.5,2,Lägenhet,null,[Fruängen],1650000,140000,1790000,3638,Erik Olsson Fastighetsförmedling,546.1459768113,Fruangen
+2013-05-16,Hanna Rydhs gata 8,Fruängen,Röd Fruängen,2,62.5,null,Lägenhet,1970,[Fruängen],1495000,0,1495000,3638,HusmanHagberg,531.2352649578116,Fruangen
+2013-05-15,Elin Wägners gata 37,Fruängen,Röd Fruängen,1,28,null,Lägenhet,1958,[Hägersten/Liljeholmen],1195000,105000,1300000,1926,Fastighetsbyrån,327.5903093994872,Fruangen
+2013-05-11,Hanna Paulis gata 10,Fruängen,Röd Fruängen,3,84,null,Lägenhet,1956,[Fruängen],2195000,40000,2235000,4474,Svensk Fastighetsförmedling,242.30952825720942,Fruangen
+2013-05-09,Elsa Borgs gata 42,Fruängen,Röd Fruängen,1,28,1,Lägenhet,null,[Fruängen],990000,405000,1395000,1801,Erik Olsson Fastighetsförmedling,414.7557225740706,Fruangen
+2013-05-09,Doktor Widerströms gata 8,Fruängen,Röd Fruängen,2,58,null,Lägenhet,1953,[Fruängen],1450000,35000,1485000,3666,Bjurfors,427.54634287019127,Fruangen
+2013-05-09,Kata Dalströms gata 7,Fruängen,Röd Fruängen,2,57,3,Lägenhet,1955,[Hägersten/Liljeholmen],1550000,225000,1775000,2915,Länsförsäkringar Fastighetsförmedling,248.87817791988795,Fruangen
+2013-05-04,Mickelsbergsvägen 108,Fruängen,Röd Fruängen,4,103,null,Villa,1966,[Hägersten],3300000,600000,3900000,null,Mäklarhuset,699.6312332787553,Fruangen
+2013-05-02,Elin Wägners gata 10,Fruängen,Röd Fruängen,2,71,null,Lägenhet,2001,[Hägersten/Liljeholmen],1595000,200000,1795000,4106,Fastighetsbyrån,419.19999448352934,Fruangen
+2013-05-02,Elin Wägners gata 35,Fruängen,Röd Fruängen,3,68,null,Lägenhet,null,[Fruängen],1500000,150000,1650000,4375,Kenwas Fastighetsförmedling AB,315.3176081093117,Fruangen
+2013-05-02,Hanna Paulis gata 13,Fruängen,Röd Fruängen,2,57,null,Lägenhet,null,[Fruängen],1595000,15000,1610000,null,Hemverket,162.82354774508312,Fruangen
+2013-05-01,Doktor Widerströms gata 66,Fruängen,Röd Fruängen,1,25,null,Lägenhet,1953,[Hägersten/Liljeholmen],1195000,205000,1400000,1672,Fastighetsbyrån,409.31528619332755,Fruangen
+2013-04-27,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,3,Lägenhet,1961,[Fruängen],1250000,0,1250000,2162,HusmanHagberg,69.41226965637328,Fruangen
+2013-04-27,Doktor Widerströms gata 20,Fruängen,Röd Fruängen,1,31,1,Lägenhet,1953,[Fruängen],1195000,10000,1205000,2238,Svenska Mäklarhuset,401.79861922421367,Fruangen
+2013-04-26,Eva Bonniers gata 11,Fruängen,Röd Fruängen,4,68,null,Lägenhet,1955,[Hägersten/Liljeholmen],1775000,465000,2240000,3503,Fastighetsbyrån,233.2659500334529,Fruangen
+2013-04-26,Kata Dalströms gata 7,Fruängen,Röd Fruängen,2,57,null,Lägenhet,1953,[Hägersten/Liljeholmen],1625000,75000,1700000,2915,Fastighetsbyrån,248.87817791988795,Fruangen
+2013-04-26,Agnes Lagerstedts gata 12,Fruängen,Röd Fruängen,1,27,6,Lägenhet,1955,[Fruängen],1195000,5000,1200000,1556,Svenska Mäklarhuset,229.81973780294786,Fruangen
+2013-04-25,Lina Sandells Plan 9,Fruängen,Röd Fruängen,2,40,null,Lägenhet,1955,[Fruängen],1225000,295000,1520000,2584,Mäklarringen,225.84122493507388,Fruangen
+2013-04-20,Lina Sandells Plan 26,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1955,[Fruängen],1395000,220000,1615000,3469,HusmanHagberg,370.4397865608565,Fruangen
+2013-04-20,Elsa Borgs gata 44,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1957,[Fruängen],1495000,125000,1620000,3275,SkandiaMäklarna,408.7301827196801,Fruangen
+2013-04-19,Eva Bonniers gata 2,Fruängen,Röd Fruängen,1,31,null,Lägenhet,1955,[Hägersten/Liljeholmen],1200000,300000,1500000,1862,Fastighetsbyrån,177.18031860447098,Fruangen
+2013-04-19,Elsa Borgs gata 40,Fruängen,Röd Fruängen,1,27,null,Lägenhet,1957,[Fruängen],1195000,0,1195000,1767,HusmanHagberg,412.90563483538347,Fruangen
+2013-04-19,Jenny Linds gata 9,Fruängen,Röd Fruängen,2,44,2,Lägenhet,1956,[Fruängen],1450000,25000,1475000,2379,Svenska Mäklarhuset,361.47891135171625,Vastertorp
+2013-04-18,Kata Dalströms gata 10,Fruängen,Röd Fruängen,3,70,null,Lägenhet,1956,[Hägersten/Liljeholmen],1895000,305000,2200000,3658,Fastighetsbyrån,348.69834309281777,Fruangen
+2013-04-18,Eva Bonniers gata 11,Fruängen,Röd Fruängen,3,68,null,Lägenhet,null,[Fruängen],1775000,125000,1900000,3370,Mäklarringen,233.2659500334529,Fruangen
+2013-04-13,Eva Bonniers gata 6,Fruängen,Röd Fruängen,2,59,6,Lägenhet,1957,[Hägersten],1595000,205000,1800000,3090,Mäklarhuset,222.46077552806724,Fruangen
+2013-04-12,Lina Sandells Plan 16,Fruängen,Röd Fruängen,2,54,1,Lägenhet,1955,[Fruängen],1595000,0,1595000,3313,Svenska Mäklarhuset,410.736614908303,Fruangen
+2013-04-12,Eva Bonniers gata 2,Fruängen,Röd Fruängen,2,56,null,Lägenhet,1955,[Hägersten/Liljeholmen],1795000,270000,2065000,2995,Fastighetsbyrån,177.18031860447098,Fruangen
+2013-04-10,Eva Bonniers gata 8,Fruängen,Röd Fruängen,2,59,null,Lägenhet,1955,[Hägersten/Liljeholmen],1600000,480000,2080000,3057,Fastighetsbyrån,252.117440724061,Fruangen
+2013-04-10,Eva Bonniers gata 4,Fruängen,Röd Fruängen,3,74,null,Lägenhet,1955,[Hägersten/Liljeholmen],1995000,215000,2210000,3575,Fastighetsbyrån,196.78857211705832,Fruangen
+2013-04-09,Eva Bonniers gata 37,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1956,[Fruängen],1500000,300000,1800000,3628,Notar,265.60573503372467,Fruangen
+2013-04-05,Kata Dalströms gata 13,Fruängen,Röd Fruängen,2,58,null,Lägenhet,1955,[Hägersten/Liljeholmen],1550000,230000,1780000,2986,Fastighetsbyrån,298.8700044997411,Fruangen
+2013-04-02,Eva Bonniers gata 19,Fruängen,Röd Fruängen,3,71,null,Lägenhet,null,[Fruängen],1750000,90000,1840000,3661,Mäklarringen,279.05987564508234,Fruangen
+2013-04-02,Fredrika Bremers Gata 17,Fruängen,Röd Fruängen,2,66,2,Lägenhet,null,[Fruängen],1300000,60000,1360000,4304,Erik Olsson Fastighetsförmedling,477.45294336649135,Fruangen
+2013-03-28,Eva Bonniers gata 6,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1955,[Hägersten/Liljeholmen],1695000,430000,2125000,3591,Fastighetsbyrån,222.46077552806724,Fruangen
+2013-03-28,Ellen Fries gata 23,Fruängen,Röd Fruängen,3,75,null,Lägenhet,1958,[Fruängen],1595000,35000,1630000,4838,Svensk Fastighetsförmedling,413.89210775992575,Fruangen
+2013-03-28,Elsa Borgs gata 76,Fruängen,Röd Fruängen,3,71,3,Lägenhet,1957,[Hägersten],1850000,160000,2010000,3812,Mäklarhuset,304.68013387997007,Fruangen
+2013-03-27,Doktor Widerströms gata 31,Fruängen,Röd Fruängen,2,56,null,Lägenhet,1953,[Fruängen],1500000,25000,1525000,3252,Bjurfors,409.968222885731,Fruangen
+2013-03-27,Elin Wägners gata 19,Fruängen,Röd Fruängen,2,58,null,Lägenhet,1958,[Fruängen],1495000,30000,1525000,3796,Notar,359.9588664146228,Fruangen
+2013-03-27,Doktor Widerströms gata 78,Fruängen,Röd Fruängen,2,59,null,Lägenhet,1953,[Hägersten/Liljeholmen],1595000,25000,1620000,3414,Fastighetsbyrån,396.5477268137948,Fruangen
+2013-03-24,Doktor Widerströms gata 70,Fruängen,Röd Fruängen,1,39,null,Lägenhet,1953,[Fruängen],1290000,160000,1450000,2305,SkandiaMäklarna,432.48736696141617,Fruangen
+2013-03-24,Ada Nilssons gata 13,Fruängen,Röd Fruängen,2,62,null,Lägenhet,null,[Fruängen],1795000,0,1795000,3229,Mäklarringen,619.9417678700404,Fruangen
+2013-03-22,Lina Sandells Plan 13,Fruängen,Röd Fruängen,2,56,3,Lägenhet,1953,[Hägersten/Liljeholmen],1495000,50000,1545000,3618,Länsförsäkringar Fastighetsförmedling,230.32933569099012,Fruangen
+2013-03-21,Doktor Widerströms gata 30,Fruängen,Röd Fruängen,1,26,null,Lägenhet,1953,[Fruängen],1195000,305000,1500000,1920,Svenska Mäklarhuset,466.6041512494455,Fruangen
+2013-03-21,Eva Bonniers gata 6,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1955,[Hägersten/Liljeholmen],1695000,345000,2040000,3542,Fastighetsbyrån,222.46077552806724,Fruangen
+2013-03-21,Fruängstorget 3,Fruängen,Röd Fruängen,2,61,null,Lägenhet,null,[Hägersten/Liljeholmen],1400000,250000,1650000,4171,Fastighetsbyrån,69.41226965637328,Fruangen
+2013-03-16,Jenny Linds gata 15,Fruängen,Röd Fruängen,3,76,1,Lägenhet,1956,[Fruängen],1795000,205000,2000000,3844,Svenska Mäklarhuset,387.1718481315827,Fruangen
+2013-03-16,Gamla Södertäljevägen 6,Fruängen,Röd Fruängen,2,64,null,Lägenhet,2011,[Fruängen],1945000,0,1945000,3531,Svensk Fastighetsförmedling,571.9362347408719,Fruangen
+2013-03-14,Eva Bonniers gata 10,Fruängen,Röd Fruängen,3,73,null,Lägenhet,1955,[Fruängen],1995000,0,1995000,3545,Notar,279.80253973736706,Fruangen
+2013-03-13,Ellen Keys gata 73,Fruängen,Röd Fruängen,1,28,3,Lägenhet,1956,[Fruängen],1195000,430000,1625000,1345,Svenska Mäklarhuset,157.70776426169255,Fruangen
+2013-03-02,Ellen Keys gata 75,Fruängen,Röd Fruängen,2,53,2,Lägenhet,1956,[Fruängen],1490000,230000,1720000,2546,Svenska Mäklarhuset,168.11414303641433,Fruangen
+2013-02-28,Doktor Widerströms gata 54,Fruängen,Röd Fruängen,1,25,null,Lägenhet,1953,[Hägersten/Liljeholmen],1100000,210000,1310000,1672,Fastighetsbyrån,443.7320609699252,Fruangen
+2013-02-25,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,33,null,Lägenhet,2008,[Fruängen],1195000,165000,1360000,2809,SkandiaMäklarna,159.49145867657714,Fruangen
+2013-02-23,Hanna Rydhs gata 14,Fruängen,Röd Fruängen,2,62.5,null,Lägenhet,1970,[Hägersten/Liljeholmen],1445000,125000,1570000,3788,Fastighetsbyrån,540.0669559160572,Fruangen
+2013-02-22,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,62,null,Lägenhet,2009,[Ada Nilssons Gata],1790000,120000,1910000,3358,SkandiaMäklarna,608.7666307408977,Fruangen
+2013-02-21,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,5,103,null,Lägenhet,null,[Fruängen],2450000,470000,2920000,5373,Erik Olsson Fastighetsförmedling,393.40131905680227,Fruangen
+2013-02-21,Gamla Södertäljevägen 6,Fruängen,Röd Fruängen,2,50,null,Lägenhet,null,[Fruängen],1495000,225000,1720000,2758,Mäklarringen,571.9362347408719,Fruangen
+2013-02-13,Ellen Keys gata 73,Fruängen,Röd Fruängen,3,68,1,Lägenhet,null,[Hägersten],1750000,280000,2030000,3267,Mäklarhuset,157.70776426169255,Fruangen
+2013-02-12,Kata Dalströms gata 19,Fruängen,Röd Fruängen,1,40,2,Lägenhet,null,[Fruängen],1395000,155000,1550000,2113,Erik Olsson Fastighetsförmedling,328.0522141406267,Fruangen
+2013-02-12,Ellen Keys gata 73,Fruängen,Röd Fruängen,2,60,3,Lägenhet,null,[Hägersten],1495000,335000,1830000,2882,Mäklarhuset,157.70776426169255,Fruangen
+2013-02-12,Hanna Paulis gata 13,Fruängen,Röd Fruängen,2,57,null,Lägenhet,null,[Hägersten],1700000,-100000,1600000,3013,Hemverket,162.82354774508312,Fruangen
+2013-02-02,Eva Bonniers gata 17,Fruängen,Röd Fruängen,1,43,null,Lägenhet,null,[Fruängen],1350000,70000,1420000,null,Mäklarringen,265.6806525957314,Fruangen
+2013-01-31,Fruängstorget 3,Fruängen,Röd Fruängen,2,45,5,Lägenhet,null,[Fruängen],1395000,215000,1610000,3134,Svensk Fastighetsförmedling,69.41226965637328,Fruangen
+2013-01-31,Eva Bonniers gata 2,Fruängen,Röd Fruängen,2,58,null,Lägenhet,1955,[Hägersten/Liljeholmen],1800000,230000,2030000,3053,Fastighetsbyrån,177.18031860447098,Fruangen
+2013-01-27,Doktor Widerströms gata 46,Fruängen,Röd Fruängen,1,25,2,Lägenhet,null,[Hägersten],1050000,130000,1180000,1870,Hemverket,463.13918906983133,Fruangen
+2013-01-24,Ellen Keys gata 87,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1955,[Hägersten/Liljeholmen],1500000,100000,1600000,3250,Fastighetsbyrån,234.37370542253285,Fruangen
+2013-01-23,Doktor Widerströms gata 8,Fruängen,Röd Fruängen,2,57,null,Lägenhet,1953,[Hägersten/Liljeholmen],1400000,285000,1685000,3617,Fastighetsbyrån,427.54634287019127,Fruangen
+2013-01-22,Eva Bonniers gata 6,Fruängen,Röd Fruängen,2,55,null,Lägenhet,1955,[Hägersten/Liljeholmen],1695000,165000,1860000,2790,Fastighetsbyrån,222.46077552806724,Fruangen
+2013-01-19,Hanna Paulis gata 5,Fruängen,Röd Fruängen,4,85,null,Lägenhet,1955,[Fruängen],2195000,125000,2320000,4259,Notar,132.98250773272872,Fruangen
+2013-01-17,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,2,Lägenhet,null,[Fruängen],1300000,-100000,1200000,2162,Svensk Fastighetsförmedling,69.41226965637328,Fruangen
+2013-01-17,Eva Bonniers gata 33,Fruängen,Röd Fruängen,3,72,null,Lägenhet,null,[Hägersten],1695000,40000,1735000,3579,Hemverket,289.189422881436,Fruangen
+2013-01-15,Fredrika Bremers gata 15,Fruängen,Röd Fruängen,2,65.5,3,Lägenhet,null,[Hägersten],1150000,280000,1430000,4271,Mäklarhuset,484.3368321175171,Fruangen
+2013-01-12,Fruängstorget 3,Fruängen,Röd Fruängen,1,30,7,Lägenhet,1965,[Hägersten/Liljeholmen],1275000,35000,1310000,2162,Länsförsäkringar Fastighetsförmedling,69.41226965637328,Fruangen
+2013-01-10,Hanna Paulis gata 15,Fruängen,Röd Fruängen,2,57,3,Lägenhet,1956,[Hägersten],1685000,135000,1820000,3013,Mäklarhuset,175.04498333074014,Fruangen
+2013-01-10,Anna Sandströms gata 18,Fruängen,Röd Fruängen,2,65,2,Lägenhet,1958,[Hägersten/Liljeholmen],1495000,120000,1615000,2809,Länsförsäkringar Fastighetsförmedling,200.0766266672523,Fruangen
+2012-12-21,Doktor Widerströms gata 20,Fruängen,Röd Fruängen,2.5,57,2,Lägenhet,1953,[Fruängen],1375000,40000,1415000,3617,Svenska Mäklarhuset,401.79861922421367,Fruangen
+2012-12-13,Doktor Widerströms gata 10,Fruängen,Röd Fruängen,3,63,null,Lägenhet,1953,[Fruängen],1495000,5000,1500000,4002,Svensk Fastighetsförmedling,436.3544723150685,Fruangen
+2012-12-13,Kata Dalströms gata 17,Fruängen,Röd Fruängen,1.5,40,null,Lägenhet,1955,[Hägersten/Liljeholmen],800000,560000,1360000,2080,Länsförsäkringar Fastighetsförmedling,321.6546804881238,Fruangen
+2012-12-12,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,36,null,Lägenhet,2008,[Hägersten/Liljeholmen],1250000,0,1250000,2919,Fastighetsbyrån,159.49145867657714,Fruangen
+2012-11-29,Eva Bonniers gata 10,Fruängen,Röd Fruängen,2,57,null,Lägenhet,1955,[Hägersten/Liljeholmen],1700000,125000,1825000,2965,Fastighetsbyrån,279.80253973736706,Fruangen
+2012-11-28,Doktor Widerströms gata 36,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1953,[Fruängen],1350000,100000,1450000,3468,SkandiaMäklarna,471.0808047157987,Fruangen
+2012-11-27,Elin Wägners gata 29,Fruängen,Röd Fruängen,5,97,2,Lägenhet,1958,[Hägersten],2225000,0,2225000,5927,Mäklarhuset,311.2039936656107,Fruangen
+2012-11-22,Ellen Keys gata 59,Fruängen,Röd Fruängen,1,29,null,Lägenhet,1955,[Fruängen],1275000,60000,1335000,1763,Mäklarringen,99.08347546454065,Fruangen
+2012-11-22,Hanna Paulis gata 29,Fruängen,Röd Fruängen,4,86,null,Lägenhet,1956,[Hägersten/Liljeholmen],2150000,0,2150000,4226,Fastighetsbyrån,213.70757466054272,Fruangen
+2012-11-20,Lina Sandells plan 2,Fruängen,Röd Fruängen,1,25,5,Lägenhet,null,[Hägersten],1200000,310000,1510000,1563,Erik Olsson Fastighetsförmedling,341.959397962883,Fruangen
+2012-11-18,Fredrika Bremers gata 34,Fruängen,Röd Fruängen,1,37.5,null,Lägenhet,1967,[Fruängen],1320000,0,1320000,2261,SkandiaMäklarna,448.3225783358714,Fruangen
+2012-11-18,Elsa Brändströms gata 69,Fruängen,Röd Fruängen,4,102,null,Kedjehus,1966,[Hägersten/Liljeholmen],3300000,325000,3625000,null,Fastighetsbyrån,625.6726966650796,Vastertorp
+2012-11-14,Hanna Rydhs gata 20,Fruängen,Röd Fruängen,1,44.5,null,Lägenhet,1970,[Fruängen],1275000,0,1275000,2654,Svensk Fastighetsförmedling,524.2858313372808,Fruangen
+2012-11-08,Eva Bonniers gata 35,Fruängen,Röd Fruängen,3,72,null,Lägenhet,1955,[Hägersten/Liljeholmen],1895000,20000,1915000,3628,Fastighetsbyrån,272.76115574881885,Fruangen
+2012-11-07,Ada Nilssons gata 5,Fruängen,Röd Fruängen,2,58,2,Lägenhet,2010,[Hägersten],1700000,250000,1950000,3142,Mäklarhuset,596.2560185827186,Fruangen
+2012-11-06,Lina Sandells Plan 11,Fruängen,Röd Fruängen,3,66,2,Lägenhet,1954,[Fruängen],1595000,30000,1625000,4264,Notar,227.7315928500734,Fruangen
+2012-11-03,Anna Sandströms gata 4,Fruängen,Röd Fruängen,3.5,80,1,Lägenhet,1957,[Hägersten],1895000,405000,2300000,3457,Mäklarhuset,244.17655239594234,Fruangen
+2012-10-31,Doktor Widerströms gata 28,Fruängen,Röd Fruängen,2,57,null,Lägenhet,1957,[Hägersten/Liljeholmen],1400000,100000,1500000,3724,Fastighetsbyrån,464.031617696631,Fruangen
+2012-10-31,Lina Sandells plan 2,Fruängen,Röd Fruängen,1,25,7,Lägenhet,null,[Fruängen],1195000,105000,1300000,1563,Erik Olsson Fastighetsförmedling,341.959397962883,Fruangen
+2012-10-27,Bergtallsvägen 24,Fruängen,Röd Fruängen,3,87.5,1,Lägenhet,2010,[Älvsjö],2695000,55000,2750000,4764,Mäklarhuset,522.4414564876214,Fruangen
+2012-10-27,Hanna Rydhs gata 6,Fruängen,Röd Fruängen,3,73.5,3,Lägenhet,1970,[Hägersten],1575000,0,1575000,4288,Mäklarhuset,523.6567735635252,Fruangen
+2012-10-26,Hanna Paulis gata 23,Fruängen,Röd Fruängen,2,58,null,Lägenhet,1956,[Hägersten/Liljeholmen],1550000,100000,1650000,2981,Fastighetsbyrån,202.89166413803196,Fruangen
+2012-10-25,Kata Dalströms gata 15,Fruängen,Röd Fruängen,2,58,null,Lägenhet,1955,[Fruängen],1495000,105000,1600000,2987,Notar,311.63205278654925,Fruangen
+2012-10-25,Ada Nilssons gata 19,Fruängen,Röd Fruängen,2,65,3,Lägenhet,2009,[Hägersten],1790000,140000,1930000,3385,Mäklarhuset,547.1494660243407,Fruangen
+2012-10-24,Doktor Widerströms gata 4,Fruängen,Röd Fruängen,1,26,null,Lägenhet,1953,[Hägersten/Liljeholmen],1250000,0,1250000,1920,Fastighetsbyrån,399.903240857999,Fruangen
+2012-10-20,Fruängsgatan 39,Fruängen,Röd Fruängen,3,111.3,8,Lägenhet,2008,[Hägersten],3200000,175000,3375000,5960,Mäklarhuset,122.90161671184804,Fruangen
+2012-10-17,Doktor Widerströms gata 50,Fruängen,Röd Fruängen,3,67,null,Lägenhet,1953,[Fruängen],1650000,-125000,1525000,4200,SkandiaMäklarna,432.4666282051032,Fruangen
+2012-10-15,Ellen Fries gata 3,Fruängen,Röd Fruängen,2,53,null,Lägenhet,1958,[Fruängen],1500000,20000,1520000,3383,SkandiaMäklarna,419.81899841763897,Fruangen
+2012-10-15,Doktor Widerströms gata 80,Fruängen,Röd Fruängen,1,29,5,Lägenhet,null,[Fruängen],1125000,145000,1270000,2032,Erik Olsson Fastighetsförmedling,393.40131905680227,Fruangen
+2012-10-12,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,37,null,Lägenhet,2008,[Hägersten/Liljeholmen],1195000,120000,1315000,3000,Fastighetsbyrån,159.49145867657714,Fruangen
+2012-10-12,Anna Sandströms gata 18,Fruängen,Röd Fruängen,3,65,3,Lägenhet,1958,[Hägersten/Liljeholmen],1595000,255000,1850000,2809,Länsförsäkringar Fastighetsförmedling,200.0766266672523,Fruangen
+2012-10-12,Hanna Rydhs gata 32,Fruängen,Röd Fruängen,4,95.5,null,Lägenhet,null,[Hägersten/Liljeholmen],2300000,100000,2400000,5539,Fastighetsbyrån,574.6149235647304,Fruangen
+2012-10-09,Ada Nilssons gata 11,Fruängen,Röd Fruängen,2,46,null,Lägenhet,2008,[Fruängen],1495000,75000,1570000,2492,Notar,608.7666307408977,Fruangen
+2012-10-09,Ada Nilssons gata 5,Fruängen,Röd Fruängen,2,41,null,Lägenhet,2008,[Fruängen],1345000,95000,1440000,2221,Svensk Fastighetsförmedling,596.2560185827186,Fruangen
+2012-10-09,Doktor Widerströms gata 66,Fruängen,Röd Fruängen,1,25,null,Lägenhet,1953,[Fruängen],1245000,-85000,1160000,1672,SkandiaMäklarna,409.31528619332755,Fruangen
+2012-09-30,Hanna Paulis Gata 4,Fruängen,Röd Fruängen,4,87,3,Lägenhet,1955,[Fruängen],2195000,35000,2230000,4530,Notar,176.9819606692389,Fruangen
+2012-09-30,Elin Wägners gata 47,Fruängen,Röd Fruängen,4,92,null,Lägenhet,1958,[Hägersten/Liljeholmen],2000000,50000,2050000,5673,Fastighetsbyrån,375.1686795576588,Fruangen
+2012-09-27,Elsa Borgs gata 33,Fruängen,Röd Fruängen,3,76.7,null,Lägenhet,1996,[Fruängen],1795000,85000,1880000,4691,Svensk Fastighetsförmedling,393.5639470035934,Fruangen
+2012-09-26,Lina Sandells Plan 28,Fruängen,Röd Fruängen,2,54,null,Lägenhet,1955,[Hägersten/Liljeholmen],1525000,25000,1550000,3341,Fastighetsbyrån,356.78332536459857,Fruangen
+2012-09-24,Ellen Keys gata 24,Fruängen,Röd Fruängen,1,33,null,Lägenhet,null,[Fruängen],1145000,115000,1260000,2675,Svensk Fastighetsförmedling,159.49145867657714,Fruangen
+2012-09-20,Kata Dalströms gata 10,Fruängen,Röd Fruängen,3,70,null,Lägenhet,1956,[Fruängen],1795000,30000,1825000,3609,Svensk Fastighetsförmedling,348.69834309281777,Fruangen
+2012-09-19,Jenny Nyströms Gata 10,Fruängen,Röd Fruängen,2,66,null,Lägenhet,1967,[Hägersten],1395000,0,1395000,4167,Mäklarhuset,550.6057574547312,Fruangen
+2012-09-14,Bergtallsvägen 24,Fruängen,Röd Fruängen,2,75.5,null,Lägenhet,2010,[Älvsjö],1975000,305000,2280000,4228,Mäklarhuset,522.4414564876214,Fruangen
+2012-09-13,Doktor Widerströms gata 26,Fruängen,Röd Fruängen,2,56,null,Lägenhet,null,[Hägersten/Liljeholmen],1300000,200000,1500000,3675,Fastighetsbyrån,451.4942206216602,Fruangen
+2012-09-09,Lina Sandells Plan 15,Fruängen,Röd Fruängen,3,66,null,Lägenhet,1954,[Hägersten/Liljeholmen],1550000,70000,1620000,4264,Fastighetsbyrån,242.46752454261215,Fruangen
+2012-09-07,Doktor Widerströms gata 40,Fruängen,Röd Fruängen,2,57,null,Lägenhet,1956,[Hägersten/Liljeholmen],1495000,5000,1500000,3617,Fastighetsbyrån,439.7639019174185,Fruangen
+2012-09-07,Eva Bonniers gata 25,Fruängen,Röd Fruängen,1,44,null,Lägenhet,null,[Hägersten/Liljeholmen],1325000,75000,1400000,2401,Fastighetsbyrån,302.1046656043432,Fruangen
+2012-09-07,Ada Nilssons gata 3,Fruängen,Röd Fruängen,3,63,4,Lägenhet,2011,[Hägersten],1750000,130000,1880000,3476,Mäklarhuset,569.304344435611,Fruangen
+2012-08-30,Bergtallsvägen 24,Fruängen,Röd Fruängen,3,87.5,2,Lägenhet,2010,[Älvsjö],2725000,0,2725000,4764,Svensk Fastighetsförmedling,522.4414564876214,Fruangen

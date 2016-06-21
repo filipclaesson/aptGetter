@@ -1,0 +1,183 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-13,Reimersholmsgatan 29,Reimersholme,Södermalm,3,95.5,1,Lägenhet,1980,[Reimersholme],5475000,525000,6000000,5060,Fastighetsbyrån,636.4623627200866,Hornstull
+2016-05-12,Anders Reimers väg 14,Reimersholme,Södermalm,1,21,0.5,Lägenhet,1943,[Reimersholme],1695000,755000,2450000,1371,Fastighetsbyrån,636.009026232965,Hornstull
+2016-04-28,Vindragarvägen 8,Reimersholme,Södermalm,3,78,3,Lägenhet,1945,[Reimersholme],5450000,2225000,7675000,4259,Fastighetsbyrån,900.9250991550618,Hornstull
+2016-04-27,Vindragarvägen 2,Reimersholme,Södermalm,2,61,2,Lägenhet,1945,[Reimersholme],3995000,605000,4600000,3260,Svensk Fastighetsförmedling,814.7158598364823,Hornstull
+2016-04-22,Reimersholmsgatan 59,Reimersholme,Södermalm,4,104.5,5,Lägenhet,1981,[Södermalm],7800000,1800000,9600000,5753,Mäklarringen,724.1002337550837,Hornstull
+2016-04-21,Vindragarvägen 23,Reimersholme,Södermalm,2,56.5,2,Lägenhet,1945,[Reimersholme],3995000,1055000,5050000,3181,Fastighetsbyrån,899.463153992276,Liljeholmen
+2016-04-20,Anders Reimers väg 6,Reimersholme,Södermalm,2,44,null,Lägenhet,null,[Södermalm],3425000,875000,4300000,2993,Reimersholme Fastighetsmäkleri AB,589.2238988468364,Hornstull
+2016-04-15,Pokalvägen 6,Reimersholme,Södermalm,4.5,99,1,Lägenhet,1944,[Reimersholme],6595000,1705000,8300000,4369,Svensk Fastighetsförmedling,704.1256580804514,Hornstull
+2016-04-13,Vindragarvägen 4,Reimersholme,Södermalm,3,62,7,Lägenhet,1945,[Reimersholme],4795000,955000,5750000,3567,Fastighetsbyrån,856.5868465383769,Hornstull
+2016-04-12,Vindragarvägen 7,Reimersholme,Södermalm,3,56.5,4,Lägenhet,null,[Södermalm Högalid],4450000,1150000,5600000,3181,Bjurfors,835.5566976010824,Liljeholmen
+2016-04-11,Reimersholmsgatan 23,Reimersholme,Södermalm,4,109,4,Lägenhet,null,[Södermalm],7900000,1475000,9375000,6061,Reimersholme Fastighetsmäkleri AB,599.3579145162456,Hornstull
+2016-03-31,Pokalvägen 3,Reimersholme,Södermalm,2.5,58,4,Lägenhet,1944,[Reimersholme],4195000,1455000,5650000,3045,Svensk Fastighetsförmedling,743.924812527861,Hornstull
+2016-03-24,Vindragarvägen 2,Reimersholme,Södermalm,2,42,3,Lägenhet,1945,[Högalid],2950000,410000,3360000,2489,Länsförsäkringar Fastighetsförmedling,814.7158598364823,Hornstull
+2016-03-19,Pokalvägen 6,Reimersholme,Södermalm,2,58,null,Lägenhet,null,[Södermalm],3995000,1025000,5020000,2976,Reimersholme Fastighetsmäkleri AB,704.1256580804514,Hornstull
+2016-03-03,Anders Reimers väg 9,Reimersholme,Södermalm,1,35.5,2,Lägenhet,1942,[Reimersholme],2450000,970000,3420000,2440,Svensk Fastighetsförmedling,686.4126262655146,Hornstull
+2016-02-27,Pokalvägen 3,Reimersholme,Södermalm,2,58,1,Lägenhet,1944,[Södermalm],3995000,455000,4450000,2757,Fastighetsbyrån,743.924812527861,Hornstull
+2016-02-20,Reimersholmsgatan 73,Reimersholme,Södermalm,4,104.5,null,Lägenhet,null,[Södermalm],7850000,550000,8400000,5803,Reimersholme Fastighetsmäkleri AB,780.7273434003952,Liljeholmen
+2016-02-18,Anders Reimers väg 1,Reimersholme,Södermalm,3,66,2,Lägenhet,null,[Södermalm],4700000,950000,5650000,3972,Mäklarhuset,580.6104960347885,Hornstull
+2016-02-13,Vindragarvägen 12,Reimersholme,Södermalm,4,107,null,Lägenhet,null,[Södermalm],8500000,520000,9020000,5459,Reimersholme Fastighetsmäkleri AB,936.7594157065832,Liljeholmen
+2016-02-13,Reimersholmsgatan 37,Reimersholme,Södermalm,3,86,null,Lägenhet,null,[Södermalm],5350000,900000,6250000,4742,Reimersholme Fastighetsmäkleri AB,679.3969043642649,Hornstull
+2016-02-05,Reimersholmsgatan 47,Reimersholme,Södermalm,1.5,48.5,1,Lägenhet,1981,[Reimersholme],2950000,460000,3410000,2888,Fastighetsbyrån,681.3789170498765,Hornstull
+2016-02-04,Anders Reimers väg 9,Reimersholme,Södermalm,1,32,2,Lägenhet,1943,[Södermalm],2200000,700000,2900000,2149,SkandiaMäklarna,686.4126262655146,Hornstull
+2016-02-03,Anders Reimers väg 8,Reimersholme,Södermalm,2,44,2,Lägenhet,1942,[Södermalm],2595000,825000,3420000,2853,Erik Olsson Fastighetsförmedling,593.9521277436576,Hornstull
+2016-01-20,Vindragarvägen 8,Reimersholme,Södermalm,1,22,4,Lägenhet,null,[Södermalm],1975000,375000,2350000,1309,Reimersholme Fastighetsmäkleri AB,900.9250991550618,Hornstull
+2016-01-16,Anders Reimers väg 9,Reimersholme,Södermalm,2,49,1,Lägenhet,1943,[Södermalm],3750000,490000,4240000,3215,Länsförsäkringar Fastighetsförmedling,686.4126262655146,Hornstull
+2016-01-14,Anders Reimers väg 11,Reimersholme,Södermalm,2,40,3,Lägenhet,1942,[Södermalm],2695000,625000,3320000,2416,Erik Olsson Fastighetsförmedling,723.2752611135157,Hornstull
+2015-12-17,Vindragarvägen 23,Reimersholme,Södermalm,2,56.5,4,Lägenhet,1945,[Reimersholme],3850000,650000,4500000,3181,Fastighetsbyrån,899.463153992276,Liljeholmen
+2015-12-04,Reimersholmsgatan 77,Reimersholme,Södermalm,3,86,4,Lägenhet,1981,[Reimersholme],5495000,155000,5650000,4962,Fastighetsbyrån,813.4439168384106,Liljeholmen
+2015-11-30,Anders Reimers väg 11,Reimersholme,Södermalm,2,39.5,3,Lägenhet,1942,[Reimersholme],2995000,315000,3310000,2736,Notar,723.2752611135157,Hornstull
+2015-11-28,Reimersholmsgatan 73,Reimersholme,Södermalm,4,104,0,Lägenhet,1980,[Reimersholme],7495000,335000,7830000,5582,Svensk Fastighetsförmedling,780.7273434003952,Liljeholmen
+2015-11-18,Vindragarvägen 2,Reimersholme,Södermalm,1,25,0.5,Lägenhet,1945,[Reimersholme],1995000,435000,2430000,1281,Svensk Fastighetsförmedling,814.7158598364823,Hornstull
+2015-11-17,Pokalvägen 5,Reimersholme,Södermalm,1,40,null,Lägenhet,null,[Södermalm],3600000,0,3600000,2161,Reimersholme Fastighetsmäkleri AB,785.9398525924701,Hornstull
+2015-11-11,Anders Reimers väg 13,Reimersholme,Södermalm,2,42,3,Lägenhet,1943,[Reimersholme],2850000,480000,3330000,2683,Södermäklarna,759.4442759548092,Hornstull
+2015-10-30,Anders Reimers väg 11,Reimersholme,Södermalm,2,50,2,Lägenhet,1942,[Södermalm Reimersholme],3850000,300000,4150000,3340,Hans Göthe Fastighetsbyrå AB,723.2752611135157,Hornstull
+2015-10-26,Pokalvägen 5,Reimersholme,Södermalm,1,40,null,Lägenhet,null,[Pokalvägen],2850000,735000,3585000,2223,Reimersholme Fastighetsmäkleri AB,785.9398525924701,Hornstull
+2015-10-24,Reimersholmsgatan 47,Reimersholme,Södermalm,1.5,48.5,2,Lägenhet,1980,[Södermalm-Högalid],2850000,350000,3200000,2826,Södermäklarna,681.3789170498765,Hornstull
+2015-10-23,Pokalvägen 4,Reimersholme,Södermalm,1,40,5,Lägenhet,1943,[Södermalm],3350000,0,3350000,2165,BOSTHLM,668.154313712391,Hornstull
+2015-10-23,Anders Reimers väg 13,Reimersholme,Södermalm,2,41,4,Lägenhet,1943,[Södermalm],3000000,270000,3270000,2769,Karlsson & Uddare,759.4442759548092,Hornstull
+2015-10-21,Anders Reimers väg 13,Reimersholme,Södermalm,2,54,4,Lägenhet,1943,[Reimersholme],3995000,0,3995000,3425,Södermäklarna,759.4442759548092,Hornstull
+2015-10-19,Reimersholmsgatan 36,Reimersholme,Södermalm,2,43.5,null,Lägenhet,null,[Södermalm],3250000,950000,4200000,2483,Reimersholme Fastighetsmäkleri AB,804.3269082893192,Liljeholmen
+2015-10-09,Pokalvägen 6,Reimersholme,Södermalm,2,58,null,Lägenhet,null,[Södermalm],5250000,0,5250000,3144,Reimersholme Fastighetsmäkleri AB,704.1256580804514,Hornstull
+2015-10-03,Anders Reimers väg 8,Reimersholme,Södermalm,1,35,3,Lägenhet,1942,[Reimersholme],2400000,1050000,3450000,2466,ERA,593.9521277436576,Hornstull
+2015-10-03,Pokalvägen 4,Reimersholme,Södermalm,1,40,null,Lägenhet,null,[Södermalm],2850000,500000,3350000,2119,Reimersholme Fastighetsmäkleri AB,668.154313712391,Hornstull
+2015-09-23,Vindragarvägen 2,Reimersholme,Södermalm,2,61,5,Lägenhet,1945,[Södermalm],3995000,1145000,5140000,3416,Svensk Fastighetsförmedling,814.7158598364823,Hornstull
+2015-09-15,Vindragarvägen 23,Reimersholme,Södermalm,3,56.5,null,Lägenhet,null,[Södermalm],3950000,1000000,4950000,3092,Reimersholme Fastighetsmäkleri AB,899.463153992276,Liljeholmen
+2015-09-11,Reimersholmsgatan 57,Reimersholme,Södermalm,4,109,2,Lägenhet,1981,[Reimersholme],7250000,550000,7800000,6061,Fastighetsbyrån,720.1879702400545,Hornstull
+2015-09-08,Anders Reimers väg 17,Reimersholme,Södermalm,2,63,1,Lägenhet,1942,[Södermalm],3995000,1355000,5350000,3703,Svensk Fastighetsförmedling,835.0362479835918,Hornstull
+2015-09-07,Pokalvägen 5,Reimersholme,Södermalm,2,58,null,Lägenhet,null,[Pokalvägen],3950000,880000,4830000,3014,Reimersholme Fastighetsmäkleri AB,785.9398525924701,Hornstull
+2015-08-28,Vindragarvägen 10,Reimersholme,Södermalm,2,42.5,null,Lägenhet,null,[Södermalm],2750000,780000,3530000,2432,Reimersholme Fastighetsmäkleri AB,932.0850367395461,Liljeholmen
+2015-08-27,Reimersholmsgatan 8,Reimersholme,Södermalm,2,48,3,Lägenhet,1943,[Reimersholme],3250000,500000,3750000,2899,Fastighetsbyrån,605.2818814247885,Hornstull
+2015-08-20,Pokalvägen 4,Reimersholme,Södermalm,3,77,4,Lägenhet,1943,[Södermalm],5495000,1055000,6550000,3734,Svensk Fastighetsförmedling,668.154313712391,Hornstull
+2015-08-20,Anders Reimers väg 13,Reimersholme,Södermalm,1,21.5,1,Lägenhet,1943,[Södermalm Reimersholme],1975000,485000,2460000,1556,HusmanHagberg,759.4442759548092,Hornstull
+2015-08-17,Vindragarvägen 4,Reimersholme,Södermalm,1,22,3,Lägenhet,1945,[Södermalm],1950000,375000,2325000,1327,Länsförsäkringar Fastighetsförmedling,856.5868465383769,Hornstull
+2015-08-14,Anders Reimers väg 17,Reimersholme,Södermalm,1,24,1,Lägenhet,1943,[Reimersholme],1995000,405000,2400000,1449,Fastighetsbyrån,835.0362479835918,Hornstull
+2015-08-13,Vindragarvägen 2,Reimersholme,Södermalm,2,43.5,7,Lägenhet,1945,[Södermalm],3000000,1020000,4020000,2616,Fantastic Frank Fastighetsmäkleri,814.7158598364823,Hornstull
+2015-07-01,Vindragarvägen 12,Reimersholme,Södermalm,3,82,3,Lägenhet,1945,[Södermalm],4995000,1755000,6750000,4411,Svensk Fastighetsförmedling,936.7594157065832,Liljeholmen
+2015-06-25,Vindragarvägen 7,Reimersholme,Södermalm,1,35.5,0,Lägenhet,1944,[Reimersholme],2150000,650000,2800000,1792,Fantastic Frank Fastighetsmäkleri,835.5566976010824,Liljeholmen
+2015-06-16,Anders Reimers väg 17,Reimersholme,Södermalm,2,43,5,Lägenhet,1943,[Södermalm],2900000,150000,3050000,2498,Karlsson & Uddare,835.0362479835918,Hornstull
+2015-06-10,Anders Reimers väg 11,Reimersholme,Södermalm,2,48,3,Lägenhet,1943,[Södermalm],3250000,770000,4020000,3221,Karlsson & Uddare,723.2752611135157,Hornstull
+2015-06-08,Anders Reimers väg 15,Reimersholme,Södermalm,1,21.5,1,Lägenhet,1943,[Södermalm],1850000,460000,2310000,1556,Karlsson & Uddare,795.7855103514522,Hornstull
+2015-06-04,Anders Reimers väg 13,Reimersholme,Södermalm,1.5,42,4,Lägenhet,1943,[Södermalm Reimersholme],2950000,240000,3190000,2930,HusmanHagberg,759.4442759548092,Hornstull
+2015-05-28,Pokalvägen 3,Reimersholme,Södermalm,1,37,7,Lägenhet,1943,[Södermalm],2595000,475000,3070000,2008,Svensk Fastighetsförmedling,743.924812527861,Hornstull
+2015-05-26,Reimersholmsgatan 73,Reimersholme,Södermalm,2,71.5,3,Lägenhet,1981,[Södermalm Reimersholme],4150000,750000,4900000,4103,HusmanHagberg,780.7273434003952,Liljeholmen
+2015-05-12,Anders Reimers väg 10,Reimersholme,Södermalm,1,30,3,Lägenhet,1942,[Södermalm],2195000,555000,2750000,2056,Svensk Fastighetsförmedling,611.0216025163354,Hornstull
+2015-05-12,Pokalvägen 3,Reimersholme,Södermalm,2,58,1,Lägenhet,1943,[Reimersholme],4500000,-150000,4350000,2944,Fastighetsbyrån,743.924812527861,Hornstull
+2015-05-08,Vindragarvägen 2,Reimersholme,Södermalm,2,44,7,Lägenhet,1945,[Södermalm],2995000,780000,3775000,2616,Svensk Fastighetsförmedling,814.7158598364823,Hornstull
+2015-05-07,Reimersholmsgatan 34,Reimersholme,Södermalm,2,43.5,4,Lägenhet,1946,[Reimersholme],2995000,1005000,4000000,2483,Fastighetsbyrån,802.020386557479,Liljeholmen
+2015-05-05,Reimersholmsgatan 36,Reimersholme,Södermalm,2,43.5,4,Lägenhet,1943,[Södermalm],2975000,745000,3720000,2483,Reimersholme Fastighetsmäkleri AB,804.3269082893192,Liljeholmen
+2015-04-30,Pokalvägen 6,Reimersholme,Södermalm,2,58,7,Lägenhet,1943,[Södermalm],3975000,1185000,5160000,3144,Reimersholme Fastighetsmäkleri AB,704.1256580804514,Hornstull
+2015-04-23,Anders Reimers väg 11,Reimersholme,Södermalm,4,90,4,Lägenhet,1943,[Södermalm],6150000,970000,7120000,6194,Reimersholme Fastighetsmäkleri AB,723.2752611135157,Hornstull
+2015-04-15,Reimersholmsgatan 47,Reimersholme,Södermalm,2,49,null,Lägenhet,1980,[Södermalm],2700000,350000,3050000,2932,Svensk Fastighetsförmedling,681.3789170498765,Hornstull
+2015-04-15,Vindragarvägen 10,Reimersholme,Södermalm,1,20,1,Lägenhet,1945,[Reimersholme],1850000,100000,1950000,1151,Fastighetsbyrån,932.0850367395461,Liljeholmen
+2015-04-13,Anders Reimers väg 17,Reimersholme,Södermalm,2,41,1,Lägenhet,1942,[Reimersholme],2850000,1100000,3950000,2674,Svensk Fastighetsförmedling,835.0362479835918,Hornstull
+2015-04-09,Anders Reimers väg 8,Reimersholme,Södermalm,2,44,3,Lägenhet,1942,[Reimersholme],2850000,700000,3550000,2465,Svensk Fastighetsförmedling,593.9521277436576,Hornstull
+2015-04-01,Anders Reimers väg 10,Reimersholme,Södermalm,3,60,1,Lägenhet,1943,[Reimersholme],4250000,650000,4900000,3657,Reimersholme Fastighetsmäkleri AB,611.0216025163354,Hornstull
+2015-02-16,Anders Reimers väg 8,Reimersholme,Södermalm,4,74,2,Lägenhet,1943,[Reimersholme],5450000,1210000,6660000,4311,Reimersholme Fastighetsmäkleri AB,593.9521277436576,Hornstull
+2015-02-04,Reimersholmsgatan 23,Reimersholme,Södermalm,3,86,1,Lägenhet,1980,[Reimersholme],4675000,25000,4700000,4617,SkandiaMäklarna,599.3579145162456,Hornstull
+2015-01-30,Anders Reimers väg 13,Reimersholme,Södermalm,2,50,2,Lägenhet,1943,[Reimersholme],3450000,420000,3870000,3339,Reimersholme Fastighetsmäkleri AB,759.4442759548092,Hornstull
+2015-01-26,Anders Reimers väg 17,Reimersholme,Södermalm,3,81,3,Lägenhet,1943,[Reimersholme],6800000,390000,7190000,4666,Reimersholme Fastighetsmäkleri AB,835.0362479835918,Hornstull
+2015-01-17,Reimersholmsgatan 4,Reimersholme,Södermalm,2,36,2,Lägenhet,1942,[Södermalm],2595000,505000,3100000,2475,Erik Olsson Fastighetsförmedling,579.6108327824264,Hornstull
+2015-01-13,Anders Reimers väg 4,Reimersholme,Södermalm,1,22,2,Lägenhet,1943,[Reimersholme],1850000,500000,2350000,1567,Bjurfors,581.3440575949957,Hornstull
+2014-12-05,Vindragarvägen 2,Reimersholme,Södermalm,2,43.5,4,Lägenhet,1944,[Reimersholme],2575000,400000,2975000,2537,Reimersholme Fastighetsmäkleri AB,814.7158598364823,Hornstull
+2014-12-04,Vindragarvägen 2,Reimersholme,Södermalm,2,61,3,Lägenhet,1943,[Reimersholme],3450000,530000,3980000,3345,Reimersholme Fastighetsmäkleri AB,814.7158598364823,Hornstull
+2014-12-04,Reimersholmsgatan 34,Reimersholme,Södermalm,2,43.5,null,Lägenhet,null,[Reimersholme],2895000,155000,3050000,2400,Reimersholme Fastighetsmäkleri AB,802.020386557479,Liljeholmen
+2014-11-22,Pokalvägen 5,Reimersholme,Södermalm,2,58,5,Lägenhet,null,[Reimersholme],3750000,600000,4350000,3078,Reimersholme Fastighetsmäkleri AB,785.9398525924701,Hornstull
+2014-11-19,Vindragarvägen 4,Reimersholme,Södermalm,2,62,1,Lägenhet,1943,[Reimersholme],3495000,105000,3600000,3217,Reimersholme Fastighetsmäkleri AB,856.5868465383769,Hornstull
+2014-11-11,Reimersholmsgatan 29,Reimersholme,Södermalm,3.5,95.5,1,Lägenhet,null,[Reimersholme],4975000,0,4975000,5135,Karlsson & Uddare,636.4623627200866,Hornstull
+2014-10-31,Vindragarvägen 2,Reimersholme,Södermalm,2,61,4,Lägenhet,1945,[Reimersholme],3750000,600000,4350000,3383,Fastighetsbyrån,814.7158598364823,Hornstull
+2014-10-28,Vindragarvägen 2,Reimersholme,Södermalm,2,43.5,3,Lägenhet,1944,[Södermalm Reimersholme],2895000,330000,3225000,2509,HusmanHagberg,814.7158598364823,Hornstull
+2014-10-22,Reimersholmsgatan 63,Reimersholme,Södermalm,1.5,48.5,null,Lägenhet,1979,[Reimersholme],2695000,105000,2800000,2826,Notar,745.708939276617,Liljeholmen
+2014-10-20,Anders Reimers väg 17,Reimersholme,Södermalm,3,81,4,Lägenhet,1943,[Södermalm Reimersholme],7200000,200000,7400000,4562,Reimersholme Fastighetsmäkleri AB,835.0362479835918,Hornstull
+2014-10-17,Reimersholmsgatan 53,Reimersholme,Södermalm,3,99.5,null,Lägenhet,1981,[Reimersholme],4995000,55000,5050000,5153,Fastighetsbyrån,714.8072789597401,Hornstull
+2014-10-08,Anders Reimers väg 6,Reimersholme,Södermalm,1,22,2,Lägenhet,1942,[Reimersholme],1795000,355000,2150000,1590,Mäklarhuset,589.2238988468364,Hornstull
+2014-10-06,Anders Reimers väg 15,Reimersholme,Södermalm,2,49,3,Lägenhet,1943,[Södermalm Reimersholme],3650000,250000,3900000,3214,Reimersholme Fastighetsmäkleri AB,795.7855103514522,Hornstull
+2014-09-19,Reimersholmsgatan 8,Reimersholme,Södermalm,2,35,2,Lägenhet,1943,[Södermalm Reimersholme],2495000,555000,3050000,2391,Reimersholme Fastighetsmäkleri AB,605.2818814247885,Hornstull
+2014-09-12,Reimersholmsgatan 75,Reimersholme,Södermalm,3,86,1,Lägenhet,1979,[Reimersholme],4395000,505000,4900000,4722,Notar,818.8665395047802,Liljeholmen
+2014-08-13,Anders Reimers väg 17,Reimersholme,Södermalm,2,40,1,Lägenhet,1943,[Reimersholme],2495000,280000,2775000,2334,Fastighetsbyrån,835.0362479835918,Hornstull
+2014-07-29,Anders Reimers väg 9,Reimersholme,Södermalm,1,35.5,6,Lägenhet,1942,[Reimersholme],3050000,0,3050000,2464,BOSTHLM,686.4126262655146,Hornstull
+2014-07-24,Reimersholmsgatan 41,Reimersholme,Södermalm,2,70,7,Lägenhet,1979,[Södermalm],4250000,450000,4700000,4053,Notar,642.2438305418764,Hornstull
+2014-07-13,Vindragarvägen 7,Reimersholme,Södermalm,3,57,3,Lägenhet,1943,[Reimersholme],null,NaN,3550000,3181,Reimersholme Fastighetsmäkleri AB,835.5566976010824,Liljeholmen
+2014-07-11,Vindragarvägen 2,Reimersholme,Södermalm,2,45,6,Lägenhet,1944,[Reimersholme],2650000,100000,2750000,2569,Reimersholme Fastighetsmäkleri AB,814.7158598364823,Hornstull
+2014-07-08,Vindragarvägen 21,Reimersholme,Södermalm,3,57.5,2,Lägenhet,1943,[Reimersholme],3150000,620000,3770000,3092,Reimersholme Fastighetsmäkleri AB,885.9691257851531,Liljeholmen
+2014-06-27,Pokalvägen 3,Reimersholme,Södermalm,1,37,2,Lägenhet,1943,[Reimersholme],1995000,840000,2835000,1886,Svensk Fastighetsförmedling,743.924812527861,Hornstull
+2014-06-23,Pokalvägen 3,Reimersholme,Södermalm,2,58,null,Lägenhet,1944,[Reimersholme],3375000,145000,3520000,2694,Reimersholme Fastighetsmäkleri AB,743.924812527861,Hornstull
+2014-06-18,Vindragarvägen 2,Reimersholme,Södermalm,2,60.5,2,Lägenhet,1945,[Reimersholme],3400000,210000,3610000,3325,Fastighetsbyrån,814.7158598364823,Hornstull
+2014-06-18,Reimersholmsgatan 23,Reimersholme,Södermalm,2,48.5,null,Lägenhet,1980,[Reimersholme],2650000,50000,2700000,2857,Reimersholme Fastighetsmäkleri AB,599.3579145162456,Hornstull
+2014-06-13,Anders Reimers väg 13,Reimersholme,Södermalm,1,22,null,Lägenhet,1943,[Reimersholme],1695000,165000,1860000,1504,Reimersholme Fastighetsmäkleri AB,759.4442759548092,Hornstull
+2014-06-13,Reimersholmsgatan 34,Reimersholme,Södermalm,2,43.5,null,Lägenhet,1945,[Högalid],2795000,465000,3260000,2483,Fastighetsbyrån,802.020386557479,Liljeholmen
+2014-06-04,Vindragarvägen 8,Reimersholme,Södermalm,1,22,4,Lägenhet,1945,[Reimersholme],1750000,-20000,1730000,1309,Svensk Fastighetsförmedling,900.9250991550618,Hornstull
+2014-06-03,Reimersholmsgatan 23,Reimersholme,Södermalm,3,86,1,Lägenhet,null,[Reimersholme],4695000,305000,5000000,4617,Svensk Fastighetsförmedling,599.3579145162456,Hornstull
+2014-05-30,Anders Reimers väg 13,Reimersholme,Södermalm,1,40,4,Lägenhet,1943,[Reimersholme],2350000,170000,2520000,2675,Reimersholme Fastighetsmäkleri AB,759.4442759548092,Hornstull
+2014-05-28,Reimersholmsgatan 25,Reimersholme,Södermalm,2,71.5,null,Lägenhet,1980,[Reimersholme],3800000,800000,4600000,3978,Reimersholme Fastighetsmäkleri AB,599.6731852145198,Hornstull
+2014-05-28,Pokalvägen 6,Reimersholme,Södermalm,2,58,6,Lägenhet,1944,[Reimersholme],3650000,350000,4000000,3113,Reimersholme Fastighetsmäkleri AB,704.1256580804514,Hornstull
+2014-05-21,Anders Reimers väg 9,Reimersholme,Södermalm,1,32,null,Lägenhet,1943,[Reimersholme],1950000,175000,2125000,2074,SkandiaMäklarna,686.4126262655146,Hornstull
+2014-05-15,Reimersholmsgatan 47,Reimersholme,Södermalm,4,109,4,Lägenhet,null,[Reimersholme],6195000,505000,6700000,6061,Svensk Fastighetsförmedling,681.3789170498765,Hornstull
+2014-05-14,Pokalvägen 4,Reimersholme,Södermalm,2,58,4,Lägenhet,1943,[Reimersholme],3450000,525000,3975000,3045,Reimersholme Fastighetsmäkleri AB,668.154313712391,Hornstull
+2014-05-12,Vindragarvägen 2,Reimersholme,Södermalm,2,61,5,Lägenhet,1943,[Reimersholme],3475000,550000,4025000,3416,Reimersholme Fastighetsmäkleri AB,814.7158598364823,Hornstull
+2014-04-27,Vindragarvägen 12,Reimersholme,Södermalm,1.5,42.5,3,Lägenhet,1945,[Södermalm],2295000,375000,2670000,2467,Svenska Mäklarhuset,936.7594157065832,Liljeholmen
+2014-04-15,Anders Reimers väg 8,Reimersholme,Södermalm,2,46,1,Lägenhet,1943,[Reimersholme Högalid],2985000,115000,3100000,2492,HusmanHagberg,593.9521277436576,Hornstull
+2014-04-14,Anders Reimers väg 14,Reimersholme,Södermalm,3,60,2,Lägenhet,1944,[Reimersholme],3900000,550000,4450000,3622,Reimersholme Fastighetsmäkleri AB,636.009026232965,Hornstull
+2014-04-08,Anders Reimers väg 8,Reimersholme,Södermalm,1,37,2,Lägenhet,1942,[Södermalm],2250000,550000,2800000,2034,Svenska Mäklarhuset,593.9521277436576,Hornstull
+2014-04-04,Reimersholmsgatan 49,Reimersholme,Södermalm,2,71.5,null,Lägenhet,1980,[Södermalm Högalid],3640000,455000,4095000,3941,Reimersholme Fastighetsmäkleri AB,683.8053209640675,Hornstull
+2014-03-31,Pokalvägen 6,Reimersholme,Södermalm,1,40,2,Lägenhet,1944,[Reimersholme],2375000,405000,2780000,2091,Reimersholme Fastighetsmäkleri AB,704.1256580804514,Hornstull
+2014-03-14,Anders Reimers väg 12,Reimersholme,Södermalm,2,50,3,Lägenhet,1943,[Reimersholme],3375000,675000,4050000,3178,Reimersholme Fastighetsmäkleri AB,623.5032080786492,Hornstull
+2014-02-05,Vindragarvägen 2,Reimersholme,Södermalm,2,45,2,Lägenhet,1945,[Södermalm],2350000,350000,2700000,2468,Svensk Fastighetsförmedling,814.7158598364823,Hornstull
+2014-02-03,Vindragarvägen 12,Reimersholme,Södermalm,2,63,5,Lägenhet,1943,[Reimersholme],3450000,300000,3750000,3524,Reimersholme Fastighetsmäkleri AB,936.7594157065832,Liljeholmen
+2014-01-30,Reimersholmsgatan 41,Reimersholme,Södermalm,3,86,5,Lägenhet,1980,[Södermalm],4875000,535000,5410000,4762,Svensk Fastighetsförmedling,642.2438305418764,Hornstull
+2014-01-21,Anders Reimers väg 9,Reimersholme,Södermalm,1.5,26,4,Lägenhet,1943,[Reimersholme],1750000,320000,2070000,1852,Reimersholme Fastighetsmäkleri AB,686.4126262655146,Hornstull
+2014-01-15,Anders Reimers väg 13,Reimersholme,Södermalm,1.5,39.5,null,Lägenhet,1942,[Reimersholme],2395000,115000,2510000,2737,Fastighetsbyrån,759.4442759548092,Hornstull
+2013-12-13,Reimersholmsgatan 23,Reimersholme,Södermalm,3,86,1,Lägenhet,1981,[Reimersholme Högalid],4150000,-240000,3910000,4602,HusmanHagberg,599.3579145162456,Hornstull
+2013-12-05,Reimersholmsgatan 77,Reimersholme,Södermalm,2,71.5,null,Lägenhet,1981,[Reimersholme],3475000,25000,3500000,3954,SkandiaMäklarna,813.4439168384106,Liljeholmen
+2013-11-23,Reimersholmsgatan 32,Reimersholme,Södermalm,2,43.5,3,Lägenhet,1943,[Reimersholme Högalid],2495000,485000,2980000,2278,HusmanHagberg,799.5270103496621,Liljeholmen
+2013-11-23,Vindragarvägen 4,Reimersholme,Södermalm,1,22,3,Lägenhet,1945,[Södermalm],1495000,305000,1800000,1217,Erik Olsson Fastighetsförmedling,856.5868465383769,Hornstull
+2013-10-30,Anders Reimers väg 9,Reimersholme,Södermalm,1,25.5,2,Lägenhet,1943,[Reimersholme],1625000,370000,1995000,1735,Reimersholme Fastighetsmäkleri AB,686.4126262655146,Hornstull
+2013-10-27,Anders Reimers väg 15,Reimersholme,Södermalm,1,40,3,Lägenhet,1943,[Reimersholme],2250000,-30000,2220000,2517,Reimersholme Fastighetsmäkleri AB,795.7855103514522,Hornstull
+2013-10-23,Vindragarvägen 10,Reimersholme,Södermalm,1,20,0.5,Lägenhet,1945,[Reimersholme Högalid],1575000,45000,1620000,1056,HusmanHagberg,932.0850367395461,Liljeholmen
+2013-10-07,Pokalvägen 3,Reimersholme,Södermalm,2,58,null,Lägenhet,1944,[Reimersholme],3595000,205000,3800000,3014,Reimersholme Fastighetsmäkleri AB,743.924812527861,Hornstull
+2013-10-07,Vindragarvägen 12,Reimersholme,Södermalm,4,107,null,Lägenhet,1943,[Reimersholme],6300000,0,6300000,4742,Reimersholme Fastighetsmäkleri AB,936.7594157065832,Liljeholmen
+2013-09-23,Reimersholmsgatan 37,Reimersholme,Södermalm,4,109,3,Lägenhet,1980,[Reimersholme],5500000,400000,5900000,6004,Reimersholme Fastighetsmäkleri AB,679.3969043642649,Hornstull
+2013-09-22,Anders Reimers väg 13,Reimersholme,Södermalm,2,36,null,Lägenhet,1943,[Reimersholme],2250000,50000,2300000,2122,Reimersholme Fastighetsmäkleri AB,759.4442759548092,Hornstull
+2013-08-28,Reimersholmsgatan 75,Reimersholme,Södermalm,3,86,6,Lägenhet,null,[Reimersholme],4275000,255000,4530000,4925,Alexander White Fastighetsmäkleri,818.8665395047802,Liljeholmen
+2013-08-27,Anders Reimers väg 13,Reimersholme,Södermalm,3,94,5,Lägenhet,1943,[Södermalm],5495000,-50000,5445000,5766,Svensk Fastighetsförmedling,759.4442759548092,Hornstull
+2013-08-23,Pokalvägen 3,Reimersholme,Södermalm,2,58,7,Lägenhet,1944,[Reimersholme],3795000,155000,3950000,3144,Reimersholme Fastighetsmäkleri AB,743.924812527861,Hornstull
+2013-08-15,Pokalvägen 3,Reimersholme,Södermalm,2,58,null,Lägenhet,1944,[Reimersholme],3895000,155000,4050000,3144,Fastighetsbyrån,743.924812527861,Hornstull
+2013-08-14,Anders Reimers väg 15,Reimersholme,Södermalm,2,55,2,Lägenhet,1943,[Reimersholme],3195000,270000,3465000,2816,Reimersholme Fastighetsmäkleri AB,795.7855103514522,Hornstull
+2013-08-08,Anders Reimers väg 2,Reimersholme,Södermalm,1.5,39,2,Lägenhet,1943,[Reimersholme],2250000,25000,2275000,2359,Reimersholme Fastighetsmäkleri AB,573.3052550011815,Hornstull
+2013-08-07,Reimersholmsgatan 23,Reimersholme,Södermalm,3,85,5,Lägenhet,1980,[Södermalm],4495000,575000,5070000,4968,Svensk Fastighetsförmedling,599.3579145162456,Hornstull
+2013-06-27,Anders Reimers väg 11,Reimersholme,Södermalm,2,54,5,Lägenhet,1943,[Södermalm],3295000,85000,3380000,3188,Svensk Fastighetsförmedling,723.2752611135157,Hornstull
+2013-06-21,Pokalvägen 6,Reimersholme,Södermalm,2,40,null,Lägenhet,1943,[Södermalm Högalid],2295000,10000,2305000,1894,HusmanHagberg,704.1256580804514,Hornstull
+2013-06-19,Reimersholmsgatan 79,Reimersholme,Södermalm,2,71.5,null,Lägenhet,1980,[Reimersholme],3850000,350000,4200000,4022,Reimersholme Fastighetsmäkleri AB,806.974703403051,Liljeholmen
+2013-06-19,Anders Reimers väg 11,Reimersholme,Södermalm,2,40,4,Lägenhet,1943,[Reimersholme],2375000,-50000,2325000,2498,Reimersholme Fastighetsmäkleri AB,723.2752611135157,Hornstull
+2013-06-16,Anders Reimers väg 15,Reimersholme,Södermalm,3,56,1,Lägenhet,1943,[Reimersholme],3475000,100000,3575000,2816,Reimersholme Fastighetsmäkleri AB,795.7855103514522,Hornstull
+2013-05-30,Vindragarvägen 4,Reimersholme,Södermalm,1,42,5,Lägenhet,1944,[Reimersholme],2295000,85000,2380000,2284,Reimersholme Fastighetsmäkleri AB,856.5868465383769,Hornstull
+2013-05-24,Reimersholmsgatan 32,Reimersholme,Södermalm,2,44,3,Lägenhet,1943,[Reimersholme],2495000,442000,2937000,2278,Reimersholme Fastighetsmäkleri AB,799.5270103496621,Liljeholmen
+2013-05-23,Reimersholmsgatan 71,Reimersholme,Södermalm,4,96.5,3,Lägenhet,1980,[Södermalm],5175000,175000,5350000,5534,Svensk Fastighetsförmedling,785.381646589494,Liljeholmen
+2013-05-22,Anders Reimers väg 9,Reimersholme,Södermalm,1,36,3,Lägenhet,1942,[Reimersholme Södermalm],2280000,-5000,2275000,2269,Reimersholme Fastighetsmäkleri AB,686.4126262655146,Hornstull
+2013-05-11,Pokalvägen 6,Reimersholme,Södermalm,2,40,null,Lägenhet,1944,[Reimersholme],2375000,385000,2760000,2161,Reimersholme Fastighetsmäkleri AB,704.1256580804514,Hornstull
+2013-05-09,Pokalvägen 3,Reimersholme,Södermalm,1,35,null,Lägenhet,1944,[Södermalm],1875000,0,1875000,1721,Svenska Mäklarhuset,743.924812527861,Hornstull
+2013-05-08,Vindragarvägen 23,Reimersholme,Södermalm,3,56.5,2.5,Lägenhet,1945,[Södermalm],3195000,320000,3515000,2837,Svensk Fastighetsförmedling,899.463153992276,Liljeholmen
+2013-04-30,Vindragarvägen 2,Reimersholme,Södermalm,3,81,5,Lägenhet,1944,[Reimersholme],4750000,305000,5055000,4209,Reimersholme Fastighetsmäkleri AB,814.7158598364823,Hornstull
+2013-04-27,Pokalvägen 5,Reimersholme,Södermalm,1,40,6,Lägenhet,1944,[Reimersholme],2275000,165000,2440000,2197,Reimersholme Fastighetsmäkleri AB,785.9398525924701,Hornstull
+2013-04-26,Anders Reimers väg 2,Reimersholme,Södermalm,1.5,32,3,Lägenhet,1943,[Reimersholme],1995000,55000,2050000,2022,Reimersholme Fastighetsmäkleri AB,573.3052550011815,Hornstull
+2013-04-24,Reimersholmsgatan 37,Reimersholme,Södermalm,3,86,5,Parhus,1980,[Södermalm],4395000,405000,4800000,4970,Svensk Fastighetsförmedling,679.3969043642649,Hornstull
+2013-04-19,Reimersholmsgatan 59,Reimersholme,Södermalm,3,71.5,null,Lägenhet,1980,[Reimersholme],3975000,400000,4375000,3981,Reimersholme Fastighetsmäkleri AB,724.1002337550837,Hornstull
+2013-04-15,Pokalvägen 6,Reimersholme,Södermalm,3,76.5,5,Lägenhet,1943,[Reimersholme],4750000,-200000,4550000,3774,HusmanHagberg,704.1256580804514,Hornstull
+2013-04-09,Reimersholmsgatan 6,Reimersholme,Södermalm,1,35,1,Lägenhet,1943,[Reimersholme],1975000,175000,2150000,2192,Reimersholme Fastighetsmäkleri AB,590.8462835896158,Hornstull
+2013-03-28,Pokalvägen 3,Reimersholme,Södermalm,5,99,1,Lägenhet,1943,[Reimersholme],5900000,470000,6370000,4427,Reimersholme Fastighetsmäkleri AB,743.924812527861,Hornstull
+2013-03-22,Anders Reimers väg 1,Reimersholme,Södermalm,2,53,null,Lägenhet,1943,[Reimersholme],3100000,0,3100000,3021,Fastighetsbyrån,580.6104960347885,Hornstull
+2013-03-15,Pokalvägen 6,Reimersholme,Södermalm,2,58,3,Lägenhet,1943,[Reimersholme],3195000,185000,3380000,3014,Reimersholme Fastighetsmäkleri AB,704.1256580804514,Hornstull
+2013-03-13,Reimersholmsgatan 8,Reimersholme,Södermalm,2,48,null,Lägenhet,1942,[Reimersholme],2480000,240000,2720000,2667,Reimersholme Fastighetsmäkleri AB,605.2818814247885,Hornstull
+2013-03-08,Pokalvägen 3,Reimersholme,Södermalm,5,99,null,Lägenhet,1943,[Reimersholme],6200000,600000,6800000,4675,Reimersholme Fastighetsmäkleri AB,743.924812527861,Hornstull
+2013-03-07,Vindragarvägen 23,Reimersholme,Södermalm,3,56.5,2,Lägenhet,1943,[Reimersholme],3195000,175000,3370000,2837,Reimersholme Fastighetsmäkleri AB,899.463153992276,Liljeholmen
+2013-03-06,Anders Reimers väg 4,Reimersholme,Södermalm,1.5,39,3,Lägenhet,1942,[Reimersholme],2275000,125000,2400000,2357,Reimersholme Fastighetsmäkleri AB,581.3440575949957,Hornstull
+2013-03-02,Anders Reimers väg 9,Reimersholme,Södermalm,1,35.5,3,Lägenhet,1942,[Reimersholme Södermalm],2175000,25000,2200000,2269,Reimersholme Fastighetsmäkleri AB,686.4126262655146,Hornstull
+2013-03-02,Reimersholmsgatan 65,Reimersholme,Södermalm,5,109,3,Lägenhet,1980,[Reimersholme],5500000,130000,5630000,6004,Reimersholme Fastighetsmäkleri AB,758.7722489516239,Liljeholmen
+2013-02-08,Anders Reimers väg 13,Reimersholme,Södermalm,2,55,2,Lägenhet,1943,[Reimersholme Södermalm],2795000,270000,3065000,2964,Reimersholme Fastighetsmäkleri AB,759.4442759548092,Hornstull
+2013-01-22,Pokalvägen 6,Reimersholme,Södermalm,1.5,40,null,Lägenhet,null,[Stan],1895000,5000,1900000,1893,Privatmäklaren,704.1256580804514,Hornstull
+2013-01-18,Reimersholmsgatan 11,Reimersholme,Södermalm,2,58.5,null,Lägenhet,1983,[Reimersholme],2350000,560000,2910000,3348,Fastighetsbyrån,588.9354626124499,Hornstull
+2012-12-19,Reimersholmsgatan 23,Reimersholme,Södermalm,3,86,null,Lägenhet,1980,[Reimersholme],3975000,0,3975000,4889,Reimersholme Fastighetsmäkleri AB,599.3579145162456,Hornstull
+2012-11-06,Pokalvägen 5,Reimersholme,Södermalm,3,76.5,4,Lägenhet,null,[Södermalm],4400000,-150000,4250000,3556,Erik Olsson Fastighetsförmedling,785.9398525924701,Hornstull
+2012-09-28,Pokalvägen 4,Reimersholme,Södermalm,2,58,null,Lägenhet,1944,[Reimersholme],2900000,660000,3560000,2834,Fastighetsbyrån,668.154313712391,Hornstull
+2012-09-17,Anders Reimers väg 13,Reimersholme,Södermalm,2,48,3,Lägenhet,1943,[Södermalm],2850000,35000,2885000,2877,Svensk Fastighetsförmedling,759.4442759548092,Hornstull

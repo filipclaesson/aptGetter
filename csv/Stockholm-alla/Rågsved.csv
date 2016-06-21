@@ -1,0 +1,258 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-12,Lerbäcksgränd 17,Rågsved,Grön Hagsätra,2,61,1,Lägenhet,1959,[Bandhagen],2200000,-240000,1960000,3791,Svensk Fastighetsförmedling,529.8210503291106,Ragsved
+2016-05-08,Bjursätragatan 98,Rågsved,Grön Hagsätra,3,69,3,Lägenhet,1957,[Enskede-Årsta-Vantör],1995000,285000,2280000,3828,SkandiaMäklarna,429.00375257495193,Ragsved
+2016-05-05,Porlabacken 1,Rågsved,Grön Hagsätra,3,74,null,Lägenhet,1958,[Hagsätra],1995000,0,1995000,5123,Notar,546.3123160415405,Hagsatra
+2016-04-18,Vintrosagatan 52,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1959,[Hagsätra],1895000,510000,2405000,3900,Mäklarringen,443.38291994116224,Hagsatra
+2016-04-15,Vintrosagatan 50,Rågsved,Grön Hagsätra,3,80,1,Lägenhet,1958,[Bandhagen],1950000,320000,2270000,4166,Svensk Fastighetsförmedling,443.38291994116224,Hagsatra
+2016-04-15,Axbergsgränd 27,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1958,[Hagsätra],1895000,175000,2070000,4482,Mäklarringen,570.1680039536274,Ragsved
+2016-04-14,Axbergsgränd 15,Rågsved,Grön Hagsätra,2,61,1,Lägenhet,1959,[Hagsätra],1920000,0,1920000,3740,Länsförsäkringar Fastighetsförmedling,571.681706119825,Ragsved
+2016-04-13,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,54,1,Lägenhet,2011,[Bandhagen],1525000,235000,1760000,3580,Ansvar Fastighetsförmedling,498.4492657811494,Ragsved
+2016-04-11,Vintrosagatan 52,Rågsved,Grön Hagsätra,3,73,6,Lägenhet,1958,[Bandhagen],2050000,470000,2520000,3900,Svensk Fastighetsförmedling,443.38291994116224,Hagsatra
+2016-04-09,Bäverdammsgränd 92,Rågsved,Grön Hagsätra,5,108.5,null,Lägenhet,1983,[Rågsved],1895000,405000,2300000,6430,HusmanHagberg,616.1523757573158,Ragsved
+2016-04-08,Axbergsgränd 23,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,null,[Hagsätra],1895000,355000,2250000,4470,BOSTHLM,599.3126054219679,Ragsved
+2016-04-07,Lerbäcksgränd 15,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1959,[Hagsätra],1895000,455000,2350000,4460,Mäklarhuset,516.2262859578092,Ragsved
+2016-04-07,Axbergsgränd 9,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1958,[Hagsätra],1850000,175000,2025000,4444,Mäklarhuset,530.0262541561159,Ragsved
+2016-04-06,Lerbäcksgränd 18,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1959,[Bandhagen],1795000,625000,2420000,4461,Svensk Fastighetsförmedling,478.2968825887305,Ragsved
+2016-03-21,Vedevågslingan 25,Rågsved,Grön Hagsätra,3,82.9,null,Lägenhet,2008,[Bandhagen],2095000,5000,2100000,5663,Notar,470.4525465464765,Hagsatra
+2016-03-18,Porlabacken 45,Rågsved,Grön Hagsätra,2,53,null,Lägenhet,1958,[Hagsätra],1795000,605000,2400000,3866,Notar,464.8311938840824,Hagsatra
+2016-03-17,Bjursätragatan 33,Rågsved,Grön Hagsätra,3,66,5,Lägenhet,2011,[Rågsved],2195000,405000,2600000,4342,HusmanHagberg,498.4492657811494,Ragsved
+2016-03-16,Axbergsgränd 19,Rågsved,Grön Hagsätra,2,61,3,Lägenhet,1958,[Bandhagen Hagsätra],1700000,550000,2250000,3751,Husfokus Mäklarbyrå,605.8997890023235,Ragsved
+2016-03-11,Bäckdalsvägen 27,Rågsved,Grön Hagsätra,5,134,null,Villa,1972,[Älvsjö/Farsta/Vantör],5750000,0,5750000,null,SkandiaMäklarna,622.7515849262346,Ragsved
+2016-03-10,Göksholmsbacken 24,Rågsved,Grön Hagsätra,3,75,2,Lägenhet,1958,[Bandhagen],1995000,165000,2160000,4011,Svensk Fastighetsförmedling,502.7117015468481,Hagsatra
+2016-03-04,Vintrosagatan 56,Rågsved,Grön Hagsätra,2,57,7,Lägenhet,1958,[Bandhagen],1750000,700000,2450000,3294,Svensk Fastighetsförmedling,496.1639602101713,Ragsved
+2016-03-03,Bjursätragatan 35,Rågsved,Grön Hagsätra,3,65.5,4,Lägenhet,2011,[Rågsved],2195000,365000,2560000,4342,Fastighetsbyrån,496.2877307609579,Ragsved
+2016-02-26,Bäverbäcksgränd 74,Rågsved,Grön Hagsätra,3,87,null,Lägenhet,1982,[Rågsved],1495000,645000,2140000,5576,Fastighetsbyrån,541.6281902839828,Ragsved
+2016-02-25,Bäverdammsgränd 158,Rågsved,Grön Hagsätra,2,70.5,null,Lägenhet,1983,[Enskede-Årsta-Vantör],1490000,770000,2260000,4570,SkandiaMäklarna,688.8918509881569,Ragsved
+2016-02-16,Porlabacken 11,Rågsved,Grön Hagsätra,3,61,null,Lägenhet,1958,[Hagsätra],1795000,305000,2100000,4259,Notar,542.7177759605098,Hagsatra
+2016-02-12,Porlabacken 13,Rågsved,Grön Hagsätra,3,61,2,Lägenhet,1958,[Enskede-Årsta-Vantör],1890000,210000,2100000,4301,SkandiaMäklarna,531.4387217836593,Hagsatra
+2016-02-11,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,48.5,null,Lägenhet,2012,[Bjursätrahöjden],1740000,490000,2230000,3215,Notar,498.4492657811494,Ragsved
+2016-02-10,Porlabacken 7,Rågsved,Grön Hagsätra,3,76,1,Lägenhet,1958,[Hagsätra],1995000,205000,2200000,5102,Fastighetsbyrån,573.139907487158,Hagsatra
+2016-02-09,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,44,5,Lägenhet,2003,[Hagsätra],1450000,250000,1700000,2917,HusmanHagberg,504.8258776462057,Ragsved
+2016-02-05,Bjursätragatan 35,Rågsved,Grön Hagsätra,3,75,1,Lägenhet,2011,[Bjursätrahöjden],2195000,250000,2445000,4972,Hemverket,496.2877307609579,Ragsved
+2016-02-03,Vedevågslingan 34,Rågsved,Grön Hagsätra,4,86.6,3,Lägenhet,null,[Hagsätra],2175000,485000,2660000,4630,BOSTHLM,491.5743007150314,Hagsatra
+2016-02-02,Vintrosagatan 54,Rågsved,Grön Hagsätra,2,57,0,Lägenhet,1958,[Hagsätra],1595000,605000,2200000,3294,Svensk Fastighetsförmedling,522.3776606778725,Hagsatra
+2016-01-22,Axbergsgränd 13,Rågsved,Grön Hagsätra,3,73,1,Lägenhet,1959,[Hagsätra],1795000,205000,2000000,4496,SkandiaMäklarna,556.8261918897709,Ragsved
+2016-01-21,Lerbäcksgränd 22,Rågsved,Grön Hagsätra,2,60,1,Lägenhet,1959,[Hagsätra],1695000,255000,1950000,3817,Svensk Fastighetsförmedling,521.773236925532,Hagsatra
+2016-01-20,Bjursätragatan 37,Rågsved,Grön Hagsätra,2,69,3,Lägenhet,2009,[Bjursätrahöjden],1850000,510000,2360000,4061,Notar,488.41679062609114,Ragsved
+2016-01-15,Porlabacken 1,Rågsved,Grön Hagsätra,1,42,null,Lägenhet,1958,[Hagsätra],1495000,415000,1910000,3099,Notar,546.3123160415405,Hagsatra
+2016-01-14,Bjursätragatan 33,Rågsved,Grön Hagsätra,1.5,42,null,Lägenhet,2012,[Bjursätrahöjden],1595000,615000,2210000,2784,Notar,498.4492657811494,Ragsved
+2016-01-08,Axbergsgränd 5,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1959,[Hagsätra],1795000,365000,2160000,4444,Fastighetsbyrån,495.86226379831186,Ragsved
+2015-12-22,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,54,1,Lägenhet,2011,[Bandhagen],1525000,235000,1760000,3580,Ansvar Fastighetsförmedling,498.4492657811494,Ragsved
+2015-12-16,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,54,null,Lägenhet,2012,[Bjursätrahöjden],1795000,345000,2140000,3580,Notar,498.4492657811494,Ragsved
+2015-12-12,Bjursätragatan 96,Rågsved,Grön Hagsätra,1,27,1,Lägenhet,1957,[Rågsved],1265000,655000,1920000,1618,HusmanHagberg,435.9095745756312,Ragsved
+2015-12-11,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,48.5,1,Lägenhet,2012,[Bjursätrahöjden],1695000,505000,2200000,3215,Notar,498.4492657811494,Ragsved
+2015-11-30,Bäverdammsgränd 122,Rågsved,Grön Hagsätra,4,99.5,null,Lägenhet,1983,[Rågsved],1750000,330000,2080000,6138,Notar,668.9644608547212,Ragsved
+2015-11-26,Bjursätragatan 37,Rågsved,Grön Hagsätra,2,51.5,7,Lägenhet,2009,[Bjursätrahöjden],1695000,395000,2090000,3031,Notar,488.41679062609114,Ragsved
+2015-11-19,Bjursätragatan 104,Rågsved,Grön Hagsätra,3,66,3,Lägenhet,1957,[Rågsved],1895000,355000,2250000,3502,Fastighetsbyrån,402.9469491664753,Ragsved
+2015-11-14,Axbergsgränd 17,Rågsved,Grön Hagsätra,3,73,1,Lägenhet,1959,[Hagsätra],1695000,475000,2170000,4444,Länsförsäkringar Fastighetsförmedling,589.8831887696314,Ragsved
+2015-11-12,Axbergsgränd 27,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1959,[Enskede-Årsta-Vantör],2075000,-265000,1810000,4483,SkandiaMäklarna,570.1680039536274,Ragsved
+2015-11-10,Göksholmsbacken 30,Rågsved,Grön Hagsätra,4,86.6,3,Lägenhet,1958,[Bandhagen],2395000,210000,2605000,4630,Svensk Fastighetsförmedling,583.9215638090726,Hagsatra
+2015-11-07,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,54,5,Lägenhet,2011,[Bandhagen],1850000,350000,2200000,3580,Mäklarhuset,498.4492657811494,Ragsved
+2015-11-06,Lerbäcksgränd 7,Rågsved,Grön Hagsätra,2.5,60,null,Lägenhet,1959,[Hagsätra],1700000,350000,2050000,3763,Hemmäklarna,519.6506421764157,Ragsved
+2015-11-05,Porlabacken 47,Rågsved,Grön Hagsätra,1,28,null,Lägenhet,1958,[Hagsätra],1395000,355000,1750000,2043,Notar,455.55039052044833,Hagsatra
+2015-11-05,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,42,null,Lägenhet,2012,[Bjursätrahöjden],1595000,555000,2150000,2784,Notar,496.2877307609579,Ragsved
+2015-11-03,Axbergsgränd 3,Rågsved,Grön Hagsätra,3,78,2,Lägenhet,1959,[Hagsätra],1595000,670000,2265000,4550,Länsförsäkringar Fastighetsförmedling,484.9130700297874,Ragsved
+2015-10-31,Porlabacken 37,Rågsved,Grön Hagsätra,3,70,1,Lägenhet,1958,[Hagsätra],1895000,205000,2100000,5019,Fastighetsbyrån,455.55039052044833,Hagsatra
+2015-10-15,Bäverbäcksgränd 70,Rågsved,Grön Hagsätra,4,93,3,Lägenhet,1982,[Rågsved],1595000,755000,2350000,6555,Fastighetsbyrån,520.033576038109,Ragsved
+2015-10-09,Lerbäcksgränd 11,Rågsved,Grön Hagsätra,1,36,-1,Lägenhet,1959,[Hagsätra],1400000,460000,1860000,2600,Hemmäklarna,493.5863179818383,Ragsved
+2015-10-05,Vedevågslingan 25,Rågsved,Grön Hagsätra,3,59.8,2,Lägenhet,2008,[Enskede-Årsta-Vantör],1995000,480000,2475000,4085,SkandiaMäklarna,470.4525465464765,Hagsatra
+2015-10-02,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,54,null,Lägenhet,null,[Enskede-Årsta-Vantör],2200000,-205000,1995000,3580,SkandiaMäklarna,496.2877307609579,Ragsved
+2015-10-01,Bjursätragatan 37,Rågsved,Grön Hagsätra,3,81,5,Lägenhet,2009,[Snösätra],1995000,465000,2460000,4768,Mäklarringen,488.41679062609114,Ragsved
+2015-09-14,Axbergsgränd 29,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1959,[Hagsätra],1850000,260000,2110000,4305,Notar,552.4838412701184,Ragsved
+2015-09-14,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,42,2,Lägenhet,2012,[Bjursätrahöjden],1490000,810000,2300000,2784,Notar,496.2877307609579,Ragsved
+2015-09-09,Vintrosagatan 52,Rågsved,Grön Hagsätra,3,73,8,Lägenhet,1958,[Bandhagen],1975000,345000,2320000,3900,Svensk Fastighetsförmedling,443.38291994116224,Hagsatra
+2015-09-03,Lerbäcksgränd 20,Rågsved,Grön Hagsätra,1,33,-1,Lägenhet,1959,[Hagsätra],1450000,0,1450000,2635,Fastighetsbyrån,533.8043519939108,Hagsatra
+2015-09-01,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,42,null,Lägenhet,2011,[Enskede-Årsta-Vantör],1490000,585000,2075000,2789,SkandiaMäklarna,496.2877307609579,Ragsved
+2015-08-25,Axbergsgränd 27,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1958,[Hagsätra],1695000,405000,2100000,4487,Mäklarringen,570.1680039536274,Ragsved
+2015-08-21,Bjursätragatan 37,Rågsved,Grön Hagsätra,1,40,null,Lägenhet,2009,[Enskede-Årsta-Vantör],1495000,425000,1920000,2354,MäklarMäster,488.41679062609114,Ragsved
+2015-08-17,Porlabacken 47,Rågsved,Grön Hagsätra,1,28,2,Lägenhet,1958,[Hagsätra],1395000,435000,1830000,1702,Notar,455.55039052044833,Hagsatra
+2015-08-11,Porlabacken 41,Rågsved,Grön Hagsätra,3,70,3,Lägenhet,1958,[Hagsätra],1695000,525000,2220000,4257,Fastighetsbyrån,490.8311997849656,Hagsatra
+2015-07-17,Vedevågslingan 30,Rågsved,Grön Hagsätra,2,57,2,Lägenhet,null,[Hagsätra],1595000,320000,1915000,3065,Svenska Mäklarhuset,584.4459383067546,Ragsved
+2015-07-07,Axbergsgränd 9,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1958,[Bandhagen],1575000,625000,2200000,4444,Länsförsäkringar Fastighetsförmedling,530.0262541561159,Ragsved
+2015-07-01,Porlabacken 41,Rågsved,Grön Hagsätra,3,70,3,Lägenhet,1958,[Hagsätra],1795000,155000,1950000,4257,Fastighetsbyrån,490.8311997849656,Hagsatra
+2015-06-18,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,48.5,1,Lägenhet,2012,[Bjursätrahöjden],1595000,415000,2010000,3215,Notar,496.2877307609579,Ragsved
+2015-06-16,Axbergsgränd 25,Rågsved,Grön Hagsätra,1,34,null,Lägenhet,null,[Bandhagen],1475000,85000,1560000,null,Mäklarhuset,582.8313406480654,Ragsved
+2015-06-12,Lerbäcksgränd 12,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1958,[Bandhagen],1650000,570000,2220000,4398,Svensk Fastighetsförmedling,561.7954349577763,Ragsved
+2015-06-09,Bäverbäcksgränd 10,Rågsved,Grön Hagsätra,3,73,1,Lägenhet,1982,[Rågsved],1595000,5000,1600000,5128,Fastighetsbyrån,579.8759125295346,Ragsved
+2015-06-05,Axbergsgränd 19,Rågsved,Grön Hagsätra,4,87,2,Lägenhet,1958,[Bandhagen],1795000,225000,2020000,5081,Svensk Fastighetsförmedling,605.8997890023235,Ragsved
+2015-06-03,Lerbäcksgränd 26,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1959,[Hagsätra],1595000,615000,2210000,4398,Hemmäklarna,511.8978955677419,Hagsatra
+2015-06-03,Vintrosagatan 52,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1959,[Hagsätra],1495000,805000,2300000,3900,Mäklarringen,443.38291994116224,Hagsatra
+2015-05-28,Bäverdammsgränd 118,Rågsved,Grön Hagsätra,2,73,null,Lägenhet,1983,[Bandhagen],1695000,755000,2450000,4615,Erik Olsson Fastighetsförmedling,665.5235897550563,Ragsved
+2015-05-20,Vintrosagatan 58,Rågsved,Grön Hagsätra,3,78,9,Lägenhet,2002,[Älvsjö/Farsta/Vantör],1875000,325000,2200000,5324,SkandiaMäklarna,504.8258776462057,Ragsved
+2015-05-16,Lerbäcksgränd 6,Rågsved,Grön Hagsätra,2,60,1,Lägenhet,1959,[Älvsjö/Farsta/Vantör],1495000,265000,1760000,3763,Svensk Fastighetsförmedling,515.2119285191769,Ragsved
+2015-05-14,Porlabacken 15,Rågsved,Grön Hagsätra,4,97,3,Lägenhet,1958,[Hagsätra],1895000,105000,2000000,6262,Notar,517.176077298459,Hagsatra
+2015-05-06,Göksholmsbacken 26,Rågsved,Grön Hagsätra,4,86.6,1,Lägenhet,1958,[Hagsätra],1995000,255000,2250000,4630,Hemmäklarna,561.4048878849013,Hagsatra
+2015-05-01,Vedevågslingan 20,Rågsved,Grön Hagsätra,4,88,3,Lägenhet,1958,[Bandhagen],2350000,100000,2450000,null,Svensk Fastighetsförmedling,610.3894594772391,Hagsatra
+2015-04-30,Porlabacken 37,Rågsved,Grön Hagsätra,3,70,0,Lägenhet,1957,[Hagsätra],1495000,285000,1780000,4257,Notar,455.55039052044833,Hagsatra
+2015-04-30,Porlabacken 13,Rågsved,Grön Hagsätra,2.5,62,3,Lägenhet,1958,[Hagsätra],1650000,0,1650000,4406,HusmanHagberg,531.4387217836593,Hagsatra
+2015-04-29,Bäverbäcksgränd 38,Rågsved,Grön Hagsätra,2,70.5,2,Lägenhet,1983,[Rågsved Snösätra],1395000,485000,1880000,4973,Svenska Mäklarhuset,514.9029734688331,Ragsved
+2015-04-24,Lerbäcksgränd 21,Rågsved,Grön Hagsätra,1,36,null,Lägenhet,1959,[Hagsätra],1195000,655000,1850000,2679,Notar,559.5095416756632,Ragsved
+2015-04-24,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,42,null,Lägenhet,2012,[Bjursätrahöjden],1395000,615000,2010000,2784,Notar,498.4492657811494,Ragsved
+2015-04-16,Bjursätragatan 37,Rågsved,Grön Hagsätra,3,81,8,Lägenhet,2009,[Bjursätrahöjden],1795000,675000,2470000,4768,Notar,488.41679062609114,Ragsved
+2015-04-16,Bjursätragatan 35,Rågsved,Grön Hagsätra,3,75,null,Lägenhet,2011,[Älvsjö/Farsta/Vantör],1750000,20000,1770000,4972,ERA,496.2877307609579,Ragsved
+2015-04-16,Frövigatan 16,Rågsved,Grön Hagsätra,3,66,0.5,Lägenhet,1958,[Hagsätra],1500000,720000,2220000,3441,Hemmäklarna,566.8403178850097,Ragsved
+2015-03-27,Axbergsgränd 19,Rågsved,Grön Hagsätra,1,37,-1,Lägenhet,1958,[Bandhagen],1250000,280000,1530000,2432,Svensk Fastighetsförmedling,605.8997890023235,Ragsved
+2015-03-27,Sickmundsvägen 8,Rågsved,Grön Hagsätra,6,77,null,Villa,1937,[Stuvsta],3500000,1050000,4550000,null,Fastighetsbyrån,729.1237691620664,Ragsved
+2015-03-25,Vedevågslingan 28,Rågsved,Grön Hagsätra,2,57,1,Lägenhet,1959,[Bandhagen],1595000,315000,1910000,3064,Mäklarhuset,475.6228750783116,Hagsatra
+2015-03-17,Vedevågslingan 20,Rågsved,Grön Hagsätra,4,87.5,3,Lägenhet,null,[Bandhagen],2000000,350000,2350000,4679,Mäklarhuset,610.3894594772391,Hagsatra
+2015-03-13,Bjursätragatan 37,Rågsved,Grön Hagsätra,2,51.5,null,Lägenhet,2009,[Bjursätrahöjden],1450000,-200000,1250000,3031,Notar,488.41679062609114,Ragsved
+2015-03-12,Vintrosagatan 54,Rågsved,Grön Hagsätra,3,74,9,Lägenhet,1958,[Bandhagen],1825000,0,1825000,4087,Svensk Fastighetsförmedling,522.3776606778725,Hagsatra
+2015-03-11,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,48.5,5,Lägenhet,2012,[Bjursätrahöjden],1450000,450000,1900000,3215,Notar,498.4492657811494,Ragsved
+2015-03-10,Vedevågslingan 18,Rågsved,Grön Hagsätra,3,75,2,Lägenhet,1960,[Bandhagen],1795000,285000,2080000,4011,Svenska Mäklarhuset,584.384478724904,Ragsved
+2015-03-05,Vintrosagatan 54,Rågsved,Grön Hagsätra,4,90,2,Lägenhet,1958,[Bandhagen],2075000,290000,2365000,4545,Svensk Fastighetsförmedling,522.3776606778725,Hagsatra
+2015-03-04,Bjursätragatan 35,Rågsved,Grön Hagsätra,3,65.5,5,Lägenhet,2011,[Snösätra],1750000,0,1750000,4342,Mäklarringen,496.2877307609579,Ragsved
+2015-03-04,Bjursätragatan 35,Rågsved,Grön Hagsätra,4,78,5,Lägenhet,2012,[Bandhagen],2195000,-95000,2100000,5171,Mäklarhuset,496.2877307609579,Ragsved
+2015-03-04,Göksholmsbacken 20,Rågsved,Grön Hagsätra,3,69.5,3,Lägenhet,2008,[Hagsätra],1850000,0,1850000,4748,Notar,444.227967869861,Hagsatra
+2015-03-04,Porlabacken 1,Rågsved,Grön Hagsätra,3,74,1,Lägenhet,1958,[Hagsätra],1750000,10000,1760000,5039,Fastighetsbyrån,546.3123160415405,Hagsatra
+2015-03-03,Lerbäcksgränd 3,Rågsved,Grön Hagsätra,2,60,0.5,Lägenhet,1959,[Hagsätra],1450000,450000,1900000,3763,Hemmäklarna,565.4919417973517,Ragsved
+2015-02-27,Axbergsgränd 3,Rågsved,Grön Hagsätra,2,61,1,Lägenhet,1958,[Bandhagen],1450000,325000,1775000,3751,Svensk Fastighetsförmedling,484.9130700297874,Ragsved
+2015-02-19,Bäverbäcksgränd 50,Rågsved,Grön Hagsätra,3,86.5,null,Lägenhet,1983,[Snösätra],1495000,425000,1920000,5730,Mäklarringen,516.93066281317,Ragsved
+2015-02-16,Lerbäcksgränd 22,Rågsved,Grön Hagsätra,1,36,-1,Lägenhet,1959,[Hagsätra],1095000,520000,1615000,2538,Hemmäklarna,521.773236925532,Hagsatra
+2015-02-07,Göksholmsbacken 28,Rågsved,Grön Hagsätra,4,86.6,null,Lägenhet,1958,[Hagsätra],1850000,350000,2200000,4630,Fastighetsbyrån,571.9896976864826,Hagsatra
+2015-02-06,Lerbäcksgränd 12,Rågsved,Grön Hagsätra,1,33,0,Lägenhet,1959,[Hagsätra Bandhagen],1095000,335000,1430000,2635,HusmanHagberg,561.7954349577763,Ragsved
+2015-02-04,Vedevågslingan 23,Rågsved,Grön Hagsätra,2,59.8,2,Lägenhet,2008,[Hagsätra],1695000,315000,2010000,4085,Svenska Mäklarhuset,482.08742719821606,Hagsatra
+2015-02-03,Bjursätragatan 37,Rågsved,Grön Hagsätra,2.5,69,1,Lägenhet,2009,[Bjursätrahöjden],2095000,-45000,2050000,4061,Notar,488.41679062609114,Ragsved
+2015-01-31,Vintrosagatan 54,Rågsved,Grön Hagsätra,2,57,2,Lägenhet,1956,[Hagsätra],1495000,290000,1785000,3224,Notar,522.3776606778725,Hagsatra
+2015-01-29,Axbergsgränd 15,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1959,[Hagsätra],1295000,380000,1675000,4483,Mäklarringen,571.681706119825,Ragsved
+2015-01-22,Lerbäcksgränd 28,Rågsved,Grön Hagsätra,1,38,null,Lägenhet,1958,[Bandhagen],1125000,525000,1650000,2812,Svensk Fastighetsförmedling,521.8221079757778,Hagsatra
+2015-01-15,Vedevågslingan 28,Rågsved,Grön Hagsätra,3,76,2,Lägenhet,1960,[Hagsätra],1795000,365000,2160000,4066,Svenska Mäklarhuset,475.6228750783116,Hagsatra
+2015-01-15,Axbergsgränd 25,Rågsved,Grön Hagsätra,1,34,null,Lägenhet,1958,[Hagsätra],1095000,530000,1625000,2259,Fastighetsbyrån,582.8313406480654,Ragsved
+2014-12-18,Bjursätragatan 35,Rågsved,Grön Hagsätra,4,78,null,Lägenhet,2012,[Bjursätrahöjden],1750000,230000,1980000,5171,Notar,496.2877307609579,Ragsved
+2014-12-10,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,44,8,Lägenhet,2003,[Hagsätra],1395000,305000,1700000,3132,Svenska Mäklarhuset,504.8258776462057,Ragsved
+2014-12-05,Axbergsgränd 23,Rågsved,Grön Hagsätra,2,60,null,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1350000,350000,1700000,3833,Svensk Fastighetsförmedling,599.3126054219679,Ragsved
+2014-12-03,Bäverbäcksgränd 46,Rågsved,Grön Hagsätra,3,86.5,null,Lägenhet,1983,[Snösätra],1495000,255000,1750000,5647,Mäklarringen,527.3506659171003,Ragsved
+2014-11-26,Vintrosagatan 56,Rågsved,Grön Hagsätra,2,57,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1475000,230000,1705000,3443,Svensk Fastighetsförmedling,496.1639602101713,Ragsved
+2014-11-21,Vedevågslingan 10,Rågsved,Grön Hagsätra,4,87,3,Lägenhet,1960,[Hagsätra],1995000,0,1995000,4539,Svenska Mäklarhuset,533.6222717490868,Ragsved
+2014-11-18,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,48.5,null,Lägenhet,2012,[Bjursätrahöjden],1495000,355000,1850000,3215,Notar,496.2877307609579,Ragsved
+2014-11-14,Axbergsgränd 13,Rågsved,Grön Hagsätra,2,61,1,Lägenhet,1959,[Älvsjö/Farsta/Vantör],1295000,285000,1580000,3727,Svensk Fastighetsförmedling,556.8261918897709,Ragsved
+2014-11-13,Axbergsgränd 15,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1958,[Hagsätra],1495000,235000,1730000,4432,Fastighetsbyrån,571.681706119825,Ragsved
+2014-11-06,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,73.5,10,Lägenhet,2002,[Älvsjö/Farsta/Vantör],1490000,210000,1700000,5349,SkandiaMäklarna,504.8258776462057,Ragsved
+2014-11-05,Vintrosagatan 56,Rågsved,Grön Hagsätra,2,57,3,Lägenhet,null,[Älvsjö/Farsta/Vantör],1450000,550000,2000000,3294,Svensk Fastighetsförmedling,496.1639602101713,Ragsved
+2014-11-05,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,42,6,Lägenhet,2012,[Bjursätrahöjden],1395000,405000,1800000,2784,Notar,498.4492657811494,Ragsved
+2014-10-29,Porlabacken 39,Rågsved,Grön Hagsätra,3,70,null,Lägenhet,1957,[Hagsätra],1495000,275000,1770000,4257,Notar,484.1473452420446,Hagsatra
+2014-10-28,Vintrosagatan 50,Rågsved,Grön Hagsätra,3,80,5,Lägenhet,null,[Älvsjö/Farsta/Vantör],1695000,270000,1965000,4166,Svensk Fastighetsförmedling,443.38291994116224,Hagsatra
+2014-10-17,Lerbäcksgränd 26,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1959,[Älvsjö/Farsta/Vantör],1595000,255000,1850000,4335,SkandiaMäklarna,511.8978955677419,Hagsatra
+2014-10-17,Lerbäcksgränd 20,Rågsved,Grön Hagsätra,3,73,1,Lägenhet,1959,[Hagsätra Bandhagen],1495000,225000,1720000,4398,HusmanHagberg,533.8043519939108,Hagsatra
+2014-10-09,Porlabacken 13,Rågsved,Grön Hagsätra,2.5,61,null,Lägenhet,null,[Älvsjö/Farsta/Vantör],1295000,235000,1530000,4343,Svensk Fastighetsförmedling,531.4387217836593,Hagsatra
+2014-10-09,Porlabacken 41,Rågsved,Grön Hagsätra,3,70,null,Lägenhet,1958,[Hagsätra],1795000,180000,1975000,4257,Fastighetsbyrån,490.8311997849656,Hagsatra
+2014-10-01,Bjursätragatan 37,Rågsved,Grön Hagsätra,2,51.5,2,Lägenhet,2009,[Bjursätrahöjden],1495000,325000,1820000,3031,Notar,488.41679062609114,Ragsved
+2014-09-19,Göksholmsbacken 16,Rågsved,Grön Hagsätra,2,59.8,3,Lägenhet,2008,[Hagsätra],1495000,305000,1800000,4085,ERA,420.69102463306825,Hagsatra
+2014-09-13,Axbergsgränd 27,Rågsved,Grön Hagsätra,1,34,null,Lägenhet,null,[Hagsätra],1195000,125000,1320000,2259,Fastighetsbyrån,570.1680039536274,Ragsved
+2014-08-28,Vedevågslingan 25,Rågsved,Grön Hagsätra,1,43.8,2,Lägenhet,2008,[Bandhagen],1595000,0,1595000,2992,Notar,470.4525465464765,Hagsatra
+2014-08-23,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,40.5,10,Lägenhet,null,[Älvsjö/Farsta/Vantör],1250000,180000,1430000,3431,Svensk Fastighetsförmedling,504.8258776462057,Ragsved
+2014-08-21,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,69.5,6,Lägenhet,2002,[Älvsjö/Farsta/Vantör],1390000,360000,1750000,4614,SkandiaMäklarna,504.8258776462057,Ragsved
+2014-08-15,Vedevågslingan 22,Rågsved,Grön Hagsätra,4,87.5,1,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1790000,210000,2000000,4587,SkandiaMäklarna,609.9731136337947,Hagsatra
+2014-08-14,Lerbäcksgränd 18,Rågsved,Grön Hagsätra,3.5,78,1,Lägenhet,null,[Älvsjö/Farsta/Vantör],1495000,185000,1680000,4574,Svensk Fastighetsförmedling,478.2968825887305,Ragsved
+2014-08-14,Axbergsgränd 4,Rågsved,Grön Hagsätra,3,78,1,Lägenhet,null,[Älvsjö/Farsta/Vantör],1495000,265000,1760000,4747,Svensk Fastighetsförmedling,490.93694416397506,Ragsved
+2014-08-11,Göksholmsbacken 18,Rågsved,Grön Hagsätra,1.5,43.8,4,Lägenhet,2008,[Bandhagen],1295000,455000,1750000,2992,Notar,433.97660750666876,Hagsatra
+2014-08-07,Porlabacken 47,Rågsved,Grön Hagsätra,2,53,3,Lägenhet,1958,[Hagsätra],1295000,155000,1450000,3222,Mäklarringen,455.55039052044833,Hagsatra
+2014-08-05,Lerbäcksgränd 14,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1959,[Älvsjö/Farsta/Vantör],1395000,355000,1750000,4398,SkandiaMäklarna,583.3633639154685,Ragsved
+2014-07-28,Bjursätragatan 35,Rågsved,Grön Hagsätra,4,78,4,Lägenhet,2012,[Snösätra],1850000,0,1850000,5171,Notar,496.2877307609579,Ragsved
+2014-07-03,Axbergsgränd 23,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,null,[Hagsätra],1395000,160000,1555000,4432,Fastighetsbyrån,599.3126054219679,Ragsved
+2014-06-19,Bjursätragatan 37,Rågsved,Grön Hagsätra,2.5,69,7,Lägenhet,2009,[Rågsved],1595000,235000,1830000,4061,HusmanHagberg,488.41679062609114,Ragsved
+2014-06-19,Lerbäcksgränd 17,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1959,[Hagsätra],1450000,150000,1600000,4398,Svenska Mäklarhuset,529.8210503291106,Ragsved
+2014-06-18,Bäverdammsgränd 88,Rågsved,Grön Hagsätra,5,118.5,null,Lägenhet,1983,[Snösätra],1395000,145000,1540000,6859,Mäklarringen,545.9898280057997,Ragsved
+2014-06-12,Vintrosagatan 54,Rågsved,Grön Hagsätra,2,57,8,Lägenhet,null,[Älvsjö/Farsta/Vantör],1350000,450000,1800000,3294,Svensk Fastighetsförmedling,522.3776606778725,Hagsatra
+2014-06-09,Vedevågslingan 12,Rågsved,Grön Hagsätra,4,86.6,1,Lägenhet,1958,[Hagsätra],1795000,0,1795000,4539,Mäklarringen,541.5006804925144,Ragsved
+2014-05-22,Porlabacken 5,Rågsved,Grön Hagsätra,3.5,76,0.5,Lägenhet,1958,[Hagsätra],1195000,425000,1620000,5060,Fastighetsbyrån,497.97394229526446,Hagsatra
+2014-05-22,Vedevågslingan 2,Rågsved,Grön Hagsätra,3,75,3,Lägenhet,null,[Älvsjö/Farsta/Vantör],1450000,100000,1550000,3933,Svensk Fastighetsförmedling,540.8500427019017,Ragsved
+2014-05-13,Vedevågslingan 30,Rågsved,Grön Hagsätra,2,57,null,Lägenhet,1958,[Hagsätra],1395000,240000,1635000,3005,Fastighetsbyrån,584.4459383067546,Ragsved
+2014-05-07,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,40.5,9,Lägenhet,2002,[Älvsjö/Farsta/Vantör],1190000,360000,1550000,3000,SkandiaMäklarna,504.8258776462057,Ragsved
+2014-05-05,Bäverdammsgränd 174,Rågsved,Grön Hagsätra,null,86.5,null,Lägenhet,1983,[Snösätra],1395000,55000,1450000,5420,Mäklarringen,648.2479115918578,Ragsved
+2014-05-01,Axbergsgränd 8,Rågsved,Grön Hagsätra,3,73,1,Lägenhet,1958,[Hagsätra],1395000,185000,1580000,4430,Notar,501.5593352743103,Ragsved
+2014-04-30,Lerbäcksgränd 14,Rågsved,Grön Hagsätra,1.5,36,null,Lägenhet,1959,[Hagsätra],1150000,135000,1285000,2600,Södermäklarna,583.3633639154685,Ragsved
+2014-04-29,Porlabacken 11,Rågsved,Grön Hagsätra,2,61,null,Lägenhet,1958,[Bandhagen],1150000,150000,1300000,4301,Notar,542.7177759605098,Hagsatra
+2014-04-22,Vintrosagatan 56,Rågsved,Grön Hagsätra,2,57,4,Lägenhet,null,[Älvsjö/Farsta/Vantör],1350000,400000,1750000,3294,Svensk Fastighetsförmedling,496.1639602101713,Ragsved
+2014-04-18,Axbergsgränd 15,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,null,[Älvsjö/Farsta/Vantör],1395000,55000,1450000,4432,Svensk Fastighetsförmedling,571.681706119825,Ragsved
+2014-04-14,Lerbäcksgränd 17,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1959,[Hagsätra],1395000,410000,1805000,4398,Svenska Mäklarhuset,529.8210503291106,Ragsved
+2014-03-26,Vintrosagatan 52,Rågsved,Grön Hagsätra,3,80,7,Lägenhet,1959,[Hagsätra],1495000,355000,1850000,4096,Notar,443.38291994116224,Hagsatra
+2014-03-15,Bäverbäcksgränd 66,Rågsved,Grön Hagsätra,5,107.5,null,Lägenhet,1982,[Älvsjö/Farsta/Vantör],1495000,145000,1640000,7260,SkandiaMäklarna,508.634784029016,Ragsved
+2014-03-05,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,42,3,Lägenhet,2011,[Snösätra],1395000,240000,1635000,2784,Mäklarringen,496.2877307609579,Ragsved
+2014-02-26,Porlabacken 15,Rågsved,Grön Hagsätra,4,97,9,Lägenhet,1958,[Hagsätra],1595000,325000,1920000,5584,Notar,517.176077298459,Hagsatra
+2014-02-22,Göksholmsbacken 16,Rågsved,Grön Hagsätra,3,69.5,null,Lägenhet,2008,[Älvsjö/Farsta/Vantör],1845000,0,1845000,4748,SkandiaMäklarna,420.69102463306825,Hagsatra
+2014-02-12,Bäverbäcksgränd 16,Rågsved,Grön Hagsätra,4,97,null,Lägenhet,1982,[Älvsjö/Farsta/Vantör],1395000,305000,1700000,6728,SkandiaMäklarna,590.0216190841397,Ragsved
+2014-01-31,Bäverbäcksgränd 70,Rågsved,Grön Hagsätra,4,93,null,Lägenhet,1982,[Älvsjö/Farsta/Vantör],1295000,310000,1605000,6335,Fastighetsbyrån,520.033576038109,Ragsved
+2014-01-24,Porlabacken 13,Rågsved,Grön Hagsätra,2,61,null,Lägenhet,1958,[Hagsätra],1150000,250000,1400000,3875,Notar,531.4387217836593,Hagsatra
+2014-01-21,Vintrosagatan 56,Rågsved,Grön Hagsätra,4,90,null,Lägenhet,1958,[Hagsätra],1575000,365000,1940000,4545,Svensk Fastighetsförmedling,496.1639602101713,Ragsved
+2014-01-21,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,48.5,3,Lägenhet,2011,[Rågsved],1195000,225000,1420000,3215,Svensk Fastighetsförmedling,498.4492657811494,Ragsved
+2014-01-16,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,61,null,Lägenhet,2003,[Hagsätra],1295000,325000,1620000,4786,Svensk Fastighetsförmedling,504.8258776462057,Ragsved
+2014-01-15,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,54,2,Lägenhet,2011,[Älvsjö/Farsta/Vantör],1395000,5000,1400000,3580,SkandiaMäklarna,496.2877307609579,Ragsved
+2014-01-14,Axbergsgränd 19,Rågsved,Grön Hagsätra,1,36,null,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1150000,100000,1250000,2128,Fastighetsbyrån,605.8997890023235,Ragsved
+2013-12-11,Bäverbäcksgränd 10,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1982,[Älvsjö/Farsta/Vantör],1395000,5000,1400000,4997,SkandiaMäklarna,579.8759125295346,Ragsved
+2013-12-10,Bjursätragatan 37,Rågsved,Grön Hagsätra,3,81,null,Lägenhet,2009,[Bjursätrahöjden],1750000,0,1750000,4541,Notar,488.41679062609114,Ragsved
+2013-12-03,Axbergsgränd 3,Rågsved,Grön Hagsätra,2,61,1,Lägenhet,1959,[Älvsjö/Farsta/Vantör],1155000,75000,1230000,3739,SkandiaMäklarna,484.9130700297874,Ragsved
+2013-11-29,Lerbäcksgränd 30,Rågsved,Grön Hagsätra,3.5,78,null,Lägenhet,1959,[Hagsätra],1250000,0,1250000,4433,Svensk Fastighetsförmedling,541.5225130136196,Hagsatra
+2013-11-27,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,48.5,5,Lägenhet,2011,[Bjursätrahöjden],1390000,120000,1510000,2572,Notar,498.4492657811494,Ragsved
+2013-11-07,Lerbäcksgränd 7,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1959,[Älvsjö/Farsta/Vantör],1295000,175000,1470000,4317,SkandiaMäklarna,519.6506421764157,Ragsved
+2013-11-06,Vintrosagatan 54,Rågsved,Grön Hagsätra,2,57,null,Lägenhet,1959,[Hagsätra],1195000,245000,1440000,3224,Notar,522.3776606778725,Hagsatra
+2013-10-31,Bjursätragatan 96,Rågsved,Grön Hagsätra,1,27,null,Lägenhet,1957,[Älvsjö/Farsta/Vantör],990000,170000,1160000,1587,Fastighetsbyrån,435.9095745756312,Ragsved
+2013-10-29,Lerbäcksgränd 28,Rågsved,Grön Hagsätra,1,37,null,Lägenhet,1958,[Hagsätra],900000,170000,1070000,2726,Svensk Fastighetsförmedling,521.8221079757778,Hagsatra
+2013-10-29,Vintrosagatan 58,Rågsved,Grön Hagsätra,3,69.5,10,Lägenhet,2003,[Älvsjö/Farsta/Vantör],1395000,320000,1715000,4968,SkandiaMäklarna,504.8258776462057,Ragsved
+2013-10-25,Axbergsgränd 21,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1959,[Älvsjö/Farsta/Vantör],1295000,155000,1450000,4305,SkandiaMäklarna,610.8531098182972,Ragsved
+2013-10-23,Bäverdammsgränd 170,Rågsved,Grön Hagsätra,2,73,null,Lägenhet,1983,[Rågsved Högdalen Hagsätra],1295000,0,1295000,4548,HusmanHagberg,644.1738214831257,Ragsved
+2013-10-18,Axbergsgränd 29,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1295000,10000,1305000,4387,Fastighetsbyrån,552.4838412701184,Ragsved
+2013-10-05,Axbergsgränd 27,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1958,[Hagsätra],1295000,115000,1410000,4266,Notar,570.1680039536274,Ragsved
+2013-10-03,Vedevågslingan 18,Rågsved,Grön Hagsätra,3,75,null,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1295000,0,1295000,3745,Fastighetsbyrån,584.384478724904,Ragsved
+2013-09-27,Lerbäcksgränd 8,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1959,[Älvsjö/Farsta/Vantör],1245000,105000,1350000,4317,Fastighetsbyrån,478.2968825887305,Ragsved
+2013-09-27,Lerbäcksgränd 28,Rågsved,Grön Hagsätra,1,38,null,Lägenhet,null,[Hagsätra],995000,5000,1000000,2761,Svenska Mäklargruppen,521.8221079757778,Hagsatra
+2013-09-27,Vintrosagatan 58,Rågsved,Grön Hagsätra,3,80,null,Lägenhet,2003,[Älvsjö/Farsta/Vantör],1595000,145000,1740000,4933,SkandiaMäklarna,504.8258776462057,Ragsved
+2013-09-26,Lerbäcksgränd 14,Rågsved,Grön Hagsätra,3,78,1,Lägenhet,null,[Hagsätra],1295000,100000,1395000,4490,Södermäklarna,583.3633639154685,Ragsved
+2013-09-11,Vedevågslingan 24,Rågsved,Grön Hagsätra,4,87.5,3,Lägenhet,null,[Hagsätra],1350000,50000,1400000,4369,Svenska Mäklargruppen,584.426395808789,Hagsatra
+2013-09-06,Göksholmsbacken 20,Rågsved,Grön Hagsätra,1,43.8,null,Lägenhet,2008,[Hagsätra],1195000,155000,1350000,2877,Svenska Mäklarhuset,444.227967869861,Hagsatra
+2013-09-06,Lerbäcksgränd 30,Rågsved,Grön Hagsätra,2,61,null,Lägenhet,null,[Hagsätra],1190000,0,1190000,3729,Erik Olsson Fastighetsförmedling,541.5225130136196,Hagsatra
+2013-08-31,Lerbäcksgränd 11,Rågsved,Grön Hagsätra,3.5,78,3,Lägenhet,1959,[Hagsätra],1295000,35000,1330000,4490,Länsförsäkringar Fastighetsförmedling,493.5863179818383,Ragsved
+2013-08-27,Bjursätragatan 35,Rågsved,Grön Hagsätra,3,65.5,1,Lägenhet,2011,[Bjursätrahöjden],1695000,-95000,1600000,3474,Notar,496.2877307609579,Ragsved
+2013-08-27,Bäverdammsgränd 80,Rågsved,Grön Hagsätra,2,65,null,Lägenhet,1983,[Älvsjö/Farsta/Vantör],995000,65000,1060000,4213,Fastighetsbyrån,600.5842937309269,Ragsved
+2013-08-15,Axbergsgränd 19,Rågsved,Grön Hagsätra,1,36,null,Lägenhet,1958,[Älvsjö/Farsta/Vantör],995000,-45000,950000,2128,Fastighetsbyrån,605.8997890023235,Ragsved
+2013-08-14,Bäverbäcksgränd 70,Rågsved,Grön Hagsätra,4,90.5,null,Lägenhet,1982,[Bandhagen],1190000,0,1190000,6257,SkandiaMäklarna,520.033576038109,Ragsved
+2013-07-01,Bäverbäcksgränd 78,Rågsved,Grön Hagsätra,2,62.5,null,Lägenhet,1982,[Snösätra],815000,295000,1110000,4433,Notar,549.6390852686277,Ragsved
+2013-06-11,Bjursätragatan 100,Rågsved,Grön Hagsätra,3,67,null,Lägenhet,1957,[Hagsätra],1510000,0,1510000,3452,SkandiaMäklarna,420.2595293288766,Ragsved
+2013-06-08,Axbergsgränd 31,Rågsved,Grön Hagsätra,2,65,null,Lägenhet,null,[Hagsätra],995000,-30000,965000,3928,BOSTHLM,540.7831183313825,Ragsved
+2013-05-30,Bäverdammsgränd 140,Rågsved,Grön Hagsätra,4,97,null,Lägenhet,1983,[Bandhagen],1395000,175000,1570000,6251,Bjurfors,684.4985143358653,Ragsved
+2013-05-29,Göksholmsbacken 16,Rågsved,Grön Hagsätra,1.5,43.8,null,Lägenhet,2008,[Älvsjö/Farsta/Vantör],1175000,235000,1410000,2877,Fastighetsbyrån,420.69102463306825,Hagsatra
+2013-05-27,Vedevågslingan 23,Rågsved,Grön Hagsätra,2,60.8,null,Lägenhet,2007,[Hagsätra],1200000,0,1200000,3994,Svensk Fastighetsförmedling,482.08742719821606,Hagsatra
+2013-05-27,Frövigatan 22,Rågsved,Grön Hagsätra,3,66,2,Lägenhet,1958,[Hagsätra],1300000,110000,1410000,3118,Hemmäklarna,386.6056774656333,Hagsatra
+2013-05-23,Porlabacken 7,Rågsved,Grön Hagsätra,3,76,3,Lägenhet,1958,[Hagsätra],1150000,220000,1370000,4213,Notar,573.139907487158,Hagsatra
+2013-05-11,Vedevågslingan 20,Rågsved,Grön Hagsätra,4,87.5,null,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1395000,255000,1650000,4369,Fastighetsbyrån,610.3894594772391,Hagsatra
+2013-05-09,Bjursätragatan 98,Rågsved,Grön Hagsätra,2,56,null,Lägenhet,1957,[Bandhagen],1100000,200000,1300000,2834,SkandiaMäklarna,429.00375257495193,Ragsved
+2013-05-09,Bjursätragatan 98,Rågsved,Grön Hagsätra,3,69,null,Lägenhet,1957,[Älvsjö/Farsta/Vantör],1195000,205000,1400000,3526,Fastighetsbyrån,429.00375257495193,Ragsved
+2013-05-03,Bäverbäcksgränd 12,Rågsved,Grön Hagsätra,4,99.5,null,Lägenhet,1983,[Snösätra-Rågsved-Hagsätra],1290000,160000,1450000,6358,Mäklarringen,16.936999974364248,Ragsved
+2013-05-02,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,69.5,6,Lägenhet,2003,[Hagsätra],1295000,55000,1350000,4480,Svensk Fastighetsförmedling,504.8258776462057,Ragsved
+2013-04-30,Vintrosagatan 56,Rågsved,Grön Hagsätra,2,57,null,Lägenhet,1958,[Hagsätra],1095000,365000,1460000,3294,Svensk Fastighetsförmedling,496.1639602101713,Ragsved
+2013-04-26,Vintrosagatan 50,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1275000,485000,1760000,3900,Fastighetsbyrån,443.38291994116224,Hagsatra
+2013-04-17,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,48.5,null,Lägenhet,2011,[Rågsved],1095000,415000,1510000,2522,Svensk Fastighetsförmedling,498.4492657811494,Ragsved
+2013-04-16,Bjursätragatan 37,Rågsved,Grön Hagsätra,1.5,40,null,Lägenhet,2009,[Bjursätrahöjden],895000,375000,1270000,2242,Notar,488.41679062609114,Ragsved
+2013-04-10,Porlabacken 9,Rågsved,Grön Hagsätra,4,89,null,Lägenhet,1958,[Hagsätra],1095000,475000,1570000,4706,Notar,539.901418395802,Hagsatra
+2013-04-10,Lerbäcksgränd 10,Rågsved,Grön Hagsätra,1,28,null,Lägenhet,1959,[Hagsätra],860000,120000,980000,2276,Hemmäklarna,546.0166570050084,Ragsved
+2013-03-28,Lerbäcksgränd 8,Rågsved,Grön Hagsätra,3,73,null,Lägenhet,1959,[Hagsätra],1095000,245000,1340000,4238,Svensk Fastighetsförmedling,478.2968825887305,Ragsved
+2013-03-22,Porlabacken 7,Rågsved,Grön Hagsätra,4,89,null,Lägenhet,null,[Hagsätra],1450000,130000,1580000,4731,Mäklarringen,573.139907487158,Hagsatra
+2013-03-22,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,48.5,3,Lägenhet,2011,[Bjursätrahöjden],1295000,95000,1390000,2522,Notar,498.4492657811494,Ragsved
+2013-03-20,Bäverdammsgränd 120,Rågsved,Grön Hagsätra,4,99.5,null,Lägenhet,null,[Rågsved],1150000,360000,1510000,6138,Mäklarringen,669.6633483552127,Ragsved
+2013-03-13,Vintrosagatan 50,Rågsved,Grön Hagsätra,3,73,3,Lägenhet,1958,[Hagsätra],1350000,295000,1645000,3900,Svensk Fastighetsförmedling,443.38291994116224,Hagsatra
+2013-03-09,Bäverbäcksgränd 30,Rågsved,Grön Hagsätra,2,73,null,Lägenhet,1982,[Snösätra],895000,135000,1030000,4659,Notar,547.4353787961455,Ragsved
+2013-03-07,Bäverdammsgränd 84,Rågsved,Grön Hagsätra,2,62.5,null,Lägenhet,1983,[Snösätra],750000,200000,950000,4236,Svensk Fastighetsförmedling,585.5150936381162,Ragsved
+2013-02-21,Vintrosagatan 58,Rågsved,Grön Hagsätra,2,73.5,null,Lägenhet,null,[Hagsätra],1295000,5000,1300000,5194,SkandiaMäklarna,504.8258776462057,Ragsved
+2013-02-21,Bjursätragatan 37,Rågsved,Grön Hagsätra,2,51.5,null,Lägenhet,2009,[Bjursätrahöjden],1325000,20000,1345000,2858,Notar,488.41679062609114,Ragsved
+2013-02-21,Lerbäcksgränd 24,Rågsved,Grön Hagsätra,2,61,2,Lägenhet,1959,[Bandhagen],1075000,125000,1200000,3729,Mäklarhuset,502.7725259959014,Hagsatra
+2013-02-19,Lerbäcksgränd 9,Rågsved,Grön Hagsätra,3,73,2,Lägenhet,1958,[Hagsätra],1175000,295000,1470000,4317,Svensk Fastighetsförmedling,503.4318042696039,Ragsved
+2013-02-18,Vintrosagatan 54,Rågsved,Grön Hagsätra,2,57,3,Lägenhet,1958,[Hagsätra],1095000,335000,1430000,3294,Svensk Fastighetsförmedling,522.3776606778725,Hagsatra
+2013-02-09,Bjursätragatan 37,Rågsved,Grön Hagsätra,2,69,null,Lägenhet,2009,[Bjursätrahöjden],1495000,135000,1630000,3830,Notar,488.41679062609114,Ragsved
+2013-02-05,Porlabacken 15,Rågsved,Grön Hagsätra,4,97,null,Lägenhet,1958,[Hagsätra],950000,560000,1510000,4943,Notar,517.176077298459,Hagsatra
+2013-02-04,Porlabacken 13,Rågsved,Grön Hagsätra,2,62,2,Lägenhet,1958,[Hagsätra],1195000,35000,1230000,3504,Svensk Fastighetsförmedling,531.4387217836593,Hagsatra
+2013-01-31,Vedevågslingan 32,Rågsved,Grön Hagsätra,4,86.6,null,Lägenhet,1958,[Hagsätra],1350000,150000,1500000,4323,Bjurfors,494.080342060074,Hagsatra
+2013-01-24,Bäverdammsgränd 80,Rågsved,Grön Hagsätra,null,80.5,null,Lägenhet,null,[Rågsved],750000,470000,1220000,null,Mäklarringen,600.5842937309269,Ragsved
+2013-01-22,Bjursätragatan 33,Rågsved,Grön Hagsätra,2,54,null,Lägenhet,2011,[Bjursätrahöjden],1395000,55000,1450000,2808,Notar,498.4492657811494,Ragsved
+2013-01-15,Vedevågslingan 25,Rågsved,Grön Hagsätra,1,43.8,null,Lägenhet,2007,[Hagsätra],1195000,35000,1230000,2877,Svensk Fastighetsförmedling,470.4525465464765,Hagsatra
+2013-01-11,Porlabacken 7,Rågsved,Grön Hagsätra,4,89,null,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1350000,0,1350000,4672,Fastighetsbyrån,573.139907487158,Hagsatra
+2013-01-11,Göksholmsbacken 22,Rågsved,Grön Hagsätra,2,56.3,null,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1095000,355000,1450000,2810,Fastighetsbyrån,494.96100914952655,Hagsatra
+2012-12-13,Vedevågslingan 14,Rågsved,Grön Hagsätra,3,75,null,Lägenhet,null,[Älvsjö],1195000,75000,1270000,3745,Hemverket,560.8198419883346,Ragsved
+2012-12-05,Frövigatan 22,Rågsved,Grön Hagsätra,3,66,2,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1250000,135000,1385000,3118,Länsförsäkringar Fastighetsförmedling,386.6056774656333,Hagsatra
+2012-11-30,Vintrosagatan 58,Rågsved,Grön Hagsätra,1.5,41,null,Lägenhet,2003,[Hagsätra],1050000,22000,1072000,2919,SkandiaMäklarna,504.8258776462057,Ragsved
+2012-11-29,Vintrosagatan 54,Rågsved,Grön Hagsätra,4,90,5,Lägenhet,1958,[Hagsätra],1350000,0,1350000,4545,Svensk Fastighetsförmedling,522.3776606778725,Hagsatra
+2012-11-22,Göksholmsbacken 26,Rågsved,Grön Hagsätra,4,86.6,3,Lägenhet,null,[Bandhagen],1200000,40000,1240000,4323,Erik Olsson Fastighetsförmedling,561.4048878849013,Hagsatra
+2012-11-08,Vintrosagatan 56,Rågsved,Grön Hagsätra,1,34,null,Lägenhet,1958,[Hagsätra],895000,293000,1188000,2308,Svensk Fastighetsförmedling,496.1639602101713,Ragsved
+2012-11-08,Vintrosagatan 54,Rågsved,Grön Hagsätra,2,57,6,Lägenhet,1958,[Hagsätra],1025000,345000,1370000,3294,Svensk Fastighetsförmedling,522.3776606778725,Hagsatra
+2012-11-05,Lerbäcksgränd 4,Rågsved,Grön Hagsätra,1,33,0,Lägenhet,null,[Älvsjö],865000,5000,870000,2587,Hemverket,497.5197590540831,Ragsved
+2012-10-18,Bjursätragatan 35,Rågsved,Grön Hagsätra,2,54,1,Lägenhet,2012,[Snösätra],1250000,170000,1420000,2808,Notar,496.2877307609579,Ragsved
+2012-09-28,Bäverdammsgränd 174,Rågsved,Grön Hagsätra,3,86.5,null,Lägenhet,1983,[Älvsjö/Farsta/Vantör],980000,40000,1020000,5420,Fastighetsbyrån,648.2479115918578,Ragsved
+2012-09-06,Vedevågslingan 2,Rågsved,Grön Hagsätra,3,75,2,Lägenhet,1959,[Bandhagen],1000000,185000,1185000,3745,Mäklarhuset,540.8500427019017,Ragsved

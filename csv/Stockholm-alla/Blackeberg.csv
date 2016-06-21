@@ -1,0 +1,544 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-13,Holbergsgatan 128,Blackeberg,Grön Hässelby,3,69,1,Lägenhet,1952,[Bromma Blackeberg],2490000,0,2490000,3682,Notar,373.8894876089025,Blackeberg
+2016-05-12,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,5,Lägenhet,2005,[Bromma Blackeberg],2690000,0,2690000,4332,Notar,301.1810929388143,Blackeberg
+2016-05-11,Sigrid Undsets gata 30E,Blackeberg,Grön Hässelby,1.5,34.1,1,Lägenhet,1952,[Bromma Blackeberg],1690000,375000,2065000,1711,Notar,199.83506677640705,Blackeberg
+2016-05-11,Holbergsgatan 42,Blackeberg,Grön Hässelby,1,40,1,Lägenhet,1952,[Bromma Blackeberg],1690000,510000,2200000,1809,Notar,298.85959643877,Blackeberg
+2016-05-11,Wergelandsgatan 6,Blackeberg,Grön Hässelby,2,58,2,Lägenhet,1951,[Bromma],2275000,25000,2300000,2912,Mäklarhuset,146.28321059302456,Blackeberg
+2016-05-10,Cederströmsvägen 8,Blackeberg,Grön Hässelby,5,64,null,Villa,1939,[Norra Ängby],5250000,350000,5600000,null,Fastighetsbyrån,155.63077007742473,Islandstorget
+2016-05-09,Holbergsgatan 46,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1952,[Bromma Blackeberg],2290000,110000,2400000,2442,Notar,262.88069596089093,Blackeberg
+2016-05-09,Holbergsgatan 42,Blackeberg,Grön Hässelby,3,68,3,Lägenhet,1952,[Bromma Blackeberg],2490000,0,2490000,3076,Notar,298.85959643877,Blackeberg
+2016-05-09,Elias Lönnrots väg 11,Blackeberg,Grön Hässelby,4,81,null,Radhus,1952,[Bromma Blackeberg],3390000,810000,4200000,4333,Notar,237.05920836239562,Blackeberg
+2016-05-06,Johan Tillanders väg 39,Blackeberg,Grön Hässelby,3,73.5,3,Lägenhet,2012,[Bromma Ängby Park],3395000,145000,3540000,4043,Mäklarringen,809.5126308034052,Blackeberg
+2016-05-05,Grundtvigsgatan 11,Blackeberg,Grön Hässelby,3,66,2,Lägenhet,1951,[Bromma],2690000,410000,3100000,2714,Länsförsäkringar Fastighetsförmedling,361.1194448632351,Islandstorget
+2016-05-04,Nickelgränd 10,Blackeberg,Grön Hässelby,3,75,6,Lägenhet,1958,[Vällingby],2595000,405000,3000000,3349,Mäklarhuset,151.82256408063617,Racksta
+2016-04-29,Drachmannsgatan 36,Blackeberg,Grön Hässelby,4,121,-1,Lägenhet,1993,[Bromma],2495000,10000,2505000,6313,Svensk Fastighetsförmedling,259.8622122993593,Islandstorget
+2016-04-28,Ibsengatan 86,Blackeberg,Grön Hässelby,3,70,3,Lägenhet,1951,[Bromma Blackeberg],2690000,385000,3075000,3538,Notar,270.6033284459753,Blackeberg
+2016-04-28,Holbergsgatan 131,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma Blackeberg],2290000,210000,2500000,3500,Notar,534.2135190877915,Islandstorget
+2016-04-28,Grundtvigsgatan 21,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1951,[Bromma Blackeberg],2290000,360000,2650000,2220,Notar,418.19269676121195,Islandstorget
+2016-04-27,Holbergsgatan 44,Blackeberg,Grön Hässelby,1,24,1,Lägenhet,1952,[Bromma Blackeberg],1490000,410000,1900000,1086,Notar,283.19190311674623,Blackeberg
+2016-04-26,Holbergsgatan 24,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,null,[Bromma Blackeberg],2290000,370000,2660000,2430,Notar,334.62145337863933,Islandstorget
+2016-04-26,Sigrid Undsets gata 13,Blackeberg,Grön Hässelby,2,53,3,Lägenhet,1952,[Bromma Blackeberg],2290000,340000,2630000,2398,Notar,250.43741072937854,Blackeberg
+2016-04-22,Holbergsgatan 173,Blackeberg,Grön Hässelby,3,81,null,Radhus,1952,[Bromma Blackeberg],4500000,1060000,5560000,4245,Mäklarringen,661.3770085245144,Islandstorget
+2016-04-22,Ibsengatan 84,Blackeberg,Grön Hässelby,2,54,0.5,Lägenhet,null,[Blackeberg],1950000,320000,2270000,2730,Fastighetsbyrån,284.2433511722041,Blackeberg
+2016-04-21,Holbergsgatan 146,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,1952,[Bromma Blackeberg],2490000,470000,2960000,3682,Notar,428.1959799912225,Blackeberg
+2016-04-21,Ibsengatan 76,Blackeberg,Grön Hässelby,4,87,3,Lägenhet,1951,[Bromma],3195000,305000,3500000,4398,Bjurfors,339.9285745926881,Blackeberg
+2016-04-20,Holbergsgatan 81,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,null,[Bromma],2595000,580000,3175000,4250,Svenska Mäklarhuset,305.7139271263734,Blackeberg
+2016-04-20,Nickelgränd 4,Blackeberg,Grön Hässelby,3,75,6,Lägenhet,1958,[Vällingby],2595000,305000,2900000,3349,Fastighetsbyrån,260.61449197386446,Racksta
+2016-04-19,Björnsonsgatan 140,Blackeberg,Grön Hässelby,3,74,9,Lägenhet,1952,[Bromma Blackeberg],3990000,560000,4550000,3709,Notar,133.54801572957282,Blackeberg
+2016-04-19,Holbergsgatan 104,Blackeberg,Grön Hässelby,1,42,2,Lägenhet,1952,[Bromma Blackeberg],1850000,380000,2230000,2528,Notar,285.6516197495248,Blackeberg
+2016-04-19,Björnsonsgatan 138,Blackeberg,Grön Hässelby,2,57,2.5,Lägenhet,1952,[Bromma Blackeberg],2190000,435000,2625000,2857,Notar,179.76857629062306,Blackeberg
+2016-04-14,Nickelgränd 14,Blackeberg,Grön Hässelby,5,108,1,Lägenhet,1998,[Hässelby-Vällingby],2250000,1100000,3350000,7978,SkandiaMäklarna,199.47471482784223,Racksta
+2016-04-13,Holbergsgatan 81,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1951,[Bromma],2795000,275000,3070000,4250,SkandiaMäklarna,305.7139271263734,Blackeberg
+2016-04-12,Holbergsgatan 122,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma Blackeberg],2190000,560000,2750000,3225,Notar,339.5117128255472,Blackeberg
+2016-04-08,Holbergsgatan 48,Blackeberg,Grön Hässelby,2,54,3,Lägenhet,1952,[Bromma Blackeberg],2290000,410000,2700000,2442,Notar,247.2331945853342,Blackeberg
+2016-04-08,Holbergsgatan 116,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],2290000,580000,2870000,3225,Notar,346.18541213417063,Blackeberg
+2016-04-06,Elias Lönnrots väg 13,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],2290000,360000,2650000,2984,Notar,252.24219324225382,Blackeberg
+2016-04-01,Elias Lönnrots väg 5B,Blackeberg,Grön Hässelby,1,24.7,null,Lägenhet,1952,[Blackeberg],1495000,465000,1960000,1264,Fastighetsbyrån,222.43767487442528,Blackeberg
+2016-03-29,Sigrid Undsets gata 18,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,1952,[Bromma Blackeberg],2190000,560000,2750000,2430,Notar,281.7818209532399,Blackeberg
+2016-03-29,Björnsonsgatan 150,Blackeberg,Grön Hässelby,2,63,2,Lägenhet,1996,[Bromma Blackeberg],2290000,560000,2850000,3269,Notar,160.9102566330837,Blackeberg
+2016-03-26,Ibsengatan 60,Blackeberg,Grön Hässelby,3,68,1,Lägenhet,1951,[Bromma],3000000,-350000,2650000,3438,Länsförsäkringar Fastighetsförmedling,384.1295730507813,Blackeberg
+2016-03-23,Holbergsgatan 98,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1952,[Bromma Blackeberg],2390000,470000,2860000,3682,Notar,300.3572073473157,Blackeberg
+2016-03-23,Karen Blixens gata 5,Blackeberg,Grön Hässelby,3,85,2,Lägenhet,2015,[Bromma],3775000,325000,4100000,4523,SkandiaMäklarna,539.5581795584537,Blackeberg
+2016-03-18,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,2005,[Bromma Blackeberg],2790000,560000,3350000,4332,Notar,239.86599982972416,Blackeberg
+2016-03-18,Björnsonsgatan 118,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma Blackeberg],2290000,310000,2600000,3084,Notar,265.43389620372426,Blackeberg
+2016-03-18,Holbergsgatan 110,Blackeberg,Grön Hässelby,2.5,59,3,Lägenhet,1952,[Bromma Blackeberg],2190000,420000,2610000,3225,Notar,325.23323972782583,Blackeberg
+2016-03-16,Nickelgränd 6,Blackeberg,Grön Hässelby,1,24,1,Lägenhet,1958,[Vällingby],1395000,565000,1960000,1072,Mäklarhuset,213.24696785883643,Racksta
+2016-03-15,Holbergsgatan 100,Blackeberg,Grön Hässelby,1,42,1,Lägenhet,1952,[Blackeberg],1695000,365000,2060000,2528,Living Fastighetsmäkleri,291.6035868838922,Blackeberg
+2016-03-12,Björnsonsgatan 140,Blackeberg,Grön Hässelby,2,57,2.5,Lägenhet,1952,[Bromma Blackeberg],2190000,590000,2780000,2857,Notar,133.54801572957282,Blackeberg
+2016-03-07,Holbergsgatan 126,Blackeberg,Grön Hässelby,1,42,3,Lägenhet,1952,[Bromma Blackeberg],1790000,490000,2280000,2528,Notar,362.09818525978056,Blackeberg
+2016-03-07,Ibsengatan 76,Blackeberg,Grön Hässelby,3,71,3,Lägenhet,1951,[Bromma Blackeberg],2490000,110000,2600000,3590,Notar,339.9285745926881,Blackeberg
+2016-03-07,Arvid Mörnes väg 48,Blackeberg,Grön Hässelby,1,42,1,Lägenhet,1951,[Bromma Blackeberg],1890000,430000,2320000,2379,Notar,489.9655181892453,Blackeberg
+2016-03-07,Sigrid Undsets gata 14,Blackeberg,Grön Hässelby,2,55,1,Lägenhet,1952,[Bromma Blackeberg],2190000,410000,2600000,2430,Notar,312.05397663903125,Blackeberg
+2016-03-07,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,7.5,Lägenhet,1952,[Bromma Blackeberg],1790000,210000,2000000,1554,Notar,133.54801572957282,Blackeberg
+2016-03-07,Holbergsgatan 132,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma Blackeberg],2190000,220000,2410000,3225,Notar,406.8076505927457,Blackeberg
+2016-03-07,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,9,Lägenhet,2005,[Bromma Blackeberg],2850000,800000,3650000,4332,Notar,301.1810929388143,Blackeberg
+2016-03-04,Elias Lönnrots väg 7B,Blackeberg,Grön Hässelby,1,29.8,null,Lägenhet,1952,[Blackeberg],2000000,0,2000000,1525,Fastighetsbyrån,222.43767487442528,Blackeberg
+2016-03-03,Ibsengatan 74,Blackeberg,Grön Hässelby,2.5,59,2,Lägenhet,1951,[Bromma],2075000,555000,2630000,2983,Bjurfors,353.6899147884279,Blackeberg
+2016-03-02,Karen Blixens gata 5,Blackeberg,Grön Hässelby,4,107,5,Lägenhet,2015,[Bromma],4675000,375000,5050000,5405,SkandiaMäklarna,539.5581795584537,Blackeberg
+2016-02-29,Nickelgränd 6,Blackeberg,Grön Hässelby,3,76,5,Lägenhet,1958,[Vällingby Grimsta],2495000,-95000,2400000,3395,HusmanHagberg,213.24696785883643,Racksta
+2016-02-27,Johan Tillanders väg 37,Blackeberg,Grön Hässelby,3,73.5,3,Lägenhet,2012,[Bromma Ängby Park],3475000,525000,4000000,4043,Mäklarringen,822.747897082389,Blackeberg
+2016-02-26,Holbergsgatan 138,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],2190000,700000,2890000,3225,Notar,373.52414939825564,Blackeberg
+2016-02-26,Holbergsgatan 22,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1952,[Bromma Blackeberg],2190000,470000,2660000,2378,Notar,318.41266738095584,Islandstorget
+2016-02-26,Elias Lönnrots väg 23,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],2150000,450000,2600000,2984,Notar,307.19240739828797,Blackeberg
+2016-02-24,Björnsonsgatan 116,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1951,[Blackeberg],2195000,5000,2200000,3083,Fastighetsbyrån,275.7787557362239,Blackeberg
+2016-02-18,Björnsonsgatan 58,Blackeberg,Grön Hässelby,2,49,7,Lägenhet,2005,[Bromma Blackeberg],1990000,310000,2300000,3076,Notar,301.1810929388143,Blackeberg
+2016-02-18,Holbergsgatan 144,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],2190000,390000,2580000,3225,Notar,420.4304105503548,Blackeberg
+2016-02-18,Sigrid Undsets gata 32,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1952,[Bromma Blackeberg],2390000,660000,3050000,3463,Notar,209.88384897528377,Blackeberg
+2016-02-18,Ibsengatan 80,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,null,[Bromma],1975000,375000,2350000,2730,Svenska Mäklarhuset,312.761673126203,Blackeberg
+2016-02-16,Holbergsgatan 125,Blackeberg,Grön Hässelby,4,69,2,Lägenhet,1952,[Bromma Blackeberg],2490000,620000,3110000,3997,Notar,507.6956625812404,Blackeberg
+2016-02-12,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,7,Lägenhet,2005,[Blackeberg],2995000,130000,3125000,4332,Fastighetsbyrån,301.1810929388143,Blackeberg
+2016-02-10,Ibsengatan 84,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1951,[Bromma Blackeberg],2290000,185000,2475000,2730,Notar,284.2433511722041,Blackeberg
+2016-02-10,Blackebergsbacken 3,Blackeberg,Grön Hässelby,3,73,3,Lägenhet,2006,[Bromma Blackeberg],2990000,590000,3580000,4475,Notar,763.5326735338764,Islandstorget
+2016-02-10,Arvid Mörnes väg 54,Blackeberg,Grön Hässelby,1,42,3,Lägenhet,1951,[Bromma Blackeberg],1790000,280000,2070000,2379,Notar,438.7444222796917,Blackeberg
+2016-02-01,Björnsonsgatan 138,Blackeberg,Grön Hässelby,3,71,2,Lägenhet,1952,[Bromma Blackeberg],2390000,660000,3050000,3559,Notar,179.76857629062306,Blackeberg
+2016-01-25,Sigrid Undsets gata 13,Blackeberg,Grön Hässelby,2,53,1,Lägenhet,1952,[Bromma Blackeberg],2190000,210000,2400000,2398,Notar,250.43741072937854,Blackeberg
+2016-01-21,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,8.5,Lägenhet,1952,[Bromma Blackeberg],1790000,420000,2210000,1554,Notar,133.54801572957282,Blackeberg
+2016-01-21,Sigrid Undsets gata 14,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,null,[Bromma Blackeberg],2190000,230000,2420000,2430,Notar,312.05397663903125,Blackeberg
+2016-01-21,Elias Lönnrots väg 23,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],2295000,235000,2530000,2984,Notar,307.19240739828797,Blackeberg
+2016-01-21,Holbergsgatan 83,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,1951,[Bromma Blackeberg],2490000,410000,2900000,4250,HusmanHagberg,312.93882001659995,Blackeberg
+2016-01-21,Elias Lönnrots väg 7A,Blackeberg,Grön Hässelby,1,25.1,null,Lägenhet,1952,[Blackeberg],1495000,525000,2020000,1284,Fastighetsbyrån,222.43767487442528,Blackeberg
+2016-01-21,Elias Lönnrots väg 5C,Blackeberg,Grön Hässelby,1,21.3,null,Lägenhet,1952,[Blackeberg],1295000,555000,1850000,1090,Fastighetsbyrån,211.49619630293392,Blackeberg
+2016-01-21,Holbergsgatan 116,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],2190000,160000,2350000,3225,Notar,346.18541213417063,Blackeberg
+2016-01-20,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,7,Lägenhet,2005,[Blackeberg],2995000,255000,3250000,4332,Fastighetsbyrån,239.86599982972416,Blackeberg
+2016-01-20,Johan Tillanders väg 37,Blackeberg,Grön Hässelby,1,38,1,Lägenhet,null,[Bromma],1675000,535000,2210000,2090,Svenska Mäklarhuset,822.747897082389,Blackeberg
+2016-01-14,Björnsonsgatan 142,Blackeberg,Grön Hässelby,3,71,2,Lägenhet,1952,[Bromma Blackeberg],2390000,385000,2775000,3559,Notar,97.59296561226314,Blackeberg
+2016-01-14,Björnsonsgatan 58,Blackeberg,Grön Hässelby,2,49,4,Lägenhet,2004,[Bromma Blackeberg],1990000,370000,2360000,3076,Notar,301.1810929388143,Blackeberg
+2016-01-14,Ibsengatan 60,Blackeberg,Grön Hässelby,2,56,2,Lägenhet,1951,[Bromma],2195000,435000,2630000,2831,Bjurfors,384.1295730507813,Blackeberg
+2016-01-11,Drachmannsgatan 17,Blackeberg,Grön Hässelby,1,30,1,Lägenhet,1951,[Bromma Blackeberg],1290000,710000,2000000,1526,Notar,295.68714519005624,Islandstorget
+2015-12-21,Nickelgränd 12,Blackeberg,Grön Hässelby,3,78,2,Lägenhet,1998,[Vällingby],2190000,460000,2650000,5841,Notar,219.6074010767971,Racksta
+2015-12-21,Wergelandsgatan 38,Blackeberg,Grön Hässelby,2,60,3,Lägenhet,1956,[Bromma Blackeberg],2190000,335000,2525000,3096,Notar,107.19877425588533,Blackeberg
+2015-12-17,Elias Lönnrots väg 3,Blackeberg,Grön Hässelby,2.5,59,2,Lägenhet,1952,[Bromma Blackeberg],2475000,50000,2525000,3149,Mäklarringen,216.33216128212428,Blackeberg
+2015-12-11,Holbergsgatan 71,Blackeberg,Grön Hässelby,1,42,2,Lägenhet,1952,[Bromma Blackeberg],1690000,360000,2050000,2917,Notar,273.7321130673237,Blackeberg
+2015-12-10,Björnsonsgatan 327,Blackeberg,Grön Hässelby,2,35,1,Lägenhet,1996,[Bromma Blackeberg],1695000,555000,2250000,2722,HusmanHagberg,241.80726624664345,Blackeberg
+2015-12-04,Holbergsgatan 134,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma],2175000,275000,2450000,3162,Bjurfors,417.65309972401906,Blackeberg
+2015-11-30,Sigrid Undsets gata 14,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,1951,[Bromma Blackeberg],2190000,210000,2400000,2430,Notar,312.05397663903125,Blackeberg
+2015-11-30,Holbergsgatan 90,Blackeberg,Grön Hässelby,2,49,5,Lägenhet,2004,[Bromma Blackeberg],1990000,310000,2300000,3124,Notar,239.86599982972416,Blackeberg
+2015-11-27,Holbergsgatan 90,Blackeberg,Grön Hässelby,2,49,8,Lägenhet,2005,[Bromma],1875000,525000,2400000,3124,Bjurfors,239.86599982972416,Blackeberg
+2015-11-26,Holbergsgatan 83,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,1952,[Bromma Blackeberg],2495000,165000,2660000,4250,Notar,312.93882001659995,Blackeberg
+2015-11-26,Holbergsgatan 96B,Blackeberg,Grön Hässelby,4,120,null,Lägenhet,1952,[Bromma Blackeberg],3795000,405000,4200000,5448,Notar,287.44465097512744,Blackeberg
+2015-11-16,Björnsonsgatan 154,Blackeberg,Grön Hässelby,2,62,null,Lägenhet,1996,[Bromma Blackeberg],1995000,605000,2600000,3218,Notar,195.0255070633561,Blackeberg
+2015-11-15,Grundtvigsgatan 13,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,1951,[Bromma Blackeberg],2295000,105000,2400000,2195,HusmanHagberg,370.1103835557283,Islandstorget
+2015-11-14,Drachmannsgatan 24,Blackeberg,Grön Hässelby,3,67,2,Lägenhet,null,[Bromma],2395000,130000,2525000,4340,Svenska Mäklarhuset,272.14413638608386,Islandstorget
+2015-11-12,Björnsonsgatan 329,Blackeberg,Grön Hässelby,2,66,2,Lägenhet,1996,[Bromma Blackeberg],1995000,620000,2615000,4995,HusmanHagberg,258.49322366818086,Blackeberg
+2015-11-12,Wergelandsgatan 34,Blackeberg,Grön Hässelby,3,70,3,Lägenhet,1952,[Bromma Blackeberg],2490000,310000,2800000,3613,Notar,111.15581644685582,Blackeberg
+2015-11-12,Nickelgränd 10,Blackeberg,Grön Hässelby,3,75,3,Lägenhet,null,[Vällingby],2350000,60000,2410000,3349,Svenska Mäklarhuset,151.82256408063617,Racksta
+2015-11-12,Arvid Mörnes väg 42,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma],1995000,335000,2330000,3398,Länsförsäkringar Fastighetsförmedling,512.7135847420657,Blackeberg
+2015-11-03,Holbergsgatan 44,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1952,[Bromma Blackeberg],2190000,325000,2515000,2442,Notar,283.19190311674623,Blackeberg
+2015-11-03,Arvid Mörnes väg 52,Blackeberg,Grön Hässelby,1,42,1,Lägenhet,1951,[Bromma Blackeberg],1790000,460000,2250000,2379,Notar,464.73282093194524,Blackeberg
+2015-11-03,Blackebergsbacken 3,Blackeberg,Grön Hässelby,4,94.5,2,Lägenhet,2006,[Bromma Blackeberg],3790000,210000,4000000,5420,Notar,763.5326735338764,Islandstorget
+2015-11-03,Holbergsgatan 42,Blackeberg,Grön Hässelby,3,68,1,Lägenhet,1952,[Bromma Blackeberg],2390000,110000,2500000,3076,Notar,298.85959643877,Blackeberg
+2015-10-30,Karen Blixens gata 7,Blackeberg,Grön Hässelby,2,62,12,Lägenhet,2014,[Blackeberg],2495000,355000,2850000,3604,Fastighetsbyrån,532.8477869057043,Blackeberg
+2015-10-29,Nickelgränd 10,Blackeberg,Grön Hässelby,2,63,1,Lägenhet,1958,[Vällingby],1795000,305000,2100000,2762,Mäklarhuset,151.82256408063617,Racksta
+2015-10-22,Nickelgränd 10,Blackeberg,Grön Hässelby,3,76,2,Lägenhet,1958,[Vällingby],2395000,275000,2670000,3395,Mäklarhuset,151.82256408063617,Racksta
+2015-10-20,Karen Blixens gata 13,Blackeberg,Grön Hässelby,2,61,4,Lägenhet,2014,[Bromma Blackeberg],2495000,0,2495000,3567,HusmanHagberg,580.3484269407105,Blackeberg
+2015-10-19,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,0.5,Lägenhet,1952,[Bromma Blackeberg],1690000,420000,2110000,1554,Notar,133.54801572957282,Blackeberg
+2015-10-19,Sigrid Undsets gata 8,Blackeberg,Grön Hässelby,2,55,1,Lägenhet,1951,[Blackeberg],2195000,205000,2400000,2430,Länsförsäkringar Fastighetsförmedling,340.5827673192787,Islandstorget
+2015-10-15,Björnsonsgatan 325,Blackeberg,Grön Hässelby,2,61,3,Lägenhet,1996,[Blackeberg],2195000,85000,2280000,4621,Fastighetsbyrån,219.21337453592275,Blackeberg
+2015-10-15,Karen Blixens gata 7,Blackeberg,Grön Hässelby,2,62,2,Lägenhet,2014,[Bromma],2525000,0,2525000,3604,SkandiaMäklarna,532.8477869057043,Blackeberg
+2015-10-14,Elias Lönnrots väg 13,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],2095000,225000,2320000,2897,Mäklarringen,252.24219324225382,Blackeberg
+2015-10-09,Wergelandsgatan 4,Blackeberg,Grön Hässelby,2,41,0,Lägenhet,1951,[Bromma Blackeberg],1995000,265000,2260000,2066,HusmanHagberg,122.84027697214667,Blackeberg
+2015-10-08,Nickelgränd 10,Blackeberg,Grön Hässelby,3,75,1,Lägenhet,1958,[Vällingby],1995000,755000,2750000,3350,Mäklarhuset,151.82256408063617,Racksta
+2015-10-07,Elias Lönnrots väg 3,Blackeberg,Grön Hässelby,3,70,1,Lägenhet,1951,[Blackeberg],2495000,675000,3170000,3727,Fastighetsbyrån,216.33216128212428,Blackeberg
+2015-10-05,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,3.5,Lägenhet,1952,[Bromma Blackeberg],1690000,740000,2430000,1554,Notar,133.54801572957282,Blackeberg
+2015-10-05,Arvid Mörnes väg 52,Blackeberg,Grön Hässelby,1,24,2,Lägenhet,1951,[Bromma Blackeberg],1490000,290000,1780000,1582,Notar,464.73282093194524,Blackeberg
+2015-10-05,Wergelandsgatan 38,Blackeberg,Grön Hässelby,2,58,0.5,Lägenhet,1952,[Bromma Blackeberg],2190000,160000,2350000,2994,Notar,107.19877425588533,Blackeberg
+2015-10-01,Holbergsgatan 102,Blackeberg,Grön Hässelby,1,42,2,Lägenhet,1952,[Bromma Blackeberg],1745000,555000,2300000,2478,HusmanHagberg,286.93038466157304,Blackeberg
+2015-09-26,Björnsonsgatan 166,Blackeberg,Grön Hässelby,2,63,2,Lägenhet,null,[Blackeberg],2495000,205000,2700000,3055,ERA,250.87320037111587,Blackeberg
+2015-09-24,Holbergsgatan 106,Blackeberg,Grön Hässelby,1,42,3,Lägenhet,1952,[Bromma Blackeberg],1690000,610000,2300000,2478,Notar,300.3572073473157,Blackeberg
+2015-09-23,Nickelgränd 10,Blackeberg,Grön Hässelby,2,54,1,Lägenhet,1958,[Vällingby],1495000,1015000,2510000,2367,Mäklarhuset,151.82256408063617,Racksta
+2015-09-17,Johan Tillanders väg 8,Blackeberg,Grön Hässelby,3,82,1,Lägenhet,1928,[Bromma],3475000,375000,3850000,5051,Svensk Fastighetsförmedling,723.3577520855252,Blackeberg
+2015-09-17,Blackebergsbacken 3,Blackeberg,Grön Hässelby,4,95,5,Lägenhet,2006,[Bromma],3495000,1055000,4550000,5420,Svensk Fastighetsförmedling,763.5326735338764,Islandstorget
+2015-09-17,Karen Blixens gata 7,Blackeberg,Grön Hässelby,2,50,4,Lägenhet,2014,[Bromma Blackeberg],2095000,440000,2535000,3088,HusmanHagberg,532.8477869057043,Blackeberg
+2015-09-17,Karen Blixens gata 5,Blackeberg,Grön Hässelby,5,107,7,Lägenhet,2014,[Bromma Blackeberg],4250000,250000,4500000,5625,Mäklarringen,539.5581795584537,Blackeberg
+2015-09-14,Arvid Mörnes väg 56,Blackeberg,Grön Hässelby,1,30,-1,Lägenhet,1952,[Bromma Blackeberg],1590000,460000,2050000,1848,Notar,424.40863946519397,Blackeberg
+2015-09-09,Johan Tillanders väg 39,Blackeberg,Grön Hässelby,3,73.5,3,Lägenhet,2012,[Bromma Ängby Park],2695000,705000,3400000,4043,Mäklarringen,809.5126308034052,Blackeberg
+2015-09-07,Ibsengatan 62,Blackeberg,Grön Hässelby,3,71,1,Lägenhet,1951,[Bromma Blackeberg],2550000,300000,2850000,3485,Notar,399.4253897708687,Blackeberg
+2015-09-07,Björnsonsgatan 157,Blackeberg,Grön Hässelby,6,103,null,Lägenhet,1952,[Bromma Blackeberg],4950000,1100000,6050000,5139,Notar,479.46660808625717,Blackeberg
+2015-09-03,Karen Blixens gata 13,Blackeberg,Grön Hässelby,2,50,7,Lägenhet,2014,[Blackeberg],2395000,245000,2640000,3308,Fastighetsbyrån,580.3484269407105,Blackeberg
+2015-09-03,Björnsonsgatan 327,Blackeberg,Grön Hässelby,2,61,3,Lägenhet,1996,[Bromma Blackeberg],1995000,705000,2700000,4519,HusmanHagberg,241.80726624664345,Blackeberg
+2015-09-01,Björnsonsgatan 138,Blackeberg,Grön Hässelby,1,31,2,Lägenhet,1952,[Bromma Blackeberg],1695000,705000,2400000,1554,HusmanHagberg,179.76857629062306,Blackeberg
+2015-08-28,Björnsonsgatan 337,Blackeberg,Grön Hässelby,4,92.5,0,Lägenhet,1996,[Bromma Blackeberg],2695000,655000,3350000,6771,HusmanHagberg,304.0484914334659,Blackeberg
+2015-08-27,Holbergsgatan 22,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1951,[Bromma Blackeberg],1990000,435000,2425000,2378,Notar,318.41266738095584,Islandstorget
+2015-08-21,Sigrid Undsets gata 12,Blackeberg,Grön Hässelby,2,55,2,Lägenhet,null,[Blackeberg],2195000,305000,2500000,2430,Fastighetsbyrån,331.5691943719078,Blackeberg
+2015-08-21,Björnsonsgatan 331,Blackeberg,Grön Hässelby,4,85.5,1,Lägenhet,1996,[Bromma],2360000,640000,3000000,6498,SkandiaMäklarna,284.46167191511347,Blackeberg
+2015-08-20,Björnsonsgatan 164,Blackeberg,Grön Hässelby,3,66,3,Lägenhet,1996,[Bromma],2690000,240000,2930000,3201,Svensk Fastighetsförmedling,256.15795632175804,Blackeberg
+2015-08-14,Holbergsgatan 148,Blackeberg,Grön Hässelby,3,69,1,Lägenhet,1952,[Bromma Blackeberg],2390000,385000,2775000,3610,Notar,440.86893432877,Blackeberg
+2015-08-14,Nickelgränd 4,Blackeberg,Grön Hässelby,3,76,4,Lägenhet,1958,[Vällingby Råcksta],1995000,555000,2550000,3395,Mäklarringen,260.61449197386446,Racksta
+2015-08-13,Grundtvigsgatan 3,Blackeberg,Grön Hässelby,2,52,3,Lägenhet,null,[Bromma],2195000,685000,2880000,2076,Svenska Mäklarhuset,384.89713569153537,Islandstorget
+2015-08-13,Nickelgränd 8,Blackeberg,Grön Hässelby,5,149,7,Lägenhet,1958,[Vällingby Råcksta],2995000,905000,3900000,6655,Mäklarringen,177.98950836555386,Racksta
+2015-08-05,Holbergsgatan 138,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Blackeberg],2370000,0,2370000,3162,BOSTHLM,373.52414939825564,Blackeberg
+2015-07-22,Elias Lönnrots väg 19,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Blackeberg],2710000,0,2710000,2897,BOSTHLM,283.75785008741553,Blackeberg
+2015-07-20,Holbergsgatan 121,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1952,[Bromma Blackeberg],2390000,500000,2890000,3880,Notar,478.3698019931892,Blackeberg
+2015-07-13,Arvid Mörners väg 36,Blackeberg,Grön Hässelby,1,26,1,Lägenhet,1952,[Blackeberg],1495000,455000,1950000,1497,Länsförsäkringar Fastighetsförmedling,517.0451872994805,Blackeberg
+2015-07-10,Karen Blixens gata 13,Blackeberg,Grön Hässelby,2,50,9,Lägenhet,2014,[Bromma Blackeberg],2290000,440000,2730000,3308,Notar,580.3484269407105,Blackeberg
+2015-07-10,Elias Lönnrots väg 27,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],2490000,210000,2700000,2897,Notar,332.3748693398698,Blackeberg
+2015-07-03,Holbergsgatan 144,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,null,[Bromma],2195000,315000,2510000,3162,Bjurfors,420.4304105503548,Blackeberg
+2015-06-26,Arvid Mörnes väg 40,Blackeberg,Grön Hässelby,1,26,0.5,Lägenhet,1952,[Bromma Blackeberg],1390000,420000,1810000,1497,Notar,515.7380800062183,Blackeberg
+2015-06-26,Holbergsgatan 102,Blackeberg,Grön Hässelby,1,42,3,Lägenhet,1952,[Bromma Blackeberg],1690000,300000,1990000,2478,Notar,286.93038466157304,Blackeberg
+2015-06-26,Sigrid Undsets gata 32,Blackeberg,Grön Hässelby,1,41,2,Lägenhet,1951,[Bromma Blackeberg],1690000,410000,2100000,2058,Notar,209.88384897528377,Blackeberg
+2015-06-26,Björnsonsgatan 140,Blackeberg,Grön Hässelby,3,71,8.5,Lägenhet,1952,[Bromma Blackeberg],2390000,625000,3015000,3559,Notar,133.54801572957282,Blackeberg
+2015-06-26,Ibsengatan 60,Blackeberg,Grön Hässelby,2,56,null,Lägenhet,1952,[Blackeberg],2050000,350000,2400000,2748,Husfokus Mäklarbyrå,384.1295730507813,Blackeberg
+2015-06-12,Sigrid Undsets gata 24,Blackeberg,Grön Hässelby,3,69,4,Lägenhet,1951,[Bromma],2425000,700000,3125000,2936,Fabergé Fastighetsmäkleri,244.80774582037444,Blackeberg
+2015-06-12,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,5,Lägenhet,null,[Bromma Blackeberg],2690000,140000,2830000,4332,Notar,239.86599982972416,Blackeberg
+2015-06-12,Grundtvigsgatan 19,Blackeberg,Grön Hässelby,1,41,5,Lägenhet,1951,[Bromma Blackeberg],1690000,210000,1900000,1559,Notar,400.61826318500016,Islandstorget
+2015-06-12,Holbergsgatan 133,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma],2195000,285000,2480000,3398,Svensk Fastighetsförmedling,537.9469111463379,Blackeberg
+2015-06-09,Björnsonsgatan 140,Blackeberg,Grön Hässelby,2,57,3.5,Lägenhet,1959,[Blackeberg],1995000,335000,2330000,2857,Länsförsäkringar Fastighetsförmedling,133.54801572957282,Blackeberg
+2015-06-02,Ibsengatan 62,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,1951,[Blackeberg],2490000,10000,2500000,3485,Notar,399.4253897708687,Blackeberg
+2015-06-02,Drachmannsgatan 19,Blackeberg,Grön Hässelby,2,56,3,Lägenhet,1952,[Bromma Blackeberg],1890000,290000,2180000,2466,Notar,297.0383888335708,Islandstorget
+2015-06-02,Karen Blixens gata 5,Blackeberg,Grön Hässelby,2,50,null,Lägenhet,2014,[Blackeberg],1995000,0,1995000,3308,Notar,539.5581795584537,Blackeberg
+2015-05-27,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,5.5,Lägenhet,1952,[Bromma Blackeberg],1550000,450000,2000000,1554,HusmanHagberg,133.54801572957282,Blackeberg
+2015-05-21,Björnsonsgatan 58,Blackeberg,Grön Hässelby,2,49,6,Lägenhet,2004,[Bromma Blackeberg],1790000,435000,2225000,3124,Notar,301.1810929388143,Blackeberg
+2015-05-21,Sigrid Undsets gata 24,Blackeberg,Grön Hässelby,3,72,5,Lägenhet,1952,[Bromma Blackeberg],2390000,380000,2770000,3322,Notar,244.80774582037444,Blackeberg
+2015-05-21,Holbergsgatan 125,Blackeberg,Grön Hässelby,4,69,2,Lägenhet,1952,[Bromma Blackeberg],2390000,660000,3050000,3880,Notar,507.6956625812404,Blackeberg
+2015-05-21,Nickelgränd 8,Blackeberg,Grön Hässelby,3,76,6,Lägenhet,1958,[Vällingby],2495000,255000,2750000,3395,Mäklarhuset,177.98950836555386,Racksta
+2015-05-21,Elias Lönnrots väg 13,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma Blackeberg],1890000,450000,2340000,2897,Notar,252.24219324225382,Blackeberg
+2015-05-16,Björnsonsgatan 337,Blackeberg,Grön Hässelby,3,61,1,Lägenhet,1996,[Bromma Blackeberg],1595000,725000,2320000,4638,HusmanHagberg,304.0484914334659,Blackeberg
+2015-05-09,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,9,Lägenhet,2006,[Bromma],2495000,605000,3100000,4332,Mäklarhuset,301.1810929388143,Blackeberg
+2015-05-09,Drachmannsgatan 15,Blackeberg,Grön Hässelby,1,18,2,Lägenhet,1952,[Bromma Blackeberg],1190000,380000,1570000,1091,Notar,291.8079488337208,Islandstorget
+2015-05-07,Drachmannsgatan 32,Blackeberg,Grön Hässelby,2,70,2,Lägenhet,1993,[Bromma Blackeberg],1895000,380000,2275000,4630,HusmanHagberg,271.3005273365786,Islandstorget
+2015-05-07,Holbergsgatan 114,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],1890000,460000,2350000,3162,Notar,343.02103330187043,Blackeberg
+2015-05-07,Elias Lönnrots väg 15,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Blackeberg],2350000,0,2350000,2897,BOSTHLM,263.6075012319074,Blackeberg
+2015-05-05,Elias Lönnrots väg 15,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Blackeberg],2450000,0,2450000,2897,BOSTHLM,263.6075012319074,Blackeberg
+2015-05-05,Björnsonsgatan 140,Blackeberg,Grön Hässelby,3.5,71,8,Lägenhet,1959,[Bromma],2390000,35000,2425000,null,Notar,133.54801572957282,Blackeberg
+2015-04-30,Blackebergsplan 10,Blackeberg,Grön Hässelby,3,79,2,Lägenhet,2001,[Bromma Blackeberg],1995000,5000,2000000,4975,Notar,64.78745787617805,Blackeberg
+2015-04-30,Wergelandsgatan 4,Blackeberg,Grön Hässelby,4,86,3,Lägenhet,1951,[Bromma],2775000,125000,2900000,4316,Svenska Mäklarhuset,122.84027697214667,Blackeberg
+2015-04-29,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,8,Lägenhet,2004,[Bromma Blackeberg],2490000,790000,3280000,4332,Notar,301.1810929388143,Blackeberg
+2015-04-29,Elias Lönnrots väg 15,Blackeberg,Grön Hässelby,3,59,2,Lägenhet,1952,[Bromma],2395000,325000,2720000,2785,Innerstadsspecialisten AB,263.6075012319074,Blackeberg
+2015-04-24,Wergelandsgatan 32,Blackeberg,Grön Hässelby,3,70,0.5,Lägenhet,1951,[Bromma Blackeberg],2390000,210000,2600000,3613,Notar,115.90091148558247,Blackeberg
+2015-04-24,Karen Blixens gata 5,Blackeberg,Grön Hässelby,2,62,9,Lägenhet,2014,[Bromma Blackeberg],2450000,100000,2550000,3824,Notar,539.5581795584537,Blackeberg
+2015-04-21,Arvid Mörnes väg 48,Blackeberg,Grön Hässelby,3.5,69,3,Lägenhet,1952,[Bromma Blackeberg],2390000,470000,2860000,3573,Notar,489.9655181892453,Blackeberg
+2015-04-17,Sigrid Undsets gata 8,Blackeberg,Grön Hässelby,2,55,2,Lägenhet,1951,[Bromma],1895000,615000,2510000,2430,HusmanHagberg,340.5827673192787,Islandstorget
+2015-04-17,Drachmannsgatan 34,Blackeberg,Grön Hässelby,3,93,3,Lägenhet,1993,[Bromma Blackeberg],1995000,1005000,3000000,5907,HusmanHagberg,272.92417996061295,Islandstorget
+2015-04-16,Björnsonsgatan 131,Blackeberg,Grön Hässelby,6,106,null,Lägenhet,1952,[Bromma],4350000,1875000,6225000,5139,Bjurfors,529.3230310945935,Blackeberg
+2015-04-16,Björnsonsgatan 164,Blackeberg,Grön Hässelby,2,66,2,Lägenhet,1996,[Bromma Blackeberg],1850000,550000,2400000,3201,Notar,256.15795632175804,Blackeberg
+2015-04-15,Ibsengatan 60,Blackeberg,Grön Hässelby,3,68,3,Lägenhet,1951,[Blackeberg],2100000,335000,2435000,3338,Fastighetsbyrån,384.1295730507813,Blackeberg
+2015-04-15,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,9,Lägenhet,2005,[Blackeberg],2850000,110000,2960000,4332,Fastighetsbyrån,239.86599982972416,Blackeberg
+2015-04-03,Johan Tillanders väg 12,Blackeberg,Grön Hässelby,2,62.5,1,Lägenhet,2012,[Bromma Ängby Park],2275000,235000,2510000,3851,Mäklarringen,744.2916809283623,Blackeberg
+2015-04-02,Karen Blixens gata 5,Blackeberg,Grön Hässelby,2,50,1,Lägenhet,2015,[Bromma],1995000,355000,2350000,3308,Mäklarhuset,539.5581795584537,Blackeberg
+2015-04-01,Nickelgränd 18,Blackeberg,Grön Hässelby,2,67,1,Lägenhet,null,[Vällingby],1390000,180000,1570000,5010,Svensk Fastighetsförmedling,238.04994781491914,Racksta
+2015-03-31,Arvid Mörnes väg 56,Blackeberg,Grön Hässelby,3,69,1,Lägenhet,1952,[Bromma Blackeberg],2350000,450000,2800000,3503,Notar,424.40863946519397,Blackeberg
+2015-03-26,Sigrid Undsets gata 2,Blackeberg,Grön Hässelby,2,55,1,Lägenhet,1951,[Bromma],1895000,685000,2580000,2430,Mäklarhuset,344.41027036520563,Blackeberg
+2015-03-25,Nickelgränd 4,Blackeberg,Grön Hässelby,3,75,3,Lägenhet,1958,[Vällingby],2250000,570000,2820000,3350,Svenska Mäklarhuset,260.61449197386446,Racksta
+2015-03-19,Holbergsgatan 79,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,1952,[Bromma],2195000,605000,2800000,4250,Svenska Mäklarhuset,288.40001795880005,Blackeberg
+2015-03-18,Johan Tillanders väg 14,Blackeberg,Grön Hässelby,2,62.5,1,Lägenhet,2012,[Bromma Ängby Park],2175000,375000,2550000,3851,Mäklarringen,754.4774997522235,Blackeberg
+2015-03-18,Blackebergsbacken 1,Blackeberg,Grön Hässelby,3,73,1,Lägenhet,2006,[Blackeberg],2975000,775000,3750000,4476,Fastighetsbyrån,746.9592370998922,Islandstorget
+2015-03-17,Holbergsgatan 36,Blackeberg,Grön Hässelby,1,41,2,Lägenhet,1952,[Bromma Blackeberg],1595000,265000,1860000,1923,Mäklarringen,340.22245262937247,Blackeberg
+2015-03-15,Blackebergsplan 10,Blackeberg,Grön Hässelby,2,71,4,Lägenhet,2001,[Bromma Blackeberg],1895000,30000,1925000,4548,Notar,64.78745787617805,Blackeberg
+2015-03-13,Holbergsgatan 20,Blackeberg,Grön Hässelby,1,28,null,Lägenhet,1951,[Bromma],1195000,575000,1770000,1279,Länsförsäkringar Fastighetsförmedling,304.90194031354093,Islandstorget
+2015-03-13,Karen Blixens gata 7,Blackeberg,Grön Hässelby,3,77,9,Lägenhet,2014,[Bromma Blackeberg],2895000,555000,3450000,4448,Notar,532.8477869057043,Blackeberg
+2015-03-13,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,6,Lägenhet,2004,[Bromma Blackeberg],2490000,330000,2820000,4332,Notar,301.1810929388143,Blackeberg
+2015-03-13,Holbergsgatan 119,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1952,[Bromma Blackeberg],2290000,580000,2870000,3880,Notar,485.0486789308964,Blackeberg
+2015-03-12,Wergelandsgatan 34,Blackeberg,Grön Hässelby,3,70,0.5,Lägenhet,1951,[Bromma],2195000,655000,2850000,3613,Mäklarhuset,111.15581644685582,Blackeberg
+2015-03-11,Björnsonsgatan 325,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,1996,[Bromma],2250000,0,2250000,5193,Svensk Fastighetsförmedling,219.21337453592275,Blackeberg
+2015-03-11,Drachmannsgatan 17,Blackeberg,Grön Hässelby,2,56,3,Lägenhet,1951,[Bromma Blackeberg],1890000,490000,2380000,2466,Notar,295.68714519005624,Islandstorget
+2015-03-11,Wergelandsgatan 32,Blackeberg,Grön Hässelby,3,70,3,Lägenhet,1951,[Bromma Blackeberg],2190000,910000,3100000,3613,Notar,115.90091148558247,Blackeberg
+2015-03-11,Holbergsgatan 38,Blackeberg,Grön Hässelby,1,41,2,Lägenhet,1951,[Bromma Blackeberg],1690000,260000,1950000,1923,Notar,342.7290699681452,Blackeberg
+2015-03-11,Björnsonsgatan 120,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1951,[Bromma],1895000,355000,2250000,2937,Mäklarhuset,253.02167979542023,Blackeberg
+2015-03-04,Arvid Mörnes väg 46,Blackeberg,Grön Hässelby,1.5,43,1.5,Lägenhet,1952,[Bromma Blackeberg],1290000,575000,1865000,2375,Notar,500.2491539528032,Blackeberg
+2015-03-04,Björnsonsgatan 142,Blackeberg,Grön Hässelby,1,31,8.5,Lägenhet,1959,[Bromma Blackeberg],1490000,375000,1865000,1554,Notar,97.59296561226314,Blackeberg
+2015-03-04,Drachmannsgatan 15,Blackeberg,Grön Hässelby,1,30,1,Lägenhet,1951,[Bromma Blackeberg],1290000,410000,1700000,1387,Notar,291.8079488337208,Islandstorget
+2015-03-04,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,2004,[Bromma Blackeberg],2390000,310000,2700000,4332,Notar,239.86599982972416,Blackeberg
+2015-03-04,Holbergsgatan 148,Blackeberg,Grön Hässelby,3.5,69,2,Lägenhet,1952,[Bromma Blackeberg],2190000,470000,2660000,3610,Notar,440.86893432877,Blackeberg
+2015-03-04,Arvid Mörnes väg 60,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,1952,[Bromma Blackeberg],2095000,355000,2450000,3503,Notar,399.6349169991399,Blackeberg
+2015-03-04,Björnsonsgatan 329,Blackeberg,Grön Hässelby,2,66,3,Lägenhet,1996,[Blackeberg],1895000,0,1895000,5038,Länsförsäkringar Fastighetsförmedling,258.49322366818086,Blackeberg
+2015-03-01,Wergelandsgatan 14,Blackeberg,Grön Hässelby,4,83,3,Lägenhet,1951,[Bromma],2795000,0,2795000,4166,Gripsholms Fastighetsförmedling,98.195239701653,Blackeberg
+2015-02-26,Wergelandsgatan 26,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1956,[Bromma Blackeberg],1895000,175000,2070000,3045,Mäklarringen,90.15420022848514,Blackeberg
+2015-02-16,Blackebergsplan 10,Blackeberg,Grön Hässelby,2,70,4,Lägenhet,2001,[Bromma Blackeberg],1890000,0,1890000,4505,Notar,64.78745787617805,Blackeberg
+2015-02-12,Holbergsgatan 75,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1952,[Bromma],2295000,180000,2475000,4250,SkandiaMäklarna,296.76256220605796,Blackeberg
+2015-02-12,Nickelgränd 10,Blackeberg,Grön Hässelby,5,149,8,Lägenhet,1958,[Vällingby-Råcksta],2995000,225000,3220000,6605,Magnusson Mäkleri,151.82256408063617,Racksta
+2015-02-11,Sigrid Undsets gata 30,Blackeberg,Grön Hässelby,4,85,2,Lägenhet,1951,[Bromma Blackeberg],2790000,80000,2870000,4266,Notar,211.42761500662743,Blackeberg
+2015-02-10,Björnsonsgatan 138,Blackeberg,Grön Hässelby,1,31,5,Lägenhet,1959,[Blackeberg],1495000,250000,1745000,1554,Länsförsäkringar Fastighetsförmedling,179.76857629062306,Blackeberg
+2015-02-10,Holbergsgatan 116,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],1890000,210000,2100000,3162,Notar,346.18541213417063,Blackeberg
+2015-02-05,Nickelgränd 12,Blackeberg,Grön Hässelby,3,78,1,Lägenhet,1998,[Vällingby],1750000,100000,1850000,5786,Svenska Mäklarhuset,219.6074010767971,Racksta
+2015-02-02,Nickelgränd 10,Blackeberg,Grön Hässelby,3,76,3,Lägenhet,1958,[Vällingby],2250000,420000,2670000,3395,Mäklarhuset,151.82256408063617,Racksta
+2015-01-31,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,7,Lägenhet,2004,[Bromma Blackeberg],2390000,0,2390000,4332,Notar,301.1810929388143,Blackeberg
+2015-01-31,Elias Lönnrots väg 9,Blackeberg,Grön Hässelby,3,71,2,Lägenhet,1952,[Bromma Blackeberg],2290000,340000,2630000,3750,Notar,240.16789568224428,Blackeberg
+2015-01-31,Björnsonsgatan 138,Blackeberg,Grön Hässelby,3,71,8,Lägenhet,1959,[Bromma Blackeberg],2190000,110000,2300000,3559,Notar,179.76857629062306,Blackeberg
+2015-01-31,Karen Blixens gata 7,Blackeberg,Grön Hässelby,3,77,null,Lägenhet,2014,[Blackeberg],2695000,55000,2750000,4448,Fastighetsbyrån,532.8477869057043,Blackeberg
+2015-01-29,Björnsonsgatan 126,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma],1750000,510000,2260000,2866,BOSTHLM,226.73207987183835,Blackeberg
+2015-01-16,Björnsonsgatan 116,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1951,[Bromma],1895000,265000,2160000,2866,BOSTHLM,275.7787557362239,Blackeberg
+2015-01-16,Grundtvigsgatan 9,Blackeberg,Grön Hässelby,2,52,3,Lägenhet,1951,[Bromma],1795000,335000,2130000,2076,Svenska Mäklarhuset,353.66409113402335,Islandstorget
+2015-01-15,Grundtvigsgatan 3,Blackeberg,Grön Hässelby,2,52,3,Lägenhet,1951,[Bromma],2165000,0,2165000,2076,Svensk Fastighetsförmedling,384.89713569153537,Islandstorget
+2015-01-15,Björnsonsgatan 142,Blackeberg,Grön Hässelby,3,71,5,Lägenhet,1959,[Bromma Blackeberg],2190000,270000,2460000,3559,Notar,97.59296561226314,Blackeberg
+2015-01-09,Elias Lönnrots väg 25,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],1750000,500000,2250000,2785,Notar,319.6372128032359,Blackeberg
+2015-01-09,Arvid Mörnes väg 42,Blackeberg,Grön Hässelby,1,33,null,Lägenhet,1952,[Bromma Blackeberg],1475000,25000,1500000,1900,Notar,512.7135847420657,Blackeberg
+2014-12-24,Nickelgränd 10,Blackeberg,Grön Hässelby,3,76,3,Lägenhet,1958,[Vällingby],2500000,-100000,2400000,3328,Fastighetsbyrån,151.82256408063617,Racksta
+2014-12-15,Arvid Mörnes väg 40,Blackeberg,Grön Hässelby,1,33,null,Lägenhet,1952,[Bromma Blackeberg],1375000,150000,1525000,1900,Mäklarringen,515.7380800062183,Blackeberg
+2014-12-09,Nickelgränd 10,Blackeberg,Grön Hässelby,3,75,2,Lägenhet,1958,[Vällingby],2195000,425000,2620000,3284,Mäklarhuset,151.82256408063617,Racksta
+2014-12-07,Elias Lönnrots väg 19,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],1850000,500000,2350000,2785,Notar,283.75785008741553,Blackeberg
+2014-12-03,Drachmannsgatan 24,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,1951,[Bromma],2195000,0,2195000,4340,Svensk Fastighetsförmedling,272.14413638608386,Islandstorget
+2014-12-03,Holbergsgatan 122,Blackeberg,Grön Hässelby,2,59,0.5,Lägenhet,1952,[Bromma Blackeberg],1790000,110000,1900000,3040,Notar,339.5117128255472,Blackeberg
+2014-12-03,Elias Lönnrots väg 15,Blackeberg,Grön Hässelby,2,59,0.5,Lägenhet,1952,[Bromma Blackeberg],1750000,410000,2160000,2785,Notar,263.6075012319074,Blackeberg
+2014-12-02,Arvid Mörnes väg 36,Blackeberg,Grön Hässelby,1,33,1,Lägenhet,1952,[Bromma Blackeberg],1475000,85000,1560000,1900,Mäklarringen,518.0830487004353,Blackeberg
+2014-11-28,Drachmannsgatan 15,Blackeberg,Grön Hässelby,2,55,2,Lägenhet,1951,[Bromma Blackeberg],1490000,520000,2010000,2209,Notar,291.8079488337208,Islandstorget
+2014-11-28,Holbergsgatan 46,Blackeberg,Grön Hässelby,2,54,3,Lägenhet,1952,[Bromma Blackeberg],1790000,810000,2600000,2326,Notar,262.88069596089093,Blackeberg
+2014-11-21,Björnsonsgatan 142,Blackeberg,Grön Hässelby,2,57,3.5,Lägenhet,1951,[Bromma Blackeberg],1690000,310000,2000000,2857,Notar,97.59296561226314,Blackeberg
+2014-11-20,Björnsonsgatan 140,Blackeberg,Grön Hässelby,2,57,4.5,Lägenhet,1951,[Bromma Blackeberg],1790000,210000,2000000,2857,Notar,133.54801572957282,Blackeberg
+2014-11-20,Holbergsgatan 104,Blackeberg,Grön Hässelby,1,42,3,Lägenhet,1952,[Bromma Blackeberg],1490000,150000,1640000,2383,Notar,285.6516197495248,Blackeberg
+2014-11-17,Elias Lönnrots väg 11,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma],1695000,165000,1860000,2955,Hemverket,237.05920836239562,Blackeberg
+2014-11-14,Sigrid Undsets gata 32,Blackeberg,Grön Hässelby,3,69,0.5,Lägenhet,1951,[Bromma Blackeberg],2190000,85000,2275000,3464,Notar,209.88384897528377,Blackeberg
+2014-11-13,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,8,Lägenhet,2005,[Bromma],2490000,0,2490000,4332,SkandiaMäklarna,239.86599982972416,Blackeberg
+2014-11-13,Holbergsgatan 90,Blackeberg,Grön Hässelby,2,44,3,Lägenhet,2005,[Bromma Blackeberg],1590000,390000,1980000,2762,Notar,239.86599982972416,Blackeberg
+2014-11-13,Holbergsgatan 69,Blackeberg,Grön Hässelby,3,69,1.5,Lägenhet,1951,[Bromma],2195000,280000,2475000,4047,Mäklarhuset,259.5412509963527,Blackeberg
+2014-11-13,Holbergsgatan 132,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],1790000,155000,1945000,3040,Notar,406.8076505927457,Blackeberg
+2014-11-12,Holbergsgatan 134,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Blackeberg],1790000,230000,2020000,3040,Fastighetsbyrån,417.65309972401906,Blackeberg
+2014-11-12,Holbergsgatan 98,Blackeberg,Grön Hässelby,1.5,42,null,Lägenhet,1952,[Blackeberg],1595000,155000,1750000,2383,Fastighetsbyrån,300.3572073473157,Blackeberg
+2014-10-31,Arvid Mörnes väg 58,Blackeberg,Grön Hässelby,1,24,2,Lägenhet,1951,[Bromma Blackeberg],1275000,85000,1360000,1551,Mäklarringen,413.3651472002305,Blackeberg
+2014-10-31,Grundtvigsgatan 7,Blackeberg,Grön Hässelby,2,52,2,Lägenhet,null,[Bromma],1795000,185000,1980000,2076,Svensk Fastighetsförmedling,359.26045917573845,Islandstorget
+2014-10-30,Sigrid Undsets gata 4,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,1951,[Bromma Blackeberg],1790000,230000,2020000,2209,Notar,331.7483157985339,Islandstorget
+2014-10-29,Holbergsgatan 132,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma Blackeberg],1790000,345000,2135000,3040,Notar,406.8076505927457,Blackeberg
+2014-10-27,Björnsonsgatan 138,Blackeberg,Grön Hässelby,3,71,5,Lägenhet,1952,[Bromma Blackeberg],2190000,230000,2420000,3559,Notar,179.76857629062306,Blackeberg
+2014-10-23,Elias Lönnrots väg 15,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],1595000,295000,1890000,2785,Notar,263.6075012319074,Blackeberg
+2014-10-23,Elias Lönnrots väg 11,Blackeberg,Grön Hässelby,4,81,2,Lägenhet,1952,[Bromma],2195000,-45000,2150000,3986,BOSTHLM,237.05920836239562,Blackeberg
+2014-10-22,Holbergsgatan 77,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,null,[Bromma],1790000,220000,2010000,3545,Svensk Fastighetsförmedling,273.48889327765727,Blackeberg
+2014-10-21,Ibsengatan 74,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1951,[Bromma],1800000,20000,1820000,2732,Fabergé Fastighetsmäkleri,353.6899147884279,Blackeberg
+2014-10-21,Nickelgränd 10,Blackeberg,Grön Hässelby,3,75,6,Lägenhet,1958,[Vällingby],2195000,175000,2370000,3285,Svenska Mäklarhuset,151.82256408063617,Racksta
+2014-10-21,Nickelgränd 4,Blackeberg,Grön Hässelby,3,75,null,Lägenhet,1958,[Vällingby],2195000,255000,2450000,3285,Svenska Mäklarhuset,260.61449197386446,Racksta
+2014-10-17,Ibsengatan 78,Blackeberg,Grön Hässelby,2,54,3,Lägenhet,1951,[Bromma Blackeberg],1690000,250000,1940000,2500,Notar,325.62260623847214,Blackeberg
+2014-10-17,Holbergsgatan 69,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,1951,[Blackeberg],2395000,-100000,2295000,4047,Fastighetsbyrån,259.5412509963527,Blackeberg
+2014-10-16,Holbergsgatan 142,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma],1695000,50000,1745000,3040,Svenska Mäklarhuset,409.34368805066214,Blackeberg
+2014-10-16,Elias Lönnrots väg 3,Blackeberg,Grön Hässelby,3,59,null,Lägenhet,1952,[Blackeberg],1695000,405000,2100000,2955,Fastighetsbyrån,216.33216128212428,Blackeberg
+2014-10-10,Drachmannsgatan 14,Blackeberg,Grön Hässelby,3,67,3,Lägenhet,1952,[Bromma],1995000,85000,2080000,4340,BOSTHLM,289.9567859418566,Islandstorget
+2014-10-07,Björnsonsgatan 140,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,1952,[Bromma Blackeberg],2190000,280000,2470000,3559,Notar,133.54801572957282,Blackeberg
+2014-10-06,Holbergsgatan 73,Blackeberg,Grön Hässelby,3,69,0.5,Lägenhet,1952,[Bromma Blackeberg],1990000,10000,2000000,4047,Notar,285.06010830359713,Blackeberg
+2014-10-05,Elias Lönnrots väg 5,Blackeberg,Grön Hässelby,3,71,1,Lägenhet,1953,[Bromma],2100000,0,2100000,3517,Mäklarhuset,221.72841242295146,Blackeberg
+2014-10-03,Holbergsgatan 200,Blackeberg,Grön Hässelby,5,101,null,Lägenhet,null,[Bromma],4100000,0,4100000,5218,Svensk Fastighetsförmedling,700.6177204657383,Blackeberg
+2014-10-02,Nickelgränd 12,Blackeberg,Grön Hässelby,2,64,4,Lägenhet,null,[Vällingby],1495000,170000,1665000,4945,Svensk Fastighetsförmedling,219.6074010767971,Racksta
+2014-10-02,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,7,Lägenhet,2005,[Bromma Blackeberg],2390000,60000,2450000,4332,Notar,301.1810929388143,Blackeberg
+2014-10-02,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,1.5,Lägenhet,1952,[Bromma Blackeberg],1490000,60000,1550000,1554,Notar,133.54801572957282,Blackeberg
+2014-10-02,Karen Blixens gata 13,Blackeberg,Grön Hässelby,5,107,4,Lägenhet,2014,[Bromma Blackeberg],3490000,485000,3975000,5625,Notar,580.3484269407105,Blackeberg
+2014-10-02,Björnsonsgatan 162,Blackeberg,Grön Hässelby,4,96,4,Lägenhet,1996,[Bromma Blackeberg],3295000,155000,3450000,4657,HusmanHagberg,261.7189758404191,Blackeberg
+2014-10-02,Sigrid Undsets gata 30,Blackeberg,Grön Hässelby,1,41,2,Lägenhet,null,[Bromma],1800000,0,1800000,2058,Svensk Fastighetsförmedling,211.42761500662743,Blackeberg
+2014-10-01,Nickelgränd 4,Blackeberg,Grön Hässelby,3,76,3,Lägenhet,1958,[Vällingby],1995000,55000,2050000,3284,Fastighetsbyrån,260.61449197386446,Racksta
+2014-09-21,Arvid Mörnes väg 38,Blackeberg,Grön Hässelby,1,26,1,Lägenhet,1952,[Blackeberg],1250000,180000,1430000,1497,Länsförsäkringar Fastighetsförmedling,517.0495063785984,Blackeberg
+2014-09-20,Drachmannsgatan 36,Blackeberg,Grön Hässelby,2,70,3,Lägenhet,1993,[Bromma Blackeberg],1590000,270000,1860000,4874,Notar,259.8622122993593,Islandstorget
+2014-09-18,Drachmannsgatan 24,Blackeberg,Grön Hässelby,2,54,3,Lägenhet,1951,[Bromma Blackeberg],1795000,135000,1930000,3498,HusmanHagberg,272.14413638608386,Islandstorget
+2014-09-15,Ibsengatan 58,Blackeberg,Grön Hässelby,2,61,3,Lägenhet,1952,[Blackeberg],1800000,100000,1900000,2824,Husfokus Mäklarbyrå,369.8159435360952,Blackeberg
+2014-09-11,Holbergsgatan 118,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Blackeberg],1650000,280000,1930000,3040,Fastighetsbyrån,355.1152763969099,Blackeberg
+2014-09-11,Nickelgränd 14,Blackeberg,Grön Hässelby,2,64,1,Lägenhet,1998,[Råcksta],1450000,45000,1495000,4857,SverigeMäklaren,199.47471482784223,Racksta
+2014-09-10,Johan Tillanders väg 39,Blackeberg,Grön Hässelby,4,85.5,2,Lägenhet,null,[Bromma],3150000,200000,3350000,4703,Svensk Fastighetsförmedling,809.5126308034052,Blackeberg
+2014-09-09,Nickelgränd 4,Blackeberg,Grön Hässelby,3,75,5,Lägenhet,1958,[Vällingby],2095000,345000,2440000,3259,Svenska Mäklarhuset,260.61449197386446,Racksta
+2014-09-05,Holbergsgatan 140,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma],1790000,235000,2025000,3040,Erik Olsson Fastighetsförmedling,389.087257437888,Blackeberg
+2014-09-05,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,9,Lägenhet,2005,[Bromma Blackeberg],2390000,310000,2700000,4332,Notar,239.86599982972416,Blackeberg
+2014-09-03,Holbergsgatan 77,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],1790000,310000,2100000,3545,Notar,273.48889327765727,Blackeberg
+2014-09-03,Sigrid Undsets gata 10,Blackeberg,Grön Hässelby,2,55,0.5,Lägenhet,1951,[Bromma Blackeberg],1690000,280000,1970000,2209,Notar,331.47807448080255,Blackeberg
+2014-09-03,Nickelgränd 10,Blackeberg,Grön Hässelby,3,76,4,Lägenhet,1958,[Vällingby],1995000,355000,2350000,3328,Mäklarhuset,151.82256408063617,Racksta
+2014-08-29,Holbergsgatan 191,Blackeberg,Grön Hässelby,3,80,null,Radhus,1951,[Blackeberg],3795000,25000,3820000,4194,Fastighetsbyrån,679.8347506365686,Islandstorget
+2014-08-28,Björnsonsgatan 120,Blackeberg,Grön Hässelby,4,114,2,Lägenhet,1952,[Bromma Blackeberg],2990000,135000,3125000,5536,Notar,253.02167979542023,Blackeberg
+2014-08-27,Grundtvigsgatan 5,Blackeberg,Grön Hässelby,2,52,2,Lägenhet,1952,[Bromma Blackeberg],1750000,160000,1910000,2076,Notar,371.0961335721173,Islandstorget
+2014-08-26,Holbergsgatan 121,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1952,[Bromma Blackeberg],2190000,0,2190000,3880,Notar,478.3698019931892,Blackeberg
+2014-08-25,Holbergsgatan 125,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,1952,[Bromma],1995000,145000,2140000,3880,Erik Olsson Fastighetsförmedling,507.6956625812404,Blackeberg
+2014-08-21,Björnsonsgatan 164,Blackeberg,Grön Hässelby,5,124,4,Lägenhet,null,[Bromma],3490000,-40000,3450000,6016,Svensk Fastighetsförmedling,256.15795632175804,Blackeberg
+2014-08-21,Björnsonsgatan 58,Blackeberg,Grön Hässelby,2,49,6,Lägenhet,2005,[Bromma Blackeberg],1690000,160000,1850000,3124,Notar,301.1810929388143,Blackeberg
+2014-08-20,Björnsonsgatan 140,Blackeberg,Grön Hässelby,2,57,null,Lägenhet,1952,[Bromma Blackeberg],1690000,240000,1930000,2857,Notar,133.54801572957282,Blackeberg
+2014-08-20,Holbergsgatan 131,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],1790000,60000,1850000,3398,Notar,534.2135190877915,Islandstorget
+2014-08-20,Holbergsgatan 135,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma Blackeberg],1790000,30000,1820000,3398,Notar,541.777197781768,Blackeberg
+2014-08-18,Björnsonsgatan 118,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1951,[Bromma],1880000,0,1880000,2865,BOSTHLM,265.43389620372426,Blackeberg
+2014-08-15,Holbergsgatan 52,Blackeberg,Grön Hässelby,2,57,2,Lägenhet,null,[Bromma Blackeberg],1690000,290000,1980000,2862,Notar,192.83131642484227,Blackeberg
+2014-08-15,Grundtvigsgatan 11,Blackeberg,Grön Hässelby,3,66,0.5,Lägenhet,1951,[Bromma Blackeberg],1890000,530000,2420000,2635,Notar,361.1194448632351,Islandstorget
+2014-08-15,Wergelandsgatan 6,Blackeberg,Grön Hässelby,2,58,2,Lägenhet,1951,[Bromma Blackeberg],1700000,200000,1900000,2912,Mäklarringen,146.28321059302456,Blackeberg
+2014-08-14,Nickelgränd 10,Blackeberg,Grön Hässelby,3,75,5,Lägenhet,1958,[Vällingby],1995000,195000,2190000,3284,Mäklarhuset,151.82256408063617,Racksta
+2014-08-14,Holbergsgatan 114,Blackeberg,Grön Hässelby,2,59,0.5,Lägenhet,1952,[Bromma Blackeberg],1690000,0,1690000,3040,Notar,343.02103330187043,Blackeberg
+2014-08-13,Holbergsgatan 110,Blackeberg,Grön Hässelby,2,59,4,Lägenhet,1952,[Bromma Blackeberg],1690000,190000,1880000,3040,Notar,325.23323972782583,Blackeberg
+2014-07-18,Holbergsgatan 52,Blackeberg,Grön Hässelby,3,76,null,Lägenhet,1951,[Bromma],2350000,0,2350000,3814,SkandiaMäklarna,192.83131642484227,Blackeberg
+2014-07-18,Ibsengatan 80,Blackeberg,Grön Hässelby,2,54,4,Lägenhet,1951,[Bromma Blackeberg],1690000,285000,1975000,2500,Notar,312.761673126203,Blackeberg
+2014-07-18,Björnsonsgatan 130,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma Blackeberg],1695000,105000,1800000,2865,Notar,198.34042851541847,Blackeberg
+2014-07-17,Arvid Mörnes väg 58,Blackeberg,Grön Hässelby,3,69,0.5,Lägenhet,1951,[Bromma Blackeberg],2190000,260000,2450000,3503,Notar,413.3651472002305,Blackeberg
+2014-07-10,Björnsonsgatan 58,Blackeberg,Grön Hässelby,2,49,2,Lägenhet,2005,[Bromma Blackeberg],1590000,160000,1750000,3124,Notar,301.1810929388143,Blackeberg
+2014-07-04,Holbergsgatan 112,Blackeberg,Grön Hässelby,2,59,0.5,Lägenhet,1952,[Bromma Blackeberg],1690000,210000,1900000,3040,Notar,328.38690406176715,Blackeberg
+2014-07-04,Holbergsgatan 130,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma Blackeberg],1690000,0,1690000,3040,Notar,396.51252838637015,Blackeberg
+2014-07-04,Björnsonsgatan 142,Blackeberg,Grön Hässelby,2,57,2.5,Lägenhet,1951,[Bromma Blackeberg],1590000,60000,1650000,2857,Notar,97.59296561226314,Blackeberg
+2014-07-04,Holbergsgatan 120,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,1952,[Bromma Blackeberg],1690000,50000,1740000,3040,Notar,318.47780838902844,Blackeberg
+2014-06-30,Drachmannsgatan 4,Blackeberg,Grön Hässelby,4.5,99,6,Lägenhet,null,[Bromma],null,NaN,4000000,5362,Svensk Fastighetsförmedling,352.5204466315453,Islandstorget
+2014-06-27,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Blackeberg],2395000,-95000,2300000,4332,Fastighetsbyrån,239.86599982972416,Blackeberg
+2014-06-27,Elias Lönnrots väg 5,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,1952,[Blackeberg],1995000,-95000,1900000,3327,Fastighetsbyrån,221.72841242295146,Blackeberg
+2014-06-27,Elias Lönnrots väg 9,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,null,[Bromma],1995000,-55000,1940000,3327,SkandiaMäklarna,240.16789568224428,Blackeberg
+2014-06-19,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,3.5,Lägenhet,1952,[Bromma Blackeberg],1350000,370000,1720000,1554,Notar,133.54801572957282,Blackeberg
+2014-06-19,Holbergsgatan 69,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,1951,[Blackeberg],1950000,-100000,1850000,4047,Fastighetsbyrån,259.5412509963527,Blackeberg
+2014-06-13,Holbergsgatan 130,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Blackeberg],1695000,0,1695000,3040,Fastighetsbyrån,396.51252838637015,Blackeberg
+2014-06-12,Elias Lönnrots väg 13,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,1952,[Bromma],1895000,40000,1935000,2785,Svenska Mäklarhuset,252.24219324225382,Blackeberg
+2014-06-12,Sigrid Undsets gata 32,Blackeberg,Grön Hässelby,3,69,1,Lägenhet,null,[Bromma],1895000,-95000,1800000,3464,Svensk Fastighetsförmedling,209.88384897528377,Blackeberg
+2014-06-09,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,9,Lägenhet,2005,[Bromma Blackeberg],2390000,260000,2650000,4332,Notar,239.86599982972416,Blackeberg
+2014-06-04,Björnsonsgatan 120,Blackeberg,Grön Hässelby,4,114,null,Lägenhet,1952,[Bromma Blackeberg],2995000,10000,3005000,5536,Notar,253.02167979542023,Blackeberg
+2014-06-02,Björnsonsgatan 335,Blackeberg,Grön Hässelby,2,85.5,null,Lägenhet,1996,[Blackeberg],1795000,135000,1930000,6725,Fastighetsbyrån,291.75403517896655,Blackeberg
+2014-06-01,Holbergsgatan 81,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,null,[Bromma],2190000,150000,2340000,4047,Svensk Fastighetsförmedling,305.7139271263734,Blackeberg
+2014-05-30,Holbergsgatan 20,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1951,[Bromma Blackeberg],1690000,160000,1850000,2176,Notar,304.90194031354093,Islandstorget
+2014-05-28,Björnsonsgatan 154,Blackeberg,Grön Hässelby,4,100,4,Lägenhet,null,[Bromma],2800000,50000,2850000,4410,Svensk Fastighetsförmedling,195.0255070633561,Blackeberg
+2014-05-28,Sigrid Undsets gata 12,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,1951,[Bromma Blackeberg],1695000,255000,1950000,2209,HusmanHagberg,331.5691943719078,Blackeberg
+2014-05-28,Elias Lönnrots väg 23,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma Blackeberg],1695000,152215,1847215,2785,Notar,307.19240739828797,Blackeberg
+2014-05-23,Björnsonsgatan 138,Blackeberg,Grön Hässelby,1,37,null,Lägenhet,1952,[Bromma Blackeberg],1150000,305000,1455000,1855,Notar,179.76857629062306,Blackeberg
+2014-05-23,Holbergsgatan 123,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1952,[Bromma Blackeberg],1990000,210000,2200000,3880,Notar,483.08888348095326,Blackeberg
+2014-05-23,Björnsonsgatan 142,Blackeberg,Grön Hässelby,2,57,null,Lägenhet,1952,[Blackeberg],1695000,155000,1850000,2859,Fastighetsbyrån,97.59296561226314,Blackeberg
+2014-05-22,Nickelgränd 4,Blackeberg,Grön Hässelby,1,20,null,Lägenhet,1958,[Vällingby],950000,200000,1150000,876,Svenska Mäklarhuset,260.61449197386446,Racksta
+2014-05-19,Wergelandsgatan 14,Blackeberg,Grön Hässelby,3,66,0.5,Lägenhet,1951,[Bromma],1995000,0,1995000,3313,Svenska Mäklarhuset,98.195239701653,Blackeberg
+2014-05-19,Sigrid Undsets gata 24,Blackeberg,Grön Hässelby,3,72,null,Lägenhet,1951,[Blackeberg],2295000,0,2295000,2768,Länsförsäkringar Fastighetsförmedling,244.80774582037444,Blackeberg
+2014-05-09,Ibsengatan 76,Blackeberg,Grön Hässelby,4,87,null,Lägenhet,1951,[Bromma Blackeberg],2395000,10000,2405000,4028,Notar,339.9285745926881,Blackeberg
+2014-05-09,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Blackeberg],2395000,15000,2410000,4332,Fastighetsbyrån,301.1810929388143,Blackeberg
+2014-05-04,Elias Lönnrots väg 9,Blackeberg,Grön Hässelby,3,71,1,Lägenhet,1952,[Bromma Blackeberg],2095000,30000,2125000,3327,Mäklarringen,240.16789568224428,Blackeberg
+2014-05-02,Nickelgränd 8,Blackeberg,Grön Hässelby,3,76,3,Lägenhet,1958,[Vällingby],1850000,50000,1900000,3328,Mäklarringen,177.98950836555386,Racksta
+2014-04-25,Björnsonsgatan 162,Blackeberg,Grön Hässelby,2,62,1,Lägenhet,1995,[Bromma Blackeberg],1995000,25000,2020000,2734,HusmanHagberg,261.7189758404191,Blackeberg
+2014-04-24,Drachmannsgatan 20,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1951,[Bromma],1695000,235000,1930000,3369,Svenska Mäklarhuset,278.74742773275807,Islandstorget
+2014-04-23,Holbergsgatan 32,Blackeberg,Grön Hässelby,3,66,1,Lägenhet,1951,[Bromma Blackeberg],1995000,335000,2330000,2571,Mäklarringen,335.64209810738265,Blackeberg
+2014-04-17,Johan Tillanders väg 12,Blackeberg,Grön Hässelby,2,62.5,null,Lägenhet,null,[Blackeberg],1995000,-65000,1930000,3462,Fastighetsbyrån,744.2916809283623,Blackeberg
+2014-04-15,Björnsonsgatan 142,Blackeberg,Grön Hässelby,1,31,null,Lägenhet,1952,[Blackeberg],1295000,345000,1640000,1554,Fastighetsbyrån,97.59296561226314,Blackeberg
+2014-04-11,Holbergsgatan 144,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma Blackeberg],1690000,110000,1800000,3040,Notar,420.4304105503548,Blackeberg
+2014-04-11,Drachmannsgatan 24,Blackeberg,Grön Hässelby,3,67,2,Lägenhet,1951,[Bromma Blackeberg],1990000,110000,2100000,4340,Notar,272.14413638608386,Islandstorget
+2014-04-04,Ibsengatan 54,Blackeberg,Grön Hässelby,2.5,61,1,Lägenhet,1951,[Bromma Blackeberg],1695000,235000,1930000,2824,Notar,341.08539858510926,Blackeberg
+2014-04-04,Björnsonsgatan 155,Blackeberg,Grön Hässelby,6,105,null,Radhus,1952,[Bromma],5130009,0,5130009,5139,Bjurfors,480.9474269146228,Blackeberg
+2014-04-02,Ibsengatan 80,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1951,[Bromma Blackeberg],1650000,120000,1770000,2500,Notar,312.761673126203,Blackeberg
+2014-04-02,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,1,Lägenhet,1952,[Bromma Blackeberg],1290000,220000,1510000,1554,Notar,133.54801572957282,Blackeberg
+2014-04-02,Sigrid Undsets gata 4,Blackeberg,Grön Hässelby,3,66,2,Lägenhet,1951,[Bromma Blackeberg],2190000,45000,2235000,2571,Notar,331.7483157985339,Islandstorget
+2014-03-28,Holbergsgatan 22,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1951,[Blackeberg],1695000,15000,1710000,2176,Restate,318.41266738095584,Islandstorget
+2014-03-21,Arvid Mörnes väg 56,Blackeberg,Grön Hässelby,2.5,66,null,Lägenhet,1951,[Bromma Blackeberg],1850000,149999,1999999,3307,Notar,424.40863946519397,Blackeberg
+2014-03-20,Holbergsgatan 124,Blackeberg,Grön Hässelby,4,115,2,Lägenhet,1952,[Bromma],2995000,0,2995000,5094,Erik Olsson Fastighetsförmedling,347.55469210605713,Blackeberg
+2014-03-20,Holbergsgatan 148,Blackeberg,Grön Hässelby,3,69,3,Lägenhet,1952,[Bromma Blackeberg],2100000,-70000,2030000,3471,Notar,440.86893432877,Blackeberg
+2014-03-19,Ibsengatan 54,Blackeberg,Grön Hässelby,3,67,3,Lägenhet,null,[Blackeberg],1995000,75000,2070000,3102,Svensk Fastighetsförmedling,341.08539858510926,Blackeberg
+2014-03-17,Ibsengatan 64,Blackeberg,Grön Hässelby,2,54,null,Lägenhet,1951,[Bromma Blackeberg],1650000,20000,1670000,2500,Notar,390.4963337923775,Blackeberg
+2014-03-17,Björnsonsgatan 138,Blackeberg,Grön Hässelby,2,57,8,Lägenhet,1952,[Bromma Blackeberg],1690000,510000,2200000,2857,Notar,179.76857629062306,Blackeberg
+2014-03-17,Holbergsgatan 125,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1952,[Bromma Blackeberg],1990000,320000,2310000,3880,Notar,507.6956625812404,Blackeberg
+2014-03-11,Johan Tillanders väg 37,Blackeberg,Grön Hässelby,4,85.5,2,Lägenhet,null,[Bromma],2850000,0,2850000,4703,Svensk Fastighetsförmedling,822.747897082389,Blackeberg
+2014-03-07,Ibsengatan 66,Blackeberg,Grön Hässelby,3,70,null,Lägenhet,1951,[Bromma Blackeberg],1895000,35000,1930000,3241,Notar,365.7658153936142,Blackeberg
+2014-03-06,Holbergsgatan 36,Blackeberg,Grön Hässelby,1,41,0.5,Lägenhet,1951,[Blackeberg],1550000,0,1550000,1748,Restate,340.22245262937247,Blackeberg
+2014-03-04,Elias Lönnrots väg 17,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma],1695000,105000,1800000,2785,BOSTHLM,270.2167382919995,Blackeberg
+2014-03-03,Nickelgränd 10,Blackeberg,Grön Hässelby,3,75,null,Lägenhet,1958,[Vällingby],1795000,265000,2060000,2986,Svenska Mäklarhuset,151.82256408063617,Racksta
+2014-02-26,Ibsengatan 62,Blackeberg,Grön Hässelby,3,71,2,Lägenhet,1952,[Bromma],1995000,215000,2210000,3288,BOSTHLM,399.4253897708687,Blackeberg
+2014-02-19,Björnsonsgatan 126,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma],1695000,125000,1820000,2782,BOSTHLM,226.73207987183835,Blackeberg
+2014-02-19,Björnsonsgatan 162,Blackeberg,Grön Hässelby,2,65,null,Lägenhet,1996,[Blackeberg],1700000,330000,2030000,2867,Svensk Fastighetsförmedling,261.7189758404191,Blackeberg
+2014-02-18,Ibsengatan 84,Blackeberg,Grön Hässelby,2,54,9,Lägenhet,1951,[Bromma Blackeberg],1595000,155000,1750000,2500,Notar,284.2433511722041,Blackeberg
+2014-02-15,Björnsonsgatan 71,Blackeberg,Grön Hässelby,5,101,2,Lägenhet,1952,[Bromma Blackeberg],3990000,135000,4125000,5218,Notar,576.3429685695766,Blackeberg
+2014-02-15,Björnsonsgatan 333,Blackeberg,Grön Hässelby,3,71,1,Lägenhet,1997,[Bromma],1795000,55000,1850000,5286,Mäklarhuset,293.7373525803945,Blackeberg
+2014-02-13,Holbergsgatan 34,Blackeberg,Grön Hässelby,3,66,2,Lägenhet,1951,[Bromma Blackeberg],1995000,315000,2310000,2571,Mäklarringen,344.5735597502588,Blackeberg
+2014-02-12,Elias Lönnrots väg 9,Blackeberg,Grön Hässelby,1,23,null,Lägenhet,1952,[Bromma Blackeberg],995000,305000,1300000,1078,Notar,240.16789568224428,Blackeberg
+2014-02-12,Drachmannsgatan 16,Blackeberg,Grön Hässelby,2,54,3,Lägenhet,null,[Bromma],1495000,395000,1890000,3332,Bjurfors,284.5496300549911,Islandstorget
+2014-02-11,Nickelgränd 16,Blackeberg,Grön Hässelby,3,78,3,Lägenhet,1998,[Vällingby Råcksta],1675000,230000,1905000,5841,ERA,243.800683982832,Racksta
+2014-02-07,Ibsengatan 66,Blackeberg,Grön Hässelby,3,70,1,Lägenhet,1951,[Bromma Blackeberg],1995000,375000,2370000,3241,Notar,365.7658153936142,Blackeberg
+2014-02-06,Nickelgränd 16,Blackeberg,Grön Hässelby,5,108.5,null,Lägenhet,1998,[Vällingby],1950000,60000,2010000,8011,Svenska Mäklarhuset,243.800683982832,Racksta
+2014-02-05,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,5,Lägenhet,1952,[Bromma Blackeberg],1350000,270000,1620000,1554,Notar,133.54801572957282,Blackeberg
+2014-02-03,Nickelgränd 18,Blackeberg,Grön Hässelby,2,67,1,Lägenhet,1998,[Vällingby Grimsta],1295000,105000,1400000,5010,HusmanHagberg,238.04994781491914,Racksta
+2014-01-29,Holbergsgatan 121,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,1952,[Bromma Blackeberg],1995000,265000,2260000,3880,Notar,478.3698019931892,Blackeberg
+2014-01-27,Sigrid Undsets gata 24,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,1951,[Bromma Blackeberg],2200000,110000,2310000,2669,Notar,244.80774582037444,Blackeberg
+2014-01-24,Grundtvigsgatan 25,Blackeberg,Grön Hässelby,3,70,1,Lägenhet,1952,[Bromma Blackeberg],2190000,280000,2470000,2715,Notar,404.8699175090936,Islandstorget
+2014-01-22,Nickelgränd 14,Blackeberg,Grön Hässelby,2,68,null,Lägenhet,1998,[Vällingby],1275000,245000,1520000,5164,Svenska Mäklarhuset,199.47471482784223,Racksta
+2014-01-20,Holbergsgatan 135,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Bromma Blackeberg],1595000,60000,1655000,3398,Notar,541.777197781768,Blackeberg
+2014-01-20,Björnsonsgatan 153,Blackeberg,Grön Hässelby,7,103,null,Radhus,1952,[Bromma],4200000,550000,4750000,null,HEM Fastighetsmäklare Sverige AB,483.12312389078994,Blackeberg
+2014-01-16,Arvid Mörnes väg 48,Blackeberg,Grön Hässelby,1,42,1,Lägenhet,1951,[Bromma],1450000,130000,1580000,2286,Svenska Mäklarhuset,489.9655181892453,Blackeberg
+2014-01-15,Ibsengatan 82,Blackeberg,Grön Hässelby,3,70,null,Lägenhet,1951,[Blackeberg],1850000,50000,1900000,3241,Svensk Fastighetsförmedling,300.37160642629203,Blackeberg
+2014-01-15,Sigrid Undsets gata 32,Blackeberg,Grön Hässelby,3,69,2,Lägenhet,1951,[Bromma],1875000,100000,1975000,3463,Mäklarhuset,209.88384897528377,Blackeberg
+2014-01-14,Grundtvigsgatan 13,Blackeberg,Grön Hässelby,2,60,null,Lägenhet,1951,[Bromma],1495000,395000,1890000,2395,Fastighetsbyrån,370.1103835557283,Islandstorget
+2014-01-10,Björnsonsgatan 116,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1951,[Bromma],1795000,-35000,1760000,2782,Fastighetsbyrån,275.7787557362239,Blackeberg
+2014-01-10,Ibsengatan 86,Blackeberg,Grön Hässelby,2.5,59,3,Lägenhet,1951,[Bromma Blackeberg],1595000,285000,1880000,2732,Notar,270.6033284459753,Blackeberg
+2014-01-10,Sigrid Undsets gata 14,Blackeberg,Grön Hässelby,2,55,null,Lägenhet,1951,[Bromma Blackeberg],1650000,220000,1870000,2209,Notar,312.05397663903125,Blackeberg
+2013-12-20,Sigrid Undsets gata 2,Blackeberg,Grön Hässelby,2,55,1.5,Lägenhet,1951,[Blackeberg],1750000,35000,1785000,2209,Restate,344.41027036520563,Blackeberg
+2013-12-17,Holbergsgatan 20,Blackeberg,Grön Hässelby,2,54,3,Lägenhet,1951,[Bromma],1500000,300000,1800000,2176,Svenska Mäklarhuset,304.90194031354093,Islandstorget
+2013-12-16,Holbergsgatan 57,Blackeberg,Grön Hässelby,2,70,null,Lägenhet,1994,[Bromma],1375000,100000,1475000,5554,Svenska Mäklarhuset,164.3080911279715,Blackeberg
+2013-12-14,Björnsonsgatan 120,Blackeberg,Grön Hässelby,4,114,1,Lägenhet,1952,[Bromma],2850000,175000,3025000,5375,BOSTHLM,253.02167979542023,Blackeberg
+2013-12-14,Wergelandsgatan 34,Blackeberg,Grön Hässelby,3,70,null,Lägenhet,1956,[Bromma],2125000,75000,2200000,3284,Fastighetsbyrån,111.15581644685582,Blackeberg
+2013-12-13,Arvid Mörnes väg 36,Blackeberg,Grön Hässelby,1,26,1,Lägenhet,1952,[Bromma Blackeberg],1100000,130000,1230000,1413,Mäklarringen,518.0830487004353,Blackeberg
+2013-12-12,Elias Lönnrots väg 17,Blackeberg,Grön Hässelby,5,127,3,Lägenhet,1952,[Bromma],2995000,335000,3330000,5535,BOSTHLM,270.2167382919995,Blackeberg
+2013-12-12,Björnsonsgatan 140,Blackeberg,Grön Hässelby,2,57,null,Lägenhet,1952,[Bromma Blackeberg],1490000,210000,1700000,2857,Notar,133.54801572957282,Blackeberg
+2013-12-10,Björnsonsgatan 329,Blackeberg,Grön Hässelby,2,35,2,Lägenhet,1996,[Bromma],1350000,0,1350000,2755,Mäklarhuset,258.49322366818086,Blackeberg
+2013-12-02,Holbergsgatan 153,Blackeberg,Grön Hässelby,3,81,null,Lägenhet,1952,[Bromma Blackeberg],2950000,255000,3205000,4043,Notar,617.4540787659635,Islandstorget
+2013-11-27,Elias Lönnrots väg 19,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma],1495000,305000,1800000,2785,BOSTHLM,283.75785008741553,Blackeberg
+2013-11-22,Sigrid Undsets gata 22,Blackeberg,Grön Hässelby,2,55,1.5,Lägenhet,1951,[Blackeberg],1695000,165000,1860000,2209,Restate,265.7540905717754,Blackeberg
+2013-11-16,Ibsengatan 64,Blackeberg,Grön Hässelby,2,54,0.5,Lägenhet,1951,[Bromma],1465000,90000,1555000,2500,Bjurfors,390.4963337923775,Blackeberg
+2013-11-13,Björnsonsgatan 337,Blackeberg,Grön Hässelby,3,83.5,2,Lägenhet,1996,[Bromma],1495000,25000,1520000,6152,Erik Olsson Fastighetsförmedling,304.0484914334659,Blackeberg
+2013-11-09,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Bromma],2295000,-45000,2250000,4332,Fastighetsbyrån,239.86599982972416,Blackeberg
+2013-11-08,Björnsonsgatan 152,Blackeberg,Grön Hässelby,2,62,null,Lägenhet,1996,[Bromma Blackeberg],1750000,0,1750000,2734,Mäklarringen,215.49798058242132,Blackeberg
+2013-11-05,Björnsonsgatan 138,Blackeberg,Grön Hässelby,2,57,null,Lägenhet,1952,[Bromma Blackeberg],1690000,-20000,1670000,2857,Notar,179.76857629062306,Blackeberg
+2013-10-29,Björnsonsgatan 140,Blackeberg,Grön Hässelby,2.5,74,null,Lägenhet,1952,[Bromma Blackeberg],2850000,700000,3550000,3709,Notar,133.54801572957282,Blackeberg
+2013-10-25,Arvid Mörnes väg 48,Blackeberg,Grön Hässelby,1,42,null,Lägenhet,1951,[Bromma Blackeberg],1395000,-95000,1300000,2286,Mäklarringen,489.9655181892453,Blackeberg
+2013-10-24,Elias Lönnrots väg 21,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma],1495000,305000,1800000,2785,BOSTHLM,293.3360587238892,Blackeberg
+2013-10-24,Holbergsgatan 110,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma Blackeberg],1595000,155000,1750000,3040,Notar,325.23323972782583,Blackeberg
+2013-10-18,Holbergsgatan 22,Blackeberg,Grön Hässelby,2,42,null,Lägenhet,1951,[Blackeberg],1195000,205000,1400000,1794,Restate,318.41266738095584,Islandstorget
+2013-10-18,Björnsonsgatan 331,Blackeberg,Grön Hässelby,4,85,null,Lägenhet,1996,[Bromma],1675000,280000,1955000,6498,Bjurfors,284.46167191511347,Blackeberg
+2013-10-15,Sigrid Undsets gata 15,Blackeberg,Grön Hässelby,3,66,null,Lägenhet,1951,[Bromma Blackeberg],1950000,200000,2150000,2844,Notar,255.70663504393698,Blackeberg
+2013-10-14,Björnsonsgatan 327,Blackeberg,Grön Hässelby,2,61,2,Lägenhet,1996,[Blackeberg Bromma],1595000,50000,1645000,4671,Mäklarringen,241.80726624664345,Blackeberg
+2013-10-11,Arvid Mörnes väg 58,Blackeberg,Grön Hässelby,1,42,null,Lägenhet,1951,[Bromma Blackeberg],1295000,105000,1400000,2286,Notar,413.3651472002305,Blackeberg
+2013-10-10,Björnsonsgatan 142,Blackeberg,Grön Hässelby,1,31,null,Lägenhet,1952,[Bromma Blackeberg],1290000,30000,1320000,1554,Notar,97.59296561226314,Blackeberg
+2013-10-09,Arvid Mörnes väg 42,Blackeberg,Grön Hässelby,1,33,null,Lägenhet,1952,[Blackeberg],895000,355000,1250000,1793,Restate,512.7135847420657,Blackeberg
+2013-10-07,Holbergsgatan 140,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma Blackeberg],1690000,130000,1820000,3040,Notar,389.087257437888,Blackeberg
+2013-10-03,Sigrid Undsets gata 11,Blackeberg,Grön Hässelby,2,53,null,Lägenhet,1951,[Bromma Blackeberg],1495000,275000,1770000,2284,Notar,251.17905988851953,Blackeberg
+2013-09-29,Holbergsgatan 57,Blackeberg,Grön Hässelby,3,96,null,Lägenhet,1994,[Bromma],1400000,700000,2100000,7051,ERA,164.3080911279715,Blackeberg
+2013-09-27,Arvid Mörnes väg 60,Blackeberg,Grön Hässelby,1,30,null,Lägenhet,1951,[Bromma Blackeberg],1095000,175000,1270000,1776,Notar,399.6349169991399,Blackeberg
+2013-09-26,Holbergsgatan 83,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,1952,[Bromma Blackeberg],1890000,110000,2000000,3679,Notar,312.93882001659995,Blackeberg
+2013-09-25,Holbergsgatan 102,Blackeberg,Grön Hässelby,3,70,null,Lägenhet,1952,[Bromma Blackeberg],1995000,105000,2100000,3471,Notar,286.93038466157304,Blackeberg
+2013-09-25,Elias Lönnrots väg 19,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,null,[Blackeberg],1495000,225000,1720000,2785,BOSTHLM,283.75785008741553,Blackeberg
+2013-09-25,Grundtvigsgatan 19,Blackeberg,Grön Hässelby,1,41,1,Lägenhet,1951,[Bromma],1395000,155000,1550000,1559,Svenska Mäklarhuset,400.61826318500016,Islandstorget
+2013-09-22,Nickelgränd 6,Blackeberg,Grön Hässelby,3,76,null,Lägenhet,1958,[Vällingby],1495000,180000,1675000,3026,Svenska Mäklarhuset,213.24696785883643,Racksta
+2013-09-19,Holbergsgatan 108,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,1952,[Bromma Blackeberg],1690000,340000,2030000,3471,Notar,301.5999846116196,Blackeberg
+2013-09-14,Björnsonsgatan 162,Blackeberg,Grön Hässelby,2,63,null,Lägenhet,1996,[Blackeberg],1775000,-125000,1650000,2778,Länsförsäkringar Fastighetsförmedling,261.7189758404191,Blackeberg
+2013-09-10,Björnsonsgatan 154,Blackeberg,Grön Hässelby,5,118,null,Lägenhet,1995,[Bromma Blackeberg],3395000,0,3395000,5204,HusmanHagberg,195.0255070633561,Blackeberg
+2013-09-04,Holbergsgatan 148,Blackeberg,Grön Hässelby,4,69,3,Lägenhet,1952,[Blackeberg],1895000,0,1895000,3471,Länsförsäkringar Fastighetsförmedling,440.86893432877,Blackeberg
+2013-08-30,Sigrid Undsets gata 9,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,1951,[Bromma Blackeberg],1890000,110000,2000000,3059,Notar,281.6249279440588,Blackeberg
+2013-08-30,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Bromma Blackeberg],1990000,360000,2350000,4332,Notar,301.1810929388143,Blackeberg
+2013-08-27,Holbergsgatan 52,Blackeberg,Grön Hässelby,2,57,3,Lägenhet,1951,[Bromma],1695000,205000,1900000,2862,Svenska Mäklarhuset,192.83131642484227,Blackeberg
+2013-08-14,Wergelandsgatan 8,Blackeberg,Grön Hässelby,4,72,2,Lägenhet,1951,[Bromma],2000000,380000,2380000,3012,Svenska Mäklarhuset,135.64896191310362,Blackeberg
+2013-07-26,Arvid Mörnes väg 46,Blackeberg,Grön Hässelby,1,24,null,Lägenhet,1951,[Bromma Blackeberg],1050000,380000,1430000,1521,Notar,500.2491539528032,Blackeberg
+2013-07-21,Ibsengatan 76,Blackeberg,Grön Hässelby,3,71,3,Lägenhet,1951,[Bromma],1795000,25000,1820000,3288,Mäklarhuset,339.9285745926881,Blackeberg
+2013-07-18,Björnsonsgatan 58,Blackeberg,Grön Hässelby,2,49,5,Lägenhet,2005,[Blackeberg],1590000,120000,1710000,3076,Svenska Mäklarhuset,301.1810929388143,Blackeberg
+2013-07-09,Sigrid Undsets gata 16,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,1951,[Bromma Blackeberg],1495000,265000,1760000,2209,HusmanHagberg,297.0089984366032,Blackeberg
+2013-07-06,Björnsonsgatan 130,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1951,[Bromma],1395000,170000,1565000,2782,BOSTHLM,198.34042851541847,Blackeberg
+2013-07-04,Sigrid Undsets gata 4,Blackeberg,Grön Hässelby,3,66,null,Lägenhet,1951,[Bromma Blackeberg],1890000,230000,2120000,2571,Notar,331.7483157985339,Islandstorget
+2013-07-04,Björnsonsgatan 138,Blackeberg,Grön Hässelby,1,31,null,Lägenhet,1952,[Bromma Blackeberg],1250000,260000,1510000,1554,Notar,179.76857629062306,Blackeberg
+2013-06-25,Holbergsgatan 20,Blackeberg,Grön Hässelby,2,54,2,Lägenhet,1951,[Blackeberg],1515000,185000,1700000,2176,Restate,304.90194031354093,Islandstorget
+2013-06-21,Holbergsgatan 120,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma Blackeberg],1495000,170000,1665000,3040,SkandiaMäklarna,318.47780838902844,Blackeberg
+2013-06-20,Björnsonsgatan 325,Blackeberg,Grön Hässelby,2,35,null,Lägenhet,1996,[Bromma],1195000,230000,1425000,2786,Fastighetsbyrån,219.21337453592275,Blackeberg
+2013-06-19,Holbergsgatan 32,Blackeberg,Grön Hässelby,1.5,41,null,Lägenhet,1951,[Bromma],1390000,70000,1460000,1748,Fastighetsbyrån,335.64209810738265,Blackeberg
+2013-06-19,Sigrid Undsets gata 15,Blackeberg,Grön Hässelby,3,66,null,Lägenhet,1951,[Bromma Blackeberg],1950000,100000,2050000,2844,Notar,255.70663504393698,Blackeberg
+2013-06-18,Björnsonsgatan 152,Blackeberg,Grön Hässelby,2,63,3,Lägenhet,1996,[Blackeberg],1695000,245000,1940000,2596,Svensk Fastighetsförmedling,215.49798058242132,Blackeberg
+2013-06-14,Björnsonsgatan 335,Blackeberg,Grön Hässelby,3,72,null,Lägenhet,1996,[Bromma],1695000,15000,1710000,4976,Fastighetsbyrån,291.75403517896655,Blackeberg
+2013-06-09,Sigrid Undsets gata 16,Blackeberg,Grön Hässelby,2,55,3,Lägenhet,1951,[Blackeberg],1545000,0,1545000,2209,Restate,297.0089984366032,Blackeberg
+2013-06-07,Holbergsgatan 90,Blackeberg,Grön Hässelby,2,49,null,Lägenhet,2005,[Bromma Blackeberg],1590000,0,1590000,3076,Notar,239.86599982972416,Blackeberg
+2013-05-30,Björnsonsgatan 325,Blackeberg,Grön Hässelby,2,61,null,Lägenhet,1996,[Blackeberg Bromma],1150000,210000,1360000,4621,Mäklarringen,219.21337453592275,Blackeberg
+2013-05-30,Holbergsgatan 133,Blackeberg,Grön Hässelby,2,58,null,Lägenhet,1952,[Bromma Blackeberg],1650000,0,1650000,3089,Notar,537.9469111463379,Blackeberg
+2013-05-25,Björnsonsgatan 140,Blackeberg,Grön Hässelby,2,57,null,Lägenhet,1952,[Bromma],1675000,0,1675000,2857,Bjurfors,133.54801572957282,Blackeberg
+2013-05-21,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,37,null,Lägenhet,1952,[Bromma],1150000,200000,1350000,1855,Svenska Mäklarhuset,133.54801572957282,Blackeberg
+2013-05-11,Wergelandsgatan 38,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,null,[Bromma],1495000,0,1495000,2563,Erik Olsson Fastighetsförmedling,107.19877425588533,Blackeberg
+2013-05-10,Holbergsgatan 118,Blackeberg,Grön Hässelby,2,59,2,Lägenhet,null,[Blackeberg],1490000,230000,1720000,3040,MäklarMäster,355.1152763969099,Blackeberg
+2013-05-09,Wergelandsgatan 36,Blackeberg,Grön Hässelby,4,110,null,Lägenhet,null,[Bromma Blackeberg],2790000,260000,3050000,4779,Notar,108.72046190016641,Blackeberg
+2013-05-08,Holbergsgatan 148,Blackeberg,Grön Hässelby,3.5,69,null,Lägenhet,1952,[Bromma Blackeberg],1690000,120000,1810000,3471,Notar,440.86893432877,Blackeberg
+2013-05-07,Grundtvigsgatan 25,Blackeberg,Grön Hässelby,3,68,null,Lägenhet,1951,[Bromma],1995000,0,1995000,2585,Fastighetsbyrån,404.8699175090936,Islandstorget
+2013-05-02,Nickelgränd 12,Blackeberg,Grön Hässelby,4,95,null,Lägenhet,1998,[Vällingby],1595000,-145000,1450000,7048,Svenska Mäklarhuset,219.6074010767971,Racksta
+2013-05-01,Grundtvigsgatan 21,Blackeberg,Grön Hässelby,2,54,null,Lägenhet,1951,[Bromma Blackeberg],1690000,320000,2010000,2053,Notar,418.19269676121195,Islandstorget
+2013-04-20,Björnsonsgatan 118,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,null,[Bromma],1350000,50000,1400000,2782,BOSTHLM,265.43389620372426,Blackeberg
+2013-04-20,Holbergsgatan 124,Blackeberg,Grön Hässelby,1,42,null,Lägenhet,1952,[Bromma Blackeberg],1295000,95000,1390000,2383,Fastighetsbyrån,347.55469210605713,Blackeberg
+2013-04-18,Sigrid Undsets gata 30A,Blackeberg,Grön Hässelby,2,48,null,Lägenhet,1951,[Bromma Blackeberg],1295000,105000,1400000,2008,Notar,215.4992516330449,Blackeberg
+2013-04-18,Holbergsgatan 46,Blackeberg,Grön Hässelby,1,24,null,Lägenhet,null,[Bromma],995000,235000,1230000,1034,BOSTHLM,262.88069596089093,Blackeberg
+2013-04-17,Holbergsgatan 142,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1951,[Bromma Blackeberg],1420000,-20000,1400000,3040,Mäklarringen,409.34368805066214,Blackeberg
+2013-04-12,Björnsonsgatan 150,Blackeberg,Grön Hässelby,2,62,null,Lägenhet,1996,[Blackeberg],1775000,130000,1905000,2555,Svensk Fastighetsförmedling,160.9102566330837,Blackeberg
+2013-04-10,Holbergsgatan 116,Blackeberg,Grön Hässelby,2,59,1,Lägenhet,1952,[Blackeberg],1490000,60000,1550000,3040,MäklarMäster,346.18541213417063,Blackeberg
+2013-04-03,Björnsonsgatan 116,Blackeberg,Grön Hässelby,2,59,3,Lägenhet,null,[Bromma],1495000,0,1495000,2871,BOSTHLM,275.7787557362239,Blackeberg
+2013-03-28,Arvid Mörnes väg 40,Blackeberg,Grön Hässelby,1,33,1.5,Lägenhet,1952,[Blackeberg],995000,505000,1500000,1793,Restate,515.7380800062183,Blackeberg
+2013-03-28,Björnsonsgatan 152,Blackeberg,Grön Hässelby,3.5,81,null,Lägenhet,1995,[Bromma Blackeberg],2495000,55000,2550000,3338,HusmanHagberg,215.49798058242132,Blackeberg
+2013-03-21,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,null,[Bromma],2175000,85000,2260000,4332,Balders Ädelmarks,301.1810929388143,Blackeberg
+2013-03-21,Björnsonsgatan 156,Blackeberg,Grön Hässelby,2,63,2,Lägenhet,1996,[Blackeberg],1595000,395000,1990000,2596,Svensk Fastighetsförmedling,206.61932673720497,Blackeberg
+2013-03-21,Sigrid Undsets gata 13,Blackeberg,Grön Hässelby,2,53,null,Lägenhet,1951,[Bromma Blackeberg],1590000,-10000,1580000,2284,Notar,250.43741072937854,Blackeberg
+2013-03-16,Wergelandsgatan 36,Blackeberg,Grön Hässelby,3,70,null,Lägenhet,null,[Bromma Blackeberg],1695000,105000,1800000,3041,Mäklarringen,108.72046190016641,Blackeberg
+2013-03-15,Ibsengatan 45,Blackeberg,Grön Hässelby,4,81,null,Lägenhet,1952,[Bromma],2195000,275000,2470000,3510,Fastighetsbyrån,188.4286846520724,Blackeberg
+2013-03-13,Björnsonsgatan 158,Blackeberg,Grön Hässelby,3,63,null,Lägenhet,1996,[Bromma Blackeberg],1995000,125000,2120000,2596,Notar,230.17771254094228,Blackeberg
+2013-03-13,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Bromma Blackeberg],2080000,60000,2140000,4332,Notar,239.86599982972416,Blackeberg
+2013-03-12,Blackebergsbacken 3,Blackeberg,Grön Hässelby,3,95,3,Lägenhet,2006,[Bromma],3300000,-500000,2800000,5420,Balders Ädelmarks,763.5326735338764,Islandstorget
+2013-03-12,Blackebergsbacken 3,Blackeberg,Grön Hässelby,4,95,3,Lägenhet,2006,[Bromma],3300000,-500000,2800000,5420,Balders Ädelmarks,763.5326735338764,Islandstorget
+2013-03-08,Björnsonsgatan 58,Blackeberg,Grön Hässelby,2,49,null,Lägenhet,2005,[Bromma],1550000,50000,1600000,3076,Bjurfors,301.1810929388143,Blackeberg
+2013-03-06,Sigrid Undsets gata 15,Blackeberg,Grön Hässelby,2,53,null,Lägenhet,1951,[Bromma],1495000,125000,1620000,2284,Fastighetsbyrån,255.70663504393698,Blackeberg
+2013-03-06,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Bromma Blackeberg],1990000,100000,2090000,4332,Notar,301.1810929388143,Blackeberg
+2013-03-04,Holbergsgatan 48,Blackeberg,Grön Hässelby,2,54,null,Lägenhet,1951,[Bromma Blackeberg],1595000,0,1595000,2326,Notar,247.2331945853342,Blackeberg
+2013-02-25,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Bromma Blackeberg],1895000,65000,1960000,4380,Notar,301.1810929388143,Blackeberg
+2013-02-21,Arvid Mörnes väg 48,Blackeberg,Grön Hässelby,1,24,null,Lägenhet,1951,[Bromma Blackeberg],795000,205000,1000000,1520,Notar,489.9655181892453,Blackeberg
+2013-02-21,Björnsonsgatan 140,Blackeberg,Grön Hässelby,1,31,null,Lägenhet,1952,[Bromma Blackeberg],1250000,60000,1310000,1554,Notar,133.54801572957282,Blackeberg
+2013-02-20,Holbergsgatan 201,Blackeberg,Grön Hässelby,5,106,null,Lägenhet,null,[Bromma],3600000,200000,3800000,4970,Bjurfors,693.783904167391,Islandstorget
+2013-02-16,Nickelgränd 6,Blackeberg,Grön Hässelby,3,75,1,Lägenhet,1958,[Vällingby],1850000,60000,1910000,2986,Svenska Mäklarhuset,213.24696785883643,Racksta
+2013-02-16,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Bromma],2095000,-45000,2050000,4332,Fastighetsbyrån,239.86599982972416,Blackeberg
+2013-02-13,Björnsonsgatan 138,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,1952,[Bromma Blackeberg],1790000,60000,1850000,3559,Notar,179.76857629062306,Blackeberg
+2013-02-10,Johan Tillanders väg 37,Blackeberg,Grön Hässelby,4,85.5,null,Lägenhet,2012,[Blackeberg],2650000,-50000,2600000,4703,Svensk Fastighetsförmedling,822.747897082389,Blackeberg
+2013-02-08,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Bromma],1995000,240000,2235000,4332,Fastighetsbyrån,239.86599982972416,Blackeberg
+2013-02-07,Wergelandsgatan 32,Blackeberg,Grön Hässelby,3,70,null,Lägenhet,1956,[Bromma],1750000,-50000,1700000,3041,Fastighetsbyrån,115.90091148558247,Blackeberg
+2013-02-04,Grundtvigsgatan 15,Blackeberg,Grön Hässelby,3.5,84,null,Lägenhet,1951,[Bromma Blackeberg],1890000,20000,1910000,3194,Notar,379.23286107342864,Islandstorget
+2013-01-25,Holbergsgatan 90,Blackeberg,Grön Hässelby,3,69,5,Lägenhet,2005,[Bromma],1990000,70000,2060000,4332,Mäklarhuset,239.86599982972416,Blackeberg
+2013-01-24,Arvid Mörnes väg 42,Blackeberg,Grön Hässelby,1,26,1.5,Lägenhet,1952,[Bromma],895000,270000,1165000,1413,Restate,512.7135847420657,Blackeberg
+2013-01-23,Björnsonsgatan 140,Blackeberg,Grön Hässelby,2.5,74,null,Lägenhet,1952,[Bromma Blackeberg],2290000,710000,3000000,3709,Notar,133.54801572957282,Blackeberg
+2013-01-18,Holbergsgatan 122,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,null,[Bromma Blackeberg],1475000,0,1475000,3040,SkandiaMäklarna,339.5117128255472,Blackeberg
+2013-01-17,Björnsonsgatan 58,Blackeberg,Grön Hässelby,2,44,null,Lägenhet,2005,[Bromma],1450000,120000,1570000,2762,Bjurfors,301.1810929388143,Blackeberg
+2013-01-16,Björnsonsgatan 58,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,2005,[Bromma Blackeberg],1990000,190000,2180000,4332,Notar,301.1810929388143,Blackeberg
+2013-01-11,Grundtvigsgatan 11,Blackeberg,Grön Hässelby,3,66,null,Lägenhet,1951,[Bromma Blackeberg],1750000,50000,1800000,2509,Notar,361.1194448632351,Islandstorget
+2013-01-10,Holbergsgatan 90,Blackeberg,Grön Hässelby,2,49,null,Lägenhet,2005,[Bromma Blackeberg],1545000,0,1545000,3076,SkandiaMäklarna,239.86599982972416,Blackeberg
+2012-12-20,Holbergsgatan 100,Blackeberg,Grön Hässelby,1,42,null,Lägenhet,1952,[Bromma],1195000,155000,1350000,2383,Fastighetsbyrån,291.6035868838922,Blackeberg
+2012-12-07,Nickelgränd 14,Blackeberg,Grön Hässelby,4,91.5,null,Radhus,1998,[Vällingby],1495000,5000,1500000,6738,Länsförsäkringar Fastighetsförmedling,199.47471482784223,Racksta
+2012-11-30,Grundtvigsgatan 19,Blackeberg,Grön Hässelby,4,85,null,Lägenhet,1951,[Bromma],2495000,55000,2550000,3232,Fastighetsbyrån,400.61826318500016,Islandstorget
+2012-11-27,Wergelandsgatan 6,Blackeberg,Grön Hässelby,3,73,null,Lägenhet,1951,[Bromma],1695000,5000,1700000,3359,Fastighetsbyrån,146.28321059302456,Blackeberg
+2012-11-26,Arvid Mörnes väg 56,Blackeberg,Grön Hässelby,1,30,null,Lägenhet,null,[Bromma],900000,110000,1010000,1776,Hemverket,424.40863946519397,Blackeberg
+2012-11-21,Holbergsgatan 75,Blackeberg,Grön Hässelby,3.5,69,null,Lägenhet,1952,[Bromma],1795000,0,1795000,3439,Fastighetsbyrån,296.76256220605796,Blackeberg
+2012-11-16,Björnsonsgatan 138,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,1952,[Blackeberg],1795000,0,1795000,3358,Svensk Fastighetsförmedling,179.76857629062306,Blackeberg
+2012-11-15,Sigrid Undsets gata 15,Blackeberg,Grön Hässelby,3,66,null,Lägenhet,1951,[Bromma Blackeberg],1895000,0,1895000,2609,Notar,255.70663504393698,Blackeberg
+2012-11-15,Wergelandsgatan 30,Blackeberg,Grön Hässelby,3,71.7,null,Lägenhet,1956,[Bromma],1750000,0,1750000,3041,Bjurfors,113.8529866970997,Blackeberg
+2012-11-11,Arvid Mörnes väg 50,Blackeberg,Grön Hässelby,2,43,null,Lägenhet,1951,[Bromma Blackeberg],1395000,10000,1405000,2329,Notar,474.36529549355396,Blackeberg
+2012-11-06,Sigrid Undsets gata 7,Blackeberg,Grön Hässelby,4,110,null,Lägenhet,1951,[Bromma Blackeberg],2800000,100000,2900000,4348,Notar,292.1609712088338,Blackeberg
+2012-11-05,Holbergsgatan 142,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma Blackeberg],1490000,10000,1500000,3040,Notar,409.34368805066214,Blackeberg
+2012-11-05,Nickelgränd 6,Blackeberg,Grön Hässelby,3,76,null,Lägenhet,1958,[Vällingby],1695000,0,1695000,3026,Svenska Mäklarhuset,213.24696785883643,Racksta
+2012-10-22,Sigrid Undsets gata 5,Blackeberg,Grön Hässelby,2,55,null,Lägenhet,1951,[Bromma Blackeberg],1495000,105000,1600000,2174,Notar,295.82249968172255,Blackeberg
+2012-10-19,Elias Lönnrots väg 9,Blackeberg,Grön Hässelby,3,71,1.5,Lägenhet,1952,[Bromma Blackeberg],1695000,0,1695000,3077,Notar,240.16789568224428,Blackeberg
+2012-10-11,Sigrid Undsets gata 32,Blackeberg,Grön Hässelby,3,69,null,Lägenhet,1951,[Bromma],1850000,0,1850000,2886,Fastighetsbyrån,209.88384897528377,Blackeberg
+2012-10-07,Wergelandsgatan 4,Blackeberg,Grön Hässelby,4,86,null,Lägenhet,1951,[Bromma],2095000,35000,2130000,3270,Fastighetsbyrån,122.84027697214667,Blackeberg
+2012-09-30,Elias Lönnrots väg 9,Blackeberg,Grön Hässelby,3,71,null,Lägenhet,1952,[Bromma Blackeberg],1750000,0,1750000,3077,Notar,240.16789568224428,Blackeberg
+2012-09-27,Björnsonsgatan 162,Blackeberg,Grön Hässelby,5,124,4,Lägenhet,1996,[Blackeberg],2990000,360000,3350000,4779,Svensk Fastighetsförmedling,261.7189758404191,Blackeberg
+2012-09-12,Holbergsgatan 120,Blackeberg,Grön Hässelby,2,59,null,Lägenhet,1952,[Bromma],1550000,-50000,1500000,3040,Fastighetsbyrån,318.47780838902844,Blackeberg
