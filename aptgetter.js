@@ -13,15 +13,13 @@ var subArea = "";
 var bigArea = "";
 
 
-
-
 var createCSVrecursive = function(areas){
   area = areas.pop()
 
   console.log("areaCode: ", area.areaCode)
   console.log("subAreaIn: ", area.subArea)
   console.log("area: ",area.area)
-  aptList.length = 0
+  
   console.log("LÄNGDEN ÄR NU: ", aptList.length)
   subArea = area.subArea;
   bigArea = area.area;
@@ -69,7 +67,7 @@ var createcsvfromarea = function(areaCode, subAreaIn, area){
  * @param area is the search area where alla patsments will be printed to a CSV
  *
  */
-function startFetchingProcedure(totHits, area, createCSVrecursive, areas){
+function startFetchingProcedure(totHits, areaCode, createCSVrecursive, areas){
   
 
   times = Math.floor(totHits/500)+1;
@@ -81,10 +79,10 @@ function startFetchingProcedure(totHits, area, createCSVrecursive, areas){
           console.log("Nu görs hämtning ", counter, " av ", times)
           if(counter == times){
             console.log("sista hämtningen")
-            get500(getQueryString(area, 500, 500*(counter-1)), addToListAndPrint, createCSVrecursive, areas);
+            get500(getQueryString(areaCode, 500, 500*(counter-1)), addToListAndPrint, createCSVrecursive, areas);
           }
           else{
-            get500(getQueryString(area, 500, 500*(counter-1)), addToList);
+            get500(getQueryString(areaCode, 500, 500*(counter-1)), addToList);
           }
           next();
       }, 2000);
@@ -101,7 +99,7 @@ function startFetchingProcedure(totHits, area, createCSVrecursive, areas){
  *
  * returns a query string
  */
-function getQueryString(area, limit, offset){
+function getQueryString(areaCode, limit, offset){
   var crypto = require('crypto');
   var shasum = crypto.createHash('sha1');
   var auth2 = {};
@@ -110,7 +108,7 @@ function getQueryString(area, limit, offset){
   auth2.unique = crypto.randomBytes(Math.ceil(16/2)).toString("hex").slice(0, 16);
   auth2.hash = shasum.update(auth2.callerId + auth2.time + "PhdlcpnsSbNId0qHmWIyYNivCB6JfgTRwq0vQqU1" + auth2.unique).digest("hex");
   var limitString = "limit=" + limit + "&";
-  var areaString = area + "&";
+  var areaString = areaCode + "&";
   var offsetString = "offset=" + offset + "&";
   var url = "http://api.booli.se/sold?q="+ areaString + limitString + offsetString + querystring.stringify(auth2);
   return url;
@@ -190,16 +188,15 @@ function addToList(pageList,createCSVrecursive, areas){
 
 
 function addToListAndPrint(pageList,createCSVrecursive, areas){
-  if (areas.length != 0){
-    createCSVrecursive(areas)
-  }
+  
   for (var i = 0; i < pageList.length; i++) {
     aptList.push(pageList[i]);
   };
   console.log("...");   
   console.log("längd på listan: " + aptList.length);
   console.log("----- Listan är slut -----");
-  printResults(aptList);
+  printResults(aptList,createCSVrecursive, areas);
+  
 }
 
 
@@ -258,30 +255,44 @@ function setupAptObject(aptIn){
  *
  * @param json is the JSON object to be converted in a csv file 
  */
-function printResults(json){
+function printResults(json, createCSVrecursive, areas){
   console.log("Saving file ...")
+  console.log("-------------------")
+  console.log("name in printResult: " + subArea + ".csv")
+  console.log("Length: " + json.length)
+
 
   var json2csvCallback = function (err, csv) {
+    console.log("name in json2csv: " + subArea + ".csv")
+
     if (err) throw err;
     //console.log(csv);
     name = subArea;
     //remove file if exsists
     try {
-      stats = fs.lstatSync(name + '.csv');
+      console.log("removed" + name + '.csv')
+      stats = fs.lstatSync('./csv/' + name + '.csv');
       if (stats.isFile()) {
-          fs.unlink(name + '.csv')
+          fs.unlink('./csv/' + name + '.csv')
       }
     }
     catch (e) {
       console.log("it is not a file")
     }
 
-    fs.writeFile(name + '.csv', csv, function(err) {
+    fs.writeFile('./csv/' + name + '.csv', csv, function(err) {
     if (err) throw err;
       console.log('file saved');
+      console.log("-------------------")
     });
+    aptList.length = 0
+    if (areas.length != 0){
+      createCSVrecursive(areas)
+    }
   };
+
   converter.json2csv(aptList, json2csvCallback);
+  
 }
 
 

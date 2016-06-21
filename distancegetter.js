@@ -90,7 +90,7 @@ tbanor = [
 	"lon" : "18.070293900000024"
 	},
 	{
-	"station" : "Globen (tidigare Isstadion och Slakthuset)",
+	"station" : "Globen",
 	"lat" : "59.2942798",
 	"lon" : "18.07797419999997"
 	},

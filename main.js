@@ -2,9 +2,7 @@ var aptgetter = require('./aptgetter.js');
 var async = require("async");
 
 areas = getOmraden()
-function hej(){
-	console.log("hej nu är det slut")
-}
+
 
 
 //aptgetter.testPop(areas, hej)
@@ -44,12 +42,12 @@ function getOmraden(){
 		"areaCode": 1454,
 		"subArea": "Gamla Enskede",
 		"area": "Grön Hagsätra"
-	}]/*,
+	},
 	{ 
 		"areaCode": 4175,
 		"subArea": "Gubbängen",
 		"area": "Grön Hagsätra"
-	},
+	}/*,
 	{ 
 		"areaCode": 221,
 		"subArea": "Stureby",
@@ -74,8 +72,8 @@ function getOmraden(){
 		"areaCode": 6553,
 		"subArea": "Rågsved",
 		"area": "Grön Hagsätra"
-	}
-	*/
+	}*/]
+
 	
 
 	return areas

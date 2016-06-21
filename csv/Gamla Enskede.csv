@@ -1,0 +1,687 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-21,Nynäsvägen 342A,Gamla Enskede,Grön Hagsätra,2,45,3,Lägenhet,1943,[Gamla Enskede],2495000,235000,2730000,3027,Edward & Partners Fastighetsmäklare AB,267.61018106324747,Sandsborg
+2016-06-20,Nynäsvägen 328,Gamla Enskede,Grön Hagsätra,4.5,86,1,Lägenhet,1926,[Enskede],4200000,500000,4700000,1333,Svensk Fastighetsförmedling,191.5916412976636,Sandsborg
+2016-06-18,Tallkrogsvägen 20,Gamla Enskede,Grön Hagsätra,4,93,null,Lägenhet,null,[Gamla Enskede],4875000,-225000,4650000,4972,SkandiaMäklarna,347.71692785412307,Skogskyrkogarden
+2016-06-17,Stora Gungans väg 9,Gamla Enskede,Grön Hagsätra,2.5,70,2,Lägenhet,1926,[Enskede],2900000,620000,3520000,2141,Svensk Fastighetsförmedling,122.41367989899274,Sandsborg
+2016-06-17,Nynäsvägen 307,Gamla Enskede,Grön Hagsätra,2,61,null,Lägenhet,1911,[Enskede],2750000,590000,3340000,3590,Svensk Fastighetsförmedling,201.50584693541845,Sandsborg
+2016-06-15,Nynäsvägen 311,Gamla Enskede,Grön Hagsätra,1.5,45.5,2,Lägenhet,1911,[Enskede],2350000,370000,2720000,2679,Bjurfors,175.50535776675756,Sandsborg
+2016-06-14,Stockholmsvägen 2,Gamla Enskede,Grön Hagsätra,1,37,2,Lägenhet,1925,[Enskede],2295000,215000,2510000,1698,Erik Olsson Fastighetsförmedling,313.37478589976206,Sandsborg
+2016-06-13,Handelsvägen 118,Gamla Enskede,Grön Hagsätra,4,102,null,Lägenhet,1963,[Gamla Enskede],5400000,400000,5800000,5160,Mäklarhuset,450.72682012499325,Sockenplan
+2016-06-11,Nynäsvägen 366,Gamla Enskede,Grön Hagsätra,3,54,2,Lägenhet,1939,[Gamla Enskede],1995000,130000,2125000,5882,Fastighetsbyrån,287.68934982288766,Skogskyrkogarden
+2016-06-10,Grusåsgränd 30,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1979,[Enskededalen],3350000,50000,3400000,3797,Länsförsäkringar Fastighetsförmedling,292.6013585204092,Blasut
+2016-06-10,Handelsvägen 52,Gamla Enskede,Grön Hagsätra,3.5,90,0,Lägenhet,2011,[Gamla Enskede],4875000,25000,4900000,4902,Fastighetsbyrån,432.9780102556978,Sockenplan
+2016-06-09,Dalgränd 12,Gamla Enskede,Grön Hagsätra,3,79,2,Lägenhet,1981,[Enskededalen],3100000,0,3100000,4043,Södermäklarna,346.89890614021647,Blasut
+2016-06-03,Hemmansvägen 18,Gamla Enskede,Grön Hagsätra,6,110,null,Villa,1933,[Gamla Enskede],8495000,240000,8735000,null,SkandiaMäklarna,327.9225916628102,Sockenplan
+2016-06-01,Kantarellvägen 24,Gamla Enskede,Grön Hagsätra,5,130,null,Villa,1929,[Gamla Enskede],10400000,900000,11300000,null,Fastighetsbyrån,389.10521187149743,Skogskyrkogarden
+2016-06-01,Handelsvägen 18,Gamla Enskede,Grön Hagsätra,2.5,77,3,Lägenhet,1929,[Gamla Enskede],5495000,-245000,5250000,3893,HusmanHagberg,504.7283760785339,Sandsborg
+2016-05-28,Margaretavägen 38,Gamla Enskede,Grön Hagsätra,5,88,null,Radhus,1910,[Gamla Enskede],7850000,900000,8750000,null,SkandiaMäklarna,514.2274250409546,Sockenplan
+2016-05-27,Dalgränd 8,Gamla Enskede,Grön Hagsätra,3,88,2,Lägenhet,1981,[Enskede],3500000,-50000,3450000,4467,HusmanHagberg,375.3378206872396,Blasut
+2016-05-27,Yrkesvägen 15,Gamla Enskede,Grön Hagsätra,2,57,1,Lägenhet,1925,[Gamla Enskede],3295000,-320000,2975000,2853,HusmanHagberg,106.47261920157784,Sandsborg
+2016-05-27,Täppgränd 7,Gamla Enskede,Grön Hagsätra,3,94,4,Lägenhet,null,[Enskededalen],3495000,725000,4220000,3498,BOSTHLM,345.581331144029,Sandsborg
+2016-05-26,Nynäsvägen 359,Gamla Enskede,Grön Hagsätra,2,44,2,Lägenhet,1933,[Enskede],2900000,-400000,2500000,2669,Bjurfors,313.18707542548765,Skogskyrkogarden
+2016-05-26,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,1,39,2,Lägenhet,1930,[Enskede],2195000,175000,2370000,2374,Erik Olsson Fastighetsförmedling,223.1210032605016,Sandsborg
+2016-05-25,Sockenvägen 371,Gamla Enskede,Grön Hagsätra,2,53,1,Lägenhet,null,[Enskede],2350000,1170000,3520000,2487,Svensk Fastighetsförmedling,229.67518881151892,Sockenplan
+2016-05-24,Nynäsvägen 308,Gamla Enskede,Grön Hagsätra,1,40,2,Lägenhet,1928,[Gamla Enskede],2295000,245000,2540000,2215,HusmanHagberg,263.34729264876603,Sandsborg
+2016-05-20,Nynäsvägen 327,Gamla Enskede,Grön Hagsätra,3,84,2,Lägenhet,1927,[Enskede],3795000,855000,4650000,2492,Bjurfors,120.61248678885244,Sandsborg
+2016-05-20,Nynäsvägen 342A,Gamla Enskede,Grön Hagsätra,2,45,3,Lägenhet,1943,[Gamla Enskede],2895000,-400000,2495000,3027,Fastighetsbyrån,267.61018106324747,Sandsborg
+2016-05-20,Tallkrogsvägen 8D,Gamla Enskede,Grön Hagsätra,5,112,2,Lägenhet,1927,[Gamla Enskede],5250000,425000,5675000,5910,Mäklarhuset,257.3265799134546,Skogskyrkogarden
+2016-05-19,Bersågränd 8,Gamla Enskede,Grön Hagsätra,2,64,1,Lägenhet,1981,[Enskededalen],2300000,520000,2820000,2699,HusmanHagberg,317.84676646060547,Sandsborg
+2016-05-19,Nynäsvägen 348,Gamla Enskede,Grön Hagsätra,2,42,2,Lägenhet,1939,[Enskede],1995000,55000,2050000,4741,Svensk Fastighetsförmedling,348.8409166825914,Sandsborg
+2016-05-19,Bersågränd 58,Gamla Enskede,Grön Hagsätra,4,104,1,Lägenhet,1979,[Enskededalen],4250000,960000,5210000,4300,Mäklarhuset,257.3949076973599,Sandsborg
+2016-05-19,Sockenvägen 425,Gamla Enskede,Grön Hagsätra,1,39,1,Lägenhet,1911,[Gamla Enskede],1995000,555000,2550000,2295,Fastighetsbyrån,716.0700205923172,Sandsborg
+2016-05-14,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,2.5,78,2,Lägenhet,1930,[Enskede],3295000,505000,3800000,4229,Svensk Fastighetsförmedling,223.1210032605016,Sandsborg
+2016-05-13,Svampvägen 126,Gamla Enskede,Grön Hagsätra,4,89,null,Parhus,1926,[Gamla Enskede],7500000,1375000,8875000,null,Fastighetsbyrån,685.1268579832565,Sockenplan
+2016-05-13,Nynäsvägen 310,Gamla Enskede,Grön Hagsätra,2,51,1,Lägenhet,1909,[Enskede-Årsta-Vantör],2795000,465000,3260000,2480,SkandiaMäklarna,251.56287207751149,Sandsborg
+2016-05-11,Nynäsvägen 342A,Gamla Enskede,Grön Hagsätra,2,57,1,Lägenhet,1943,[Gamla Enskede],2695000,125000,2820000,3834,Fastighetsbyrån,267.61018106324747,Sandsborg
+2016-05-11,Nynäsvägen 337,Gamla Enskede,Grön Hagsätra,3,75,2,Lägenhet,1926,[Enskede],3595000,1175000,4770000,3839,Svensk Fastighetsförmedling,185.85681457011657,Sandsborg
+2016-05-10,Stora Gungans väg 4,Gamla Enskede,Grön Hagsätra,4,98.5,1,Lägenhet,1914,[Gamla Enskede],6500000,1300000,7800000,5335,HusmanHagberg,219.37172784486012,Sandsborg
+2016-05-04,Handelsvägen 138,Gamla Enskede,Grön Hagsätra,2,61,null,Lägenhet,1963,[Gamla Enskede],2980000,960000,3940000,3436,Mäklarhuset,416.21250440589813,Sockenplan
+2016-04-29,Grusåsgränd 141,Gamla Enskede,Grön Hagsätra,2,67.5,null,Lägenhet,1980,[Enskededalen],2275000,475000,2750000,3154,Svensk Fastighetsförmedling,265.79530014966434,Sandsborg
+2016-04-29,Grusåsgränd 155,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1980,[Enskededalen],3195000,625000,3820000,3861,MäklarMäster,292.6350657931696,Sandsborg
+2016-04-28,Nynäsvägen 364,Gamla Enskede,Grön Hagsätra,2,44,2,Lägenhet,1939,[Enskede],1995000,155000,2150000,4931,Notar,297.3166521701529,Skogskyrkogarden
+2016-04-28,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,4,107,2,Lägenhet,1930,[Gamla Enskede],4595000,955000,5550000,5773,Notar,223.1210032605016,Sandsborg
+2016-04-28,Grusåsgränd 185,Gamla Enskede,Grön Hagsätra,2.5,64,2,Lägenhet,1980,[Enskededalen],2500000,410000,2910000,3013,HusmanHagberg,266.5026407110067,Sandsborg
+2016-04-27,Täppgränd 81,Gamla Enskede,Grön Hagsätra,6,130,1,Lägenhet,1982,[Enskededalen],4495000,1215000,5710000,5982,HusmanHagberg,373.205989579092,Sandsborg
+2016-04-24,Sockenvägen 363,Gamla Enskede,Grön Hagsätra,2,40,2,Lägenhet,1940,[Gamla Enskede],2295000,355000,2650000,2361,Fantastic Frank Fastighetsmäkleri,168.3993515026853,Sockenplan
+2016-04-21,Sockenvägen 423,Gamla Enskede,Grön Hagsätra,1,38,1,Lägenhet,1911,[Enskede],1995000,555000,2550000,2434,HusmanHagberg,719.1085726678235,Sandsborg
+2016-04-20,Sockenvägen 482,Gamla Enskede,Grön Hagsätra,2,49,1,Lägenhet,1943,[Gamla Enskede],2395000,565000,2960000,3490,Fastighetsbyrån,76.03984792416509,Skogskyrkogarden
+2016-04-20,Nynäsvägen 335,Gamla Enskede,Grön Hagsätra,2,41,3,Lägenhet,1927,[Gamla Enskede],2395000,305000,2700000,2131,Fastighetsbyrån,176.0673202593316,Sandsborg
+2016-04-20,Handelsvägen 28,Gamla Enskede,Grön Hagsätra,3,75,1,Lägenhet,1911,[Enskede-Årsta-Vantör],4975000,1250000,6225000,3700,Entré rekommenderade mäklare AB,618.2659026246521,Sockenplan
+2016-04-15,Björkvägen 39,Gamla Enskede,Grön Hagsätra,4,73,null,Parhus,1909,[Gamla Enskede],7495000,505000,8000000,null,HusmanHagberg,540.4347684808425,Sandsborg
+2016-04-15,Nynäsvägen 328,Gamla Enskede,Grön Hagsätra,3,86,3,Lägenhet,1926,[Enskede],3895000,1655000,5550000,1333,Svensk Fastighetsförmedling,191.5916412976636,Sandsborg
+2016-04-15,Guldsmedsvägen 3,Gamla Enskede,Grön Hagsätra,1,25,3,Lägenhet,1947,[Blåsut],1995000,325000,2320000,1760,HusmanHagberg,250.88675090161283,Blasut
+2016-04-14,Nynäsvägen 345,Gamla Enskede,Grön Hagsätra,1,36.2,3,Lägenhet,1921,[Gamla Enskede],2000000,638000,2638000,2185,Notar,251.37530293434946,Sandsborg
+2016-04-13,Grusåsgränd 183,Gamla Enskede,Grön Hagsätra,4,103,3,Lägenhet,1980,[Enskede],3995000,855000,4850000,4802,Södermäklarna,288.4756161090627,Sandsborg
+2016-04-12,Nynäsvägen 332,Gamla Enskede,Grön Hagsätra,1,45,2,Lägenhet,1926,[Enskede],2295000,515000,2810000,1937,Bjurfors,185.4327561564233,Sandsborg
+2016-04-09,Stockholmsvägen 49,Gamla Enskede,Grön Hagsätra,1,39,3,Lägenhet,null,[Gamla Enskede],2350000,400000,2750000,2388,Svenska Mäklarhuset,512.9171550114976,Sandsborg
+2016-04-07,Bersågränd 8,Gamla Enskede,Grön Hagsätra,2,64,2,Lägenhet,1981,[Enskededalen],2595000,745000,3340000,2703,Edward & Partners Fastighetsmäklare AB,317.84676646060547,Sandsborg
+2016-04-07,Täppgränd 109,Gamla Enskede,Grön Hagsätra,2,62,null,Lägenhet,1982,[Enskededalen],2450000,330000,2780000,2853,HusmanHagberg,346.12382900207075,Sandsborg
+2016-04-07,Täppgränd 5,Gamla Enskede,Grön Hagsätra,2,65,null,Lägenhet,1982,[Enskededalen],2295000,475000,2770000,2504,MäklarMäster,371.2967371541748,Sandsborg
+2016-04-07,Sockenvägen 423,Gamla Enskede,Grön Hagsätra,1,39,6,Lägenhet,1911,[Gamla Enskede],1995000,650000,2645000,2492,Mäklarhuset,719.1085726678235,Sandsborg
+2016-03-31,Nynäsvägen 350,Gamla Enskede,Grön Hagsätra,2,42,2,Lägenhet,1939,[Gamla Enskede],1995000,225000,2220000,4741,Länsförsäkringar Fastighetsförmedling,360.47678049249134,Sandsborg
+2016-03-31,Sockenvägen 365,Gamla Enskede,Grön Hagsätra,2,40,2,Lägenhet,1942,[Enskede],1995000,705000,2700000,2361,Svensk Fastighetsförmedling,198.71661473647956,Sockenplan
+2016-03-23,Nynäsvägen 347,Gamla Enskede,Grön Hagsätra,2,49,2,Lägenhet,1930,[Enskede],2495000,355000,2850000,2687,Notar,283.37067022953215,Sandsborg
+2016-03-20,Lilla Gungans väg 3,Gamla Enskede,Grön Hagsätra,6,158,null,Villa,1923,[Skarpnäcks stadsdelsområde],10450000,1250000,11700000,null,SkandiaMäklarna,227.41127594249014,Skogskyrkogarden
+2016-03-20,Dalgränd 50,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1981,[Enskededalen],2395000,275000,2670000,3830,MäklarMäster,391.48313845031663,Sandsborg
+2016-03-19,Björkvägen 44B,Gamla Enskede,Grön Hagsätra,2,61,2,Lägenhet,1909,[Gamla Enskede],3495000,715000,4210000,2419,Fastighetsbyrån,560.8545506247181,Sandsborg
+2016-03-16,Handelsvägen 65,Gamla Enskede,Grön Hagsätra,7,105,null,Villa,null,[Gamla Enskede],8200000,600000,8800000,null,Södermäklarna,480.93785892031866,Sockenplan
+2016-03-15,Grusåsgränd 10,Gamla Enskede,Grön Hagsätra,2,64,3,Lägenhet,1979,[Enskededalen],2500000,750000,3250000,2824,HusmanHagberg,278.62443778954577,Blasut
+2016-03-12,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,2,48,0,Lägenhet,1925,[Enskede],2395000,1005000,3400000,3045,Svensk Fastighetsförmedling,205.95634665812955,Sandsborg
+2016-03-12,Täppgränd 33,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1981,[Enskededalen],2295000,295000,2590000,2572,MäklarMäster,353.9070678026507,Sandsborg
+2016-03-10,Grusåsgränd 95,Gamla Enskede,Grön Hagsätra,2,64,2,Lägenhet,1980,[Enskededalen],2495000,505000,3000000,3174,HusmanHagberg,297.44324783742246,Sandsborg
+2016-03-09,Guldsmedsvägen 3,Gamla Enskede,Grön Hagsätra,1,25,2,Lägenhet,1947,[Blåsut],1795000,505000,2300000,1760,HusmanHagberg,250.88675090161283,Blasut
+2016-03-09,Grusåsgränd 162,Gamla Enskede,Grön Hagsätra,3.5,87,1,Lägenhet,1980,[Enskededalen],3250000,850000,4100000,3977,HusmanHagberg,198.42656099391408,Sandsborg
+2016-03-07,Stora Gungans väg 8,Gamla Enskede,Grön Hagsätra,2,35.2,1,Lägenhet,1913,[Gamla Enskede],2195000,630000,2825000,2133,Notar,110.20755190089722,Sandsborg
+2016-03-03,Stockholmsvägen 19,Gamla Enskede,Grön Hagsätra,2,51,2,Lägenhet,1909,[Gamla Enskede],3195000,785000,3980000,2230,Fastighetsbyrån,297.80092557440406,Sandsborg
+2016-03-03,Nynäsvägen 293,Gamla Enskede,Grön Hagsätra,1,null,null,Lägenhet,1945,[Skarpnäcks stadsdelsområde],1995000,405000,2400000,2727,Södermäklarna,342.1632150002294,Blasut
+2016-03-02,Nynäsvägen 294,Gamla Enskede,Grön Hagsätra,1,40,2,Lägenhet,1927,[Gamla Enskede],2295000,505000,2800000,2303,Länsförsäkringar Fastighetsförmedling,387.28979869215783,Blasut
+2016-03-01,Handelsvägen 22,Gamla Enskede,Grön Hagsätra,3,73,2,Lägenhet,1909,[Enskede],null,NaN,5850000,2944,Svensk Fastighetsförmedling,565.8611009934097,Sandsborg
+2016-02-27,Margaretavägen 4,Gamla Enskede,Grön Hagsätra,6,149,null,Villa,1910,[Enskede-Årsta-Vantör],10950000,1600000,12550000,null,SkandiaMäklarna,456.51980065157244,Sockenplan
+2016-02-26,Sockenvägen 398,Gamla Enskede,Grön Hagsätra,3,88,2,Lägenhet,2011,[Gamla Enskede],4795000,0,4795000,4793,Hemverket,384.98335342076354,Sockenplan
+2016-02-26,Nynäsvägen 337,Gamla Enskede,Grön Hagsätra,2,65,5,Lägenhet,1927,[Gamla Enskede],2995000,620000,3615000,3365,Notar,185.85681457011657,Sandsborg
+2016-02-25,Solvägen 27,Gamla Enskede,Grön Hagsätra,3,68,2,Lägenhet,1909,[Enskede],3995000,1835000,5830000,2711,Bjurfors,619.3124405774965,Sandsborg
+2016-02-25,Täppgränd 15,Gamla Enskede,Grön Hagsätra,4,97,1,Lägenhet,null,[Enskededalen],3495000,1105000,4600000,3601,Svensk Fastighetsförmedling,313.607467008899,Sandsborg
+2016-02-25,Nynäsvägen 303,Gamla Enskede,Grön Hagsätra,2,66,1,Lägenhet,1926,[Enskede],2895000,595000,3490000,4011,Bjurfors,233.90142695487737,Sandsborg
+2016-02-20,Täppgränd 109,Gamla Enskede,Grön Hagsätra,4,89,null,Lägenhet,1982,[Enskededalen],3195000,255000,3450000,4096,MäklarMäster,346.12382900207075,Sandsborg
+2016-02-18,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,1,34,2,Lägenhet,1925,[Gamla Enskede],1995000,355000,2350000,2003,Länsförsäkringar Fastighetsförmedling,205.95634665812955,Sandsborg
+2016-02-17,Nynäsvägen 310,Gamla Enskede,Grön Hagsätra,1,39,0,Lägenhet,1909,[Gamla Enskede],1695000,745000,2440000,1897,Fastighetsbyrån,251.56287207751149,Sandsborg
+2016-02-13,Nynäsvägen 364,Gamla Enskede,Grön Hagsätra,2,44,1,Lägenhet,1939,[Enskede],1850000,0,1850000,4931,Svensk Fastighetsförmedling,297.3166521701529,Skogskyrkogarden
+2016-02-12,Dalgränd 12,Gamla Enskede,Grön Hagsätra,3,79,1,Lägenhet,1981,[Enskededalen],2995000,225000,3220000,4043,Svensk Fastighetsförmedling,346.89890614021647,Blasut
+2016-02-11,Täppgränd 30,Gamla Enskede,Grön Hagsätra,6,130,null,Lägenhet,1982,[Enskededalen],4795000,305000,5100000,6711,MäklarMäster,393.82131049974635,Sandsborg
+2016-02-10,Sockenvägen 365,Gamla Enskede,Grön Hagsätra,2,40,0.5,Lägenhet,1942,[Gamla Enskede],2095000,505000,2600000,2317,Fastighetsbyrån,198.71661473647956,Sockenplan
+2016-02-10,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,3,62,null,Lägenhet,1925,[Gamla Enskede],2995000,340000,3335000,3653,Notar,205.95634665812955,Sandsborg
+2016-02-05,Tallkrogsvägen 14,Gamla Enskede,Grön Hagsätra,4.5,82,null,Lägenhet,1929,[Enskede],4195000,25000,4220000,5532,Svensk Fastighetsförmedling,295.3727439053625,Skogskyrkogarden
+2016-02-05,Ängsvägen 21,Gamla Enskede,Grön Hagsätra,6,170,null,Villa,1921,[Gamla Enskede],8900000,1550000,10450000,null,Fastighetsbyrån,435.21142222255946,Sandsborg
+2016-02-05,Stockholmsvägen 15,Gamla Enskede,Grön Hagsätra,3,78,3,Lägenhet,1911,[Enskede],4995000,105000,5100000,4189,Bjurfors,280.0904446897837,Sandsborg
+2016-02-05,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,3,78,1,Lägenhet,1930,[Enskede],3675000,775000,4450000,4229,Svensk Fastighetsförmedling,223.1210032605016,Sandsborg
+2016-02-04,Nynäsvägen 316,Gamla Enskede,Grön Hagsätra,1,39,2,Lägenhet,1925,[Gamla Enskede],1995000,675000,2670000,2297,Södermäklarna,214.65500142740711,Sandsborg
+2016-02-02,Nynäsvägen 312,Gamla Enskede,Grön Hagsätra,2,54.3,null,Lägenhet,1909,[Enskede],2695000,785000,3480000,2431,Erik Olsson Fastighetsförmedling,239.6305722236308,Sandsborg
+2016-01-30,Nynäsvägen 359,Gamla Enskede,Grön Hagsätra,3.5,88,1,Lägenhet,1933,[Enskede],3995000,215000,4210000,4345,Bjurfors,313.18707542548765,Skogskyrkogarden
+2016-01-29,Nynäsvägen 339,Gamla Enskede,Grön Hagsätra,3,80,null,Lägenhet,1927,[Skarpnäcks stadsdelsområde],3845000,172000,4017000,4919,SkandiaMäklarna,210.76895295783262,Sandsborg
+2016-01-28,Guldsmedsvägen 5,Gamla Enskede,Grön Hagsätra,2,38,2,Lägenhet,1947,[Enskededalen],2175000,245000,2420000,2593,Mäklarringen,244.73078430272872,Blasut
+2016-01-28,Täppgränd 7,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1984,[Enskede],3795000,755000,4550000,3807,Bjurfors,345.581331144029,Sandsborg
+2016-01-25,Nynäsvägen 350A,Gamla Enskede,Grön Hagsätra,3.5,83,-1,Lägenhet,1939,[Enskede],1750000,225000,1975000,9512,Notar,376.2743305207546,Sandsborg
+2016-01-24,Skolvägen 6,Gamla Enskede,Grön Hagsätra,3,91,5,Lägenhet,2008,[Enskededalen],4300000,410000,4710000,5596,Svensk Fastighetsförmedling,259.6627719889886,Sandsborg
+2016-01-22,Nynäsvägen 366A,Gamla Enskede,Grön Hagsätra,3,68,1,Lägenhet,1990,[Gamla Enskede],1950000,350000,2300000,7985,HusmanHagberg,279.92771673688264,Skogskyrkogarden
+2016-01-20,Nynäsvägen 294,Gamla Enskede,Grön Hagsätra,1,44,3,Lägenhet,1927,[Gamla Enskede],2295000,305000,2600000,2473,Fastighetsbyrån,387.28979869215783,Blasut
+2016-01-16,Nynäsvägen 306,Gamla Enskede,Grön Hagsätra,2.5,69,1,Lägenhet,1929,[Gamla Enskede],2795000,305000,3100000,3596,HusmanHagberg,278.89425747202927,Sandsborg
+2016-01-15,Dalgränd 14,Gamla Enskede,Grön Hagsätra,4,97,0,Lägenhet,1981,[Enskededalen],3500000,500000,4000000,4709,Fastighetsbyrån,333.418661013819,Blasut
+2016-01-15,Glasmålarvägen 4,Gamla Enskede,Grön Hagsätra,2,58,3,Lägenhet,1942,[Enskede],2495000,322000,2817000,2950,Notar,261.54326560279327,Blasut
+2016-01-15,Grusåsgränd 26,Gamla Enskede,Grön Hagsätra,6,130,1,Lägenhet,1979,[Enskededalen],4895000,815000,5710000,5914,HusmanHagberg,299.1163740627926,Blasut
+2016-01-14,Bersågränd 2,Gamla Enskede,Grön Hagsätra,3,87,null,Lägenhet,1980,[Enskededalen],2995000,475000,3470000,3644,Mäklarringen,265.2775257517935,Sandsborg
+2016-01-14,Täppgränd 6,Gamla Enskede,Grön Hagsätra,3,82,1,Lägenhet,1982,[Enskede],2950000,760000,3710000,3849,HusmanHagberg,418.193967712213,Sandsborg
+2016-01-14,Grusåsgränd 143,Gamla Enskede,Grön Hagsätra,4,104,1,Lägenhet,1980,[Enskededalen],3775000,950000,4725000,4754,Svensk Fastighetsförmedling,262.4863325151377,Sandsborg
+2016-01-14,Grusåsgränd 160,Gamla Enskede,Grön Hagsätra,4,97,2,Lägenhet,1980,[Enskededalen],3395000,755000,4150000,4434,HusmanHagberg,198.8991294404011,Sandsborg
+2016-01-13,Nynäsvägen 359,Gamla Enskede,Grön Hagsätra,2,56,2,Lägenhet,1933,[Enskede],2495000,405000,2900000,3029,Erik Olsson Fastighetsförmedling,313.18707542548765,Skogskyrkogarden
+2015-12-21,Glasmålarvägen 2,Gamla Enskede,Grön Hagsätra,2,42,2,Lägenhet,1942,[Enskede],2295000,555000,2850000,2268,Notar,250.082234080764,Blasut
+2015-12-11,Täppgränd 115,Gamla Enskede,Grön Hagsätra,3.5,87,1,Lägenhet,1982,[Enskededalen],2950000,370000,3320000,3925,Notar,399.33981687979906,Sandsborg
+2015-12-11,Glasmålarvägen 6,Gamla Enskede,Grön Hagsätra,2,45,2,Lägenhet,1942,[Enskede],1995000,405000,2400000,2353,Notar,278.7724855463133,Blasut
+2015-12-11,Täppgränd 113,Gamla Enskede,Grön Hagsätra,4,103,2,Lägenhet,1982,[Enskededalen],3695000,105000,3800000,4647,Notar,385.0971831013816,Sandsborg
+2015-12-09,Sockenvägen 367,Gamla Enskede,Grön Hagsätra,2,40,3,Lägenhet,1942,[Enskede],2095000,555000,2650000,2384,Svensk Fastighetsförmedling,182.86316276052295,Sockenplan
+2015-12-04,Stockholmsvägen 22,Gamla Enskede,Grön Hagsätra,4,80,2,Lägenhet,1910,[Gamla Enskede],5895000,5000,5900000,4898,Fastighetsbyrån,334.0720439943662,Sandsborg
+2015-11-30,Krokvägen 76,Gamla Enskede,Grön Hagsätra,7,144,null,Villa,1928,[Enskede-Årsta-Vantör],10750000,-350000,10400000,null,SkandiaMäklarna,357.5664322684374,Skogskyrkogarden
+2015-11-27,Dalgränd 14,Gamla Enskede,Grön Hagsätra,4,97,2,Lägenhet,1981,[Enskededalen],3595000,830000,4425000,4892,Svensk Fastighetsförmedling,333.418661013819,Blasut
+2015-11-26,Dalgränd 60,Gamla Enskede,Grön Hagsätra,2,65,null,Lägenhet,1981,[Enskededalen],2195000,505000,2700000,3878,Länsförsäkringar Fastighetsförmedling,394.29050589239915,Sandsborg
+2015-11-26,Krokvägen 29,Gamla Enskede,Grön Hagsätra,7,138,null,Parhus,1909,[Enskede-Årsta-Vantör],8250000,0,8250000,null,SkandiaMäklarna,279.690888933476,Sandsborg
+2015-11-26,Grusåsgränd 164,Gamla Enskede,Grön Hagsätra,2.5,64,3,Lägenhet,1981,[Enskededalen],2395000,505000,2900000,2925,Notar,242.45290820371176,Sandsborg
+2015-11-26,Nynäsvägen 362,Gamla Enskede,Grön Hagsätra,2,44,1,Lägenhet,1939,[Gamla Enskede],1995000,55000,2050000,4741,Notar,306.43588903299946,Skogskyrkogarden
+2015-11-25,Grusåsgränd 110,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1979,[Enskededalen],2295000,555000,2850000,3425,MäklarMäster,273.9024147139842,Sandsborg
+2015-11-21,Grusåsgränd 91,Gamla Enskede,Grön Hagsätra,4,97,2,Lägenhet,1980,[Enskededalen],3395000,325000,3720000,4645,Länsförsäkringar Fastighetsförmedling,330.2016912992966,Sandsborg
+2015-11-21,Täppgränd 9,Gamla Enskede,Grön Hagsätra,3,88,3,Lägenhet,1981,[Enskededalen],3175000,145000,3320000,3293,Fastighetsbyrån,321.5143498395716,Sandsborg
+2015-11-21,Nynäsvägen 308,Gamla Enskede,Grön Hagsätra,1.5,52,1,Lägenhet,1929,[Gamla Enskede],2195000,435000,2630000,2786,HusmanHagberg,263.34729264876603,Sandsborg
+2015-11-18,Sockenvägen 425,Gamla Enskede,Grön Hagsätra,1,42.5,2,Lägenhet,1915,[Gamla Enskede],2390000,210000,2600000,2650,Hemverket,716.0700205923172,Sandsborg
+2015-11-16,Nynäsvägen 328,Gamla Enskede,Grön Hagsätra,1.5,41,2,Lägenhet,1926,[Gamla Enskede],2195000,755000,2950000,646,Notar,191.5916412976636,Sandsborg
+2015-11-15,Nynäsvägen 345,Gamla Enskede,Grön Hagsätra,1,44,1,Lägenhet,1930,[Enskede],1995000,580000,2575000,2437,Bjurfors,251.37530293434946,Sandsborg
+2015-11-13,Nynäsvägen 325,Gamla Enskede,Grön Hagsätra,1,39.4,3,Lägenhet,1913,[Gamla Enskede],1995000,880000,2875000,1839,Notar,128.18460641198828,Sandsborg
+2015-11-13,Nynäsvägen 325,Gamla Enskede,Grön Hagsätra,4,97.3,1,Lägenhet,1913,[Gamla Enskede],4495000,205000,4700000,5491,Notar,128.18460641198828,Sandsborg
+2015-11-12,Dalgränd 28,Gamla Enskede,Grön Hagsätra,6,130,null,Lägenhet,1981,[Enskededalen],4395000,225000,4620000,6930,Notar,417.1695100041945,Blasut
+2015-11-12,Handelsvägen 18,Gamla Enskede,Grön Hagsätra,2,44,1,Lägenhet,1930,[Enskede],2250000,1060000,3310000,2698,Bjurfors,504.7283760785339,Sandsborg
+2015-11-07,Glasmålarvägen 8,Gamla Enskede,Grön Hagsätra,3,67,2,Lägenhet,1943,[Blåsut],2975000,450000,3425000,3007,Fastighetsbyrån,297.0415094586614,Blasut
+2015-11-06,Sockenvägen 476,Gamla Enskede,Grön Hagsätra,2,49,2,Lägenhet,1943,[Gamla Enskede],2295000,425000,2720000,3422,Fastighetsbyrån,130.12833347915745,Skogskyrkogarden
+2015-11-06,Grusåsgränd 89,Gamla Enskede,Grön Hagsätra,3,79,2,Lägenhet,1979,[Enskededalen],2995000,375000,3370000,3911,Mäklarhuset,357.44985265871344,Sandsborg
+2015-11-06,Stora Gungans väg 8,Gamla Enskede,Grön Hagsätra,1,26.4,1,Lägenhet,1913,[Enskede],1795000,35000,1830000,2607,Svensk Fastighetsförmedling,110.20755190089722,Sandsborg
+2015-11-03,Glasmålarvägen 8,Gamla Enskede,Grön Hagsätra,2,42,2,Lägenhet,1942,[Blåsut],2150000,460000,2610000,2268,HusmanHagberg,297.0415094586614,Blasut
+2015-11-03,Dalgränd 22,Gamla Enskede,Grön Hagsätra,3,94,4,Lägenhet,1981,[Enskededalen],2995000,605000,3600000,4612,Notar,309.0892626315861,Blasut
+2015-11-02,Nynäsvägen 359,Gamla Enskede,Grön Hagsätra,1.5,44,2,Lägenhet,1933,[Enskede],2295000,0,2295000,2665,Bjurfors,313.18707542548765,Skogskyrkogarden
+2015-10-30,Stockholmsvägen 19,Gamla Enskede,Grön Hagsätra,3,81,1,Lägenhet,1909,[Gamla Enskede],4895000,1355000,6250000,3095,Fastighetsbyrån,297.80092557440406,Sandsborg
+2015-10-30,Stockholmsvägen 59,Gamla Enskede,Grön Hagsätra,5,111,null,Lägenhet,1913,[Gamla Enskede],6450000,1805000,8255000,3371,Fastighetsbyrån,616.3683172983524,Sandsborg
+2015-10-21,Guldsmedsvägen 7,Gamla Enskede,Grön Hagsätra,1.5,38,2,Lägenhet,1947,[Blåsut],2175000,250000,2425000,2593,SverigeMäklaren,239.16072974991135,Blasut
+2015-10-21,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,1,38,1,Lägenhet,1925,[Gamla Enskede],2095000,505000,2600000,2239,Edward & Partners Fastighetsmäklare AB,205.95634665812955,Sandsborg
+2015-10-19,Nynäsvägen 361,Gamla Enskede,Grön Hagsätra,2.5,69.1,5,Lägenhet,1928,[Gamla Enskede],2795000,505000,3300000,3021,Notar,285.1995049921597,Skogskyrkogarden
+2015-10-19,Grusåsgränd 119,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1979,[Enskededalen],2800000,0,2800000,3261,Länsförsäkringar Fastighetsförmedling,318.3354766186627,Sandsborg
+2015-10-16,Sockenvägen 423,Gamla Enskede,Grön Hagsätra,3,73.5,3,Lägenhet,1911,[Gamla Enskede],4795000,0,4795000,4438,Fastighetsbyrån,719.1085726678235,Sandsborg
+2015-10-16,Grusåsgränd 91,Gamla Enskede,Grön Hagsätra,4,103,3,Lägenhet,1979,[Enskededalen],3450000,460000,3910000,4863,Mäklarhuset,330.2016912992966,Sandsborg
+2015-10-15,Nynäsvägen 294,Gamla Enskede,Grön Hagsätra,1,44,1,Lägenhet,1927,[Enskede-Årsta-Vantör],1995000,755000,2750000,2473,Södermäklarna,387.28979869215783,Blasut
+2015-10-14,Grusåsgränd 86,Gamla Enskede,Grön Hagsätra,2,68,null,Lägenhet,1979,[Skarpnäcks stadsdelsområde],2295000,805000,3100000,3318,MäklarMäster,212.95476500877885,Sandsborg
+2015-10-14,Margaretavägen 45,Gamla Enskede,Grön Hagsätra,5,89,null,Radhus,1909,[Enskede-Årsta-Vantör],7250000,1450000,8700000,null,SkandiaMäklarna,560.3048535533759,Sockenplan
+2015-10-13,Stora Gungans väg 6B,Gamla Enskede,Grön Hagsätra,2,58,2,Lägenhet,1913,[Gamla Enskede],2650000,670000,3320000,2755,HusmanHagberg,192.6337645844755,Sandsborg
+2015-10-08,Sofielundsvägen 14,Gamla Enskede,Grön Hagsätra,2,54,1,Lägenhet,1943,[Enskededalen],2695000,480000,3175000,2688,Svensk Fastighetsförmedling,188.84056637433622,Blasut
+2015-10-07,Sockenvägen 400,Gamla Enskede,Grön Hagsätra,2,63,2,Lägenhet,2010,[Gamla Enskede],3250000,450000,3700000,3431,HusmanHagberg,407.51490377728265,Sockenplan
+2015-10-07,Nynäsvägen 375B,Gamla Enskede,Grön Hagsätra,2,45,1,Lägenhet,1945,[Enskede],1995000,315000,2310000,3189,Svensk Fastighetsförmedling,154.9463970475312,Skogskyrkogarden
+2015-10-06,Guldsmedsvägen 5,Gamla Enskede,Grön Hagsätra,1,20,null,Lägenhet,1947,[Enskede],1595000,435000,2030000,1472,HusmanHagberg,244.73078430272872,Blasut
+2015-10-05,Nynäsvägen 342B,Gamla Enskede,Grön Hagsätra,2,56,2,Lägenhet,1921,[Gamla Enskede],2495000,30000,2525000,3424,Notar,282.8868232746589,Sandsborg
+2015-10-05,Nynäsvägen 293,Gamla Enskede,Grön Hagsätra,1.5,38,3,Lägenhet,1945,[Gamla Enskede],2000000,625000,2625000,2181,Notar,342.1632150002294,Blasut
+2015-10-05,Nynäsvägen 361,Gamla Enskede,Grön Hagsätra,3,74.6,2,Lägenhet,1928,[Gamla Enskede],3295000,15000,3310000,3245,Notar,285.1995049921597,Skogskyrkogarden
+2015-10-05,Nynäsvägen 313,Gamla Enskede,Grön Hagsätra,1,41.5,5,Lägenhet,1911,[Gamla Enskede],2195000,775000,2970000,2394,Notar,162.1769335320457,Sandsborg
+2015-10-04,Grusåsgränd 82,Gamla Enskede,Grön Hagsätra,4,103,1,Lägenhet,1979,[Enskededalen],3650000,35000,3685000,4572,Mäklarhuset,237.1840594644206,Sandsborg
+2015-10-02,Kantarellvägen 13,Gamla Enskede,Grön Hagsätra,6,158,null,Villa,1928,[Gamla Enskede],8995000,1705000,10700000,null,HusmanHagberg,434.3356949485644,Skogskyrkogarden
+2015-10-01,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,2.5,78,2,Lägenhet,1930,[Enskede],3300000,0,3300000,4229,Bjurfors,223.1210032605016,Sandsborg
+2015-10-01,Täppgränd 9,Gamla Enskede,Grön Hagsätra,4,103,1,Lägenhet,1981,[Enskededalen],3395000,330000,3725000,3807,Fastighetsbyrån,321.5143498395716,Sandsborg
+2015-09-27,Täppgränd 6,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1982,[Skarpnäcks stadsdelsområde],3495000,335000,3830000,4929,MäklarMäster,418.193967712213,Sandsborg
+2015-09-25,Grusåsgränd 86,Gamla Enskede,Grön Hagsätra,4,103,2,Lägenhet,null,[Enskededalen],3595000,205000,3800000,4788,Fastighetsbyrån,212.95476500877885,Sandsborg
+2015-09-24,Grusåsgränd 57,Gamla Enskede,Grön Hagsätra,6,130,null,Lägenhet,1979,[Enskededalen],4600000,1250000,5850000,6129,HusmanHagberg,333.656165536559,Blasut
+2015-09-22,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,1,39,2,Lägenhet,1930,[Enskede],2175000,495000,2670000,2374,Svensk Fastighetsförmedling,223.1210032605016,Sandsborg
+2015-09-20,Bersågränd 4,Gamla Enskede,Grön Hagsätra,3,87,null,Lägenhet,1981,[Skarpnäcks stadsdelsområde],3195000,255000,3450000,3565,MäklarMäster,283.4993755944907,Sandsborg
+2015-09-19,Täppgränd 10,Gamla Enskede,Grön Hagsätra,3,82,2,Lägenhet,1982,[Enskede],2850000,300000,3150000,3792,HusmanHagberg,435.56974491106195,Sandsborg
+2015-09-18,Grusåsgränd 93,Gamla Enskede,Grön Hagsätra,3,87,null,Lägenhet,1979,[Skarpnäcks stadsdelsområde],2895000,415000,3310000,4198,SkandiaMäklarna,330.7958367174271,Sandsborg
+2015-09-17,Nynäsvägen 348,Gamla Enskede,Grön Hagsätra,2,42,2,Lägenhet,1939,[Gamla Enskede],1995000,105000,2100000,4741,Fastighetsbyrån,348.8409166825914,Sandsborg
+2015-09-17,Ängsvägen 5,Gamla Enskede,Grön Hagsätra,5,111,null,Parhus,1909,[Gamla Enskede],6975000,1725000,8700000,null,Fastighetsbyrån,420.59269325886066,Sandsborg
+2015-09-16,Kantarellvägen 1,Gamla Enskede,Grön Hagsätra,6,142,null,Villa,1926,[Enskede-Årsta-Vantör],9950000,1150000,11100000,null,SkandiaMäklarna,548.5365448491863,Skogskyrkogarden
+2015-09-16,Täppgränd 109,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1982,[Skarpnäcks stadsdelsområde],2195000,575000,2770000,2888,MäklarMäster,346.12382900207075,Sandsborg
+2015-09-12,Täppgränd 7,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1982,[Skarpnäcks stadsdelsområde],3485000,15000,3500000,3807,SkandiaMäklarna,345.581331144029,Sandsborg
+2015-09-11,Täppgränd 113,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1982,[Skarpnäcks stadsdelsområde],3395000,425000,3820000,4647,MäklarMäster,385.0971831013816,Sandsborg
+2015-09-11,Sockenvägen 402,Gamla Enskede,Grön Hagsätra,4,95,0,Lägenhet,2010,[Gamla Enskede],4895000,0,4895000,5174,Fastighetsbyrån,429.26593178084147,Sockenplan
+2015-09-10,Björkvägen 1,Gamla Enskede,Grön Hagsätra,5,134,null,Villa,1911,[Enskede-Årsta-Vantör],9250000,450000,9700000,null,SkandiaMäklarna,625.3405088503381,Sockenplan
+2015-09-09,Gamla Dalarövägen 16,Gamla Enskede,Grön Hagsätra,4,106,null,Villa,1911,[Enskede],6200000,2400000,8600000,null,Svensk Fastighetsförmedling,137.64873256925458,Sandsborg
+2015-09-09,Nynäsvägen 307,Gamla Enskede,Grön Hagsätra,2,61,null,Lägenhet,1911,[Enskede],2795000,255000,3050000,3717,Bjurfors,201.50584693541845,Sandsborg
+2015-09-09,Grusåsgränd 84,Gamla Enskede,Grön Hagsätra,3.5,88,1,Lägenhet,1979,[Enskede],3195000,0,3195000,4049,Bjurfors,226.84964677479908,Sandsborg
+2015-09-04,Sockenvägen 398,Gamla Enskede,Grön Hagsätra,2,63,2,Lägenhet,2010,[Gamla Enskede],3195000,360000,3555000,3431,Fastighetsbyrån,384.98335342076354,Sockenplan
+2015-09-04,Tallkrogsvägen 10,Gamla Enskede,Grön Hagsätra,5,109,null,Lägenhet,1927,[Gamla Enskede],5395000,55000,5450000,4720,Fastighetsbyrån,260.3404335556786,Skogskyrkogarden
+2015-09-03,Grusåsgränd 84,Gamla Enskede,Grön Hagsätra,4,82,null,Lägenhet,1979,[Enskededalen],2895000,805000,3700000,null,Svensk Fastighetsförmedling,226.84964677479908,Sandsborg
+2015-09-03,Grusåsgränd 95,Gamla Enskede,Grön Hagsätra,2,64,1,Lägenhet,1980,[Enskededalen],1995000,765000,2760000,3174,HusmanHagberg,297.44324783742246,Sandsborg
+2015-09-02,Glasmålarvägen 6,Gamla Enskede,Grön Hagsätra,3,72,1,Lägenhet,1943,[Enskede],2995000,625000,3620000,3467,Erik Olsson Fastighetsförmedling,278.7724855463133,Blasut
+2015-09-02,Bersågränd 4,Gamla Enskede,Grön Hagsätra,3,82,2,Lägenhet,1981,[Enskededalen],2850000,725000,3575000,3359,Mäklarhuset,283.4993755944907,Sandsborg
+2015-09-02,Nynäsvägen 349,Gamla Enskede,Grön Hagsätra,1,37,1,Lägenhet,1930,[Enskede],2295000,305000,2600000,2196,Bjurfors,300.0339967632428,Sandsborg
+2015-09-01,Sockenvägen 478,Gamla Enskede,Grön Hagsätra,2,51,3,Lägenhet,null,[Enskede],2195000,115000,2310000,3422,Bjurfors,116.89040351793756,Skogskyrkogarden
+2015-09-01,Sofielundsvägen 10,Gamla Enskede,Grön Hagsätra,3,63,4,Lägenhet,1943,[Enskede],2995000,555000,3550000,3281,Bjurfors,202.546104452447,Blasut
+2015-08-28,Stockholmsvägen 22,Gamla Enskede,Grön Hagsätra,4,89.1,null,Lägenhet,null,[Gamla Enskede],5895000,1005000,6900000,4948,Fastighetsbyrån,334.0720439943662,Sandsborg
+2015-08-28,Bersågränd 40,Gamla Enskede,Grön Hagsätra,5,104,1,Lägenhet,null,[Enskededalen],3995000,645000,4640000,4339,Fastighetsbyrån,285.6366593543078,Sandsborg
+2015-08-25,Skolvägen 6,Gamla Enskede,Grön Hagsätra,5,105,null,Lägenhet,2008,[Skarpnäcks stadsdelsområde],4795000,505000,5300000,6547,Entré rekommenderade mäklare AB,259.6627719889886,Sandsborg
+2015-08-21,Dalgränd 38,Gamla Enskede,Grön Hagsätra,3.5,82,1,Lägenhet,1981,[Enskededalen],3150000,270000,3420000,4676,Fastighetsbyrån,400.9509889307779,Blasut
+2015-08-20,Stockholmsvägen 2,Gamla Enskede,Grön Hagsätra,1,37,2,Lägenhet,1925,[Gamla Enskede],2000000,640000,2640000,1698,Fastighetsbyrån,313.37478589976206,Sandsborg
+2015-08-20,Tallkrogsvägen 24,Gamla Enskede,Grön Hagsätra,4,86,null,Lägenhet,1927,[Gamla Enskede],4995000,705000,5700000,4484,Fastighetsbyrån,399.9476068475682,Skogskyrkogarden
+2015-08-20,Skolvägen 9,Gamla Enskede,Grön Hagsätra,2,59,1,Lägenhet,1926,[Enskededalen],2795000,-115000,2680000,3581,Fastighetsbyrån,243.45006863800725,Sandsborg
+2015-08-20,Glasmålarvägen 8,Gamla Enskede,Grön Hagsätra,3,67,2,Lägenhet,1943,[Johanneshov],2795000,105000,2900000,3007,Fastighetsbyrån,297.0415094586614,Blasut
+2015-08-15,Tallkrogsvägen 10,Gamla Enskede,Grön Hagsätra,3,60,null,Lägenhet,null,[Gamla Enskede],3595000,365000,3960000,2867,Fastighetsbyrån,260.3404335556786,Skogskyrkogarden
+2015-08-14,Tallkrogsvägen 10,Gamla Enskede,Grön Hagsätra,5,102,2,Lägenhet,null,[Gamla Enskede],5495000,205000,5700000,4940,Fastighetsbyrån,260.3404335556786,Skogskyrkogarden
+2015-08-14,Guldsmedsvägen 9,Gamla Enskede,Grön Hagsätra,1,26,1,Lägenhet,1947,[Enskededalen],1595000,30000,1625000,1829,Erik Olsson Fastighetsförmedling,235.40048217893488,Blasut
+2015-08-13,Grusåsgränd 179,Gamla Enskede,Grön Hagsätra,4,97,3,Lägenhet,1980,[Enskededalen],3495000,0,3495000,4434,Fastighetsbyrån,307.3976344531023,Sandsborg
+2015-08-12,Sofielundsvägen 16,Gamla Enskede,Grön Hagsätra,3,59,3,Lägenhet,1943,[Blåsut],2800000,735000,3535000,3047,HusmanHagberg,182.96663410466954,Blasut
+2015-08-05,Stockholmsvägen 57,Gamla Enskede,Grön Hagsätra,1,43,2,Lägenhet,1912,[Gamla Enskede],2095000,365000,2460000,1820,Notar,601.8720053766662,Sandsborg
+2015-07-24,Nynäsvägen 369,Gamla Enskede,Grön Hagsätra,1,43,1,Lägenhet,1927,[Enskede],1795000,615000,2410000,2345,Notar,211.2637552150081,Skogskyrkogarden
+2015-07-13,Grusåsgränd 127,Gamla Enskede,Grön Hagsätra,3.5,85,null,Lägenhet,1979,[Enskededalen],2995000,605000,3600000,4124,HusmanHagberg,334.0649805086446,Sandsborg
+2015-07-10,Nynäsvägen 295,Gamla Enskede,Grön Hagsätra,1.5,38,4,Lägenhet,1945,[Gamla Enskede],2000000,650000,2650000,2181,Notar,328.8938041584174,Sandsborg
+2015-06-26,Murklevägen 90,Gamla Enskede,Grön Hagsätra,5,102,null,Villa,1935,[Enskede],7595000,905000,8500000,null,Bjurfors,690.6583906415716,Skogskyrkogarden
+2015-06-26,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,2,62,3,Lägenhet,1930,[Gamla Enskede],2690000,460000,3150000,3237,Notar,223.1210032605016,Sandsborg
+2015-06-18,Bersågränd 4,Gamla Enskede,Grön Hagsätra,3,87,1,Lägenhet,1981,[Enskededalen],2795000,115000,2910000,3556,Erik Olsson Fastighetsförmedling,283.4993755944907,Sandsborg
+2015-06-17,Nynäsvägen 345,Gamla Enskede,Grön Hagsätra,2.5,57,1,Lägenhet,1920,[Gamla Enskede],2395000,505000,2900000,2960,Erik Olsson Fastighetsförmedling,251.37530293434946,Sandsborg
+2015-06-12,Rörsoppsvägen 12,Gamla Enskede,Grön Hagsätra,6,148,null,Villa,1926,[Enskede-Årsta-Vantör],10450000,2350000,12800000,null,SkandiaMäklarna,548.9251143754974,Skogskyrkogarden
+2015-06-10,Grusåsgränd 84,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1979,[Skarpnäcks stadsdelsområde],2895000,275000,3170000,3973,MäklarMäster,226.84964677479908,Sandsborg
+2015-06-10,Dalgränd 16,Gamla Enskede,Grön Hagsätra,3,79,3,Lägenhet,1981,[Enskededalen],3525000,0,3525000,3926,Svensk Fastighetsförmedling,316.02518152960533,Blasut
+2015-06-09,Enskedevägen 39,Gamla Enskede,Grön Hagsätra,7,145,null,Villa,1909,[Enskede],8500000,600000,9100000,null,Svensk Fastighetsförmedling,567.0033322737097,Sockenplan
+2015-06-08,Glasmålarvägen 2,Gamla Enskede,Grön Hagsätra,1,28,null,Lägenhet,1943,[Enskede],1495000,440000,1935000,1796,Berggren & Co Fastighetsmäkleri,250.082234080764,Blasut
+2015-06-06,Stockholmsvägen 59,Gamla Enskede,Grön Hagsätra,2,38,null,Lägenhet,1913,[Enskede],2495000,105000,2600000,null,Svensk Fastighetsförmedling,616.3683172983524,Sandsborg
+2015-06-05,Solvägen 27,Gamla Enskede,Grön Hagsätra,3.5,83,1,Lägenhet,1909,[Enskede],4975000,795000,5770000,3347,Svensk Fastighetsförmedling,619.3124405774965,Sandsborg
+2015-06-05,Plantskolevägen 31,Gamla Enskede,Grön Hagsätra,7,136,null,Villa,1934,[Gamla Enskede],8800000,1700000,10500000,null,Fastighetsbyrån,491.9523195296795,Sockenplan
+2015-06-04,Sockenvägen 402,Gamla Enskede,Grön Hagsätra,4,97,2,Lägenhet,2010,[Gamla Enskede],4895000,215000,5110000,5284,Fastighetsbyrån,429.26593178084147,Sockenplan
+2015-06-04,Sockenvägen 482,Gamla Enskede,Grön Hagsätra,2,49,2,Lägenhet,1945,[Enskede],2295000,225000,2520000,3422,HusmanHagberg,76.03984792416509,Skogskyrkogarden
+2015-06-03,Nynäsvägen 310,Gamla Enskede,Grön Hagsätra,2,62,1,Lägenhet,1908,[Enskede],2575000,335000,2910000,3015,Entré rekommenderade mäklare AB,251.56287207751149,Sandsborg
+2015-06-03,Stockholmsvägen 27,Gamla Enskede,Grön Hagsätra,2,48,1,Lägenhet,1910,[Enskede],2595000,-95000,2500000,3081,Svensk Fastighetsförmedling,306.6365420313989,Sandsborg
+2015-06-03,Björkvägen 44A,Gamla Enskede,Grön Hagsätra,3,73,2,Lägenhet,1909,[Enskede],3995000,705000,4700000,2535,Bjurfors,563.6169325318374,Sandsborg
+2015-06-03,Stockholmsvägen 2,Gamla Enskede,Grön Hagsätra,1,37,3,Lägenhet,1925,[Gamla Enskede],2095000,215000,2310000,1698,Fastighetsbyrån,313.37478589976206,Sandsborg
+2015-06-02,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,1.5,46,3,Lägenhet,1925,[Enskede],2695000,105000,2800000,2710,Alexander White Fastighetsmäkleri,205.95634665812955,Sandsborg
+2015-05-30,Sockenvägen 398,Gamla Enskede,Grön Hagsätra,1,46,1,Lägenhet,2011,[Enskede],1995000,215000,2210000,2505,Mäklarhuset,384.98335342076354,Sockenplan
+2015-05-27,Grusåsgränd 148,Gamla Enskede,Grön Hagsätra,4,82,null,Lägenhet,1980,[Enskededalen],2995000,605000,3600000,3748,HusmanHagberg,229.23193373408228,Sandsborg
+2015-05-27,Nynäsvägen 347,Gamla Enskede,Grön Hagsätra,2,61,2,Lägenhet,1930,[Enskede],2695000,575000,3270000,3065,Bjurfors,283.37067022953215,Sandsborg
+2015-05-23,Nynäsvägen 339,Gamla Enskede,Grön Hagsätra,1,45,1,Lägenhet,1927,[Enskede],2100000,200000,2300000,2768,Svensk Fastighetsförmedling,210.76895295783262,Sandsborg
+2015-05-22,Täppgränd 105,Gamla Enskede,Grön Hagsätra,3,87,1,Lägenhet,1982,[Enskededalen],2795000,200000,2995000,3925,Mäklarhuset,306.6611460645003,Sandsborg
+2015-05-22,Sofielundsvägen 12,Gamla Enskede,Grön Hagsätra,2,54,3,Lägenhet,1943,[Enskededalen],2200000,610000,2810000,2784,Svensk Fastighetsförmedling,195.69420494264656,Blasut
+2015-05-21,Grusåsgränd 82,Gamla Enskede,Grön Hagsätra,4,103,2,Lägenhet,1979,[Enskededalen],3350000,525000,3875000,4657,Mäklarhuset,237.1840594644206,Sandsborg
+2015-05-21,Svampvägen 181,Gamla Enskede,Grön Hagsätra,6,96,null,Villa,1937,[Enskede],7795000,805000,8600000,null,Bjurfors,386.4948926512832,Skogskyrkogarden
+2015-05-20,Nynäsvägen 347,Gamla Enskede,Grön Hagsätra,1.5,42,2,Lägenhet,1930,[Enskede],2050000,510000,2560000,2353,Bjurfors,283.37067022953215,Sandsborg
+2015-05-20,Grusåsgränd 179,Gamla Enskede,Grön Hagsätra,2,60,null,Lägenhet,1979,[Enskededalen],1950000,770000,2720000,2743,Entré rekommenderade mäklare AB,307.3976344531023,Sandsborg
+2015-05-14,Sockenvägen 400,Gamla Enskede,Grön Hagsätra,4,95,0,Lägenhet,2010,[Gamla Enskede],4795000,665000,5460000,5174,Fastighetsbyrån,407.51490377728265,Sockenplan
+2015-05-13,Nynäsvägen 349,Gamla Enskede,Grön Hagsätra,2,41,1,Lägenhet,1930,[Gamla Enskede],2095000,425000,2520000,2322,Erik Olsson Fastighetsförmedling,300.0339967632428,Sandsborg
+2015-05-13,Skolvägen 6,Gamla Enskede,Grön Hagsätra,3,73,1,Lägenhet,2008,[Enskede],2995000,725000,3720000,4489,Bjurfors,259.6627719889886,Sandsborg
+2015-05-13,Nynäsvägen 361,Gamla Enskede,Grön Hagsätra,2,37,2,Lägenhet,1928,[Enskede],1950000,450000,2400000,1679,Notar,285.1995049921597,Skogskyrkogarden
+2015-05-12,Stora Gungans väg 6A,Gamla Enskede,Grön Hagsätra,3,63,3,Lägenhet,1913,[Enskede],2375000,725000,3100000,2969,Svensk Fastighetsförmedling,186.46051804139614,Sandsborg
+2015-05-12,Grusåsgränd 175,Gamla Enskede,Grön Hagsätra,7,130,null,Radhus,1980,[Enskede],4900000,-100000,4800000,5942,Bjurfors,321.9418381551192,Sandsborg
+2015-05-11,Täppgränd 8,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1982,[Enskededalen],3395000,0,3395000,4624,HusmanHagberg,437.675448873049,Sandsborg
+2015-05-08,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,2.5,78,1,Lägenhet,1930,[Enskede],2950000,385000,3335000,4229,Svensk Fastighetsförmedling,223.1210032605016,Sandsborg
+2015-05-08,Handelsvägen 30,Gamla Enskede,Grön Hagsätra,5,null,2,Lägenhet,1930,[Enskede],null,NaN,6630000,5243,SkandiaMäklarna,577.1329857311205,Sockenplan
+2015-05-08,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,1,34,2,Lägenhet,1925,[Enskede],1995000,395000,2390000,2003,SkandiaMäklarna,205.95634665812955,Sandsborg
+2015-05-07,Nynäsvägen 363,Gamla Enskede,Grön Hagsätra,3,90,2,Lägenhet,null,[Gamla Enskede],4525000,0,4525000,3797,BOSTHLM,269.48836217549876,Skogskyrkogarden
+2015-05-07,Nynäsvägen 362,Gamla Enskede,Grön Hagsätra,2,44,2,Lägenhet,1939,[Gamla Enskede],1595000,265000,1860000,4931,Edward & Partners Fastighetsmäklare AB,306.43588903299946,Skogskyrkogarden
+2015-05-06,Stockholmsvägen 59,Gamla Enskede,Grön Hagsätra,3,68,3,Lägenhet,1913,[Gamla Enskede],3995000,855000,4850000,1856,Fastighetsbyrån,616.3683172983524,Sandsborg
+2015-05-06,Sockenvägen 400,Gamla Enskede,Grön Hagsätra,2,63,4,Lägenhet,null,[Enskede],3600000,0,3600000,3431,BOSTHLM,407.51490377728265,Sockenplan
+2015-05-05,Sockenvägen 402,Gamla Enskede,Grön Hagsätra,1,44,3,Lägenhet,2010,[Gamla Enskede],1995000,515000,2510000,2396,Erik Olsson Fastighetsförmedling,429.26593178084147,Sockenplan
+2015-05-05,Grusåsgränd 88,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1979,[Enskededalen],3395000,330000,3725000,4693,MäklarMäster,238.0227938438218,Sandsborg
+2015-05-05,Dalgränd 52,Gamla Enskede,Grön Hagsätra,2,68,null,Lägenhet,1981,[Enskededalen],2095000,315000,2410000,4018,MäklarMäster,372.9147146363538,Sandsborg
+2015-05-02,Solvägen 9,Gamla Enskede,Grön Hagsätra,6,143,null,Villa,1912,[Enskede],null,NaN,9850000,null,SkandiaMäklarna,594.4818694589044,Sockenplan
+2015-05-01,Nynäsvägen 310,Gamla Enskede,Grön Hagsätra,2,60,2,Lägenhet,1908,[Enskede],2475000,735000,3210000,2917,Svensk Fastighetsförmedling,251.56287207751149,Sandsborg
+2015-05-01,Nynäsvägen 336,Gamla Enskede,Grön Hagsätra,1,39,null,Lägenhet,1929,[Enskede],2000000,0,2000000,null,Svensk Fastighetsförmedling,195.82803683434545,Sandsborg
+2015-04-30,Handelsvägen 28,Gamla Enskede,Grön Hagsätra,2,60,1,Lägenhet,1909,[Gamla Enskede],3100000,530000,3630000,2679,HusmanHagberg,618.2659026246521,Sockenplan
+2015-04-30,Björkvägen 35,Gamla Enskede,Grön Hagsätra,4,65,null,Parhus,1910,[Enskede],null,NaN,8075000,null,SkandiaMäklarna,545.6073795805113,Sandsborg
+2015-04-24,Stockholmsvägen 15,Gamla Enskede,Grön Hagsätra,1,48,null,Lägenhet,1911,[Enskede],2440000,0,2440000,2690,Svensk Fastighetsförmedling,280.0904446897837,Sandsborg
+2015-04-24,Nynäsvägen 311,Gamla Enskede,Grön Hagsätra,1,41.5,2,Lägenhet,1915,[Gamla Enskede],2000000,680000,2680000,2394,Notar,175.50535776675756,Sandsborg
+2015-04-23,Tallkrogsvägen 16,Gamla Enskede,Grön Hagsätra,5,94,2,Lägenhet,1927,[Gamla Enskede],4995000,1835000,6830000,3867,Fastighetsbyrån,313.60416059108655,Skogskyrkogarden
+2015-04-23,Handelsvägen 150,Gamla Enskede,Grön Hagsätra,2,50,null,Lägenhet,null,[Enskede],2695000,755000,3450000,2672,Mäklarhuset,404.6560930646523,Sockenplan
+2015-04-23,Nynäsvägen 338,Gamla Enskede,Grön Hagsätra,1,33,3,Lägenhet,1929,[Gamla Enskede],1850000,550000,2400000,1970,Fastighetsbyrån,219.91636389264022,Sandsborg
+2015-04-23,Nynäsvägen 316,Gamla Enskede,Grön Hagsätra,3,79,null,Lägenhet,1924,[Gamla Enskede],4395000,105000,4500000,4654,Fastighetsbyrån,214.65500142740711,Sandsborg
+2015-04-23,Grusåsgränd 10,Gamla Enskede,Grön Hagsätra,2,64,2,Lägenhet,1979,[Enskededalen],2150000,760000,2910000,2824,HusmanHagberg,278.62443778954577,Blasut
+2015-04-22,Stockholmsvägen 59,Gamla Enskede,Grön Hagsätra,2,66,null,Lägenhet,1912,[Enskede],3795000,-25000,3770000,1914,Entré rekommenderade mäklare AB,616.3683172983524,Sandsborg
+2015-04-21,Stockholmsvägen 53,Gamla Enskede,Grön Hagsätra,2,52,null,Lägenhet,1911,[Enskede],null,NaN,3375000,1940,SkandiaMäklarna,566.9217978750405,Sandsborg
+2015-04-21,Nynäsvägen 369,Gamla Enskede,Grön Hagsätra,5,125,null,Villa,null,[Gamla],4000000,-1700000,2300000,null,Länsförsäkringar Fastighetsförmedling,211.2637552150081,Skogskyrkogarden
+2015-04-18,Grusåsgränd 16,Gamla Enskede,Grön Hagsätra,4,97,1,Lägenhet,1979,[Enskededalen],3350000,525000,3875000,4280,Svensk Fastighetsförmedling,310.5512881519355,Blasut
+2015-04-18,Dalgränd 52,Gamla Enskede,Grön Hagsätra,4,103,3,Lägenhet,1981,[Enskededalen],3395000,205000,3600000,5662,Notar,372.9147146363538,Sandsborg
+2015-04-17,Yrkesvägen 7,Gamla Enskede,Grön Hagsätra,2,86,1,Lägenhet,1925,[Enskede],3750000,770000,4520000,null,Svensk Fastighetsförmedling,163.8002244790606,Sandsborg
+2015-04-17,Nynäsvägen 375A,Gamla Enskede,Grön Hagsätra,2,54,2,Lägenhet,1945,[Enskede],1995000,180000,2175000,null,Svensk Fastighetsförmedling,155.60441070842327,Skogskyrkogarden
+2015-04-16,Sockenvägen 369A,Gamla Enskede,Grön Hagsätra,2,55,3,Lägenhet,1942,[Enskede],2495000,305000,2800000,3257,Svensk Fastighetsförmedling,209.16607655907694,Sockenplan
+2015-04-15,Täppgränd 6,Gamla Enskede,Grön Hagsätra,3,82,1,Lägenhet,1982,[Enskededalen],2795000,135000,2930000,3755,HusmanHagberg,418.193967712213,Sandsborg
+2015-04-12,Nynäsvägen 339,Gamla Enskede,Grön Hagsätra,1,45,2,Lägenhet,1927,[Enskededalen],2095000,210000,2305000,2768,SkandiaMäklarna,210.76895295783262,Sandsborg
+2015-04-10,Grusåsgränd 10,Gamla Enskede,Grön Hagsätra,4,103,1,Lägenhet,1979,[Enskededalen],2995000,565000,3560000,4545,Notar,278.62443778954577,Blasut
+2015-04-03,Dalgränd 66,Gamla Enskede,Grön Hagsätra,3,79,null,Lägenhet,1981,[Enskededalen],2595000,225000,2820000,4535,MäklarMäster,420.1385812798269,Sandsborg
+2015-04-02,Handelsvägen 50,Gamla Enskede,Grön Hagsätra,3,70,null,Lägenhet,null,[Gamla Enskede],3595000,655000,4250000,3813,Fastighetsbyrån,435.51667722090457,Sockenplan
+2015-04-01,Stockholmsvägen 62,Gamla Enskede,Grön Hagsätra,1,37.5,2,Lägenhet,1911,[Gamla Enskede],2395000,130000,2525000,2164,HusmanHagberg,703.3868917575381,Sandsborg
+2015-04-01,Nynäsvägen 306,Gamla Enskede,Grön Hagsätra,3,78,2,Lägenhet,1928,[Gamla Enskede],3150000,685000,3835000,4025,HusmanHagberg,278.89425747202927,Sandsborg
+2015-03-31,Stora Gungans väg 11,Gamla Enskede,Grön Hagsätra,1,41,2,Lägenhet,1926,[Enskede],2000000,550000,2550000,1254,Svensk Fastighetsförmedling,91.52977319284952,Sandsborg
+2015-03-26,Nynäsvägen 321,Gamla Enskede,Grön Hagsätra,4,93,1,Lägenhet,1926,[Gamla Enskede],5650000,-50000,5600000,2844,BOSTHLM,136.03478346869224,Sandsborg
+2015-03-26,Sockenvägen 373,Gamla Enskede,Grön Hagsätra,3,53,3,Lägenhet,1940,[Enskede],2395000,580000,2975000,2487,Svensk Fastighetsförmedling,245.91569157012572,Sockenplan
+2015-03-24,Dalgränd 50,Gamla Enskede,Grön Hagsätra,3.5,88,null,Lägenhet,1981,[Enskededalen],2975000,220000,3195000,4958,Mäklarringen,391.48313845031663,Sandsborg
+2015-03-19,Täppgränd 105,Gamla Enskede,Grön Hagsätra,2,64,3,Lägenhet,null,[Enskededalen],2195000,475000,2670000,2888,Mäklarhuset,306.6611460645003,Sandsborg
+2015-03-19,Dalgränd 56,Gamla Enskede,Grön Hagsätra,2,65,null,Lägenhet,1981,[Enskededalen],2195000,305000,2500000,3878,MäklarMäster,351.35251943314626,Sandsborg
+2015-03-19,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,1,25,2,Lägenhet,1924,[Gamla Enskede],1695000,195000,1890000,1473,Fastighetsbyrån,205.95634665812955,Sandsborg
+2015-03-18,Nynäsvägen 308,Gamla Enskede,Grön Hagsätra,1,45,3,Lägenhet,1929,[Enskede],1975000,585000,2560000,2453,Svensk Fastighetsförmedling,263.34729264876603,Sandsborg
+2015-03-14,Grusåsgränd 86,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1979,[Enskededalen],3450000,520000,3970000,4287,Svensk Fastighetsförmedling,212.95476500877885,Sandsborg
+2015-03-13,Nynäsvägen 292,Gamla Enskede,Grön Hagsätra,1.5,44,3,Lägenhet,1927,[Gamla Enskede],2195000,355000,2550000,2473,HusmanHagberg,376.63171702591114,Blasut
+2015-03-11,Dalgränd 64,Gamla Enskede,Grön Hagsätra,3,79,1,Lägenhet,1981,[Enskededalen],2895000,255000,3150000,4535,Notar,396.8123237000114,Sandsborg
+2015-03-06,Handelsvägen 18,Gamla Enskede,Grön Hagsätra,3,77,null,Lägenhet,1930,[Gamla Enskede],4995000,905000,5900000,3893,Fastighetsbyrån,504.7283760785339,Sandsborg
+2015-03-04,Guldsmedsvägen 9,Gamla Enskede,Grön Hagsätra,2,48,1,Lägenhet,1947,[Blåsut],2195000,115000,2310000,3176,Fastighetsbyrån,235.40048217893488,Blasut
+2015-03-04,Nynäsvägen 292,Gamla Enskede,Grön Hagsätra,1,40,0.5,Lägenhet,1927,[Gamla Enskede],1850000,400000,2250000,2303,HusmanHagberg,376.63171702591114,Blasut
+2015-03-04,Dalgränd 14,Gamla Enskede,Grön Hagsätra,4,97,1,Lägenhet,1981,[Enskededalen],3495000,480000,3975000,4749,Svensk Fastighetsförmedling,333.418661013819,Blasut
+2015-03-04,Sockenvägen 482,Gamla Enskede,Grön Hagsätra,2,49,1,Lägenhet,1945,[Enskede],2195000,305000,2500000,null,Svensk Fastighetsförmedling,76.03984792416509,Skogskyrkogarden
+2015-03-04,Nynäsvägen 338,Gamla Enskede,Grön Hagsätra,1,33,2,Lägenhet,1929,[Gamla Enskede],1750000,470000,2220000,1932,Fastighetsbyrån,219.91636389264022,Sandsborg
+2015-03-04,Stora Gungans väg 6,Gamla Enskede,Grön Hagsätra,2,59,3,Lägenhet,1913,[Gamla Enskede],2675000,475000,3150000,2803,Notar,197.11975108857948,Sandsborg
+2015-03-04,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,2,46,3,Lägenhet,1925,[Enskede],2595000,50000,2645000,2710,Notar,205.95634665812955,Sandsborg
+2015-03-04,Nynäsvägen 312,Gamla Enskede,Grön Hagsätra,2,53,2,Lägenhet,1909,[Enskede],2850000,0,2850000,2480,BOSTHLM,239.6305722236308,Sandsborg
+2015-03-03,Täppgränd 8,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1982,[Enskededalen],2995000,625000,3620000,4716,MäklarMäster,437.675448873049,Sandsborg
+2015-03-03,Dalgränd 10,Gamla Enskede,Grön Hagsätra,4,96,null,Lägenhet,1981,[Enskededalen],3200000,-200000,3000000,4437,Ulf Nerén Fast.förmedling,362.37270109538326,Blasut
+2015-02-27,Nynäsvägen 354,Gamla Enskede,Grön Hagsätra,4,84,2,Lägenhet,1939,[Enskede],1795000,-45000,1750000,9300,Mäklarhuset,355.46225143427824,Skogskyrkogarden
+2015-02-27,Nynäsvägen 342A,Gamla Enskede,Grön Hagsätra,2,57,2,Lägenhet,1943,[Gamla Enskede],2095000,385000,2480000,3485,HusmanHagberg,267.61018106324747,Sandsborg
+2015-02-27,Sockenvägen 400,Gamla Enskede,Grön Hagsätra,3,88,2,Lägenhet,2011,[Gamla Enskede],3795000,975000,4770000,4793,Fastighetsbyrån,407.51490377728265,Sockenplan
+2015-02-18,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,2,56,2,Lägenhet,1924,[Enskede],2295000,725000,3020000,3299,SkandiaMäklarna,205.95634665812955,Sandsborg
+2015-02-16,Täppgränd 115,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1982,[Enskededalen],1995000,275000,2270000,2888,MäklarMäster,399.33981687979906,Sandsborg
+2015-02-16,Dalgränd 4,Gamla Enskede,Grön Hagsätra,2.5,65,3,Lägenhet,1981,[Enskededalen],2350000,275000,2625000,3240,Svenska Mäklarhuset,334.09192628540916,Blasut
+2015-02-13,Nynäsvägen 363,Gamla Enskede,Grön Hagsätra,2,70,3,Lägenhet,1928,[Enskede],3195000,580000,3775000,3010,Bjurfors,269.48836217549876,Skogskyrkogarden
+2015-02-11,Nynäsvägen 375B,Gamla Enskede,Grön Hagsätra,2,38,2,Lägenhet,1945,[Enskede],1550000,580000,2130000,2515,Svensk Fastighetsförmedling,154.9463970475312,Skogskyrkogarden
+2015-02-10,Glasmålarvägen 2,Gamla Enskede,Grön Hagsätra,2,44,1,Lägenhet,1942,[Enskede],1795000,465000,2260000,2268,Notar,250.082234080764,Blasut
+2015-02-10,Nynäsvägen 303,Gamla Enskede,Grön Hagsätra,1.5,49,2,Lägenhet,1926,[Enskede],1995000,365000,2360000,2972,Bjurfors,233.90142695487737,Sandsborg
+2015-02-10,Tallkrogsvägen 6B,Gamla Enskede,Grön Hagsätra,3.5,82,null,Lägenhet,1927,[Enskede],3995000,565000,4560000,3596,Bjurfors,241.48615901882226,Skogskyrkogarden
+2015-02-10,Nynäsvägen 354,Gamla Enskede,Grön Hagsätra,2,43,null,Lägenhet,1939,[Gamla Enskede],1400000,450000,1850000,4606,Erik Olsson Fastighetsförmedling,355.46225143427824,Skogskyrkogarden
+2015-01-31,Glasmålarvägen 10,Gamla Enskede,Grön Hagsätra,3,69,1,Lägenhet,1942,[Enskede],2495000,325000,2820000,3308,Notar,308.3520135189642,Blasut
+2015-01-30,Täppgränd 113,Gamla Enskede,Grön Hagsätra,2,68,null,Lägenhet,1982,[Enskededalen],1995000,430000,2425000,3068,MäklarMäster,385.0971831013816,Sandsborg
+2015-01-30,Sockenvägen 373,Gamla Enskede,Grön Hagsätra,3,53,1,Lägenhet,1940,[Enskede],2195000,425000,2620000,2487,Svensk Fastighetsförmedling,245.91569157012572,Sockenplan
+2015-01-22,Mittelvägen 8,Gamla Enskede,Grön Hagsätra,7,187,null,Villa,1910,[Enskede],9450000,2350000,11800000,null,SkandiaMäklarna,511.2427663796768,Sandsborg
+2015-01-21,Sockenvägen 369A,Gamla Enskede,Grön Hagsätra,2,40,3,Lägenhet,1942,[Enskede],1950000,160000,2110000,2384,Svensk Fastighetsförmedling,209.16607655907694,Sockenplan
+2015-01-21,Skolvägen 6,Gamla Enskede,Grön Hagsätra,2,55,2,Lägenhet,2008,[Enskede],2095000,205000,2300000,3382,Bjurfors,259.6627719889886,Sandsborg
+2015-01-21,Tallkrogsvägen 6A,Gamla Enskede,Grön Hagsätra,3,77,2,Lägenhet,1929,[Enskede],3295000,205000,3500000,3377,SkandiaMäklarna,235.06143670787455,Skogskyrkogarden
+2015-01-19,Tallkrogsvägen 6E,Gamla Enskede,Grön Hagsätra,4,112,2,Lägenhet,1929,[Gamla Enskede],4795000,0,4795000,4913,HusmanHagberg,244.82150343857816,Skogskyrkogarden
+2015-01-15,Grusåsgränd 48,Gamla Enskede,Grön Hagsätra,6,130,1,Lägenhet,1979,[Enskededalen],4650000,975000,5625000,5914,HusmanHagberg,262.0182603700675,Blasut
+2015-01-15,Grusåsgränd 14,Gamla Enskede,Grön Hagsätra,3.5,87,2,Lägenhet,1979,[Enskededalen],2995000,205000,3200000,4017,Mäklarringen,312.2089655122256,Blasut
+2015-01-15,Sockenvägen 480,Gamla Enskede,Grön Hagsätra,2,56,3,Lägenhet,1945,[Enskede],2250000,400000,2650000,3897,HusmanHagberg,89.21491690993832,Skogskyrkogarden
+2015-01-15,Nynäsvägen 334,Gamla Enskede,Grön Hagsätra,3,67,2,Lägenhet,1926,[Enskede],2995000,905000,3900000,3141,Bjurfors,190.89060561466022,Sandsborg
+2015-01-11,Dalgränd 60,Gamla Enskede,Grön Hagsätra,4,82,null,Lägenhet,1981,[Enskededalen],2850000,-355000,2495000,4676,MäklarMäster,394.29050589239915,Sandsborg
+2015-01-09,Nynäsvägen 330,Gamla Enskede,Grön Hagsätra,2,62,2,Lägenhet,1926,[Gamla Enskede],2495000,705000,3200000,900,Notar,179.55105280333925,Sandsborg
+2014-12-29,Tallkrogsvägen 6B,Gamla Enskede,Grön Hagsätra,3.5,82,2,Lägenhet,1927,[Enskede],4475000,0,4475000,3596,Bjurfors,241.48615901882226,Skogskyrkogarden
+2014-12-18,Dalgränd 28,Gamla Enskede,Grön Hagsätra,6,130,1,Lägenhet,1981,[Enskededalen],3695000,655000,4350000,6930,Notar,417.1695100041945,Blasut
+2014-12-11,Dalgränd 50,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1981,[Enskededalen],2995000,0,2995000,4676,Fastighetsbyrån,391.48313845031663,Sandsborg
+2014-12-10,Nynäsvägen 293,Gamla Enskede,Grön Hagsätra,2,63.5,2,Lägenhet,1945,[Gamla Enskede],2195000,0,2195000,3645,Fastighetsbyrån,342.1632150002294,Blasut
+2014-12-06,Nynäsvägen 294,Gamla Enskede,Grön Hagsätra,1,44,null,Lägenhet,1927,[Gamla Enskede],1850000,220000,2070000,2473,Fastighetsbyrån,387.28979869215783,Blasut
+2014-11-28,Nynäsvägen 347,Gamla Enskede,Grön Hagsätra,1,37,1,Lägenhet,1930,[Gamla Enskede],1995000,255000,2250000,2196,Edward & Partners Fastighetsmäklare AB,283.37067022953215,Sandsborg
+2014-11-27,Nynäsvägen 375B,Gamla Enskede,Grön Hagsätra,3,70,1,Lägenhet,1948,[Enskede],2495000,15000,2510000,4044,Bjurfors,154.9463970475312,Skogskyrkogarden
+2014-11-27,Handelsvägen 20,Gamla Enskede,Grön Hagsätra,1,34,1,Lägenhet,1929,[Gamla Enskede],1795000,705000,2500000,2159,Notar,525.8367508838332,Sandsborg
+2014-11-26,Nynäsvägen 295,Gamla Enskede,Grön Hagsätra,2,63.5,2,Lägenhet,1945,[Gamla Enskede],2195000,35000,2230000,3645,Fastighetsbyrån,328.8938041584174,Sandsborg
+2014-11-22,Dalgränd 54,Gamla Enskede,Grön Hagsätra,2,60,null,Lägenhet,1981,[Enskededalen],1995000,20000,2015000,3643,Svensk Fastighetsförmedling,353.37348442261396,Sandsborg
+2014-11-22,Nynäsvägen 342A,Gamla Enskede,Grön Hagsätra,2,52,1,Lägenhet,1943,[Enskededalen],2195000,165000,2360000,3180,Svensk Fastighetsförmedling,267.61018106324747,Sandsborg
+2014-11-21,Grusåsgränd 79,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1979,[Enskededalen],2995000,90000,3085000,3800,Svensk Fastighetsförmedling,348.3391545295068,Blasut
+2014-11-21,Täppgränd 109,Gamla Enskede,Grön Hagsätra,2,62,null,Lägenhet,1982,[Enskededalen],1895000,355000,2250000,2798,HusmanHagberg,346.12382900207075,Sandsborg
+2014-11-21,Nynäsvägen 315,Gamla Enskede,Grön Hagsätra,2,61,2,Lägenhet,1911,[Enskededalen],2495000,615000,3110000,3648,SkandiaMäklarna,151.66726176816783,Sandsborg
+2014-11-19,Nynäsvägen 305,Gamla Enskede,Grön Hagsätra,2,51,3,Lägenhet,1925,[Enskede],2195000,125000,2320000,3087,HusmanHagberg,223.1923434124575,Sandsborg
+2014-11-13,Grusåsgränd 108,Gamla Enskede,Grön Hagsätra,2,67,4,Lägenhet,1979,[Enskededalen],2195000,230000,2425000,3174,Notar,285.4803769735715,Sandsborg
+2014-11-13,Stockholmsvägen 59,Gamla Enskede,Grön Hagsätra,3,119,null,Lägenhet,1913,[Gamla Enskede],6875000,975000,7850000,3602,Entré rekommenderade mäklare AB,616.3683172983524,Sandsborg
+2014-11-11,Sockenvägen 369,Gamla Enskede,Grön Hagsätra,2,40,2,Lägenhet,1942,[Enskede],1950000,410000,2360000,2361,Svensk Fastighetsförmedling,198.52944904155066,Sockenplan
+2014-11-11,Handelsvägen 28,Gamla Enskede,Grön Hagsätra,5,145,null,Lägenhet,1909,[Gamla Enskede],7495000,-195000,7300000,6474,Fastighetsbyrån,618.2659026246521,Sockenplan
+2014-11-10,Dalgränd 66,Gamla Enskede,Grön Hagsätra,3.5,96,null,Lägenhet,1981,[Enskededalen],2295000,505000,2800000,5333,MäklarMäster,420.1385812798269,Sandsborg
+2014-11-06,Nynäsvägen 339,Gamla Enskede,Grön Hagsätra,3,80,null,Lägenhet,1927,[Gamla Enskede],3295000,90000,3385000,4919,Fastighetsbyrån,210.76895295783262,Sandsborg
+2014-11-06,Glasmålarvägen 2,Gamla Enskede,Grön Hagsätra,2,53,null,Lägenhet,1942,[Blåsut],2150000,50000,2200000,2505,Fastighetsbyrån,250.082234080764,Blasut
+2014-11-04,Dalgränd 8,Gamla Enskede,Grön Hagsätra,3.5,87,3,Lägenhet,1981,[Enskededalen],2475000,425000,2900000,4049,ERA,375.3378206872396,Blasut
+2014-10-31,Nynäsvägen 366,Gamla Enskede,Grön Hagsätra,2,44,null,Lägenhet,1939,[Enskede],1595000,255000,1850000,4696,SkandiaMäklarna,287.68934982288766,Skogskyrkogarden
+2014-10-31,Stora Gungans väg 8,Gamla Enskede,Grön Hagsätra,1,35.2,2,Lägenhet,null,[Enskededalen],1975000,330000,2305000,2133,Svensk Fastighetsförmedling,110.20755190089722,Sandsborg
+2014-10-31,Nynäsvägen 375B,Gamla Enskede,Grön Hagsätra,3,70,3,Lägenhet,1945,[Enskede],2495000,10000,2505000,4553,HusmanHagberg,154.9463970475312,Skogskyrkogarden
+2014-10-29,Nynäsvägen 356,Gamla Enskede,Grön Hagsätra,2,37,1,Lägenhet,null,[Enskede],1495000,0,1495000,4062,ERA,346.3436740147075,Skogskyrkogarden
+2014-10-24,Glasmålarvägen 6,Gamla Enskede,Grön Hagsätra,3,65,2,Lägenhet,1943,[Enskededalen],2375000,275000,2650000,2924,Svensk Fastighetsförmedling,278.7724855463133,Blasut
+2014-10-24,Skolvägen 6,Gamla Enskede,Grön Hagsätra,3,94,1,Lägenhet,null,[Enskededalen],3595000,5000,3600000,5780,Svensk Fastighetsförmedling,259.6627719889886,Sandsborg
+2014-10-22,Grusåsgränd 118,Gamla Enskede,Grön Hagsätra,3,82,2,Lägenhet,1979,[Enskededalen],2795000,305000,3100000,3615,Notar,295.9546976273122,Sandsborg
+2014-10-22,Sockenvägen 402,Gamla Enskede,Grön Hagsätra,1,44,3,Lägenhet,2010,[Gamla Enskede],1850000,200000,2050000,2396,HusmanHagberg,429.26593178084147,Sockenplan
+2014-10-16,Handelsvägen 76,Gamla Enskede,Grön Hagsätra,5,120,null,Lägenhet,1963,[Enskede],5195000,-195000,5000000,5889,Mäklarhuset,387.1985027898864,Sockenplan
+2014-10-16,Nynäsvägen 360,Gamla Enskede,Grön Hagsätra,2,43,2,Lägenhet,1939,[Enskede],1595000,255000,1850000,4606,SkandiaMäklarna,327.85811433744175,Skogskyrkogarden
+2014-10-14,Plantskolevägen 41,Gamla Enskede,Grön Hagsätra,6,117,null,Villa,1933,[Gamla Enskede],7995000,0,7995000,null,HusmanHagberg,585.724637137375,Sockenplan
+2014-10-13,Grusåsgränd 122,Gamla Enskede,Grön Hagsätra,6,136,null,Lägenhet,null,[Enskededalen],3495000,1335000,4830000,5548,Svensk Fastighetsförmedling,307.5629940029788,Sandsborg
+2014-10-13,Skolvägen 7,Gamla Enskede,Grön Hagsätra,2,75,1,Lägenhet,1925,[Gamla Enskede],2495000,255000,2750000,4547,Erik Olsson Fastighetsförmedling,239.139232106004,Sandsborg
+2014-10-09,Nynäsvägen 337,Gamla Enskede,Grön Hagsätra,2,46,3,Lägenhet,1927,[Gamla Enskede],2150000,750000,2900000,2182,Fastighetsbyrån,185.85681457011657,Sandsborg
+2014-10-09,Grusåsgränd 161,Gamla Enskede,Grön Hagsätra,7,130,null,Lägenhet,null,[Enskededalen],3950000,1150000,5100000,5660,Svensk Fastighetsförmedling,296.81570504435575,Sandsborg
+2014-10-09,Sockenvägen 425,Gamla Enskede,Grön Hagsätra,3,79,null,Lägenhet,null,[Enskede],3895000,605000,4500000,4328,Svensk Fastighetsförmedling,716.0700205923172,Sandsborg
+2014-10-09,Grusåsgränd 82,Gamla Enskede,Grön Hagsätra,4,97,null,Lägenhet,1979,[Enskede],2795000,190000,2985000,4117,Södermäklarna,237.1840594644206,Sandsborg
+2014-10-08,Nynäsvägen 359,Gamla Enskede,Grön Hagsätra,1,28,1,Lägenhet,1933,[Enskededalen],1395000,430000,1825000,2039,BOSTHLM,313.18707542548765,Skogskyrkogarden
+2014-10-07,Nynäsvägen 294,Gamla Enskede,Grön Hagsätra,3,66,1,Lägenhet,1927,[Gamla Enskede],2550000,516000,3066000,2792,HusmanHagberg,387.28979869215783,Blasut
+2014-10-06,Nynäsvägen 313,Gamla Enskede,Grön Hagsätra,1,41.5,1.5,Lägenhet,1915,[Gamla Enskede],1950000,875000,2825000,2348,Notar,162.1769335320457,Sandsborg
+2014-10-05,Kantarellvägen 23,Gamla Enskede,Grön Hagsätra,4,88,null,Lägenhet,1929,[Gamla Enskede],4750000,0,4750000,4735,HusmanHagberg,359.87502500985534,Skogskyrkogarden
+2014-10-03,Nynäsvägen 342A,Gamla Enskede,Grön Hagsätra,2,46,1,Lägenhet,1943,[Enskede],1900000,200000,2100000,2813,HusmanHagberg,267.61018106324747,Sandsborg
+2014-10-02,Nynäsvägen 350A,Gamla Enskede,Grön Hagsätra,3,84,2,Lägenhet,1939,[Enskede],1300000,85000,1385000,9300,Bjurfors,376.2743305207546,Sandsborg
+2014-09-30,Glasmålarvägen 4,Gamla Enskede,Grön Hagsätra,3,65,2,Lägenhet,1943,[Enskede],2395000,0,2395000,2924,Bjurfors,261.54326560279327,Blasut
+2014-09-27,Nynäsvägen 356,Gamla Enskede,Grön Hagsätra,2,37,null,Lägenhet,null,[Gamla Enskede],1595000,0,1595000,4062,ERA,346.3436740147075,Skogskyrkogarden
+2014-09-26,Dalgränd 50,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1981,[Enskededalen],2050000,100000,2150000,4676,Gripsholms Fastighetsförmedling,391.48313845031663,Sandsborg
+2014-09-25,Grusåsgränd 54,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1979,[Enskede],1995000,605000,2600000,3056,Södermäklarna,324.7964229230797,Blasut
+2014-09-25,Glasmålarvägen 8,Gamla Enskede,Grön Hagsätra,2,42,null,Lägenhet,1942,[Enskededalen],1995000,-100000,1895000,2268,Fastighetsbyrån,297.0415094586614,Blasut
+2014-09-25,Nynäsvägen 292,Gamla Enskede,Grön Hagsätra,1.5,40,1,Lägenhet,1927,[Enskede],1795000,505000,2300000,1778,SkandiaMäklarna,376.63171702591114,Blasut
+2014-09-24,Täppgränd 18,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1982,[Enskededalen],2895000,405000,3300000,4624,Mäklarringen,394.6507511767947,Sandsborg
+2014-09-24,Nynäsvägen 306,Gamla Enskede,Grön Hagsätra,3,78,3,Lägenhet,1929,[Enskede],2995000,485000,3480000,4025,Bjurfors,278.89425747202927,Sandsborg
+2014-09-19,Nynäsvägen 295,Gamla Enskede,Grön Hagsätra,2,63.5,0.5,Lägenhet,1945,[Enskede],2150000,0,2150000,3645,Notar,328.8938041584174,Sandsborg
+2014-09-18,Nynäsvägen 308,Gamla Enskede,Grön Hagsätra,1.5,52,1,Lägenhet,1929,[Gamla Enskede],2050000,300000,2350000,2786,HusmanHagberg,263.34729264876603,Sandsborg
+2014-09-18,Sofielundsvägen 14,Gamla Enskede,Grön Hagsätra,2,53.6,2,Lägenhet,null,[Enskededalen],2250000,200000,2450000,2733,Svensk Fastighetsförmedling,188.84056637433622,Blasut
+2014-09-18,Grusåsgränd 86,Gamla Enskede,Grön Hagsätra,3,88,1,Lägenhet,1979,[Enskededalen],2645000,55000,2700000,3688,SkandiaMäklarna,212.95476500877885,Sandsborg
+2014-09-16,Dalgränd 22,Gamla Enskede,Grön Hagsätra,3,88,null,Lägenhet,1981,[Enskededalen],2195000,705000,2900000,4092,MäklarMäster,309.0892626315861,Blasut
+2014-09-12,Yrkesvägen 9,Gamla Enskede,Grön Hagsätra,5,146,null,Lägenhet,1925,[Gamla Enskede],5995000,355000,6350000,6979,Fastighetsbyrån,147.22325017250265,Sandsborg
+2014-09-12,Lilla Gränd 1,Gamla Enskede,Grön Hagsätra,6,158,null,Villa,1912,[Enskede],7900000,900000,8800000,null,Svensk Fastighetsförmedling,367.2989955898461,Sandsborg
+2014-09-11,Nynäsvägen 347,Gamla Enskede,Grön Hagsätra,1,37,2,Lägenhet,1930,[Gamla Enskede],1795000,405000,2200000,2196,HusmanHagberg,283.37067022953215,Sandsborg
+2014-09-11,Handelsvägen 28,Gamla Enskede,Grön Hagsätra,2,60,1,Lägenhet,1909,[Gamla Enskede],2995000,705000,3700000,2679,HusmanHagberg,618.2659026246521,Sockenplan
+2014-09-11,Sockenvägen 400,Gamla Enskede,Grön Hagsätra,2,63,2,Lägenhet,null,[Gamla Enskede],2795000,130000,2925000,3431,Fastighetsbyrån,407.51490377728265,Sockenplan
+2014-09-11,Glasmålarvägen 6,Gamla Enskede,Grön Hagsätra,3,72,null,Lägenhet,1942,[Gamla Enskede],2795000,505000,3300000,3393,Fastighetsbyrån,278.7724855463133,Blasut
+2014-09-10,Bersågränd 60,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1981,[Enskededalen],1875000,515000,2390000,2865,HusmanHagberg,249.33070096686717,Sandsborg
+2014-09-10,Stockholmsvägen 22,Gamla Enskede,Grön Hagsätra,3,71,null,Lägenhet,1910,[Gamla Enskede],4795000,930000,5725000,3513,Fastighetsbyrån,334.0720439943662,Sandsborg
+2014-09-10,Nynäsvägen 320,Gamla Enskede,Grön Hagsätra,1.5,38,0.5,Lägenhet,null,[Enskede],1895000,405000,2300000,1579,Svensk Fastighetsförmedling,196.52836269648887,Sandsborg
+2014-09-09,Nynäsvägen 375B,Gamla Enskede,Grön Hagsätra,3,70,null,Lägenhet,1945,[Enskededalen],1995000,535000,2530000,4044,Svenska Mäklarhuset,154.9463970475312,Skogskyrkogarden
+2014-09-08,Grusåsgränd 86,Gamla Enskede,Grön Hagsätra,3,82,2,Lägenhet,1979,[Enskede],2675000,415000,3090000,3874,Diplomat Fastighetsmäkleri AB,212.95476500877885,Sandsborg
+2014-09-05,Tallkrogsvägen 6C,Gamla Enskede,Grön Hagsätra,2,56,1,Lägenhet,1927,[Gamla Enskede],2395000,190000,2585000,2412,HusmanHagberg,238.28581810576557,Skogskyrkogarden
+2014-09-05,Stockholmsvägen 59,Gamla Enskede,Grön Hagsätra,3,68,null,Lägenhet,1913,[Enskede],3495000,55000,3550000,1856,SkandiaMäklarna,616.3683172983524,Sandsborg
+2014-09-04,Nynäsvägen 308,Gamla Enskede,Grön Hagsätra,1,45,2,Lägenhet,1929,[Gamla Enskede],1825000,190000,2015000,2458,HusmanHagberg,263.34729264876603,Sandsborg
+2014-09-03,Nynäsvägen 316,Gamla Enskede,Grön Hagsätra,3,61,2,Lägenhet,1925,[Gamla Enskede],2595000,305000,2900000,3327,HusmanHagberg,214.65500142740711,Sandsborg
+2014-09-03,Handelsvägen 18,Gamla Enskede,Grön Hagsätra,2,45,null,Lägenhet,1929,[Enskede],2495000,-145000,2350000,2698,Balders Ädelmarks,504.7283760785339,Sandsborg
+2014-09-03,Sockenvägen 367,Gamla Enskede,Grön Hagsätra,2,40,1,Lägenhet,null,[Enskede],1750000,360000,2110000,2316,Svensk Fastighetsförmedling,182.86316276052295,Sockenplan
+2014-08-28,Grusåsgränd 162,Gamla Enskede,Grön Hagsätra,2,64,1,Lägenhet,null,[Enskede],1995000,575000,2570000,2786,Bjurfors,198.42656099391408,Sandsborg
+2014-08-28,Hemmansvägen 25,Gamla Enskede,Grön Hagsätra,5,86,null,Villa,1933,[Enskede],6750000,1300000,8050000,null,SkandiaMäklarna,363.53075290625907,Sockenplan
+2014-08-27,Grusåsgränd 24,Gamla Enskede,Grön Hagsätra,6,130,null,Lägenhet,1979,[Enskededalen],3795000,555000,4350000,5914,Mäklarringen,300.4704632199706,Blasut
+2014-08-23,Nynäsvägen 310,Gamla Enskede,Grön Hagsätra,2,51,2,Lägenhet,null,[Enskede],2295000,0,2295000,2480,Svensk Fastighetsförmedling,251.56287207751149,Sandsborg
+2014-08-22,Nynäsvägen 336,Gamla Enskede,Grön Hagsätra,1,42.5,null,Lägenhet,1926,[Gamla Enskede],1695000,435000,2130000,2096,Fastighetsbyrån,195.82803683434545,Sandsborg
+2014-08-21,Handelsvägen 92,Gamla Enskede,Grön Hagsätra,4,102,null,Lägenhet,1960,[Enskede],4650000,560000,5210000,5156,SkandiaMäklarna,407.6039168675903,Sockenplan
+2014-08-21,Grusåsgränd 84,Gamla Enskede,Grön Hagsätra,3,82,1,Lägenhet,1979,[Enskededalen],2645000,75000,2720000,3503,SkandiaMäklarna,226.84964677479908,Sandsborg
+2014-08-20,Guldsmedsvägen 3,Gamla Enskede,Grön Hagsätra,1,25,3,Lägenhet,null,[Blåsut],1395000,485000,1880000,1760,Fastighetsbyrån,250.88675090161283,Blasut
+2014-08-20,Grusåsgränd 149,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1980,[Enskededalen],2800000,325000,3125000,3570,Södermäklarna,273.6696054590369,Sandsborg
+2014-08-19,Sockenvägen 398,Gamla Enskede,Grön Hagsätra,2.5,63,4,Lägenhet,null,[Gamla Enskede],2795000,230000,3025000,3431,Fastighetsbyrån,384.98335342076354,Sockenplan
+2014-08-14,Stockholmsvägen 57,Gamla Enskede,Grön Hagsätra,1,42.5,2,Lägenhet,null,[Enskede],1995000,605000,2600000,1897,Svensk Fastighetsförmedling,601.8720053766662,Sandsborg
+2014-08-14,Handelsvägen 50,Gamla Enskede,Grön Hagsätra,4,100,2,Lägenhet,2011,[Enskede],3995000,505000,4500000,5447,Erik Olsson Fastighetsförmedling,435.51667722090457,Sockenplan
+2014-08-12,Nynäsvägen 345,Gamla Enskede,Grön Hagsätra,1,31,3,Lägenhet,1923,[Enskededalen],1595000,405000,2000000,2081,SkandiaMäklarna,251.37530293434946,Sandsborg
+2014-08-08,Guldsmedsvägen 9,Gamla Enskede,Grön Hagsätra,2,48,3,Lägenhet,null,[Enskededalen],2150000,325000,2475000,3176,Svensk Fastighetsförmedling,235.40048217893488,Blasut
+2014-07-31,Nynäsvägen 332,Gamla Enskede,Grön Hagsätra,1,40,2,Lägenhet,1926,[Gamla Enskede],1795000,205000,2000000,1937,Notar,185.4327561564233,Sandsborg
+2014-07-19,Dalgränd 56,Gamla Enskede,Grön Hagsätra,2,65,null,Lägenhet,1981,[Enskededalen],1795000,255000,2050000,3878,Södermäklarna,351.35251943314626,Sandsborg
+2014-07-11,Glasmålarvägen 8,Gamla Enskede,Grön Hagsätra,2,42,3,Lägenhet,1943,[Enskede],1350000,550000,1900000,2268,Erik Olsson Fastighetsförmedling,297.0415094586614,Blasut
+2014-07-08,Dalgränd 10,Gamla Enskede,Grön Hagsätra,3,96,null,Lägenhet,1981,[Enskededalen],2195000,905000,3100000,4437,MäklarMäster,362.37270109538326,Blasut
+2014-06-30,Skolvägen 6,Gamla Enskede,Grön Hagsätra,3,94,4,Lägenhet,null,[Enskededalen],3595000,580000,4175000,5780,Svensk Fastighetsförmedling,259.6627719889886,Sandsborg
+2014-06-19,Nynäsvägen 312,Gamla Enskede,Grön Hagsätra,2,54.5,2,Lägenhet,1909,[Enskede],1995000,425000,2420000,2431,BOSTHLM,239.6305722236308,Sandsborg
+2014-06-19,Dalgränd 56,Gamla Enskede,Grön Hagsätra,2,65,2,Lägenhet,1981,[Enskededalen],1495000,235000,1730000,3878,SkandiaMäklarna,351.35251943314626,Sandsborg
+2014-06-18,Dalgränd 52,Gamla Enskede,Grön Hagsätra,3,88,2,Lägenhet,null,[Enskededalen],2595000,20000,2615000,4958,Fastighetsbyrån,372.9147146363538,Sandsborg
+2014-06-18,Grusåsgränd 60,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1979,[Enskededalen],2195000,455000,2650000,3738,Notar,322.9690804958912,Sandsborg
+2014-06-14,Sockenvägen 478,Gamla Enskede,Grön Hagsätra,2,49,2,Lägenhet,null,[Enskededalen],1775000,155000,1930000,3259,SkandiaMäklarna,116.89040351793756,Skogskyrkogarden
+2014-06-13,Nynäsvägen 305,Gamla Enskede,Grön Hagsätra,1,51,null,Lägenhet,null,[Gamla Enskede],1795000,135000,1930000,3087,Fastighetsbyrån,223.1923434124575,Sandsborg
+2014-06-07,Grusåsgränd 86,Gamla Enskede,Grön Hagsätra,3.5,87,2,Lägenhet,1979,[Enskede],2390000,160000,2550000,3714,Bjurfors,212.95476500877885,Sandsborg
+2014-06-06,Nynäsvägen 375B,Gamla Enskede,Grön Hagsätra,2,55,3,Lägenhet,1945,[Enskede],1800000,200000,2000000,3655,HusmanHagberg,154.9463970475312,Skogskyrkogarden
+2014-06-06,Grusåsgränd 4,Gamla Enskede,Grön Hagsätra,3,82,4,Lägenhet,1979,[Enskededalen],2300000,125000,2425000,3797,HusmanHagberg,249.1919215439878,Blasut
+2014-05-29,Grusåsgränd 179,Gamla Enskede,Grön Hagsätra,2,60,null,Lägenhet,null,[Enskededalen],1795000,355000,2150000,2612,Länsförsäkringar Fastighetsförmedling,307.3976344531023,Sandsborg
+2014-05-28,Sockenvägen 365,Gamla Enskede,Grön Hagsätra,2,40.5,2,Lägenhet,null,[Enskede],1650000,250000,1900000,2361,Svensk Fastighetsförmedling,198.71661473647956,Sockenplan
+2014-05-27,Täppgränd 103,Gamla Enskede,Grön Hagsätra,3,88,1,Lägenhet,null,[Enskededalen],2700000,120000,2820000,3970,Svensk Fastighetsförmedling,308.1335540432204,Sandsborg
+2014-05-22,Glasmålarvägen 10,Gamla Enskede,Grön Hagsätra,3,61,2,Lägenhet,1944,[Enskede],1900000,460000,2360000,3066,Bjurfors,308.3520135189642,Blasut
+2014-05-22,Glasmålarvägen 4,Gamla Enskede,Grön Hagsätra,3,65,null,Lägenhet,null,[Enskededalen],2195000,0,2195000,2851,Fastighetsbyrån,261.54326560279327,Blasut
+2014-05-21,Nynäsvägen,Gamla Enskede,Grön Hagsätra,1,41.5,99.9,Lägenhet,1911,[Enskede-Globenomr],1375000,445000,1820000,2348,Exbo,214.8215361640093,Sandsborg
+2014-05-16,Nynäsvägen 338,Gamla Enskede,Grön Hagsätra,1,33,3,Lägenhet,1929,[Gamla Enskede],1590000,240000,1830000,1932,HusmanHagberg,219.91636389264022,Sandsborg
+2014-05-15,Stora Gungans väg 9,Gamla Enskede,Grön Hagsätra,1.5,31,null,Lägenhet,1926,[Gamla Enskede],1795000,105000,1900000,948,Fastighetsbyrån,122.41367989899274,Sandsborg
+2014-05-15,Dalgränd 60,Gamla Enskede,Grön Hagsätra,4,82,null,Lägenhet,1981,[Enskededalen],2495000,305000,2800000,4676,MäklarMäster,394.29050589239915,Sandsborg
+2014-05-14,Nynäsvägen 316,Gamla Enskede,Grön Hagsätra,2,60,3,Lägenhet,null,[Enskede],2495000,415000,2910000,3273,Svensk Fastighetsförmedling,214.65500142740711,Sandsborg
+2014-05-13,Björkvägen 37,Gamla Enskede,Grön Hagsätra,4,73,null,Villa,1909,[Enskede],6450000,-150000,6300000,null,SkandiaMäklarna,543.2503932895117,Sandsborg
+2014-05-11,Nynäsvägen 369,Gamla Enskede,Grön Hagsätra,3,62,3,Lägenhet,null,[Enskededalen],2495000,130000,2625000,2986,Svensk Fastighetsförmedling,211.2637552150081,Skogskyrkogarden
+2014-05-09,Dalgränd 52,Gamla Enskede,Grön Hagsätra,3,82,2,Lägenhet,1981,[Enskededalen],2195000,255000,2450000,4676,SkandiaMäklarna,372.9147146363538,Sandsborg
+2014-05-07,Björkvägen 10,Gamla Enskede,Grön Hagsätra,7,160,null,Villa,1910,[Gamla Enskede],9500000,1675000,11175000,null,HusmanHagberg,630.3572482454726,Sockenplan
+2014-05-03,Grusåsgränd 145,Gamla Enskede,Grön Hagsätra,6,130,null,Lägenhet,1980,[Enskededalen],3695000,325000,4020000,5659,SkandiaMäklarna,265.05510741387883,Sandsborg
+2014-05-02,Täppgränd 103,Gamla Enskede,Grön Hagsätra,3.5,88,2,Lägenhet,null,[Enskededalen],2495000,30000,2525000,3970,Fastighetsbyrån,308.1335540432204,Sandsborg
+2014-04-30,Täppgränd 6,Gamla Enskede,Grön Hagsätra,2,64,2,Lägenhet,1982,[Enskede],1850000,480000,2330000,2959,Erik Olsson Fastighetsförmedling,418.193967712213,Sandsborg
+2014-04-30,Backvägen 15,Gamla Enskede,Grön Hagsätra,4,72,null,Villa,1909,[Enskede],5850000,0,5850000,null,SkandiaMäklarna,370.48769899012564,Sandsborg
+2014-04-29,Grusåsgränd 131,Gamla Enskede,Grön Hagsätra,6,136,null,Lägenhet,1979,[Enskededalen],3950000,0,3950000,6159,Erik Olsson Fastighetsförmedling,344.7702060591921,Sandsborg
+2014-04-29,Sockenvägen 375,Gamla Enskede,Grön Hagsätra,2,53,3,Lägenhet,1940,[Gamla Enskede],2395000,0,2395000,2487,Fastighetsbyrån,259.9541976604586,Sockenplan
+2014-04-28,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,1,40,0.5,Lägenhet,null,[Enskede],1750000,160000,1910000,2182,Svensk Fastighetsförmedling,205.95634665812955,Sandsborg
+2014-04-18,Nynäsvägen 295,Gamla Enskede,Grön Hagsätra,4,97.5,1,Lägenhet,1945,[Enskededalen],3495000,-95000,3400000,4621,SkandiaMäklarna,328.8938041584174,Sandsborg
+2014-04-17,Handelsvägen 52,Gamla Enskede,Grön Hagsätra,4,108,3,Lägenhet,2011,[Enskede],4450000,310000,4760000,5882,Svenska Mäklarhuset,432.9780102556978,Sockenplan
+2014-04-17,Bersågränd 4,Gamla Enskede,Grön Hagsätra,4,105,4,Lägenhet,null,[Enskededalen],2995000,1005000,4000000,4199,Svensk Fastighetsförmedling,283.4993755944907,Sandsborg
+2014-04-15,Handelsvägen 66,Gamla Enskede,Grön Hagsätra,3,80,null,Lägenhet,1963,[Gamla Enskede],3295000,-195000,3100000,4192,HusmanHagberg,397.50229462977825,Sockenplan
+2014-04-11,Täppgränd 10,Gamla Enskede,Grön Hagsätra,3,82,3,Lägenhet,1982,[Enskededalen],2095000,355000,2450000,3828,HusmanHagberg,435.56974491106195,Sandsborg
+2014-04-11,Stockholmsvägen 53,Gamla Enskede,Grön Hagsätra,2,52,null,Lägenhet,1911,[Gamla Enskede],2950000,150000,3100000,1940,Fastighetsbyrån,566.9217978750405,Sandsborg
+2014-04-07,Täppgränd 103,Gamla Enskede,Grön Hagsätra,3.5,88,2,Lägenhet,1982,[Enskededalen],2695000,-95000,2600000,3970,MäklarMäster,308.1335540432204,Sandsborg
+2014-04-05,Nynäsvägen 322,Gamla Enskede,Grön Hagsätra,2,68,3,Lägenhet,null,[Gamla Enskede],2495000,295000,2790000,2825,Svensk Fastighetsförmedling,190.78613133038274,Sandsborg
+2014-04-05,Tallkrogsvägen 14,Gamla Enskede,Grön Hagsätra,4.5,94,null,Lägenhet,1929,[Enskede],3695000,-70000,3625000,4191,SkandiaMäklarna,295.3727439053625,Skogskyrkogarden
+2014-04-04,Sockenvägen 423,Gamla Enskede,Grön Hagsätra,1,38,0.5,Lägenhet,1911,[Gamla Enskede],1695000,355000,2050000,2150,Notar,719.1085726678235,Sandsborg
+2014-04-03,Grusåsgränd 54,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1979,[Enskededalen],1895000,455000,2350000,3055,Fastighetsbyrån,324.7964229230797,Blasut
+2014-04-03,Margaretavägen 31,Gamla Enskede,Grön Hagsätra,5,88,null,Radhus,1909,[Gamla Enskede],6450000,600000,7050000,null,HusmanHagberg,545.5187924928044,Sockenplan
+2014-04-03,Nynäsvägen 342B,Gamla Enskede,Grön Hagsätra,2,46,null,Lägenhet,1943,[Gamla Enskede],1895000,105000,2000000,2812,Fastighetsbyrån,282.8868232746589,Sandsborg
+2014-03-28,Dalgränd 52,Gamla Enskede,Grön Hagsätra,3.5,82,3,Lägenhet,1981,[Enskededalen],2395000,405000,2800000,4676,Notar,372.9147146363538,Sandsborg
+2014-03-28,Nynäsvägen 293,Gamla Enskede,Grön Hagsätra,1,47.5,1,Lägenhet,1945,[Enskede],1695000,25000,1720000,2727,HusmanHagberg,342.1632150002294,Blasut
+2014-03-28,Guldsmedsvägen 3,Gamla Enskede,Grön Hagsätra,1,25,null,Lägenhet,1947,[Enskede-Blåsut],1450000,30000,1480000,1760,Gripsholms Fastighetsförmedling,250.88675090161283,Blasut
+2014-03-26,Sofielundsvägen 16,Gamla Enskede,Grön Hagsätra,3,59.7,1,Lägenhet,1943,[Blåsut],1975000,615000,2590000,2892,Södermäklarna,182.96663410466954,Blasut
+2014-03-26,Grusåsgränd 86,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1979,[Enskededalen],1895000,335000,2230000,2890,MäklarMäster,212.95476500877885,Sandsborg
+2014-03-26,Guldsmedsvägen 7,Gamla Enskede,Grön Hagsätra,2,38,3,Lägenhet,1947,[Blåsut],1695000,415000,2110000,2593,Länsförsäkringar Fastighetsförmedling,239.16072974991135,Blasut
+2014-03-21,Skolvägen 3,Gamla Enskede,Grön Hagsätra,3,56,1,Lägenhet,1925,[Gamla Enskede],2450000,410000,2860000,2806,HusmanHagberg,227.0334579885686,Sandsborg
+2014-03-21,Yrkesvägen 15,Gamla Enskede,Grön Hagsätra,5,125,3,Lägenhet,null,[Enskededalen],5700000,250000,5950000,5970,SkandiaMäklarna,106.47261920157784,Sandsborg
+2014-03-21,Tallkrogsvägen 14,Gamla Enskede,Grön Hagsätra,2.5,58,2,Lägenhet,1943,[Gamla Enskede],2995000,5000,3000000,2648,HusmanHagberg,295.3727439053625,Skogskyrkogarden
+2014-03-20,Nynäsvägen 302,Gamla Enskede,Grön Hagsätra,2.5,70.3,1,Lägenhet,1925,[Enskede],2495000,245000,2740000,2914,SkandiaMäklarna,323.2833271184231,Sandsborg
+2014-03-19,Sockenvägen 373,Gamla Enskede,Grön Hagsätra,2,53,3,Lägenhet,1939,[Enskede],2395000,65000,2460000,2527,SkandiaMäklarna,245.91569157012572,Sockenplan
+2014-03-18,Grusåsgränd 95,Gamla Enskede,Grön Hagsätra,2,65,3,Lägenhet,1979,[Enskededalen],1859500,140500,2000000,2915,Mäklarhuset,297.44324783742246,Sandsborg
+2014-03-17,Nynäsvägen 321,Gamla Enskede,Grön Hagsätra,3.5,93,null,Lägenhet,null,[Enskededalen],3590000,325000,3915000,2844,BOSTHLM,136.03478346869224,Sandsborg
+2014-03-12,Grusåsgränd 14,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,null,[Enskededalen],2995000,645000,3640000,4723,Svensk Fastighetsförmedling,312.2089655122256,Blasut
+2014-03-08,Täppgränd 32,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1982,[Enskededalen],2345000,30000,2375000,3506,ERA,402.6995650123935,Sandsborg
+2014-03-07,Dalgränd 4,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1981,[Enskededalen],2200000,100000,2300000,3844,HusmanHagberg,334.09192628540916,Blasut
+2014-03-05,Täppgränd 29,Gamla Enskede,Grön Hagsätra,5,104,null,Lägenhet,null,[Enskededalen],3200000,465000,3665000,3841,Svensk Fastighetsförmedling,347.61682609877886,Sandsborg
+2014-03-05,Stora Gungans väg 6,Gamla Enskede,Grön Hagsätra,2,53.5,3,Lägenhet,1911,[Gamla Enskede],2600000,460000,3060000,3004,HusmanHagberg,197.11975108857948,Sandsborg
+2014-03-05,Bersågränd 8,Gamla Enskede,Grön Hagsätra,2,64,2,Lägenhet,null,[Enskededalen],1895000,237000,2132000,2703,Svensk Fastighetsförmedling,317.84676646060547,Sandsborg
+2014-02-27,Sockenvägen 484,Gamla Enskede,Grön Hagsätra,2,56,2,Lägenhet,null,[Enskede],1995000,155000,2150000,3712,Svensk Fastighetsförmedling,60.75838766852266,Skogskyrkogarden
+2014-02-26,Nynäsvägen 311,Gamla Enskede,Grön Hagsätra,1,41.5,3,Lägenhet,1915,[Enskede],1795000,180000,1975000,2348,Länsförsäkringar Fastighetsförmedling,175.50535776675756,Sandsborg
+2014-02-19,Nynäsvägen 348,Gamla Enskede,Grön Hagsätra,2,42,2,Lägenhet,1939,[Gamla Enskede],1200000,480000,1680000,4515,HusmanHagberg,348.8409166825914,Sandsborg
+2014-02-15,Handelsvägen 18,Gamla Enskede,Grön Hagsätra,3,77,0,Lägenhet,1928,[Enskede],2950000,560000,3510000,3893,Mäklarhuset,504.7283760785339,Sandsborg
+2014-02-14,Grusåsgränd 81,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1979,[Enskede],2300000,130000,2430000,3635,Bjurfors,357.836789642428,Sandsborg
+2014-02-13,Bersågränd 2,Gamla Enskede,Grön Hagsätra,3,87,0,Lägenhet,1981,[Enskededalen],2575000,0,2575000,3644,Mäklarhuset,265.2775257517935,Sandsborg
+2014-02-11,Grusåsgränd 2,Gamla Enskede,Grön Hagsätra,4,97,4,Lägenhet,1979,[Enskede],2650000,730000,3380000,4459,Notar,241.84284271001047,Blasut
+2014-02-07,Dalgränd 24,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1981,[Enskededalen],1695000,215000,1910000,3972,Gripsholms Fastighetsförmedling,407.8905919451316,Blasut
+2014-02-07,Bersågränd 4,Gamla Enskede,Grön Hagsätra,3,87,null,Lägenhet,1981,[Enskededalen],2695000,280000,2975000,3552,Svensk Fastighetsförmedling,283.4993755944907,Sandsborg
+2014-02-06,Grusåsgränd 16,Gamla Enskede,Grön Hagsätra,4,97,1,Lägenhet,1981,[Enskededalen],2795000,0,2795000,4459,Svensk Fastighetsförmedling,310.5512881519355,Blasut
+2014-01-31,Nynäsvägen 327,Gamla Enskede,Grön Hagsätra,1,43,2,Lägenhet,1927,[Enskededalen],1795000,405000,2200000,1218,SkandiaMäklarna,120.61248678885244,Sandsborg
+2014-01-30,Nynäsvägen 325,Gamla Enskede,Grön Hagsätra,1,42,1,Lägenhet,1913,[Gamla Enskede],1595000,345000,1940000,1937,Svensk Fastighetsförmedling,128.18460641198828,Sandsborg
+2014-01-29,Täppgränd 8,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1982,[Enskededalen],2300000,410000,2710000,3576,Svensk Fastighetsförmedling,437.675448873049,Sandsborg
+2014-01-29,Dalgränd 4,Gamla Enskede,Grön Hagsätra,2,68,null,Lägenhet,1981,[Enskededalen],1700000,325000,2025000,3229,Svensk Fastighetsförmedling,334.09192628540916,Blasut
+2014-01-29,Bersågränd 52,Gamla Enskede,Grön Hagsätra,3,82,1.5,Lägenhet,1981,[Enskededalen],2195000,75000,2270000,3413,Notar,263.3388192271457,Sandsborg
+2014-01-24,Nynäsvägen 345,Gamla Enskede,Grön Hagsätra,3,64,3,Lägenhet,1920,[Enskede],2600000,300000,2900000,3972,Bjurfors,251.37530293434946,Sandsborg
+2014-01-23,Stora Gungans väg 13,Gamla Enskede,Grön Hagsätra,2,58,1,Lägenhet,1925,[Gamla Enskede],2350000,300000,2650000,2898,HusmanHagberg,66.63561744174108,Sandsborg
+2014-01-23,Stockholmsvägen 57,Gamla Enskede,Grön Hagsätra,3,74,null,Lägenhet,1912,[Enskede],3850000,700000,4550000,3025,SkandiaMäklarna,601.8720053766662,Sandsborg
+2014-01-22,Nynäsvägen 329,Gamla Enskede,Grön Hagsätra,3,85.7,null,Lägenhet,1927,[Gamla Enskede],3595000,-195000,3400000,3328,HusmanHagberg,127.92270964483565,Sandsborg
+2014-01-22,Tallkrogsvägen 8A,Gamla Enskede,Grön Hagsätra,3,76,null,Lägenhet,1929,[Enskede],3195000,-45000,3150000,4010,Bostadsrättsspecialisten,245.2551568050125,Skogskyrkogarden
+2014-01-17,Grusåsgränd 10,Gamla Enskede,Grön Hagsätra,4,115,null,Lägenhet,1979,[Enskededalen],2695000,675000,3370000,5252,Svensk Fastighetsförmedling,278.62443778954577,Blasut
+2014-01-15,Sockenvägen 400,Gamla Enskede,Grön Hagsätra,3,88,4,Lägenhet,2010,[Enskede],3995000,215000,4210000,4565,Fastighetsbyrån,407.51490377728265,Sockenplan
+2014-01-15,Sockenvägen 480,Gamla Enskede,Grön Hagsätra,2,49,null,Lägenhet,1945,[Enskede],1850000,370000,2220000,3195,Notar,89.21491690993832,Skogskyrkogarden
+2014-01-11,Nynäsvägen 304,Gamla Enskede,Grön Hagsätra,1.5,45.7,2,Lägenhet,1925,[Gamla Enskede],1850000,350000,2200000,2133,Svensk Fastighetsförmedling,312.29736519091546,Sandsborg
+2013-12-12,Dalgränd 50,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1981,[Enskededalen],1495000,135000,1630000,4032,Svensk Fastighetsförmedling,391.48313845031663,Sandsborg
+2013-12-10,Nynäsvägen 335,Gamla Enskede,Grön Hagsätra,2,75,2,Lägenhet,1927,[Enskededalen],2700000,100000,2800000,3727,SkandiaMäklarna,176.0673202593316,Sandsborg
+2013-12-08,Glasmålarvägen 4,Gamla Enskede,Grön Hagsätra,2,58,1,Lägenhet,1943,[Enskede],2095000,5000,2100000,2483,HusmanHagberg,261.54326560279327,Blasut
+2013-12-07,Sockenvägen 482,Gamla Enskede,Grön Hagsätra,2,49,1,Lägenhet,1945,[Enskede],1800000,-100000,1700000,2961,Bjurfors,76.03984792416509,Skogskyrkogarden
+2013-12-05,Dalgränd 4,Gamla Enskede,Grön Hagsätra,2,64,3,Lägenhet,1981,[Enskede],1695000,185000,1880000,2856,Bjurfors,334.09192628540916,Blasut
+2013-12-02,Handelsvägen 86,Gamla Enskede,Grön Hagsätra,4,102,null,Lägenhet,1963,[Enskede],4795000,0,4795000,4952,Fastighetsbyrån,395.23251440509125,Sockenplan
+2013-11-29,Dalgränd 52,Gamla Enskede,Grön Hagsätra,3,82,3,Lägenhet,1986,[Enskededalen],1995000,5000,2000000,4922,Fastighetsbyrån,372.9147146363538,Sandsborg
+2013-11-28,Nynäsvägen 323,Gamla Enskede,Grön Hagsätra,2,68.5,null,Lägenhet,1913,[Gamla Enskede],2495000,330000,2825000,3404,Svensk Fastighetsförmedling,128.65516752134226,Sandsborg
+2013-11-26,Tallkrogsvägen 26,Gamla Enskede,Grön Hagsätra,4,104,null,Lägenhet,1929,[Tallkrogen],3600000,500000,4100000,4400,Erik Olsson Fastighetsförmedling,419.3452415501253,Skogskyrkogarden
+2013-11-25,Tallkrogsvägen 8,Gamla Enskede,Grön Hagsätra,4,112,null,Lägenhet,1927,[Enskede],3975000,-175000,3800000,5910,SkandiaMäklarna,247.96949985163974,Skogskyrkogarden
+2013-11-23,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,2,59,null,Lägenhet,1930,[Gamla Enskede],2350000,-50000,2300000,3237,HusmanHagberg,223.1210032605016,Sandsborg
+2013-11-22,Tallkrogsvägen 14,Gamla Enskede,Grön Hagsätra,2,32,1,Lägenhet,1943,[Enskede],1595000,395000,1990000,1461,HusmanHagberg,295.3727439053625,Skogskyrkogarden
+2013-11-22,Nynäsvägen 318,Gamla Enskede,Grön Hagsätra,2,57,null,Lägenhet,1925,[Gamla Enskede],2095000,255000,2350000,3109,Notar,205.95634665812955,Sandsborg
+2013-11-22,Skolvägen 6,Gamla Enskede,Grön Hagsätra,2,69,0,Lägenhet,2008,[Enskededalen],2200000,0,2200000,4242,HusmanHagberg,259.6627719889886,Sandsborg
+2013-11-21,Krokvägen 52,Gamla Enskede,Grön Hagsätra,5,103,null,Villa,1944,[Gamla Enskede],4450000,400000,4850000,null,HusmanHagberg,365.2348442417655,Skogskyrkogarden
+2013-11-18,Nynäsvägen 366A,Gamla Enskede,Grön Hagsätra,2,54,null,Lägenhet,1939,[Gamla Enskede],1050000,90000,1140000,6283,Mäklarringen,279.92771673688264,Skogskyrkogarden
+2013-11-16,Stora Gungans väg 15,Gamla Enskede,Grön Hagsätra,5,117,2,Lägenhet,1925,[Gamla Enskede],4950000,570000,5520000,5604,HusmanHagberg,54.564289858865834,Sandsborg
+2013-11-15,Hemmansvägen 9,Gamla Enskede,Grön Hagsätra,7,106,null,Villa,1933,[Enskede],7200000,1100000,8300000,null,Bjurfors,354.85337230737684,Sockenplan
+2013-11-14,Sofielundsvägen 14,Gamla Enskede,Grön Hagsätra,2,53.3,2,Lägenhet,1943,[Enskededalen],1825000,375000,2200000,2555,SkandiaMäklarna,188.84056637433622,Blasut
+2013-11-13,Stockholmsvägen 19,Gamla Enskede,Grön Hagsätra,2,73.4,1,Lägenhet,1909,[Enskede],3595000,55000,3650000,2582,Fastighetsbyrån,297.80092557440406,Sandsborg
+2013-11-13,Yrkesvägen 15,Gamla Enskede,Grön Hagsätra,2,57,null,Lägenhet,1925,[Enskede],2350000,120000,2470000,2853,Svenska Mäklarhuset,106.47261920157784,Sandsborg
+2013-11-11,Grusåsgränd 16,Gamla Enskede,Grön Hagsätra,4,97,null,Lägenhet,1979,[Enskededalen],2700000,100000,2800000,4459,HusmanHagberg,310.5512881519355,Blasut
+2013-11-07,Dalgränd 54,Gamla Enskede,Grön Hagsätra,2,60,null,Radhus,1981,[Enskededalen],1795000,15000,1810000,3834,Hans Göthe Fastighetsbyrå AB,353.37348442261396,Sandsborg
+2013-11-05,Nynäsvägen 319,Gamla Enskede,Grön Hagsätra,1,36,null,Lägenhet,1926,[Enskededalen],1595000,205000,1800000,1101,SkandiaMäklarna,141.18757705432947,Sandsborg
+2013-11-02,Sofielundsvägen 14,Gamla Enskede,Grön Hagsätra,2,53.3,1,Lägenhet,1943,[Enskededalen],1795000,205000,2000000,2518,Fastighetsbyrån,188.84056637433622,Blasut
+2013-10-25,Glasmålarvägen 10,Gamla Enskede,Grön Hagsätra,2,52,2,Lägenhet,1942,[Enskede],1850000,360000,2210000,2543,Notar,308.3520135189642,Blasut
+2013-10-25,Handelsvägen 96,Gamla Enskede,Grön Hagsätra,5,121,null,Radhus,1963,[Gamla Enskede],4610000,350000,4960000,5923,Svenska Mäklarhuset,404.33395528926616,Sockenplan
+2013-10-24,Skolvägen 9,Gamla Enskede,Grön Hagsätra,3,93,null,Lägenhet,1926,[Enskede],3250000,-50000,3200000,5639,Bjurfors,243.45006863800725,Sandsborg
+2013-10-24,Nynäsvägen 292,Gamla Enskede,Grön Hagsätra,1,44,null,Lägenhet,1927,[Gamla Enskede],1795000,405000,2200000,1908,HusmanHagberg,376.63171702591114,Blasut
+2013-10-23,Sockenvägen 363,Gamla Enskede,Grön Hagsätra,2,40.5,null,Lägenhet,1942,[Gamla Enskede],1495000,275000,1770000,2316,Svensk Fastighetsförmedling,168.3993515026853,Sockenplan
+2013-10-18,Täppgränd 109,Gamla Enskede,Grön Hagsätra,1.5,53,null,Lägenhet,1982,[Enskededalen],1560000,0,1560000,2343,Bostadsrättsspecialisten,346.12382900207075,Sandsborg
+2013-10-11,Margaretavägen 38,Gamla Enskede,Grön Hagsätra,5,88,null,Radhus,1910,[Enskede],6200000,850000,7050000,null,SkandiaMäklarna,514.2274250409546,Sockenplan
+2013-10-10,Grusåsgränd 86,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1979,[Enskededalen],2195000,0,2195000,3791,Fastighetsbyrån,212.95476500877885,Sandsborg
+2013-10-10,Nynäsvägen 308,Gamla Enskede,Grön Hagsätra,1.5,52,null,Lägenhet,1928,[Gamla Enskede],1995000,105000,2100000,2786,HusmanHagberg,263.34729264876603,Sandsborg
+2013-10-09,Nynäsvägen 369,Gamla Enskede,Grön Hagsätra,1,43,null,Lägenhet,1927,[Gamla Enskede],1495000,212000,1707000,2112,Svensk Fastighetsförmedling,211.2637552150081,Skogskyrkogarden
+2013-10-07,Stockholmsvägen 43,Gamla Enskede,Grön Hagsätra,2,55,2,Lägenhet,1927,[Gamla Enskede],2495000,255000,2750000,2928,Svenska Mäklarhuset,444.63321278500297,Sandsborg
+2013-10-03,Nynäsvägen 345,Gamla Enskede,Grön Hagsätra,2,46,null,Lägenhet,1931,[Enskededalen],1595000,165000,1760000,2629,Fastighetsbyrån,251.37530293434946,Sandsborg
+2013-09-28,Dalgränd 56,Gamla Enskede,Grön Hagsätra,3,79,3,Lägenhet,null,[Enskededalen],2000000,-60000,1940000,4774,Erik Olsson Fastighetsförmedling,351.35251943314626,Sandsborg
+2013-09-26,Glasmålarvägen 8,Gamla Enskede,Grön Hagsätra,1,42,null,Lägenhet,1942,[Enskededalen],1700000,0,1700000,2160,HusmanHagberg,297.0415094586614,Blasut
+2013-09-23,Björkvägen 13,Gamla Enskede,Grön Hagsätra,5,153,null,Villa,1974,[Enskede],4575000,355000,4930000,26600,Mäklarringen,617.282511984359,Sandsborg
+2013-09-23,Nynäsvägen 321,Gamla Enskede,Grön Hagsätra,3.5,93,null,Lägenhet,1926,[Enskede],3500000,150000,3650000,2844,HusmanHagberg,136.03478346869224,Sandsborg
+2013-09-20,Sockenvägen 478,Gamla Enskede,Grön Hagsätra,2,49,null,Lägenhet,1945,[Enskededalen],1795000,135000,1930000,3101,Fastighetsbyrån,116.89040351793756,Skogskyrkogarden
+2013-09-12,Tallkrogsvägen 16,Gamla Enskede,Grön Hagsätra,5,94,null,Lägenhet,1927,[Enskede],4495000,905000,5400000,3867,Fastighetsbyrån,313.60416059108655,Skogskyrkogarden
+2013-09-12,Nynäsvägen 337,Gamla Enskede,Grön Hagsätra,2,75,null,Lägenhet,1927,[Gamla Enskede],2950000,160000,3110000,3727,Svensk Fastighetsförmedling,185.85681457011657,Sandsborg
+2013-09-12,Handelsvägen 28,Gamla Enskede,Grön Hagsätra,2,44,null,Lägenhet,1911,[Gamla Enskede],1975000,445000,2420000,1965,Svensk Fastighetsförmedling,618.2659026246521,Sockenplan
+2013-09-12,Sockenvägen 369A,Gamla Enskede,Grön Hagsätra,2,55,null,Lägenhet,1942,[Enskede],1895000,0,1895000,3161,Bjurfors,209.16607655907694,Sockenplan
+2013-09-11,Dalgränd 16,Gamla Enskede,Grön Hagsätra,3,79,null,Lägenhet,1981,[Enskededalen],1995000,505000,2500000,3334,SkandiaMäklarna,316.02518152960533,Blasut
+2013-09-10,Sockenvägen 375,Gamla Enskede,Grön Hagsätra,2,53,null,Lägenhet,1940,[Sockenplan],2300000,10000,2310000,2487,HusmanHagberg,259.9541976604586,Sockenplan
+2013-09-07,Täppgränd 7,Gamla Enskede,Grön Hagsätra,3,88,null,Lägenhet,1982,[Enskededalen],1795000,485000,2280000,3293,Svensk Fastighetsförmedling,345.581331144029,Sandsborg
+2013-08-28,Grusåsgränd 89,Gamla Enskede,Grön Hagsätra,3,79,null,Lägenhet,1980,[Enskededalen],2195000,225000,2420000,3531,Fastighetsbyrån,357.44985265871344,Sandsborg
+2013-08-23,Nynäsvägen 332,Gamla Enskede,Grön Hagsätra,1,40,null,Lägenhet,1926,[Enskede],1695000,105000,1800000,1937,Fastighetsbyrån,185.4327561564233,Sandsborg
+2013-08-22,Nynäsvägen 293,Gamla Enskede,Grön Hagsätra,2,63.5,null,Lägenhet,1945,[Enskededalen],1895000,75000,1970000,3645,Fastighetsbyrån,342.1632150002294,Blasut
+2013-08-17,Stockholmsvägen 2,Gamla Enskede,Grön Hagsätra,4.5,104,null,Lägenhet,1925,[Gamla Enskede],4200000,-200000,4000000,4636,HusmanHagberg,313.37478589976206,Sandsborg
+2013-08-16,Grusåsgränd 88,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1979,[Enskededalen],2010000,0,2010000,2821,SkandiaMäklarna,238.0227938438218,Sandsborg
+2013-08-16,Skogsvägen 2,Gamla Enskede,Grön Hagsätra,2,54,2,Lägenhet,1911,[Enskede],2395000,155000,2550000,2032,Bjurfors,532.7988406935153,Sandsborg
+2013-08-15,Nynäsvägen 345,Gamla Enskede,Grön Hagsätra,1,31,2,Lägenhet,null,[Enskede],1570000,90000,1660000,2081,Bjurfors,251.37530293434946,Sandsborg
+2013-08-14,Sockenvägen 367,Gamla Enskede,Grön Hagsätra,2,40,null,Lägenhet,1942,[Gamla Enskede],1595000,245000,1840000,2316,Privatmäklaren,182.86316276052295,Sockenplan
+2013-08-09,Nynäsvägen 336,Gamla Enskede,Grön Hagsätra,1,42,2,Lägenhet,1925,[Enskede],1595000,205000,1800000,2096,Mäklarhuset,195.82803683434545,Sandsborg
+2013-08-08,Nynäsvägen 331,Gamla Enskede,Grön Hagsätra,4.5,107,null,Lägenhet,1927,[Enskede],4590000,10000,4600000,5741,HusmanHagberg,152.60118966049285,Sandsborg
+2013-07-19,Sockenvägen 480,Gamla Enskede,Grön Hagsätra,2,56,null,Lägenhet,1945,[Enskede],1995000,105000,2100000,3639,Notar,89.21491690993832,Skogskyrkogarden
+2013-07-18,Sockenvägen 482,Gamla Enskede,Grön Hagsätra,2,49,1.5,Lägenhet,1945,[Enskede],1795000,210000,2005000,3195,Notar,76.03984792416509,Skogskyrkogarden
+2013-07-04,Guldsmedsvägen 7,Gamla Enskede,Grön Hagsätra,1.5,38,2,Lägenhet,1947,[Enskede],1550000,170000,1720000,2593,HusmanHagberg,239.16072974991135,Blasut
+2013-06-30,Sockenvägen 423,Gamla Enskede,Grön Hagsätra,1,38,null,Lägenhet,null,[Enskede],1600000,150000,1750000,2048,Ansvar Fastighetsförmedling,719.1085726678235,Sandsborg
+2013-06-27,Nynäsvägen 339,Gamla Enskede,Grön Hagsätra,2,45,null,Lägenhet,1927,[Enskededalen],1795000,-45000,1750000,2714,Fastighetsbyrån,210.76895295783262,Sandsborg
+2013-06-26,Nynäsvägen 362,Gamla Enskede,Grön Hagsätra,2,44,2,Lägenhet,1990,[Gamla Enskede],1295000,-95000,1200000,4696,Svensk Fastighetsförmedling,306.43588903299946,Skogskyrkogarden
+2013-06-26,Täppgränd 109,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1980,[Enskededalen],1695000,105000,1800000,2831,Notar,346.12382900207075,Sandsborg
+2013-06-26,Solvägen 27,Gamla Enskede,Grön Hagsätra,3,70,2,Lägenhet,1910,[Enskede],3975000,295000,4270000,2562,Mäklarhuset,619.3124405774965,Sandsborg
+2013-06-19,Täppgränd 113,Gamla Enskede,Grön Hagsätra,4,82,null,Lägenhet,null,[Enskede],2550000,100000,2650000,3627,Södermäklarna,385.0971831013816,Sandsborg
+2013-06-18,Murklevägen 88,Gamla Enskede,Grön Hagsätra,4,78,null,Villa,1935,[Enskede],5495000,-695000,4800000,null,Mäklarhuset,710.9523282866287,Skogskyrkogarden
+2013-06-16,Stockholmsvägen 19,Gamla Enskede,Grön Hagsätra,3,72,null,Lägenhet,1909,[Enskede],3495000,305000,3800000,2582,Fastighetsbyrån,297.80092557440406,Sandsborg
+2013-06-12,Stockholmsvägen 59,Gamla Enskede,Grön Hagsätra,2,40,null,Lägenhet,2011,[Gamla Enskede],2095000,205000,2300000,1101,Entré rekommenderade mäklare AB,616.3683172983524,Sandsborg
+2013-06-12,Grusåsgränd 84,Gamla Enskede,Grön Hagsätra,3.5,88,null,Lägenhet,1980,[Enskededalen],2150000,120000,2270000,3823,Länsförsäkringar Fastighetsförmedling,226.84964677479908,Sandsborg
+2013-06-06,Fagerängskrokarna 64,Gamla Enskede,Grön Hagsätra,5,143,null,Villa,1923,[Gamla Enskede],6485000,1015000,7500000,null,SkandiaMäklarna,384.2096846078955,Skogskyrkogarden
+2013-06-05,Hemmansvägen 18,Gamla Enskede,Grön Hagsätra,6,null,null,Villa,null,[Gamla Enskede],5950000,-150000,5800000,null,Södermäklarna,327.9225916628102,Sockenplan
+2013-06-05,Nynäsvägen 294,Gamla Enskede,Grön Hagsätra,2,66,null,Lägenhet,1927,[Gamla Enskede],null,NaN,2550000,2685,HusmanHagberg,387.28979869215783,Blasut
+2013-06-02,Nynäsvägen 310,Gamla Enskede,Grön Hagsätra,2,60,null,Lägenhet,null,[Gamla Enskede],2300000,20000,2320000,2752,Södermäklarna,251.56287207751149,Sandsborg
+2013-06-01,Dalgränd 50,Gamla Enskede,Grön Hagsätra,2,64,1,Radhus,null,[Enskededalen],1395000,55000,1450000,4032,Hans Göthe Fastighetsbyrå AB,391.48313845031663,Sandsborg
+2013-05-31,Dalgränd 52,Gamla Enskede,Grön Hagsätra,3,88,null,Lägenhet,1981,[Enskededalen],1900000,0,1900000,5219,MäklarMäster,372.9147146363538,Sandsborg
+2013-05-24,Nynäsvägen 359,Gamla Enskede,Grön Hagsätra,1,44,2,Lägenhet,null,[Gamla Enskede],1700000,20000,1720000,2542,Erik Olsson Fastighetsförmedling,313.18707542548765,Skogskyrkogarden
+2013-05-17,Handelsvägen 24,Gamla Enskede,Grön Hagsätra,1,29,0,Lägenhet,1909,[Enskede],1395000,255000,1650000,1061,Mäklarhuset,584.4235249153288,Sandsborg
+2013-05-16,Handelsvägen 22,Gamla Enskede,Grön Hagsätra,3,73,2,Lägenhet,1909,[Gamla Enskede],3975000,425000,4400000,2670,Svensk Fastighetsförmedling,565.8611009934097,Sandsborg
+2013-05-16,Bersågränd 12,Gamla Enskede,Grön Hagsätra,2,67,null,Radhus,1981,[Enskededalen],1650000,400000,2050000,2845,HusmanHagberg,325.74509421567967,Sandsborg
+2013-05-13,Dalgränd 50,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1981,[Enskededalen],2375000,15000,2390000,5960,Notar,391.48313845031663,Sandsborg
+2013-05-10,Grusåsgränd 101,Gamla Enskede,Grön Hagsätra,6,136,null,Lägenhet,null,[Enskededalen],3495000,-100000,3395000,5840,Fastighetsbyrån,297.5842036985517,Sandsborg
+2013-05-08,Handelsvägen 112,Gamla Enskede,Grön Hagsätra,4,102,null,Lägenhet,1963,[Enskede],4050000,0,4050000,4881,Länsförsäkringar Fastighetsförmedling,467.02340059681484,Sockenplan
+2013-05-08,Plantskolevägen 16,Gamla Enskede,Grön Hagsätra,7,136,null,Villa,1934,[Gamla Enskede],7850000,-350000,7500000,null,SkandiaMäklarna,401.4685724934471,Sockenplan
+2013-05-03,Handelsvägen 18,Gamla Enskede,Grön Hagsätra,1,27,null,Lägenhet,1928,[Gamla Enskede],1395000,215000,1610000,1657,Svensk Fastighetsförmedling,504.7283760785339,Sandsborg
+2013-05-03,Täppgränd 103,Gamla Enskede,Grön Hagsätra,3.5,87,null,Lägenhet,1982,[Enskededalen],2150000,-150000,2000000,3848,Notar,308.1335540432204,Sandsborg
+2013-04-26,Täppgränd 105,Gamla Enskede,Grön Hagsätra,2,65,null,Lägenhet,null,[Enskededalen],1590000,230000,1820000,2875,MäklarMäster,306.6611460645003,Sandsborg
+2013-04-20,Sofielundsvägen 12,Gamla Enskede,Grön Hagsätra,2,53.5,2,Lägenhet,1943,[Globen],1995000,0,1995000,2574,Mäklarringen,195.69420494264656,Blasut
+2013-04-20,Margaretavägen 47,Gamla Enskede,Grön Hagsätra,5,90,null,Villa,1909,[Gamla Enskede],6100000,525000,6625000,null,SkandiaMäklarna,559.1457440001309,Sockenplan
+2013-04-19,Täppgränd 113,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,1982,[Enskededalen],2395000,0,2395000,4556,Svensk Fastighetsförmedling,385.0971831013816,Sandsborg
+2013-04-13,Nynäsvägen 311,Gamla Enskede,Grön Hagsätra,1,45,2,Lägenhet,1911,[Högst],1750000,110000,1860000,2451,Mäklarhuset,175.50535776675756,Sandsborg
+2013-04-12,Nynäsvägen 337,Gamla Enskede,Grön Hagsätra,1,43,null,Lägenhet,1927,[Enskede],1595000,105000,1700000,2257,Svensk Fastighetsförmedling,185.85681457011657,Sandsborg
+2013-04-10,Nynäsvägen 341,Gamla Enskede,Grön Hagsätra,2,78,null,Lägenhet,1930,[Enskededalen],2350000,-150000,2200000,4229,Fastighetsbyrån,223.1210032605016,Sandsborg
+2013-04-06,Täppgränd 109,Gamla Enskede,Grön Hagsätra,2,53,null,Lägenhet,1982,[Enskededalen],1575000,-25000,1550000,2343,HusmanHagberg,346.12382900207075,Sandsborg
+2013-04-03,Glasmålarvägen 6,Gamla Enskede,Grön Hagsätra,3,72,null,Lägenhet,1942,[Blåsut],2195000,145000,2340000,3231,RE/MAX Sverige,278.7724855463133,Blasut
+2013-03-28,Yrkesvägen 11,Gamla Enskede,Grön Hagsätra,3.5,58,null,Lägenhet,1925,[Enskededalen],2450000,75000,2525000,2771,Fastighetsbyrån,132.55403757586916,Sandsborg
+2013-03-26,Nynäsvägen 325,Gamla Enskede,Grön Hagsätra,4,97.3,null,Lägenhet,1913,[Enskede],3695000,-45000,3650000,5491,Svensk Fastighetsförmedling,128.18460641198828,Sandsborg
+2013-03-23,Yrkesvägen 15,Gamla Enskede,Grön Hagsätra,2,57,2,Lägenhet,1925,[Gamla Enskede],2295000,195000,2490000,2852,SkandiaMäklarna,106.47261920157784,Sandsborg
+2013-03-21,Nynäsvägen 349,Gamla Enskede,Grön Hagsätra,1,37,null,Lägenhet,1930,[Gamla Enskede],1575000,45000,1620000,2195,HusmanHagberg,300.0339967632428,Sandsborg
+2013-03-20,Handelsvägen 24,Gamla Enskede,Grön Hagsätra,3,73,null,Lägenhet,1909,[Gamla Enskede],3300000,150000,3450000,2670,Hemmäklarna,584.4235249153288,Sandsborg
+2013-03-18,Svampvägen 112,Gamla Enskede,Grön Hagsätra,6,123,null,Villa,1938,[Gamla Enskede],7500000,-200000,7300000,null,SkandiaMäklarna,592.2629829571434,Sockenplan
+2013-03-16,Stockholmsvägen 62,Gamla Enskede,Grön Hagsätra,1,39,1.5,Lägenhet,1911,[Gamla Enskede],1650000,230000,1880000,2101,Notar,703.3868917575381,Sandsborg
+2013-03-15,Grusåsgränd 14,Gamla Enskede,Grön Hagsätra,3,82,2,Lägenhet,1979,[Enskede],1995000,265000,2260000,3617,Svensk Fastighetsförmedling,312.2089655122256,Blasut
+2013-03-15,Handelsvägen 65,Gamla Enskede,Grön Hagsätra,6,105,null,Villa,null,[Gamla Enskede],5300000,1050000,6350000,null,Entré rekommenderade mäklare AB,480.93785892031866,Sockenplan
+2013-03-13,Stora Gungans väg 13,Gamla Enskede,Grön Hagsätra,2,47,null,Lägenhet,1925,[Gamla Enskede],2250000,0,2250000,2290,Svenska Mäklarhuset,66.63561744174108,Sandsborg
+2013-03-13,Nynäsvägen 375B,Gamla Enskede,Grön Hagsätra,3,70,null,Lägenhet,1945,[Enskede],2295000,0,2295000,4464,Notar,154.9463970475312,Skogskyrkogarden
+2013-03-09,Dalgränd 14,Gamla Enskede,Grön Hagsätra,4,97,3,Lägenhet,null,[Enskededalen],2495000,305000,2800000,4187,Gripsholms Fastighetsförmedling,333.418661013819,Blasut
+2013-03-06,Stockholmsvägen 19,Gamla Enskede,Grön Hagsätra,2,51,null,Lägenhet,1909,[Enskede],2895000,-145000,2750000,2027,Fastighetsbyrån,297.80092557440406,Sandsborg
+2013-03-05,Nynäsvägen 335,Gamla Enskede,Grön Hagsätra,1,39,null,Lägenhet,1927,[Enskede],1595000,75000,1670000,2103,Svensk Fastighetsförmedling,176.0673202593316,Sandsborg
+2013-03-03,Nynäsvägen 332,Gamla Enskede,Grön Hagsätra,1,40,null,Lägenhet,1926,[Enskede/Årsta/Skarpnäck],1395000,395000,1790000,1937,Fastighetsbyrån,185.4327561564233,Sandsborg
+2013-03-02,Stora Gungans väg 13,Gamla Enskede,Grön Hagsätra,2,47,2,Lägenhet,1925,[Enskede],2200000,0,2200000,2052,Svenska Mäklarhuset,66.63561744174108,Sandsborg
+2013-03-01,Stockholmsvägen 62,Gamla Enskede,Grön Hagsätra,1,34,null,Lägenhet,1911,[Gamla Enskede],1475000,175000,1650000,1835,Magnusson Mäkleri,703.3868917575381,Sandsborg
+2013-02-24,Nynäsvägen 302,Gamla Enskede,Grön Hagsätra,2,50.4,3,Lägenhet,1925,[Enskede],1995000,0,1995000,2229,Svensk Fastighetsförmedling,323.2833271184231,Sandsborg
+2013-02-23,Grusåsgränd 185,Gamla Enskede,Grön Hagsätra,4,103,null,Lägenhet,null,[Enskede],2295000,525000,2820000,4270,Entré rekommenderade mäklare AB,266.5026407110067,Sandsborg
+2013-02-21,Grusåsgränd 84,Gamla Enskede,Grön Hagsätra,3,82,3,Lägenhet,1979,[Enskededalen],1990000,120000,2110000,3484,SkandiaMäklarna,226.84964677479908,Sandsborg
+2013-02-19,Grusåsgränd 63,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1980,[Enskededalen],1695000,265000,1960000,2991,Svenska Mäklarhuset,324.88272565034725,Blasut
+2013-02-16,Nynäsvägen 346,Gamla Enskede,Grön Hagsätra,2,42,null,Lägenhet,1990,[Enskede],1395000,0,1395000,4515,Fastighetsbyrån,337.2801729638164,Sandsborg
+2013-02-16,Nynäsvägen 366,Gamla Enskede,Grön Hagsätra,2,44,2,Lägenhet,null,[Gamla Enskede],1250000,200000,1450000,4696,Erik Olsson Fastighetsförmedling,287.68934982288766,Skogskyrkogarden
+2013-02-09,Dalgränd 60,Gamla Enskede,Grön Hagsätra,3,94,null,Lägenhet,1981,[Enskede],1995000,65000,2060000,5515,Svensk Fastighetsförmedling,394.29050589239915,Sandsborg
+2013-02-07,Nynäsvägen 323,Gamla Enskede,Grön Hagsätra,1,39.1,2,Lägenhet,1913,[Gamla Enskede],1650000,70000,1720000,1839,Notar,128.65516752134226,Sandsborg
+2013-02-04,Nynäsvägen 350A,Gamla Enskede,Grön Hagsätra,3,68,null,Lägenhet,1990,[Gamla Enskede],895000,605000,1500000,7748,Entré rekommenderade mäklare AB,376.2743305207546,Sandsborg
+2013-02-01,Margaretavägen 39,Gamla Enskede,Grön Hagsätra,5,89,null,Radhus,1909,[Gamla Enskede],6000000,525000,6525000,null,SkandiaMäklarna,551.9298661842253,Sockenplan
+2013-02-01,Grusåsgränd 88,Gamla Enskede,Grön Hagsätra,3,82,null,Radhus,null,[Enskededalen],1990000,160000,2150000,3545,MäklarMäster,238.0227938438218,Sandsborg
+2013-01-31,Nynäsvägen 295,Gamla Enskede,Grön Hagsätra,2,63.5,1,Lägenhet,1946,[Enskede],1595000,85000,1680000,3645,Mäklarhuset,328.8938041584174,Sandsborg
+2013-01-31,Nynäsvägen 312,Gamla Enskede,Grön Hagsätra,2,51,null,Lägenhet,1909,[Enskede],2150000,-35000,2115000,2340,HusmanHagberg,239.6305722236308,Sandsborg
+2013-01-27,Nynäsvägen 306,Gamla Enskede,Grön Hagsätra,3,78,null,Lägenhet,1928,[Gamla Enskede],2595000,195000,2790000,4025,HusmanHagberg,278.89425747202927,Sandsborg
+2013-01-27,Guldsmedsvägen 5,Gamla Enskede,Grön Hagsätra,1,20,null,Lägenhet,1947,[Enskede],1150000,50000,1200000,1472,Notar,244.73078430272872,Blasut
+2013-01-24,Nynäsvägen 342B,Gamla Enskede,Grön Hagsätra,1,31,null,Lägenhet,1943,[Enskede],1395000,145000,1540000,1626,SkandiaMäklarna,282.8868232746589,Sandsborg
+2013-01-23,Stockholmsvägen 57,Gamla Enskede,Grön Hagsätra,1,39.5,null,Lägenhet,1912,[Enskede],1845000,-20000,1825000,1712,Bjurfors,601.8720053766662,Sandsborg
+2013-01-14,Nynäsvägen 362,Gamla Enskede,Grön Hagsätra,2,44,null,Lägenhet,null,[Bromma],1325000,-10000,1315000,4696,Hemverket,306.43588903299946,Skogskyrkogarden
+2013-01-11,Täppgränd 103,Gamla Enskede,Grön Hagsätra,3,64,null,Lägenhet,null,[Enskededalen],1890000,220000,2110000,2831,MäklarMäster,308.1335540432204,Sandsborg
+2012-12-14,Bersågränd 58,Gamla Enskede,Grön Hagsätra,5,104,null,Radhus,null,[Enskededalen],2795000,605000,3400000,4300,MäklarMäster,257.3949076973599,Sandsborg
+2012-12-07,Dalgränd 22,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,1981,[Enskede],1995000,-45000,1950000,3450,Svensk Fastighetsförmedling,309.0892626315861,Blasut
+2012-12-06,Dalgränd 54,Gamla Enskede,Grön Hagsätra,2,60,null,Lägenhet,1981,[Enskede],1495000,65000,1560000,3835,Svensk Fastighetsförmedling,353.37348442261396,Sandsborg
+2012-12-06,Sockenvägen 425,Gamla Enskede,Grön Hagsätra,1,38,null,Lägenhet,null,[Gamla Enskede],1550000,200000,1750000,1950,Classic Home Fastighetsmäkleri,716.0700205923172,Sandsborg
+2012-12-05,Täppgränd 109,Gamla Enskede,Grön Hagsätra,1.5,53,null,Lägenhet,1982,[Enskededalen],1495000,-35000,1460000,2297,Fastighetsbyrån,346.12382900207075,Sandsborg
+2012-12-04,Dalgränd 52,Gamla Enskede,Grön Hagsätra,4,90,2,Lägenhet,1981,[Enskededalen],2595000,-295000,2300000,4013,Mäklarhuset,372.9147146363538,Sandsborg
+2012-12-04,Dalgränd 52,Gamla Enskede,Grön Hagsätra,3.5,88,2,Lägenhet,1981,[Enskededalen],2595000,-295000,2300000,4014,Mäklarhuset,372.9147146363538,Sandsborg
+2012-12-03,Sockenvägen 421,Gamla Enskede,Grön Hagsätra,4,115,0,Lägenhet,1911,[Enskede],4995000,130000,5125000,5543,Mäklarhuset,706.4816168767811,Sockenplan
+2012-11-30,Täppgränd 39,Gamla Enskede,Grön Hagsätra,2,67,null,Lägenhet,1984,[Enskededalen],1750000,0,1750000,2572,Bjurfors,358.8527726082702,Sandsborg
+2012-11-27,Bersågränd 2,Gamla Enskede,Grön Hagsätra,4,98,2,Lägenhet,1981,[Enskededalen],2595000,-95000,2500000,3978,Mäklarhuset,265.2775257517935,Sandsborg
+2012-11-23,Stora Gungans väg 17,Gamla Enskede,Grön Hagsätra,1,58,1,Lägenhet,1925,[Enskede],2195000,0,2195000,2533,Svensk Fastighetsförmedling,42.270866186131194,Sandsborg
+2012-11-22,Stora Gungans väg 19,Gamla Enskede,Grön Hagsätra,3,87,3,Lägenhet,null,[Gamla Enskede],3295000,55000,3350000,3800,Erik Olsson Fastighetsförmedling,30.773061746093084,Sandsborg
+2012-11-19,Sofielundsvägen 12,Gamla Enskede,Grön Hagsätra,2.5,53.5,3,Lägenhet,null,[Enskededalen],1995000,-20000,1975000,2504,Mäklarhuset,195.69420494264656,Blasut
+2012-11-19,Skolvägen 6,Gamla Enskede,Grön Hagsätra,4,101,null,Lägenhet,2007,[Enskede],4175000,-275000,3900000,6211,Bjurfors,259.6627719889886,Sandsborg
+2012-11-18,Kapellvägen 2,Gamla Enskede,Grön Hagsätra,5,123,null,Villa,1911,[Enskede],7200000,310000,7510000,null,Svensk Fastighetsförmedling,178.42065756750972,Sandsborg
+2012-11-17,Dalgränd 22,Gamla Enskede,Grön Hagsätra,2,68,null,Lägenhet,1981,[Enskede],1495000,425000,1920000,2959,Svensk Fastighetsförmedling,309.0892626315861,Blasut
+2012-11-16,Stockholmsvägen 19,Gamla Enskede,Grön Hagsätra,3,81,null,Lägenhet,1909,[Enskede],3595000,830000,4425000,2814,Fastighetsbyrån,297.80092557440406,Sandsborg
+2012-11-09,Grusåsgränd 164,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1980,[Enskededalen],1850000,0,1850000,2653,Fastighetsbyrån,242.45290820371176,Sandsborg
+2012-11-08,Täppgränd 93,Gamla Enskede,Grön Hagsätra,3,82,null,Lägenhet,null,[Enskededalen],1795000,405000,2200000,3556,MäklarMäster,355.7849226640139,Sandsborg
+2012-11-08,Täppgränd 65,Gamla Enskede,Grön Hagsätra,3,85,null,Lägenhet,1984,[Enskededalen],2200000,100000,2300000,3190,Svenska Mäklarhuset,360.7867350888804,Sandsborg
+2012-11-07,Tryffelgränd 12,Gamla Enskede,Grön Hagsätra,6,136,null,Villa,1928,[Enskede],6250000,50000,6300000,null,Mäklarhuset,434.0709952958194,Skogskyrkogarden
+2012-10-30,Magnebergskroken 11,Gamla Enskede,Grön Hagsätra,7,188,null,Villa,1925,[Enskede],7300000,-950000,6350000,null,Erik Olsson Fastighetsförmedling,133.55872657247346,Sandsborg
+2012-10-29,Guldsmedsvägen 3,Gamla Enskede,Grön Hagsätra,1,25,3,Lägenhet,1947,[Enskededalen],1295000,35000,1330000,1645,SkandiaMäklarna,250.88675090161283,Blasut
+2012-10-25,Grusåsgränd 93,Gamla Enskede,Grön Hagsätra,3,88,1,Lägenhet,1980,[Enskededalen],1995000,325000,2320000,3898,Fastighetsbyrån,330.7958367174271,Sandsborg
+2012-10-25,Backvägen 8,Gamla Enskede,Grön Hagsätra,4,77,null,Parhus,1909,[Enskede],5500000,-200000,5300000,null,Svensk Fastighetsförmedling,422.8910493700262,Sandsborg
+2012-10-24,Täppgränd 97,Gamla Enskede,Grön Hagsätra,5,104,null,Lägenhet,1982,[Enskededalen],2695000,375000,3070000,4510,Fastighetsbyrån,357.93249180694846,Sandsborg
+2012-10-22,Handelsvägen 50,Gamla Enskede,Grön Hagsätra,3,85,null,Lägenhet,null,[Enskede],3495000,135000,3630000,4409,Erik Olsson Fastighetsförmedling,435.51667722090457,Sockenplan
+2012-10-22,Nynäsvägen 334,Gamla Enskede,Grön Hagsätra,2,67,2,Lägenhet,1926,[Enskede],2195000,130000,2325000,3141,Svensk Fastighetsförmedling,190.89060561466022,Sandsborg
+2012-10-19,Stora Gungans väg 8,Gamla Enskede,Grön Hagsätra,1,38.2,2,Lägenhet,1913,[Enskede],1650000,0,1650000,1880,Svensk Fastighetsförmedling,110.20755190089722,Sandsborg
+2012-10-18,Stockholmsvägen 53,Gamla Enskede,Grön Hagsätra,3,58,null,Lägenhet,null,[Enskede],2595000,35000,2630000,2182,Svensk Fastighetsförmedling,566.9217978750405,Sandsborg
+2012-10-17,Nynäsvägen 363,Gamla Enskede,Grön Hagsätra,1,47.5,0.5,Lägenhet,1928,[Gamla Enskede],1650000,175000,1825000,2018,Notar,269.48836217549876,Skogskyrkogarden
+2012-10-12,Grusåsgränd 93,Gamla Enskede,Grön Hagsätra,3,87,1,Lägenhet,1980,[Enskededalen],1895000,355000,2250000,3844,Fastighetsbyrån,330.7958367174271,Sandsborg
+2012-10-09,Nynäsvägen 327,Gamla Enskede,Grön Hagsätra,5,86,null,Lägenhet,1926,[Gamla Enskede],3890000,220000,4110000,2808,SkandiaMäklarna,120.61248678885244,Sandsborg
+2012-10-07,Dalgränd 66,Gamla Enskede,Grön Hagsätra,3,79,null,Lägenhet,1981,[Enskededalen],1950000,0,1950000,3672,Fastighetsbyrån,420.1385812798269,Sandsborg
+2012-10-07,Solvägen 27,Gamla Enskede,Grön Hagsätra,3,83,null,Lägenhet,1909,[Enskede],4200000,700000,4900000,3036,Svensk Fastighetsförmedling,619.3124405774965,Sandsborg
+2012-10-01,Tallkrogsvägen 8D,Gamla Enskede,Grön Hagsätra,5,112,null,Lägenhet,1927,[Enskede],3500000,100000,3600000,5910,Svensk Fastighetsförmedling,257.3265799134546,Skogskyrkogarden
+2012-09-30,Grusåsgränd 72,Gamla Enskede,Grön Hagsätra,6,130,null,Lägenhet,1979,[Enskededalen],3490000,280000,3770000,5191,SkandiaMäklarna,297.6730811788394,Sandsborg
+2012-09-30,Täppgränd 103,Gamla Enskede,Grön Hagsätra,2,64,null,Lägenhet,1982,[Enskededalen],1595000,75000,1670000,2776,Fastighetsbyrån,308.1335540432204,Sandsborg
+2012-09-20,Stora Gungans väg 11,Gamla Enskede,Grön Hagsätra,1,39,null,Lägenhet,1926,[Enskede],1195000,455000,1650000,1313,Svensk Fastighetsförmedling,91.52977319284952,Sandsborg

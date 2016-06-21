@@ -1,0 +1,642 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-18,Grafikvägen 11,Enskede Gård,Grön Hagsätra,2,51,1,Lägenhet,1946,[Johanneshov],2995000,615000,3610000,2384,Mäklarhuset,229.08365006570924,Gullmarsplan
+2016-06-14,Bildhuggarvägen 39,Enskede Gård,Grön Hagsätra,2,38,2,Lägenhet,1944,[Globen],2095000,655000,2750000,2767,Notar,328.8160902032403,Globen
+2016-06-13,Konstgjutarvägen 28,Enskede Gård,Grön Hagsätra,3,62,1,Lägenhet,1944,[Johanneshov],2895000,545000,3440000,3560,Mäklarringen,107.27877485252071,Globen
+2016-06-13,Sofielundsplan 53,Enskede Gård,Grön Hagsätra,3,57,2,Lägenhet,1944,[Blåsut-Globen],3500000,-100000,3400000,2350,Länsförsäkringar Fastighetsförmedling,110.168957899001,Blasut
+2016-06-05,Skärmarbrinksvägen 16,Enskede Gård,Grön Hagsätra,2,52,-1,Lägenhet,1944,[Blåsut],2495000,205000,2700000,2825,Fastighetsbyrån,178.17837634170093,Blasut
+2016-06-04,Bildhuggarvägen 17,Enskede Gård,Grön Hagsätra,3,60,3,Lägenhet,1944,[Globen],3100000,500000,3600000,3564,Bjurfors,105.51280091073778,Globen
+2016-06-02,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,43.5,0,Lägenhet,1944,[Globen],2600000,20000,2620000,2958,Fastighetsbyrån,278.6546520646587,Globen
+2016-06-01,Pastellvägen 32,Enskede Gård,Grön Hagsätra,2,47,null,Lägenhet,1943,[Blåsut],2490000,0,2490000,2235,SkandiaMäklarna,190.3152572422512,Blasut
+2016-05-31,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,60,3,Lägenhet,1946,[Gullmarsplan],2795000,605000,3400000,4042,Notar,306.27094391479216,Gullmarsplan
+2016-05-31,Usedomsvägen 5,Enskede Gård,Grön Hagsätra,8,175,null,Villa,1933,[Enskede Gård],8950000,1325000,10275000,null,Mäklarhuset,242.98244247623205,Enskede gard
+2016-05-31,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,43,8,Lägenhet,null,[Gullmarsplan],3300000,0,3300000,2897,Länsförsäkringar Fastighetsförmedling,306.27094391479216,Gullmarsplan
+2016-05-27,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,55,6,Lägenhet,1943,[Blåsut],2750000,375000,3125000,2762,Fastighetsbyrån,282.66138788370205,Skarmarbrink
+2016-05-27,Skulptörvägen 18,Enskede Gård,Grön Hagsätra,4,66,0,Lägenhet,1997,[Gullmarsplan],3850000,725000,4575000,4337,Fastighetsbyrån,287.1242926999942,Globen
+2016-05-27,Odelbergsvägen 36,Enskede Gård,Grön Hagsätra,2,56,1,Lägenhet,2007,[Enskede Gård],2995000,255000,3250000,4360,Erik Olsson Fastighetsförmedling,50.4361768651455,Enskede gard
+2016-05-27,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1,24,5,Lägenhet,1945,[Gullmarsplan],1995000,355000,2350000,1527,HusmanHagberg,262.88928542742923,Gullmarsplan
+2016-05-27,Konstgjutarvägen 16,Enskede Gård,Grön Hagsätra,2,55,1,Lägenhet,1945,[Globen],2595000,205000,2800000,2806,Mäklarhuset,68.03187698261203,Globen
+2016-05-27,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,50,4,Lägenhet,1943,[Globen],2495000,405000,2900000,2867,Mäklarhuset,320.0362343597097,Blasut
+2016-05-27,Sofielundsplan 55,Enskede Gård,Grön Hagsätra,3,60,2,Lägenhet,null,[Johanneshov],2495000,555000,3050000,3074,Svensk Fastighetsförmedling,114.0593502263257,Blasut
+2016-05-26,Pastellvägen 10,Enskede Gård,Grön Hagsätra,2,54,1,Lägenhet,null,[Globen],null,NaN,2900000,2968,Bjurfors,365.1682026307666,Blasut
+2016-05-25,Konstgjutarvägen 16,Enskede Gård,Grön Hagsätra,3,78,1,Lägenhet,1945,[Globen],3695000,205000,3900000,3979,Notar,68.03187698261203,Globen
+2016-05-25,Godsägarvägen 25,Enskede Gård,Grön Hagsätra,4,91,null,Villa,1937,[Enskede Gård],4950000,2200000,7150000,null,Mäklarhuset,120.31955307833947,Enskede gard
+2016-05-25,Etsarvägen 1,Enskede Gård,Grön Hagsätra,1,37.5,4,Lägenhet,1946,[Johanneshov],2195000,625000,2820000,1625,Svensk Fastighetsförmedling,321.07203192717634,Gullmarsplan
+2016-05-24,Konstgjutarvägen 4,Enskede Gård,Grön Hagsätra,1,35,3,Lägenhet,1945,[Globen],2150000,675000,2825000,1221,Bjurfors,160.11798743830545,Globen
+2016-05-24,Pastellvägen 13,Enskede Gård,Grön Hagsätra,2,55,1,Lägenhet,1943,[Globen],2495000,275000,2770000,3495,Bjurfors,275.96275189047043,Blasut
+2016-05-20,Gullmarsvägen 9,Enskede Gård,Grön Hagsätra,1,28,4,Lägenhet,1946,[Gullmarsplan],1995000,630000,2625000,1212,Södermäklarna,192.86509921629536,Gullmarsplan
+2016-05-19,Konstgjutarvägen 28A,Enskede Gård,Grön Hagsätra,3,67,0,Lägenhet,1944,[Johanneshov],2695000,0,2695000,3847,Svensk Fastighetsförmedling,100.40636614148826,Globen
+2016-05-17,Skulptörvägen 18,Enskede Gård,Grön Hagsätra,3,84,1,Lägenhet,1997,[Globen],3995000,605000,4600000,5101,Notar,287.1242926999942,Globen
+2016-05-17,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,1,25,4,Lägenhet,1943,[Globen],1995000,0,1995000,1266,HusmanHagberg,282.66138788370205,Skarmarbrink
+2016-05-14,Pastellvägen 12,Enskede Gård,Grön Hagsätra,2,42,3,Lägenhet,1943,[Globen],2295000,465000,2760000,2481,Fastighetsbyrån,344.6157444747602,Blasut
+2016-05-13,Grafikvägen 20,Enskede Gård,Grön Hagsätra,2.5,54,1,Lägenhet,1946,[Gullmarsplan],2750000,650000,3400000,2800,Fastighetsbyrån,292.8358221847424,Gullmarsplan
+2016-05-13,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,58,1,Lägenhet,null,[Gullmarsplan],2795000,155000,2950000,3908,Fastighetsbyrån,306.27094391479216,Gullmarsplan
+2016-05-12,Lindevägen 50,Enskede Gård,Grön Hagsätra,2,61.5,3,Lägenhet,1989,[Enskede-Årsta-Vantör],2795000,225000,3020000,4010,SkandiaMäklarna,381.1681186496314,Enskede gard
+2016-05-11,Etsarvägen 1,Enskede Gård,Grön Hagsätra,2,44,5,Lägenhet,1945,[Gullmarsplan],2450000,550000,3000000,1835,Notar,321.07203192717634,Gullmarsplan
+2016-05-11,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,55,2,Lägenhet,1943,[Blåsut],2650000,340000,2990000,3495,Notar,275.96275189047043,Blasut
+2016-05-07,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,56,null,Lägenhet,1946,[Gullmarsplan],2295000,405000,2700000,3773,Notar,306.27094391479216,Gullmarsplan
+2016-05-03,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,53,null,Lägenhet,1946,[Gullmarsplan],2395000,435000,2830000,3571,Notar,306.27094391479216,Gullmarsplan
+2016-05-02,Gullmarsplan 13,Enskede Gård,Grön Hagsätra,1,38,4,Lägenhet,1950,[Gullmarsplan],1895000,520000,2415000,1302,Notar,120.23363798209051,Gullmarsplan
+2016-04-29,Odelbergsvägen 23,Enskede Gård,Grön Hagsätra,1.5,47,3,Lägenhet,1930,[Enskede Gård],2195000,645000,2840000,2915,Länsförsäkringar Fastighetsförmedling,155.05287400676517,Enskede gard
+2016-04-29,Odelbergsvägen 27,Enskede Gård,Grön Hagsätra,1,49,null,Lägenhet,1931,[Enskede Gård],2495000,705000,3200000,1838,Notar,104.79917273772706,Enskede gard
+2016-04-29,Lindevägen 44,Enskede Gård,Grön Hagsätra,2,62,2,Lägenhet,1989,[Enskede Gård],2795000,25000,2820000,4001,Fastighetsbyrån,402.70361719804,Enskede gard
+2016-04-28,Pastellvägen 8,Enskede Gård,Grön Hagsätra,2,54,2,Lägenhet,1942,[Blåsut],2695000,110000,2805000,3564,Fastighetsbyrån,357.5922578067579,Skarmarbrink
+2016-04-28,Etsarvägen 4,Enskede Gård,Grön Hagsätra,5,102,1,Lägenhet,1946,[Gullmarsplan],4995000,615000,5610000,4291,Fastighetsbyrån,354.24358605738536,Gullmarsplan
+2016-04-27,Pastellvägen 14,Enskede Gård,Grön Hagsätra,3,82,3,Lägenhet,1943,[Johanneshov],3595000,155000,3750000,4654,HusmanHagberg,330.1727783847137,Blasut
+2016-04-27,Bildhuggarvägen 31,Enskede Gård,Grön Hagsätra,2.5,62,1,Lägenhet,1945,[Globen],2795000,375000,3170000,3175,Notar,229.22485957413357,Globen
+2016-04-27,Etsarvägen 1,Enskede Gård,Grön Hagsätra,1,28,5,Lägenhet,1946,[Gullmarsplan],1950000,590000,2540000,1344,Edward & Partners Fastighetsmäklare AB,321.07203192717634,Gullmarsplan
+2016-04-22,Skulptörvägen 1,Enskede Gård,Grön Hagsätra,1,38,-1,Lägenhet,1944,[Enskede-Årsta-Vantör],1975000,245000,2220000,2506,SkandiaMäklarna,194.66725758476872,Globen
+2016-04-22,Pastellvägen 17,Enskede Gård,Grön Hagsätra,1,24,7,Lägenhet,1942,[Johanneshov],1895000,205000,2100000,1178,Svensk Fastighetsförmedling,199.88871165772406,Blasut
+2016-04-22,Pastellvägen 8,Enskede Gård,Grön Hagsätra,2,44,3,Lägenhet,1943,[Globen],1995000,780000,2775000,2543,Bjurfors,357.5922578067579,Skarmarbrink
+2016-04-20,Bildhuggarvägen 31,Enskede Gård,Grön Hagsätra,2,56,3,Lägenhet,1944,[Globen],2795000,505000,3300000,2716,Fastighetsbyrån,229.22485957413357,Globen
+2016-04-19,Bildhuggarvägen 23,Enskede Gård,Grön Hagsätra,1,28,0,Lägenhet,1945,[Globen],1795000,605000,2400000,1406,Notar,156.60674997369614,Globen
+2016-04-16,Konstgjutarvägen 34,Enskede Gård,Grön Hagsätra,2,48,3,Lägenhet,null,[Johanneshov],2595000,695000,3290000,2253,Svensk Fastighetsförmedling,171.60838746596355,Globen
+2016-04-14,Pastellvägen 10,Enskede Gård,Grön Hagsätra,2,51,2,Lägenhet,1942,[Blåsut-Globen-Johanneshov],2195000,730000,2925000,3419,Länsförsäkringar Fastighetsförmedling,365.1682026307666,Blasut
+2016-04-14,Bildhuggarvägen 17,Enskede Gård,Grön Hagsätra,3,59,1,Lägenhet,1944,[Johanneshov],3150000,470000,3620000,3563,Historiska Hem AB,105.51280091073778,Globen
+2016-04-13,Konstgjutarvägen 34,Enskede Gård,Grön Hagsätra,2,48,1,Lägenhet,1944,[Globen],2450000,430000,2880000,2253,Södermäklarna,171.60838746596355,Globen
+2016-04-12,Odelbergsvägen 23,Enskede Gård,Grön Hagsätra,1.5,47,1,Lägenhet,1930,[Enskede Gård],2150000,1000000,3150000,2915,HusmanHagberg,155.05287400676517,Enskede gard
+2016-04-09,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,47,0,Lägenhet,1943,[Johanneshov],2395000,505000,2900000,2737,Svensk Fastighetsförmedling,320.0362343597097,Blasut
+2016-04-08,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,2,50,5,Lägenhet,null,[Gullmarsplan],2895000,655000,3550000,3182,Svenska Mäklarhuset,262.88928542742923,Gullmarsplan
+2016-04-08,Pastellvägen 18,Enskede Gård,Grön Hagsätra,1,35,3,Lägenhet,1943,[Blåsut],1795000,505000,2300000,2224,Notar,288.4638487735916,Blasut
+2016-04-08,Grafikvägen 28,Enskede Gård,Grön Hagsätra,1,27,2,Lägenhet,1946,[Globen],1995000,505000,2500000,1962,Bjurfors,331.7845157527938,Gullmarsplan
+2016-04-07,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,2,50,0,Lägenhet,1945,[Gullmarsplan],2395000,455000,2850000,3182,Fastighetsbyrån,262.88928542742923,Gullmarsplan
+2016-03-24,Planterarvägen 23,Enskede Gård,Grön Hagsätra,5,130,null,Radhus,null,[Enskede Gård],5490000,1260000,6750000,6381,ERA,392.52007541427656,Enskede gard
+2016-03-24,Skärmarbrinksvägen 36,Enskede Gård,Grön Hagsätra,2,57,3,Lägenhet,1944,[Blåsut],2650000,700000,3350000,2330,Bjurfors,147.0746166192657,Blasut
+2016-03-24,Konstgjutarvägen 36,Enskede Gård,Grön Hagsätra,3,54,3,Lägenhet,1944,[Globen],2695000,805000,3500000,2534,Fastighetsbyrån,193.22947468893733,Globen
+2016-03-23,Pastellvägen 17,Enskede Gård,Grön Hagsätra,3,59,5,Lägenhet,1943,[Johanneshov],2750000,800000,3550000,2242,Erik Olsson Fastighetsförmedling,199.88871165772406,Blasut
+2016-03-23,Bildhuggarvägen 29,Enskede Gård,Grön Hagsätra,1,37,2,Lägenhet,1945,[Globen],1995000,690000,2685000,2446,Fastighetsbyrån,210.0636326384789,Globen
+2016-03-23,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,72,6,Lägenhet,1943,[Globen],3195000,325000,3520000,3950,Fastighetsbyrån,275.96275189047043,Blasut
+2016-03-19,Odelbergsvägen 21,Enskede Gård,Grön Hagsätra,3.5,94,6,Lägenhet,1932,[Enskede Gård],4500000,275000,4775000,5727,Mäklarhuset,172.67525106457674,Enskede gard
+2016-03-19,Pastellvägen 18,Enskede Gård,Grön Hagsätra,1,34,0,Lägenhet,1943,[Skarpnäcks stadsdelsområde],1995000,455000,2450000,2160,Södermäklarna,288.4638487735916,Blasut
+2016-03-18,Pastellvägen 14,Enskede Gård,Grön Hagsätra,2,55,1,Lägenhet,1943,[Blåsut],2495000,305000,2800000,2970,Notar,330.1727783847137,Blasut
+2016-03-18,Bildhuggarvägen 4,Enskede Gård,Grön Hagsätra,2,41,5,Lägenhet,1944,[Globen],2195000,655000,2850000,2420,Notar,149.2639401480458,Globen
+2016-03-18,Grafikvägen 1,Enskede Gård,Grön Hagsätra,3,50,3,Lägenhet,1946,[Gullmarsplan],2995000,805000,3800000,2483,Mäklarhuset,202.01481727590303,Gullmarsplan
+2016-03-17,Bildhuggarvägen 25,Enskede Gård,Grön Hagsätra,1.5,37,3,Lägenhet,1945,[Globen],1975000,725000,2700000,2495,SthlmFast,181.37394022713636,Globen
+2016-03-16,Pastellvägen 14,Enskede Gård,Grön Hagsätra,4,79.5,null,Lägenhet,1943,[Blåsut Globen],3590000,120000,3710000,4243,MäklarMäster,330.1727783847137,Blasut
+2016-03-14,Odelbergsvägen 36,Enskede Gård,Grön Hagsätra,2,56,1,Lägenhet,2008,[Enskede Gård],2995000,405000,3400000,4360,Erik Olsson Fastighetsförmedling,50.4361768651455,Enskede gard
+2016-03-12,Bildhuggarvägen 31,Enskede Gård,Grön Hagsätra,2,51,2,Lägenhet,null,[Globen],2795000,425000,3220000,2722,Fastighetsbyrån,229.22485957413357,Globen
+2016-03-10,Artistvägen 4,Enskede Gård,Grön Hagsätra,3,57,3,Lägenhet,1943,[Blåsut],2995000,355000,3350000,3053,Fastighetsbyrån,162.13953839009318,Blasut
+2016-03-09,Bildhuggarvägen 19,Enskede Gård,Grön Hagsätra,1.5,40,3,Lägenhet,1945,[Globen],2195000,465000,2660000,1912,Länsförsäkringar Fastighetsförmedling,124.31619611099406,Globen
+2016-03-09,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1,24,1,Lägenhet,null,[Gullmarsplan],1695000,630000,2325000,1527,Svenska Mäklarhuset,262.88928542742923,Gullmarsplan
+2016-03-07,Konstgjutarvägen 48,Enskede Gård,Grön Hagsätra,2,56,2,Lägenhet,1942,[Johanneshov],2795000,105000,2900000,2865,Notar,258.931324241355,Globen
+2016-03-04,Bägerstavägen 40,Enskede Gård,Grön Hagsätra,6,100,null,Gård,1923,[Enskede Gård],8750000,1150000,9900000,null,Fastighetsbyrån,239.38853687342583,Enskede gard
+2016-03-03,Gullmarsvägen 9,Enskede Gård,Grön Hagsätra,1,28,1,Lägenhet,1946,[Gullmarsplan],1995000,805000,2800000,1192,HusmanHagberg,192.86509921629536,Gullmarsplan
+2016-03-03,Bildhuggarvägen 33,Enskede Gård,Grön Hagsätra,1,34,1,Lägenhet,1944,[Gullmarsplan],2050000,390000,2440000,1991,Mäklarhuset,248.7124973347441,Globen
+2016-03-03,Blåsutvägen 31,Enskede Gård,Grön Hagsätra,1,30,0.5,Lägenhet,1944,[Globen],1995000,705000,2700000,1249,Bjurfors,152.03031863551078,Blasut
+2016-03-02,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,58,4,Lägenhet,null,[Gullmarsplan],2795000,155000,2950000,3908,Länsförsäkringar Fastighetsförmedling,306.27094391479216,Gullmarsplan
+2016-02-29,Bildhuggarvägen 8,Enskede Gård,Grön Hagsätra,2,51,7,Lägenhet,1944,[Johanneshov],2895000,615000,3510000,2668,HusmanHagberg,136.81096226467113,Globen
+2016-02-27,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,1.5,41,3,Lägenhet,1944,[Globen],2095000,635000,2730000,2703,Fastighetsbyrån,278.6546520646587,Globen
+2016-02-25,Bildhuggarvägen 4,Enskede Gård,Grön Hagsätra,2,41,4,Lägenhet,1944,[Globen],2295000,525000,2820000,2420,Länsförsäkringar Fastighetsförmedling,149.2639401480458,Globen
+2016-02-25,Grafikvägen 17,Enskede Gård,Grön Hagsätra,1,26,2,Lägenhet,1943,[Gullmarsplan],1950000,550000,2500000,1297,HusmanHagberg,279.40736012764165,Gullmarsplan
+2016-02-24,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,48,4,Lägenhet,1946,[Johanneshov],2595000,400000,2995000,3164,HusmanHagberg,278.6546520646587,Globen
+2016-02-24,Odelbergsvägen 22A,Enskede Gård,Grön Hagsätra,2,41.5,null,Lägenhet,1939,[Enskede Gård],2495000,-95000,2400000,2680,Berggren & Co Fastighetsmäkleri,188.18664269069362,Enskede gard
+2016-02-20,Blåsutvägen 29,Enskede Gård,Grön Hagsätra,2,48,2,Lägenhet,null,[Hammarbyhöjden],2490000,105000,2595000,2825,BOSTHLM,175.95249694643377,Blasut
+2016-02-19,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,41,4,Lägenhet,1944,[Johanneshov],2395000,355000,2750000,2902,Svensk Fastighetsförmedling,278.6546520646587,Globen
+2016-02-18,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,2,48,1,Lägenhet,null,[Gullmarsplan],2495000,615000,3110000,3073,Svenska Mäklarhuset,286.9465816685034,Globen
+2016-02-16,Konstgjutarvägen 12,Enskede Gård,Grön Hagsätra,2,42,2,Lägenhet,1944,[Globen],2195000,605000,2800000,2725,Notar,95.9645386102966,Globen
+2016-02-14,Etsarvägen 10,Enskede Gård,Grön Hagsätra,4,119,5,Lägenhet,1997,[Johanneshov],6150000,1210000,7360000,7620,Svensk Fastighetsförmedling,344.2607249733331,Globen
+2016-02-11,Etsarvägen 1,Enskede Gård,Grön Hagsätra,3,64,4,Lägenhet,1946,[Gullmarsplan],3495000,1055000,4550000,2360,Södermäklarna,321.07203192717634,Gullmarsplan
+2016-02-10,Bildhuggarvägen 13,Enskede Gård,Grön Hagsätra,2,39,2,Lägenhet,1944,[Johanneshov],2095000,655000,2750000,2724,Notar,95.92056260950692,Globen
+2016-02-06,Bildhuggarvägen 10,Enskede Gård,Grön Hagsätra,3,61,4,Lägenhet,1945,[Enskede-Årsta-Vantör],3195000,805000,4000000,3473,SkandiaMäklarna,165.18022835545582,Globen
+2016-02-05,Dammtrappgatan 15,Enskede Gård,Grön Hagsätra,6,190,null,Gård,1926,[Enskede Gård],8900000,0,8900000,null,Svensk Fastighetsförmedling,314.7681561137401,Enskede gard
+2016-02-04,Skärmarbrinksvägen 14,Enskede Gård,Grön Hagsätra,3,57,3,Lägenhet,null,[Blåsut],2995000,205000,3200000,3097,Fastighetsbyrån,188.43609527406875,Blasut
+2016-02-04,Grafikvägen 3,Enskede Gård,Grön Hagsätra,2,53,1,Lägenhet,1946,[Johanneshov],2575000,475000,3050000,2659,Mäklarhuset,198.68780037094544,Gullmarsplan
+2016-02-03,Konstgjutarvägen 14,Enskede Gård,Grön Hagsätra,1,35,3,Lägenhet,1944,[Globen],2600000,-75000,2525000,2286,Länsförsäkringar Fastighetsförmedling,98.74772940187272,Globen
+2016-01-28,Pastellvägen 17,Enskede Gård,Grön Hagsätra,2,40,4,Lägenhet,1943,[Blåsut],2295000,655000,2950000,1768,Länsförsäkringar Fastighetsförmedling,199.88871165772406,Blasut
+2016-01-27,Bildhuggarvägen 4,Enskede Gård,Grön Hagsätra,1,24,1,Lägenhet,null,[Globen],1895000,605000,2500000,1579,Fastighetsbyrån,149.2639401480458,Globen
+2016-01-23,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,2,48,6,Lägenhet,1944,[Globen],2590000,0,2590000,3073,Fastighetsbyrån,286.9465816685034,Globen
+2016-01-21,Skärmarbrinksvägen 27,Enskede Gård,Grön Hagsätra,2,45,3,Lägenhet,null,[Blåsut],2395000,605000,3000000,2444,Svenska Mäklarhuset,126.058525183843,Blasut
+2016-01-20,Konstgjutarvägen 32,Enskede Gård,Grön Hagsätra,1,39.2,2,Lägenhet,1944,[Globen],2395000,515000,2910000,1973,Fastighetsbyrån,152.27310230522312,Globen
+2016-01-20,Odelbergsvägen 29,Enskede Gård,Grön Hagsätra,1.5,51,2,Lägenhet,1931,[Enskede Gård],3295000,0,3295000,1914,HusmanHagberg,82.31640589904967,Enskede gard
+2016-01-18,Bildhuggarvägen 19,Enskede Gård,Grön Hagsätra,2,49,1,Lägenhet,1945,[Globen],3050000,0,3050000,2468,Länsförsäkringar Fastighetsförmedling,124.31619611099406,Globen
+2016-01-16,Grafikvägen 16,Enskede Gård,Grön Hagsätra,2,51,1,Lägenhet,1946,[Johanneshov],2675000,140000,2815000,2518,Svensk Fastighetsförmedling,262.152273698882,Gullmarsplan
+2016-01-15,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,2,41,1,Lägenhet,1945,[Gullmarsplan],2495000,430000,2925000,2609,HusmanHagberg,262.88928542742923,Gullmarsplan
+2016-01-14,Dammtrappgatan 53,Enskede Gård,Grön Hagsätra,7,120,null,Gård,null,[Enskede Gård],8475000,1325000,9800000,null,Södermäklarna,323.02754226526116,Enskede gard
+2016-01-14,Konstgjutarvägen 22,Enskede Gård,Grön Hagsätra,2,50,3,Lägenhet,1944,[Johanneshov],2650000,560000,3210000,2482,HusmanHagberg,51.91606241688317,Globen
+2016-01-14,Pastellvägen 16,Enskede Gård,Grön Hagsätra,1.5,36,1,Lägenhet,1943,[Skarpnäcks stadsdelsområde],1995000,520000,2515000,2287,Södermäklarna,302.88877617189826,Blasut
+2016-01-14,Konstgjutarvägen 40,Enskede Gård,Grön Hagsätra,3,61.5,2,Lägenhet,1944,[Globen],3300000,410000,3710000,3517,Fastighetsbyrån,206.83334674058133,Globen
+2016-01-12,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,1,23,5,Lägenhet,1944,[Globen],1895000,355000,2250000,1660,BOSTHLM,286.9465816685034,Globen
+2015-12-21,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,1,24,2,Lägenhet,1944,[Johanneshov],1750000,730000,2480000,1582,Notar,278.6546520646587,Globen
+2015-12-17,Skärmarbrinksvägen 29,Enskede Gård,Grön Hagsätra,3,57,3,Lägenhet,null,[Blåsut],2995000,655000,3650000,3097,Fastighetsbyrån,136.46431840499886,Blasut
+2015-12-17,Konstgjutarvägen 6,Enskede Gård,Grön Hagsätra,3,47,2,Lägenhet,1944,[Enskede-Årsta-Vantör],2645000,915000,3560000,1508,SkandiaMäklarna,164.58528192763538,Globen
+2015-12-16,Odelbergsvägen 36,Enskede Gård,Grön Hagsätra,4,94,1,Lägenhet,null,[Enskede Gård],4975000,375000,5350000,6347,Svenska Mäklarhuset,50.4361768651455,Enskede gard
+2015-12-10,Lindevägen 54,Enskede Gård,Grön Hagsätra,3,75.5,3,Lägenhet,1989,[Enskede Gård],3195000,215000,3410000,4807,HusmanHagberg,374.69652889966915,Enskede gard
+2015-12-04,Bildhuggarvägen 27,Enskede Gård,Grön Hagsätra,2,45,3,Lägenhet,1945,[Johanneshov],2495000,365000,2860000,3094,Svensk Fastighetsförmedling,194.65321540798206,Globen
+2015-12-04,Grafikvägen 30,Enskede Gård,Grön Hagsätra,2,48,4,Lägenhet,null,[Gullmarsplan],2650000,365000,3015000,2931,Svenska Mäklarhuset,334.7840883408478,Globen
+2015-12-04,Skärmarbrinksvägen 38,Enskede Gård,Grön Hagsätra,1,37,3,Lägenhet,null,[Blåsut],1995000,455000,2450000,1889,Fastighetsbyrån,154.72790568128337,Blasut
+2015-12-03,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1,36,7,Lägenhet,1945,[Gullmarsplan],2660000,0,2660000,2291,Länsförsäkringar Fastighetsförmedling,262.88928542742923,Gullmarsplan
+2015-11-30,Bildhuggarvägen 4,Enskede Gård,Grön Hagsätra,2,48,3,Lägenhet,1944,[Johanneshov],2395000,665000,3060000,2754,Notar,149.2639401480458,Globen
+2015-11-26,Herrgårdsvägen 26,Enskede Gård,Grön Hagsätra,5,168,null,Gård,1926,[Enskede Gård],9500000,100000,9600000,null,Svensk Fastighetsförmedling,407.6576543363194,Enskede gard
+2015-11-26,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,40,4,Lägenhet,null,[Johanneshov],2675000,0,2675000,2349,BOSTHLM,320.0362343597097,Blasut
+2015-11-20,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,72,7,Lägenhet,1943,[Blåsut],4150000,0,4150000,3950,Bjurfors,275.96275189047043,Blasut
+2015-11-20,Sofielundsplan 44,Enskede Gård,Grön Hagsätra,2.5,57,1,Lägenhet,1944,[Blåsut],2295000,525000,2820000,2459,Fastighetsbyrån,183.21984924799136,Blasut
+2015-11-19,Bildhuggarvägen 35,Enskede Gård,Grön Hagsätra,2.5,52,3,Lägenhet,1944,[Johanneshov],2695000,155000,2850000,2507,Länsförsäkringar Fastighetsförmedling,267.2950431943049,Globen
+2015-11-18,Pastellvägen 16,Enskede Gård,Grön Hagsätra,1.5,38,0,Lägenhet,1943,[Skarpnäcks stadsdelsområde],1995000,505000,2500000,2415,Södermäklarna,302.88877617189826,Blasut
+2015-11-15,Grafikvägen 15,Enskede Gård,Grön Hagsätra,1,29,null,Lägenhet,1946,[Johanneshov],1795000,505000,2300000,1393,Mäklarhuset,266.9296375383185,Gullmarsplan
+2015-11-13,Konstgjutarvägen 40,Enskede Gård,Grön Hagsätra,1,24.5,3,Lägenhet,1944,[Enskede-Årsta-Vantör],1975000,305000,2280000,1680,SkandiaMäklarna,206.83334674058133,Globen
+2015-11-12,Etsarvägen 2,Enskede Gård,Grön Hagsätra,1,20,6,Lägenhet,null,[Globen],1595000,565000,2160000,1137,Länsförsäkringar Fastighetsförmedling,352.17775364343896,Gullmarsplan
+2015-11-12,Bildhuggarvägen 31,Enskede Gård,Grön Hagsätra,2,34,2,Lägenhet,1945,[Johanneshov],1995000,705000,2700000,2061,Svensk Fastighetsförmedling,229.22485957413357,Globen
+2015-11-12,Grafikvägen 22,Enskede Gård,Grön Hagsätra,2,44,2,Lägenhet,1946,[Gullmarsplan],2250000,780000,3030000,2172,Södermäklarna,303.7642591471342,Gullmarsplan
+2015-11-06,Odelbergsvägen 32,Enskede Gård,Grön Hagsätra,2,56,2,Lägenhet,1932,[Enskede Gård],3295000,315000,3610000,3388,Länsförsäkringar Fastighetsförmedling,96.1071296096343,Enskede gard
+2015-11-05,Pastellvägen 17,Enskede Gård,Grön Hagsätra,2,59,2,Lägenhet,1943,[Blåsut],2695000,640000,3335000,2420,Länsförsäkringar Fastighetsförmedling,199.88871165772406,Blasut
+2015-11-04,Skulptörvägen 9,Enskede Gård,Grön Hagsätra,3,61,3,Lägenhet,1944,[Globen],2895000,870000,3765000,3516,Erik Olsson Fastighetsförmedling,232.47179637497297,Globen
+2015-11-04,Grafikvägen 17,Enskede Gård,Grön Hagsätra,2,47,1,Lägenhet,1946,[Johanneshov],2595000,805000,3400000,2033,Svensk Fastighetsförmedling,279.40736012764165,Gullmarsplan
+2015-11-03,Konstgjutarvägen 28,Enskede Gård,Grön Hagsätra,1,22,3,Lägenhet,1944,[Johanneshov],1675000,405000,2080000,1203,Länsförsäkringar Fastighetsförmedling,107.27877485252071,Globen
+2015-11-03,Etsarvägen 2,Enskede Gård,Grön Hagsätra,3,74.5,4,Lägenhet,1946,[Globen],3495000,855000,4350000,3593,Länsförsäkringar Fastighetsförmedling,352.17775364343896,Gullmarsplan
+2015-11-03,Etsarvägen 1,Enskede Gård,Grön Hagsätra,2,44,6,Lägenhet,1946,[Gullmarsplan],2350000,825000,3175000,1745,Notar,321.07203192717634,Gullmarsplan
+2015-10-31,Odelbergsvägen 27,Enskede Gård,Grön Hagsätra,1,49,2,Lägenhet,null,[Enskede Gård],2295000,715000,3010000,1838,Fastighetsbyrån,104.79917273772706,Enskede gard
+2015-10-30,Konstgjutarvägen 26,Enskede Gård,Grön Hagsätra,1,35,3,Lägenhet,1944,[Johanneshov],1995000,560000,2555000,2343,Svensk Fastighetsförmedling,85.21580867254481,Globen
+2015-10-28,Pastellvägen 8,Enskede Gård,Grön Hagsätra,2,51,2,Lägenhet,1942,[Johanneshov],2295000,255000,2550000,3419,Svensk Fastighetsförmedling,357.5922578067579,Skarmarbrink
+2015-10-27,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,40,6,Lägenhet,1943,[Johanneshov],2195000,815000,3010000,2349,Edward & Partners Fastighetsmäklare AB,320.0362343597097,Blasut
+2015-10-26,Konstgjutarvägen 16,Enskede Gård,Grön Hagsätra,2,55,0,Lägenhet,1945,[Globen],2850000,150000,3000000,2806,Södermäklarna,68.03187698261203,Globen
+2015-10-23,Sofielundsplan 53,Enskede Gård,Grön Hagsätra,3,57,1,Lägenhet,1944,[Johanneshov],2850000,700000,3550000,2350,Svensk Fastighetsförmedling,110.168957899001,Blasut
+2015-10-20,Planterarvägen 57,Enskede Gård,Grön Hagsätra,5,137,3,Lägenhet,1989,[Enskede Gård],4650000,2000000,6650000,6381,Svensk Fastighetsförmedling,444.6239293353059,Enskede gard
+2015-10-19,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,50,1,Lägenhet,null,[Blåsut-Globen],2495000,605000,3100000,2867,Länsförsäkringar Fastighetsförmedling,320.0362343597097,Blasut
+2015-10-19,Palmfeltsvägen 47,Enskede Gård,Grön Hagsätra,1,34.5,2,Lägenhet,1932,[Enskede Gård],1895000,615000,2510000,2135,Länsförsäkringar Fastighetsförmedling,70.39346917589945,Enskede gard
+2015-10-16,Grafikvägen 25,Enskede Gård,Grön Hagsätra,3,68,3,Lägenhet,1945,[Globen],3295000,585000,3880000,3041,Bjurfors,306.8780117853314,Globen
+2015-10-15,Artistvägen 4,Enskede Gård,Grön Hagsätra,3,57,1,Lägenhet,null,[Blåsut],2750000,820000,3570000,3035,Fastighetsbyrån,162.13953839009318,Blasut
+2015-10-15,Konstgjutarvägen 46,Enskede Gård,Grön Hagsätra,2,56,3,Lägenhet,1945,[Johanneshov],2495000,405000,2900000,2865,Mäklarhuset,277.7265430047465,Globen
+2015-10-13,Pastellvägen 17,Enskede Gård,Grön Hagsätra,3,59,3,Lägenhet,1943,[Johanneshov],2650000,820000,3470000,2420,Svensk Fastighetsförmedling,199.88871165772406,Blasut
+2015-10-08,Konstgjutarvägen 14,Enskede Gård,Grön Hagsätra,2,42,1,Lägenhet,null,[Globen],2295000,415000,2710000,2725,Fastighetsbyrån,98.74772940187272,Globen
+2015-10-08,Pastellvägen 13,Enskede Gård,Grön Hagsätra,1,25,5,Lägenhet,1943,[Skarpnäcks stadsdelsområde],1595000,845000,2440000,1823,Södermäklarna,275.96275189047043,Blasut
+2015-10-08,Grafikvägen 17,Enskede Gård,Grön Hagsätra,2,46,0,Lägenhet,1946,[Johanneshov],2195000,725000,2920000,1990,Svensk Fastighetsförmedling,279.40736012764165,Gullmarsplan
+2015-10-06,Pastellvägen 14,Enskede Gård,Grön Hagsätra,2,56,2,Lägenhet,1943,[Johanneshov],2495000,35000,2530000,3098,Erik Olsson Fastighetsförmedling,330.1727783847137,Blasut
+2015-10-06,Konstgjutarvägen 20,Enskede Gård,Grön Hagsätra,2,54,1,Lägenhet,1944,[Globen],2695000,475000,3170000,2681,Erik Olsson Fastighetsförmedling,42.55386135015981,Globen
+2015-10-06,Delägargatan 39,Enskede Gård,Grön Hagsätra,6,98,null,Parhus,1926,[Enskede Gård],6950000,1270000,8220000,null,HusmanHagberg,418.75208440486847,Enskede gard
+2015-10-03,Blåsutvägen 25,Enskede Gård,Grön Hagsätra,2,44,3,Lägenhet,1944,[Johanneshov],2295000,485000,2780000,2529,Mäklarhuset,209.68771737772218,Blasut
+2015-10-02,Gullmarsvägen 2,Enskede Gård,Grön Hagsätra,5,106,5,Lägenhet,1946,[Gullmarsplan],5395000,0,5395000,4952,Mäklarringen,130.12288100098957,Gullmarsplan
+2015-10-01,Lindevägen 56,Enskede Gård,Grön Hagsätra,2,62,4,Lägenhet,null,[Enskede Gård],2475000,325000,2800000,4073,Mäklarringen,340.5949811949304,Enskede gard
+2015-10-01,Etsarvägen 1,Enskede Gård,Grön Hagsätra,3,64,1,Lägenhet,1946,[Globen],3295000,425000,3720000,2309,Fastighetsbyrån,321.07203192717634,Gullmarsplan
+2015-09-25,Blåsutvägen 27,Enskede Gård,Grön Hagsätra,2,64,3,Lägenhet,1945,[Blåsut],2895000,515000,3410000,3664,HusmanHagberg,195.91797927502742,Blasut
+2015-09-24,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,58,null,Lägenhet,1946,[Gullmarsplan],2595000,555000,3150000,3908,Notar,306.27094391479216,Gullmarsplan
+2015-09-19,Runövägen 14,Enskede Gård,Grön Hagsätra,5,103,null,Villa,1931,[Enskede],7495000,1705000,9200000,null,Mäklarhuset,259.88747821870805,Sockenplan
+2015-09-15,Godsägarvägen 24,Enskede Gård,Grön Hagsätra,6,162,null,Gård,1947,[Enskede Gård],9500000,1800000,11300000,null,Berggren & Co Fastighetsmäkleri,137.54567177207434,Enskede gard
+2015-09-15,Sofielundsplan 57,Enskede Gård,Grön Hagsätra,1,22,3,Lägenhet,1944,[Blåsut],2350000,100000,2450000,1146,Bjurfors,128.98829202387913,Blasut
+2015-09-10,Skärmarbrinksvägen 14,Enskede Gård,Grön Hagsätra,2,54,-1,Lägenhet,1944,[Blåsut],2595000,355000,2950000,2934,Fastighetsbyrån,188.43609527406875,Blasut
+2015-09-10,Konstgjutarvägen 8,Enskede Gård,Grön Hagsätra,2,45.2,3,Lägenhet,1944,[Globen],2395000,540000,2935000,2575,Fastighetsbyrån,126.61423418447978,Globen
+2015-09-10,Grafikvägen 32,Enskede Gård,Grön Hagsätra,3,90,1,Lägenhet,1946,[Gullmarsplan],3895000,455000,4350000,4349,HusmanHagberg,318.11396791020354,Globen
+2015-09-10,Grafikvägen 30,Enskede Gård,Grön Hagsätra,4,94,1,Lägenhet,1946,[Gullmarsplan],3995000,630000,4625000,4543,HusmanHagberg,334.7840883408478,Globen
+2015-09-10,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,3,50,2,Lägenhet,1945,[Gullmarsplan],2700000,580000,3280000,3182,Bjurfors,262.88928542742923,Gullmarsplan
+2015-09-09,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,2,41,5,Lägenhet,1945,[Gullmarsplan],2150000,700000,2850000,2609,HusmanHagberg,262.88928542742923,Gullmarsplan
+2015-09-09,Bildhuggarvägen 4,Enskede Gård,Grön Hagsätra,1,21,1,Lägenhet,1944,[Globen],1495000,715000,2210000,1409,Länsförsäkringar Fastighetsförmedling,149.2639401480458,Globen
+2015-09-09,Pastellvägen 13,Enskede Gård,Grön Hagsätra,2,55,2,Lägenhet,1943,[Globen],2295000,625000,2920000,3495,Bjurfors,275.96275189047043,Blasut
+2015-09-08,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,53,2,Lägenhet,1946,[Gullmarsplan],2750000,450000,3200000,3571,Fastighetsbyrån,306.27094391479216,Gullmarsplan
+2015-09-03,Skulptörvägen 1,Enskede Gård,Grön Hagsätra,2,45,2,Lägenhet,1944,[Gullmarsplan],2395000,565000,2960000,2583,Fastighetsbyrån,194.66725758476872,Globen
+2015-09-03,Odelbergsvägen 22,Enskede Gård,Grön Hagsätra,2,41.5,3,Lägenhet,1939,[Enskede Gård],2150000,730000,2880000,2680,HusmanHagberg,184.79294665197293,Enskede gard
+2015-09-03,Bildhuggarvägen 8,Enskede Gård,Grön Hagsätra,2,51,3,Lägenhet,1944,[Johanneshov],2495000,875000,3370000,2668,HusmanHagberg,136.81096226467113,Globen
+2015-09-02,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,72,4,Lägenhet,1943,[Hammarbyhöjden],3500000,150000,3650000,3950,Fastighetsbyrån,275.96275189047043,Blasut
+2015-08-27,Grafikvägen 23,Enskede Gård,Grön Hagsätra,3,68,2,Lägenhet,1945,[Globen],3395000,205000,3600000,3041,Bjurfors,306.59191060040973,Globen
+2015-08-26,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,1,23,6,Lägenhet,1944,[Globen],1825000,515000,2340000,1694,Fastighetsbyrån,286.9465816685034,Globen
+2015-08-19,Grafikvägen 1,Enskede Gård,Grön Hagsätra,1,25,2,Lägenhet,1946,[Enskede-Årsta-Vantör],1795000,605000,2400000,1305,SkandiaMäklarna,202.01481727590303,Gullmarsplan
+2015-08-19,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,48,1,Lägenhet,1944,[Globen],2600000,300000,2900000,3164,Fastighetsbyrån,278.6546520646587,Globen
+2015-08-17,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,72,5,Lägenhet,1943,[Johanneshov],3195000,455000,3650000,3950,Länsförsäkringar Fastighetsförmedling,275.96275189047043,Blasut
+2015-08-17,Bildhuggarvägen 35,Enskede Gård,Grön Hagsätra,2,52,null,Lägenhet,1944,[Johanneshov],2695000,625000,3320000,2507,Länsförsäkringar Fastighetsförmedling,267.2950431943049,Globen
+2015-08-14,Pastellvägen 17,Enskede Gård,Grön Hagsätra,2,59,1,Lägenhet,1943,[Johanneshov],2645000,580000,3225000,2008,Erik Olsson Fastighetsförmedling,199.88871165772406,Blasut
+2015-08-11,Konstgjutarvägen 12,Enskede Gård,Grön Hagsätra,1,35,3,Lägenhet,1944,[Globen],2150000,400000,2550000,2286,HusmanHagberg,95.9645386102966,Globen
+2015-08-11,Pastellvägen 13,Enskede Gård,Grön Hagsätra,1,25,2,Lägenhet,1943,[Skarpnäcks stadsdelsområde],1595000,605000,2200000,1823,SkandiaMäklarna,275.96275189047043,Blasut
+2015-08-11,Konstgjutarvägen 10,Enskede Gård,Grön Hagsätra,2,45,3,Lägenhet,1944,[Johanneshov],2295000,545000,2840000,2575,Notar,131.97103901361916,Globen
+2015-08-11,Pastellvägen 14,Enskede Gård,Grön Hagsätra,2,50,3,Lägenhet,1943,[Blåsut],2850000,250000,3100000,2918,Notar,330.1727783847137,Blasut
+2015-08-06,Pastellvägen 11,Enskede Gård,Grön Hagsätra,1.5,33,4,Lägenhet,1943,[Blåsut],1995000,555000,2550000,1961,HusmanHagberg,320.0362343597097,Blasut
+2015-07-23,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,1,32,null,Lägenhet,1946,[Enskede-Årsta-Vantör],1990000,460000,2450000,2156,SkandiaMäklarna,306.27094391479216,Gullmarsplan
+2015-07-16,Skulptörvägen 6,Enskede Gård,Grön Hagsätra,2,52,3,Lägenhet,1945,[Johanneshov],2950000,0,2950000,2849,Svensk Fastighetsförmedling,219.91162839844307,Globen
+2015-07-15,Skulptörvägen 4,Enskede Gård,Grön Hagsätra,2.5,52,1,Lägenhet,1945,[Globen],2395000,160000,2555000,2849,BOSTHLM,225.83694897854357,Globen
+2015-07-10,Bildhuggarvägen 8,Enskede Gård,Grön Hagsätra,2,51,1,Lägenhet,1944,[Johanneshov],2595000,255000,2850000,2612,Notar,136.81096226467113,Globen
+2015-07-07,Odelbergsvägen 30,Enskede Gård,Grön Hagsätra,2,56,2,Lägenhet,1932,[Enskede Gård],2995000,505000,3500000,3388,Länsförsäkringar Fastighetsförmedling,109.01240257555607,Enskede gard
+2015-07-07,Strahlenbergsgatan 19,Enskede Gård,Grön Hagsätra,2,47,3,Lägenhet,1938,[Hammarbyhöjden],2495000,405000,2900000,3235,Länsförsäkringar Fastighetsförmedling,313.3356666959623,Globen
+2015-06-29,Skulptörvägen 18,Enskede Gård,Grön Hagsätra,3,83.5,4,Lägenhet,1997,[Enskede-Årsta-Vantör],4300000,50000,4350000,5100,SkandiaMäklarna,287.1242926999942,Globen
+2015-06-26,Pastellvägen 12,Enskede Gård,Grön Hagsätra,2,47.5,null,Lägenhet,1943,[Skarpnäcks stadsdelsområde],1395000,515000,1910000,3728,MäklarMäster,344.6157444747602,Blasut
+2015-06-24,Konstgjutarvägen 8,Enskede Gård,Grön Hagsätra,2,45.5,2,Lägenhet,1944,[Globen],3100000,-200000,2900000,2575,Länsförsäkringar Fastighetsförmedling,126.61423418447978,Globen
+2015-06-24,Paternostervägen 92,Enskede Gård,Grön Hagsätra,4,87,1,Lägenhet,1952,[Hammarbyhöjden],4495000,155000,4650000,5130,Länsförsäkringar Fastighetsförmedling,313.35148137570815,Globen
+2015-06-23,Blåsutvägen 33,Enskede Gård,Grön Hagsätra,2,58,1,Lägenhet,1948,[Johanneshov],2810000,0,2810000,2415,Svensk Fastighetsförmedling,127.66496653676373,Blasut
+2015-06-14,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1,41,3,Lägenhet,null,[Gullmarsplan],1950000,870000,2820000,2609,BOSTHLM,262.88928542742923,Gullmarsplan
+2015-06-13,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,1,23,3,Lägenhet,1944,[Globen],1750000,250000,2000000,1693,Fastighetsbyrån,286.9465816685034,Globen
+2015-06-13,Konstgjutarvägen 38,Enskede Gård,Grön Hagsätra,3,61.5,3,Lägenhet,1944,[Globen],2995000,495000,3490000,3517,Fastighetsbyrån,226.9819354936263,Globen
+2015-06-12,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,55,4,Lägenhet,1943,[Johanneshov],2495000,185000,2680000,2762,Svensk Fastighetsförmedling,282.66138788370205,Skarmarbrink
+2015-06-11,Konstgjutarvägen 20,Enskede Gård,Grön Hagsätra,2.5,54,4,Lägenhet,1944,[Globen],2725000,375000,3100000,2681,Fastighetsbyrån,42.55386135015981,Globen
+2015-06-05,Palmfeltsvägen 49,Enskede Gård,Grön Hagsätra,1,26,1,Lägenhet,1932,[Enskede Gård],1495000,515000,2010000,2152,Länsförsäkringar Fastighetsförmedling,52.25588431636241,Enskede gard
+2015-06-05,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1,41,4,Lägenhet,1945,[Gullmarsplan],1950000,760000,2710000,2609,Södermäklarna,262.88928542742923,Gullmarsplan
+2015-06-05,Artistvägen 4,Enskede Gård,Grön Hagsätra,2,47,2,Lägenhet,1943,[Blåsut],2295000,355000,2650000,2503,Fastighetsbyrån,162.13953839009318,Blasut
+2015-06-04,Kålgårdsvägen 7,Enskede Gård,Grön Hagsätra,null,null,null,Tomt/Mark,null,[Enskede gård],null,NaN,6000000,null,SkandiaMäklarna,548.9081925838218,Enskede gard
+2015-06-03,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,1,24,0,Lägenhet,1946,[Gullmarsplan],1650000,370000,2020000,1617,Fastighetsbyrån,306.27094391479216,Gullmarsplan
+2015-06-02,Konstgjutarvägen 28,Enskede Gård,Grön Hagsätra,3,70,0,Lägenhet,1944,[Globen],2675000,-100000,2575000,3882,Fastighetsbyrån,107.27877485252071,Globen
+2015-06-02,Sofielundsplan 55,Enskede Gård,Grön Hagsätra,1,22,0.5,Lägenhet,1944,[Blåsut],1495000,405000,1900000,1146,Notar,114.0593502263257,Blasut
+2015-06-01,Grafikvägen 32,Enskede Gård,Grön Hagsätra,1,27,2,Lägenhet,1946,[Gullmarsplan],1795000,355000,2150000,1962,Södermäklarna,318.11396791020354,Globen
+2015-06-01,Bildhuggarvägen 37,Enskede Gård,Grön Hagsätra,2,40,2,Lägenhet,null,[Globen],2195000,175000,2370000,2869,Svenska Mäklarhuset,311.5441430200309,Globen
+2015-05-30,Konstgjutarvägen 38,Enskede Gård,Grön Hagsätra,3,62,1,Lägenhet,1944,[Johanneshov],2995000,335000,3330000,3517,Bjurfors,226.9819354936263,Globen
+2015-05-29,Pastellvägen 16,Enskede Gård,Grön Hagsätra,1,38,3,Lägenhet,1943,[Globen],1995000,405000,2400000,2415,Fastighetsbyrån,302.88877617189826,Blasut
+2015-05-27,Konstgjutarvägen 38,Enskede Gård,Grön Hagsätra,1,24.5,0,Lägenhet,1944,[Globen],1595000,595000,2190000,1574,Fastighetsbyrån,226.9819354936263,Globen
+2015-05-27,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,53,4,Lägenhet,1946,[Gullmarsplan],2495000,375000,2870000,3571,Fastighetsbyrån,306.27094391479216,Gullmarsplan
+2015-05-27,Grafikvägen 3,Enskede Gård,Grön Hagsätra,2,53,3,Lägenhet,1946,[Gullmarsplan],2250000,400000,2650000,2659,Erik Olsson Fastighetsförmedling,198.68780037094544,Gullmarsplan
+2015-05-27,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,53,0.5,Lägenhet,1946,[Johanneshov],2550000,200000,2750000,3571,Mäklarhuset,306.27094391479216,Gullmarsplan
+2015-05-26,Etsarvägen 1,Enskede Gård,Grön Hagsätra,1,28,2,Lägenhet,1946,[Gullmarsplan],1950000,475000,2425000,1283,Erik Olsson Fastighetsförmedling,321.07203192717634,Gullmarsplan
+2015-05-21,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,50,2,Lägenhet,null,[Blåsut],2695000,305000,3000000,2846,Svenska Mäklarhuset,320.0362343597097,Blasut
+2015-05-21,Bildhuggarvägen 19,Enskede Gård,Grön Hagsätra,1,36,-0.5,Lägenhet,1945,[Globen],1850000,485000,2335000,1755,Notar,124.31619611099406,Globen
+2015-05-20,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,1,24,null,Lägenhet,1946,[Johanneshov],1695000,405000,2100000,1617,Svensk Fastighetsförmedling,306.27094391479216,Gullmarsplan
+2015-05-20,Grafikvägen 17,Enskede Gård,Grön Hagsätra,1,29,null,Lägenhet,1946,[Gullmarsplan],1695000,555000,2250000,1254,Notar,279.40736012764165,Gullmarsplan
+2015-05-18,Bildhuggarvägen 33,Enskede Gård,Grön Hagsätra,1,34,2,Lägenhet,1944,[Globen],1950000,460000,2410000,2061,Södermäklarna,248.7124973347441,Globen
+2015-05-16,Gullmarsvägen 2,Enskede Gård,Grön Hagsätra,3,75,7,Lägenhet,1946,[Gullmarsplan],3975000,725000,4700000,3337,Fastighetsbyrån,130.12288100098957,Gullmarsplan
+2015-05-16,Bildhuggarvägen 17,Enskede Gård,Grön Hagsätra,2,39,1,Lägenhet,1944,[Johanneshov],2195000,405000,2600000,2723,SkandiaMäklarna,105.51280091073778,Globen
+2015-05-15,Dammtrappgatan 26,Enskede Gård,Grön Hagsätra,6,130,null,Gård,1926,[Enskede Gård],7000000,1500000,8500000,null,Svensk Fastighetsförmedling,323.29122582324726,Enskede gard
+2015-05-14,Skulptörvägen 9,Enskede Gård,Grön Hagsätra,2.5,61,4,Lägenhet,null,[Globen],2750000,610000,3360000,3516,Fastighetsbyrån,232.47179637497297,Globen
+2015-05-13,Bildhuggarvägen 37,Enskede Gård,Grön Hagsätra,2,39,4,Lägenhet,1944,[Globen],2095000,605000,2700000,2869,Erik Olsson Fastighetsförmedling,311.5441430200309,Globen
+2015-05-13,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,2,48,2,Lägenhet,1944,[Gullmarsplan],2495000,430000,2925000,3136,Edward & Partners Fastighetsmäklare AB,286.9465816685034,Globen
+2015-05-09,Enskedevägen 98C,Enskede Gård,Grön Hagsätra,3,71,1,Lägenhet,null,[Gamla Enskede],3295000,175000,3470000,2840,Fastighetsbyrån,134.08076016209247,Sockenplan
+2015-05-08,Konstgjutarvägen 8,Enskede Gård,Grön Hagsätra,2,49.2,1,Lägenhet,1944,[Globen],2295000,465000,2760000,2575,Fastighetsbyrån,126.61423418447978,Globen
+2015-05-01,Grafikvägen 30,Enskede Gård,Grön Hagsätra,2,55,3,Lägenhet,1946,[Gullmarsplan],2450000,475000,2925000,3210,HusmanHagberg,334.7840883408478,Globen
+2015-04-29,Bildhuggarvägen 19,Enskede Gård,Grön Hagsätra,2,56,1,Lägenhet,1945,[Globen],2495000,355000,2850000,2608,Erik Olsson Fastighetsförmedling,124.31619611099406,Globen
+2015-04-24,Konstgjutarvägen 10,Enskede Gård,Grön Hagsätra,2,52.2,2,Lägenhet,1944,[Globen],2550000,220000,2770000,2942,Fastighetsbyrån,131.97103901361916,Globen
+2015-04-23,Planterarvägen 17,Enskede Gård,Grön Hagsätra,2,62.5,3,Lägenhet,1989,[Enskede Gård],2695000,5000,2700000,4279,Fastighetsbyrån,402.4699316950476,Enskede gard
+2015-04-23,Bildhuggarvägen 35,Enskede Gård,Grön Hagsätra,2,34,2,Lägenhet,null,[Johanneshov],1975000,475000,2450000,1811,BOSTHLM,267.2950431943049,Globen
+2015-04-22,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,1,25,4,Lägenhet,1943,[Globen],1750000,490000,2240000,1266,Bjurfors,282.66138788370205,Skarmarbrink
+2015-04-17,Yrkesvägen 7,Enskede Gård,Grön Hagsätra,2,86,1,Lägenhet,1925,[Enskede],3750000,770000,4520000,null,Svensk Fastighetsförmedling,163.8002244790606,Sandsborg
+2015-04-16,Grafikvägen 23,Enskede Gård,Grön Hagsätra,3,68,3,Lägenhet,1945,[Gullmarsplan],3395000,460000,3855000,3041,Fastighetsbyrån,306.59191060040973,Globen
+2015-04-16,Blåsutvägen 31,Enskede Gård,Grön Hagsätra,2,58,null,Lägenhet,1948,[Globen],2695000,345000,3040000,2373,Fastighetsmäklarna,152.03031863551078,Blasut
+2015-04-16,Konstgjutarvägen 38,Enskede Gård,Grön Hagsätra,2,46.7,2,Lägenhet,null,[Globen],2195000,630000,2825000,2729,Fastighetsbyrån,226.9819354936263,Globen
+2015-04-10,Lindevägen 40,Enskede Gård,Grön Hagsätra,4,74.5,1,Lägenhet,null,[Enskede Gård],3250000,360000,3610000,4906,Mäklarringen,436.9408671076099,Enskede gard
+2015-04-02,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,3,73,6,Lägenhet,1946,[Johanneshov],3750000,50000,3800000,4646,Mäklarhuset,262.88928542742923,Gullmarsplan
+2015-04-02,Gullmarsvägen 9,Enskede Gård,Grön Hagsätra,1.5,28,5,Lägenhet,1946,[Johanneshov],2520000,0,2520000,1219,Svensk Fastighetsförmedling,192.86509921629536,Gullmarsplan
+2015-04-02,Sofielundsplan 55,Enskede Gård,Grön Hagsätra,3,60,1,Lägenhet,1944,[Johanneshov],2975000,360000,3335000,3074,HusmanHagberg,114.0593502263257,Blasut
+2015-04-01,Palmfeltsvägen 49,Enskede Gård,Grön Hagsätra,2,63,1,Lägenhet,1932,[Enskede gård],2795000,0,2795000,3417,SkandiaMäklarna,52.25588431636241,Enskede gard
+2015-04-01,Blåsutvägen 27,Enskede Gård,Grön Hagsätra,3,73,null,Lägenhet,1945,[Johanneshov],2850000,400000,3250000,4113,Svenska Mäklarhuset,195.91797927502742,Blasut
+2015-03-26,Gullmarsvägen 2,Enskede Gård,Grön Hagsätra,4,92,2,Lägenhet,1946,[Gullmarsplan],4375000,300000,4675000,4093,Fastighetsbyrån,130.12288100098957,Gullmarsplan
+2015-03-25,Sofielundsplan 51,Enskede Gård,Grön Hagsätra,3,57,2,Lägenhet,1944,[Johanneshov],2495000,1015000,3510000,2350,Svensk Fastighetsförmedling,120.4810596872794,Blasut
+2015-03-25,Pastellvägen 11,Enskede Gård,Grön Hagsätra,1,33,5,Lägenhet,1943,[Globen],1995000,525000,2520000,1961,Fastighetsbyrån,320.0362343597097,Blasut
+2015-03-25,Pastellvägen 14,Enskede Gård,Grön Hagsätra,2,50,3,Lägenhet,1943,[Johanneshov],2295000,305000,2600000,2924,Svensk Fastighetsförmedling,330.1727783847137,Blasut
+2015-03-19,Pastellvägen 18,Enskede Gård,Grön Hagsätra,1.5,36,2,Lägenhet,1943,[Globen],1850000,470000,2320000,2287,Södermäklarna,288.4638487735916,Blasut
+2015-03-19,Pastellvägen 13,Enskede Gård,Grön Hagsätra,2,55,2,Lägenhet,null,[Globen],2495000,325000,2820000,3495,Fastighetsbyrån,275.96275189047043,Blasut
+2015-03-18,Konstgjutarvägen 40,Enskede Gård,Grön Hagsätra,1,24.5,1,Lägenhet,1944,[Globen],1695000,465000,2160000,1680,Fastighetsbyrån,206.83334674058133,Globen
+2015-03-18,Sofielundsplan 53,Enskede Gård,Grön Hagsätra,3,57,2,Lägenhet,1944,[Johanneshov],2495000,755000,3250000,2350,Mäklarhuset,110.168957899001,Blasut
+2015-03-18,Odelbergsvägen 22B,Enskede Gård,Grön Hagsätra,null,null,1,Lägenhet,1938,[Enskede Gård],3995000,-270000,3725000,4298,Södermäklarna,195.0967294736237,Enskede gard
+2015-03-18,Pastellvägen 13,Enskede Gård,Grön Hagsätra,1,42,null,Lägenhet,1943,[Globen],1875000,465000,2340000,2583,Fastighetsbyrån,275.96275189047043,Blasut
+2015-03-18,Bildhuggarvägen 39,Enskede Gård,Grön Hagsätra,1,34,2,Lägenhet,1944,[Globen],1850000,540000,2390000,2563,Notar,328.8160902032403,Globen
+2015-03-18,Blåsutvägen 29,Enskede Gård,Grön Hagsätra,2,44,2,Lägenhet,1944,[Johanneshov],2095000,305000,2400000,2607,Svenska Mäklarhuset,175.95249694643377,Blasut
+2015-03-17,Konstgjutarvägen 14,Enskede Gård,Grön Hagsätra,2,42,2,Lägenhet,1942,[Globen],2175000,525000,2700000,2680,Erik Olsson Fastighetsförmedling,98.74772940187272,Globen
+2015-03-16,Skulptörvägen 4,Enskede Gård,Grön Hagsätra,3,74,2,Lägenhet,1945,[Johanneshov],2750000,380000,3130000,3821,Notar,225.83694897854357,Globen
+2015-03-13,Bildhuggarvägen 23,Enskede Gård,Grön Hagsätra,2,49,1,Lägenhet,1945,[Johanneshov],2395000,275000,2670000,2468,SkandiaMäklarna,156.60674997369614,Globen
+2015-03-11,Lindevägen 40,Enskede Gård,Grön Hagsätra,2,67,4,Lägenhet,1988,[Enskede Gård],2495000,905000,3400000,4565,Svensk Fastighetsförmedling,436.9408671076099,Enskede gard
+2015-03-11,Konstgjutarvägen 34,Enskede Gård,Grön Hagsätra,2,39,3,Lägenhet,1944,[Globen],1995000,605000,2600000,1973,Bjurfors,171.60838746596355,Globen
+2015-03-10,Grafikvägen 15,Enskede Gård,Grön Hagsätra,1,26,2,Lägenhet,1946,[Gullmarsplan],1750000,600000,2350000,1124,Erik Olsson Fastighetsförmedling,266.9296375383185,Gullmarsplan
+2015-03-04,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,42,2,Lägenhet,1943,[Globen],2295000,280000,2575000,2328,Fastighetsbyrån,320.0362343597097,Blasut
+2015-02-26,Bildhuggarvägen 25,Enskede Gård,Grön Hagsätra,3,62,1,Lägenhet,1945,[Globen],3100000,0,3100000,4099,Erik Olsson Fastighetsförmedling,181.37394022713636,Globen
+2015-02-25,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,58,5,Lägenhet,1946,[Gullmarsplan],2595000,305000,2900000,3908,Notar,306.27094391479216,Gullmarsplan
+2015-02-20,Palmfeltsvägen 47,Enskede Gård,Grön Hagsätra,5,111,null,Lägenhet,1932,[Enskede gård],4695000,775000,5470000,5215,SkandiaMäklarna,70.39346917589945,Enskede gard
+2015-02-15,Konstgjutarvägen 16,Enskede Gård,Grön Hagsätra,3,78,3,Lägenhet,1945,[Globen],3495000,215000,3710000,3979,Fastighetsbyrån,68.03187698261203,Globen
+2015-02-11,Pastellvägen 17,Enskede Gård,Grön Hagsätra,2,40,4,Lägenhet,1943,[Globen],1950000,675000,2625000,1484,Erik Olsson Fastighetsförmedling,199.88871165772406,Blasut
+2015-02-10,Pastellvägen 18,Enskede Gård,Grön Hagsätra,1.5,36,1,Lägenhet,1943,[Blåsut],1850000,375000,2225000,2287,Notar,288.4638487735916,Blasut
+2015-02-04,Pastellvägen 12,Enskede Gård,Grön Hagsätra,1,27,2,Lägenhet,1943,[Johanneshov],1495000,535000,2030000,1733,Svensk Fastighetsförmedling,344.6157444747602,Blasut
+2015-02-04,Bildhuggarvägen 29,Enskede Gård,Grön Hagsätra,1,37,1,Lägenhet,1945,[Globen],1925000,495000,2420000,2396,Fastighetsbyrån,210.0636326384789,Globen
+2015-01-31,Konstgjutarvägen 14,Enskede Gård,Grön Hagsätra,2,50,3,Lägenhet,1944,[Globen],2395000,265000,2660000,3117,Notar,98.74772940187272,Globen
+2015-01-30,Palmfeltsvägen 47,Enskede Gård,Grön Hagsätra,1,26,1,Lägenhet,1932,[Enskede gård],1495000,115000,1610000,1753,SkandiaMäklarna,70.39346917589945,Enskede gard
+2015-01-30,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,55,5,Lägenhet,1943,[Johanneshov],2495000,415000,2910000,2762,Svensk Fastighetsförmedling,282.66138788370205,Skarmarbrink
+2015-01-25,Blåsutvägen 25,Enskede Gård,Grön Hagsätra,2,44,1,Lägenhet,1945,[Johanneshov],1895000,305000,2200000,2607,Erik Olsson Fastighetsförmedling,209.68771737772218,Blasut
+2015-01-23,Medlemsvägen 71,Enskede Gård,Grön Hagsätra,5,65,null,Villa,1940,[Enskede Gård],6775000,0,6775000,null,HusmanHagberg,618.1353914626036,Enskede gard
+2015-01-22,Bildhuggarvägen 15,Enskede Gård,Grön Hagsätra,3,49,2,Lägenhet,1944,[Johanneshov],2350000,280000,2630000,3194,Svensk Fastighetsförmedling,100.71468349149013,Globen
+2015-01-22,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,2,48,2,Lägenhet,1944,[Globen],2495000,155000,2650000,3136,Fastighetsbyrån,286.9465816685034,Globen
+2015-01-20,Grafikvägen 20,Enskede Gård,Grön Hagsätra,2,54,1,Lägenhet,1946,[Gullmarsplan],2900000,450000,3350000,2539,Erik Olsson Fastighetsförmedling,292.8358221847424,Gullmarsplan
+2015-01-17,Pastellvägen 17,Enskede Gård,Grön Hagsätra,3,59,6,Lägenhet,1943,[Globen],2645000,605000,3250000,2095,Erik Olsson Fastighetsförmedling,199.88871165772406,Blasut
+2015-01-17,Bildhuggarvägen 25,Enskede Gård,Grön Hagsätra,3,62,2,Lägenhet,1945,[Globen],2995000,355000,3350000,4181,Erik Olsson Fastighetsförmedling,181.37394022713636,Globen
+2015-01-17,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,1,26,null,Lägenhet,1946,[Gullmarsplan],1595000,380000,1975000,1752,Fastighetsbyrån,306.27094391479216,Gullmarsplan
+2015-01-15,Pastellvägen 36,Enskede Gård,Grön Hagsätra,2,47,2,Lägenhet,1943,[Blåsut],2350000,50000,2400000,2235,HusmanHagberg,181.29727807893306,Blasut
+2015-01-14,Etsarvägen 2,Enskede Gård,Grön Hagsätra,3,76,null,Lägenhet,1946,[Gullmarsplan],2995000,1125000,4120000,3169,Fastighetsbyrån,352.17775364343896,Gullmarsplan
+2015-01-09,Konstgjutarvägen 30,Enskede Gård,Grön Hagsätra,1,24,null,Lägenhet,1944,[Globen],1495000,425000,1920000,1313,Fastighetsbyrån,125.0576429579873,Globen
+2015-01-08,Konstgjutarvägen 28,Enskede Gård,Grön Hagsätra,1,24,null,Lägenhet,1944,[Globen],1700000,120000,1820000,1313,Erik Olsson Fastighetsförmedling,107.27877485252071,Globen
+2014-12-18,Bildhuggarvägen 37,Enskede Gård,Grön Hagsätra,1,34,1,Lägenhet,1961,[Globen],1395000,555000,1950000,2562,Notar,311.5441430200309,Globen
+2014-12-18,Grafikvägen 1,Enskede Gård,Grön Hagsätra,1,42,2,Lägenhet,1946,[Gullmarsplan],1795000,405000,2200000,2146,Notar,202.01481727590303,Gullmarsplan
+2014-12-18,Konstgjutarvägen 18,Enskede Gård,Grön Hagsätra,2,55,1,Lägenhet,1945,[Globen],2495000,405000,2900000,2806,Erik Olsson Fastighetsförmedling,65.65747735996466,Globen
+2014-12-17,Sofielundsplan 40,Enskede Gård,Grön Hagsätra,2.5,57,3,Lägenhet,1944,[Blåsut],2395000,400000,2795000,2330,Erik Olsson Fastighetsförmedling,164.2828957587639,Blasut
+2014-12-16,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,3,66,3,Lägenhet,1944,[Johanneshov],2895000,465000,3360000,4206,Svensk Fastighetsförmedling,286.9465816685034,Globen
+2014-12-11,Konstgjutarvägen 6,Enskede Gård,Grön Hagsätra,1.5,35,0.5,Lägenhet,1944,[Johanneshov],1795000,615000,2410000,1021,SkandiaMäklarna,164.58528192763538,Globen
+2014-12-08,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,42,4,Lägenhet,1943,[Blåsut],1950000,450000,2400000,2072,HusmanHagberg,282.66138788370205,Skarmarbrink
+2014-12-04,Konstgjutarvägen 6,Enskede Gård,Grön Hagsätra,1,35,3,Lägenhet,1944,[Globen],1995000,205000,2200000,1221,Länsförsäkringar Fastighetsförmedling,164.58528192763538,Globen
+2014-12-04,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,3,66,3,Lägenhet,1944,[Globen],2895000,705000,3600000,4206,Fastighetsbyrån,286.9465816685034,Globen
+2014-12-03,Konstgjutarvägen 48,Enskede Gård,Grön Hagsätra,2.5,56,2,Lägenhet,1945,[Globen],2495000,155000,2650000,2865,Erik Olsson Fastighetsförmedling,258.931324241355,Globen
+2014-12-03,Pastellvägen 18,Enskede Gård,Grön Hagsätra,1,36,3,Lägenhet,1943,[Johanneshov],1795000,425000,2220000,2287,Svensk Fastighetsförmedling,288.4638487735916,Blasut
+2014-11-28,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,1,24,null,Lägenhet,1943,[Globen],1495000,355000,1850000,1151,Fastighetsbyrån,282.66138788370205,Skarmarbrink
+2014-11-27,Odelbergsvägen 22,Enskede Gård,Grön Hagsätra,2,41.5,1,Lägenhet,1939,[Enskede Gård],1900000,350000,2250000,2680,Mäklarhuset,184.79294665197293,Enskede gard
+2014-11-26,Konstgjutarvägen 40,Enskede Gård,Grön Hagsätra,2,46.7,1,Lägenhet,1944,[Globen],2325000,175000,2500000,2729,Fastighetsbyrån,206.83334674058133,Globen
+2014-11-26,Bildhuggarvägen 10,Enskede Gård,Grön Hagsätra,2.5,52,3,Lägenhet,1945,[Gullmarsplan],2595000,225000,2820000,2888,Notar,165.18022835545582,Globen
+2014-11-26,Grafikvägen 1,Enskede Gård,Grön Hagsätra,2,50,2,Lägenhet,1946,[Gullmarsplan],2495000,235000,2730000,2483,Notar,202.01481727590303,Gullmarsplan
+2014-11-22,Blåsutvägen 25,Enskede Gård,Grön Hagsätra,4,100,2.5,Lägenhet,1945,[Globen-Blåsut],3995000,175000,4170000,5364,Södermäklarna,209.68771737772218,Blasut
+2014-11-20,Pastellvägen 10,Enskede Gård,Grön Hagsätra,2,55,1,Lägenhet,1942,[Johanneshov],1995000,575000,2570000,2738,Mäklarhuset,365.1682026307666,Blasut
+2014-11-20,Medlemsvägen 51,Enskede Gård,Grön Hagsätra,7,133,null,Villa,1928,[Enskede gård],7495000,1405000,8900000,null,SkandiaMäklarna,484.29114922439686,Enskede gard
+2014-11-18,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,1,43,8,Lägenhet,1946,[Johanneshov],2450000,100000,2550000,2897,Hemverket,306.27094391479216,Gullmarsplan
+2014-11-15,Planterarvägen 75,Enskede Gård,Grön Hagsätra,5,125,null,Lägenhet,1988,[Enskede gård],4250000,350000,4600000,6769,SkandiaMäklarna,470.2081435401742,Enskede gard
+2014-11-14,Bildhuggarvägen 31,Enskede Gård,Grön Hagsätra,2.5,52,3,Lägenhet,1945,[Johanneshov],2450000,350000,2800000,2757,Svensk Fastighetsförmedling,229.22485957413357,Globen
+2014-11-13,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,3,66,7,Lägenhet,1944,[Johanneshov],3095000,415000,3510000,4206,Svensk Fastighetsförmedling,286.9465816685034,Globen
+2014-11-11,Pastellvägen 30,Enskede Gård,Grön Hagsätra,2,34,1,Lägenhet,1943,[Globen],1750000,510000,2260000,1781,Fastighetsbyrån,206.34841834559873,Blasut
+2014-11-10,Lindevägen 40,Enskede Gård,Grön Hagsätra,2,63,null,Lägenhet,null,[Enskede Gård],2495000,5000,2500000,4076,Fastighetsbyrån,436.9408671076099,Enskede gard
+2014-11-06,Grafikvägen 3,Enskede Gård,Grön Hagsätra,2,53,2,Lägenhet,1946,[Gullmarsplan],2395000,105000,2500000,2659,Notar,198.68780037094544,Gullmarsplan
+2014-11-04,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,53,2,Lägenhet,1943,[Blåsut],2295000,190000,2485000,2647,Mäklarringen,282.66138788370205,Skarmarbrink
+2014-10-31,Sofielundsplan 55,Enskede Gård,Grön Hagsätra,2.5,60,1,Lägenhet,1944,[Blåsut],2095000,455000,2550000,3074,Svenska Mäklarhuset,114.0593502263257,Blasut
+2014-10-30,Skulptörvägen 1,Enskede Gård,Grön Hagsätra,1,24,null,Lägenhet,1944,[Johanneshov],1495000,270000,1765000,1571,SkandiaMäklarna,194.66725758476872,Globen
+2014-10-30,Bildhuggarvägen 19,Enskede Gård,Grön Hagsätra,2,49,3,Lägenhet,1945,[Johanneshov],2295000,255000,2550000,2468,ERA,124.31619611099406,Globen
+2014-10-29,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,48,6,Lägenhet,1944,[Johanneshov],2350000,470000,2820000,3164,Erik Olsson Fastighetsförmedling,278.6546520646587,Globen
+2014-10-29,Pastellvägen 10,Enskede Gård,Grön Hagsätra,1,35.5,null,Lägenhet,1942,[Globen],1795000,355000,2150000,1921,Fastighetsbyrån,365.1682026307666,Blasut
+2014-10-28,Pastellvägen 34,Enskede Gård,Grön Hagsätra,2,39,1,Lägenhet,1943,[Blåsut],1850000,410000,2260000,2034,HusmanHagberg,185.19366173765832,Blasut
+2014-10-24,Lindevägen 54,Enskede Gård,Grön Hagsätra,3,75.5,2,Lägenhet,null,[Enskede gård],2595000,355000,2950000,5012,Svensk Fastighetsförmedling,374.69652889966915,Enskede gard
+2014-10-24,Pastellvägen 16,Enskede Gård,Grön Hagsätra,1,38,1,Lägenhet,1943,[Johanneshov],1850000,100000,1950000,2415,Svensk Fastighetsförmedling,302.88877617189826,Blasut
+2014-10-24,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1.5,36,6,Lägenhet,1946,[Gullmarsplan],1895000,535000,2430000,2291,Fastighetsbyrån,262.88928542742923,Gullmarsplan
+2014-10-23,Etsarvägen 10,Enskede Gård,Grön Hagsätra,3,82,4,Lägenhet,1997,[Johanneshov],4250000,750000,5000000,5025,Erik Olsson Fastighetsförmedling,344.2607249733331,Globen
+2014-10-21,Skärmarbrinksvägen 36,Enskede Gård,Grön Hagsätra,1,37,2,Lägenhet,1944,[Blåsut],1750000,250000,2000000,1889,Notar,147.0746166192657,Blasut
+2014-10-20,Skärmarbrinksvägen 36,Enskede Gård,Grön Hagsätra,1,37,1,Lägenhet,1944,[Blåsut],1700000,300000,2000000,1889,Fastighetsbyrån,147.0746166192657,Blasut
+2014-10-16,Bildhuggarvägen 8,Enskede Gård,Grön Hagsätra,2,51,7,Lägenhet,1943,[Globen],2275000,625000,2900000,2668,Erik Olsson Fastighetsförmedling,136.81096226467113,Globen
+2014-10-16,Skärmarbrinksvägen 38,Enskede Gård,Grön Hagsätra,3,73,null,Lägenhet,1944,[Blåsut],2395000,915000,3310000,2939,Fastighetsbyrån,154.72790568128337,Blasut
+2014-10-15,Etsarvägen 1,Enskede Gård,Grön Hagsätra,1,28,1,Lägenhet,1946,[Gullmarsplan],1675000,625000,2300000,1256,Erik Olsson Fastighetsförmedling,321.07203192717634,Gullmarsplan
+2014-10-09,Gullmarsvägen 9,Enskede Gård,Grön Hagsätra,3,73,4,Lägenhet,1946,[Johanneshov],3795000,305000,4100000,2911,Erik Olsson Fastighetsförmedling,192.86509921629536,Gullmarsplan
+2014-10-09,Pastellvägen 11,Enskede Gård,Grön Hagsätra,1,33,5,Lägenhet,1943,[Blåsut],1750000,470000,2220000,1940,HusmanHagberg,320.0362343597097,Blasut
+2014-10-09,Skulptörvägen 9,Enskede Gård,Grön Hagsätra,2,52,5,Lägenhet,1944,[Johanneshov],2450000,300000,2750000,2997,HusmanHagberg,232.47179637497297,Globen
+2014-10-07,Pastellvägen 26,Enskede Gård,Grön Hagsätra,2,47,2,Lägenhet,1943,[Globen],1795000,505000,2300000,2227,Länsförsäkringar Fastighetsförmedling,221.49250177812746,Blasut
+2014-10-03,Konstgjutarvägen 36,Enskede Gård,Grön Hagsätra,3,75.4,3,Lägenhet,1944,[Globen],3295000,405000,3700000,3436,Bjurfors,193.22947468893733,Globen
+2014-10-01,Grafikvägen 32,Enskede Gård,Grön Hagsätra,1,27,4,Lägenhet,1946,[Gullmarsplan],1650000,1270000,2920000,1962,Bjurfors,318.11396791020354,Globen
+2014-09-26,Planterarvägen 71,Enskede Gård,Grön Hagsätra,4,102,null,Lägenhet,1988,[Enskede gård],3975000,525000,4500000,6754,SkandiaMäklarna,474.11662226300064,Enskede gard
+2014-09-26,Bildhuggarvägen 15,Enskede Gård,Grön Hagsätra,2,39,null,Lägenhet,null,[Johanneshov],1850000,250000,2100000,2723,Svensk Fastighetsförmedling,100.71468349149013,Globen
+2014-09-25,Odelbergsvägen 36,Enskede Gård,Grön Hagsätra,2,56,1,Lägenhet,2008,[Enskede Gård],1995000,455000,2450000,4360,Länsförsäkringar Fastighetsförmedling,50.4361768651455,Enskede gard
+2014-09-25,Skulptörvägen 18,Enskede Gård,Grön Hagsätra,3.5,83.5,1,Lägenhet,1997,[Gullmarsplan],3395000,505000,3900000,5205,Fastighetsbyrån,287.1242926999942,Globen
+2014-09-24,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1.5,41,1,Lägenhet,null,[Johanneshov],1795000,385000,2180000,2609,Svensk Fastighetsförmedling,262.88928542742923,Gullmarsplan
+2014-09-24,Konstgjutarvägen 24,Enskede Gård,Grön Hagsätra,1,35,1,Lägenhet,1944,[Globen],1795000,335000,2130000,2467,Notar,65.3159138267647,Globen
+2014-09-24,Gullmarsvägen 9,Enskede Gård,Grön Hagsätra,3,73,6,Lägenhet,1946,[Johanneshov],3475000,515000,3990000,2942,Mäklarhuset,192.86509921629536,Gullmarsplan
+2014-09-23,Artistvägen 4,Enskede Gård,Grön Hagsätra,2,47,null,Lägenhet,1943,[Blåsut],1995000,685000,2680000,2503,Svenska Mäklarhuset,162.13953839009318,Blasut
+2014-09-19,Grafikvägen 28,Enskede Gård,Grön Hagsätra,2,44,4,Lägenhet,1946,[Johanneshov],2070000,300000,2370000,2570,Mäklarhuset,331.7845157527938,Gullmarsplan
+2014-09-18,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,1,32,1,Lägenhet,1946,[Gullmarsplan],1795000,215000,2010000,2156,Notar,306.27094391479216,Gullmarsplan
+2014-09-18,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,2,50,2,Lägenhet,1945,[Gullmarsplan],2250000,275000,2525000,3182,Bjurfors,262.88928542742923,Gullmarsplan
+2014-09-15,Artistvägen 6,Enskede Gård,Grön Hagsätra,4,68,2,Lägenhet,1943,[Blåsut],2995000,220000,3215000,3621,HusmanHagberg,148.13738027630086,Blasut
+2014-09-11,Gullmarsplan 13,Enskede Gård,Grön Hagsätra,4,79,3,Lägenhet,1949,[Gullmarsplan],3495000,30000,3525000,2706,Fastighetsbyrån,120.23363798209051,Gullmarsplan
+2014-09-11,Bildhuggarvägen 10,Enskede Gård,Grön Hagsätra,2.5,52,4,Lägenhet,1945,[Globen],2495000,175000,2670000,2960,Fastighetsbyrån,165.18022835545582,Globen
+2014-09-09,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,41,4,Lägenhet,null,[Johanneshov],1975000,335000,2310000,2072,Svensk Fastighetsförmedling,282.66138788370205,Skarmarbrink
+2014-09-09,Pastellvägen 28,Enskede Gård,Grön Hagsätra,2,39,2,Lägenhet,1943,[Globen],1795000,315000,2110000,2023,Länsförsäkringar Fastighetsförmedling,213.48407601506435,Blasut
+2014-09-09,Bildhuggarvägen 25,Enskede Gård,Grön Hagsätra,2,60,null,Lägenhet,1945,[Globen],2395000,405000,2800000,3967,HusmanHagberg,181.37394022713636,Globen
+2014-09-05,Pastellvägen 17,Enskede Gård,Grön Hagsätra,2,40,5,Lägenhet,null,[Johanneshov],1995000,625000,2620000,1664,Svensk Fastighetsförmedling,199.88871165772406,Blasut
+2014-09-05,Etsarvägen 1,Enskede Gård,Grön Hagsätra,1,37.5,2,Lägenhet,1946,[Gullmarsplan],1895000,565000,2460000,1456,Notar,321.07203192717634,Gullmarsplan
+2014-09-05,Lindevägen 41,Enskede Gård,Grön Hagsätra,7,171,null,Villa,1907,[Enskede Gård],8750000,100000,8850000,null,Mäklarhuset,250.02289351298828,Enskede gard
+2014-09-04,Etsarvägen 4,Enskede Gård,Grön Hagsätra,3,74,5,Lägenhet,null,[Johanneshov],2995000,1105000,4100000,3419,Svensk Fastighetsförmedling,354.24358605738536,Gullmarsplan
+2014-09-03,Bildhuggarvägen 31,Enskede Gård,Grön Hagsätra,3,62,1,Lägenhet,1945,[Globen],2695000,255000,2950000,2925,Bjurfors,229.22485957413357,Globen
+2014-08-29,Grafikvägen 15,Enskede Gård,Grön Hagsätra,2,40,2,Lägenhet,null,[Johanneshov],1995000,625000,2620000,1679,Svensk Fastighetsförmedling,266.9296375383185,Gullmarsplan
+2014-08-27,Bildhuggarvägen 39,Enskede Gård,Grön Hagsätra,1,34,2,Lägenhet,1944,[Globen],1850000,225000,2075000,2563,Notar,328.8160902032403,Globen
+2014-08-27,Etsarvägen 2,Enskede Gård,Grön Hagsätra,1,20,5,Lägenhet,null,[Johanneshov],1350000,250000,1600000,1130,Svensk Fastighetsförmedling,352.17775364343896,Gullmarsplan
+2014-08-27,Revisorsvägen 1,Enskede Gård,Grön Hagsätra,4,127,null,Villa,1926,[Enskede Gård],6900000,0,6900000,null,Länsförsäkringar Fastighetsförmedling,554.1517670121123,Enskede gard
+2014-08-22,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,1,23,2,Lägenhet,null,[Johanneshov],1650000,110000,1760000,1693,Svensk Fastighetsförmedling,286.9465816685034,Globen
+2014-08-21,Konstgjutarvägen 26,Enskede Gård,Grön Hagsätra,2,40,2,Lägenhet,1944,[Globen],1895000,180000,2075000,2758,Notar,85.21580867254481,Globen
+2014-08-20,Gullmarsplan 11,Enskede Gård,Grön Hagsätra,4,103,2,Lägenhet,1950,[Gullmarsplan],4250000,-50000,4200000,3528,Notar,111.40585904631024,Gullmarsplan
+2014-08-15,Pastellvägen 38,Enskede Gård,Grön Hagsätra,2,35,3,Lägenhet,1943,[Blåsut],1875000,145000,2020000,1789,Svenska Mäklarhuset,178.40135970149538,Blasut
+2014-08-15,Skulptörvägen 6,Enskede Gård,Grön Hagsätra,3,74,2,Lägenhet,null,[Johanneshov],2800000,0,2800000,3821,Svensk Fastighetsförmedling,219.91162839844307,Globen
+2014-08-14,Pastellvägen 14,Enskede Gård,Grön Hagsätra,2,55,2,Lägenhet,1943,[Johanneshov],1995000,185000,2180000,2810,Notar,330.1727783847137,Blasut
+2014-08-14,Pastellvägen 13,Enskede Gård,Grön Hagsätra,1,25,7,Lägenhet,1942,[Globen],1495000,405000,1900000,1853,Fastighetsbyrån,275.96275189047043,Blasut
+2014-08-14,Odelbergsvägen 23,Enskede Gård,Grön Hagsätra,1.5,45,3,Lägenhet,1931,[Enskede Gård],1995000,565000,2560000,2819,Fastighetsbyrån,155.05287400676517,Enskede gard
+2014-08-13,Konstgjutarvägen 26,Enskede Gård,Grön Hagsätra,1,35,1,Lägenhet,1944,[Globen],1850000,300000,2150000,2467,Notar,85.21580867254481,Globen
+2014-08-13,Konstgjutarvägen 18,Enskede Gård,Grön Hagsätra,2,55,3,Lägenhet,1945,[Globen],2695000,65000,2760000,2806,Fastighetsbyrån,65.65747735996466,Globen
+2014-08-12,Pastellvägen 8,Enskede Gård,Grön Hagsätra,2,44,2,Lägenhet,1942,[Johanneshov],2295000,0,2295000,2921,Erik Olsson Fastighetsförmedling,357.5922578067579,Skarmarbrink
+2014-08-02,Bildhuggarvägen 19,Enskede Gård,Grön Hagsätra,2,49,1,Lägenhet,1945,[Globen],2700000,0,2700000,2468,Länsförsäkringar Fastighetsförmedling,124.31619611099406,Globen
+2014-07-24,Etsarvägen 4,Enskede Gård,Grön Hagsätra,4,91,4,Lägenhet,1945,[Årsta],4450000,360000,4810000,4203,Mäklarringen,354.24358605738536,Gullmarsplan
+2014-07-17,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,43.5,null,Lägenhet,1944,[Globen],1995000,490000,2485000,2958,Erik Olsson Fastighetsförmedling,278.6546520646587,Globen
+2014-07-16,Bildhuggarvägen 15,Enskede Gård,Grön Hagsätra,2,39,3,Lägenhet,1944,[Globen],1795000,505000,2300000,2723,Notar,100.71468349149013,Globen
+2014-07-11,Bildhuggarvägen 39,Enskede Gård,Grön Hagsätra,2,53,null,Lägenhet,1944,[Globen],2250000,270000,2520000,3638,Erik Olsson Fastighetsförmedling,328.8160902032403,Globen
+2014-07-11,Konstgjutarvägen 4,Enskede Gård,Grön Hagsätra,2,47,4,Lägenhet,1945,[Gullmarsplan],2495000,330000,2825000,1508,Notar,160.11798743830545,Globen
+2014-07-11,Konstgjutarvägen 26,Enskede Gård,Grön Hagsätra,2,42,1,Lägenhet,1944,[Globen],1895000,155000,2050000,2758,Fastighetsbyrån,85.21580867254481,Globen
+2014-07-10,Etsarvägen 1,Enskede Gård,Grön Hagsätra,2,44,3,Lägenhet,1946,[Gullmarsplan],2175000,290000,2465000,1792,Erik Olsson Fastighetsförmedling,321.07203192717634,Gullmarsplan
+2014-07-10,Etsarvägen 4,Enskede Gård,Grön Hagsätra,5,102,null,Lägenhet,1946,[Gullmarsplan],4795000,-145000,4650000,4617,Fastighetsbyrån,354.24358605738536,Gullmarsplan
+2014-06-26,Bildhuggarvägen 27,Enskede Gård,Grön Hagsätra,1.5,37,3,Lägenhet,1945,[Globen],1695000,455000,2150000,2495,Erik Olsson Fastighetsförmedling,194.65321540798206,Globen
+2014-06-26,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2.5,58,7,Lägenhet,1946,[Gullmarsplan],2495000,355000,2850000,3908,Notar,306.27094391479216,Gullmarsplan
+2014-06-26,Dagövägen 26,Enskede Gård,Grön Hagsätra,4,87,null,Villa,1932,[Enskede gård],6495000,-295000,6200000,null,SkandiaMäklarna,299.0869732465004,Sockenplan
+2014-06-23,Etsarvägen 4,Enskede Gård,Grön Hagsätra,5,102,5,Lägenhet,1945,[Gullmarsplan],4695000,355000,5050000,4753,Notar,354.24358605738536,Gullmarsplan
+2014-06-19,Etsarvägen 1,Enskede Gård,Grön Hagsätra,2,64,2,Lägenhet,null,[Johanneshov],2495000,325000,2820000,2404,Svensk Fastighetsförmedling,321.07203192717634,Gullmarsplan
+2014-06-19,Palmfeltsvägen 49,Enskede Gård,Grön Hagsätra,1.5,51,2,Lägenhet,1932,[Enskede gård],1950000,400000,2350000,2697,SkandiaMäklarna,52.25588431636241,Enskede gard
+2014-06-18,Skärmarbrinksvägen 38,Enskede Gård,Grön Hagsätra,2,57,3,Lägenhet,null,[Johanneshov],1995000,505000,2500000,2330,Svensk Fastighetsförmedling,154.72790568128337,Blasut
+2014-06-13,Grafikvägen 17,Enskede Gård,Grön Hagsätra,2,40,null,Lägenhet,null,[Gullmarsplan],1995000,115000,2110000,1679,Fastighetsbyrån,279.40736012764165,Gullmarsplan
+2014-06-13,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,42,2,Lägenhet,1943,[Globen],1995000,55000,2050000,2072,Fastighetsbyrån,282.66138788370205,Skarmarbrink
+2014-06-05,Grafikvägen 16,Enskede Gård,Grön Hagsätra,4,87,2,Lägenhet,1946,[Gullmarsplan],3750000,600000,4350000,4091,Erik Olsson Fastighetsförmedling,262.152273698882,Gullmarsplan
+2014-06-05,Bildhuggarvägen 4,Enskede Gård,Grön Hagsätra,2,48,5.5,Lägenhet,1944,[Globen],2295000,205000,2500000,2439,Erik Olsson Fastighetsförmedling,149.2639401480458,Globen
+2014-06-05,Skulptörvägen 9,Enskede Gård,Grön Hagsätra,3,61,4,Lägenhet,1944,[Johanneshov],2595000,205000,2800000,3516,Notar,232.47179637497297,Globen
+2014-06-04,Pastellvägen 14,Enskede Gård,Grön Hagsätra,3,82,3,Lägenhet,null,[Johanneshov],2750000,250000,3000000,4227,Svensk Fastighetsförmedling,330.1727783847137,Blasut
+2014-05-28,Grafikvägen 8,Enskede Gård,Grön Hagsätra,3,65,2,Lägenhet,1946,[Gullmarsplan],2895000,255000,3150000,2916,Fastighetsbyrån,189.74690325427392,Gullmarsplan
+2014-05-28,Sofielundsplan 44,Enskede Gård,Grön Hagsätra,2,57,3,Lägenhet,null,[Johanneshov],1995000,305000,2300000,2330,Svensk Fastighetsförmedling,183.21984924799136,Blasut
+2014-05-27,Skärmarbrinksvägen 29,Enskede Gård,Grön Hagsätra,3,57,3,Lägenhet,1944,[Johanneshov],2495000,240000,2735000,3097,Notar,136.46431840499886,Blasut
+2014-05-23,Palmfeltsvägen 49,Enskede Gård,Grön Hagsätra,4,115,3,Lägenhet,1932,[Enskede gård],4750000,60000,4810000,5215,SkandiaMäklarna,52.25588431636241,Enskede gard
+2014-05-22,Planterarvägen 61,Enskede Gård,Grön Hagsätra,4,74.5,2,Lägenhet,null,[Enskede gård],2550000,210000,2760000,4954,Svensk Fastighetsförmedling,454.5407920763205,Enskede gard
+2014-05-22,Skulptörvägen 9,Enskede Gård,Grön Hagsätra,2,52,7,Lägenhet,1944,[Gullmarsplan],2495000,220000,2715000,2997,Fastighetsbyrån,232.47179637497297,Globen
+2014-05-17,Grafikvägen 3,Enskede Gård,Grön Hagsätra,2,40,0.5,Lägenhet,1946,[Gullmarsplan],1995000,0,1995000,2044,Erik Olsson Fastighetsförmedling,198.68780037094544,Gullmarsplan
+2014-05-16,Grafikvägen 21,Enskede Gård,Grön Hagsätra,3,68,2,Lägenhet,1945,[Gullmarsplan],2995000,20000,3015000,3041,Bjurfors,296.5308635133957,Gullmarsplan
+2014-05-15,Blåsutvägen 29,Enskede Gård,Grön Hagsätra,4,100,3,Lägenhet,1945,[Johanneshov],3750000,350000,4100000,5364,Fantastic Frank Fastighetsmäkleri,175.95249694643377,Blasut
+2014-05-14,Konstgjutarvägen 12,Enskede Gård,Grön Hagsätra,1,35,2,Lägenhet,1944,[Globen],1650000,350000,2000000,2286,Fastighetsbyrån,95.9645386102966,Globen
+2014-05-09,Etsarvägen 2,Enskede Gård,Grön Hagsätra,3,74.5,2,Lägenhet,1945,[Gullmarsplan],2995000,405000,3400000,3487,Södermäklarna,352.17775364343896,Gullmarsplan
+2014-05-08,Grafikvägen 13,Enskede Gård,Grön Hagsätra,2,55,4,Lägenhet,1946,[Gullmarsplan],2495000,305000,2800000,2566,Fastighetsbyrån,242.55135931043057,Gullmarsplan
+2014-05-07,Bildhuggarvägen 39,Enskede Gård,Grön Hagsätra,2,38,0.5,Lägenhet,1944,[Globen],1750000,275000,2025000,2767,Notar,328.8160902032403,Globen
+2014-05-06,Pastellvägen 16,Enskede Gård,Grön Hagsätra,2,51,2,Lägenhet,null,[Johanneshov],1995000,205000,2200000,3241,Svensk Fastighetsförmedling,302.88877617189826,Blasut
+2014-05-02,Konstgjutarvägen 22,Enskede Gård,Grön Hagsätra,2,50,4,Lägenhet,1944,[Globen],2450000,265000,2715000,2482,Fastighetsbyrån,51.91606241688317,Globen
+2014-04-29,Bildhuggarvägen 21,Enskede Gård,Grön Hagsätra,3,56,1,Lägenhet,1945,[Globen],2395000,605000,3000000,2773,Länsförsäkringar Fastighetsförmedling,140.80258933376385,Globen
+2014-04-28,Sofielundsplan 55,Enskede Gård,Grön Hagsätra,1,22,2,Lägenhet,1944,[Globen],1475000,175000,1650000,1146,Mäklarringen,114.0593502263257,Blasut
+2014-04-27,Konstgjutarvägen 26,Enskede Gård,Grön Hagsätra,1,35,2,Lägenhet,1944,[Johanneshov],1850000,20000,1870000,2467,HusmanHagberg,85.21580867254481,Globen
+2014-04-25,Palmfeltsvägen 47,Enskede Gård,Grön Hagsätra,1,51,2,Lägenhet,1932,[Enskede gård],1895000,205000,2100000,2569,SkandiaMäklarna,70.39346917589945,Enskede gard
+2014-04-25,Lindevägen 54,Enskede Gård,Grön Hagsätra,2,66,1,Lägenhet,null,[Enskede gård],1695000,575000,2270000,4288,Svensk Fastighetsförmedling,374.69652889966915,Enskede gard
+2014-04-17,Grafikvägen 16,Enskede Gård,Grön Hagsätra,2,41,3,Lägenhet,1946,[Gullmarsplan],2095000,215000,2310000,1928,Bjurfors,262.152273698882,Gullmarsplan
+2014-04-15,Skärmarbrinksvägen 38,Enskede Gård,Grön Hagsätra,1,37,1,Lägenhet,1944,[Blåsut],1610000,220000,1830000,1889,Hemmäklarna,154.72790568128337,Blasut
+2014-04-15,Pastellvägen 17,Enskede Gård,Grön Hagsätra,1,24,3,Lägenhet,1943,[Globen],1495000,180000,1675000,1281,Fastighetsbyrån,199.88871165772406,Blasut
+2014-04-12,Konstgjutarvägen 10,Enskede Gård,Grön Hagsätra,1,33.3,1,Lägenhet,1944,[Globen],1750000,180000,1930000,1912,Fastighetsbyrån,131.97103901361916,Globen
+2014-04-10,Grafikvägen 12,Enskede Gård,Grön Hagsätra,3,63,2,Lägenhet,1946,[Gullmarsplan],2750000,355000,3105000,2916,Svenska Mäklarhuset,221.5630448458174,Gullmarsplan
+2014-04-10,Blåsutvägen 25,Enskede Gård,Grön Hagsätra,2.5,56,1,Lägenhet,1945,[Blåsut-Globen],2195000,355000,2550000,3251,Länsförsäkringar Fastighetsförmedling,209.68771737772218,Blasut
+2014-04-09,Bildhuggarvägen 4,Enskede Gård,Grön Hagsätra,2,41,3.5,Lägenhet,1944,[Globen],1850000,480000,2330000,2123,Länsförsäkringar Fastighetsförmedling,149.2639401480458,Globen
+2014-04-09,Konstgjutarvägen 22,Enskede Gård,Grön Hagsätra,2,50,2,Lägenhet,1944,[Globen],2290000,360000,2650000,2482,Fastighetsbyrån,51.91606241688317,Globen
+2014-04-09,Grafikvägen 13,Enskede Gård,Grön Hagsätra,2,51,2,Lägenhet,1945,[Gullmarsplan],2395000,425000,2820000,2384,Bjurfors,242.55135931043057,Gullmarsplan
+2014-04-05,Bildhuggarvägen 39,Enskede Gård,Grön Hagsätra,1,28,0.5,Lägenhet,1944,[Globen],1495000,305000,1800000,2241,Notar,328.8160902032403,Globen
+2014-04-04,Bildhuggarvägen 33,Enskede Gård,Grön Hagsätra,3,60,2,Lägenhet,1944,[Globen],2595000,405000,3000000,2856,Fastighetsbyrån,248.7124973347441,Globen
+2014-04-03,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,1,24,7,Lägenhet,1944,[Johanneshov],1495000,360000,1855000,1582,A Home 4u,278.6546520646587,Globen
+2014-04-02,Bildhuggarvägen 27,Enskede Gård,Grön Hagsätra,1,37,1,Lägenhet,1945,[Johanneshov],1795000,255000,2050000,2397,Erik Olsson Fastighetsförmedling,194.65321540798206,Globen
+2014-03-28,Bildhuggarvägen 27,Enskede Gård,Grön Hagsätra,2,45,2,Lägenhet,1945,[Globen],2095000,255000,2350000,3035,Notar,194.65321540798206,Globen
+2014-03-27,Gullmarsvägen 9,Enskede Gård,Grön Hagsätra,4,86,4,Lägenhet,null,[Gullmarsplan],3695000,775000,4470000,3403,Svensk Fastighetsförmedling,192.86509921629536,Gullmarsplan
+2014-03-27,Konstgjutarvägen 40,Enskede Gård,Grön Hagsätra,2,46.7,2,Lägenhet,1944,[Globen],null,NaN,2400000,2729,Fastighetsbyrån,206.83334674058133,Globen
+2014-03-27,Blåsutvägen 33,Enskede Gård,Grön Hagsätra,3,69,1,Lägenhet,1948,[Blåsut],3150000,-75000,3075000,2736,Fastighetsbyrån,127.66496653676373,Blasut
+2014-03-21,Grafikvägen 13,Enskede Gård,Grön Hagsätra,3,70,3,Lägenhet,1945,[Johanneshov],3125000,325000,3450000,3168,Ansvar Fastighetsförmedling,242.55135931043057,Gullmarsplan
+2014-03-20,Bildhuggarvägen 37,Enskede Gård,Grön Hagsätra,2,53,2,Lägenhet,1944,[Johanneshov],2195000,175000,2370000,3726,SkandiaMäklarna,311.5441430200309,Globen
+2014-03-14,Pastellvägen 13,Enskede Gård,Grön Hagsätra,2,53,null,Lägenhet,1943,[Johanneshov],1995000,180000,2175000,3028,MäklarMäster,275.96275189047043,Blasut
+2014-03-12,Blåsutvägen 31,Enskede Gård,Grön Hagsätra,3,76,3,Lägenhet,1948,[Blåsut],3495000,205000,3700000,3013,Svenska Mäklarhuset,152.03031863551078,Blasut
+2014-03-12,Skulptörvägen 6,Enskede Gård,Grön Hagsätra,2,48,null,Lägenhet,1945,[Globen],1790000,70000,1860000,2672,Bjurfors,219.91162839844307,Globen
+2014-03-10,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,72,7,Lägenhet,1943,[Johanneshov],2695000,300000,2995000,3591,Erik Olsson Fastighetsförmedling,275.96275189047043,Blasut
+2014-03-06,Etsarvägen 1,Enskede Gård,Grön Hagsätra,2.5,64,5,Lägenhet,null,[Gullmarsplan],2495000,740000,3235000,2481,Svensk Fastighetsförmedling,321.07203192717634,Gullmarsplan
+2014-03-06,Odelbergsvägen 75,Enskede Gård,Grön Hagsätra,4,92,null,Villa,1931,[Enskede Gård],5200000,0,5200000,null,Svensk Fastighetsförmedling,237.52138677569147,Sockenplan
+2014-03-06,Grafikvägen 16,Enskede Gård,Grön Hagsätra,2,44,1,Lägenhet,1946,[Gullmarsplan],2175000,285000,2460000,2069,Erik Olsson Fastighetsförmedling,262.152273698882,Gullmarsplan
+2014-03-05,Bildhuggarvägen 39,Enskede Gård,Grön Hagsätra,1,34,2,Lägenhet,null,[Globen],1695000,145000,1840000,2563,Svensk Fastighetsförmedling,328.8160902032403,Globen
+2014-02-27,Sofielundsplan 42,Enskede Gård,Grön Hagsätra,1,37,3,Lägenhet,null,[Blåsut],1695000,230000,1925000,1760,Svensk Fastighetsförmedling,172.5623953350753,Blasut
+2014-02-27,Lindevägen 56,Enskede Gård,Grön Hagsätra,2,63,1,Lägenhet,null,[Enskede Gård],1695000,125000,1820000,3960,Svensk Fastighetsförmedling,340.5949811949304,Enskede gard
+2014-02-21,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,68,1,Lägenhet,1943,[Johanneshov],2395000,200000,2595000,3453,SkandiaMäklarna,275.96275189047043,Blasut
+2014-02-20,Skulptörvägen 18,Enskede Gård,Grön Hagsätra,4,96,5,Lägenhet,1997,[Globen],3800000,220000,4020000,5900,Bjurfors,287.1242926999942,Globen
+2014-02-17,Blåsutvägen 29,Enskede Gård,Grön Hagsätra,2,46,null,Lägenhet,1945,[Johanneshov],1850000,60000,1910000,2716,Steen Fastighetsbyrå,175.95249694643377,Blasut
+2014-02-12,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,3,67,1,Lägenhet,1945,[Globen],2995000,-45000,2950000,4264,Bjurfors,262.88928542742923,Gullmarsplan
+2014-02-08,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,72,6,Lägenhet,1943,[Johanneshov],2590000,10000,2600000,3591,Fastighetsbyrån,275.96275189047043,Blasut
+2014-02-07,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,2,50,7,Lägenhet,1945,[Globen],2495000,-75000,2420000,3182,Bjurfors,262.88928542742923,Gullmarsplan
+2014-01-31,Grafikvägen 8,Enskede Gård,Grön Hagsätra,3,62,2,Lägenhet,1946,[Gullmarsplan],2695000,5000,2700000,2916,Notar,189.74690325427392,Gullmarsplan
+2014-01-31,Konstgjutarvägen 10,Enskede Gård,Grön Hagsätra,2,52,null,Lägenhet,1944,[Johanneshov],2150000,600000,2750000,2942,Fastighetsbyrån,131.97103901361916,Globen
+2014-01-30,Skärmarbrinksvägen 27,Enskede Gård,Grön Hagsätra,3,60,3,Lägenhet,1944,[Johanneshov],2595000,-100000,2495000,2949,Mäklarhuset,126.058525183843,Blasut
+2014-01-30,Pastellvägen 36,Enskede Gård,Grön Hagsätra,2,47,null,Lägenhet,1943,[Johanneshov],1850000,220000,2070000,2235,Fastighetsbyrån,181.29727807893306,Blasut
+2014-01-28,Pastellvägen 16,Enskede Gård,Grön Hagsätra,1,36,2,Lägenhet,1943,[Globen],1595000,205000,1800000,2287,Notar,302.88877617189826,Blasut
+2014-01-26,Skulptörvägen 6,Enskede Gård,Grön Hagsätra,3,74,3,Lägenhet,1945,[Globen],2950000,0,2950000,3821,Svensk Fastighetsförmedling,219.91162839844307,Globen
+2014-01-22,Pastellvägen 8,Enskede Gård,Grön Hagsätra,1,35.5,1,Lägenhet,1942,[Johanneshov],1600000,120000,1720000,2102,Fastighetsbyrån,357.5922578067579,Skarmarbrink
+2014-01-17,Bildhuggarvägen 23,Enskede Gård,Grön Hagsätra,1,28,2,Lägenhet,1945,[Globen],1695000,130000,1825000,1406,Svensk Fastighetsförmedling,156.60674997369614,Globen
+2014-01-16,Pastellvägen 14,Enskede Gård,Grön Hagsätra,2,55,3,Lägenhet,1943,[Globen],2150000,200000,2350000,2869,Erik Olsson Fastighetsförmedling,330.1727783847137,Blasut
+2014-01-16,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,2,48,2,Lägenhet,1944,[Johanneshov],1995000,430000,2425000,3136,Fastighetsbyrån,286.9465816685034,Globen
+2014-01-15,Konstgjutarvägen 28,Enskede Gård,Grön Hagsätra,2.5,62,2,Lägenhet,1944,[Globen],2650000,100000,2750000,3390,Södermäklarna,107.27877485252071,Globen
+2014-01-15,Pastellvägen 14,Enskede Gård,Grön Hagsätra,2,50,2,Lägenhet,1943,[Globen],1995000,165000,2160000,2581,Länsförsäkringar Fastighetsförmedling,330.1727783847137,Blasut
+2013-12-19,Bildhuggarvägen 35,Enskede Gård,Grön Hagsätra,1.5,34,null,Lägenhet,1945,[Globen],1595000,625000,2220000,1911,Svensk Fastighetsförmedling,267.2950431943049,Globen
+2013-12-18,Sofielundsplan 55,Enskede Gård,Grön Hagsätra,1,22,2,Lägenhet,1944,[Enskededalen],1350000,380000,1730000,1146,Svensk Fastighetsförmedling,114.0593502263257,Blasut
+2013-12-18,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,2,48,4,Lägenhet,1944,[Globen],1995000,395000,2390000,3136,Svensk Fastighetsförmedling,286.9465816685034,Globen
+2013-12-18,Grafikvägen 17,Enskede Gård,Grön Hagsätra,2,47,null,Lägenhet,1946,[Gullmarsplan],1795000,725000,2520000,2017,Svensk Fastighetsförmedling,279.40736012764165,Gullmarsplan
+2013-12-17,Blåsutvägen 27,Enskede Gård,Grön Hagsätra,3,73,null,Lägenhet,1945,[Enskede],2395000,305000,2700000,3739,Gripsholms Fastighetsförmedling,195.91797927502742,Blasut
+2013-12-05,Gullmarsvägen 2,Enskede Gård,Grön Hagsätra,2,61,5,Lägenhet,1946,[Gullmarsplan],2695000,0,2695000,2714,Bjurfors,130.12288100098957,Gullmarsplan
+2013-11-27,Konstgjutarvägen 14,Enskede Gård,Grön Hagsätra,2,42,3,Lägenhet,1944,[Globen],1925000,275000,2200000,2673,Bjurfors,98.74772940187272,Globen
+2013-11-25,Sofielundsplan 53,Enskede Gård,Grön Hagsätra,3,57,2,Lägenhet,1944,[Johanneshov],2360000,0,2360000,2100,SkandiaMäklarna,110.168957899001,Blasut
+2013-11-25,Palmfeltsvägen 47,Enskede Gård,Grön Hagsätra,1,26,1,Lägenhet,1932,[Enskede gård],1395000,115000,1510000,1670,SkandiaMäklarna,70.39346917589945,Enskede gard
+2013-11-25,Delägargatan 29,Enskede Gård,Grön Hagsätra,5,105,null,Villa,1926,[Enskede gård],6850000,-50000,6800000,null,SkandiaMäklarna,397.3133104693017,Enskede gard
+2013-11-21,Planterarvägen 17,Enskede Gård,Grön Hagsätra,3,74.5,null,Lägenhet,null,[Enskede Gård],2395000,475000,2870000,4954,One Fastighetsmäkleri,402.4699316950476,Enskede gard
+2013-11-19,Etsarvägen 4,Enskede Gård,Grön Hagsätra,2,56,1,Lägenhet,1946,[Gullmarsplan],2495000,430000,2925000,2483,Notar,354.24358605738536,Gullmarsplan
+2013-11-19,Bildhuggarvägen 31,Enskede Gård,Grön Hagsätra,1,20,1,Lägenhet,1945,[Globen],1350000,210000,1560000,1184,Svensk Fastighetsförmedling,229.22485957413357,Globen
+2013-11-16,Planterarvägen 29,Enskede Gård,Grön Hagsätra,6,137,null,Radhus,1989,[Enskede gård],3850000,400000,4250000,7413,Fastighetsbyrån,387.80635508175254,Enskede gard
+2013-11-13,Bildhuggarvägen 4,Enskede Gård,Grön Hagsätra,1.5,41,5.5,Lägenhet,1944,[Globen],1995000,0,1995000,2123,Länsförsäkringar Fastighetsförmedling,149.2639401480458,Globen
+2013-11-08,Bildhuggarvägen 29,Enskede Gård,Grön Hagsätra,4,85,null,Lägenhet,1945,[Johanneshov],3490000,120000,3610000,5956,BOSTHLM,210.0636326384789,Globen
+2013-11-08,Odelbergsvägen 29,Enskede Gård,Grön Hagsätra,2,51,null,Lägenhet,1931,[Enskede],2295000,55000,2350000,1914,Erik Olsson Fastighetsförmedling,82.31640589904967,Enskede gard
+2013-11-05,Grafikvägen 22,Enskede Gård,Grön Hagsätra,2,46,null,Lägenhet,1946,[Gullmarsplan],1700000,300000,2000000,2163,Erik Olsson Fastighetsförmedling,303.7642591471342,Gullmarsplan
+2013-11-02,Etsarvägen 4,Enskede Gård,Grön Hagsätra,3,71.5,4,Lägenhet,1946,[Gullmarsplan],3200000,80000,3280000,3379,Svensk Fastighetsförmedling,354.24358605738536,Gullmarsplan
+2013-11-01,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,3,67,3,Lägenhet,1945,[Globen],2975000,0,2975000,4264,Bjurfors,262.88928542742923,Gullmarsplan
+2013-10-30,Konstgjutarvägen 36,Enskede Gård,Grön Hagsätra,3,75.4,null,Lägenhet,1944,[Globen],2995000,415000,3410000,3436,Bjurfors,193.22947468893733,Globen
+2013-10-26,Grafikvägen 16,Enskede Gård,Grön Hagsätra,2,51,null,Lägenhet,1946,[Gullmarsplan],2400000,0,2400000,2398,Erik Olsson Fastighetsförmedling,262.152273698882,Gullmarsplan
+2013-10-24,Bildhuggarvägen 13,Enskede Gård,Grön Hagsätra,2,39,2,Lägenhet,1944,[Globen],1650000,250000,1900000,2594,Exbo,95.92056260950692,Globen
+2013-10-24,Bildhuggarvägen 31,Enskede Gård,Grön Hagsätra,1,34,null,Lägenhet,1944,[Globen],1795000,260000,2055000,2061,Länsförsäkringar Fastighetsförmedling,229.22485957413357,Globen
+2013-10-17,Pastellvägen 11,Enskede Gård,Grön Hagsätra,4,83,null,Lägenhet,1943,[Johanneshov],3350000,225000,3575000,4807,Fastighetsbyrån,320.0362343597097,Blasut
+2013-10-11,Odelbergsvägen 32,Enskede Gård,Grön Hagsätra,2,45,1,Lägenhet,1932,[Enskede gård],1795000,85000,1880000,2722,Ansvar Fastighetsförmedling,96.1071296096343,Enskede gard
+2013-10-11,Grafikvägen 1,Enskede Gård,Grön Hagsätra,1.5,41,null,Lägenhet,null,[Johanneshov],1695000,95000,1790000,2096,Fastighetsbyrån,202.01481727590303,Gullmarsplan
+2013-10-11,Grafikvägen 32,Enskede Gård,Grön Hagsätra,2,68,2,Lägenhet,1946,[Gullmarsplan],2649000,26000,2675000,3696,Bjurfors,318.11396791020354,Globen
+2013-10-05,Gullmarsvägen 9,Enskede Gård,Grön Hagsätra,3,86,5,Lägenhet,1946,[Johanneshov],3995000,0,3995000,3403,Mäklarhuset,192.86509921629536,Gullmarsplan
+2013-10-04,Rügenvägen 10,Enskede Gård,Grön Hagsätra,7,162,null,Villa,1931,[Enskede gård],9000000,750000,9750000,null,SkandiaMäklarna,321.8808832109853,Enskede gard
+2013-10-04,Etsarvägen 2,Enskede Gård,Grön Hagsätra,1,20,null,Lägenhet,1946,[Johanneshov],1295000,25000,1320000,1104,Fastighetsbyrån,352.17775364343896,Gullmarsplan
+2013-10-03,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,2,50,null,Lägenhet,1945,[Johanneshov],1975000,165000,2140000,3182,Fastighetsbyrån,262.88928542742923,Gullmarsplan
+2013-10-02,Grafikvägen 30,Enskede Gård,Grön Hagsätra,2,68,4,Lägenhet,null,[Gullmarsplan],3200000,10000,3210000,3696,Erik Olsson Fastighetsförmedling,334.7840883408478,Globen
+2013-09-30,Skärmarbrinksvägen 16,Enskede Gård,Grön Hagsätra,3,60,2,Lägenhet,1944,[Johanneshov],2595000,260000,2855000,2860,Mäklarhuset,178.17837634170093,Blasut
+2013-09-25,Konstgjutarvägen 14,Enskede Gård,Grön Hagsätra,2,50,null,Lägenhet,1944,[Globen],2095000,155000,2250000,3117,Notar,98.74772940187272,Globen
+2013-09-25,Konstgjutarvägen 34,Enskede Gård,Grön Hagsätra,2,48,3,Lägenhet,null,[Globen],1975000,585000,2560000,2253,Södermäklarna,171.60838746596355,Globen
+2013-09-21,Grafikvägen 28,Enskede Gård,Grön Hagsätra,2,40,3,Lägenhet,1946,[Gullmarsplan],1895000,145000,2040000,2570,Bjurfors,331.7845157527938,Gullmarsplan
+2013-09-20,Odelbergsvägen 23,Enskede Gård,Grön Hagsätra,1.5,45,null,Lägenhet,1931,[Enskede gård],1750000,110000,1860000,2685,Fastighetsbyrån,155.05287400676517,Enskede gard
+2013-09-19,Bildhuggarvägen 35,Enskede Gård,Grön Hagsätra,1,34,2,Lägenhet,1945,[Globen],1595000,190000,1785000,1911,Svensk Fastighetsförmedling,267.2950431943049,Globen
+2013-09-13,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1.5,41,4,Lägenhet,null,[Gullmarsplan],1795000,205000,2000000,2609,Svensk Fastighetsförmedling,262.88928542742923,Gullmarsplan
+2013-09-12,Pastellvägen 8,Enskede Gård,Grön Hagsätra,2,51,null,Lägenhet,1942,[Johanneshov],2060000,10000,2070000,3075,SkandiaMäklarna,357.5922578067579,Skarmarbrink
+2013-09-04,Skulptörvägen 1,Enskede Gård,Grön Hagsätra,2,45,null,Lägenhet,1944,[Johanneshov],1975000,295000,2270000,2583,Fastighetsbyrån,194.66725758476872,Globen
+2013-09-04,Pastellvägen 10,Enskede Gård,Grön Hagsätra,1,35.5,1,Lägenhet,null,[Johanneshov],1490000,240000,1730000,2102,Erik Olsson Fastighetsförmedling,365.1682026307666,Blasut
+2013-08-30,Konstgjutarvägen 8,Enskede Gård,Grön Hagsätra,2,48,null,Lägenhet,null,[Globen],2095000,0,2095000,2575,Svensk Fastighetsförmedling,126.61423418447978,Globen
+2013-08-29,Pastellvägen 8,Enskede Gård,Grön Hagsätra,1,35.5,null,Lägenhet,1942,[Globen],1595000,35000,1630000,2367,Svensk Fastighetsförmedling,357.5922578067579,Skarmarbrink
+2013-08-27,Dagövägen 8,Enskede Gård,Grön Hagsätra,6,119,null,Villa,null,[Enskedefältet],6900000,25000,6925000,null,MäklarMäster,400.4597228335941,Enskede gard
+2013-08-25,Planterarvägen 61,Enskede Gård,Grön Hagsätra,4,74.5,null,Lägenhet,null,[Enskede Gård],2395000,15000,2410000,4954,Svensk Fastighetsförmedling,454.5407920763205,Enskede gard
+2013-08-23,Lindevägen 44,Enskede Gård,Grön Hagsätra,4,107,null,Lägenhet,1989,[Enskede gård],3495000,225000,3720000,6977,Fastighetsbyrån,402.70361719804,Enskede gard
+2013-08-16,Bildhuggarvägen 10,Enskede Gård,Grön Hagsätra,1,43,null,Lägenhet,null,[Johanneshov],1650000,320000,1970000,2957,Fastighetsbyrån,165.18022835545582,Globen
+2013-08-15,Skulptörvägen 18,Enskede Gård,Grön Hagsätra,3,66,null,Lägenhet,1997,[Gullmarsplan],2500000,150000,2650000,4515,HusmanHagberg,287.1242926999942,Globen
+2013-08-15,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,1,24,4,Lägenhet,1945,[Globen],1550000,95000,1645000,1527,Bjurfors,262.88928542742923,Gullmarsplan
+2013-08-14,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,53,4,Lägenhet,1946,[Gullmarsplan],1995000,0,1995000,3467,Ansvar Fastighetsförmedling,306.27094391479216,Gullmarsplan
+2013-07-31,Skulptörvägen 6,Enskede Gård,Grön Hagsätra,2,52,3,Lägenhet,1945,[Johanneshov],1895000,265000,2160000,2849,Länsförsäkringar Fastighetsförmedling,219.91162839844307,Globen
+2013-07-25,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,41,null,Lägenhet,1944,[Globen],1950000,-20000,1930000,2703,Bjurfors,278.6546520646587,Globen
+2013-07-24,Gullmarsplan 13,Enskede Gård,Grön Hagsätra,1,27,3,Lägenhet,1950,[Johanneshov],1295000,425000,1720000,925,Notar,120.23363798209051,Gullmarsplan
+2013-07-20,Gullmarsvägen 8,Enskede Gård,Grön Hagsätra,3,67,2,Lägenhet,1945,[Johanneshov],2595000,-95000,2500000,4264,Berggren Fastighetsbyrå,262.88928542742923,Gullmarsplan
+2013-07-12,Konstgjutarvägen 12,Enskede Gård,Grön Hagsätra,2,42,null,Lägenhet,1944,[Gullmarsplan],1695000,215000,1910000,2673,SkandiaMäklarna,95.9645386102966,Globen
+2013-07-06,Skulptörvägen 1,Enskede Gård,Grön Hagsätra,1,34,null,Lägenhet,null,[Globen],1695000,-95000,1600000,2090,Hans Göthe Fastighetsbyrå AB,194.66725758476872,Globen
+2013-07-05,Grafikvägen 20,Enskede Gård,Grön Hagsätra,3,54,2,Lägenhet,null,[Gullmarsplan],2495000,-80000,2415000,2539,Erik Olsson Fastighetsförmedling,292.8358221847424,Gullmarsplan
+2013-06-24,Bildhuggarvägen 8,Enskede Gård,Grön Hagsätra,2,51,5,Lägenhet,1944,[Johanneshov],1995000,190000,2185000,2668,Mäklarhuset,136.81096226467113,Globen
+2013-06-20,Grafikvägen 32,Enskede Gård,Grön Hagsätra,1,27,2,Lägenhet,1946,[Gullmarsplan],1550000,50000,1600000,1962,Bjurfors,318.11396791020354,Globen
+2013-06-20,Pastellvägen 13,Enskede Gård,Grön Hagsätra,1,25,2,Lägenhet,1943,[Blåsut],1320000,80000,1400000,1657,SkandiaMäklarna,275.96275189047043,Blasut
+2013-06-12,Palmfeltsvägen 49,Enskede Gård,Grön Hagsätra,2,47,null,Lägenhet,1932,[Enskede Gård],1975000,100000,2075000,2791,Notar,52.25588431636241,Enskede gard
+2013-06-12,Grafikvägen 11,Enskede Gård,Grön Hagsätra,2.5,55,1,Lägenhet,1946,[Johanneshov],2475000,-75000,2400000,2491,Fabergé Fastighetsmäkleri,229.08365006570924,Gullmarsplan
+2013-06-12,Konstgjutarvägen 22,Enskede Gård,Grön Hagsätra,2,50,null,Lägenhet,1944,[Johanneshov],1850000,140000,1990000,2482,Fastighetsbyrån,51.91606241688317,Globen
+2013-06-05,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,53,null,Lägenhet,1943,[Johanneshov],1795000,255000,2050000,2647,Fastighetsbyrån,282.66138788370205,Skarmarbrink
+2013-06-05,Blåsutvägen 31,Enskede Gård,Grön Hagsätra,1,28,null,Lägenhet,1948,[Globen],1575000,200000,1775000,1045,HusmanHagberg,152.03031863551078,Blasut
+2013-05-31,Etsarvägen 4,Enskede Gård,Grön Hagsätra,2,58,null,Lägenhet,1946,[Gullmarsplan],2495000,115000,2610000,2519,Notar,354.24358605738536,Gullmarsplan
+2013-05-31,Lindevägen 54,Enskede Gård,Grön Hagsätra,3,75.5,4,Lägenhet,1988,[Enskede Gård],2375000,325000,2700000,5108,SkandiaMäklarna,374.69652889966915,Enskede gard
+2013-05-30,Bildhuggarvägen 10,Enskede Gård,Grön Hagsätra,3,61,null,Lägenhet,1945,[Johanneshov],2595000,0,2595000,3466,Fastighetsbyrån,165.18022835545582,Globen
+2013-05-27,Odelbergsvägen 30,Enskede Gård,Grön Hagsätra,2,41,1,Lägenhet,null,[Enskede],1975000,75000,2050000,2481,Erik Olsson Fastighetsförmedling,109.01240257555607,Enskede gard
+2013-05-24,Palmfeltsvägen 47,Enskede Gård,Grön Hagsätra,1,44,null,Lägenhet,1932,[Enskede Gård],1595000,160000,1755000,2397,Mäklarhuset,70.39346917589945,Enskede gard
+2013-05-24,Odelbergsvägen 32,Enskede Gård,Grön Hagsätra,1,41,null,Lägenhet,1932,[Enskede Gård],1450000,350000,1800000,2481,HusmanHagberg,96.1071296096343,Enskede gard
+2013-05-23,Konstgjutarvägen 14,Enskede Gård,Grön Hagsätra,1,35,null,Lägenhet,1944,[Johanneshov],1595000,65000,1660000,2177,Fastighetsbyrån,98.74772940187272,Globen
+2013-05-17,Konstgjutarvägen 26,Enskede Gård,Grön Hagsätra,2,53,null,Lägenhet,1944,[Johanneshov],1975000,0,1975000,3125,Fastighetsbyrån,85.21580867254481,Globen
+2013-05-17,Uleåborgsvägen 13,Enskede Gård,Grön Hagsätra,6,131,null,Villa,1932,[Enskedefältet],6900000,275000,7175000,null,Mäklarringen,344.99688629232224,Sockenplan
+2013-05-16,Grafikvägen 3,Enskede Gård,Grön Hagsätra,3,69,null,Lägenhet,null,[Johanneshov],2695000,55000,2750000,3388,Fastighetsbyrån,198.68780037094544,Gullmarsplan
+2013-05-12,Etsarvägen 10,Enskede Gård,Grön Hagsätra,2,64,6,Lägenhet,1997,[Gullmarsplan],2975000,435000,3410000,4243,Svensk Fastighetsförmedling,344.2607249733331,Globen
+2013-05-01,Konstgjutarvägen 8,Enskede Gård,Grön Hagsätra,2,45.2,null,Lägenhet,1944,[Johanneshov],1990000,60000,2050000,2447,Referens Mäklarbyrå,126.61423418447978,Globen
+2013-04-27,Pastellvägen 12,Enskede Gård,Grön Hagsätra,2,55,3,Lägenhet,1943,[Globen],1995000,15000,2010000,2869,Mäklarringen,344.6157444747602,Blasut
+2013-04-26,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,58,7,Lägenhet,1946,[Johanneshov],2300000,100000,2400000,3908,Mäklarhuset,306.27094391479216,Gullmarsplan
+2013-04-22,Revisorsvägen 7,Enskede Gård,Grön Hagsätra,7,192,null,Villa,1936,[Enskede Gård],7000000,0,7000000,null,Svensk Fastighetsförmedling,485.8851042370032,Enskede gard
+2013-04-20,Bildhuggarvägen 37,Enskede Gård,Grön Hagsätra,2,39,3.5,Lägenhet,null,[Globen],1750000,250000,2000000,2869,Erik Olsson Fastighetsförmedling,311.5441430200309,Globen
+2013-04-17,Blåsutvägen 31,Enskede Gård,Grön Hagsätra,1,30,1,Lägenhet,1948,[Globen],1595000,155000,1750000,1082,Mäklarringen,152.03031863551078,Blasut
+2013-04-15,Lindevägen 50,Enskede Gård,Grön Hagsätra,2,61.5,null,Lägenhet,1989,[Enskede Gård],1650000,50000,1700000,4028,HusmanHagberg,381.1681186496314,Enskede gard
+2013-04-13,Grafikvägen 1,Enskede Gård,Grön Hagsätra,2,40,1,Lägenhet,null,[Gullmarsplan],2070000,130000,2200000,2044,BOSTHLM,202.01481727590303,Gullmarsplan
+2013-04-10,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,1.5,41,null,Lägenhet,1944,[Johanneshov],1575000,325000,1900000,2703,Fastighetsbyrån,278.6546520646587,Globen
+2013-04-04,Bildhuggarvägen 15,Enskede Gård,Grön Hagsätra,3,48,3,Lägenhet,1944,[Johanneshov],1995000,65000,2060000,3042,Svensk Fastighetsförmedling,100.71468349149013,Globen
+2013-03-31,Bildhuggarvägen 11,Enskede Gård,Grön Hagsätra,3,60,null,Lägenhet,1944,[Johanneshov],2350000,140000,2490000,3394,Fastighetsbyrån,85.03744647199794,Globen
+2013-03-29,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,1,24,null,Lägenhet,null,[Gullmarsplan],1190000,320000,1510000,1617,Erik Olsson Fastighetsförmedling,306.27094391479216,Gullmarsplan
+2013-03-29,Konstgjutarvägen 28,Enskede Gård,Grön Hagsätra,2,43,null,Lägenhet,1944,[Johanneshov],1595000,-60000,1535000,2351,Fastighetsbyrån,107.27877485252071,Globen
+2013-03-23,Etsarvägen 2,Enskede Gård,Grön Hagsätra,3,76,6,Lägenhet,1946,[Globen],3495000,25000,3520000,3725,SkandiaMäklarna,352.17775364343896,Gullmarsplan
+2013-03-22,Blåsutvägen 7,Enskede Gård,Grön Hagsätra,2,55,null,Lägenhet,1943,[Johanneshov],2050000,100000,2150000,2762,Fastighetsbyrån,282.66138788370205,Skarmarbrink
+2013-03-22,Konstgjutarvägen 20,Enskede Gård,Grön Hagsätra,3,64,null,Lägenhet,1944,[Globen],2495000,-85000,2410000,3128,Notar,42.55386135015981,Globen
+2013-03-22,Sofielundsplan 44,Enskede Gård,Grön Hagsätra,2,57,null,Lägenhet,1943,[Johanneshov],2000000,-100000,1900000,2330,HusmanHagberg,183.21984924799136,Blasut
+2013-03-22,Etsarvägen 10,Enskede Gård,Grön Hagsätra,3,66,null,Lägenhet,1997,[Johanneshov],2895000,305000,3200000,4177,Svensk Fastighetsförmedling,344.2607249733331,Globen
+2013-03-21,Sofielundsplan 44,Enskede Gård,Grön Hagsätra,1,37,2,Lägenhet,null,[Johanneshov],1395000,265000,1660000,1760,Erik Olsson Fastighetsförmedling,183.21984924799136,Blasut
+2013-03-21,Bildhuggarvägen 25,Enskede Gård,Grön Hagsätra,2,45,null,Lägenhet,1945,[Johanneshov],1895000,205000,2100000,2974,Svensk Fastighetsförmedling,181.37394022713636,Globen
+2013-03-20,Pastellvägen 13,Enskede Gård,Grön Hagsätra,3,72,null,Lägenhet,1943,[Johanneshov],2195000,305000,2500000,3591,Fastighetsbyrån,275.96275189047043,Blasut
+2013-03-18,Pastellvägen 16,Enskede Gård,Grön Hagsätra,1,27,null,Lägenhet,1943,[Blåsut],1295000,205000,1500000,1716,RE/MAX Sverige,302.88877617189826,Blasut
+2013-03-13,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,56,null,Lägenhet,1946,[Johanneshov],1750000,0,1750000,3663,Fastighetsbyrån,306.27094391479216,Gullmarsplan
+2013-03-12,Etsarvägen 4,Enskede Gård,Grön Hagsätra,2,59,null,Lägenhet,1946,[Gullmarsplan],2495000,235000,2730000,2502,Notar,354.24358605738536,Gullmarsplan
+2013-03-07,Lindevägen 50,Enskede Gård,Grön Hagsätra,2,61.5,3,Lägenhet,null,[Enskede Gård],1895000,205000,2100000,4221,Mäklarhuset,381.1681186496314,Enskede gard
+2013-03-06,Palmfeltsvägen 49,Enskede Gård,Grön Hagsätra,1.5,47,null,Lägenhet,null,[Enskede Gård],1700000,170000,1870000,2791,Notar,52.25588431636241,Enskede gard
+2013-03-06,Pastellvägen 13,Enskede Gård,Grön Hagsätra,2,55,null,Lägenhet,1943,[Johanneshov],1895000,25000,1920000,3177,HusmanHagberg,275.96275189047043,Blasut
+2013-03-05,Odelbergsvägen 29,Enskede Gård,Grön Hagsätra,1.5,47,null,Lägenhet,1931,[Enskede Gård],1795000,205000,2000000,1763,Notar,82.31640589904967,Enskede gard
+2013-03-04,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,54,null,Lägenhet,1946,[Gullmarsplan],1975000,25000,2000000,3532,Notar,306.27094391479216,Gullmarsplan
+2013-02-28,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,40,1,Lägenhet,null,[Johanneshov],1750000,30000,1780000,2349,Mäklarhuset,320.0362343597097,Blasut
+2013-02-25,Pastellvägen 11,Enskede Gård,Grön Hagsätra,2,50,null,Lägenhet,1942,[Johanneshov],2095000,35000,2130000,2846,Fastighetsbyrån,320.0362343597097,Blasut
+2013-02-25,Pastellvägen 17,Enskede Gård,Grön Hagsätra,2,50,null,Lägenhet,1943,[Globen],1990000,0,1990000,1748,SkandiaMäklarna,199.88871165772406,Blasut
+2013-02-23,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,3,66,null,Lägenhet,1944,[Globen],2595000,315000,2910000,4349,Bjurfors,278.6546520646587,Globen
+2013-02-21,Lindevägen 44,Enskede Gård,Grön Hagsätra,3,75.5,null,Lägenhet,1989,[Enskede Gård],1900000,0,1900000,4964,HusmanHagberg,402.70361719804,Enskede gard
+2013-02-21,Lindevägen 50,Enskede Gård,Grön Hagsätra,2,72,3,Lägenhet,null,[Enskede Gård],1850000,55000,1905000,4829,Mäklarhuset,381.1681186496314,Enskede gard
+2013-02-20,Konstgjutarvägen 38,Enskede Gård,Grön Hagsätra,1,24.5,null,Lägenhet,1944,[Gullmarsplan],1250000,230000,1480000,1680,Notar,226.9819354936263,Globen
+2013-02-11,Konstgjutarvägen 24,Enskede Gård,Grön Hagsätra,2,40,null,Lägenhet,1944,[Johanneshov],1780000,0,1780000,2758,Svensk Fastighetsförmedling,65.3159138267647,Globen
+2013-02-03,Bildhuggarvägen 8,Enskede Gård,Grön Hagsätra,2,51,1,Lägenhet,1944,[Johanneshov],1895000,420000,2315000,2612,Svensk Fastighetsförmedling,136.81096226467113,Globen
+2013-02-02,Blåsutvägen 31,Enskede Gård,Grön Hagsätra,2,58,null,Lägenhet,null,[Blåsut],1750000,170000,1920000,null,Mäklarringen,152.03031863551078,Blasut
+2013-02-01,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,48,null,Lägenhet,1944,[Johanneshov],2095000,80000,2175000,3164,Fastighetsbyrån,278.6546520646587,Globen
+2013-01-31,Grafikvägen 8,Enskede Gård,Grön Hagsätra,3,65,null,Lägenhet,1946,[Johanneshov],2895000,-195000,2700000,2916,Fastighetsbyrån,189.74690325427392,Gullmarsplan
+2013-01-29,Odelbergsvägen 27,Enskede Gård,Grön Hagsätra,3,104,null,Lägenhet,1931,[Enskede],4200000,-400000,3800000,3751,Bjurfors,104.79917273772706,Enskede gard
+2013-01-28,Grafikvägen 13,Enskede Gård,Grön Hagsätra,2,46,0.5,Lägenhet,null,[Gullmarsplan],1900000,470000,2370000,2075,Erik Olsson Fastighetsförmedling,242.55135931043057,Gullmarsplan
+2013-01-27,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,41,null,Lägenhet,null,[Gullmarsplan],1895000,50000,1945000,null,Mäklarringen,278.6546520646587,Globen
+2013-01-25,Sofielundsplan 53,Enskede Gård,Grön Hagsätra,3,57,null,Lägenhet,1944,[Globen],1995000,135000,2130000,1900,HusmanHagberg,110.168957899001,Blasut
+2013-01-24,Konstgjutarvägen 48,Enskede Gård,Grön Hagsätra,2,56,null,Lägenhet,1945,[Johanneshov],2190000,220000,2410000,2865,Fastighetsbyrån,258.931324241355,Globen
+2013-01-23,Grafikvägen 13,Enskede Gård,Grön Hagsätra,3,70,null,Lägenhet,1946,[Johanneshov],2995000,155000,3150000,3046,Fastighetsbyrån,242.55135931043057,Gullmarsplan
+2013-01-23,Pastellvägen 16,Enskede Gård,Grön Hagsätra,1,38,null,Lägenhet,1943,[Globen],1600000,0,1600000,2415,Bjurfors,302.88877617189826,Blasut
+2013-01-18,Etsarvägen 2,Enskede Gård,Grön Hagsätra,3,70.5,6,Lägenhet,1946,[Johanneshov],3300000,0,3300000,3409,Länsförsäkringar Fastighetsförmedling,352.17775364343896,Gullmarsplan
+2013-01-17,Odelbergsvägen 29,Enskede Gård,Grön Hagsätra,2,51,2,Lägenhet,null,[Enskede Gård],2000000,370000,2370000,1914,Erik Olsson Fastighetsförmedling,82.31640589904967,Enskede gard
+2013-01-16,Lindevägen 54,Enskede Gård,Grön Hagsätra,3,75.5,3,Lägenhet,null,[Enskede Gård],2290000,0,2290000,5060,Mäklarhuset,374.69652889966915,Enskede gard
+2013-01-10,Artistvägen 2,Enskede Gård,Grön Hagsätra,2,47,null,Lägenhet,1943,[Blåsut],1850000,150000,2000000,2503,SkandiaMäklarna,174.22504808604484,Blasut
+2013-01-05,Artistvägen 2,Enskede Gård,Grön Hagsätra,2,47,2.5,Lägenhet,1943,[Skärmarbrink],1850000,75000,1925000,2503,Notar,174.22504808604484,Blasut
+2012-12-21,Konstgjutarvägen 4,Enskede Gård,Grön Hagsätra,1,35,2,Lägenhet,null,[Johanneshov],1595000,365000,1960000,1021,Erik Olsson Fastighetsförmedling,160.11798743830545,Globen
+2012-12-20,Palmfeltsvägen 47,Enskede Gård,Grön Hagsätra,1,43,3,Lägenhet,1932,[Enskede Gård],1695000,25000,1720000,2398,SkandiaMäklarna,70.39346917589945,Enskede gard
+2012-12-17,Grafikvägen 17,Enskede Gård,Grön Hagsätra,2,46,null,Lägenhet,1946,[Johanneshov],1595000,325000,1920000,1821,Svensk Fastighetsförmedling,279.40736012764165,Gullmarsplan
+2012-12-17,Grafikvägen 17,Enskede Gård,Grön Hagsätra,1,29,null,Lägenhet,1946,[Johanneshov],1195000,305000,1500000,1148,Svensk Fastighetsförmedling,279.40736012764165,Gullmarsplan
+2012-12-17,Grafikvägen 17,Enskede Gård,Grön Hagsätra,1,26,null,Lägenhet,1946,[Johanneshov],1395000,230000,1625000,1029,Svensk Fastighetsförmedling,279.40736012764165,Gullmarsplan
+2012-12-13,Grafikvägen 13,Enskede Gård,Grön Hagsätra,6.5,125,null,Lägenhet,null,[Johanneshov],4495000,30000,4525000,5567,Fastighetsbyrån,242.55135931043057,Gullmarsplan
+2012-12-11,Skulptörvägen 3,Enskede Gård,Grön Hagsätra,2,54,null,Lägenhet,1944,[Johanneshov],1950000,50000,2000000,2843,Fastighetsbyrån,190.37871488635437,Globen
+2012-12-11,Grafikvägen 15,Enskede Gård,Grön Hagsätra,1,26,2,Lägenhet,null,[Gullmarsplan],1400000,210000,1610000,1029,Erik Olsson Fastighetsförmedling,266.9296375383185,Gullmarsplan
+2012-12-11,Bildhuggarvägen 17,Enskede Gård,Grön Hagsätra,3,60,null,Lägenhet,1944,[Johanneshov],2150000,-50000,2100000,3394,Svensk Fastighetsförmedling,105.51280091073778,Globen
+2012-12-09,Pastellvägen 17,Enskede Gård,Grön Hagsätra,2,59,null,Lägenhet,1943,[Johanneshov],2350000,165000,2515000,2420,Svensk Fastighetsförmedling,199.88871165772406,Blasut
+2012-12-05,Odelbergsvägen 34,Enskede Gård,Grön Hagsätra,4,94,null,Lägenhet,2008,[Enskede gård],4195000,-335000,3860000,6101,Fastighetsbyrån,64.18845481653622,Enskede gard
+2012-12-02,Planterarvägen 17,Enskede Gård,Grön Hagsätra,3,74.5,null,Lägenhet,1988,[Enskede],2495000,-145000,2350000,4829,Mäklarringen,402.4699316950476,Enskede gard
+2012-11-30,Grafikvägen 17,Enskede Gård,Grön Hagsätra,1,36,null,Lägenhet,1946,[Johanneshov],1660000,0,1660000,1425,Svensk Fastighetsförmedling,279.40736012764165,Gullmarsplan
+2012-11-29,Skulptörvägen 9,Enskede Gård,Grön Hagsätra,3,61,null,Lägenhet,1944,[Johanneshov],2495000,-95000,2400000,3516,Fastighetsbyrån,232.47179637497297,Globen
+2012-11-23,Pastellvägen 11,Enskede Gård,Grön Hagsätra,1,33,4,Lägenhet,1943,[Skärmarbrink],1495000,55000,1550000,1940,Notar,320.0362343597097,Blasut
+2012-11-21,Pastellvägen 14,Enskede Gård,Grön Hagsätra,3,82,2,Lägenhet,1943,[Johanneshov],2495000,0,2495000,4182,Svensk Fastighetsförmedling,330.1727783847137,Blasut
+2012-11-15,Skulptörvägen 17,Enskede Gård,Grön Hagsätra,2,48,6,Lägenhet,1944,[Johanneshov],1995000,55000,2050000,3200,Svensk Fastighetsförmedling,286.9465816685034,Globen
+2012-11-15,Pastellvägen 11,Enskede Gård,Grön Hagsätra,1,33,3,Lägenhet,null,[Johanneshov],1450000,170000,1620000,1961,Länsförsäkringar Fastighetsförmedling,320.0362343597097,Blasut
+2012-11-13,Grafikvägen 30,Enskede Gård,Grön Hagsätra,2,68,2,Lägenhet,1946,[Gullmarsplan],2295000,-95000,2200000,3696,Svenska Mäklarhuset,334.7840883408478,Globen
+2012-11-13,Grafikvägen 30,Enskede Gård,Grön Hagsätra,2,68,2,Lägenhet,1946,[Gullmarsplan],2295000,-95000,2200000,3696,Svenska Mäklarhuset,334.7840883408478,Globen
+2012-11-08,Grafikvägen 22,Enskede Gård,Grön Hagsätra,2,44,2,Lägenhet,null,[Gullmarsplan],1950000,-100000,1850000,2069,Erik Olsson Fastighetsförmedling,303.7642591471342,Gullmarsplan
+2012-11-08,Odelbergsvägen 23,Enskede Gård,Grön Hagsätra,1,45,3,Lägenhet,1932,[Enskede],1750000,160000,1910000,2685,Svensk Fastighetsförmedling,155.05287400676517,Enskede gard
+2012-11-04,Gullmarsvägen 9,Enskede Gård,Grön Hagsätra,3,73,6,Lägenhet,1946,[Johanneshov],2995000,-95000,2900000,2942,Svensk Fastighetsförmedling,192.86509921629536,Gullmarsplan
+2012-11-02,Bildhuggarvägen 8,Enskede Gård,Grön Hagsätra,3,64,5,Lägenhet,null,[Globen],2695000,195000,2890000,2975,Bjurfors,136.81096226467113,Globen
+2012-10-31,Bildhuggarvägen 33,Enskede Gård,Grön Hagsätra,3,60,2,Lägenhet,1945,[Johanneshov],2195000,155000,2350000,2956,Svensk Fastighetsförmedling,248.7124973347441,Globen
+2012-10-30,Konstgjutarvägen 4,Enskede Gård,Grön Hagsätra,2,47,null,Lägenhet,1945,[Johanneshov],1975000,145000,2120000,1308,Balders Ädelmarks,160.11798743830545,Globen
+2012-10-25,Skulptörvägen 15,Enskede Gård,Grön Hagsätra,2,48,null,Lägenhet,1944,[Johanneshov],1850000,0,1850000,2943,Fastighetsbyrån,278.6546520646587,Globen
+2012-10-10,Gullmarsvägen 12,Enskede Gård,Grön Hagsätra,2,58,null,Lägenhet,1946,[Johanneshov],2195000,0,2195000,3794,Fastighetsbyrån,306.27094391479216,Gullmarsplan
+2012-10-07,Skulptörvägen 9,Enskede Gård,Grön Hagsätra,2.5,52,null,Lägenhet,1944,[Johanneshov],1850000,-50000,1800000,2997,Fastighetsbyrån,232.47179637497297,Globen
+2012-10-07,Pastellvägen 17,Enskede Gård,Grön Hagsätra,1.5,40,null,Lägenhet,1943,[Johanneshov],1695000,115000,1810000,1664,Fastighetsbyrån,199.88871165772406,Blasut
+2012-09-30,Sofielundsplan 42,Enskede Gård,Grön Hagsätra,2,57,2,Lägenhet,1944,[Johanneshov],1695000,105000,1800000,2330,Svensk Fastighetsförmedling,172.5623953350753,Blasut
+2012-09-19,Konstgjutarvägen 20,Enskede Gård,Grön Hagsätra,3,63,null,Lägenhet,1944,[Johanneshov],2190000,140000,2330000,3203,Fastighetsbyrån,42.55386135015981,Globen
+2012-09-15,Grafikvägen 32,Enskede Gård,Grön Hagsätra,3,68,null,Lägenhet,1946,[Johanneshov],2495000,155000,2650000,3696,Fastighetsbyrån,318.11396791020354,Globen
+2012-09-08,Skulptörvägen 16,Enskede Gård,Grön Hagsätra,3,83.5,null,Lägenhet,null,[Johanneshov],2850000,-140000,2710000,5513,Svensk Fastighetsförmedling,266.10776010871535,Globen
+2012-09-07,Odelbergsvägen 23,Enskede Gård,Grön Hagsätra,1,47,3,Lägenhet,1932,[Enskede],1795000,130000,1925000,2776,Svensk Fastighetsförmedling,155.05287400676517,Enskede gard
+2012-09-05,Etsarvägen 2,Enskede Gård,Grön Hagsätra,1,20,null,Lägenhet,null,[Johanneshov],1095000,145000,1240000,1094,Svensk Fastighetsförmedling,352.17775364343896,Gullmarsplan
