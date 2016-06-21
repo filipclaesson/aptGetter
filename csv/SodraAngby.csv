@@ -1,0 +1,7 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-03-05,Ehrenstrahlsvägen 17,SodraAngby,GronHasselby,6,110,null,Villa,null,null,10000000,-900000,9100000,null,HEM Fastighetsmäklare Sverige AB,422.71103084710916,Angbyplan
+2014-11-18,Färjestadsvägen 4B,SodraAngby,GronHasselby,3,77,4,Lägenhet,2002,[Bromma],4295000,755000,5050000,5026,Svenska Mäklarhuset,107.0641685577962,Angbyplan
+2014-05-13,Hasselbergsvägen 22,SodraAngby,GronHasselby,8,245,null,Villa,1939,[Bromma Södra Ängby],9900000,225000,10125000,null,HusmanHagberg,338.2304603193889,Angbyplan
+2014-05-09,Blackebergsvägen 50,SodraAngby,GronHasselby,4,50,null,Fritidshus,1921,[Bromma],1395000,-95000,1300000,null,SkandiaMäklarna,887.9452586817728,Angbyplan
+2014-03-10,Hasselbergsvägen 22,SodraAngby,GronHasselby,8,245,null,Villa,1939,[Bromma],10800000,-1000000,9800000,null,StjärnMäklarna AB,338.2304603193889,Angbyplan
+2014-02-15,Färjestadsvägen 4B,SodraAngby,GronHasselby,3,74.5,2,Lägenhet,2002,[Södra Ängby],3395000,-195000,3200000,4938,Länsförsäkringar Fastighetsförmedling,107.0641685577962,Angbyplan

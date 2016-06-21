@@ -1,0 +1,887 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-16,Erstagatan 13,Sofia,Sodermalm,2,41,4,Lägenhet,1905,[Sofia],3195000,635000,3830000,2095,Fastighetsbyrån,945.1033966729465,Medborgarplatsen
+2016-06-16,Skånegatan 109,Sofia,Sodermalm,2.5,75,4,Lägenhet,1929,[Södermalm],5500000,800000,6300000,4205,SkandiaMäklarna,893.6619977866724,Medborgarplatsen
+2016-06-14,Folkungagatan 146,Sofia,Sodermalm,1,35,null,Lägenhet,1914,[Södermalm],2600000,460000,3060000,1719,SkandiaMäklarna,1006.5128402416885,Medborgarplatsen
+2016-06-10,Åsögatan 192,Sofia,Sodermalm,1.5,45,0,Lägenhet,1930,[Södermalm-Sofia],3200000,0,3200000,2215,Södermäklarna,992.4489703261547,Medborgarplatsen
+2016-06-10,Erstagatan 16,Sofia,Sodermalm,1.5,49,1.5,Lägenhet,1929,[Södermalm-Sofo],3395000,55000,3450000,2904,Södermäklarna,927.3344836494736,Medborgarplatsen
+2016-06-10,Sågargatan 14,Sofia,Sodermalm,1.5,41,3,Lägenhet,1929,[Sofia],2695000,405000,3100000,2445,Fastighetsbyrån,988.8910597595583,Medborgarplatsen
+2016-06-09,Bondegatan 79,Sofia,Sodermalm,1.5,42,3,Lägenhet,1929,[Södermalm-Sofia],3200000,-400000,2800000,2517,Södermäklarna,1244.845366466725,Medborgarplatsen
+2016-06-09,Ljusterögatan 14,Sofia,Sodermalm,3,70,2,Lägenhet,1935,[Södermalm-Sofia],4950000,825000,5775000,2710,Södermäklarna,944.4153888226994,Skanstull
+2016-06-08,Åsögatan 172,Sofia,Sodermalm,1,32,5,Lägenhet,1884,[Södermalm],2350000,425000,2775000,1697,SkandiaMäklarna,698.0762865726547,Medborgarplatsen
+2016-06-07,Barnängsgatan 21B,Sofia,Sodermalm,3,82.5,4,Lägenhet,2003,[Sofia],5750000,1150000,6900000,5064,HusmanHagberg,1174.5777915166736,Skanstull
+2016-06-04,Åsögatan 181,Sofia,Sodermalm,2,49,2,Lägenhet,1929,[Södermalm],3495000,230000,3725000,2496,SkandiaMäklarna,895.7342097049998,Medborgarplatsen
+2016-06-04,Duvnäsgatan 1,Sofia,Sodermalm,3,63,1.5,Lägenhet,1925,[Södermalm],4750000,700000,5450000,3095,Fastighetsbyrån,1194.9317677061745,Medborgarplatsen
+2016-06-03,Sågargatan 14,Sofia,Sodermalm,2,41,3,Lägenhet,1929,[Katarina],2995000,505000,3500000,2445,Notar,988.8910597595583,Medborgarplatsen
+2016-06-02,Åsögatan 168,Sofia,Sodermalm,2,54,5,Lägenhet,1883,[Nytorget-Södermalm],3375000,395000,3770000,3108,Innerstadsspecialisten AB,650.2703046211248,Medborgarplatsen
+2016-06-02,Kocksgatan 60B,Sofia,Sodermalm,1,45,2,Lägenhet,1904,[Södermalm],3575000,175000,3750000,1959,Bostadsrättsspecialisten,664.526420482435,Medborgarplatsen
+2016-06-01,Tegelviksgatan 61,Sofia,Sodermalm,3,93.5,null,Lägenhet,1997,[Södermalm Sofia],6490000,310000,6800000,6966,Bjurfors,1297.6039102743273,Skanstull
+2016-05-31,Sågargatan 16,Sofia,Sodermalm,1,29,2,Lägenhet,1930,[Södermalm],2195000,635000,2830000,2384,Svensk Fastighetsförmedling,976.4134487623032,Medborgarplatsen
+2016-05-31,Beckbrännarbacken 7,Sofia,Sodermalm,2.5,78,2,Lägenhet,null,[Södermalm],5490000,0,5490000,3620,BOSTHLM,870.0755978960551,Medborgarplatsen
+2016-05-27,Skånegatan 107,Sofia,Sodermalm,3,76,3,Lägenhet,1929,[Södermalm],5650000,890000,6540000,3951,SkandiaMäklarna,871.3930847663086,Medborgarplatsen
+2016-05-27,Klippgatan 14G,Sofia,Sodermalm,1,28,2,Lägenhet,1930,[Södermalm],1895000,640000,2535000,1634,Wrede,763.2696951670483,Medborgarplatsen
+2016-05-26,Stigbergsgatan 32A,Sofia,Sodermalm,1.5,36,null,Lägenhet,1930,[Sofia],2495000,685000,3180000,1753,Fastighetsbyrån,854.7959684531146,Medborgarplatsen
+2016-05-25,Klippgatan 14E,Sofia,Sodermalm,2,47,1.5,Lägenhet,null,[Södermalm],2995000,485000,3480000,2738,Svenska Mäklarhuset,783.4179768364972,Medborgarplatsen
+2016-05-25,Beckbrännarbacken 6,Sofia,Sodermalm,2,47,3,Lägenhet,1928,[Södermalm],2995000,630000,3625000,2858,Notar,789.3067371243711,Medborgarplatsen
+2016-05-25,Tegelviksgatan 38,Sofia,Sodermalm,3,73,1,Lägenhet,2003,[Södermalm],4495000,770000,5265000,4668,Erik Olsson Fastighetsförmedling,1254.1139527358284,Skanstull
+2016-05-25,Ploggatan 20,Sofia,Sodermalm,3,78,0.5,Lägenhet,1910,[Södermalm],5800000,0,5800000,4264,ERA,1016.4255885551021,Medborgarplatsen
+2016-05-25,Gaveliusgatan 8,Sofia,Sodermalm,3,63,4,Lägenhet,1932,[Södermalm Sofia],4450000,1860000,6310000,2557,HusmanHagberg,1055.135420048044,Skanstull
+2016-05-25,Erstagatan 30,Sofia,Sodermalm,2,39,3,Lägenhet,1863,[Södermalm],3095000,925000,4020000,2041,Svensk Fastighetsförmedling,923.7476081503632,Medborgarplatsen
+2016-05-20,Åsögatan 163,Sofia,Sodermalm,1,36,4,Lägenhet,1927,[Södermalm Sofia],2875000,785000,3660000,967,HusmanHagberg,651.5643098852942,Medborgarplatsen
+2016-05-20,Sågargatan 17,Sofia,Sodermalm,1,23,null,Lägenhet,1929,[Södermalm],1795000,355000,2150000,1673,Mäklarringen,1004.5539100404002,Medborgarplatsen
+2016-05-20,Åsögatan 167,Sofia,Sodermalm,3,85,5,Lägenhet,1909,[Södermalm],7500000,0,7500000,4472,Historiska Hem AB,690.0333891795333,Medborgarplatsen
+2016-05-19,Bondegatan 64A,Sofia,Sodermalm,2,39,4,Lägenhet,1916,[Sofia],2795000,630000,3425000,2565,Fastighetsbyrån,709.4805892081536,Medborgarplatsen
+2016-05-19,Klippgatan 14D,Sofia,Sodermalm,2,47,1,Lägenhet,1929,[Södermalm-Sofia],3575000,0,3575000,2466,Södermäklarna,793.542700601228,Medborgarplatsen
+2016-05-19,Skånegatan 113,Sofia,Sodermalm,3,69,3,Lägenhet,null,[Södermalm],5650000,0,5650000,3876,BOSTHLM,980.5152870347678,Medborgarplatsen
+2016-05-19,Erstagatan 26,Sofia,Sodermalm,2,45,2,Lägenhet,1912,[Sofia],3395000,805000,4200000,2056,Fastighetsbyrån,916.5209640118194,Medborgarplatsen
+2016-05-19,Gaveliusgatan 10,Sofia,Sodermalm,2,56,4,Lägenhet,1933,[Södermalm Sofia],3895000,2155000,6050000,3156,HusmanHagberg,1078.8867365478454,Skanstull
+2016-05-18,Erstagatan 11,Sofia,Sodermalm,2,44,2,Lägenhet,1903,[Katarina],3150000,450000,3600000,2165,Notar,946.4233242046763,Medborgarplatsen
+2016-05-18,Renstiernas gata 23,Sofia,Sodermalm,1,39,3,Lägenhet,1927,[Nytorget],2795000,815000,3610000,1009,Fastighetsbyrån,609.7440990199623,Medborgarplatsen
+2016-05-17,Tegelviksgatan 69,Sofia,Sodermalm,3,73,3,Lägenhet,1997,[Södermalm],4500000,0,4500000,5744,Erik Olsson Fastighetsförmedling,1270.3662179110424,Skanstull
+2016-05-13,Klippgatan 14,Sofia,Sodermalm,1.5,36,null,Lägenhet,1929,[Södermalm Sofia],2695000,355000,3050000,1921,HusmanHagberg,811.230753303547,Medborgarplatsen
+2016-05-13,Kocksgatan 55,Sofia,Sodermalm,2,36,1,Lägenhet,1939,[Sofia],2695000,705000,3400000,1652,Fastighetsbyrån,676.0639434781705,Medborgarplatsen
+2016-05-12,Tegelviksgatan 38,Sofia,Sodermalm,3,74.5,3,Lägenhet,null,[Sofia],4295000,1455000,5750000,4636,Fastighetsbyrån,1254.1139527358284,Skanstull
+2016-05-11,Åsögatan 174,Sofia,Sodermalm,1,24,5,Lägenhet,1930,[Södermalm],1995000,505000,2500000,1350,SkandiaMäklarna,756.3360357020542,Medborgarplatsen
+2016-05-11,Åsögatan 189,Sofia,Sodermalm,1,41,3,Lägenhet,null,[Södermalm],2650000,450000,3100000,2060,BOSTHLM,978.1147014574385,Medborgarplatsen
+2016-05-10,Erstagatan 20,Sofia,Sodermalm,1,38,4,Lägenhet,1930,[Sofia],2795000,505000,3300000,1117,Fastighetsbyrån,922.9909832296341,Medborgarplatsen
+2016-05-09,Klippgatan 14E,Sofia,Sodermalm,2,47,3,Lägenhet,1929,[Södermalm],3595000,95000,3690000,2509,Mäklarhuset,783.4179768364972,Medborgarplatsen
+2016-05-06,Kocksgatan 55,Sofia,Sodermalm,1.5,36,2,Lägenhet,1939,[Södermalm],2800000,250000,3050000,1652,Notar,676.0639434781705,Medborgarplatsen
+2016-05-04,Tegelviksgatan 51,Sofia,Sodermalm,3,78,3,Lägenhet,1999,[Södermalm],4500000,450000,4950000,4933,SkandiaMäklarna,1332.2089512026926,Skanstull
+2016-05-04,Alsnögatan 24,Sofia,Sodermalm,1.5,35,5,Lägenhet,1999,[Södermalm Sofia],1995000,590000,2585000,3154,HusmanHagberg,1506.0078913256775,Skanstull
+2016-05-04,Klippgatan 14H,Sofia,Sodermalm,2,45,4,Lägenhet,1929,[Södermalm],3695000,155000,3850000,2597,Alexander White Fastighetsmäkleri,813.4805017647982,Medborgarplatsen
+2016-05-03,Tengdahlsgatan 42,Sofia,Sodermalm,4,76,7,Lägenhet,1997,[Södermalm],5750000,1750000,7500000,4841,SkandiaMäklarna,1300.1917636544003,Skanstull
+2016-04-30,Åsögatan 192,Sofia,Sodermalm,2,58,2,Lägenhet,1930,[Katarina],3995000,505000,4500000,2834,Notar,992.4489703261547,Medborgarplatsen
+2016-04-29,Stigbergsgatan 35,Sofia,Sodermalm,3.5,74,0,Lägenhet,1919,[Södermalm],6950000,550000,7500000,3154,Per Jansson Fastighetsförmedling,828.8343744960384,Medborgarplatsen
+2016-04-28,Klippgatan 14,Sofia,Sodermalm,2,48,3,Lägenhet,null,[Södermalm],3995000,1515000,5510000,2551,Svenska Mäklarhuset,811.230753303547,Medborgarplatsen
+2016-04-27,Åsögatan 196,Sofia,Sodermalm,2,38,2,Lägenhet,1931,[Sofia],2695000,705000,3400000,2296,Fastighetsbyrån,1051.5128632927092,Medborgarplatsen
+2016-04-27,Folkungagatan 146A,Sofia,Sodermalm,2,44,4,Lägenhet,1914,[Sofia],3395000,405000,3800000,1261,Svensk Fastighetsförmedling,1006.5128402416885,Medborgarplatsen
+2016-04-27,Ploggatan 1,Sofia,Sodermalm,1,37,4,Lägenhet,1929,[Södermalm],2850000,685000,3535000,1702,Södermäklarna,1079.968542293226,Medborgarplatsen
+2016-04-27,Åsögatan 198,Sofia,Sodermalm,1,25,4,Lägenhet,1929,[Södermalm Sofia],1995000,690000,2685000,1259,Bjurfors,1101.2746870889468,Medborgarplatsen
+2016-04-25,Alsnögatan 24,Sofia,Sodermalm,4,80.5,2,Lägenhet,1999,[Södermalm],5300000,750000,6050000,6106,Berggren Hörle,1506.0078913256775,Skanstull
+2016-04-24,Åsögatan 192,Sofia,Sodermalm,2,44,1.5,Lägenhet,1930,[Sofia],2995000,595000,3590000,2178,Fastighetsbyrån,992.4489703261547,Medborgarplatsen
+2016-04-22,Bondegatan 64B,Sofia,Sodermalm,2,44,1.5,Lägenhet,1916,[Södermalm Sofia],3295000,805000,4100000,2543,Bjurfors,718.414986752604,Medborgarplatsen
+2016-04-22,Erstagatan 16,Sofia,Sodermalm,1,30,1,Lägenhet,1929,[Södermalm],2195000,625000,2820000,1777,Fantastic Frank Fastighetsmäkleri,927.3344836494736,Medborgarplatsen
+2016-04-22,Sågargatan 14,Sofia,Sodermalm,1,22,1,Lägenhet,1930,[Södermalm Sofia],1950000,400000,2350000,1371,HusmanHagberg,988.8910597595583,Medborgarplatsen
+2016-04-22,Färgargårdstorget 76,Sofia,Sodermalm,4,104,2,Lägenhet,1981,[Södermalm Sofia],6950000,400000,7350000,4439,HusmanHagberg,1036.927498007047,Skanstull
+2016-04-20,Åsögatan 173,Sofia,Sodermalm,3,71,0.5,Lägenhet,1929,[Sofia],5250000,0,5250000,3514,Fastighetsbyrån,758.1973892051598,Medborgarplatsen
+2016-04-20,Åsögatan 189,Sofia,Sodermalm,1,41,1,Lägenhet,1909,[Södermalm],2650000,460000,3110000,2060,Svensk Fastighetsförmedling,978.1147014574385,Medborgarplatsen
+2016-04-20,Tegelviksgatan 81,Sofia,Sodermalm,3,67,3,Lägenhet,1997,[Södermalm],3950000,600000,4550000,4495,SkandiaMäklarna,1251.421440771563,Skanstull
+2016-04-18,Åsögatan 192,Sofia,Sodermalm,1.5,38.5,5,Lägenhet,1930,[Södermalm],3150000,700000,3850000,2196,SkandiaMäklarna,992.4489703261547,Medborgarplatsen
+2016-04-15,Åsögatan 174,Sofia,Sodermalm,1,22.5,3,Lägenhet,1930,[Södermalm],1995000,615000,2610000,1253,SkandiaMäklarna,756.3360357020542,Medborgarplatsen
+2016-04-13,Erstagatan 28,Sofia,Sodermalm,4,116,3,Lägenhet,1929,[Södermalm],9050000,0,9050000,5940,BOSTHLM,921.7180740727589,Medborgarplatsen
+2016-04-13,Åsögatan 167,Sofia,Sodermalm,2,64,2,Lägenhet,1909,[Södermalm],4780000,1645000,6425000,3181,Historiska Hem AB,690.0333891795333,Medborgarplatsen
+2016-04-10,Sågargatan 16,Sofia,Sodermalm,3,59,1,Lägenhet,1930,[Södermalm],4700000,510000,5210000,3413,Mäklarringen,976.4134487623032,Medborgarplatsen
+2016-04-09,Klippgatan 14F,Sofia,Sodermalm,2,37,3,Lägenhet,1930,[Sofia],2875000,225000,3100000,2072,Fastighetsbyrån,811.230753303547,Medborgarplatsen
+2016-04-08,Åsögatan 161,Sofia,Sodermalm,2,69,3,Lägenhet,1927,[Katarina],4995000,1055000,6050000,1785,Notar,617.6503814057769,Medborgarplatsen
+2016-04-07,Åsögatan 176,Sofia,Sodermalm,1.5,34.5,4,Lägenhet,1930,[Sofia],2475000,700000,3175000,1976,Fastighetsbyrån,792.2979687474641,Medborgarplatsen
+2016-04-07,Åsögatan 176,Sofia,Sodermalm,1,21,2,Lägenhet,1930,[Södermalm],2095000,545000,2640000,1042,Edward & Partners Fastighetsmäklare AB,792.2979687474641,Medborgarplatsen
+2016-04-06,Åsögatan 181,Sofia,Sodermalm,2,49,2,Lägenhet,1929,[Södermalm],3750000,490000,4240000,2496,Notar,895.7342097049998,Medborgarplatsen
+2016-04-03,Folkungagatan 142,Sofia,Sodermalm,1,26,null,Lägenhet,1916,[Södermalm],2250000,650000,2900000,918,Gripsholms Fastighetsförmedling,972.6260458912766,Medborgarplatsen
+2016-04-01,Klippgatan 21,Sofia,Sodermalm,1,17.5,3,Lägenhet,1924,[Katarina],1700000,625000,2325000,1262,Notar,834.0523590455762,Medborgarplatsen
+2016-04-01,Gaveliusgatan 6,Sofia,Sodermalm,3,78,1,Lägenhet,1932,[Södermalm],5475000,625000,6100000,2789,Mäklarhuset,1011.3566430478453,Skanstull
+2016-03-29,Åsögatan 194,Sofia,Sodermalm,3,87,5,Lägenhet,null,[Södermalm],6950000,2125000,9075000,4308,Svenska Mäklarhuset,1025.691587015106,Medborgarplatsen
+2016-03-24,Bondegatan 45,Sofia,Sodermalm,2,43,1.5,Lägenhet,1930,[Södermalm],2895000,605000,3500000,2312,Fastighetsbyrån,761.7698735833129,Medborgarplatsen
+2016-03-24,Bondegatan 74B,Sofia,Sodermalm,4.5,118,2,Lägenhet,null,[Sofia],7995000,2055000,10050000,6209,Svensk Fastighetsförmedling,881.7717296048816,Medborgarplatsen
+2016-03-24,Bondegatan 74A,Sofia,Sodermalm,3,108,5,Lägenhet,1914,[Sofia],8795000,1330000,10125000,5578,Svensk Fastighetsförmedling,879.1438653002407,Medborgarplatsen
+2016-03-24,Beckbrännarbacken 7,Sofia,Sodermalm,3,78,1,Lägenhet,1929,[Södermalm],5795000,305000,6100000,3615,Innerstadsspecialisten AB,870.0755978960551,Medborgarplatsen
+2016-03-23,Beckbrännarbacken 6,Sofia,Sodermalm,1,29,0.5,Lägenhet,1929,[Södermalm Sofia],2250000,490000,2740000,1741,Bjurfors,789.3067371243711,Medborgarplatsen
+2016-03-23,Alsnögatan 22,Sofia,Sodermalm,2,41.1,1,Lägenhet,null,[Södermalm],2750000,730000,3480000,2510,BOSTHLM,1492.0180821326555,Skanstull
+2016-03-22,Sågargatan 17,Sofia,Sodermalm,3,62,2,Lägenhet,1929,[Södermalm],4150000,510000,4660000,4638,Fantastic Frank Fastighetsmäkleri,1004.5539100404002,Medborgarplatsen
+2016-03-19,Kocksgatan 51,Sofia,Sodermalm,1,26,null,Lägenhet,null,[Södermalm],2195000,505000,2700000,2275,BOSTHLM,640.8917436755619,Medborgarplatsen
+2016-03-19,Tegelviksgatan 61,Sofia,Sodermalm,3,93.5,6,Lägenhet,1997,[Sofia],5795000,735000,6530000,7095,Fastighetsbyrån,1297.6039102743273,Skanstull
+2016-03-18,Bondegatan 81,Sofia,Sodermalm,3,88,2,Lägenhet,1929,[Sofia],5500000,800000,6300000,5220,Fastighetsbyrån,1255.6091343409848,Medborgarplatsen
+2016-03-17,Bondegatan 72A,Sofia,Sodermalm,3,97,2,Lägenhet,1923,[Södermalm],6995000,905000,7900000,5216,Erik Olsson Fastighetsförmedling,861.8178292485591,Medborgarplatsen
+2016-03-17,Erstagatan 20,Sofia,Sodermalm,1.5,52,2,Lägenhet,1929,[Södermalm-Sofia],3150000,750000,3900000,1325,Södermäklarna,922.9909832296341,Medborgarplatsen
+2016-03-17,Bondegatan 64,Sofia,Sodermalm,1,35,4,Lägenhet,1916,[Södermalm Sofia],2695000,105000,2800000,2062,Bjurfors,717.0549890915464,Medborgarplatsen
+2016-03-17,Klippgatan 14E,Sofia,Sodermalm,1,26,11,Lägenhet,1930,[Södermalm],1995000,655000,2650000,1228,SkandiaMäklarna,783.4179768364972,Medborgarplatsen
+2016-03-17,Renstiernas gata 41A,Sofia,Sodermalm,2,62,2,Lägenhet,null,[Södermalm],4695000,1005000,5700000,3777,Svenska Mäklarhuset,715.2300449205745,Skanstull
+2016-03-16,Folkungagatan 128,Sofia,Sodermalm,3,68,3,Lägenhet,1929,[Sofia],4995000,1755000,6750000,2845,Fastighetsbyrån,793.845447737374,Medborgarplatsen
+2016-03-16,Tegelviksgatan 75,Sofia,Sodermalm,3,67,1,Lägenhet,1997,[Södermalm Sofia],3890000,635000,4525000,4307,HusmanHagberg,1255.4624319303584,Skanstull
+2016-03-12,Ploggatan 18,Sofia,Sodermalm,2,46,2,Lägenhet,1910,[Södermalm],3450000,500000,3950000,2469,Behrer & Partners,1018.545517268757,Medborgarplatsen
+2016-03-11,Åsögatan 182,Sofia,Sodermalm,1,36,3,Lägenhet,1943,[Södermalm],2595000,305000,2900000,2019,Länsförsäkringar Fastighetsförmedling,879.4815359655742,Medborgarplatsen
+2016-03-10,Åsögatan 185,Sofia,Sodermalm,2,48,1,Lägenhet,1905,[Södermalm],3475000,585000,4060000,2445,SkandiaMäklarna,951.3966874468464,Medborgarplatsen
+2016-03-08,Renstiernas gata 47,Sofia,Sodermalm,1,42,0.5,Lägenhet,1881,[Södermalm],2495000,535000,3030000,2872,Erik Olsson Fastighetsförmedling,690.9832151967053,Skanstull
+2016-03-08,Borgmästargatan 10B,Sofia,Sodermalm,1,24,6,Lägenhet,1884,[Södermalm Sofia],1995000,915000,2910000,1388,Bjurfors,714.7084540334708,Medborgarplatsen
+2016-03-03,Stigbergsgatan 32A,Sofia,Sodermalm,2,40,3,Lägenhet,1930,[Södermalm],2995000,730000,3725000,1666,Fantastic Frank Fastighetsmäkleri,854.7959684531146,Medborgarplatsen
+2016-03-02,Stigbergsgatan 32B,Sofia,Sodermalm,2,44,1,Lägenhet,1929,[Södermalm],3295000,605000,3900000,1897,Erik Olsson Fastighetsförmedling,832.2803510110391,Medborgarplatsen
+2016-03-02,Nackagatan 16,Sofia,Sodermalm,3,72.5,7,Lägenhet,1997,[Södermalm Sofia],4650000,1040000,5690000,5315,Bjurfors,1343.8023302271652,Skanstull
+2016-03-01,Tegelviksgatan 45,Sofia,Sodermalm,3,80,2,Lägenhet,1999,[Södermalm],4975000,435000,5410000,4977,HusmanHagberg,1366.912026413632,Skanstull
+2016-02-26,Kocksgatan 51,Sofia,Sodermalm,2,36,1.5,Lägenhet,1939,[Södermalm],2595000,205000,2800000,2946,Södermäklarna,640.8917436755619,Medborgarplatsen
+2016-02-26,Klippgatan 14B,Sofia,Sodermalm,1,35,3,Lägenhet,1929,[Södermalm],2695000,445000,3140000,2019,Mäklarhuset,813.1208461238265,Medborgarplatsen
+2016-02-25,Stigbergsgatan 32B,Sofia,Sodermalm,2,44,1,Lägenhet,1929,[Södermalm],3295000,755000,4050000,1897,Erik Olsson Fastighetsförmedling,832.2803510110391,Medborgarplatsen
+2016-02-25,Sågargatan 16,Sofia,Sodermalm,2,59,2,Lägenhet,1930,[Södermalm],3995000,955000,4950000,3410,Svensk Fastighetsförmedling,976.4134487623032,Medborgarplatsen
+2016-02-24,Åsögatan 167,Sofia,Sodermalm,1,22,1,Lägenhet,1910,[Södermalm Sofia],1850000,710000,2560000,1166,HusmanHagberg,690.0333891795333,Medborgarplatsen
+2016-02-22,Skånegatan 105A,Sofia,Sodermalm,1,27,5,Lägenhet,1924,[Södermalm Sofia],2475000,950000,3425000,1890,Bjurfors,844.9890370655353,Medborgarplatsen
+2016-02-18,Alsnögatan 26,Sofia,Sodermalm,3,81.5,2,Lägenhet,1999,[Katarina],5700000,300000,6000000,5964,Notar,1516.842069589175,Skanstull
+2016-02-18,Tegelviksgatan 73,Sofia,Sodermalm,3,72,6,Lägenhet,1997,[Södermalm Sofia],4490000,1310000,5800000,4594,HusmanHagberg,1249.8142907275865,Skanstull
+2016-02-18,Folkungagatan 101,Sofia,Sodermalm,1.5,42,4,Lägenhet,1975,[Södermalm],2995000,455000,3450000,1215,Mäklarringen,632.4172003243742,Medborgarplatsen
+2016-02-18,Åsögatan 192,Sofia,Sodermalm,2,44,5,Lägenhet,1930,[Sofia],3250000,1025000,4275000,2301,Fastighetsbyrån,992.4489703261547,Medborgarplatsen
+2016-02-13,Ploggatan 16,Sofia,Sodermalm,1,36,1,Lägenhet,null,[Södermalm],2650000,400000,3050000,2102,Svenska Mäklarhuset,1020.8021220457769,Medborgarplatsen
+2016-02-12,Klippgatan 14D,Sofia,Sodermalm,1,26,3,Lägenhet,1930,[Södermalm],2175000,495000,2670000,1324,SkandiaMäklarna,793.542700601228,Medborgarplatsen
+2016-02-12,Ploggatan 5,Sofia,Sodermalm,2,50,4,Lägenhet,1883,[Sofia],3450000,490000,3940000,2526,Fastighetsbyrån,1066.711752260238,Medborgarplatsen
+2016-02-11,Borgmästargatan 10B,Sofia,Sodermalm,1,28,3,Lägenhet,1884,[Södermalm],2275000,935000,3210000,1592,SkandiaMäklarna,714.7084540334708,Medborgarplatsen
+2016-02-11,Tegelviksgatan 81,Sofia,Sodermalm,3,77,6,Lägenhet,1997,[Södermalm-Sofia],3995000,1035000,5030000,5009,Södermäklarna,1251.421440771563,Skanstull
+2016-02-10,Tegelviksgatan 34,Sofia,Sodermalm,3,73,1.5,Lägenhet,2003,[Södermalm],4375000,1225000,5600000,4668,Erik Olsson Fastighetsförmedling,1267.5088294742618,Skanstull
+2016-02-10,Klippgatan 14,Sofia,Sodermalm,1,42,null,Lägenhet,1929,[Katarina],2995000,565000,3560000,2353,Notar,811.230753303547,Medborgarplatsen
+2016-02-10,Bondegatan 63,Sofia,Sodermalm,1,34,2,Lägenhet,1932,[Katarina],2495000,355000,2850000,2313,Notar,1024.3166719667283,Medborgarplatsen
+2016-02-07,Kocksgatan 55,Sofia,Sodermalm,2.5,54,1,Lägenhet,1939,[Södermalm],3775000,575000,4350000,2299,Mäklarhuset,676.0639434781705,Medborgarplatsen
+2016-02-03,Åsögatan 189,Sofia,Sodermalm,1,41,4,Lägenhet,1904,[Södermalm],2750000,700000,3450000,2060,SkandiaMäklarna,978.1147014574385,Medborgarplatsen
+2016-02-03,Renstiernas gata 47,Sofia,Sodermalm,2.5,70,4,Lägenhet,1884,[Södermalm],3875000,1675000,5550000,4265,SkandiaMäklarna,690.9832151967053,Skanstull
+2016-02-02,Borgmästargatan 9,Sofia,Sodermalm,2,36,2,Lägenhet,1929,[Södermalm],2750000,770000,3520000,1843,Svensk Fastighetsförmedling,734.4617779392341,Medborgarplatsen
+2016-01-30,Bondegatan 63,Sofia,Sodermalm,1,25,5,Lägenhet,1932,[Södermalm],2395000,405000,2800000,2227,Edward & Partners Fastighetsmäklare AB,1024.3166719667283,Medborgarplatsen
+2016-01-28,Klippgatan 14C,Sofia,Sodermalm,1.5,37.5,3,Lägenhet,1930,[Södermalm],2500000,600000,3100000,2162,SkandiaMäklarna,799.5876386380705,Medborgarplatsen
+2016-01-28,Sågargatan 17,Sofia,Sodermalm,1,22,2.5,Lägenhet,1929,[Södermalm Sofia],1950000,600000,2550000,1673,HusmanHagberg,1004.5539100404002,Medborgarplatsen
+2016-01-28,Sågargatan 17,Sofia,Sodermalm,1,35,2,Lägenhet,1929,[Södermalm],2495000,425000,2920000,2661,Erik Olsson Fastighetsförmedling,1004.5539100404002,Medborgarplatsen
+2016-01-23,Åsögatan 175,Sofia,Sodermalm,2,48,3,Lägenhet,1929,[Södermalm],3825000,0,3825000,2758,Behrer & Partners,776.54493366353,Medborgarplatsen
+2016-01-22,Bondegatan 80,Sofia,Sodermalm,2,51,1,Lägenhet,1942,[Södermalm],3495000,630000,4125000,3195,Fantastic Frank Fastighetsmäkleri,976.7492956838395,Medborgarplatsen
+2016-01-22,Kocksgatan 58,Sofia,Sodermalm,2,46,0,Lägenhet,1904,[Sofia],3495000,675000,4170000,1993,Svensk Fastighetsförmedling,638.9938192639604,Medborgarplatsen
+2016-01-21,Borgmästargatan 9,Sofia,Sodermalm,2,37,4,Lägenhet,1929,[Katarina],2895000,705000,3600000,2072,Notar,734.4617779392341,Medborgarplatsen
+2016-01-21,Renstiernas gata 27,Sofia,Sodermalm,4.5,80,6,Lägenhet,1959,[Södermalm Sofia],6475000,1225000,7700000,1517,HusmanHagberg,623.8578763818416,Medborgarplatsen
+2016-01-21,Nackagatan 22,Sofia,Sodermalm,3,87,4,Lägenhet,1997,[Södermalm],5950000,500000,6450000,6361,Mäklarhuset,1383.5620783889378,Skanstull
+2016-01-20,Folkungagatan 128,Sofia,Sodermalm,1,26,1,Lägenhet,1928,[Södermalm-Sofia],1995000,755000,2750000,1085,Södermäklarna,793.845447737374,Medborgarplatsen
+2016-01-19,Åsögatan 185,Sofia,Sodermalm,1,35,1.5,Lägenhet,1905,[Sofia],2595000,925000,3520000,1886,Fastighetsbyrån,951.3966874468464,Medborgarplatsen
+2016-01-14,Ringvägen 163,Sofia,Sodermalm,2,59,5,Lägenhet,1905,[Södermalm-Sofia],4200000,700000,4900000,2141,Södermäklarna,678.1292395244859,Skanstull
+2016-01-12,Tengdahlsgatan 43,Sofia,Sodermalm,3,70,5,Lägenhet,1997,[Sofia],3900000,735000,4635000,5392,Fastighetsbyrån,1298.8754469583505,Skanstull
+2016-01-12,Bondegatan 45,Sofia,Sodermalm,2,46,3,Lägenhet,1929,[Södermalm],3175000,525000,3700000,2603,Erik Olsson Fastighetsförmedling,761.7698735833129,Medborgarplatsen
+2016-01-12,Åsögatan 176,Sofia,Sodermalm,1,34,5,Lägenhet,1930,[Södermalm Sofia],2495000,770000,3265000,1765,Bjurfors,792.2979687474641,Medborgarplatsen
+2015-12-16,Ploggatan 2,Sofia,Sodermalm,2,38,1,Lägenhet,null,[Södermalm],2650000,770000,3420000,2295,Svenska Mäklarhuset,1056.8338146072992,Medborgarplatsen
+2015-12-13,Folkungagatan 146B,Sofia,Sodermalm,2,61,1,Lägenhet,1914,[Södermalm],4275000,100000,4375000,2996,SkandiaMäklarna,1011.0277068574795,Medborgarplatsen
+2015-12-11,Folkungagatan 114,Sofia,Sodermalm,2,52,1,Lägenhet,1939,[Katarina],3650000,350000,4000000,2233,Notar,655.0875111841284,Medborgarplatsen
+2015-12-10,Sågargatan 8,Sofia,Sodermalm,4,114,2,Lägenhet,1909,[Södermalm],7975000,225000,8200000,4958,ERA,1005.8919435458569,Medborgarplatsen
+2015-12-09,Klippgatan 14C,Sofia,Sodermalm,1,23,3,Lägenhet,1930,[Södermalm],1895000,715000,2610000,1347,SkandiaMäklarna,799.5876386380705,Medborgarplatsen
+2015-12-09,Tegelviksgatan 45,Sofia,Sodermalm,3,80,2,Lägenhet,1999,[Södermalm],4850000,150000,5000000,4977,HusmanHagberg,1366.912026413632,Skanstull
+2015-12-09,Folkungagatan 142,Sofia,Sodermalm,1,26,2,Lägenhet,null,[Södermalm],2800000,50000,2850000,918,Gripsholms Fastighetsförmedling,972.6260458912766,Medborgarplatsen
+2015-12-09,Bondegatan 55,Sofia,Sodermalm,2,48,4,Lägenhet,1912,[Södermalm],3650000,1310000,4960000,2166,Fantastic Frank Fastighetsmäkleri,879.9140707643412,Medborgarplatsen
+2015-12-06,Bondegatan 79,Sofia,Sodermalm,1,24,3,Lägenhet,null,[Södermalm],1895000,515000,2410000,1439,ERA,1244.845366466725,Medborgarplatsen
+2015-12-04,Borgmästargatan 4A,Sofia,Sodermalm,1,36,4,Lägenhet,1936,[Södermalm Sofia],2650000,600000,3250000,2144,Bjurfors,711.1421841301816,Medborgarplatsen
+2015-12-04,Erstagatan 16,Sofia,Sodermalm,1.5,46,2,Lägenhet,1929,[Sofia],2895000,780000,3675000,2725,Fastighetsbyrån,927.3344836494736,Medborgarplatsen
+2015-12-02,Åsögatan 170,Sofia,Sodermalm,1,43,3,Lägenhet,1914,[Södermalm],3250000,660000,3910000,1013,Per Jansson Fastighetsförmedling,674.6427717089324,Medborgarplatsen
+2015-12-02,Tegelviksgatan 66,Sofia,Sodermalm,3,62,null,Lägenhet,1997,[Södermalm],4650000,1160000,5810000,5342,Innerstadsspecialisten AB,1200.8997339651416,Skanstull
+2015-11-27,Bondegatan 64,Sofia,Sodermalm,3,86,4,Lägenhet,1916,[Södermalm-Sofo],6690000,0,6690000,5050,Södermäklarna,717.0549890915464,Medborgarplatsen
+2015-11-26,Bondegatan 60,Sofia,Sodermalm,3,81.6,6,Lägenhet,1967,[Södermalm],5250000,1000000,6250000,3304,SkandiaMäklarna,683.9175374713293,Medborgarplatsen
+2015-11-26,Nackagatan 18,Sofia,Sodermalm,4,82.8,1.5,Lägenhet,1997,[Norra Hammarbyhamnen],4795000,505000,5300000,5933,RE/MAX Sverige,1359.9218620264285,Skanstull
+2015-11-20,Erstagatan 22,Sofia,Sodermalm,2,65,4,Lägenhet,1939,[Södermalm],4500000,820000,5320000,3428,SkandiaMäklarna,916.9753360731191,Medborgarplatsen
+2015-11-19,Lilla Erstagatan 6,Sofia,Sodermalm,1,35,1,Lägenhet,1930,[Södermalm],2750000,550000,3300000,1706,Södermäklarna,861.6787416053237,Medborgarplatsen
+2015-11-19,Erstagatan 15,Sofia,Sodermalm,3,87,1,Lägenhet,1905,[Sofia],6700000,420000,7120000,3911,Fastighetsbyrån,943.8860029315421,Medborgarplatsen
+2015-11-18,Åsögatan 185,Sofia,Sodermalm,1,36,0.5,Lägenhet,1905,[Sofia],2495000,405000,2900000,1921,Svensk Fastighetsförmedling,951.3966874468464,Medborgarplatsen
+2015-11-13,Folkungagatan 101,Sofia,Sodermalm,1,29,2,Lägenhet,1975,[Sofia],2095000,605000,2700000,951,Fastighetsbyrån,632.4172003243742,Medborgarplatsen
+2015-11-12,Tegelviksgatan 33,Sofia,Sodermalm,3,108.7,6,Lägenhet,2000,[Katarina],6495000,1105000,7600000,6103,Notar,1413.029796143846,Skanstull
+2015-11-12,Folkungagatan 128,Sofia,Sodermalm,1.5,36,5,Lägenhet,1929,[Sofia],2600000,900000,3500000,1575,Fastighetsbyrån,793.845447737374,Medborgarplatsen
+2015-11-12,Tegelviksgatan 49,Sofia,Sodermalm,3,91,1,Lägenhet,1999,[Sofia],4495000,1235000,5730000,5455,Svensk Fastighetsförmedling,1343.9675874773166,Skanstull
+2015-11-05,Gruvbacken 4,Sofia,Sodermalm,1.5,45,1,Lägenhet,null,[Södermalm],2990000,550000,3540000,2696,BOSTHLM,1222.6325855815687,Medborgarplatsen
+2015-11-03,Skånegatan 105B,Sofia,Sodermalm,1,22,3,Lägenhet,1924,[Södermalm],1895000,430000,2325000,1361,SkandiaMäklarna,844.9890370655353,Medborgarplatsen
+2015-11-03,Bondegatan 80,Sofia,Sodermalm,2,33,2,Lägenhet,1938,[Södermalm],2950000,-25000,2925000,2113,Mäklarhuset,976.7492956838395,Medborgarplatsen
+2015-11-03,Folkungagatan 142,Sofia,Sodermalm,1,26,1,Lägenhet,1916,[Södermalm],2195000,465000,2660000,858,Notar,972.6260458912766,Medborgarplatsen
+2015-11-03,Sågargatan 14,Sofia,Sodermalm,1,21,3,Lägenhet,1929,[Katarina],1995000,525000,2520000,1252,Notar,988.8910597595583,Medborgarplatsen
+2015-11-03,Alsnögatan 26,Sofia,Sodermalm,3,81,3,Lägenhet,1999,[Södermalm],4995000,1605000,6600000,4836,Notar,1516.842069589175,Skanstull
+2015-10-30,Nackagatan 18,Sofia,Sodermalm,4,82,5,Lägenhet,1997,[Södermalm],4795000,705000,5500000,6162,Svensk Fastighetsförmedling,1359.9218620264285,Skanstull
+2015-10-30,Tegelviksgatan 30,Sofia,Sodermalm,2,50.5,1,Lägenhet,2006,[Södermalm],3195000,235000,3430000,3712,Mäklarhuset,1294.8042320369404,Skanstull
+2015-10-23,Beckbrännarbacken 6,Sofia,Sodermalm,2,47,1,Lägenhet,1929,[Södermalm Sofia],3500000,500000,4000000,2758,Bjurfors,789.3067371243711,Medborgarplatsen
+2015-10-23,Renstiernas gata 45,Sofia,Sodermalm,2,45,5,Lägenhet,1882,[Södermalm],3250000,-200000,3050000,3231,SkandiaMäklarna,698.5029820017251,Skanstull
+2015-10-23,Erstagatan 16,Sofia,Sodermalm,2,55,0.5,Lägenhet,1928,[Sofia],3295000,235000,3530000,3259,Svensk Fastighetsförmedling,927.3344836494736,Medborgarplatsen
+2015-10-22,Erstagatan 7,Sofia,Sodermalm,1,35,5,Lägenhet,1915,[Södermalm],2695000,595000,3290000,1078,Svensk Fastighetsförmedling,950.7267980547396,Medborgarplatsen
+2015-10-22,Åsögatan 167,Sofia,Sodermalm,2,62,3,Lägenhet,1909,[Södermalm],4350000,500000,4850000,3075,SkandiaMäklarna,690.0333891795333,Medborgarplatsen
+2015-10-21,Ljusterögatan 14,Sofia,Sodermalm,3,70,1,Lägenhet,1936,[Södermalm],5600000,0,5600000,2488,BOSTHLM,944.4153888226994,Skanstull
+2015-10-21,Folkungagatan 112,Sofia,Sodermalm,2,63,4,Lägenhet,1927,[Sofia],4750000,900000,5650000,2678,Fastighetsbyrån,649.8363032307553,Medborgarplatsen
+2015-10-15,Renstiernas gata 25,Sofia,Sodermalm,4.5,86,4,Lägenhet,1884,[Sofia],6950000,880000,7830000,3752,Fastighetsbyrån,618.0468382819893,Medborgarplatsen
+2015-10-15,Renstiernas gata 27,Sofia,Sodermalm,1,25,7,Lägenhet,1959,[Södermalm],2150000,770000,2920000,595,SkandiaMäklarna,623.8578763818416,Medborgarplatsen
+2015-10-14,Skånegatan 105A,Sofia,Sodermalm,1,30,0,Lägenhet,1924,[Södermalm],1995000,535000,2530000,1676,Svensk Fastighetsförmedling,844.9890370655353,Medborgarplatsen
+2015-10-14,Ploggatan 2,Sofia,Sodermalm,1,36,2,Lägenhet,1931,[Södermalm],2495000,355000,2850000,2231,Svensk Fastighetsförmedling,1056.8338146072992,Medborgarplatsen
+2015-10-13,Sågargatan 14,Sofia,Sodermalm,1,21,3,Lägenhet,1929,[Sofia],1975000,625000,2600000,1252,Fastighetsbyrån,988.8910597595583,Medborgarplatsen
+2015-10-13,Klippgatan 14,Sofia,Sodermalm,2,38.5,3,Lägenhet,1930,[Sofia],2850000,700000,3550000,1858,Fastighetsbyrån,811.230753303547,Medborgarplatsen
+2015-10-08,Folkungagatan 112,Sofia,Sodermalm,1.5,45,1,Lägenhet,1927,[Södermalm],2995000,715000,3710000,2359,Fastighetsmäklarna,649.8363032307553,Medborgarplatsen
+2015-10-08,Beckbrännarbacken 1,Sofia,Sodermalm,1.5,40,3,Lägenhet,1929,[Södermalm],2750000,600000,3350000,2221,Mäklarhuset,842.3928216733993,Medborgarplatsen
+2015-10-08,Bondegatan 60,Sofia,Sodermalm,3,81.6,4,Lägenhet,1968,[Södermalm-Sofia],5395000,905000,6300000,3253,Södermäklarna,683.9175374713293,Medborgarplatsen
+2015-10-08,Klippgatan 14D,Sofia,Sodermalm,2.5,47,2,Lägenhet,1930,[Södermalm Sofia],2990000,1010000,4000000,2466,HusmanHagberg,793.542700601228,Medborgarplatsen
+2015-10-08,Borgmästargatan 4A,Sofia,Sodermalm,2,38,4,Lägenhet,1936,[Södermalm Sofia],2990000,540000,3530000,2409,Bjurfors,711.1421841301816,Medborgarplatsen
+2015-10-08,Bondegatan 74A,Sofia,Sodermalm,4,96,4,Lägenhet,1914,[Sofia],6495000,1155000,7650000,5103,Fastighetsbyrån,879.1438653002407,Medborgarplatsen
+2015-10-07,Ploggatan 16,Sofia,Sodermalm,2,46,3,Lägenhet,1910,[Södermalm],3295000,755000,4050000,2460,Diplomat Fastighetsmäkleri AB,1020.8021220457769,Medborgarplatsen
+2015-10-07,Folkungagatan 128,Sofia,Sodermalm,1.5,36,3,Lägenhet,1929,[Södermalm],2695000,745000,3440000,1453,Svensk Fastighetsförmedling,793.845447737374,Medborgarplatsen
+2015-10-03,Skånegatan 107,Sofia,Sodermalm,3,76,2,Lägenhet,1929,[Södermalm],4990000,2810000,7800000,3951,SkandiaMäklarna,871.3930847663086,Medborgarplatsen
+2015-10-02,Åsögatan 189,Sofia,Sodermalm,1,41,2,Lägenhet,1904,[Södermalm],2750000,475000,3225000,2060,SkandiaMäklarna,978.1147014574385,Medborgarplatsen
+2015-10-01,Bondegatan 45,Sofia,Sodermalm,2,37,4,Lägenhet,1930,[Sofia],2850000,700000,3550000,2125,Fastighetsbyrån,761.7698735833129,Medborgarplatsen
+2015-09-30,Skånegatan 105B,Sofia,Sodermalm,1,31,4,Lägenhet,1924,[Södermalm Sofia],2350000,680000,3030000,2205,HusmanHagberg,844.9890370655353,Medborgarplatsen
+2015-09-30,Folkungagatan 136A,Sofia,Sodermalm,1,30,4,Lägenhet,1929,[Sofia],2095000,880000,2975000,1703,Fastighetsbyrån,891.0176937859892,Medborgarplatsen
+2015-09-24,Åsögatan 176,Sofia,Sodermalm,1,32,2,Lägenhet,1929,[Södermalm],2395000,805000,3200000,1878,Notar,792.2979687474641,Medborgarplatsen
+2015-09-23,Tegelviksgatan 64,Sofia,Sodermalm,2,61,-1,Lägenhet,1997,[Södermalm Sofia],4475000,375000,4850000,5293,HusmanHagberg,1202.7146291946071,Skanstull
+2015-09-23,Tegelviksgatan 30,Sofia,Sodermalm,3,70,4,Lägenhet,2006,[Södermalm],4390000,280000,4670000,5012,Svensk Fastighetsförmedling,1294.8042320369404,Skanstull
+2015-09-17,Ploggatan 10,Sofia,Sodermalm,2,48,2,Lägenhet,1910,[Södermalm],3295000,605000,3900000,2639,Mäklarhuset,1028.4167264857053,Medborgarplatsen
+2015-09-17,Renstiernas gata 27,Sofia,Sodermalm,4,82,4,Lägenhet,1959,[Södermalm Sofia],5975000,925000,6900000,1547,HusmanHagberg,623.8578763818416,Medborgarplatsen
+2015-09-17,Erstagatan 30,Sofia,Sodermalm,1,38,1.5,Lägenhet,1901,[Södermalm],2995000,555000,3550000,2043,Svensk Fastighetsförmedling,923.7476081503632,Medborgarplatsen
+2015-09-17,Åsögatan 173,Sofia,Sodermalm,3,71,2,Lägenhet,1929,[Södermalm],5300000,1100000,6400000,3514,Södermäklarna,758.1973892051598,Medborgarplatsen
+2015-09-16,Beckbrännarbacken 1,Sofia,Sodermalm,1.5,31,null,Lägenhet,1929,[Sofia],2195000,605000,2800000,1670,Fastighetsbyrån,842.3928216733993,Medborgarplatsen
+2015-09-16,Bondegatan 63,Sofia,Sodermalm,2,53,2,Lägenhet,1932,[Sofia],2995000,755000,3750000,2880,Fastighetsbyrån,1024.3166719667283,Medborgarplatsen
+2015-09-16,Bondegatan 45,Sofia,Sodermalm,2,47,2,Lägenhet,1930,[Södermalm],3300000,630000,3930000,2275,SkandiaMäklarna,761.7698735833129,Medborgarplatsen
+2015-09-13,Folkungagatan 128,Sofia,Sodermalm,1.5,40,2,Lägenhet,1929,[Södermalm Sofia],2790000,670000,3460000,1678,HusmanHagberg,793.845447737374,Medborgarplatsen
+2015-09-13,Gruvbacken 4,Sofia,Sodermalm,1.5,41,4,Lägenhet,1929,[Södermalm],2995000,415000,3410000,2505,Mäklarhuset,1222.6325855815687,Medborgarplatsen
+2015-09-11,Klippgatan 14,Sofia,Sodermalm,3,66,0,Lägenhet,1929,[Södermalm],4550000,750000,5300000,3138,Södermäklarna,811.230753303547,Medborgarplatsen
+2015-09-10,Gaveliusgatan 10,Sofia,Sodermalm,3,85,2,Lägenhet,1932,[Södermalm],5850000,650000,6500000,4390,Erik Olsson Fastighetsförmedling,1078.8867365478454,Skanstull
+2015-09-09,Borgmästargatan 4,Sofia,Sodermalm,2,34,3,Lägenhet,1937,[Södermalm],2600000,850000,3450000,2123,Fantastic Frank Fastighetsmäkleri,707.5353902850276,Medborgarplatsen
+2015-09-09,Folkungagatan 130,Sofia,Sodermalm,1.5,38,5,Lägenhet,1929,[Södermalm],2595000,615000,3210000,1658,Svensk Fastighetsförmedling,798.5589567103405,Medborgarplatsen
+2015-09-09,Skånegatan 113,Sofia,Sodermalm,2,57,2.5,Lägenhet,1933,[Södermalm-Sofia],3450000,160000,3610000,3030,Södermäklarna,980.5152870347678,Medborgarplatsen
+2015-09-09,Erstagatan 16,Sofia,Sodermalm,1,40,5,Lägenhet,1929,[Södermalm],null,NaN,2650000,null,Fredegårds Fastighetsbyrå AB,927.3344836494736,Medborgarplatsen
+2015-09-09,Stigbergsgatan 32,Sofia,Sodermalm,1,26,4,Lägenhet,1930,[Södermalm Sofia],2395000,580000,2975000,1244,HusmanHagberg,854.7959684531146,Medborgarplatsen
+2015-09-09,Renstiernas gata 27,Sofia,Sodermalm,1,28,4,Lägenhet,1959,[Södermalm],2295000,875000,3170000,659,SkandiaMäklarna,623.8578763818416,Medborgarplatsen
+2015-09-08,Åsögatan 175,Sofia,Sodermalm,3.5,86,3.5,Lägenhet,null,[Södermalm],6690000,810000,7500000,4739,WestEast,776.54493366353,Medborgarplatsen
+2015-09-07,Erstagatan 13,Sofia,Sodermalm,1,42,1,Lägenhet,1903,[Södermalm],2850000,400000,3250000,2130,Notar,945.1033966729465,Medborgarplatsen
+2015-09-06,Åsögatan 165,Sofia,Sodermalm,2,56,3.5,Lägenhet,1909,[Södermalm],4295000,1405000,5700000,2863,Erik Olsson Fastighetsförmedling,672.8643578983598,Medborgarplatsen
+2015-09-03,Skånegatan 105,Sofia,Sodermalm,2,53,3,Lägenhet,1924,[Södermalm],3975000,685000,4660000,3465,SkandiaMäklarna,844.9890370655353,Medborgarplatsen
+2015-09-03,Borgmästargatan 9,Sofia,Sodermalm,1,25.5,4,Lägenhet,1929,[Södermalm],2100000,565000,2665000,1231,SkandiaMäklarna,734.4617779392341,Medborgarplatsen
+2015-09-03,Renstiernas gata 23,Sofia,Sodermalm,1,41,4,Lägenhet,1927,[Södermalm Sofia],2990000,610000,3600000,1035,HusmanHagberg,609.7440990199623,Medborgarplatsen
+2015-09-02,Borgmästargatan 10B,Sofia,Sodermalm,1,31,4,Lägenhet,1884,[Södermalm],2350000,950000,3300000,1658,SkandiaMäklarna,714.7084540334708,Medborgarplatsen
+2015-08-28,Tegelviksgatan 65,Sofia,Sodermalm,4,97.5,null,Lägenhet,1997,[Södermalm],5695000,505000,6200000,6857,Fastighetsmäklarna,1278.0259527564092,Skanstull
+2015-08-28,Folkungagatan 160,Sofia,Sodermalm,1,44,3,Lägenhet,1991,[Katarina],2795000,705000,3500000,3447,Notar,1138.8937062061977,Medborgarplatsen
+2015-08-27,Renstiernas gata 27,Sofia,Sodermalm,4,82,3,Lägenhet,1959,[Södermalm Sofia],5975000,725000,6700000,1547,HusmanHagberg,623.8578763818416,Medborgarplatsen
+2015-08-27,Åsögatan 198,Sofia,Sodermalm,2,48,2,Lägenhet,1929,[Södermalm],3350000,360000,3710000,2112,Svensk Fastighetsförmedling,1101.2746870889468,Medborgarplatsen
+2015-08-26,Åsögatan 176,Sofia,Sodermalm,1,34.5,5,Lägenhet,1930,[Sofia],2595000,780000,3375000,2026,Fastighetsbyrån,792.2979687474641,Medborgarplatsen
+2015-08-25,Renstiernas gata 27,Sofia,Sodermalm,1,25,3,Lägenhet,1959,[Södermalm],2150000,700000,2850000,595,SkandiaMäklarna,623.8578763818416,Medborgarplatsen
+2015-08-20,Erstagatan 23,Sofia,Sodermalm,2,60,6,Lägenhet,1930,[Södermalm],4995000,655000,5650000,3352,Notar,941.9210067032147,Medborgarplatsen
+2015-08-20,Åsögatan 181,Sofia,Sodermalm,2,49,2,Lägenhet,1929,[Södermalm],3250000,1000000,4250000,2796,Notar,895.7342097049998,Medborgarplatsen
+2015-08-19,Bondegatan 45,Sofia,Sodermalm,2,37,2,Lägenhet,1930,[Södermalm],2490000,985000,3475000,1896,HusmanHagberg,761.7698735833129,Medborgarplatsen
+2015-08-19,Folkungagatan 112,Sofia,Sodermalm,2,45,4,Lägenhet,null,[Södermalm],3490000,640000,4130000,2105,Svenska Mäklarhuset,649.8363032307553,Medborgarplatsen
+2015-08-17,Nackagatan 14,Sofia,Sodermalm,4,98,6,Lägenhet,1997,[Södermalm],5475000,1080000,6555000,7400,Mäklarhuset,1328.305399150787,Skanstull
+2015-08-14,Renstiernas gata 13,Sofia,Sodermalm,1,30,3,Lägenhet,1883,[Södermalm],2190000,960000,3150000,789,Mäklarhuset,616.4041034444456,Medborgarplatsen
+2015-08-13,Tegelviksgatan 69,Sofia,Sodermalm,3,73,1,Lägenhet,1997,[Sofia],3995000,420000,4415000,5535,Fastighetsbyrån,1270.3662179110424,Skanstull
+2015-08-13,Borgmästargatan 9,Sofia,Sodermalm,1.5,37,3,Lägenhet,1929,[Södermalm],2695000,315000,3010000,2072,Svensk Fastighetsförmedling,734.4617779392341,Medborgarplatsen
+2015-08-12,Bondegatan 45,Sofia,Sodermalm,1,25,1,Lägenhet,null,[Södermalm],2075000,675000,2750000,1261,SkandiaMäklarna,761.7698735833129,Medborgarplatsen
+2015-08-12,Åsögatan 174,Sofia,Sodermalm,1,22.5,5,Lägenhet,1930,[Södermalm],1925000,710000,2635000,1302,SkandiaMäklarna,756.3360357020542,Medborgarplatsen
+2015-08-07,Tegelviksgatan 79,Sofia,Sodermalm,2,57,1,Lägenhet,1997,[Södermalm],0,3700000,3700000,3897,Svensk Fastighetsförmedling,1271.643456715247,Skanstull
+2015-08-06,Beckbrännarbacken 7,Sofia,Sodermalm,1,26,3,Lägenhet,1929,[Södermalm],2195000,655000,2850000,1142,Svensk Fastighetsförmedling,870.0755978960551,Medborgarplatsen
+2015-07-31,Bondegatan 81,Sofia,Sodermalm,1.5,48,4,Lägenhet,1929,[Sofia],2975000,725000,3700000,2905,Fastighetsbyrån,1255.6091343409848,Medborgarplatsen
+2015-07-20,Beckbrännarbacken 7,Sofia,Sodermalm,1,11,0.5,Lägenhet,1929,[Södermalm],1395000,455000,1850000,520,Svensk Fastighetsförmedling,870.0755978960551,Medborgarplatsen
+2015-07-20,Åsögatan 194,Sofia,Sodermalm,2,46,4,Lägenhet,1930,[Katarina],3250000,350000,3600000,2372,Notar,1025.691587015106,Medborgarplatsen
+2015-07-15,Tegelviksgatan 37,Sofia,Sodermalm,3,76.7,6,Lägenhet,2000,[Södermalm],5315000,0,5315000,4936,SkandiaMäklarna,1385.7252439094855,Skanstull
+2015-07-07,Kocksgatan 55,Sofia,Sodermalm,2,39,2,Lägenhet,1938,[Södermalm],2950000,410000,3360000,1760,Länsförsäkringar Fastighetsförmedling,676.0639434781705,Medborgarplatsen
+2015-07-04,Åsögatan 175,Sofia,Sodermalm,1,26,1,Lägenhet,1929,[Södermalm],1995000,605000,2600000,1692,Mäklarringen,776.54493366353,Medborgarplatsen
+2015-07-03,Folkungagatan 103,Sofia,Sodermalm,3,85,5,Lägenhet,1914,[Katarina],6250000,1260000,7510000,4239,Notar,659.1952164961291,Medborgarplatsen
+2015-07-03,Klippgatan 14I,Sofia,Sodermalm,2,47,1,Lägenhet,1929,[Sofia-Södermalm],3750000,960000,4710000,2551,Innerstadsspecialisten AB,801.3649360164274,Medborgarplatsen
+2015-07-02,Erstagatan 20,Sofia,Sodermalm,2,40,3,Lägenhet,1930,[Södermalm],2995000,525000,3520000,983,SkandiaMäklarna,922.9909832296341,Medborgarplatsen
+2015-07-01,Bondegatan 51,Sofia,Sodermalm,2,44,5,Lägenhet,1940,[Sofia-Södermalm],2995000,555000,3550000,2433,Innerstadsspecialisten AB,845.0744528277613,Medborgarplatsen
+2015-07-01,Åsögatan 185,Sofia,Sodermalm,1,33,null,Lägenhet,1903,[Södermalm],2195000,705000,2900000,1816,SkandiaMäklarna,951.3966874468464,Medborgarplatsen
+2015-06-27,Tegelviksgatan 37,Sofia,Sodermalm,3.5,83.4,7,Lägenhet,2000,[Södermalm],4975000,595000,5570000,5324,SkandiaMäklarna,1385.7252439094855,Skanstull
+2015-06-26,Bondegatan 63,Sofia,Sodermalm,2,55,4,Lägenhet,1932,[Södermalm Sofia],3495000,0,3495000,3101,Bjurfors,1024.3166719667283,Medborgarplatsen
+2015-06-26,Bondegatan 63,Sofia,Sodermalm,2.5,72,2,Lägenhet,1932,[Katarina],4495000,175000,4670000,3685,Notar,1024.3166719667283,Medborgarplatsen
+2015-06-24,Bondegatan 45,Sofia,Sodermalm,2,44,2.5,Lägenhet,1930,[Södermalm],3150000,275000,3425000,2457,ERA,761.7698735833129,Medborgarplatsen
+2015-06-24,Sågargatan 8,Sofia,Sodermalm,4,114,2,Lägenhet,1910,[Södermalm],8000000,-150000,7850000,4958,ERA,1005.8919435458569,Medborgarplatsen
+2015-06-17,Folkungagatan 158,Sofia,Sodermalm,2,54,3,Lägenhet,1991,[Södermalm],3095000,505000,3600000,3906,Svensk Fastighetsförmedling,1128.7291146170219,Medborgarplatsen
+2015-06-12,Borgmästargatan 10B,Sofia,Sodermalm,1,31,1,Lägenhet,1884,[Södermalm],2195000,655000,2850000,1606,SkandiaMäklarna,714.7084540334708,Medborgarplatsen
+2015-06-11,Folkungagatan 118,Sofia,Sodermalm,4,107,3,Lägenhet,1936,[Södermalm],6995000,0,6995000,2982,Mäklarhuset,698.7793363151756,Medborgarplatsen
+2015-06-11,Bondegatan 63,Sofia,Sodermalm,1,29,4,Lägenhet,1932,[Södermalm Sofia],1995000,555000,2550000,2177,Bjurfors,1024.3166719667283,Medborgarplatsen
+2015-06-11,Skånegatan 107,Sofia,Sodermalm,3,64,5,Lägenhet,1929,[Södermalm],4975000,555000,5530000,3662,SkandiaMäklarna,871.3930847663086,Medborgarplatsen
+2015-06-11,Åsögatan 182,Sofia,Sodermalm,1,34,1,Lägenhet,1943,[Södermalm],2395000,330000,2725000,null,Svensk Fastighetsförmedling,879.4815359655742,Medborgarplatsen
+2015-06-11,Renstiernas gata 41C,Sofia,Sodermalm,2,43,null,Lägenhet,null,[Södermalm],4225000,0,4225000,3088,BOSTHLM,736.1567647171094,Skanstull
+2015-06-10,Åsögatan 182,Sofia,Sodermalm,1.5,40,4,Lägenhet,1943,[Sofia],2600000,450000,3050000,2044,Fastighetsbyrån,879.4815359655742,Medborgarplatsen
+2015-06-10,Nackagatan 29,Sofia,Sodermalm,4,90,1,Lägenhet,1999,[Katarina],4750000,1400000,6150000,5567,Notar,1394.4022490584252,Skanstull
+2015-06-10,Sjökvarnsbacken 12,Sofia,Sodermalm,2.5,77,2,Lägenhet,2007,[Nacka],3950000,600000,4550000,4393,Notar,1977.4591870263982,Medborgarplatsen
+2015-06-10,Sågargatan 17,Sofia,Sodermalm,1,35,1,Lägenhet,1929,[Katarina],2195000,505000,2700000,2661,Notar,1004.5539100404002,Medborgarplatsen
+2015-06-09,Åsögatan 196,Sofia,Sodermalm,2,35,1.5,Lägenhet,1931,[Södermalm-Sofia],2495000,905000,3400000,2201,Södermäklarna,1051.5128632927092,Medborgarplatsen
+2015-06-04,Skånegatan 105A,Sofia,Sodermalm,1,22.5,5,Lägenhet,null,[Södermalm],1875000,655000,2530000,1577,Mäklarhuset,844.9890370655353,Medborgarplatsen
+2015-06-04,Bondegatan 79,Sofia,Sodermalm,1.5,42,5,Lägenhet,1929,[Sofia],2795000,315000,3110000,2567,Fastighetsbyrån,1244.845366466725,Medborgarplatsen
+2015-06-02,Klippgatan 21,Sofia,Sodermalm,1,34.5,3,Lägenhet,1924,[Södermalm],2395000,315000,2710000,2367,Notar,834.0523590455762,Medborgarplatsen
+2015-06-02,Skånegatan 105,Sofia,Sodermalm,1,22,4,Lägenhet,1924,[Södermalm Sofia],1995000,535000,2530000,1262,Bjurfors,844.9890370655353,Medborgarplatsen
+2015-05-30,Åsögatan 184,Sofia,Sodermalm,2,35,2,Lägenhet,1912,[Södermalm Sofia],2650000,525000,3175000,2077,Bjurfors,895.1079495775975,Medborgarplatsen
+2015-05-29,Erstagatan 15,Sofia,Sodermalm,2,44,1,Lägenhet,1905,[Sofia],2895000,205000,3100000,2305,Fastighetsbyrån,943.8860029315421,Medborgarplatsen
+2015-05-29,Erstagatan 30,Sofia,Sodermalm,2,38,2,Lägenhet,1863,[Södermalm Sofia],2750000,470000,3220000,2043,HusmanHagberg,923.7476081503632,Medborgarplatsen
+2015-05-29,Alsnögatan 30,Sofia,Sodermalm,2,67.3,5,Lägenhet,2000,[Södermalm-Sofia],4495000,525000,5020000,4110,Södermäklarna,1507.2094154585884,Skanstull
+2015-05-29,Adress saknas,Sofia,Sodermalm,4,81,0,Lägenhet,1999,[Södermalm],4850000,800000,5650000,3653,Södermäklarna,1492.039297328709,Skanstull
+2015-05-28,Ploggatan 1,Sofia,Sodermalm,3,64,1.5,Lägenhet,1929,[Sofia],3895000,605000,4500000,2815,Fastighetsbyrån,1079.968542293226,Medborgarplatsen
+2015-05-28,Lugnets Allé 25,Sofia,Sodermalm,2,48,5,Lägenhet,1906,[Södermalm-Katarina],3495000,780000,4275000,2156,Södermäklarna,1513.1240603737274,Skanstull
+2015-05-27,Åsögatan 173,Sofia,Sodermalm,2,45,1,Lägenhet,1929,[Sofia],2695000,655000,3350000,2414,Fastighetsbyrån,758.1973892051598,Medborgarplatsen
+2015-05-26,Åsögatan 168,Sofia,Sodermalm,1,31.5,1,Lägenhet,null,[Södermalm],3100000,0,3100000,1678,BOSTHLM,650.2703046211248,Medborgarplatsen
+2015-05-26,Bondegatan 80,Sofia,Sodermalm,2,50,1.5,Lägenhet,1942,[Södermalm],3195000,505000,3700000,3195,Wendell Fastighetsförmedling AB,976.7492956838395,Medborgarplatsen
+2015-05-26,Erstagatan 30,Sofia,Sodermalm,2,53,2,Lägenhet,1863,[Södermalm],3900000,0,3900000,2849,Fantastic Frank Fastighetsmäkleri,923.7476081503632,Medborgarplatsen
+2015-05-25,Åsögatan 196,Sofia,Sodermalm,1,41,0.5,Lägenhet,1931,[Södermalm],2495000,515000,3010000,2394,Erik Olsson Fastighetsförmedling,1051.5128632927092,Medborgarplatsen
+2015-05-23,Kocksgatan 51,Sofia,Sodermalm,2,35,1,Lägenhet,1939,[Södermalm],2395000,255000,2650000,2907,Mäklarhuset,640.8917436755619,Medborgarplatsen
+2015-05-21,Färgargårdstorget 60,Sofia,Sodermalm,2,80.5,5,Lägenhet,null,[Södermalm],4895000,675000,5570000,3440,Svenska Mäklarhuset,1086.0958137939476,Skanstull
+2015-05-20,Åsögatan 192,Sofia,Sodermalm,2,57.5,5,Lägenhet,1930,[Södermalm-Sofia],4500000,-150000,4350000,3039,Södermäklarna,992.4489703261547,Medborgarplatsen
+2015-05-19,Erstagatan 26,Sofia,Sodermalm,5,108,5,Lägenhet,null,[Södermalm],7250000,1500000,8750000,4917,Svenska Mäklarhuset,916.5209640118194,Medborgarplatsen
+2015-05-16,Klippgatan 14,Sofia,Sodermalm,1,28,3,Lägenhet,1930,[Uppgång],null,NaN,2580000,1634,SkandiaMäklarna,811.230753303547,Medborgarplatsen
+2015-05-14,Åsögatan 174,Sofia,Sodermalm,2,64,5,Lägenhet,null,[Södermalm],4895000,905000,5800000,3712,Notar,756.3360357020542,Medborgarplatsen
+2015-05-14,Tegelviksgatan 59,Sofia,Sodermalm,4,98,5,Lägenhet,1998,[Södermalm],4995000,1805000,6800000,7284,Living Fastighetsmäkleri,1304.3970921365426,Skanstull
+2015-05-13,Åsögatan 192,Sofia,Sodermalm,2,49.5,0.5,Lägenhet,1930,[Södermalm],3100000,350000,3450000,2409,Erik Olsson Fastighetsförmedling,992.4489703261547,Medborgarplatsen
+2015-05-13,Färgargårdstorget 96,Sofia,Sodermalm,3,69,3,Lägenhet,1981,[Södermalm Sofia],3990000,1635000,5625000,3018,HusmanHagberg,984.3676624455736,Skanstull
+2015-05-13,Barnängsgränd 6,Sofia,Sodermalm,3,74.5,6,Lägenhet,2003,[Södermalm-Sofia],4850000,800000,5650000,4636,Södermäklarna,1238.9274367613027,Skanstull
+2015-05-13,Bondegatan 74C,Sofia,Sodermalm,2,49,null,Lägenhet,1914,[Södermalm Sofia],3195000,880000,4075000,2613,HusmanHagberg,875.8923236519003,Medborgarplatsen
+2015-05-12,Bondegatan 45,Sofia,Sodermalm,2,62,3,Lägenhet,1930,[Sofia],4700000,720000,5420000,3613,Fastighetsbyrån,761.7698735833129,Medborgarplatsen
+2015-05-12,Åsögatan 165,Sofia,Sodermalm,1.5,null,4,Lägenhet,1909,[Södermalm],null,NaN,2795000,2034,Edgrens Fastighetsförmedling,672.8643578983598,Medborgarplatsen
+2015-05-12,Folkungagatan 128,Sofia,Sodermalm,1,34,1,Lägenhet,1929,[Södermalm Sofia],2495000,505000,3000000,1433,Bjurfors,793.845447737374,Medborgarplatsen
+2015-05-11,Tegelviksgatan 30,Sofia,Sodermalm,2,50.5,2,Lägenhet,2006,[Södermalm],3450000,-150000,3300000,3712,ERA,1294.8042320369404,Skanstull
+2015-05-10,Lilla Erstagatan 4,Sofia,Sodermalm,1,37,0.5,Lägenhet,1928,[Södermalm],2475000,300000,2775000,2238,SkandiaMäklarna,879.5521644931782,Medborgarplatsen
+2015-05-08,Bondegatan 81,Sofia,Sodermalm,2,46,2,Lägenhet,1929,[Södermalm],3190000,260000,3450000,2729,Erik Olsson Fastighetsförmedling,1255.6091343409848,Medborgarplatsen
+2015-05-07,Åsögatan 174,Sofia,Sodermalm,2,48,5,Lägenhet,1930,[Södermalm Sofia],3295000,155000,3450000,2603,Bjurfors,756.3360357020542,Medborgarplatsen
+2015-05-06,Tegelviksgatan 71,Sofia,Sodermalm,3,77,0.5,Lägenhet,1996,[Södermalm],3995000,605000,4600000,null,Svensk Fastighetsförmedling,1260.9074842207224,Skanstull
+2015-05-06,Erstagatan 13,Sofia,Sodermalm,2,42,3,Lägenhet,null,[Södermalm],3090000,210000,3300000,2130,BOSTHLM,945.1033966729465,Medborgarplatsen
+2015-05-05,Ploggatan 20,Sofia,Sodermalm,2,46,0.5,Lägenhet,1910,[Södermalm],2950000,50000,3000000,2471,Erik Olsson Fastighetsförmedling,1016.4255885551021,Medborgarplatsen
+2015-05-05,Sågargatan 14,Sofia,Sodermalm,1,21,0.5,Lägenhet,1929,[Södermalm],1895000,330000,2225000,1312,Erik Olsson Fastighetsförmedling,988.8910597595583,Medborgarplatsen
+2015-05-05,Tegelviksgatan 87,Sofia,Sodermalm,3.5,85,3,Lägenhet,1997,[Södermalm-Sofia],5495000,1555000,7050000,5437,Södermäklarna,1243.5852437058018,Skanstull
+2015-05-01,Renstiernas gata 43,Sofia,Sodermalm,3,72,4,Lägenhet,1882,[Sofia],6450000,50000,6500000,4387,Fastighetsbyrån,704.5256462511995,Skanstull
+2015-04-30,Bondegatan 51,Sofia,Sodermalm,4,64,3,Lägenhet,1940,[Sofia],4495000,985000,5480000,3471,Fastighetsbyrån,845.0744528277613,Medborgarplatsen
+2015-04-30,Skånegatan 113,Sofia,Sodermalm,1,33,2,Lägenhet,1933,[Södermalm],2700000,-90000,2610000,2123,Edward & Partners Fastighetsmäklare AB,980.5152870347678,Medborgarplatsen
+2015-04-29,Ploggatan 16,Sofia,Sodermalm,2,46,2,Lägenhet,1910,[Södermalm],3050000,600000,3650000,2460,SkandiaMäklarna,1020.8021220457769,Medborgarplatsen
+2015-04-29,Folkungagatan 114,Sofia,Sodermalm,1.5,35,2,Lägenhet,1939,[Södermalm],2650000,650000,3300000,1666,Mäklarhuset,655.0875111841284,Medborgarplatsen
+2015-04-29,Kocksgatan 55,Sofia,Sodermalm,2,37,3,Lägenhet,1939,[Södermalm],2875000,925000,3800000,1688,SkandiaMäklarna,676.0639434781705,Medborgarplatsen
+2015-04-29,Ploggatan 1,Sofia,Sodermalm,2,50,2,Lägenhet,1929,[Sofia],3495000,5000,3500000,2198,Fastighetsbyrån,1079.968542293226,Medborgarplatsen
+2015-04-28,Tengdahlsgatan 41,Sofia,Sodermalm,3,55.5,7,Lägenhet,1997,[Sofia],3325000,775000,4100000,4401,Fastighetsbyrån,1283.6272181856407,Skanstull
+2015-04-24,Tegelviksgatan 33,Sofia,Sodermalm,4,103,null,Lägenhet,2000,[Entréplan],5250000,1000000,6250000,4936,Svensk Fastighetsförmedling,1413.029796143846,Skanstull
+2015-04-24,Erstagatan 28B,Sofia,Sodermalm,5,116,1,Lägenhet,null,[Södermalm],7300000,1900000,9200000,5940,Mäklarhuset,910.9491953376346,Medborgarplatsen
+2015-04-23,Skånegatan 105,Sofia,Sodermalm,1,32.5,1,Lägenhet,1924,[Södermalm],2195000,555000,2750000,2284,Erik Olsson Fastighetsförmedling,844.9890370655353,Medborgarplatsen
+2015-04-23,Kocksgatan 60A,Sofia,Sodermalm,1,30,null,Lägenhet,1906,[Södermalm],2400000,450000,2850000,1300,SkandiaMäklarna,647.9805528683506,Medborgarplatsen
+2015-04-23,Bondegatan 80,Sofia,Sodermalm,2,37.5,2,Lägenhet,1940,[Södermalm],2750000,370000,3120000,2349,Erik Olsson Fastighetsförmedling,976.7492956838395,Medborgarplatsen
+2015-04-23,Åsögatan 176,Sofia,Sodermalm,3.5,115,6,Lägenhet,1929,[Sofia],8995000,1455000,10450000,6295,Erik Olsson Fastighetsförmedling,792.2979687474641,Medborgarplatsen
+2015-04-22,Åsögatan 185,Sofia,Sodermalm,1,35,2,Lägenhet,null,[Sofia],2395000,405000,2800000,1886,Fastighetsbyrån,951.3966874468464,Medborgarplatsen
+2015-04-21,Sågargatan 16,Sofia,Sodermalm,2,59,1,Lägenhet,1930,[Södermalm],3995000,905000,4900000,3413,Erik Olsson Fastighetsförmedling,976.4134487623032,Medborgarplatsen
+2015-04-21,Klippgatan 14,Sofia,Sodermalm,3,60,null,Lägenhet,null,[Södermalm],1950000,290000,2240000,null,Länsförsäkringar Fastighetsförmedling,811.230753303547,Medborgarplatsen
+2015-04-16,Sjökvarnsbacken 12,Sofia,Sodermalm,2,57,2,Lägenhet,2007,[Saltsjöqvarn],3250000,1000000,4250000,4299,Notar,1977.4591870263982,Medborgarplatsen
+2015-04-16,Åsögatan 176,Sofia,Sodermalm,1,21,2,Lägenhet,1930,[Södermalm],1895000,440000,2335000,1042,SkandiaMäklarna,792.2979687474641,Medborgarplatsen
+2015-04-15,Barnängsgränd 6,Sofia,Sodermalm,4,98,0.5,Lägenhet,2003,[Södermalm],5500000,1200000,6700000,5687,Erik Olsson Fastighetsförmedling,1238.9274367613027,Skanstull
+2015-04-15,Erstagatan 22,Sofia,Sodermalm,2,36.4,3,Lägenhet,1939,[Sofia],2795000,575000,3370000,2338,Fastighetsbyrån,916.9753360731191,Medborgarplatsen
+2015-04-15,Ploggatan 10,Sofia,Sodermalm,3,87,3,Lägenhet,1910,[Södermalm],5895000,705000,6600000,4517,Edward & Partners Fastighetsmäklare AB,1028.4167264857053,Medborgarplatsen
+2015-04-15,Tegelviksgatan 65,Sofia,Sodermalm,4,85,7,Lägenhet,1997,[Sofia],5195000,905000,6100000,6315,Fastighetsbyrån,1278.0259527564092,Skanstull
+2015-04-15,Tegelviksgatan 36,Sofia,Sodermalm,3,82.5,5,Lägenhet,2003,[Södermalm],5200000,750000,5950000,4965,Erik Olsson Fastighetsförmedling,1260.8802107416227,Skanstull
+2015-04-13,Bondegatan 51,Sofia,Sodermalm,2,42,1,Lägenhet,1940,[Sofia],2750000,860000,3610000,2390,Fastighetsbyrån,845.0744528277613,Medborgarplatsen
+2015-04-07,Ploggatan 2,Sofia,Sodermalm,1,34,5,Lägenhet,1931,[Södermalm],2650000,270000,2920000,2167,Notar,1056.8338146072992,Medborgarplatsen
+2015-04-06,Alsnögatan 30,Sofia,Sodermalm,4,124,0,Lägenhet,2000,[Södermalm Sofia],6495000,-395000,6100000,7598,Bjurfors,1507.2094154585884,Skanstull
+2015-04-01,Bondegatan 55,Sofia,Sodermalm,2,48,null,Lägenhet,1912,[Södermalm Sofia],3450000,1100000,4550000,2407,Bjurfors,879.9140707643412,Medborgarplatsen
+2015-03-27,Kocksgatan 60B,Sofia,Sodermalm,2,45,1,Lägenhet,1905,[Södermalm-Katarina],2995000,1005000,4000000,1950,Södermäklarna,664.526420482435,Medborgarplatsen
+2015-03-27,Ploggatan 2,Sofia,Sodermalm,1,40,2,Lägenhet,1931,[Södermalm],2495000,515000,3010000,2357,Erik Olsson Fastighetsförmedling,1056.8338146072992,Medborgarplatsen
+2015-03-26,Duvnäsgatan 1,Sofia,Sodermalm,2.5,78,4,Lägenhet,1925,[Södermalm],4695000,680000,5375000,3513,Fastighetsmäklarna,1194.9317677061745,Medborgarplatsen
+2015-03-26,Kocksgatan 55,Sofia,Sodermalm,2,54,2,Lägenhet,1938,[Sofia],3300000,985000,4285000,2299,Fastighetsbyrån,676.0639434781705,Medborgarplatsen
+2015-03-26,Åsögatan 181,Sofia,Sodermalm,2,49,4,Lägenhet,1930,[Sofia],3250000,600000,3850000,2796,Fastighetsbyrån,895.7342097049998,Medborgarplatsen
+2015-03-25,Tegelviksgatan 30,Sofia,Sodermalm,2,51,1,Lägenhet,2006,[Norra Hammarbyhamnen],2995000,370000,3365000,3712,Svensk Fastighetsförmedling,1294.8042320369404,Skanstull
+2015-03-25,Åsögatan 174,Sofia,Sodermalm,2,46,3,Lägenhet,1930,[Katarina/Sofia],3090000,240000,3330000,2374,SkandiaMäklarna,756.3360357020542,Medborgarplatsen
+2015-03-20,Tegelviksgatan 41,Sofia,Sodermalm,3,74,4,Lägenhet,1999,[Södermalm],5520000,0,5520000,4897,BOSTHLM,1392.6599111798207,Skanstull
+2015-03-19,Stigbergsgatan 32,Sofia,Sodermalm,2,70,0,Lägenhet,1930,[Katarina/Mosebacke],5750000,-450000,5300000,3326,Crown Estate Fastighetsbyrå,854.7959684531146,Medborgarplatsen
+2015-03-18,Borgmästargatan 9,Sofia,Sodermalm,2,36,5,Lägenhet,null,[Södermalm],3080000,0,3080000,1843,BOSTHLM,734.4617779392341,Medborgarplatsen
+2015-03-18,Folkungagatan 114,Sofia,Sodermalm,2,null,3,Lägenhet,1938,[Södermalm],2595000,370000,2965000,1666,Södermäklarna,655.0875111841284,Medborgarplatsen
+2015-03-18,Folkungagatan 160,Sofia,Sodermalm,1.5,44,3,Lägenhet,1991,[Katarina],2850000,0,2850000,3447,Notar,1138.8937062061977,Medborgarplatsen
+2015-03-17,Tegelviksgatan 33,Sofia,Sodermalm,3,80,5,Lägenhet,2000,[Norra Hammarbyhamnen],4250000,50000,4300000,4780,Svensk Fastighetsförmedling,1413.029796143846,Skanstull
+2015-03-11,Beckbrännarbacken 7,Sofia,Sodermalm,3,82,null,Lägenhet,1929,[Katarina/Sofia],5295000,255000,5550000,3520,Svensk Fastighetsförmedling,870.0755978960551,Medborgarplatsen
+2015-03-11,Erstagatan 22,Sofia,Sodermalm,3,68,1,Lägenhet,1939,[Södermalm],5725000,0,5725000,3333,BOSTHLM,916.9753360731191,Medborgarplatsen
+2015-03-10,Folkungagatan 128,Sofia,Sodermalm,1.5,38,2,Lägenhet,1929,[Södermalm],2750000,510000,3260000,1597,Ekenstam Fastighetsmäklare,793.845447737374,Medborgarplatsen
+2015-03-09,Bondegatan 79,Sofia,Sodermalm,1.5,42,2,Lägenhet,1929,[Södermalm],2850000,275000,3125000,2491,Södermäklarna,1244.845366466725,Medborgarplatsen
+2015-03-06,Bondegatan 64,Sofia,Sodermalm,2,55,null,Lägenhet,1916,[Katarina/Sofia],3495000,605000,4100000,3224,Svensk Fastighetsförmedling,717.0549890915464,Medborgarplatsen
+2015-03-06,Åsögatan 167,Sofia,Sodermalm,2,61,3,Lägenhet,1910,[Sofia],4250000,175000,4425000,3306,Fastighetsbyrån,690.0333891795333,Medborgarplatsen
+2015-03-06,Klippgatan 14E,Sofia,Sodermalm,1,26,3,Lägenhet,null,[Katarina/Sofia],2300000,0,2300000,1324,Mäklarhuset,783.4179768364972,Medborgarplatsen
+2015-03-06,Sjökvarnsbacken 12,Sofia,Sodermalm,2,61,0,Lägenhet,2007,[Katarina/Sofia],4250000,-400000,3850000,4007,Mäklarhuset,1977.4591870263982,Medborgarplatsen
+2015-03-05,Folkungagatan 118,Sofia,Sodermalm,7,217,5,Lägenhet,1937,[Södermalm],14700000,0,14700000,5650,BOSTHLM,698.7793363151756,Medborgarplatsen
+2015-03-04,Renstiernas gata 27,Sofia,Sodermalm,2,41,2,Lägenhet,1959,[Katarina/Sofia],2990000,530000,3520000,884,SkandiaMäklarna,623.8578763818416,Medborgarplatsen
+2015-02-26,Sågargatan 16,Sofia,Sodermalm,2,59,null,Lägenhet,1930,[Sofia],4250000,275000,4525000,3709,Fastighetsbyrån,976.4134487623032,Medborgarplatsen
+2015-02-12,Bondegatan 63,Sofia,Sodermalm,2,42,3,Lägenhet,1932,[Katarina/Sofia],2495000,655000,3150000,2594,SkandiaMäklarna,1024.3166719667283,Medborgarplatsen
+2015-02-11,Tegelviksgatan 37,Sofia,Sodermalm,3,86.5,6,Lägenhet,2000,[Södermalm],4750000,50000,4800000,5479,Erik Olsson Fastighetsförmedling,1385.7252439094855,Skanstull
+2015-02-11,Bondegatan 72C,Sofia,Sodermalm,2,57,1,Lägenhet,1923,[Södermalm],3950000,750000,4700000,3005,Södermäklarna,828.1775063075102,Medborgarplatsen
+2015-02-07,Åsögatan 198,Sofia,Sodermalm,3,82,0.5,Lägenhet,1929,[Katarina/Sofia],4925000,175000,5100000,3802,Mäklarhuset,1101.2746870889468,Medborgarplatsen
+2015-02-06,Ringvägen 163,Sofia,Sodermalm,2.5,59,null,Lägenhet,1905,[Södermalm-Sofia],3895000,465000,4360000,2141,Södermäklarna,678.1292395244859,Skanstull
+2015-02-05,Bondegatan 79,Sofia,Sodermalm,1.5,42,4,Lägenhet,1929,[Sofia],2495000,735000,3230000,2468,Fastighetsbyrån,1244.845366466725,Medborgarplatsen
+2015-02-04,Åsögatan 161,Sofia,Sodermalm,2,41,2,Lägenhet,1927,[Södermalm Sofia],2795000,935000,3730000,923,HusmanHagberg,617.6503814057769,Medborgarplatsen
+2015-02-02,Tegelviksgatan 39,Sofia,Sodermalm,null,null,3,Lägenhet,2000,[Södermalm-Sofia],3495000,530000,4025000,4236,Södermäklarna,1404.7454046617997,Skanstull
+2015-01-31,Nackagatan 22,Sofia,Sodermalm,3,87,2,Lägenhet,1996,[Katarina],5195000,955000,6150000,6241,Notar,1383.5620783889378,Skanstull
+2015-01-30,Klippgatan 21,Sofia,Sodermalm,1,34.5,4,Lägenhet,1924,[Södermalm],2295000,705000,3000000,2367,Erik Olsson Fastighetsförmedling,834.0523590455762,Medborgarplatsen
+2015-01-29,Färgargårdstorget 36,Sofia,Sodermalm,3,87,4,Lägenhet,1980,[Tullgården],5495000,255000,5750000,3786,Svensk Fastighetsförmedling,1077.6809155841554,Skanstull
+2015-01-25,Åsögatan 167,Sofia,Sodermalm,2,62,4,Lägenhet,1910,[Katarina/Sofia],4250000,295000,4545000,3147,SkandiaMäklarna,690.0333891795333,Medborgarplatsen
+2015-01-23,Bondegatan 51,Sofia,Sodermalm,3,70,4.5,Lägenhet,1937,[Södermalm],4595000,525000,5120000,3870,Vision Fastighetsmäkleri AB,845.0744528277613,Medborgarplatsen
+2015-01-23,Åsögatan 196,Sofia,Sodermalm,1,35,3.5,Lägenhet,1931,[Katarina/Sofia],2295000,335000,2630000,2200,Mäklarhuset,1051.5128632927092,Medborgarplatsen
+2015-01-22,Kocksgatan 51,Sofia,Sodermalm,2,82,null,Lägenhet,1939,[Katarina/Sofia],3500000,950000,4450000,4908,Svensk Fastighetsförmedling,640.8917436755619,Medborgarplatsen
+2015-01-18,Bondegatan 45,Sofia,Sodermalm,null,null,1,Lägenhet,1929,[Södermalm-Sofia],1995000,130000,2125000,1253,Södermäklarna,761.7698735833129,Medborgarplatsen
+2015-01-16,Erstagatan 22,Sofia,Sodermalm,null,null,3,Lägenhet,1939,[Södermalm-Sofia],2495000,180000,2675000,2217,Södermäklarna,916.9753360731191,Medborgarplatsen
+2015-01-15,Beckbrännarbacken 1,Sofia,Sodermalm,2,45,1,Lägenhet,1929,[Katarina/Sofia],2700000,600000,3300000,2385,Mäklarhuset,842.3928216733993,Medborgarplatsen
+2015-01-15,Åsögatan 192,Sofia,Sodermalm,1.5,50,1,Lägenhet,1930,[Södermalm],2900000,450000,3350000,2479,Fantastic Frank Fastighetsmäkleri,992.4489703261547,Medborgarplatsen
+2015-01-15,Åsögatan 181,Sofia,Sodermalm,null,null,3,Lägenhet,1929,[Södermalm-Sofia],3150000,425000,3575000,2746,Södermäklarna,895.7342097049998,Medborgarplatsen
+2015-01-14,Borgmästargatan 10B,Sofia,Sodermalm,1,33,null,Lägenhet,1884,[Katarina/Sofia],2195000,555000,2750000,1680,SkandiaMäklarna,714.7084540334708,Medborgarplatsen
+2015-01-14,Tegelviksgatan 38,Sofia,Sodermalm,3,76.5,0.5,Lägenhet,2003,[Sofia],3700000,200000,3900000,4720,Fastighetsbyrån,1254.1139527358284,Skanstull
+2014-12-15,Tegelviksgatan 35,Sofia,Sodermalm,2,77.3,null,Lägenhet,1991,[Södermalm-Sofia],3495000,505000,4000000,4752,Södermäklarna,1398.2597946242786,Skanstull
+2014-12-11,Folkungagatan 114,Sofia,Sodermalm,3,67,null,Lägenhet,1938,[Sofia],3995000,805000,4800000,2851,Fastighetsbyrån,655.0875111841284,Medborgarplatsen
+2014-12-11,Ploggatan 2,Sofia,Sodermalm,3,71,2,Lägenhet,1931,[Katarina/Sofia],4295000,605000,4900000,3470,SkandiaMäklarna,1056.8338146072992,Medborgarplatsen
+2014-12-11,Borgmästargatan 9,Sofia,Sodermalm,1,25.5,5,Lägenhet,1929,[Södermalm],1995000,250000,2245000,1442,Innerstadsspecialisten AB,734.4617779392341,Medborgarplatsen
+2014-12-11,Ploggatan 16,Sofia,Sodermalm,2,46.1,2,Lägenhet,1910,[Södermalm],3195000,505000,3700000,2460,Erik Olsson Fastighetsförmedling,1020.8021220457769,Medborgarplatsen
+2014-12-10,Bondegatan 63,Sofia,Sodermalm,1,28.5,2,Lägenhet,1932,[Sofia],2095000,105000,2200000,2177,Fastighetsbyrån,1024.3166719667283,Medborgarplatsen
+2014-12-10,Åsögatan 175,Sofia,Sodermalm,2,48,5,Lägenhet,1929,[Södermalm],2995000,580000,3575000,2758,Behrer & Partners,776.54493366353,Medborgarplatsen
+2014-12-09,Erstagatan 23,Sofia,Sodermalm,1,28,2,Lägenhet,1930,[Södermalm-Sofia],1995000,605000,2600000,1570,Södermäklarna,941.9210067032147,Medborgarplatsen
+2014-12-09,Gaveliusgatan 6,Sofia,Sodermalm,1,32,4,Lägenhet,1932,[Södermalm Sofia],2095000,505000,2600000,1184,HusmanHagberg,1011.3566430478453,Skanstull
+2014-12-09,Borgmästargatan 4,Sofia,Sodermalm,2,40,5,Lägenhet,null,[Katarina/Sofia],2695000,530000,3225000,2365,Mäklarhuset,707.5353902850276,Medborgarplatsen
+2014-12-05,Borgmästargatan 9,Sofia,Sodermalm,2,36,2,Lägenhet,1930,[Södermalm],2795000,55000,2850000,1843,Magnusson Mäkleri,734.4617779392341,Medborgarplatsen
+2014-12-05,Bondegatan 80,Sofia,Sodermalm,1,28,5,Lägenhet,1940,[Katarina/Sofia],1995000,525000,2520000,1782,SkandiaMäklarna,976.7492956838395,Medborgarplatsen
+2014-12-05,Tengdahlsgatan 35,Sofia,Sodermalm,3,62,null,Lägenhet,2003,[Södermalm],3490000,620000,4110000,4040,Erik Olsson Fastighetsförmedling,1187.6779018642083,Skanstull
+2014-12-04,Ringvägen 163,Sofia,Sodermalm,3,93,5,Lägenhet,1905,[Tullgården],6150000,600000,6750000,4018,SkandiaMäklarna,678.1292395244859,Skanstull
+2014-12-03,Beckbrännarbacken 1,Sofia,Sodermalm,3,76,1,Lägenhet,1929,[Södermalm-Sofia],4850000,150000,5000000,3524,Södermäklarna,842.3928216733993,Medborgarplatsen
+2014-12-03,Malmgårdsvägen 6,Sofia,Sodermalm,3,87,null,Lägenhet,1905,[Södermalm],6495000,5000,6500000,3740,Entré rekommenderade mäklare AB,695.9076217020305,Skanstull
+2014-12-01,Erstagatan 22,Sofia,Sodermalm,2.5,75,4,Lägenhet,1939,[Södermalm],5475000,175000,5650000,3950,Erik Olsson Fastighetsförmedling,916.9753360731191,Medborgarplatsen
+2014-11-27,Bondegatan 72B,Sofia,Sodermalm,2,38,5,Lägenhet,1924,[Södermalm Sofia],2950000,665000,3615000,1872,Bjurfors,828.1775063075102,Medborgarplatsen
+2014-11-25,Erstagatan 16,Sofia,Sodermalm,1,30,4,Lägenhet,1928,[Katarina/Sofia],2175000,275000,2450000,1871,SkandiaMäklarna,927.3344836494736,Medborgarplatsen
+2014-11-24,Tegelviksgatan 55,Sofia,Sodermalm,5,124,8,Lägenhet,1996,[Södermalm],6500000,1100000,7600000,8091,Erik Olsson Fastighetsförmedling,1310.4733436483107,Skanstull
+2014-11-21,Gruvbacken 6,Sofia,Sodermalm,1,30,4,Lägenhet,1929,[Katarina/Sofia],2095000,305000,2400000,1763,Svensk Fastighetsförmedling,1241.0703693860517,Medborgarplatsen
+2014-11-21,Bondegatan 80,Sofia,Sodermalm,1,28,5,Lägenhet,1940,[Katarina/Sofia],2375000,0,2375000,1782,SkandiaMäklarna,976.7492956838395,Medborgarplatsen
+2014-11-20,Stigbergsgatan 32,Sofia,Sodermalm,1,27,3,Lägenhet,1930,[Södermalm],2275000,575000,2850000,1157,Svenska Mäklarhuset,854.7959684531146,Medborgarplatsen
+2014-11-19,Folkungagatan 118,Sofia,Sodermalm,1.5,37,3,Lägenhet,1937,[Södermalm Sofia],2495000,455000,2950000,1084,Bjurfors,698.7793363151756,Medborgarplatsen
+2014-11-19,Bondegatan 51,Sofia,Sodermalm,3,64,1.5,Lägenhet,1940,[Sofia],3695000,865000,4560000,3317,Fastighetsbyrån,845.0744528277613,Medborgarplatsen
+2014-11-19,Åsögatan 176,Sofia,Sodermalm,1,34,2,Lägenhet,null,[Katarina/Sofia],2195000,225000,2420000,1666,Svensk Fastighetsförmedling,792.2979687474641,Medborgarplatsen
+2014-11-19,Åsögatan 184,Sofia,Sodermalm,1,33.2,1,Lägenhet,1912,[Katarina],2195000,205000,2400000,1696,Notar,895.1079495775975,Medborgarplatsen
+2014-11-18,Åsögatan 172,Sofia,Sodermalm,1,32,5,Lägenhet,1884,[Södermalm],2040000,490000,2530000,1696,Fantastic Frank Fastighetsmäkleri,698.0762865726547,Medborgarplatsen
+2014-11-15,Erstagatan 20,Sofia,Sodermalm,1.5,52,1,Lägenhet,1930,[Sofia],3200000,300000,3500000,1298,Fastighetsbyrån,922.9909832296341,Medborgarplatsen
+2014-11-14,Nackagatan 23,Sofia,Sodermalm,3,89,4,Lägenhet,1999,[Norra Hammarbyhamnen],4250000,-50000,4200000,5338,SkandiaMäklarna,1371.9946914598593,Skanstull
+2014-11-14,Bondegatan 55,Sofia,Sodermalm,1,21,4,Lägenhet,1912,[Sofia],1950000,250000,2200000,1206,Fastighetsbyrån,879.9140707643412,Medborgarplatsen
+2014-11-14,Åsögatan 173,Sofia,Sodermalm,5,146,5,Lägenhet,1929,[Södermalm Sofia],8750000,2150000,10900000,6976,HusmanHagberg,758.1973892051598,Medborgarplatsen
+2014-11-13,Alsnögatan 18,Sofia,Sodermalm,4,105.8,5,Lägenhet,2000,[Södermalm-Sofia],6150000,-50000,6100000,6028,Södermäklarna,1461.859497248362,Skanstull
+2014-11-13,Folkungagatan 128,Sofia,Sodermalm,1.5,36,1,Lägenhet,1929,[Katarina/Sofia],2450000,500000,2950000,1514,SkandiaMäklarna,793.845447737374,Medborgarplatsen
+2014-11-13,Tegelviksgatan 47,Sofia,Sodermalm,2,69,2,Lägenhet,1999,[Södermalm Sofia],2995000,715000,3710000,4316,Bjurfors,1356.182344259284,Skanstull
+2014-11-13,Stigbergsgatan 37,Sofia,Sodermalm,2,46,null,Lägenhet,1928,[Katarina/Mosebacke],2375000,905000,3280000,1100,SkandiaMäklarna,864.388949347283,Medborgarplatsen
+2014-11-12,Skånegatan 113,Sofia,Sodermalm,4,90,1,Lägenhet,1933,[Södermalm],4995000,-15000,4980000,4592,Fastighetsbyrån,980.5152870347678,Medborgarplatsen
+2014-11-12,Beckbrännarbacken 1,Sofia,Sodermalm,2,40,null,Lägenhet,1929,[Sofia],2595000,280000,2875000,2056,Fastighetsbyrån,842.3928216733993,Medborgarplatsen
+2014-11-12,Kocksgatan 51,Sofia,Sodermalm,null,35,2,Lägenhet,1939,[Katarina/Sofia],2495000,205000,2700000,2907,Fastighetsmäklarna,640.8917436755619,Medborgarplatsen
+2014-11-11,Färgargårdstorget 56,Sofia,Sodermalm,3,75,5,Lägenhet,1981,[Södermalm Sofia],4395000,-145000,4250000,3243,HusmanHagberg,1100.2221682829618,Skanstull
+2014-11-11,Bondegatan 79,Sofia,Sodermalm,1,24,2,Lägenhet,1929,[Södermalm-Sofia],1995000,-125000,1870000,1232,Södermäklarna,1244.845366466725,Medborgarplatsen
+2014-11-07,Åsögatan 167,Sofia,Sodermalm,2,59,1,Lägenhet,1910,[Södermalm Sofia],3895000,605000,4500000,3127,HusmanHagberg,690.0333891795333,Medborgarplatsen
+2014-11-06,Borgmästargatan 4,Sofia,Sodermalm,1,34,1,Lägenhet,1936,[Katarina/Sofia],2195000,375000,2570000,2002,HusmanHagberg,707.5353902850276,Medborgarplatsen
+2014-11-03,Alsnögatan 22,Sofia,Sodermalm,3,84,6,Lägenhet,2000,[Södermalm Sofia],4450000,525000,4975000,5118,Bjurfors,1492.0180821326555,Skanstull
+2014-10-30,Bondegatan 55,Sofia,Sodermalm,2,45.5,2,Lägenhet,null,[Katarina/Sofia],3495000,255000,3750000,2362,Mäklarhuset,879.9140707643412,Medborgarplatsen
+2014-10-30,Duvnäsgatan 5B,Sofia,Sodermalm,2,54,2,Lägenhet,1906,[Södermalm Sofia],3750000,550000,4300000,2053,Bjurfors,1180.5309371477858,Medborgarplatsen
+2014-10-29,Åsögatan 176,Sofia,Sodermalm,1,32,2,Lägenhet,1930,[Sofia],2195000,365000,2560000,1877,Fastighetsbyrån,792.2979687474641,Medborgarplatsen
+2014-10-29,Klippgatan 14B,Sofia,Sodermalm,2,49,2,Lägenhet,1929,[Katarina/Sofia],2990000,560000,3550000,2738,BOSTHLM,813.1208461238265,Medborgarplatsen
+2014-10-27,Bondegatan 64,Sofia,Sodermalm,2,46,1,Lägenhet,1915,[Katarina/Sofia],3275000,175000,3450000,2828,Mäklarhuset,717.0549890915464,Medborgarplatsen
+2014-10-25,Åsögatan 175,Sofia,Sodermalm,4,86,1,Lägenhet,1929,[Södermalm Sofia],5250000,350000,5600000,4739,HusmanHagberg,776.54493366353,Medborgarplatsen
+2014-10-24,Erstagatan 20,Sofia,Sodermalm,3,88,3,Lägenhet,1930,[Sofia],5000000,1410000,6410000,2167,Fastighetsbyrån,922.9909832296341,Medborgarplatsen
+2014-10-22,Renstiernas gata 41A,Sofia,Sodermalm,3,72,2,Lägenhet,1884,[Södermalm Sofia],4990000,1085000,6075000,4387,Bjurfors,715.2300449205745,Skanstull
+2014-10-22,Gruvbacken 4,Sofia,Sodermalm,1.5,47,4,Lägenhet,1929,[Södermalm],2650000,400000,3050000,2552,Karlsson & Uddare,1222.6325855815687,Medborgarplatsen
+2014-10-17,Gaveliusgatan 10,Sofia,Sodermalm,3.5,74,4,Lägenhet,1933,[Södermalm-Sofia],4975000,1125000,6100000,3839,Södermäklarna,1078.8867365478454,Skanstull
+2014-10-16,Åsögatan 175,Sofia,Sodermalm,2,47,3,Lägenhet,1929,[Södermalm],2995000,55000,3050000,2758,Erik Olsson Fastighetsförmedling,776.54493366353,Medborgarplatsen
+2014-10-16,Kocksgatan 53C,Sofia,Sodermalm,4.5,119,null,Lägenhet,1938,[Sofia],6300000,-100000,6200000,4647,Fastighetsbyrån,673.5877034274141,Medborgarplatsen
+2014-10-10,Färgargårdstorget 28,Sofia,Sodermalm,3,87,null,Lägenhet,1981,[Sofia],4795000,455000,5250000,3746,Fastighetsbyrån,1005.6810851372064,Skanstull
+2014-10-10,Skånegatan 113,Sofia,Sodermalm,3,70,null,Lägenhet,1933,[Katarina/Sofia],4150000,600000,4750000,3876,SkandiaMäklarna,980.5152870347678,Medborgarplatsen
+2014-10-08,Folkungagatan 118,Sofia,Sodermalm,3,73,3,Lägenhet,1937,[Södermalm Sofia],4490000,710000,5200000,2101,HusmanHagberg,698.7793363151756,Medborgarplatsen
+2014-10-08,Erstagatan 13,Sofia,Sodermalm,2,32,0.5,Lägenhet,null,[Södermalm],2495000,130000,2625000,1781,Notar,945.1033966729465,Medborgarplatsen
+2014-10-07,Bondegatan 63,Sofia,Sodermalm,2,52.5,1.5,Lägenhet,1932,[Katarina],3195000,405000,3600000,2839,Notar,1024.3166719667283,Medborgarplatsen
+2014-10-07,Barnängsgränd 6,Sofia,Sodermalm,3,84,4,Lägenhet,2003,[Södermalm],4490000,1040000,5530000,5030,Erik Olsson Fastighetsförmedling,1238.9274367613027,Skanstull
+2014-10-01,Kocksgatan 60B,Sofia,Sodermalm,1.5,45,2,Lägenhet,1906,[Södermalm Sofia],2995000,635000,3630000,2000,Bjurfors,664.526420482435,Medborgarplatsen
+2014-10-01,Folkungagatan 128,Sofia,Sodermalm,1.5,37,5,Lägenhet,1929,[Sofia],2495000,235000,2730000,1494,Fastighetsbyrån,793.845447737374,Medborgarplatsen
+2014-09-29,Folkungagatan 114,Sofia,Sodermalm,1.5,35,3,Lägenhet,1939,[Södermalm Sofia],2350000,550000,2900000,1664,Bjurfors,655.0875111841284,Medborgarplatsen
+2014-09-26,Folkungagatan 101,Sofia,Sodermalm,2,62,4,Lägenhet,1975,[Södermalm],3995000,-105000,3890000,1706,Erik Olsson Fastighetsförmedling,632.4172003243742,Medborgarplatsen
+2014-09-26,Skånegatan 93,Sofia,Sodermalm,3,82,3,Lägenhet,1968,[Södermalm-Sofia],5795000,60000,5855000,3373,Södermäklarna,695.2274369971022,Medborgarplatsen
+2014-09-25,Klippgatan 14F,Sofia,Sodermalm,1,20.5,null,Lägenhet,1930,[Södermalm],1650000,350000,2000000,1061,Vision Fastighetsmäkleri AB,811.230753303547,Medborgarplatsen
+2014-09-25,Ploggatan 2,Sofia,Sodermalm,2,40,3,Lägenhet,1931,[Katarina],2595000,205000,2800000,2357,Notar,1056.8338146072992,Medborgarplatsen
+2014-09-24,Tegelviksgatan 81,Sofia,Sodermalm,3,77,null,Lägenhet,1997,[Sofia],3650000,0,3650000,5009,Fastighetsbyrån,1251.421440771563,Skanstull
+2014-09-24,Folkungagatan 130,Sofia,Sodermalm,1,26,null,Lägenhet,1929,[Sofia],1895000,375000,2270000,1125,Fastighetsbyrån,798.5589567103405,Medborgarplatsen
+2014-09-24,Bondegatan 81,Sofia,Sodermalm,1.5,46,2,Lägenhet,1929,[Sofia],2595000,155000,2750000,2624,Fastighetsbyrån,1255.6091343409848,Medborgarplatsen
+2014-09-23,Erstagatan 20,Sofia,Sodermalm,2,52,5,Lägenhet,1930,[Sofia],3200000,1350000,4550000,1349,Fastighetsbyrån,922.9909832296341,Medborgarplatsen
+2014-09-23,Renstiernas gata 27,Sofia,Sodermalm,3,88,3,Lägenhet,null,[Katarina/Sofia],5795000,705000,6500000,1686,Svensk Fastighetsförmedling,623.8578763818416,Medborgarplatsen
+2014-09-22,Erstagatan 23,Sofia,Sodermalm,1,27.2,4,Lägenhet,1930,[Sofia],1995000,520000,2515000,1519,Fastighetsbyrån,941.9210067032147,Medborgarplatsen
+2014-09-22,Skånegatan 105,Sofia,Sodermalm,1,31.5,3,Lägenhet,1924,[Katarina/Sofia],2200000,0,2200000,2444,Mäklarhuset,844.9890370655353,Medborgarplatsen
+2014-09-18,Folkungagatan 128,Sofia,Sodermalm,1,25,4,Lägenhet,1929,[Södermalm-Sofia],1700000,500000,2200000,1105,Södermäklarna,793.845447737374,Medborgarplatsen
+2014-09-15,Tegelviksgatan 37,Sofia,Sodermalm,3,88.6,5,Lägenhet,2000,[Södermalm],4495000,0,4495000,5449,Fastighetsbyrån,1385.7252439094855,Skanstull
+2014-09-11,Klippgatan 14F,Sofia,Sodermalm,2,37,3,Lägenhet,1929,[Södermalm],2495000,605000,3100000,2072,Erik Olsson Fastighetsförmedling,811.230753303547,Medborgarplatsen
+2014-09-11,Borgmästargatan 4,Sofia,Sodermalm,2,39,2,Lägenhet,1936,[Södermalm],2950000,520000,3470000,2319,Erik Olsson Fastighetsförmedling,707.5353902850276,Medborgarplatsen
+2014-09-10,Erstagatan 22,Sofia,Sodermalm,2,36.4,4,Lägenhet,1939,[Södermalm],2495000,430000,2925000,2042,Edward & Partners Fastighetsmäklare AB,916.9753360731191,Medborgarplatsen
+2014-09-09,Folkungagatan 128,Sofia,Sodermalm,1,26,1,Lägenhet,null,[Katarina/Sofia],2100000,225000,2325000,1085,Svensk Fastighetsförmedling,793.845447737374,Medborgarplatsen
+2014-09-09,Åsögatan 161,Sofia,Sodermalm,1,41,2,Lägenhet,1927,[Södermalm Sofia],2650000,200000,2850000,923,Bjurfors,617.6503814057769,Medborgarplatsen
+2014-09-06,Folkungagatan 118,Sofia,Sodermalm,1,32,2,Lägenhet,1937,[Södermalm],2240000,360000,2600000,956,RE/MAX Sverige,698.7793363151756,Medborgarplatsen
+2014-09-06,Gruvbacken 4,Sofia,Sodermalm,2,45,2,Lägenhet,1929,[Södermalm-Sofia],2995000,5000,3000000,2620,Södermäklarna,1222.6325855815687,Medborgarplatsen
+2014-09-03,Erstagatan 20,Sofia,Sodermalm,2,40,5,Lägenhet,1929,[Södermalm],2795000,815000,3610000,1027,Erik Olsson Fastighetsförmedling,922.9909832296341,Medborgarplatsen
+2014-09-03,Åsögatan 174,Sofia,Sodermalm,1,24,5,Lägenhet,1929,[Katarina],1750000,350000,2100000,1350,Notar,756.3360357020542,Medborgarplatsen
+2014-08-30,Åsögatan 166,Sofia,Sodermalm,5,115,3,Lägenhet,1884,[Katarina/Sofia],7250000,650000,7900000,4220,SkandiaMäklarna,631.8952803297685,Medborgarplatsen
+2014-08-28,Åsögatan 175,Sofia,Sodermalm,2.5,76,3,Lägenhet,1929,[Södermalm],4690000,395000,5085000,4231,Friberg & Partners Fastighetsförmedling,776.54493366353,Medborgarplatsen
+2014-08-28,Folkungagatan 156,Sofia,Sodermalm,3,79,null,Lägenhet,1991,[Katarina/Sofia],3995000,305000,4300000,5430,Fastighetsmäklarna,1109.7084854361722,Medborgarplatsen
+2014-08-28,Sågargatan 16,Sofia,Sodermalm,1,23,5,Lägenhet,1931,[Södermalm Sofia],1950000,350000,2300000,2119,Bjurfors,976.4134487623032,Medborgarplatsen
+2014-08-28,Ploggatan 20,Sofia,Sodermalm,2,43,5,Lägenhet,1910,[Katarina/Sofia],2475000,225000,2700000,2504,SkandiaMäklarna,1016.4255885551021,Medborgarplatsen
+2014-08-27,Åsögatan 174,Sofia,Sodermalm,2,46,4,Lägenhet,1930,[Södermalm Sofia],2895000,565000,3460000,2603,Bjurfors,756.3360357020542,Medborgarplatsen
+2014-08-26,Bondegatan 64,Sofia,Sodermalm,2,44,1,Lägenhet,1916,[Södermalm],2875000,135000,3010000,2808,Erik Olsson Fastighetsförmedling,717.0549890915464,Medborgarplatsen
+2014-08-23,Erstagatan 22,Sofia,Sodermalm,2.5,68,3,Lägenhet,1941,[Södermalm Sofia],4750000,450000,5200000,3442,HusmanHagberg,916.9753360731191,Medborgarplatsen
+2014-08-22,Bondegatan 81,Sofia,Sodermalm,2,85,4,Lägenhet,1929,[Södermalm Sofia],4595000,190000,4785000,4596,HusmanHagberg,1255.6091343409848,Medborgarplatsen
+2014-08-21,Tegelviksgatan 30,Sofia,Sodermalm,3,69.5,null,Lägenhet,2006,[Sofia],3695000,265000,3960000,5012,Fastighetsbyrån,1294.8042320369404,Skanstull
+2014-08-21,Bondegatan 80,Sofia,Sodermalm,2,50,null,Lägenhet,1940,[Södermalm-Sofia],2895000,155000,3050000,2986,Södermäklarna,976.7492956838395,Medborgarplatsen
+2014-08-21,Alsnögatan 24,Sofia,Sodermalm,1.5,34.5,6,Lägenhet,2000,[Södermalm Sofia],2195000,205000,2400000,3037,Bjurfors,1506.0078913256775,Skanstull
+2014-08-20,Folkungagatan 158,Sofia,Sodermalm,2,42,1,Lägenhet,1991,[Södermalm],2495000,205000,2700000,3225,Notar,1128.7291146170219,Medborgarplatsen
+2014-08-19,Sågargatan 17,Sofia,Sodermalm,3,61,1.5,Lägenhet,1929,[Södermalm],3495000,605000,4100000,4547,Fantastic Frank Fastighetsmäkleri,1004.5539100404002,Medborgarplatsen
+2014-08-19,Duvnäsgatan 5,Sofia,Sodermalm,2,57,null,Lägenhet,1906,[Sofia],3495000,915000,4410000,2105,Fastighetsbyrån,1183.578248237564,Medborgarplatsen
+2014-08-19,Bondegatan 79,Sofia,Sodermalm,1,42,4,Lägenhet,1929,[Katarina/Sofia],2575000,500000,3075000,2445,Berggren Hörle,1244.845366466725,Medborgarplatsen
+2014-08-19,Klippgatan 14H,Sofia,Sodermalm,1,28,1,Lägenhet,null,[Katarina/Sofia],1995000,340000,2335000,1535,Svensk Fastighetsförmedling,813.4805017647982,Medborgarplatsen
+2014-08-15,Erstagatan 26,Sofia,Sodermalm,1,20,2,Lägenhet,1912,[Södermalm Sofia],1750000,250000,2000000,1181,Bjurfors,916.5209640118194,Medborgarplatsen
+2014-08-13,Bondegatan 79,Sofia,Sodermalm,1,24,1,Lägenhet,1929,[Katarina/Sofia],1750000,350000,2100000,1354,SkandiaMäklarna,1244.845366466725,Medborgarplatsen
+2014-08-11,Sågargatan 17,Sofia,Sodermalm,3,61,4,Lägenhet,1929,[Södermalm],3595000,0,3595000,4547,Erik Olsson Fastighetsförmedling,1004.5539100404002,Medborgarplatsen
+2014-08-08,Åsögatan 165,Sofia,Sodermalm,1,39,5,Lägenhet,1910,[Södermalm Sofia],2850000,0,2850000,1783,Bjurfors,672.8643578983598,Medborgarplatsen
+2014-08-07,Barnängsgränd 2,Sofia,Sodermalm,2,61.5,2,Lägenhet,2003,[Södermalm],3195000,415000,3610000,4016,Länsförsäkringar Fastighetsförmedling,1207.6594196170968,Skanstull
+2014-08-06,Folkungagatan 128,Sofia,Sodermalm,1.5,38,3,Lägenhet,1929,[Sofia],2550000,450000,3000000,1617,Fastighetsbyrån,793.845447737374,Medborgarplatsen
+2014-07-30,Folkungagatan 128,Sofia,Sodermalm,1,26,5,Lägenhet,null,[Katarina/Sofia],2195000,215000,2410000,1167,Svensk Fastighetsförmedling,793.845447737374,Medborgarplatsen
+2014-07-25,Åsögatan 192,Sofia,Sodermalm,2,43,4,Lägenhet,null,[Södermalm],2925000,585000,3510000,2243,Fantastic Frank Fastighetsmäkleri,992.4489703261547,Medborgarplatsen
+2014-07-18,Bondegatan 80,Sofia,Sodermalm,1.5,37.5,12,Lägenhet,1942,[Södermalm],2395000,405000,2800000,2195,Notar,976.7492956838395,Medborgarplatsen
+2014-07-16,Åsögatan 175,Sofia,Sodermalm,2,47,4,Lägenhet,1929,[Södermalm],3275000,625000,3900000,2758,Erik Olsson Fastighetsförmedling,776.54493366353,Medborgarplatsen
+2014-07-10,Bondegatan 51,Sofia,Sodermalm,2,46,2.5,Lägenhet,1937,[Södermalm Sofia],2500000,350000,2850000,2542,Geson Mäklare,845.0744528277613,Medborgarplatsen
+2014-07-05,Ploggatan 2,Sofia,Sodermalm,3,71,2,Lägenhet,1931,[Sofia Södermalm],4495000,25000,4520000,3469,HusmanHagberg,1056.8338146072992,Medborgarplatsen
+2014-07-04,Färgargårdstorget 70,Sofia,Sodermalm,3,84.5,6,Lägenhet,1982,[Södermalm],4975000,25000,5000000,3539,Länsförsäkringar Fastighetsförmedling,1053.9173930127815,Skanstull
+2014-07-03,Skånegatan 109,Sofia,Sodermalm,2.5,70,1,Lägenhet,1929,[Katarina/Sofia],4375000,-100000,4275000,3702,SkandiaMäklarna,893.6619977866724,Medborgarplatsen
+2014-07-02,Åsögatan 198,Sofia,Sodermalm,2.5,70,1,Lägenhet,1929,[Södermalm],3995000,205000,4200000,3078,Erik Olsson Fastighetsförmedling,1101.2746870889468,Medborgarplatsen
+2014-07-01,Kocksgatan 51,Sofia,Sodermalm,1,25,null,Lägenhet,1939,[Södermalm-Sofo],1795000,205000,2000000,2222,Södermäklarna,640.8917436755619,Medborgarplatsen
+2014-06-25,Erstagatan 20,Sofia,Sodermalm,1.5,52,1,Lägenhet,1930,[Södermalm],2950000,0,2950000,1298,Mäklarringen,922.9909832296341,Medborgarplatsen
+2014-06-23,Folkungagatan 160,Sofia,Sodermalm,3,75,5,Lägenhet,1991,[Södermalm],3995000,0,3995000,5126,Svenska Mäklarhuset,1138.8937062061977,Medborgarplatsen
+2014-06-19,Stigbergsgatan 32,Sofia,Sodermalm,5,117,1,Lägenhet,1930,[Södermalm Sofia],8500000,220000,8720000,5501,Bjurfors,854.7959684531146,Medborgarplatsen
+2014-06-19,Färgargårdstorget 44,Sofia,Sodermalm,3,89,3,Lägenhet,1981,[Södermalm-Sofia],4975000,725000,5700000,3758,MäklareUppsala,1125.3294337779928,Skanstull
+2014-06-19,Tegelviksgatan 83,Sofia,Sodermalm,3,71,null,Lägenhet,1997,[Södermalm],3975000,405000,4380000,4752,Erik Olsson Fastighetsförmedling,1231.7368899128205,Skanstull
+2014-06-18,Tegelviksgatan 37,Sofia,Sodermalm,4,83.5,7,Lägenhet,2000,[Norra Hammarbyhamnen],4395000,530000,4925000,5220,SkandiaMäklarna,1385.7252439094855,Skanstull
+2014-06-18,Klippgatan 14D,Sofia,Sodermalm,2,47,2,Lägenhet,1930,[Södermalm Sofia],2995000,155000,3150000,2466,Bjurfors,793.542700601228,Medborgarplatsen
+2014-06-16,Tjärhovsgatan 50,Sofia,Sodermalm,4,82,1,Lägenhet,1880,[Södermalm],5695000,100000,5795000,1986,Erik Olsson Fastighetsförmedling,632.0122255414113,Medborgarplatsen
+2014-06-14,Åsögatan 194,Sofia,Sodermalm,2,42,5,Lägenhet,1930,[Södermalm],2995000,415000,3410000,2315,HusmanHagberg,1025.691587015106,Medborgarplatsen
+2014-06-13,Tengdahlsgatan 35,Sofia,Sodermalm,2,57.5,null,Lägenhet,2003,[Sofia],2695000,520000,3215000,3779,Fastighetsbyrån,1187.6779018642083,Skanstull
+2014-06-13,Tegelviksgatan 65,Sofia,Sodermalm,4,97.5,null,Lägenhet,1998,[Sofia],4995000,-35000,4960000,6789,Fastighetsbyrån,1278.0259527564092,Skanstull
+2014-06-12,Folkungagatan 128,Sofia,Sodermalm,1,25,1,Lägenhet,null,[Katarina/Sofia],2095000,335000,2430000,1044,Svensk Fastighetsförmedling,793.845447737374,Medborgarplatsen
+2014-06-12,Åsögatan 192,Sofia,Sodermalm,1.5,50,2,Lägenhet,1930,[Sofia],2695000,405000,3100000,2501,Fastighetsbyrån,992.4489703261547,Medborgarplatsen
+2014-06-12,Borgmästargatan 9,Sofia,Sodermalm,2,37,null,Lägenhet,1930,[Södermalm],2495000,480000,2975000,2072,Fastighetsbyrån,734.4617779392341,Medborgarplatsen
+2014-06-12,Folkungagatan 136B,Sofia,Sodermalm,2,78,3,Lägenhet,1930,[Sofia],4195000,5000,4200000,4142,Fastighetsbyrån,890.0519482747603,Medborgarplatsen
+2014-06-09,Åsögatan 161,Sofia,Sodermalm,3.5,68,3,Lägenhet,1927,[Södermalm Sofia],4495000,0,4495000,1530,HusmanHagberg,617.6503814057769,Medborgarplatsen
+2014-06-05,Borgmästargatan 4,Sofia,Sodermalm,2,58,null,Lägenhet,1937,[Katarina/Sofia],3450000,0,3450000,3063,BOSTHLM,707.5353902850276,Medborgarplatsen
+2014-06-05,Åsögatan 192,Sofia,Sodermalm,1.5,49,4,Lägenhet,1930,[Södermalm-Sofia],2995000,0,2995000,2501,Södermäklarna,992.4489703261547,Medborgarplatsen
+2014-06-04,Klippgatan 14C,Sofia,Sodermalm,2.5,57.5,null,Lägenhet,1930,[Katarina/Sofia],2995000,455000,3450000,2837,SkandiaMäklarna,799.5876386380705,Medborgarplatsen
+2014-06-04,Erstagatan 26,Sofia,Sodermalm,2,44,1.5,Lägenhet,1912,[Södermalm],2900000,300000,3200000,2257,Mäklarringen,916.5209640118194,Medborgarplatsen
+2014-06-04,Kocksgatan 51,Sofia,Sodermalm,1,26,1.5,Lägenhet,1939,[Södermalm Sofia],1995000,170000,2165000,2275,Bjurfors,640.8917436755619,Medborgarplatsen
+2014-06-03,Borgmästargatan 4,Sofia,Sodermalm,2,40,null,Lägenhet,1936,[Katarina/Sofia],2475000,375000,2850000,2275,SkandiaMäklarna,707.5353902850276,Medborgarplatsen
+2014-05-29,Tegelviksgatan 37,Sofia,Sodermalm,2,63.7,null,Lägenhet,2000,[Sofia],3200000,115000,3315000,4153,Fastighetsbyrån,1385.7252439094855,Skanstull
+2014-05-29,Bondegatan 63,Sofia,Sodermalm,2,60,5,Lägenhet,1932,[Södermalm],4250000,520000,4770000,3612,Länsförsäkringar Fastighetsförmedling,1024.3166719667283,Medborgarplatsen
+2014-05-28,Åsögatan 161,Sofia,Sodermalm,2,68,4,Lägenhet,1927,[Södermalm],4420000,0,4420000,1530,Wendell Fastighetsförmedling AB,617.6503814057769,Medborgarplatsen
+2014-05-28,Klippgatan 14F,Sofia,Sodermalm,2,37.5,null,Lägenhet,1930,[Sofia],2495000,105000,2600000,2125,Fastighetsbyrån,811.230753303547,Medborgarplatsen
+2014-05-28,Stigbergsgatan 32,Sofia,Sodermalm,2,47,2,Lägenhet,1930,[Södermalm],2995000,510000,3505000,2036,Svenska Mäklarhuset,854.7959684531146,Medborgarplatsen
+2014-05-23,Sågargatan 17,Sofia,Sodermalm,2,54,5,Lägenhet,1929,[Södermalm],3295000,505000,3800000,3747,Erik Olsson Fastighetsförmedling,1004.5539100404002,Medborgarplatsen
+2014-05-23,Tegelviksgatan 35,Sofia,Sodermalm,3,81.4,4,Lägenhet,2000,[Södermalm-Sofia],3895000,505000,4400000,4817,Södermäklarna,1398.2597946242786,Skanstull
+2014-05-22,Färgargårdstorget 38,Sofia,Sodermalm,4,107,4,Lägenhet,null,[Tullgården],5995000,2030000,8025000,4617,Svensk Fastighetsförmedling,1088.0870873265783,Skanstull
+2014-05-22,Klippgatan 14,Sofia,Sodermalm,2,38.5,4,Lägenhet,1929,[Södermalm Sofia],2495000,485000,2980000,1858,Bjurfors,811.230753303547,Medborgarplatsen
+2014-05-21,Bondegatan 79,Sofia,Sodermalm,1.5,42,5,Lägenhet,1929,[Södermalm],2495000,190000,2685000,2468,Svenska Mäklarhuset,1244.845366466725,Medborgarplatsen
+2014-05-21,Klippgatan 14C,Sofia,Sodermalm,3,64,1,Lägenhet,1930,[Katarina/Sofia],4475000,-275000,4200000,3557,SkandiaMäklarna,799.5876386380705,Medborgarplatsen
+2014-05-18,Bondegatan 63,Sofia,Sodermalm,3,63,5,Lägenhet,1932,[Katarina],4490000,520000,5010000,3751,Notar,1024.3166719667283,Medborgarplatsen
+2014-05-17,Lilla Erstagatan 6,Sofia,Sodermalm,4.5,157,1,Lägenhet,1930,[Södermalm Sofia],9850000,1050000,10900000,7351,Bjurfors,861.6787416053237,Medborgarplatsen
+2014-05-16,Stigbergsgatan 32,Sofia,Sodermalm,2,38,5,Lägenhet,1930,[Södermalm],2975000,435000,3410000,1805,Per Jansson Fastighetsförmedling,854.7959684531146,Medborgarplatsen
+2014-05-16,Bondegatan 79,Sofia,Sodermalm,1.5,41,null,Lägenhet,1929,[Katarina/Sofia],2420000,0,2420000,2371,SkandiaMäklarna,1244.845366466725,Medborgarplatsen
+2014-05-16,Tegelviksgatan 71,Sofia,Sodermalm,3,74,null,Lägenhet,1997,[Södermalm],3650000,450000,4100000,4677,Erik Olsson Fastighetsförmedling,1260.9074842207224,Skanstull
+2014-05-15,Tjärhovsgatan 50,Sofia,Sodermalm,2,57,2,Lägenhet,1883,[Katarina],3975000,225000,4200000,1405,Fastighetsbyrån,632.0122255414113,Medborgarplatsen
+2014-05-15,Skånegatan 113,Sofia,Sodermalm,3,73,4.5,Lägenhet,1933,[Sofia],4350000,925000,5275000,4035,Fastighetsbyrån,980.5152870347678,Medborgarplatsen
+2014-05-13,Borgmästargatan 4,Sofia,Sodermalm,1,33,1,Lägenhet,null,[Katarina/Sofia],2250000,270000,2520000,2015,Svensk Fastighetsförmedling,707.5353902850276,Medborgarplatsen
+2014-05-09,Åsögatan 166,Sofia,Sodermalm,5,114,2,Lägenhet,1884,[Sofia],7100000,325000,7425000,4220,Fastighetsbyrån,631.8952803297685,Medborgarplatsen
+2014-05-08,Renstiernas gata 41A,Sofia,Sodermalm,2,43,null,Lägenhet,1884,[Tullgården],2950000,430000,3380000,3088,Bostadsrättsspecialisten,715.2300449205745,Skanstull
+2014-05-08,Bondegatan 74D,Sofia,Sodermalm,2,49,2,Lägenhet,1914,[Katarina],2995000,455000,3450000,2613,Notar,1095.2954204445257,Medborgarplatsen
+2014-05-08,Bondegatan 80,Sofia,Sodermalm,2,52,2,Lägenhet,1940,[Sofia],2800000,540000,3340000,3178,Fastighetsbyrån,976.7492956838395,Medborgarplatsen
+2014-05-07,Åsögatan 168,Sofia,Sodermalm,4,66.5,null,Lägenhet,1883,[Sofia],4395000,-45000,4350000,3705,Fastighetsbyrån,650.2703046211248,Medborgarplatsen
+2014-05-06,Färgargårdstorget 74,Sofia,Sodermalm,4,103.5,1,Lägenhet,1982,[Södermalm],5495000,375000,5870000,4346,Mäklarringen,1044.5941462748704,Skanstull
+2014-05-06,Tengdahlsgatan 47,Sofia,Sodermalm,3,79.5,1,Lägenhet,1997,[Södermalm],3795000,0,3795000,5765,Södermäklarna,1326.9959467661752,Skanstull
+2014-05-06,Tegelviksgatan 51,Sofia,Sodermalm,3,85,5,Lägenhet,1999,[Sofia Tegelviksgatan],3490000,287777,3777777,5254,HusmanHagberg,1332.2089512026926,Skanstull
+2014-05-05,Tengdahlsgatan 37,Sofia,Sodermalm,4,98,null,Lägenhet,2003,[Södermalm],4995000,205000,5200000,5575,Erik Olsson Fastighetsförmedling,1217.1163364914455,Skanstull
+2014-05-01,Skånegatan 113,Sofia,Sodermalm,3,62,2,Lägenhet,1933,[Södermalm],3495000,705000,4200000,3464,SthlmFast,980.5152870347678,Medborgarplatsen
+2014-04-30,Ploggatan 1,Sofia,Sodermalm,2.5,64,4,Lägenhet,1929,[Södermalm],3495000,145000,3640000,2815,Erik Olsson Fastighetsförmedling,1079.968542293226,Medborgarplatsen
+2014-04-30,Skånegatan 113,Sofia,Sodermalm,2,57,1.5,Lägenhet,1933,[Södermalm],3095000,0,3095000,2969,Vision Fastighetsmäkleri AB,980.5152870347678,Medborgarplatsen
+2014-04-30,Åsögatan 167,Sofia,Sodermalm,2,61,4,Lägenhet,1910,[Södermalm Sofia],3750000,920000,4670000,2940,Bjurfors,690.0333891795333,Medborgarplatsen
+2014-04-29,Folkungagatan 160,Sofia,Sodermalm,3,85,3,Lägenhet,1991,[Sofia],4500000,0,4500000,5501,Fastighetsbyrån,1138.8937062061977,Medborgarplatsen
+2014-04-29,Folkungagatan 146B,Sofia,Sodermalm,1,23,1,Lägenhet,null,[Katarina/Sofia],1850000,70000,1920000,900,Svensk Fastighetsförmedling,1011.0277068574795,Medborgarplatsen
+2014-04-28,Åsögatan 185,Sofia,Sodermalm,1,36,0.5,Lägenhet,1910,[Södermalm],2295000,255000,2550000,1921,Vasastansmäklarna,951.3966874468464,Medborgarplatsen
+2014-04-25,Åsögatan 166,Sofia,Sodermalm,4,121,4,Lägenhet,1884,[Katarina/Sofia],6975000,875000,7850000,4252,SkandiaMäklarna,631.8952803297685,Medborgarplatsen
+2014-04-23,Ploggatan 2,Sofia,Sodermalm,2,38,2,Lägenhet,1931,[Katarina/Sofia],2395000,285000,2680000,2295,Svensk Fastighetsförmedling,1056.8338146072992,Medborgarplatsen
+2014-04-23,Folkungagatan 112,Sofia,Sodermalm,2.5,63,5,Lägenhet,1927,[Södermalm],3775000,135000,3910000,3151,Erik Olsson Fastighetsförmedling,649.8363032307553,Medborgarplatsen
+2014-04-22,Beckbrännarbacken 1,Sofia,Sodermalm,1.5,31,0.5,Lägenhet,1929,[Södermalm],1995000,275000,2270000,1505,Erik Olsson Fastighetsförmedling,842.3928216733993,Medborgarplatsen
+2014-04-13,Alsnögatan 26,Sofia,Sodermalm,3,80,4,Lägenhet,2000,[Södermalm],4395000,55000,4450000,5899,Erik Olsson Fastighetsförmedling,1516.842069589175,Skanstull
+2014-04-10,Nackagatan 20,Sofia,Sodermalm,2,64,5,Lägenhet,1998,[Sofia],3295000,405000,3700000,5051,Fastighetsbyrån,1365.4660861979219,Skanstull
+2014-04-10,Åsögatan 181,Sofia,Sodermalm,2.5,73,null,Lägenhet,1930,[Sofia],4250000,180000,4430000,3979,Fastighetsbyrån,895.7342097049998,Medborgarplatsen
+2014-04-10,Nackagatan 22,Sofia,Sodermalm,3,82.5,4,Lägenhet,null,[Södermalm],3990000,110000,4100000,6283,Notar,1383.5620783889378,Skanstull
+2014-04-10,Erstagatan 16,Sofia,Sodermalm,1.5,45,1.5,Lägenhet,1928,[Södermalm],2495000,510000,3005000,2869,Svenska Mäklarhuset,927.3344836494736,Medborgarplatsen
+2014-04-07,Bondegatan 64B,Sofia,Sodermalm,2,46,4,Lägenhet,1916,[Södermalm],3400000,0,3400000,2791,BOSTHLM,718.414986752604,Medborgarplatsen
+2014-04-05,Klippgatan 21,Sofia,Sodermalm,2,55,4,Lägenhet,1924,[Södermalm-Sofia],3200000,0,3200000,3465,Södermäklarna,834.0523590455762,Medborgarplatsen
+2014-04-03,Barnängsgatan 21A,Sofia,Sodermalm,4,74.5,2,Lägenhet,2003,[Södermalm],3900000,370000,4270000,4546,Erik Olsson Fastighetsförmedling,1186.4606190047648,Skanstull
+2014-04-03,Barnängsgatan 21A,Sofia,Sodermalm,3,74.5,2,Lägenhet,2003,[Södermalm],3900000,370000,4270000,4546,Erik Olsson Fastighetsförmedling,1186.4606190047648,Skanstull
+2014-04-02,Folkungagatan 128,Sofia,Sodermalm,1,26,2,Lägenhet,1929,[Sofia],1895000,210000,2105000,1105,Fastighetsbyrån,793.845447737374,Medborgarplatsen
+2014-04-02,Renstiernas gata 27,Sofia,Sodermalm,1,28,3,Lägenhet,1959,[Södermalm Sofia],2175000,125000,2300000,659,HusmanHagberg,623.8578763818416,Medborgarplatsen
+2014-03-31,Alsnögatan 28,Sofia,Sodermalm,5,116.5,3,Lägenhet,2000,[Södermalm Sofia],5995000,1325000,7320000,8664,Bjurfors,1395.4609680656886,Skanstull
+2014-03-28,Erstagatan 22,Sofia,Sodermalm,2,36.4,2,Lägenhet,1939,[Södermalm Sofia],2495000,0,2495000,2195,Bjurfors,916.9753360731191,Medborgarplatsen
+2014-03-27,Sågargatan 16,Sofia,Sodermalm,1,29,2.5,Lägenhet,1930,[Södermalm],2150000,310000,2460000,2185,Länsförsäkringar Fastighetsförmedling,976.4134487623032,Medborgarplatsen
+2014-03-26,Erstagatan 18,Sofia,Sodermalm,1,29,2,Lägenhet,1929,[Södermalm Sofia],1990000,260000,2250000,1254,HusmanHagberg,925.0996523390243,Medborgarplatsen
+2014-03-26,Tegelviksgatan 38,Sofia,Sodermalm,3,86.5,1.5,Lägenhet,2003,[Södermalm],4495000,430000,4925000,5031,Erik Olsson Fastighetsförmedling,1254.1139527358284,Skanstull
+2014-03-21,Borgmästargatan 9,Sofia,Sodermalm,1,37,2,Lägenhet,1929,[Katarina/Sofia],2250000,50000,2300000,1976,Bostadsrättsspecialisten,734.4617779392341,Medborgarplatsen
+2014-03-19,Renstiernas gata 27,Sofia,Sodermalm,3,88,5,Lägenhet,1959,[Södermalm Sofia],5150000,575000,5725000,1686,Bjurfors,623.8578763818416,Medborgarplatsen
+2014-03-12,Kocksgatan 58,Sofia,Sodermalm,2,46,1,Lägenhet,1906,[Södermalm Katarina],2995000,460000,3455000,1993,Bjurfors,638.9938192639604,Medborgarplatsen
+2014-03-07,Bondegatan 60,Sofia,Sodermalm,3,81,5,Lägenhet,1968,[Södermalm-Sofia],5295000,55000,5350000,3311,Södermäklarna,683.9175374713293,Medborgarplatsen
+2014-03-06,Renstiernas gata 25,Sofia,Sodermalm,4,86,4,Lägenhet,1884,[Katarina/Sofia],5500000,300000,5800000,3322,SkandiaMäklarna,618.0468382819893,Medborgarplatsen
+2014-03-06,Bondegatan 72,Sofia,Sodermalm,2,57,1,Lägenhet,1924,[Katarina/Sofia],3650000,670000,4320000,2808,Bostadsrättsspecialisten,851.1123542517562,Medborgarplatsen
+2014-03-06,Gaveliusgatan 6,Sofia,Sodermalm,1.5,41,1,Lägenhet,1932,[Södermalm Sofia],2395000,105000,2500000,1528,HusmanHagberg,1011.3566430478453,Skanstull
+2014-03-06,Beckbrännarbacken 7,Sofia,Sodermalm,1,45,4,Lägenhet,1930,[Södermalm],2850000,250000,3100000,1998,Länsförsäkringar Fastighetsförmedling,870.0755978960551,Medborgarplatsen
+2014-03-05,Renstiernas gata 27,Sofia,Sodermalm,1,39,3,Lägenhet,null,[Södermalm],2695000,85000,2780000,830,Svensk Fastighetsförmedling,623.8578763818416,Medborgarplatsen
+2014-03-05,Kocksgatan 55,Sofia,Sodermalm,1.5,34,5,Lägenhet,1938,[Katarina/Sofia],2200000,310000,2510000,1580,SkandiaMäklarna,676.0639434781705,Medborgarplatsen
+2014-03-05,Ploggatan 2,Sofia,Sodermalm,2.5,71,2,Lägenhet,1931,[Katarina],3850000,320000,4170000,3469,Notar,1056.8338146072992,Medborgarplatsen
+2014-03-03,Nackagatan 22, v6,Sofia,Sodermalm,3,82.5,2,Lägenhet,null,[Södermalm],3995000,0,3995000,6283,Notar,1384.7029271314814,Skanstull
+2014-03-02,Kocksgatan 55,Sofia,Sodermalm,2,34,1,Lägenhet,1938,[Södermalm Sofia],2375000,0,2375000,1580,Bjurfors,676.0639434781705,Medborgarplatsen
+2014-02-28,Barnängsgatan 21C,Sofia,Sodermalm,3,73,1.5,Lägenhet,2003,[Södermalm],3895000,10000,3905000,4487,Erik Olsson Fastighetsförmedling,1159.3273860422898,Skanstull
+2014-02-28,Folkungagatan 136,Sofia,Sodermalm,1,28,5,Lägenhet,1929,[Katarina/Sofia],1895000,345000,2240000,1623,Bostadsrättsspecialisten,897.0949881913356,Medborgarplatsen
+2014-02-27,Klippgatan 14,Sofia,Sodermalm,1,27.5,null,Lägenhet,1929,[Katarina],1950000,370000,2320000,1588,Notar,811.230753303547,Medborgarplatsen
+2014-02-26,Alsnögatan 26,Sofia,Sodermalm,1.5,34.5,4,Lägenhet,2000,[Norra Hammarbyhamnen],1995000,55000,2050000,3022,SkandiaMäklarna,1516.842069589175,Skanstull
+2014-02-26,Åsögatan 194,Sofia,Sodermalm,2,46,4,Lägenhet,null,[Södermalm],2950000,50000,3000000,2372,Svensk Fastighetsförmedling,1025.691587015106,Medborgarplatsen
+2014-02-24,Tegelviksgatan 35,Sofia,Sodermalm,2.5,67.7,1,Lägenhet,2000,[Södermalm],2995000,5000,3000000,4274,Mäklarringen,1398.2597946242786,Skanstull
+2014-02-21,Åsögatan 174,Sofia,Sodermalm,1,22.5,3,Lägenhet,null,[Katarina/Sofia],1695000,325000,2020000,1302,BOSTHLM,756.3360357020542,Medborgarplatsen
+2014-02-20,Sågargatan 17,Sofia,Sodermalm,2,61,2,Lägenhet,1929,[Södermalm],3295000,305000,3600000,4547,Erik Olsson Fastighetsförmedling,1004.5539100404002,Medborgarplatsen
+2014-02-20,Åsögatan 173,Sofia,Sodermalm,2.5,74,null,Lägenhet,1929,[Katarina/Sofia],4500000,0,4500000,3667,Fastighetsbyrån,758.1973892051598,Medborgarplatsen
+2014-02-19,Alsnögatan 20,Sofia,Sodermalm,2,61,6,Lägenhet,2000,[Södermalm-Sofia],3950000,704000,4654000,3464,Södermäklarna,1474.1596716376262,Skanstull
+2014-02-18,Klippgatan 14B,Sofia,Sodermalm,2,47,1,Lägenhet,1930,[Katarina/Sofia],2875000,225000,3100000,2664,SkandiaMäklarna,813.1208461238265,Medborgarplatsen
+2014-02-18,Sågargatan 17,Sofia,Sodermalm,1,28,5,Lägenhet,1929,[Södermalm],2250000,450000,2700000,2087,Erik Olsson Fastighetsförmedling,1004.5539100404002,Medborgarplatsen
+2014-02-15,Klippgatan 14E,Sofia,Sodermalm,2,47,2,Lägenhet,1929,[Södermalm-Sofia],2775000,75000,2850000,2738,Södermäklarna,783.4179768364972,Medborgarplatsen
+2014-02-14,Bondegatan 64,Sofia,Sodermalm,3,88,1.5,Lägenhet,1916,[Södermalm],6410000,-290000,6120000,4620,BOSTHLM,717.0549890915464,Medborgarplatsen
+2014-02-14,Bondegatan 79,Sofia,Sodermalm,2,41,2,Lägenhet,1929,[Södermalm-Sofia],2495000,190000,2685000,2339,Södermäklarna,1244.845366466725,Medborgarplatsen
+2014-02-12,Duvnäsgatan 1,Sofia,Sodermalm,2,74,3,Lägenhet,1925,[Södermalm Sofia],3750000,475000,4225000,3583,Bjurfors,1194.9317677061745,Medborgarplatsen
+2014-02-10,Erstagatan 30,Sofia,Sodermalm,2,38,1,Lägenhet,1863,[Södermalm],2450000,150000,2600000,2043,Notar,923.7476081503632,Medborgarplatsen
+2014-02-10,Tengdahlsgatan 45,Sofia,Sodermalm,3.5,101.5,4,Lägenhet,1997,[Södermalm-Sofia],4700000,175000,4875000,7087,Södermäklarna,1316.3158095104625,Skanstull
+2014-02-10,Nackagatan 16,Sofia,Sodermalm,2.5,84,null,Lägenhet,1997,[Södermalm-Sofia],3495000,0,3495000,5440,Södermäklarna,1343.8023302271652,Skanstull
+2014-02-08,Åsögatan 176,Sofia,Sodermalm,1,34,3,Lägenhet,1929,[Södermalm Sofia],2250000,250000,2500000,1976,HusmanHagberg,792.2979687474641,Medborgarplatsen
+2014-02-06,Åsögatan 168,Sofia,Sodermalm,2,54,null,Lägenhet,1883,[Katarina/Sofia],3295000,215000,3510000,2647,Fastighetsbyrån,650.2703046211248,Medborgarplatsen
+2014-02-05,Borgmästargatan 9,Sofia,Sodermalm,2,46,1,Lägenhet,1930,[Katarina/Sofia],2695000,330000,3025000,2504,Fastighetsbyrån,734.4617779392341,Medborgarplatsen
+2014-02-05,Kocksgatan 60A,Sofia,Sodermalm,1,47,null,Lägenhet,1905,[Katarina/Sofia],2500000,320000,2820000,2037,Fastighetsbyrån,647.9805528683506,Medborgarplatsen
+2014-02-03,Tegelviksgatan 37,Sofia,Sodermalm,2.5,71,null,Lägenhet,2000,[Norra Hammarbyhamnen],3150000,-150000,3000000,4610,SkandiaMäklarna,1385.7252439094855,Skanstull
+2014-02-03,Folkungagatan 130,Sofia,Sodermalm,2.5,61,3,Lägenhet,1929,[Södermalm Sofia],3795000,130000,3925000,2563,HusmanHagberg,798.5589567103405,Medborgarplatsen
+2014-02-03,Skånegatan 107,Sofia,Sodermalm,1,36,null,Lägenhet,1928,[Södermalm],2295000,370000,2665000,1987,Diplomat Fastighetsmäkleri AB,871.3930847663086,Medborgarplatsen
+2014-02-03,Klippgatan 14H,Sofia,Sodermalm,1,28,1,Lägenhet,1929,[Södermalm],1995000,55000,2050000,1634,Fantastic Frank Fastighetsmäkleri,813.4805017647982,Medborgarplatsen
+2014-02-02,Gaveliusgatan 6,Sofia,Sodermalm,1,32,null,Lägenhet,1938,[Södermalm-Sofia],2190000,0,2190000,1274,Södermäklarna,1011.3566430478453,Skanstull
+2014-02-01,Färgargårdstorget 74,Sofia,Sodermalm,4,103.5,3,Lägenhet,1982,[Södermalm],5900000,-300000,5600000,4485,Erik Olsson Fastighetsförmedling,1044.5941462748704,Skanstull
+2014-01-30,Tengdahlsgatan 41,Sofia,Sodermalm,2,55.5,7,Lägenhet,1997,[Södermalm],2995000,330000,3325000,4357,Svensk Fastighetsförmedling,1283.6272181856407,Skanstull
+2014-01-30,Tegelviksgatan 35,Sofia,Sodermalm,3,80,null,Lägenhet,2000,[Norra Hammarbyhamnen],3950000,400000,4350000,4678,SkandiaMäklarna,1398.2597946242786,Skanstull
+2014-01-30,Tegelviksgatan 77,Sofia,Sodermalm,2,57,5,Lägenhet,1997,[Södermalm],3250000,525000,3775000,3897,Länsförsäkringar Fastighetsförmedling,1287.1826827126702,Skanstull
+2014-01-29,Åsögatan 192,Sofia,Sodermalm,2,58,2,Lägenhet,1930,[Södermalm Sofia],3490000,0,3490000,2834,Bjurfors,992.4489703261547,Medborgarplatsen
+2014-01-28,Erstagatan 20,Sofia,Sodermalm,2.5,77,1,Lägenhet,1929,[Södermalm],4595000,155000,4750000,1806,Erik Olsson Fastighetsförmedling,922.9909832296341,Medborgarplatsen
+2014-01-26,Åsögatan 170,Sofia,Sodermalm,4,115,1,Lägenhet,1913,[Katarina/Sofia],6500000,400000,6900000,2265,SkandiaMäklarna,674.6427717089324,Medborgarplatsen
+2014-01-24,Åsögatan 176,Sofia,Sodermalm,2.5,78,6,Lägenhet,1930,[Katarina/Sofia],5975000,300000,6275000,4204,SkandiaMäklarna,792.2979687474641,Medborgarplatsen
+2014-01-24,Sågargatan 16,Sofia,Sodermalm,2,59,2,Lägenhet,1930,[Södermalm],3350000,210000,3560000,3413,Länsförsäkringar Fastighetsförmedling,976.4134487623032,Medborgarplatsen
+2014-01-23,Åsögatan 181,Sofia,Sodermalm,2,49,1,Lägenhet,1929,[Södermalm],2975000,25000,3000000,2796,Bostadsrättsspecialisten,895.7342097049998,Medborgarplatsen
+2014-01-19,Sågargatan 4,Sofia,Sodermalm,4,120,1,Lägenhet,1914,[Södermalm Sofia],7295000,55000,7350000,3109,HusmanHagberg,1009.5982941367239,Medborgarplatsen
+2014-01-16,Erstagatan 18,Sofia,Sodermalm,1.5,46,2,Lägenhet,1929,[Södermalm Sofia],2790000,355000,3145000,1885,HusmanHagberg,925.0996523390243,Medborgarplatsen
+2014-01-16,Renstiernas gata 25,Sofia,Sodermalm,4,102,2,Lägenhet,1884,[Katarina/Sofia],5950000,800000,6750000,3840,Fastighetsbyrån,618.0468382819893,Medborgarplatsen
+2014-01-15,Erstagatan 22,Sofia,Sodermalm,2.5,74,3,Lägenhet,1943,[Södermalm],4750000,0,4750000,3841,Erik Olsson Fastighetsförmedling,916.9753360731191,Medborgarplatsen
+2014-01-15,Skånegatan 107,Sofia,Sodermalm,2.5,72,5,Lägenhet,1929,[Södermalm],3995000,480000,4475000,3741,Erik Olsson Fastighetsförmedling,871.3930847663086,Medborgarplatsen
+2014-01-15,Stigbergsgatan 32A,Sofia,Sodermalm,1,33,4,Lägenhet,1930,[Södermalm Sofia],2395000,515000,2910000,1614,Bjurfors,854.7959684531146,Medborgarplatsen
+2014-01-14,Borgmästargatan 10B,Sofia,Sodermalm,1,27,null,Lägenhet,1884,[Katarina/Sofia],1910000,365000,2275000,1431,SkandiaMäklarna,714.7084540334708,Medborgarplatsen
+2014-01-11,Sågargatan 14,Sofia,Sodermalm,2,43,3,Lägenhet,1930,[Södermalm Sofia],2490000,60000,2550000,2564,HusmanHagberg,988.8910597595583,Medborgarplatsen
+2014-01-08,Borgmästargatan 9,Sofia,Sodermalm,2,36,2,Lägenhet,1928,[Södermalm],2250000,500000,2750000,1843,Notar,734.4617779392341,Medborgarplatsen
+2013-12-20,Renstiernas gata 41C,Sofia,Sodermalm,3,77,null,Lägenhet,1884,[Tullgården],5975000,550000,6525000,4272,SkandiaMäklarna,736.1567647171094,Skanstull
+2013-12-18,Sågargatan 17,Sofia,Sodermalm,1,22,4,Lägenhet,1929,[Södermalm],1595000,255000,1850000,1577,Erik Olsson Fastighetsförmedling,1004.5539100404002,Medborgarplatsen
+2013-12-14,Erstagatan 16,Sofia,Sodermalm,1,30,null,Lägenhet,1928,[Katarina/Sofia],1975000,225000,2200000,1765,SkandiaMäklarna,927.3344836494736,Medborgarplatsen
+2013-12-11,Erstagatan 20,Sofia,Sodermalm,4,93,1,Lägenhet,1929,[Södermalm],5395000,255000,5650000,1959,Svensk Fastighetsförmedling,922.9909832296341,Medborgarplatsen
+2013-12-11,Tegelviksgatan 41,Sofia,Sodermalm,2,57,null,Lägenhet,1999,[Södermalm],2690000,160000,2850000,3197,Erik Olsson Fastighetsförmedling,1392.6599111798207,Skanstull
+2013-12-10,Tegelviksgatan 35,Sofia,Sodermalm,3,78.5,6,Lägenhet,2000,[Södermalm],3895000,430000,4325000,4862,Mäklarringen,1398.2597946242786,Skanstull
+2013-12-07,Åsögatan 187,Sofia,Sodermalm,1,40,3,Lägenhet,1903,[Södermalm Sofia],2295000,205000,2500000,2025,Bjurfors,964.5900492935568,Medborgarplatsen
+2013-12-06,Åsögatan 194,Sofia,Sodermalm,2,47,3,Lägenhet,1930,[Södermalm Sofia],2790000,210000,3000000,2415,HusmanHagberg,1025.691587015106,Medborgarplatsen
+2013-12-06,Klippgatan 14D,Sofia,Sodermalm,1,35.5,1,Lägenhet,1930,[Södermalm Sofia],1990000,320000,2310000,1968,HusmanHagberg,793.542700601228,Medborgarplatsen
+2013-12-04,Tegelviksgatan 30,Sofia,Sodermalm,2,50.5,2,Lägenhet,2006,[Södermalm],2490000,610000,3100000,3712,Svensk Fastighetsförmedling,1294.8042320369404,Skanstull
+2013-12-04,Ploggatan 1,Sofia,Sodermalm,1,32,5,Lägenhet,1932,[Södermalm Sofia],2225000,245000,2470000,1428,HusmanHagberg,1079.968542293226,Medborgarplatsen
+2013-11-28,Beckbrännarbacken 1,Sofia,Sodermalm,3.5,83,3,Lägenhet,1929,[Katarina/Sofia],5150000,525000,5675000,3964,SkandiaMäklarna,842.3928216733993,Medborgarplatsen
+2013-11-28,Kocksgatan 60B,Sofia,Sodermalm,2,44,null,Lägenhet,1904,[Södermalm],2795000,-95000,2700000,1993,Svensk Fastighetsförmedling,664.526420482435,Medborgarplatsen
+2013-11-27,Åsögatan 175,Sofia,Sodermalm,1,26,0.5,Lägenhet,1929,[Södermalm],1950000,50000,2000000,1692,Svensk Fastighetsförmedling,776.54493366353,Medborgarplatsen
+2013-11-25,Gruvbacken 2,Sofia,Sodermalm,3,70,null,Lägenhet,1925,[Katarina/Sofia],4200000,-90000,4110000,3202,SkandiaMäklarna,1207.5527085327328,Medborgarplatsen
+2013-11-21,Sågargatan 17,Sofia,Sodermalm,2,35,3,Lägenhet,1929,[Södermalm Sofia],2350000,45000,2395000,2509,HusmanHagberg,1004.5539100404002,Medborgarplatsen
+2013-11-20,Åsögatan 182,Sofia,Sodermalm,2,36,3,Lägenhet,1943,[Södermalm],2295000,110000,2405000,2019,Länsförsäkringar Fastighetsförmedling,879.4815359655742,Medborgarplatsen
+2013-11-20,Beckbrännarbacken 1,Sofia,Sodermalm,2,45,2.5,Lägenhet,1929,[Katarina],2795000,155000,2950000,2385,Notar,842.3928216733993,Medborgarplatsen
+2013-11-19,Åsögatan 196,Sofia,Sodermalm,1,38,5,Lägenhet,1931,[Södermalm Sofia],2350000,-100000,2250000,2296,Bjurfors,1051.5128632927092,Medborgarplatsen
+2013-11-16,Erstagatan 26,Sofia,Sodermalm,2,44,1,Lägenhet,1912,[Katarina],2850000,300000,3150000,2284,Notar,916.5209640118194,Medborgarplatsen
+2013-11-13,Tegelviksgatan 77,Sofia,Sodermalm,3,88,null,Lägenhet,1997,[Norra Hammarbyhamnen],4800000,190000,4990000,5333,SkandiaMäklarna,1287.1826827126702,Skanstull
+2013-11-08,Tegelviksgatan 61,Sofia,Sodermalm,3,87.5,3,Lägenhet,1998,[Södermalm],3850000,350000,4200000,6352,Länsförsäkringar Fastighetsförmedling,1297.6039102743273,Skanstull
+2013-11-07,Beckbrännarbacken 6,Sofia,Sodermalm,2,52,null,Lägenhet,1929,[Katarina/Sofia],2975000,145000,3120000,3012,Fastighetsbyrån,789.3067371243711,Medborgarplatsen
+2013-11-07,Åsögatan 173,Sofia,Sodermalm,1,26,2,Lägenhet,1929,[Katarina/Sofia],1850000,190000,2040000,1659,A-mäklarna,758.1973892051598,Medborgarplatsen
+2013-11-01,Folkungagatan 128,Sofia,Sodermalm,2.5,61,2,Lägenhet,1929,[Södermalm Sofia],3995000,305000,4300000,2526,HusmanHagberg,793.845447737374,Medborgarplatsen
+2013-10-31,Nackagatan 22,Sofia,Sodermalm,2,47,7,Lägenhet,1997,[Norra Hammarbyhamnen],2990000,520000,3510000,4117,SkandiaMäklarna,1383.5620783889378,Skanstull
+2013-10-31,Åsögatan 182,Sofia,Sodermalm,2,59,1.5,Lägenhet,1943,[Södermalm],3150000,50000,3200000,3227,Länsförsäkringar Fastighetsförmedling,879.4815359655742,Medborgarplatsen
+2013-10-30,Beckbrännarbacken 6,Sofia,Sodermalm,2,47,null,Lägenhet,1929,[Södermalm],2950000,190000,3140000,2758,Fantastic Frank Fastighetsmäkleri,789.3067371243711,Medborgarplatsen
+2013-10-25,Tengdahlsgatan 45,Sofia,Sodermalm,2,70,2,Lägenhet,1997,[Södermalm],3395000,-195000,3200000,5240,Svensk Fastighetsförmedling,1316.3158095104625,Skanstull
+2013-10-24,Erstagatan 22,Sofia,Sodermalm,2,56.5,null,Lägenhet,1943,[Katarina/Sofia],3195000,355000,3550000,2891,Fastighetsbyrån,916.9753360731191,Medborgarplatsen
+2013-10-24,Tengdahlsgatan 47,Sofia,Sodermalm,1.5,45,null,Lägenhet,1997,[Norra Hammarbyhamnen],2295000,0,2295000,3551,Fastighetsbyrån,1326.9959467661752,Skanstull
+2013-10-24,Klippgatan 14,Sofia,Sodermalm,2,43.5,1,Lägenhet,1929,[Tullgården],3375000,-175000,3200000,2551,SkandiaMäklarna,811.230753303547,Medborgarplatsen
+2013-10-23,Erstagatan 18,Sofia,Sodermalm,1.5,44,2,Lägenhet,1929,[Södermalm-Sofia],2600000,200000,2800000,1778,Södermäklarna,925.0996523390243,Medborgarplatsen
+2013-10-23,Erstagatan 23,Sofia,Sodermalm,1,42,3,Lägenhet,1930,[Södermalm Sofia],2400000,220000,2620000,2335,Bjurfors,941.9210067032147,Medborgarplatsen
+2013-10-22,Åsögatan 163,Sofia,Sodermalm,1,40,null,Lägenhet,1927,[Södermalm],2495000,55000,2550000,855,Wendell Fastighetsförmedling AB,651.5643098852942,Medborgarplatsen
+2013-10-22,Duvnäsgatan 5,Sofia,Sodermalm,2,69,null,Lägenhet,1906,[Södermalm],3995000,355000,4350000,2675,Svensk Fastighetsförmedling,1183.578248237564,Medborgarplatsen
+2013-10-19,Klippgatan 14,Sofia,Sodermalm,1.5,43.5,null,Lägenhet,null,[Södermalm-Sofia],2995000,130000,3125000,2353,Södermäklarna,811.230753303547,Medborgarplatsen
+2013-10-18,Erstagatan 7,Sofia,Sodermalm,1,35,null,Lägenhet,1926,[Katarina/Sofia],2295000,5000,2300000,1027,Fastighetsbyrån,950.7267980547396,Medborgarplatsen
+2013-10-17,Skånegatan 107,Sofia,Sodermalm,4.5,125,4,Lägenhet,null,[Södermalm-Sofia],6950000,1300000,8250000,6308,Södermäklarna,871.3930847663086,Medborgarplatsen
+2013-10-16,Alsnögatan 18,Sofia,Sodermalm,3,72,null,Lägenhet,2000,[Norra Hammarbyhamnen],4295000,1030000,5325000,4102,Fastighetsbyrån,1461.859497248362,Skanstull
+2013-10-16,Nackagatan 22,Sofia,Sodermalm,1,39.5,null,Lägenhet,1997,[Södermalm Sofia],1695000,405000,2100000,3114,HusmanHagberg,1383.5620783889378,Skanstull
+2013-10-16,Folkungagatan 114,Sofia,Sodermalm,2.5,64,null,Lägenhet,1938,[Katarina/Sofia],3750000,215000,3965000,2740,Fastighetsbyrån,655.0875111841284,Medborgarplatsen
+2013-10-11,Sjökvarnsbacken 12,Sofia,Sodermalm,2,57,null,Lägenhet,2007,[Saltsjöqvarn],2775000,265000,3040000,4299,Länsförsäkringar Fastighetsförmedling,1977.4591870263982,Medborgarplatsen
+2013-10-10,Tegelviksgatan 37,Sofia,Sodermalm,3,76.7,6,Lägenhet,2000,[Sofia Tegelviksgatan],3990000,60000,4050000,4744,HusmanHagberg,1385.7252439094855,Skanstull
+2013-10-10,Folkungagatan 101,Sofia,Sodermalm,1,39,5,Lägenhet,1975,[Södermalm-Sofia],2100000,115000,2215000,1045,Exbo,632.4172003243742,Medborgarplatsen
+2013-10-10,Lilla Erstagatan 6,Sofia,Sodermalm,2,47,null,Lägenhet,1930,[Södermalm Sofia],3400000,100000,3500000,2262,Bjurfors,861.6787416053237,Medborgarplatsen
+2013-10-09,Åsögatan 192,Sofia,Sodermalm,5,109,2,Lägenhet,1930,[Södermalm],5750000,60000,5810000,5165,Svensk Fastighetsförmedling,992.4489703261547,Medborgarplatsen
+2013-10-09,Borgmästargatan 9,Sofia,Sodermalm,2,41,null,Lägenhet,1929,[Katarina/Sofia],2495000,105000,2600000,2312,SkandiaMäklarna,734.4617779392341,Medborgarplatsen
+2013-10-08,Gruvbacken 4,Sofia,Sodermalm,2,45,null,Lägenhet,null,[Södermalm],2620000,-20000,2600000,2519,Sight,1222.6325855815687,Medborgarplatsen
+2013-10-07,Bondegatan 64,Sofia,Sodermalm,1,35,null,Lägenhet,null,[Katarina/Sofia],2190000,170000,2360000,2102,BOSTHLM,717.0549890915464,Medborgarplatsen
+2013-10-05,Tjärhovsgatan 52,Sofia,Sodermalm,2,61,3,Lägenhet,1975,[Södermalm],3490000,180000,3670000,1518,Notar,651.6143225385804,Medborgarplatsen
+2013-10-04,Erstagatan 18,Sofia,Sodermalm,1.5,45,null,Lägenhet,1929,[Södermalm],2850000,100000,2950000,1685,Notar,925.0996523390243,Medborgarplatsen
+2013-10-04,Åsögatan 176,Sofia,Sodermalm,1,22,3,Lägenhet,1929,[Södermalm Sofia],1750000,190000,1940000,1253,HusmanHagberg,792.2979687474641,Medborgarplatsen
+2013-10-03,Nackagatan 20,Sofia,Sodermalm,2,66.5,null,Lägenhet,1998,[Norra Hammarbyhamnen],2900000,-50000,2850000,5005,Fastighetsbyrån,1365.4660861979219,Skanstull
+2013-10-03,Tengdahlsgatan 47,Sofia,Sodermalm,2,54.5,null,Lägenhet,1997,[Norra Hammarbyhamnen],2795000,-75000,2720000,4573,Fastighetsbyrån,1326.9959467661752,Skanstull
+2013-10-02,Bondegatan 74,Sofia,Sodermalm,3,90,4,Lägenhet,1914,[Kocksgatan/Åsögatan],4750000,1100000,5850000,4696,Mäklarhuset,879.1438653002407,Medborgarplatsen
+2013-10-02,Bondegatan 64,Sofia,Sodermalm,1,33,null,Lägenhet,null,[Katarina/Sofia],2250000,0,2250000,2139,BOSTHLM,717.0549890915464,Medborgarplatsen
+2013-09-26,Åsögatan 181,Sofia,Sodermalm,2,49,2,Lägenhet,1929,[Södermalm],2750000,400000,3150000,2746,Notar,895.7342097049998,Medborgarplatsen
+2013-09-25,Borgmästargatan 9,Sofia,Sodermalm,2,36,2,Lägenhet,null,[Södermalm],2300000,0,2300000,2072,Erik Olsson Fastighetsförmedling,734.4617779392341,Medborgarplatsen
+2013-09-24,Åsögatan 163,Sofia,Sodermalm,1,40,2,Lägenhet,1927,[Kocksgatan/Åsögatan],2590000,-90000,2500000,855,SkandiaMäklarna,651.5643098852942,Medborgarplatsen
+2013-09-20,Tegelviksgatan 59,Sofia,Sodermalm,1,51,null,Lägenhet,1997,[Norra Hammarbyhamnen],1995000,25000,2020000,4092,Fastighetsbyrån,1304.3970921365426,Skanstull
+2013-09-19,Åsögatan 191,Sofia,Sodermalm,2,58,4,Lägenhet,null,[Södermalm],3695000,415000,4110000,2759,Erik Olsson Fastighetsförmedling,992.4916600734709,Medborgarplatsen
+2013-09-13,Lilla Erstagatan 6,Sofia,Sodermalm,5,152,null,Lägenhet,1930,[Katarina/Mosebacke],9975000,50000,10025000,7120,Fastighetsbyrån,861.6787416053237,Medborgarplatsen
+2013-09-13,Gruvbacken 4,Sofia,Sodermalm,1.5,45,null,Lägenhet,1929,[Södermalm],2650000,20000,2670000,2492,Svensk Fastighetsförmedling,1222.6325855815687,Medborgarplatsen
+2013-09-12,Borgmästargatan 4,Sofia,Sodermalm,2,38,null,Lägenhet,null,[Södermalm],2475000,225000,2700000,2039,Vasastansmäklarna,707.5353902850276,Medborgarplatsen
+2013-09-12,Sågargatan 17,Sofia,Sodermalm,1,23,null,Lägenhet,1930,[Kocksgatan/Åsögatan],1575000,275000,1850000,1648,SkandiaMäklarna,1004.5539100404002,Medborgarplatsen
+2013-09-11,Folkungagatan 136,Sofia,Sodermalm,2,73,null,Lägenhet,1930,[Kocksgatan/Åsögatan],3250000,850000,4100000,3659,Fastighetsbyrån,897.0949881913356,Medborgarplatsen
+2013-09-10,Ploggatan 1,Sofia,Sodermalm,1,36,4,Lägenhet,1932,[Södermalm Sofia],2350000,250000,2600000,1744,HusmanHagberg,1079.968542293226,Medborgarplatsen
+2013-09-09,Beckbrännarbacken 7,Sofia,Sodermalm,1,11,null,Lägenhet,1929,[Södermalm],995000,375000,1370000,520,Svensk Fastighetsförmedling,870.0755978960551,Medborgarplatsen
+2013-09-04,Bondegatan 51,Sofia,Sodermalm,4,72,4,Lägenhet,null,[Södermalm],4295000,-195000,4100000,4012,Erik Olsson Fastighetsförmedling,845.0744528277613,Medborgarplatsen
+2013-08-29,Bondegatan 64,Sofia,Sodermalm,2,61,null,Lägenhet,1915,[Södermalm Sofia],2950000,225000,3175000,3350,Bjurfors,717.0549890915464,Medborgarplatsen
+2013-08-29,Bondegatan 63,Sofia,Sodermalm,3,62,null,Lägenhet,1932,[Södermalm Sofia],4295000,55000,4350000,3801,Bjurfors,1024.3166719667283,Medborgarplatsen
+2013-08-28,Tegelviksgatan 33,Sofia,Sodermalm,3,76.7,null,Lägenhet,2000,[Katarina],3995000,105000,4100000,4596,Notar,1413.029796143846,Skanstull
+2013-08-28,Klippgatan 14B,Sofia,Sodermalm,1,35.5,null,Lägenhet,1930,[Kocksgatan/Åsögatan],2150000,410000,2560000,2069,Fastighetsbyrån,813.1208461238265,Medborgarplatsen
+2013-08-25,Folkungagatan 128,Sofia,Sodermalm,3,69,1.5,Lägenhet,1929,[Södermalm Sofia],4490000,385000,4875000,2782,HusmanHagberg,793.845447737374,Medborgarplatsen
+2013-08-23,Tegelviksgatan 36,Sofia,Sodermalm,4,95.5,1.5,Lägenhet,null,[Södermalm],4650000,450000,5100000,5476,Erik Olsson Fastighetsförmedling,1260.8802107416227,Skanstull
+2013-08-23,Folkungagatan 103,Sofia,Sodermalm,3,88,2,Lägenhet,null,[Södermalm],5190000,-190000,5000000,4069,Erik Olsson Fastighetsförmedling,659.1952164961291,Medborgarplatsen
+2013-08-20,Erstagatan 23,Sofia,Sodermalm,2,38,4,Lägenhet,1930,[Södermalm],2495000,-95000,2400000,2112,SkandiaMäklarna,941.9210067032147,Medborgarplatsen
+2013-08-17,Folkungagatan 112,Sofia,Sodermalm,3,86,5,Lägenhet,1927,[Katarina],5750000,0,5750000,4013,Notar,649.8363032307553,Medborgarplatsen
+2013-08-16,Ploggatan 5,Sofia,Sodermalm,2,48,null,Lägenhet,1883,[Kocksgatan/Åsögatan],2700000,100000,2800000,2261,Fastighetsbyrån,1066.711752260238,Medborgarplatsen
+2013-08-15,Erstagatan 16,Sofia,Sodermalm,1.5,44,null,Lägenhet,1929,[Kocksgatan/Åsögatan],2495000,-95000,2400000,2706,Fastighetsbyrån,927.3344836494736,Medborgarplatsen
+2013-08-15,Sågargatan 17,Sofia,Sodermalm,3,63,null,Lägenhet,1924,[Södermalm],3495000,0,3495000,4372,Svenska Mäklarhuset,1004.5539100404002,Medborgarplatsen
+2013-08-15,Tegelviksgatan 71,Sofia,Sodermalm,3,77,null,Lägenhet,1997,[Södermalm],3795000,855000,4650000,4799,SkandiaMäklarna,1260.9074842207224,Skanstull
+2013-08-14,Tengdahlsgatan 37,Sofia,Sodermalm,2,62,null,Lägenhet,null,[Södermalm],2990000,660000,3650000,3961,Erik Olsson Fastighetsförmedling,1217.1163364914455,Skanstull
+2013-08-09,Barnängsgatan 21A,Sofia,Sodermalm,3,86.5,0.5,Lägenhet,null,[Södermalm],3975000,25000,4000000,5031,Erik Olsson Fastighetsförmedling,1186.4606190047648,Skanstull
+2013-08-08,Stigbergsgatan 32,Sofia,Sodermalm,1,26,4,Lägenhet,null,[Katarina/Mosebacke],1995000,455000,2450000,1157,Bostadsrättsspecialisten,854.7959684531146,Medborgarplatsen
+2013-08-07,Beckbrännarbacken 6,Sofia,Sodermalm,1,25,null,Lägenhet,1929,[Kocksgatan/Åsögatan],1750000,180000,1930000,1641,Fastighetsbyrån,789.3067371243711,Medborgarplatsen
+2013-08-06,Folkungagatan 136,Sofia,Sodermalm,1,30,null,Lägenhet,1929,[Södermalm],1850000,250000,2100000,1703,Svensk Fastighetsförmedling,897.0949881913356,Medborgarplatsen
+2013-08-01,Nackagatan 14,Sofia,Sodermalm,2,67,2,Lägenhet,1997,[Södermalm],2975000,-130000,2845000,4877,SkandiaMäklarna,1328.305399150787,Skanstull
+2013-07-20,Klippgatan 14F,Sofia,Sodermalm,1,21,null,Lägenhet,1930,[Södermalm],1925000,0,1925000,1156,SkandiaMäklarna,811.230753303547,Medborgarplatsen
+2013-07-05,Åsögatan 166,Sofia,Sodermalm,2,44,4,Lägenhet,1884,[Södermalm],2750000,300000,3050000,1840,SkandiaMäklarna,631.8952803297685,Medborgarplatsen
+2013-07-05,Folkungagatan 128,Sofia,Sodermalm,2.5,68,2,Lägenhet,1929,[Södermalm],3995000,65000,4060000,2779,Svenska Mäklarhuset,793.845447737374,Medborgarplatsen
+2013-06-28,Åsögatan 189,Sofia,Sodermalm,2,41,1,Lägenhet,1905,[Södermalm Sofia],2395000,25000,2420000,2060,HusmanHagberg,978.1147014574385,Medborgarplatsen
+2013-06-28,Tegelviksgatan 37,Sofia,Sodermalm,2,50.9,null,Lägenhet,2000,[Norra Hammarbyhamnen],2990000,0,2990000,3399,Fastighetsbyrån,1385.7252439094855,Skanstull
+2013-06-27,Erstagatan 28B,Sofia,Sodermalm,4,77,3,Lägenhet,null,[Södermalm],4500000,20000,4520000,4148,BOSTHLM,910.9491953376346,Medborgarplatsen
+2013-06-20,Renstiernas gata 43,Sofia,Sodermalm,2,59,null,Lägenhet,1882,[Nytorget/Metargatan/Tullgården],3495000,580000,4075000,3595,Fastighetsbyrån,704.5256462511995,Skanstull
+2013-06-20,Bondegatan 60,Sofia,Sodermalm,3,82,5,Lägenhet,1968,[Södermalm],4995000,0,4995000,3331,Svensk Fastighetsförmedling,683.9175374713293,Medborgarplatsen
+2013-06-20,Renstiernas gata 23,Sofia,Sodermalm,2,40,null,Lägenhet,null,[Södermalm],2650000,190000,2840000,900,Södermäklarna,609.7440990199623,Medborgarplatsen
+2013-06-19,Nackagatan 23,Sofia,Sodermalm,2,68,5,Lägenhet,1999,[Södermalm Sofia],3450000,295000,3745000,4569,HusmanHagberg,1371.9946914598593,Skanstull
+2013-06-19,Bondegatan 72B,Sofia,Sodermalm,2,38,5,Lägenhet,null,[Södermalm],2750000,-100000,2650000,1872,SkandiaMäklarna,828.1775063075102,Medborgarplatsen
+2013-06-19,Tegelviksgatan 83,Sofia,Sodermalm,3.5,102,null,Lägenhet,1997,[Norra Hammarbyhamnen],4275000,665000,4940000,6164,Fastighetsbyrån,1231.7368899128205,Skanstull
+2013-06-18,Åsögatan 173,Sofia,Sodermalm,2,45,null,Lägenhet,1929,[Kocksgatan/Åsögatan],2495000,255000,2750000,2414,Fastighetsbyrån,758.1973892051598,Medborgarplatsen
+2013-06-15,Folkungagatan 112,Sofia,Sodermalm,4,139,null,Lägenhet,1927,[Södermalm],9500000,0,9500000,6111,Living Fastighetsmäkleri,649.8363032307553,Medborgarplatsen
+2013-06-14,Stigbergsgatan 32A,Sofia,Sodermalm,1,27,1,Lägenhet,null,[Södermalm],1695000,485000,2180000,1111,Erik Olsson Fastighetsförmedling,854.7959684531146,Medborgarplatsen
+2013-06-13,Åsögatan 175,Sofia,Sodermalm,2,48,null,Lägenhet,1929,[Kocksgatan/Åsögatan],2495000,20000,2515000,2758,Fastighetsbyrån,776.54493366353,Medborgarplatsen
+2013-06-13,Bondegatan 72A,Sofia,Sodermalm,4,98,4,Lägenhet,1923,[Södermalm Sofia],5990000,1095000,7085000,4779,HusmanHagberg,861.8178292485591,Medborgarplatsen
+2013-06-07,Bondegatan 80,Sofia,Sodermalm,2,33,1,Lägenhet,1940,[Sofia Södermalm],1990000,240000,2230000,1975,HusmanHagberg,976.7492956838395,Medborgarplatsen
+2013-06-06,Klippgatan 14I,Sofia,Sodermalm,1.5,42,null,Lägenhet,1930,[Kocksgatan/Åsögatan],2350000,150000,2500000,2353,Fastighetsbyrån,801.3649360164274,Medborgarplatsen
+2013-06-05,Åsögatan 184,Sofia,Sodermalm,2,60.5,null,Lägenhet,1912,[Kocksgatan/Åsögatan],3495000,925000,4420000,3006,Fastighetsbyrån,895.1079495775975,Medborgarplatsen
+2013-06-04,Stigbergsgatan 32A,Sofia,Sodermalm,1,28,5,Lägenhet,1930,[Katarina/Mosebacke],2575000,0,2575000,1296,Mäklarhuset,854.7959684531146,Medborgarplatsen
+2013-06-04,Folkungagatan 101,Sofia,Sodermalm,2,42,null,Lägenhet,1975,[Katarina/Mosebacke],2495000,230000,2725000,1104,Fastighetsbyrån,632.4172003243742,Medborgarplatsen
+2013-06-04,Färgargårdstorget 80,Sofia,Sodermalm,4,107,4,Lägenhet,1981,[Södermalm Sofia],5800000,-25000,5775000,4617,HusmanHagberg,1021.4912256798332,Skanstull
+2013-06-04,Nackagatan 14,Sofia,Sodermalm,2,67,null,Lägenhet,1997,[Norra Hammarbyhamnen],2775000,-275000,2500000,4877,Fastighetsbyrån,1328.305399150787,Skanstull
+2013-06-01,Tegelviksgatan 47,Sofia,Sodermalm,3,93,null,Lägenhet,1999,[Norra Hammarbyhamnen],3975000,475000,4450000,5194,Länsförsäkringar Fastighetsförmedling,1356.182344259284,Skanstull
+2013-05-23,Erstagatan 20,Sofia,Sodermalm,2,41,4,Lägenhet,1930,[Kocksgatan/Åsögatan],2750000,0,2750000,1027,Mäklarhuset,922.9909832296341,Medborgarplatsen
+2013-05-22,Erstagatan 18,Sofia,Sodermalm,1.5,39,5,Lägenhet,1929,[Katarina],2395000,315000,2710000,1517,Notar,925.0996523390243,Medborgarplatsen
+2013-05-21,Tegelviksgatan 75,Sofia,Sodermalm,3,67,null,Lägenhet,1997,[Södermalm Sofia],2750000,35000,2785000,4307,HusmanHagberg,1255.4624319303584,Skanstull
+2013-05-20,Bondegatan 45,Sofia,Sodermalm,2,46,null,Lägenhet,1930,[Södermalm],2650000,25000,2675000,2504,Mäklarringen,761.7698735833129,Medborgarplatsen
+2013-05-17,Åsögatan 182,Sofia,Sodermalm,1.5,40,null,Lägenhet,1943,[Kocksgatan/Åsögatan],2150000,130000,2280000,2044,Fastighetsbyrån,879.4815359655742,Medborgarplatsen
+2013-05-15,Bondegatan 45,Sofia,Sodermalm,2,62,null,Lägenhet,1930,[Södermalm Sofia],3175000,25000,3200000,3420,Bjurfors,761.7698735833129,Medborgarplatsen
+2013-05-14,Bondegatan 81,Sofia,Sodermalm,2.5,87,6,Lägenhet,1929,[Södermalm Sofia],4500000,-350000,4150000,4966,HusmanHagberg,1255.6091343409848,Medborgarplatsen
+2013-05-13,Tengdahlsgatan 47,Sofia,Sodermalm,3,79.5,5,Lägenhet,null,[Södermalm],3795000,430000,4225000,5813,Erik Olsson Fastighetsförmedling,1326.9959467661752,Skanstull
+2013-05-09,Bondegatan 51,Sofia,Sodermalm,2.5,64,null,Lägenhet,1940,[Kocksgatan/Åsögatan],3100000,525000,3625000,3505,Fastighetsbyrån,845.0744528277613,Medborgarplatsen
+2013-05-09,Klippgatan 14C,Sofia,Sodermalm,1,23,null,Lägenhet,1930,[Södermalm],1695000,80000,1775000,1347,SkandiaMäklarna,799.5876386380705,Medborgarplatsen
+2013-05-09,Ploggatan 1,Sofia,Sodermalm,1,37,null,Lägenhet,1932,[Södermalm],2395000,85000,2480000,1702,SkandiaMäklarna,1079.968542293226,Medborgarplatsen
+2013-05-09,Erstagatan 30,Sofia,Sodermalm,1,38,2,Lägenhet,1902,[Södermalm],2095000,-45000,2050000,2241,Mäklarringen,923.7476081503632,Medborgarplatsen
+2013-05-04,Klippgatan 14G,Sofia,Sodermalm,2,45,3,Lägenhet,1930,[Södermalm Sofia],2600000,125000,2725000,2597,HusmanHagberg,763.2696951670483,Medborgarplatsen
+2013-05-02,Erstagatan 18,Sofia,Sodermalm,1.5,39,5,Lägenhet,null,[Södermalm],2295000,325000,2620000,1517,Erik Olsson Fastighetsförmedling,925.0996523390243,Medborgarplatsen
+2013-05-01,Erstagatan 22,Sofia,Sodermalm,2,56.5,null,Lägenhet,1939,[Södermalm],2995000,45000,3040000,2798,Notar,916.9753360731191,Medborgarplatsen
+2013-05-01,Folkungagatan 136,Sofia,Sodermalm,1,30,5,Lägenhet,1929,[Södermalm],1950000,125000,2075000,1760,Notar,897.0949881913356,Medborgarplatsen
+2013-04-26,Åsögatan 161,Sofia,Sodermalm,2,69,2,Lägenhet,null,[Kocksgatan/Åsögatan],4250000,0,4250000,1553,Bostadsrättsspecialisten,617.6503814057769,Medborgarplatsen
+2013-04-26,Färgargårdstorget 2,Sofia,Sodermalm,3,87,1,Lägenhet,1982,[Södermalm],4145000,55000,4200000,3623,Svensk Fastighetsförmedling,955.3798317559883,Skanstull
+2013-04-25,Åsögatan 176,Sofia,Sodermalm,1,32,null,Lägenhet,1930,[Kocksgatan/Åsögatan],1850000,370000,2220000,1877,Fastighetsbyrån,792.2979687474641,Medborgarplatsen
+2013-04-25,Tegelviksgatan 38,Sofia,Sodermalm,3,86.5,null,Lägenhet,2003,[Norra Hammarbyhamnen],3900000,360000,4260000,5031,Fastighetsbyrån,1254.1139527358284,Skanstull
+2013-04-25,Åsögatan 196,Sofia,Sodermalm,1,35,null,Lägenhet,1931,[Kocksgatan/Åsögatan],1950000,300000,2250000,2201,Fastighetsbyrån,1051.5128632927092,Medborgarplatsen
+2013-04-25,Lilla Erstagatan 4,Sofia,Sodermalm,4,125,null,Lägenhet,1928,[Södermalm],8800000,-975000,7825000,5910,SkandiaMäklarna,879.5521644931782,Medborgarplatsen
+2013-04-20,Tegelviksgatan 49,Sofia,Sodermalm,3.5,91,2,Lägenhet,1999,[Södermalm],3895000,0,3895000,5584,Notar,1343.9675874773166,Skanstull
+2013-04-20,Erstagatan 15,Sofia,Sodermalm,3,87,2,Lägenhet,1903,[Södermalm Sofia],4500000,250000,4750000,3911,Bjurfors,943.8860029315421,Medborgarplatsen
+2013-04-19,Åsögatan 176,Sofia,Sodermalm,1,35,4,Lägenhet,1930,[Södermalm Sofia],2195000,40000,2235000,1976,HusmanHagberg,792.2979687474641,Medborgarplatsen
+2013-04-17,Åsögatan 176,Sofia,Sodermalm,1.5,34.5,null,Lägenhet,1930,[Södermalm],2090000,40000,2130000,1765,SkandiaMäklarna,792.2979687474641,Medborgarplatsen
+2013-04-12,Stigbergsgatan 32A,Sofia,Sodermalm,3,67,2,Lägenhet,1930,[Södermalm Sofia],3700000,630000,4330000,3100,Bjurfors,854.7959684531146,Medborgarplatsen
+2013-04-12,Alsnögatan 30,Sofia,Sodermalm,3,88.6,null,Lägenhet,2000,[Norra Hammarbyhamnen],4400000,125000,4525000,5411,Fastighetsbyrån,1507.2094154585884,Skanstull
+2013-04-10,Borgmästargatan 9,Sofia,Sodermalm,1.5,41,null,Lägenhet,1930,[Kocksgatan/Åsögatan],2195000,265000,2460000,2101,Fastighetsbyrån,734.4617779392341,Medborgarplatsen
+2013-04-09,Åsögatan 198,Sofia,Sodermalm,1,25,null,Lägenhet,1929,[Södermalm],1690000,250000,1940000,1259,SkandiaMäklarna,1101.2746870889468,Medborgarplatsen
+2013-04-05,Erstagatan 13,Sofia,Sodermalm,1,42,4,Lägenhet,1903,[Katarina],2295000,225000,2520000,2130,Notar,945.1033966729465,Medborgarplatsen
+2013-03-28,Beckbrännarbacken 1,Sofia,Sodermalm,1.5,40,null,Lägenhet,1929,[Kocksgatan/Åsögatan],2195000,315000,2510000,2056,Fastighetsbyrån,842.3928216733993,Medborgarplatsen
+2013-03-28,Erstagatan 26,Sofia,Sodermalm,1,20,3,Lägenhet,1912,[Kocksgatan/Åsögatan],1595000,125000,1720000,1165,HusmanHagberg,916.5209640118194,Medborgarplatsen
+2013-03-27,Stigbergsgatan 32A,Sofia,Sodermalm,1.5,33,null,Lägenhet,1930,[Katarina/Mosebacke],2350000,-25000,2325000,1527,Fastighetsbyrån,854.7959684531146,Medborgarplatsen
+2013-03-24,Renstiernas gata 45,Sofia,Sodermalm,2,59,null,Lägenhet,1882,[Nytorget/Metargatan/Tullgården],3295000,555000,3850000,3594,Fastighetsbyrån,698.5029820017251,Skanstull
+2013-03-24,Tjärhovsgatan 54,Sofia,Sodermalm,2,63,3,Lägenhet,1914,[Södermalm],3495000,140000,3635000,3137,Notar,669.8819338225404,Medborgarplatsen
+2013-03-22,Tegelviksgatan 49,Sofia,Sodermalm,3,91,null,Lägenhet,1999,[Södermalm],3990000,10000,4000000,5584,SkandiaMäklarna,1343.9675874773166,Skanstull
+2013-03-21,Sågargatan 14,Sofia,Sodermalm,1,26,5,Lägenhet,1930,[Södermalm],1595000,225000,1820000,1311,Svenska Mäklarhuset,988.8910597595583,Medborgarplatsen
+2013-03-21,Sågargatan 8,Sofia,Sodermalm,3,111,1,Lägenhet,null,[Södermalm],5450000,100000,5550000,4854,Svensk Fastighetsförmedling,1005.8919435458569,Medborgarplatsen
+2013-03-20,Bondegatan 74C,Sofia,Sodermalm,2,56,2,Lägenhet,null,[Södermalm],2990000,360000,3350000,2965,BOSTHLM,875.8923236519003,Medborgarplatsen
+2013-03-20,Kocksgatan 55,Sofia,Sodermalm,2,34,null,Lägenhet,1938,[Södermalm Sofia],2350000,10000,2360000,1580,Bjurfors,676.0639434781705,Medborgarplatsen
+2013-03-15,Duvnäsgatan 5B,Sofia,Sodermalm,2,55,3,Lägenhet,1906,[Kocksgatan/Åsögatan],3200000,215000,3415000,2137,Mäklarhuset,1180.5309371477858,Medborgarplatsen
+2013-03-09,Ploggatan 2,Sofia,Sodermalm,3,71,5,Lägenhet,null,[Södermalm-Sofia],4495000,505000,5000000,3470,Svenska Hem,1056.8338146072992,Medborgarplatsen
+2013-03-09,Kocksgatan 58,Sofia,Sodermalm,2,46,2,Lägenhet,null,[Södermalm],2795000,105000,2900000,2043,Erik Olsson Fastighetsförmedling,638.9938192639604,Medborgarplatsen
+2013-03-07,Folkungagatan 142,Sofia,Sodermalm,2,42,3,Lägenhet,1915,[Södermalm Sofia],2350000,0,2350000,1402,Bjurfors,972.6260458912766,Medborgarplatsen
+2013-03-04,Bondegatan 63,Sofia,Sodermalm,1,35.5,null,Lägenhet,null,[Södermalm],1995000,160000,2155000,2303,Mäklarringen,1024.3166719667283,Medborgarplatsen
+2013-03-01,Bondegatan 45,Sofia,Sodermalm,2.5,62,null,Lägenhet,1929,[Södermalm],3795000,305000,4100000,3372,Notar,761.7698735833129,Medborgarplatsen
+2013-03-01,Åsögatan 184,Sofia,Sodermalm,1,33.7,null,Lägenhet,1912,[Södermalm],2090000,0,2090000,1867,SkandiaMäklarna,895.1079495775975,Medborgarplatsen
+2013-03-01,Bondegatan 63,Sofia,Sodermalm,3,78,4,Lägenhet,1932,[Södermalm],3950000,250000,4200000,4229,Svensk Fastighetsförmedling,1024.3166719667283,Medborgarplatsen
+2013-02-28,Folkungagatan 101,Sofia,Sodermalm,1.5,42,1,Lägenhet,1975,[Sofia-Södermalm],1995000,355000,2350000,994,Innerstadsspecialisten AB,632.4172003243742,Medborgarplatsen
+2013-02-28,Klippgatan 14F,Sofia,Sodermalm,2,38,null,Lägenhet,1930,[Uppgatan],2200000,90000,2290000,1896,Länsförsäkringar Fastighetsförmedling,811.230753303547,Medborgarplatsen
+2013-02-28,Åsögatan 175,Sofia,Sodermalm,2.5,76,2,Lägenhet,null,[Södermalm],3800000,500000,4300000,4231,Erik Olsson Fastighetsförmedling,776.54493366353,Medborgarplatsen
+2013-02-28,Tegelviksgatan 45,Sofia,Sodermalm,3,80,null,Lägenhet,1999,[Norra Hammarbyhamnen],3300000,-100000,3200000,5002,Fastighetsbyrån,1366.912026413632,Skanstull
+2013-02-27,Kocksgatan 55,Sofia,Sodermalm,1.5,36,1.5,Lägenhet,1938,[Södermalm],2340000,110000,2450000,1652,Svenska Mäklarhuset,676.0639434781705,Medborgarplatsen
+2013-02-27,Folkungagatan 128,Sofia,Sodermalm,2.5,69,null,Lägenhet,1929,[Södermalm Sofia],3450000,450000,3900000,2822,Bjurfors,793.845447737374,Medborgarplatsen
+2013-02-22,Tjärhovsgatan 50,Sofia,Sodermalm,3,68,4,Lägenhet,1883,[Katarina],4500000,450000,4950000,1712,Notar,632.0122255414113,Medborgarplatsen
+2013-02-21,Renstiernas gata 27,Sofia,Sodermalm,2,41,7,Lägenhet,1959,[Södermalm],2850000,180000,3030000,884,Notar,623.8578763818416,Medborgarplatsen
+2013-02-21,Skånegatan 113,Sofia,Sodermalm,3,73,null,Lägenhet,1933,[Kocksgatan/Åsögatan],3950000,310000,4260000,4035,Fastighetsbyrån,980.5152870347678,Medborgarplatsen
+2013-02-21,Åsögatan 187,Sofia,Sodermalm,1,41,2,Lägenhet,1905,[Södermalm Sofia],2295000,15000,2310000,2025,HusmanHagberg,964.5900492935568,Medborgarplatsen
+2013-02-18,Tegelviksgatan 65,Sofia,Sodermalm,3,85,null,Lägenhet,1997,[Södermalm],4200000,-300000,3900000,6071,SkandiaMäklarna,1278.0259527564092,Skanstull
+2013-02-17,Åsögatan 194,Sofia,Sodermalm,1.5,42,null,Lägenhet,1930,[Södermalm Sofia],2695000,-95000,2600000,2315,HusmanHagberg,1025.691587015106,Medborgarplatsen
+2013-02-16,Klippgatan 14E,Sofia,Sodermalm,1,35.5,null,Lägenhet,1930,[Södermalm Sofia],1975000,0,1975000,1968,Bjurfors,783.4179768364972,Medborgarplatsen
+2013-02-16,Folkungagatan 118,Sofia,Sodermalm,1,35,2,Lägenhet,1937,[Södermalm],2200000,105000,2305000,1016,Svensk Fastighetsförmedling,698.7793363151756,Medborgarplatsen
+2013-02-15,Sjökvarnsbacken 12,Sofia,Sodermalm,2,57,null,Lägenhet,2007,[Saltsjöqvarn],2700000,110000,2810000,3862,Notar,1977.4591870263982,Medborgarplatsen
+2013-02-14,Erstagatan 13,Sofia,Sodermalm,1,42,2,Lägenhet,1905,[Kocksgatan/Åsögatan],2375000,125000,2500000,2130,Länsförsäkringar Fastighetsförmedling,945.1033966729465,Medborgarplatsen
+2013-02-13,Färgargårdstorget 28,Sofia,Sodermalm,3,87,null,Lägenhet,null,[Södermalm],3995000,830000,4825000,3786,Gripsholms Fastighetsförmedling,1005.6810851372064,Skanstull
+2013-02-13,Åsögatan 167,Sofia,Sodermalm,3,84,null,Lägenhet,1909,[Södermalm],4900000,-290000,4610000,3406,SkandiaMäklarna,690.0333891795333,Medborgarplatsen
+2013-02-09,Åsögatan 174,Sofia,Sodermalm,2,64,5,Lägenhet,1929,[Södermalm],4300000,-125000,4175000,3712,Notar,756.3360357020542,Medborgarplatsen
+2013-02-07,Tegelviksgatan 34,Sofia,Sodermalm,3,74.5,5,Lägenhet,2003,[Södermalm],3650000,100000,3750000,4546,Innerstadsspecialisten AB,1267.5088294742618,Skanstull
+2013-02-07,Åsögatan 176,Sofia,Sodermalm,1,32,null,Lägenhet,1930,[Kocksgatan/Åsögatan],1990000,240000,2230000,1877,Fastighetsbyrån,792.2979687474641,Medborgarplatsen
+2013-02-02,Malmgårdsvägen 6,Sofia,Sodermalm,3.5,87,null,Lägenhet,null,[Sofia],5595000,305000,5900000,3406,Svenska Hem,695.9076217020305,Skanstull
+2013-01-30,Kocksgatan 55,Sofia,Sodermalm,2,37,null,Lägenhet,1938,[Kocksgatan/Åsögatan],2495000,165000,2660000,1688,Fastighetsbyrån,676.0639434781705,Medborgarplatsen
+2013-01-30,Skånegatan 113,Sofia,Sodermalm,2,70,3,Lägenhet,1933,[Södermalm],3600000,-365000,3235000,3876,Svensk Fastighetsförmedling,980.5152870347678,Medborgarplatsen
+2013-01-25,Tjärhovsgatan 52,Sofia,Sodermalm,2,61,5,Lägenhet,null,[Södermalm],3600000,230000,3830000,1518,Alexander White Fastighetsmäkleri,651.6143225385804,Medborgarplatsen
+2013-01-25,Åsögatan 161,Sofia,Sodermalm,2,70,1,Lägenhet,null,[Kocksgatan/Åsögatan],3995000,575000,4570000,1553,Bostadsrättsspecialisten,617.6503814057769,Medborgarplatsen
+2013-01-25,Åsögatan 185,Sofia,Sodermalm,1,35,null,Lägenhet,1905,[Kocksgatan/Åsögatan],2050000,375000,2425000,1886,Fastighetsbyrån,951.3966874468464,Medborgarplatsen
+2013-01-24,Bondegatan 62,Sofia,Sodermalm,3,82,5,Lägenhet,1968,[Katarina],4695000,680000,5375000,3331,Notar,687.8666793910305,Medborgarplatsen
+2013-01-21,Stigbergsgatan 32A,Sofia,Sodermalm,1.5,34,2,Lägenhet,1930,[Södermalm],2200000,370000,2570000,1527,ERA,854.7959684531146,Medborgarplatsen
+2013-01-20,Nackagatan 16,Sofia,Sodermalm,3,72.5,7,Lägenhet,null,[Norra Hammarbyhamnen],3750000,-50000,3700000,5110,Bostadsrättsspecialisten,1343.8023302271652,Skanstull
+2013-01-20,Åsögatan 192,Sofia,Sodermalm,1.5,44.5,2,Lägenhet,1930,[Södermalm],2250000,120000,2370000,2265,SkandiaMäklarna,992.4489703261547,Medborgarplatsen
+2013-01-18,Ringvägen 163,Sofia,Sodermalm,3,77,null,Lägenhet,1905,[Södermalm],4350000,100000,4450000,2549,SkandiaMäklarna,678.1292395244859,Skanstull
+2013-01-18,Åsögatan 168,Sofia,Sodermalm,3,72,null,Lägenhet,1883,[Kocksgatan/Åsögatan],4280000,-180000,4100000,3455,Fastighetsbyrån,650.2703046211248,Medborgarplatsen
+2013-01-17,Erstagatan 16,Sofia,Sodermalm,1.5,43,5,Lägenhet,1928,[Katarina],2395000,235000,2630000,2530,Notar,927.3344836494736,Medborgarplatsen
+2013-01-17,Åsögatan 175,Sofia,Sodermalm,1.5,47,1,Lägenhet,1929,[Södermalm],2400000,-50000,2350000,2758,Notar,776.54493366353,Medborgarplatsen
+2013-01-16,Bondegatan 55,Sofia,Sodermalm,1,21,3,Lägenhet,1912,[Södermalm],1595000,-45000,1550000,1214,SkandiaMäklarna,879.9140707643412,Medborgarplatsen
+2013-01-11,Folkungagatan 146B,Sofia,Sodermalm,1,22,1,Lägenhet,null,[Södermalm],1590000,110000,1700000,900,Erik Olsson Fastighetsförmedling,1011.0277068574795,Medborgarplatsen
+2013-01-11,Bondegatan 64,Sofia,Sodermalm,2.5,64,null,Lägenhet,1916,[Kocksgatan/Åsögatan],3495000,5000,3500000,3213,Fastighetsbyrån,717.0549890915464,Medborgarplatsen
+2013-01-09,Klippgatan 14B,Sofia,Sodermalm,2,48.5,3,Lägenhet,1930,[Södermalm],2695000,155000,2850000,2738,Svenska Mäklarhuset,813.1208461238265,Medborgarplatsen
+2013-01-09,Åsögatan 182,Sofia,Sodermalm,1,25,4,Lägenhet,null,[Södermalm],1690000,10000,1700000,1334,Erik Olsson Fastighetsförmedling,879.4815359655742,Medborgarplatsen
+2012-12-22,Tegelviksgatan 83,Sofia,Sodermalm,3,102,4,Lägenhet,1997,[Katarina],4595000,-195000,4400000,6242,Notar,1231.7368899128205,Skanstull
+2012-12-13,Malmgårdsvägen 4,Sofia,Sodermalm,3,95,4,Lägenhet,null,[Sofia],5690000,330000,6020000,3452,Erik Olsson Fastighetsförmedling,687.8872598720538,Skanstull
+2012-12-13,Tegelviksgatan 37,Sofia,Sodermalm,4,86.5,null,Lägenhet,2000,[Norra Hammarbyhamnen],3575000,175000,3750000,5267,Fastighetsbyrån,1385.7252439094855,Skanstull
+2012-11-22,Beckbrännarbacken 7,Sofia,Sodermalm,2,78,3,Lägenhet,null,[Södermalm],3350000,580000,3930000,3793,Erik Olsson Fastighetsförmedling,870.0755978960551,Medborgarplatsen
+2012-11-21,Åsögatan 196,Sofia,Sodermalm,1,38,5,Lägenhet,1931,[Södermalm],2075000,195000,2270000,2295,Svensk Fastighetsförmedling,1051.5128632927092,Medborgarplatsen
+2012-11-20,Ploggatan 18,Sofia,Sodermalm,2,46,2,Lägenhet,1910,[Kocksgatan/Åsögatan],2575000,415000,2990000,2211,Mäklarhuset,1018.545517268757,Medborgarplatsen
+2012-11-20,Bondegatan 81,Sofia,Sodermalm,1.5,48,null,Lägenhet,1929,[Södermalm],2300000,-75000,2225000,2608,Notar,1255.6091343409848,Medborgarplatsen
+2012-11-19,Nackagatan 22,Sofia,Sodermalm,3,98,null,Lägenhet,1997,[Södermalm],4850000,0,4850000,6592,SkandiaMäklarna,1383.5620783889378,Skanstull
+2012-11-17,Borgmästargatan 4,Sofia,Sodermalm,1,33,null,Lägenhet,1937,[Södermalm],2090000,40000,2130000,1791,SkandiaMäklarna,707.5353902850276,Medborgarplatsen
+2012-11-15,Erstagatan 28,Sofia,Sodermalm,3,70,null,Lägenhet,1930,[Kocksgatan/Åsögatan],3995000,-295000,3700000,4018,Fastighetsbyrån,921.7180740727589,Medborgarplatsen
+2012-11-14,Nackagatan 27,Sofia,Sodermalm,2,72,6,Lägenhet,1999,[Södermalm],3250000,-235000,3015000,4287,Svensk Fastighetsförmedling,1412.8426912665632,Skanstull
+2012-11-13,Stigbergsgatan 32,Sofia,Sodermalm,2,48,null,Lägenhet,null,[Katarina/Mosebacke],2650000,300000,2950000,2036,Bostadsrättsspecialisten,854.7959684531146,Medborgarplatsen
+2012-11-12,Åsögatan 182,Sofia,Sodermalm,2,39,null,Lägenhet,1943,[Södermalm],2495000,-105000,2390000,2175,Svensk Fastighetsförmedling,879.4815359655742,Medborgarplatsen
+2012-11-09,Folkungagatan 142,Sofia,Sodermalm,1,30,null,Lägenhet,1915,[Katarina],2320000,0,2320000,700,Notar,972.6260458912766,Medborgarplatsen
+2012-10-29,Tegelviksgatan 30,Sofia,Sodermalm,2,50.5,2,Lägenhet,2006,[Södermalm],2395000,130000,2525000,3712,Mäklarringen,1294.8042320369404,Skanstull
+2012-10-27,Folkungagatan 118,Sofia,Sodermalm,1,37,null,Lägenhet,1937,[Södermalm],2090000,310000,2400000,1113,SkandiaMäklarna,698.7793363151756,Medborgarplatsen
+2012-10-24,Erstagatan 23,Sofia,Sodermalm,2.5,67.5,null,Lägenhet,1930,[Kocksgatan/Åsögatan],3495000,455000,3950000,3771,Fastighetsbyrån,941.9210067032147,Medborgarplatsen
+2012-10-23,Åsögatan 196,Sofia,Sodermalm,1,41,1,Lägenhet,1931,[Södermalm],1995000,175000,2170000,2394,Svensk Fastighetsförmedling,1051.5128632927092,Medborgarplatsen
+2012-10-20,Sågargatan 17,Sofia,Sodermalm,1,23,null,Lägenhet,1929,[Kocksgatan/Åsögatan],1500000,-100000,1400000,1648,Länsförsäkringar Fastighetsförmedling,1004.5539100404002,Medborgarplatsen
+2012-10-18,Bondegatan 80,Sofia,Sodermalm,1,33,null,Lägenhet,1940,[Södermalm Sofia],1890000,-40000,1850000,1975,Bjurfors,976.7492956838395,Medborgarplatsen
+2012-10-17,Åsögatan 182,Sofia,Sodermalm,1,34,3,Lägenhet,1943,[Södermalm],1995000,155000,2150000,1912,Svenska Mäklarhuset,879.4815359655742,Medborgarplatsen
+2012-10-17,Klippgatan 14H,Sofia,Sodermalm,2,45,3,Lägenhet,null,[Södermalm],2295000,205000,2500000,2368,Erik Olsson Fastighetsförmedling,813.4805017647982,Medborgarplatsen
+2012-10-17,Folkungagatan 128,Sofia,Sodermalm,3,70,null,Lägenhet,1929,[Kocksgatan/Åsögatan],4195000,0,4195000,2584,Fastighetsbyrån,793.845447737374,Medborgarplatsen
+2012-10-12,Skånegatan 95,Sofia,Sodermalm,3,82,4,Lägenhet,1968,[Södermalm],4595000,455000,5050000,3288,Mäklarringen,700.7328136229363,Medborgarplatsen
+2012-10-12,Erstagatan 13,Sofia,Sodermalm,2,42,3,Lägenhet,null,[Kocksgatan/Åsögatan],2690000,70000,2760000,2130,Bostadsrättsspecialisten,945.1033966729465,Medborgarplatsen
+2012-10-10,Duvnäsgatan 5B,Sofia,Sodermalm,2,55,4,Lägenhet,1906,[Södermalm],2895000,305000,3200000,2163,Mäklarringen,1180.5309371477858,Medborgarplatsen
+2012-10-09,Åsögatan 185,Sofia,Sodermalm,1,36,null,Lägenhet,1903,[Södermalm],1995000,-20000,1975000,1921,Notar,951.3966874468464,Medborgarplatsen
+2012-10-07,Ploggatan 2,Sofia,Sodermalm,2,38,null,Lägenhet,1931,[Södermalm Sofia],2200000,-100000,2100000,2295,Bjurfors,1056.8338146072992,Medborgarplatsen
+2012-10-07,Sågargatan 14,Sofia,Sodermalm,1,21,4,Lägenhet,1929,[Kocksgatan/Åsögatan],1300000,220000,1520000,1252,Fastighetsbyrån,988.8910597595583,Medborgarplatsen
+2012-10-05,Folkungagatan 128,Sofia,Sodermalm,2,68,null,Lägenhet,1929,[Kocksgatan/Åsögatan],3775000,240000,4015000,2584,Fastighetsbyrån,793.845447737374,Medborgarplatsen
+2012-10-01,Kocksgatan 60A,Sofia,Sodermalm,1,31,null,Lägenhet,1906,[Södermalm],2075000,15000,2090000,1350,SkandiaMäklarna,647.9805528683506,Medborgarplatsen
+2012-09-25,Nackagatan 29,Sofia,Sodermalm,3,73,null,Lägenhet,1999,[Norra Hammarbyhamnen],4390000,10000,4400000,4917,Fastighetsbyrån,1394.4022490584252,Skanstull
+2012-09-22,Tjärhovsgatan 54,Sofia,Sodermalm,2,64,5,Lägenhet,1914,[Södermalm],3840000,-40000,3800000,3257,SkandiaMäklarna,669.8819338225404,Medborgarplatsen
+2012-09-21,Åsögatan 173,Sofia,Sodermalm,3,72,null,Lägenhet,1929,[Kocksgatan/Åsögatan],3695000,0,3695000,3347,Fastighetsbyrån,758.1973892051598,Medborgarplatsen
+2012-09-13,Stigbergsgatan 32A,Sofia,Sodermalm,1.5,36,null,Lägenhet,1930,[Södermalm],2175000,25000,2200000,1666,SkandiaMäklarna,854.7959684531146,Medborgarplatsen
+2012-09-12,Ploggatan 5,Sofia,Sodermalm,3,86,4,Lägenhet,1883,[Södermalm],4695000,-295000,4400000,4137,Svensk Fastighetsförmedling,1066.711752260238,Medborgarplatsen
+2012-09-11,Tegelviksgatan 47,Sofia,Sodermalm,3,81,4,Lägenhet,1999,[Södermalm],3995000,25000,4020000,5199,Svensk Fastighetsförmedling,1356.182344259284,Skanstull
+2012-09-07,Tegelviksgatan 49,Sofia,Sodermalm,3,91,null,Lägenhet,1999,[Norra Hammarbyhamnen],3750000,50000,3800000,5658,Fastighetsbyrån,1343.9675874773166,Skanstull

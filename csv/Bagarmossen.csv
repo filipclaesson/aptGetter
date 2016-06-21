@@ -1,0 +1,414 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-18,Lagavägen 22,Bagarmossen,GronSkarpnack,5,104,1,Lägenhet,2001,[Bagarmossen],3995000,205000,4200000,7172,Fastighetsbyrån,151.60676915541464,Bagarmossen
+2016-06-18,Rusthållarvägen 131,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,1954,[Bagarmossen],2875000,125000,3000000,4681,SkandiaMäklarna,291.2630381816648,Bagarmossen
+2016-06-16,Svartågatan 67,Bagarmossen,GronSkarpnack,1,26,0.5,Lägenhet,1954,[Bagarmossen],1575000,235000,1810000,2419,SkandiaMäklarna,502.058144925295,Bagarmossen
+2016-06-15,Kolbäcksgränd 10,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,null,[Bagarmossen],3195000,105000,3300000,4198,Mäklarhuset,411.0405069807294,Bagarmossen
+2016-06-10,Svartågatan 47,Bagarmossen,GronSkarpnack,3,55,3,Lägenhet,1954,[Bagarmossen],2400000,-140000,2260000,3902,Länsförsäkringar Fastighetsförmedling,442.0687557132035,Bagarmossen
+2016-06-10,Svartågatan 64,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,1954,[Bagarmossen],3000000,-30000,2970000,4606,Länsförsäkringar Fastighetsförmedling,414.86803508245424,Bagarmossen
+2016-06-09,Stångåvägen 12,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],1900000,310000,2210000,3870,HusmanHagberg,321.41380494944826,Bagarmossen
+2016-06-09,Voxnegränd 8,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],1995000,155000,2150000,3573,Södermäklarna,226.4100534267403,Bagarmossen
+2016-06-08,Kolbäcksgränd 27,Bagarmossen,GronSkarpnack,2,58,3,Lägenhet,1954,[Bagarmossen],2000000,750000,2750000,3662,HusmanHagberg,553.5816642580261,Bagarmossen
+2016-06-01,Svartågatan 55,Bagarmossen,GronSkarpnack,4,85,1,Lägenhet,1954,[Bagarmossen],3600000,850000,4450000,5427,HusmanHagberg,527.7318850993379,Bagarmossen
+2016-06-01,Svartågatan 80,Bagarmossen,GronSkarpnack,2,50,6,Lägenhet,1954,[Bagarmossen],2150000,340000,2490000,3713,HusmanHagberg,496.46021424816405,Bagarmossen
+2016-05-26,Svartågatan 65,Bagarmossen,GronSkarpnack,1,27,3,Lägenhet,1954,[Bagarmossen],1695000,255000,1950000,2461,HusmanHagberg,511.46451813868833,Bagarmossen
+2016-05-20,Ljusnevägen 31,Bagarmossen,GronSkarpnack,4,93,null,Radhus,1955,[Bagarmossen],5200000,1025000,6225000,null,Fastighetsbyrån,681.6845414668779,Bagarmossen
+2016-05-19,Emågatan 28,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,1953,[Bagarmossen],2895000,380000,3275000,3780,HusmanHagberg,209.66111116070311,Bagarmossen
+2016-05-12,Laxåvägen 11,Bagarmossen,GronSkarpnack,5,108,null,Radhus,1954,[Bagarmossen],5700000,1920000,7620000,null,HusmanHagberg,460.7065224352612,Bagarmossen
+2016-05-02,Fogdevägen 41,Bagarmossen,GronSkarpnack,2,65,null,Lägenhet,2009,[Bagarmossen],2395000,0,2395000,4366,Mäklarhuset,490.83382057376843,Bagarmossen
+2016-04-29,Emågatan 34,Bagarmossen,GronSkarpnack,2,57,2,Lägenhet,null,[Bagarmossen],2195000,375000,2570000,3078,Mäklarhuset,235.8763975831276,Bagarmossen
+2016-04-29,Kolbäcksgränd 16,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,null,[Bagarmossen],3195000,555000,3750000,4198,Mäklarhuset,441.25550955457476,Bagarmossen
+2016-04-28,Bergsrådsvägen 22,Bagarmossen,GronSkarpnack,2,56,2,Lägenhet,1954,[Bagarmossen],2195000,405000,2600000,3622,HusmanHagberg,210.55580020739654,Bagarmossen
+2016-04-28,Emågatan 32,Bagarmossen,GronSkarpnack,2,57,1,Lägenhet,1953,[Bagarmossen],2150000,380000,2530000,3078,HusmanHagberg,239.8214585312326,Bagarmossen
+2016-04-22,Rusthållarvägen 211,Bagarmossen,GronSkarpnack,6,83,null,Villa,1954,[Skarpnäcks stadsdelsområde],6450000,350000,6800000,null,SkandiaMäklarna,613.2178552174307,Bagarmossen
+2016-04-22,Rottnevägen 37,Bagarmossen,GronSkarpnack,6,91,null,Radhus,1955,[Bagarmossen],6200000,1725000,7925000,0,Bjurfors,897.9131528789163,Bagarmossen
+2016-04-21,Emågatan 33,Bagarmossen,GronSkarpnack,2,57,1,Lägenhet,1954,[Bagarmossen],2195000,335000,2530000,3501,HusmanHagberg,277.54065023409333,Bagarmossen
+2016-04-20,Rusthållarvägen 135,Bagarmossen,GronSkarpnack,2,59,1,Lägenhet,1954,[Bagarmossen],2100000,260000,2360000,3984,HusmanHagberg,337.6322032276284,Bagarmossen
+2016-04-20,Kolbäcksgränd 24,Bagarmossen,GronSkarpnack,1,26,1,Lägenhet,1954,[Skarpnäcks stadsdelsområde],1595000,565000,2160000,2004,SkandiaMäklarna,501.18493780195314,Bagarmossen
+2016-04-18,Svartågatan 37,Bagarmossen,GronSkarpnack,2,53,1,Lägenhet,null,[Bagarmossen],2195000,0,2195000,3828,Mäklarhuset,382.9384028867987,Bagarmossen
+2016-04-15,Rusthållarvägen 69,Bagarmossen,GronSkarpnack,2,55,3,Lägenhet,1953,[Bagarmossen],2250000,860000,3110000,2318,Svensk Fastighetsförmedling,62.01739243810525,Bagarmossen
+2016-04-15,Rottnevägen 34,Bagarmossen,GronSkarpnack,4,95,null,Radhus,1956,[Skarpnäcks stadsdelsområde],5850000,1190000,7040000,null,SkandiaMäklarna,895.8565664559563,Bagarmossen
+2016-04-08,Klarälvsvägen 56,Bagarmossen,GronSkarpnack,5,147,null,Radhus,2016,[Bagarmossen],7200000,500000,7700000,5078,Svensk Fastighetsförmedling,775.2917717789179,Bagarmossen
+2016-04-07,Bergsrådsvägen 41,Bagarmossen,GronSkarpnack,4,85,1,Lägenhet,1954,[Bagarmossen],3750000,1530000,5280000,5412,Fastighetsbyrån,481.2479326826761,Bagarmossen
+2016-04-06,Emågatan 36,Bagarmossen,GronSkarpnack,1,45,3,Lägenhet,1953,[Bagarmossen],1795000,655000,2450000,2430,MäklarMäster,237.09688372499159,Bagarmossen
+2016-04-04,Svartågatan 53,Bagarmossen,GronSkarpnack,3,69,1,Lägenhet,1954,[Bagarmossen],2695000,0,2695000,4649,HusmanHagberg,514.3257486098028,Bagarmossen
+2016-03-24,Kolbäcksgränd 29,Bagarmossen,GronSkarpnack,3,72,1,Lägenhet,1954,[Bagarmossen],2695000,605000,3300000,4191,Fastighetsbyrån,546.2293925277756,Bagarmossen
+2016-03-23,Fogdevägen 47,Bagarmossen,GronSkarpnack,4,88,1,Lägenhet,2008,[Bagarmossen],4250000,-1950000,2300000,5506,Notar,362.4681888634263,Bagarmossen
+2016-03-22,Voxnegränd 9,Bagarmossen,GronSkarpnack,2,55,2,Lägenhet,1953,[Bagarmossen],2200000,720000,2920000,3610,Svensk Fastighetsförmedling,285.5186859000552,Bagarmossen
+2016-03-19,Kolbäcksgränd 24,Bagarmossen,GronSkarpnack,1,26,3,Lägenhet,1954,[Bagarmossen],1695000,425000,2120000,1921,HusmanHagberg,501.18493780195314,Bagarmossen
+2016-03-19,Tidagränd 18,Bagarmossen,GronSkarpnack,5,67,null,Radhus,1955,[Bagarmossen],4495000,1435000,5930000,null,HusmanHagberg,590.0310582295418,Skarpnack
+2016-03-18,Svartågatan 78,Bagarmossen,GronSkarpnack,2,55,1,Lägenhet,1954,[Bagarmossen],2195000,0,2195000,3902,Fastighetsbyrån,470.12459251649125,Bagarmossen
+2016-03-17,Kolbäcksgränd 24,Bagarmossen,GronSkarpnack,2,58,1,Lägenhet,1954,[Bagarmossen],1995000,725000,2720000,3662,HusmanHagberg,501.18493780195314,Bagarmossen
+2016-03-17,Fogdevägen 43,Bagarmossen,GronSkarpnack,2,48,5,Lägenhet,2008,[Skarpnäcks stadsdelsområde],2195000,130000,2325000,3475,SkandiaMäklarna,448.66332441036064,Bagarmossen
+2016-03-16,Letstigen 3,Bagarmossen,GronSkarpnack,4,93,null,Radhus,1955,[Skarpnäcks stadsdelsområde],6190000,460000,6650000,null,SkandiaMäklarna,833.1733286868423,Bagarmossen
+2016-03-11,Emågatan 30,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,null,[Bagarmossen],2750000,800000,3550000,3780,HusmanHagberg,224.55265120658697,Bagarmossen
+2016-03-10,Kolbäcksgränd 11,Bagarmossen,GronSkarpnack,1,26,1,Lägenhet,1954,[Bagarmossen],1695000,455000,2150000,1895,Fastighetsbyrån,490.1363029181944,Bagarmossen
+2016-03-10,Voxnegränd 17,Bagarmossen,GronSkarpnack,1,26,-1,Lägenhet,1953,[Bagarmossen],1650000,260000,1910000,2238,Fastighetsbyrån,345.2051143324756,Bagarmossen
+2016-03-03,Bergsrådsvägen 12A,Bagarmossen,GronSkarpnack,2,28,null,Lägenhet,1953,[Bagarmossen],1850000,660000,2510000,2037,Svensk Fastighetsförmedling,155.8569758416351,Bagarmossen
+2016-03-01,Voxnegränd 4,Bagarmossen,GronSkarpnack,1,27,3,Lägenhet,1954,[Bagarmossen],1695000,405000,2100000,2273,HusmanHagberg,201.4182314634901,Bagarmossen
+2016-03-01,Stångåvägen 14,Bagarmossen,GronSkarpnack,1,27,1,Lägenhet,1954,[Bagarmossen],1495000,0,1495000,2461,Mäklarhuset,336.81963718164366,Bagarmossen
+2016-02-26,Rusthållarvägen 141,Bagarmossen,GronSkarpnack,1,38,1,Lägenhet,1954,[Bagarmossen],1795000,310000,2105000,2934,MäklarMäster,354.35054131458753,Bagarmossen
+2016-02-26,Lagavägen 26,Bagarmossen,GronSkarpnack,3,81.5,1,Lägenhet,2001,[Bagarmossen],3250000,570000,3820000,5785,Svensk Fastighetsförmedling,110.51537997890118,Bagarmossen
+2016-02-25,Bergsrådsvägen 12,Bagarmossen,GronSkarpnack,4,91,null,Lägenhet,1953,[Bagarmossen],4250000,350000,4600000,5603,Svensk Fastighetsförmedling,165.42349972339449,Bagarmossen
+2016-02-25,Kolbäcksgränd 32,Bagarmossen,GronSkarpnack,2,59,1,Lägenhet,1954,[Bagarmossen],2195000,205000,2400000,3577,Fastighetsbyrån,523.7997984753289,Bagarmossen
+2016-02-24,Svartågatan 65,Bagarmossen,GronSkarpnack,1,27,2,Lägenhet,1954,[Bagarmossen],1695000,415000,2110000,2461,HusmanHagberg,511.46451813868833,Bagarmossen
+2016-02-18,Svartågatan 82,Bagarmossen,GronSkarpnack,3,68,2,Lägenhet,null,[Bagarmossen],2795000,540000,3335000,4606,Svenska Mäklarhuset,488.4164113539017,Bagarmossen
+2016-02-18,Bergsrådsvägen 10,Bagarmossen,GronSkarpnack,2,53,1,Lägenhet,1953,[Bagarmossen],2200000,600000,2800000,3452,Svensk Fastighetsförmedling,154.5703184814327,Bagarmossen
+2016-02-10,Emågatan 32,Bagarmossen,GronSkarpnack,2,57,2,Lägenhet,1953,[Bagarmossen],2150000,350000,2500000,3078,HusmanHagberg,239.8214585312326,Bagarmossen
+2016-02-05,Bergsrådsvägen 8,Bagarmossen,GronSkarpnack,1.5,54,2,Lägenhet,null,[Bagarmossen],2295000,65000,2360000,3497,Mäklarhuset,179.5900195313017,Bagarmossen
+2016-02-04,Lagavägen 14,Bagarmossen,GronSkarpnack,4,80,1,Lägenhet,2001,[Bagarmossen],2995000,1305000,4300000,5727,HusmanHagberg,230.7227138060942,Bagarmossen
+2016-01-30,Emågatan 40A,Bagarmossen,GronSkarpnack,1,26,1,Lägenhet,1953,[Bagarmossen],1695000,585000,2280000,1404,Mäklarringen,212.6382081851246,Bagarmossen
+2016-01-28,Rusthållarvägen 159,Bagarmossen,GronSkarpnack,2,60,3,Lägenhet,1954,[Bagarmossen],2150000,150000,2300000,4264,HusmanHagberg,422.11581577923124,Bagarmossen
+2016-01-23,Emågatan 40,Bagarmossen,GronSkarpnack,2,57,2,Lägenhet,1953,[Bagarmossen],2195000,185000,2380000,3078,Mäklarhuset,207.70203213341466,Bagarmossen
+2016-01-21,Stångåvägen 14,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,1954,[Bagarmossen],2850000,460000,3310000,4691,HusmanHagberg,336.81963718164366,Bagarmossen
+2016-01-21,Voxnegränd 8,Bagarmossen,GronSkarpnack,2,54,2,Lägenhet,1953,[Bagarmossen],2195000,445000,2640000,3573,Länsförsäkringar Fastighetsförmedling,226.4100534267403,Bagarmossen
+2016-01-21,Kolbäcksgränd 13,Bagarmossen,GronSkarpnack,1,26,1,Lägenhet,1954,[Bagarmossen],1595000,625000,2220000,1895,Fastighetsbyrån,504.3964771310786,Bagarmossen
+2016-01-19,Kolbäcksgränd 7,Bagarmossen,GronSkarpnack,4,85,1,Lägenhet,1954,[Bagarmossen],3995000,565000,4560000,4956,Länsförsäkringar Fastighetsförmedling,474.447531072936,Bagarmossen
+2016-01-16,Fogdevägen 45,Bagarmossen,GronSkarpnack,2,48,1,Lägenhet,2008,[Bagarmossen],2195000,445000,2640000,3475,HusmanHagberg,406.66933041312444,Bagarmossen
+2016-01-15,Kolbäcksgränd 13,Bagarmossen,GronSkarpnack,2,58,2,Lägenhet,1954,[Bagarmossen],2195000,405000,2600000,3662,HusmanHagberg,504.3964771310786,Bagarmossen
+2016-01-14,Letstigen 20,Bagarmossen,GronSkarpnack,5,102,null,Radhus,1955,[Skarpnäcks stadsdelsområde],5850000,1725000,7575000,null,SkandiaMäklarna,791.4102912145165,Bagarmossen
+2015-12-11,Voxnegränd 24,Bagarmossen,GronSkarpnack,1,27,null,Lägenhet,1954,[Bagarmossen],1595000,505000,2100000,2274,HusmanHagberg,334.26047990719,Bagarmossen
+2015-12-10,Voxnegränd 2,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],2150000,370000,2520000,3573,HusmanHagberg,182.4911613512705,Bagarmossen
+2015-12-04,Emågatan 40,Bagarmossen,GronSkarpnack,3,74,2,Lägenhet,1953,[Bagarmossen],2495000,555000,3050000,3996,MäklarMäster,207.70203213341466,Bagarmossen
+2015-12-04,Svartågatan 65,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,1954,[Bagarmossen],2795000,355000,3150000,4599,HusmanHagberg,511.46451813868833,Bagarmossen
+2015-12-01,Kolbäcksgränd 3,Bagarmossen,GronSkarpnack,2,58,2,Lägenhet,1954,[Bagarmossen],2195000,255000,2450000,3592,Länsförsäkringar Fastighetsförmedling,454.34288776150606,Bagarmossen
+2015-11-28,Fogdevägen 47,Bagarmossen,GronSkarpnack,2,48,0,Lägenhet,2009,[Bagarmossen],2250000,50000,2300000,3475,Svensk Fastighetsförmedling,362.4681888634263,Bagarmossen
+2015-11-28,Kolbäcksgränd 1,Bagarmossen,GronSkarpnack,2,40,2,Lägenhet,1954,[Bagarmossen],1895000,525000,2420000,2602,Mäklarhuset,445.1185809163874,Bagarmossen
+2015-11-26,Bergsrådsvägen 40,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,null,[Bagarmossen],2100000,600000,2700000,3245,Svensk Fastighetsförmedling,250.00795909887213,Bagarmossen
+2015-11-26,Emågatan 39,Bagarmossen,GronSkarpnack,3,68,2,Lägenhet,1954,[Bagarmossen],2695000,555000,3250000,4159,HusmanHagberg,288.23212627643426,Bagarmossen
+2015-11-20,Voxnegränd 4,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,1953,[Bagarmossen],2595000,730000,3325000,4331,Fastighetsbyrån,201.4182314634901,Bagarmossen
+2015-11-19,Kolbäcksgränd 11,Bagarmossen,GronSkarpnack,1,26,2,Lägenhet,1954,[Bagarmossen],1695000,275000,1970000,1883,Mäklarhuset,490.1363029181944,Bagarmossen
+2015-11-13,Stångåvägen 16,Bagarmossen,GronSkarpnack,1,38,3,Lägenhet,1954,[Bagarmossen],1875000,270000,2145000,2990,HusmanHagberg,350.5874670157784,Bagarmossen
+2015-11-11,Rusthållarvägen 191,Bagarmossen,GronSkarpnack,2,55,2,Lägenhet,1954,[Bagarmossen],2095000,0,2095000,3864,Svensk Fastighetsförmedling,537.3271587277484,Bagarmossen
+2015-10-30,Voxnegränd 21,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],2200000,1915000,4115000,3573,Södermäklarna,356.3732997884561,Bagarmossen
+2015-10-30,Rusthållarvägen 147,Bagarmossen,GronSkarpnack,5,91,1,Lägenhet,1954,[Bagarmossen],4350000,450000,4800000,5968,Mäklarhuset,398.6048851223309,Bagarmossen
+2015-10-30,Svartågatan 59,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1954,[Bagarmossen],2200000,410000,2610000,3794,Svensk Fastighetsförmedling,534.0591363974156,Bagarmossen
+2015-10-30,Svartågatan 80,Bagarmossen,GronSkarpnack,2,50,5,Lägenhet,1954,[Bagarmossen],1995000,555000,2550000,3640,Svensk Fastighetsförmedling,496.46021424816405,Bagarmossen
+2015-10-30,Svartågatan 35,Bagarmossen,GronSkarpnack,1,40,1,Lägenhet,1954,[Bagarmossen],1895000,290000,2185000,3062,HusmanHagberg,363.4988946046137,Bagarmossen
+2015-10-24,Emågatan 37,Bagarmossen,GronSkarpnack,2,57,2,Lägenhet,1954,[Bagarmossen],2295000,205000,2500000,3500,Fastighetsbyrån,280.9147386710916,Bagarmossen
+2015-10-23,Svartågatan 80,Bagarmossen,GronSkarpnack,2,50,1,Lägenhet,1954,[Bagarmossen],1995000,280000,2275000,3640,HusmanHagberg,496.46021424816405,Bagarmossen
+2015-10-23,Stångåvägen 6,Bagarmossen,GronSkarpnack,3.5,74,2,Lägenhet,1954,[Bagarmossen],2750000,870000,3620000,4743,Mäklarhuset,321.5174677844302,Bagarmossen
+2015-10-22,Stångåvägen 20,Bagarmossen,GronSkarpnack,2,55,2,Lägenhet,1954,[Bagarmossen],2200000,250000,2450000,3902,Svensk Fastighetsförmedling,366.41190113537067,Bagarmossen
+2015-10-21,Stångåvägen 18,Bagarmossen,GronSkarpnack,2,55,2,Lägenhet,1954,[Bagarmossen],2250000,600000,2850000,3825,HusmanHagberg,358.00477409044055,Bagarmossen
+2015-10-17,Ljusnevägen 4,Bagarmossen,GronSkarpnack,2,57,3,Lägenhet,2009,[Bagarmossen],2495000,505000,3000000,3362,HusmanHagberg,502.0063281466932,Bagarmossen
+2015-10-14,Stångåvägen 18,Bagarmossen,GronSkarpnack,1,38,1,Lägenhet,1954,[Bagarmossen],1850000,260000,2110000,2990,Svensk Fastighetsförmedling,358.00477409044055,Bagarmossen
+2015-10-09,Bergsrådsvägen 33,Bagarmossen,GronSkarpnack,4,85,2,Lägenhet,1954,[Bagarmossen],3695000,1045000,4740000,5212,Hemverket,440.2370826232202,Bagarmossen
+2015-10-08,Bergsrådsvägen 18,Bagarmossen,GronSkarpnack,1,19,1,Lägenhet,1953,[Bagarmossen],1350000,210000,1560000,1231,Svensk Fastighetsförmedling,228.175861029252,Bagarmossen
+2015-10-08,Kolbäcksgränd 11,Bagarmossen,GronSkarpnack,2,58,1,Lägenhet,1954,[Bagarmossen],2150000,310000,2460000,3536,Svensk Fastighetsförmedling,490.1363029181944,Bagarmossen
+2015-10-07,Bergsrådsvägen 38,Bagarmossen,GronSkarpnack,3,68,0.5,Lägenhet,1954,[Bagarmossen],2695000,355000,3050000,3958,Fastighetsbyrån,250.9879069897206,Bagarmossen
+2015-10-02,Bergsrådsvägen 30,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,1953,[Bagarmossen],2900000,900000,3800000,4165,Svensk Fastighetsförmedling,219.790390898497,Bagarmossen
+2015-10-01,Voxnegränd 1,Bagarmossen,GronSkarpnack,3,64,2,Lägenhet,1954,[Bagarmossen],2495000,555000,3050000,3919,HusmanHagberg,226.3164291264651,Bagarmossen
+2015-09-24,Kolbäcksgränd 15,Bagarmossen,GronSkarpnack,2,58,3,Lägenhet,1954,[Bagarmossen],2195000,615000,2810000,3592,HusmanHagberg,518.8476318420546,Bagarmossen
+2015-09-24,Voxnegränd 22,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,1953,[Bagarmossen],2795000,775000,3570000,4125,Länsförsäkringar Fastighetsförmedling,315.9311289315555,Bagarmossen
+2015-09-24,Voxnegränd 1,Bagarmossen,GronSkarpnack,2,54,8,Lägenhet,1954,[Bagarmossen],2200000,400000,2600000,3573,Södermäklarna,226.3164291264651,Bagarmossen
+2015-09-18,Svartågatan 72,Bagarmossen,GronSkarpnack,3,74,null,Lägenhet,1954,[Skarpnäcks stadsdelsområde],2595000,555000,3150000,4743,Svenska Mäklargruppen,417.9164624292806,Bagarmossen
+2015-09-17,Svartågatan 63,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1954,[Bagarmossen],1995000,530000,2525000,3794,Svensk Fastighetsförmedling,516.2296882687267,Bagarmossen
+2015-09-11,Rusthållarvägen 167,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,1954,[Bagarmossen],2395000,105000,2500000,4519,Länsförsäkringar Fastighetsförmedling,433.80798374072,Bagarmossen
+2015-09-10,Fogdevägen 45,Bagarmossen,GronSkarpnack,4,88,4,Lägenhet,2008,[Bagarmossen],3795000,1255000,5050000,5506,HusmanHagberg,406.66933041312444,Bagarmossen
+2015-09-03,Rusthållarvägen 187,Bagarmossen,GronSkarpnack,3,63,2,Lägenhet,1954,[Bagarmossen],2450000,560000,3010000,4332,HusmanHagberg,511.64854762792044,Bagarmossen
+2015-09-03,Rusthållarvägen 165,Bagarmossen,GronSkarpnack,3,68,1,Lägenhet,1954,[Bagarmossen],2695000,425000,3120000,4527,Svensk Fastighetsförmedling,440.7109357271668,Bagarmossen
+2015-09-03,Svartågatan 66,Bagarmossen,GronSkarpnack,3,68,3,Lägenhet,1954,[Bagarmossen],2750000,550000,3300000,4516,Svensk Fastighetsförmedling,416.42551166965166,Bagarmossen
+2015-08-31,Fogdevägen 43,Bagarmossen,GronSkarpnack,2,63,0,Lägenhet,2009,[Bagarmossen],2295000,0,2295000,4265,Svensk Fastighetsförmedling,448.66332441036064,Bagarmossen
+2015-08-27,Svartågatan 45,Bagarmossen,GronSkarpnack,4,67,1,Lägenhet,1954,[Bagarmossen],2995000,355000,3350000,4475,Notar,414.6814675752816,Bagarmossen
+2015-08-21,Rusthållarvägen 187,Bagarmossen,GronSkarpnack,1,26,1,Lägenhet,1954,[Bagarmossen],1495000,485000,1980000,2357,HusmanHagberg,511.64854762792044,Bagarmossen
+2015-08-21,Voxnegränd 17,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,1953,[Bagarmossen],2795000,255000,3050000,4125,HusmanHagberg,345.2051143324756,Bagarmossen
+2015-08-20,Stångåvägen 12,Bagarmossen,GronSkarpnack,2,54,2,Lägenhet,1954,[Bagarmossen],2095000,455000,2550000,3794,Svensk Fastighetsförmedling,321.41380494944826,Bagarmossen
+2015-08-19,Voxnegränd 17,Bagarmossen,GronSkarpnack,1,null,1,Lägenhet,1953,[Bagarmossen],1800000,315000,2115000,2165,Lindroos Bostadsmäklare AB,345.2051143324756,Bagarmossen
+2015-08-06,Voxnegränd 1,Bagarmossen,GronSkarpnack,3,64,1.5,Lägenhet,1953,[Bagarmossen],2695000,175000,2870000,3919,Svensk Fastighetsförmedling,226.3164291264651,Bagarmossen
+2015-08-02,Kolbäcksgränd 25,Bagarmossen,GronSkarpnack,1,26,2,Lägenhet,1954,[Bagarmossen],1960000,0,1960000,1966,Fastighetsbyrån,561.3626365289875,Bagarmossen
+2015-07-15,Lagavägen 14,Bagarmossen,GronSkarpnack,2,64.5,1,Lägenhet,2001,[Bagarmossen],2195000,225000,2420000,4970,HusmanHagberg,230.7227138060942,Bagarmossen
+2015-07-14,Fogdevägen 41,Bagarmossen,GronSkarpnack,2,63.5,1,Lägenhet,2008,[Bagarmossen],2540000,0,2540000,4305,Länsförsäkringar Fastighetsförmedling,490.83382057376843,Bagarmossen
+2015-07-10,Bergsrådsvägen 48,Bagarmossen,GronSkarpnack,3,60,1,Lägenhet,null,[Bagarmossen],2495000,0,2495000,3498,Mäklarhuset,290.02945434389096,Bagarmossen
+2015-07-02,Lagavägen 14,Bagarmossen,GronSkarpnack,2,59,-1,Lägenhet,2001,[Bagarmossen],1695000,405000,2100000,4713,Fantastic Frank Fastighetsmäkleri,230.7227138060942,Bagarmossen
+2015-07-01,Fogdevägen 47,Bagarmossen,GronSkarpnack,2,48,4,Lägenhet,2008,[Skarpnäcks stadsdelsområde],2200000,340000,2540000,3475,SkandiaMäklarna,362.4681888634263,Bagarmossen
+2015-06-25,Voxnegränd 24,Bagarmossen,GronSkarpnack,1,27,1,Lägenhet,1953,[Bagarmossen],1495000,335000,1830000,2165,Erik Olsson Fastighetsförmedling,334.26047990719,Bagarmossen
+2015-06-24,Rusthållarvägen 71,Bagarmossen,GronSkarpnack,1,19,3,Lägenhet,1953,[Bagarmossen],1395000,385000,1780000,800,Länsförsäkringar Fastighetsförmedling,66.87802730177188,Bagarmossen
+2015-06-12,Bergsrådsvägen 16,Bagarmossen,GronSkarpnack,1,19,1,Lägenhet,1954,[Bagarmossen],1250000,230000,1480000,1139,Länsförsäkringar Fastighetsförmedling,219.02342283429155,Bagarmossen
+2015-06-11,Svartågatan 78,Bagarmossen,GronSkarpnack,3,74,2,Lägenhet,1954,[Bagarmossen],2795000,535000,3330000,4743,HusmanHagberg,470.12459251649125,Bagarmossen
+2015-06-10,Lagavägen 22,Bagarmossen,GronSkarpnack,3,79,1,Lägenhet,2001,[Bagarmossen],2650000,285000,2935000,5688,Svensk Fastighetsförmedling,151.60676915541464,Bagarmossen
+2015-06-09,Kolbäcksgränd 17,Bagarmossen,GronSkarpnack,2,58,1,Lägenhet,1954,[Bagarmossen],2200000,200000,2400000,null,Svensk Fastighetsförmedling,533.293203676111,Bagarmossen
+2015-06-09,Voxnegränd 6,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1953,[Bagarmossen],2550000,0,2550000,3403,Länsförsäkringar Fastighetsförmedling,220.06613079321187,Bagarmossen
+2015-06-06,Kolbäcksgränd 11,Bagarmossen,GronSkarpnack,1,26,3,Lägenhet,1954,[Bagarmossen],1575000,325000,1900000,1883,HusmanHagberg,490.1363029181944,Bagarmossen
+2015-06-05,Rusthållarvägen 161,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],1950000,270000,2220000,3825,Länsförsäkringar Fastighetsförmedling,444.7854267523455,Bagarmossen
+2015-06-04,Rusthållarvägen 135,Bagarmossen,GronSkarpnack,2,59,3,Lägenhet,1954,[Bagarmossen],2150000,70000,2220000,null,Svensk Fastighetsförmedling,337.6322032276284,Bagarmossen
+2015-05-30,Svartågatan 65,Bagarmossen,GronSkarpnack,1,null,null,Lägenhet,1954,[Bagarmossen],null,NaN,2000000,2413,SkandiaMäklarna,511.46451813868833,Bagarmossen
+2015-05-29,Svartågatan 67,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],1900000,550000,2450000,3795,Svensk Fastighetsförmedling,502.058144925295,Bagarmossen
+2015-05-28,Ljusnevägen 6,Bagarmossen,GronSkarpnack,2,43.5,3,Lägenhet,2009,[Bagarmossen],1950000,600000,2550000,2562,HusmanHagberg,524.3023011473283,Bagarmossen
+2015-05-23,Svartågatan 57,Bagarmossen,GronSkarpnack,3,75,null,Lägenhet,null,[Bagarmossen],2495000,280000,2775000,null,Mäklarhuset,538.1778840302641,Bagarmossen
+2015-05-21,Kolbäcksgränd 29,Bagarmossen,GronSkarpnack,1,26,3,Lägenhet,1954,[Bagarmossen],1450000,450000,1900000,1966,Fastighetsbyrån,546.2293925277756,Bagarmossen
+2015-05-17,Svartågatan 65,Bagarmossen,GronSkarpnack,1.5,27,null,Lägenhet,null,[Bagarmossen],1495000,205000,1700000,2413,SkandiaMäklarna,511.46451813868833,Bagarmossen
+2015-05-14,Rusthållarvägen 181,Bagarmossen,GronSkarpnack,3,74,1,Lägenhet,1954,[Bagarmossen],2575000,0,2575000,4760,SkandiaMäklarna,477.2343265329773,Bagarmossen
+2015-05-14,Rusthållarvägen 161,Bagarmossen,GronSkarpnack,2,54,2,Lägenhet,1954,[Bagarmossen],1975000,20000,1995000,null,Svensk Fastighetsförmedling,444.7854267523455,Bagarmossen
+2015-05-14,Kolbäcksgränd 1,Bagarmossen,GronSkarpnack,2,39,3,Lägenhet,1954,[Bagarmossen],1795000,535000,2330000,2622,HusmanHagberg,445.1185809163874,Bagarmossen
+2015-05-13,Svartågatan 60,Bagarmossen,GronSkarpnack,2,59,2,Lägenhet,1954,[Bagarmossen],1995000,710000,2705000,3980,Svensk Fastighetsförmedling,675.6949318364964,Bagarmossen
+2015-05-13,Bergsrådsvägen 39,Bagarmossen,GronSkarpnack,3,68,2,Lägenhet,1954,[Bagarmossen],2595000,50000,2645000,4170,Mäklarringen,476.18955186607485,Bagarmossen
+2015-05-12,Svartågatan 61,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],1995000,655000,2650000,3794,HusmanHagberg,522.8837408809736,Bagarmossen
+2015-05-08,Lagavägen 26,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,2001,[Bagarmossen],2500000,530000,3030000,5442,Svensk Fastighetsförmedling,110.51537997890118,Bagarmossen
+2015-05-07,Kolbäcksgränd 17,Bagarmossen,GronSkarpnack,1,26,1,Lägenhet,1954,[Bagarmossen],1490000,360000,1850000,1858,HusmanHagberg,533.293203676111,Bagarmossen
+2015-05-06,Bergsrådsvägen 42,Bagarmossen,GronSkarpnack,4,94,-1,Lägenhet,null,[Bagarmossen],3495000,355000,3850000,5413,Svenska Mäklarhuset,266.6677668734074,Bagarmossen
+2015-05-05,Svartågatan 62,Bagarmossen,GronSkarpnack,2,null,3,Lägenhet,1954,[Bagarmossen],1850000,470000,2320000,3980,Lindroos Bostadsmäklare AB,443.0319203128237,Bagarmossen
+2015-05-01,Fogdevägen 43,Bagarmossen,GronSkarpnack,2,null,null,Lägenhet,2008,[Bagarmossen],null,NaN,2750000,4366,SkandiaMäklarna,448.66332441036064,Bagarmossen
+2015-04-30,Kolbäcksgränd 31,Bagarmossen,GronSkarpnack,3,70,null,Lägenhet,null,[Bagarmossen],2695000,705000,3400000,null,Mäklarhuset,533.3913868223228,Bagarmossen
+2015-04-24,Kolbäcksgränd 11,Bagarmossen,GronSkarpnack,1,26,2,Lägenhet,1954,[Bagarmossen],1495000,405000,1900000,1966,Länsförsäkringar Fastighetsförmedling,490.1363029181944,Bagarmossen
+2015-04-24,Rusthållarvägen 135,Bagarmossen,GronSkarpnack,2,59,2,Lägenhet,1954,[Bagarmossen],1995000,555000,2550000,null,Svensk Fastighetsförmedling,337.6322032276284,Bagarmossen
+2015-04-23,Rusthållarvägen 173,Bagarmossen,GronSkarpnack,3,68,3,Lägenhet,1954,[Bagarmossen],2695000,315000,3010000,4526,Svensk Fastighetsförmedling,456.8633229352436,Bagarmossen
+2015-04-23,Rusthållarvägen 173,Bagarmossen,GronSkarpnack,3,68,2,Lägenhet,1954,[Bagarmossen],2695000,310000,3005000,4526,Svensk Fastighetsförmedling,456.8633229352436,Bagarmossen
+2015-04-21,Lagavägen 16,Bagarmossen,GronSkarpnack,3,79,3,Lägenhet,2001,[Bagarmossen],2700000,750000,3450000,null,Svensk Fastighetsförmedling,214.76324548339744,Bagarmossen
+2015-04-17,Voxnegränd 12,Bagarmossen,GronSkarpnack,5,165,null,Villa,null,[Bagarmossen],2795000,205000,3000000,null,Länsförsäkringar Fastighetsförmedling,265.23066951017483,Bagarmossen
+2015-04-03,Rusthållarvägen 187,Bagarmossen,GronSkarpnack,4,80,null,Lägenhet,1954,[Bagarmossen],3500000,0,3500000,5150,Lindroos Bostadsmäklare AB,511.64854762792044,Bagarmossen
+2015-03-30,Voxnegränd 22,Bagarmossen,GronSkarpnack,1,43,3,Lägenhet,1954,[Bagarmossen],1675000,655000,2330000,2926,HusmanHagberg,315.9311289315555,Bagarmossen
+2015-03-25,Voxnegränd 13,Bagarmossen,GronSkarpnack,4,85,2,Lägenhet,1953,[Bagarmossen],3500000,850000,4350000,4778,SkandiaMäklarna,320.6018561462209,Bagarmossen
+2015-03-24,Kolbäcksgränd 14,Bagarmossen,GronSkarpnack,3,68,2,Lägenhet,1954,[Bagarmossen],2450000,150000,2600000,4105,Svensk Fastighetsförmedling,400.3480017365138,Bagarmossen
+2015-03-24,Stångåvägen 16,Bagarmossen,GronSkarpnack,3,74,2,Lägenhet,1954,[Bagarmossen],2650000,880000,3530000,4743,HusmanHagberg,350.5874670157784,Bagarmossen
+2015-03-24,Rusthållarvägen 125,Bagarmossen,GronSkarpnack,3.5,76,2,Lägenhet,1954,[Bagarmossen],2795000,0,2795000,4818,Fastighetsbyrån,274.9072334594243,Bagarmossen
+2015-03-20,Stångåvägen 4,Bagarmossen,GronSkarpnack,4,85,2,Lägenhet,1954,[Bagarmossen],3350000,410000,3760000,5320,Svensk Fastighetsförmedling,331.4967734220237,Bagarmossen
+2015-03-19,Voxnegränd 1,Bagarmossen,GronSkarpnack,2,54,7,Lägenhet,1953,[Bagarmossen],1980000,520000,2500000,3403,Svensk Fastighetsförmedling,226.3164291264651,Bagarmossen
+2015-03-19,Bergsrådsvägen 42,Bagarmossen,GronSkarpnack,1,19,1,Lägenhet,1953,[Bagarmossen],1250000,200000,1450000,1185,Svensk Fastighetsförmedling,266.6677668734074,Bagarmossen
+2015-03-19,Bergsrådsvägen 42,Bagarmossen,GronSkarpnack,2,55,1,Lägenhet,1953,[Bagarmossen],1975000,165000,2140000,3436,Svensk Fastighetsförmedling,266.6677668734074,Bagarmossen
+2015-03-19,Kolbäcksgränd 19,Bagarmossen,GronSkarpnack,2,58,3,Lägenhet,1954,[Bagarmossen],2195000,635000,2830000,3592,Svensk Fastighetsförmedling,548.5691753350626,Bagarmossen
+2015-03-18,Lagavägen 30,Bagarmossen,GronSkarpnack,4,81.5,1,Lägenhet,2001,[Bagarmossen],2795000,0,2795000,5785,Mäklarhuset,100.90643092025094,Bagarmossen
+2015-03-18,Voxnegränd 19,Bagarmossen,GronSkarpnack,3,82,3,Lägenhet,1953,[Bagarmossen],2500000,1000000,3500000,4537,Svensk Fastighetsförmedling,358.05621686446295,Bagarmossen
+2015-03-12,Lagavägen 34,Bagarmossen,GronSkarpnack,4,80,1,Lägenhet,2001,[Bagarmossen],2600000,900000,3500000,5785,Svensk Fastighetsförmedling,77.0390327921814,Bagarmossen
+2015-03-12,Svartågatan 67,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1954,[Bagarmossen],1850000,475000,2325000,3794,Svensk Fastighetsförmedling,502.058144925295,Bagarmossen
+2015-03-11,Voxnegränd 12,Bagarmossen,GronSkarpnack,1,null,null,Lägenhet,1953,[Bagarmossen],null,NaN,1900000,2165,SkandiaMäklarna,265.23066951017483,Bagarmossen
+2015-03-02,Emågatan 29,Bagarmossen,GronSkarpnack,3,74,3,Lägenhet,1954,[Bagarmossen],2600000,490000,3090000,4410,Svensk Fastighetsförmedling,269.74970351819303,Bagarmossen
+2015-02-11,Kolbäcksgränd 9,Bagarmossen,GronSkarpnack,2,57,1,Lägenhet,1954,[Bagarmossen],1890000,570000,2460000,3568,Svensk Fastighetsförmedling,477.54224812669946,Bagarmossen
+2015-02-06,Bergsrådsvägen 34,Bagarmossen,GronSkarpnack,4,89,2,Lägenhet,1953,[Bagarmossen],3250000,960000,4210000,5166,Svensk Fastighetsförmedling,257.1018889645898,Bagarmossen
+2015-01-28,Bergsrådsvägen 36,Bagarmossen,GronSkarpnack,1,24,1,Lägenhet,1954,[Bagarmossen],1350000,280000,1630000,1427,Mäklarhuset,256.1996334981162,Bagarmossen
+2015-01-28,Svartågatan 31,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1954,[Bagarmossen],1890000,245000,2135000,3795,Svensk Fastighetsförmedling,347.093315656654,Bagarmossen
+2015-01-25,Kolbäcksgränd 5,Bagarmossen,GronSkarpnack,2,null,null,Lägenhet,1954,[Bagarmossen],1875000,115000,1990000,3453,Lindroos Bostadsmäklare AB,464.8213732230463,Bagarmossen
+2015-01-23,Lagavägen 24,Bagarmossen,GronSkarpnack,3.5,81.5,1,Lägenhet,2001,[Bagarmossen],2495000,755000,3250000,5987,Mäklarhuset,128.46258582337228,Bagarmossen
+2015-01-23,Rusthållarvägen 141,Bagarmossen,GronSkarpnack,3,67,1,Lägenhet,1954,[Bagarmossen],2495000,-45000,2450000,4477,Mäklarhuset,354.35054131458753,Bagarmossen
+2015-01-22,Kolbäcksgränd 14,Bagarmossen,GronSkarpnack,1,44,null,Lägenhet,1954,[Bagarmossen],1645000,205000,1850000,2838,Fastighetsbyrån,400.3480017365138,Bagarmossen
+2015-01-21,Voxnegränd 15,Bagarmossen,GronSkarpnack,1,38,1,Lägenhet,1953,[Bagarmossen],1450000,410000,1860000,2681,Fastighetsbyrån,294.3751281491447,Bagarmossen
+2015-01-21,Kolbäcksgränd 9,Bagarmossen,GronSkarpnack,1.5,40,3,Lägenhet,1954,[Bagarmossen],1550000,610000,2160000,2366,HusmanHagberg,477.54224812669946,Bagarmossen
+2015-01-15,Svartågatan 66,Bagarmossen,GronSkarpnack,3,68,1,Lägenhet,1954,[Bagarmossen],2150000,360000,2510000,4516,HusmanHagberg,416.42551166965166,Bagarmossen
+2015-01-14,Fogdevägen 45,Bagarmossen,GronSkarpnack,2,65,5,Lägenhet,2008,[Bagarmossen],1995000,675000,2670000,4366,HusmanHagberg,406.66933041312444,Bagarmossen
+2014-12-18,Rusthållarvägen 151,Bagarmossen,GronSkarpnack,1,27,null,Lägenhet,1954,[Bagarmossen],1395000,255000,1650000,2359,MäklarMäster,392.61351449076375,Bagarmossen
+2014-12-17,Stångåvägen 22,Bagarmossen,GronSkarpnack,2.5,54,2,Lägenhet,1954,[Bagarmossen],1900000,210000,2110000,3738,Svensk Fastighetsförmedling,386.16640778880196,Bagarmossen
+2014-12-15,Bergsrådsvägen 34,Bagarmossen,GronSkarpnack,4,89,1,Lägenhet,1954,[Bagarmossen],3095000,750000,3845000,5166,HusmanHagberg,257.1018889645898,Bagarmossen
+2014-12-11,Kolbäcksgränd 29,Bagarmossen,GronSkarpnack,2,58,3,Lägenhet,1954,[Bagarmossen],1950000,210000,2160000,3509,Mäklarhuset,546.2293925277756,Bagarmossen
+2014-12-11,Lagavägen 28,Bagarmossen,GronSkarpnack,2,45,null,Lägenhet,2001,[Bagarmossen],1495000,45000,1540000,4169,MäklarMäster,105.46400375242341,Bagarmossen
+2014-12-11,Voxnegränd 1,Bagarmossen,GronSkarpnack,3,64,null,Lägenhet,1954,[Bagarmossen],2150000,700000,2850000,3804,SkandiaMäklarna,226.3164291264651,Bagarmossen
+2014-12-11,Voxnegränd 1,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,null,[Bagarmossen],1895000,30000,1925000,3304,Svensk Fastighetsförmedling,226.3164291264651,Bagarmossen
+2014-12-10,Svartågatan 52,Bagarmossen,GronSkarpnack,1,38,0.5,Lägenhet,1954,[Bagarmossen],1480000,535000,2015000,2946,Svensk Fastighetsförmedling,331.85157064145614,Bagarmossen
+2014-12-08,Bergsrådsvägen 24,Bagarmossen,GronSkarpnack,2.5,60,1,Lägenhet,null,[Bagarmossen],1900000,430000,2330000,3498,Svensk Fastighetsförmedling,200.7221301081445,Bagarmossen
+2014-12-05,Svartågatan 78,Bagarmossen,GronSkarpnack,3,74,null,Lägenhet,1954,[Bagarmossen],2495000,335000,2830000,4672,Fastighetsbyrån,470.12459251649125,Bagarmossen
+2014-12-04,Bergsrådsvägen 26,Bagarmossen,GronSkarpnack,3,60,3,Lägenhet,1953,[Bagarmossen],1850000,290000,2140000,3452,Notar,193.75600759783046,Bagarmossen
+2014-11-25,Kolbäcksgränd 15,Bagarmossen,GronSkarpnack,1,26,2,Lägenhet,1954,[Bagarmossen],1480000,320000,1800000,1948,Svensk Fastighetsförmedling,518.8476318420546,Bagarmossen
+2014-11-24,Emågatan 31,Bagarmossen,GronSkarpnack,4,85,3,Lägenhet,1954,[Bagarmossen],3150000,0,3150000,4772,Svensk Fastighetsförmedling,275.8609966163513,Bagarmossen
+2014-11-24,Bergsrådsvägen 20,Bagarmossen,GronSkarpnack,2,56,1,Lägenhet,1954,[Bagarmossen],1995000,5000,2000000,3268,Mäklarhuset,222.26137239607485,Bagarmossen
+2014-11-21,Svartågatan 41,Bagarmossen,GronSkarpnack,2,54,2,Lägenhet,1954,[Bagarmossen],1895000,235000,2130000,3738,Fastighetsbyrån,380.9257632239497,Bagarmossen
+2014-11-20,Svartågatan 49,Bagarmossen,GronSkarpnack,1,26,1,Lägenhet,1954,[Bagarmossen],1395000,315000,1710000,2336,HusmanHagberg,406.07355523838567,Bagarmossen
+2014-11-13,Voxnegränd 10,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1953,[Bagarmossen],1850000,250000,2100000,3304,Fastighetsbyrån,248.17925974673503,Bagarmossen
+2014-11-13,Voxnegränd 26,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,null,[Bagarmossen],1895000,325000,2220000,3304,Notar,338.82015432709153,Bagarmossen
+2014-11-05,Svartågatan 43,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,null,[Bagarmossen],1790000,460000,2250000,3738,Svensk Fastighetsförmedling,387.0700428179492,Bagarmossen
+2014-10-29,Svartågatan 60,Bagarmossen,GronSkarpnack,2,59,3,Lägenhet,1954,[Bagarmossen],1795000,665000,2460000,3922,HusmanHagberg,675.6949318364964,Bagarmossen
+2014-10-28,Klarälvsvägen 18,Bagarmossen,GronSkarpnack,5,83,null,Villa,1954,[Bagarmossen],null,NaN,5450000,null,Svensk Fastighetsförmedling,862.2624939699053,Skarpnack
+2014-10-24,Kolbäcksgränd 29,Bagarmossen,GronSkarpnack,1,26,2,Lägenhet,null,[Bagarmossen],1250000,470000,1720000,1948,Svensk Fastighetsförmedling,546.2293925277756,Bagarmossen
+2014-10-23,Svartågatan 31,Bagarmossen,GronSkarpnack,2,54,null,Lägenhet,1954,[Bagarmossen],1795000,100000,1895000,3738,Fastighetsbyrån,347.093315656654,Bagarmossen
+2014-10-17,Kolbäcksgränd 26,Bagarmossen,GronSkarpnack,2,58,3,Lägenhet,1954,[Bagarmossen],1875000,450000,2325000,3557,Fastighetsbyrån,486.10400396509726,Bagarmossen
+2014-10-09,Bergsrådsvägen 20,Bagarmossen,GronSkarpnack,2,56,1,Lägenhet,1952,[Bagarmossen],1895000,0,1895000,3268,SverigeMäklaren,222.26137239607485,Bagarmossen
+2014-09-26,Svartbäcksvägen 10,Bagarmossen,GronSkarpnack,6,88,null,Villa,1954,[Bagarmossen],5450000,925000,6375000,null,SkandiaMäklarna,696.8852539980824,Bagarmossen
+2014-09-25,Svartågatan 51,Bagarmossen,GronSkarpnack,5.5,97,1,Lägenhet,1954,[Bagarmossen],4000000,900000,4900000,5546,Svenska Mäklarhuset,499.681514567104,Bagarmossen
+2014-09-25,Lagavägen 28,Bagarmossen,GronSkarpnack,3,81,3,Lägenhet,null,[Bagarmossen],2200000,750000,2950000,5766,Svensk Fastighetsförmedling,105.46400375242341,Bagarmossen
+2014-09-24,Fogdevägen 45,Bagarmossen,GronSkarpnack,2,48,4,Lägenhet,null,[Bagarmossen],1850000,360000,2210000,3475,Svensk Fastighetsförmedling,406.66933041312444,Bagarmossen
+2014-09-20,Rusthållarvägen 71,Bagarmossen,GronSkarpnack,1,19,3,Lägenhet,1953,[Bagarmossen],1390000,90000,1480000,777,ERA,66.87802730177188,Bagarmossen
+2014-09-18,Voxnegränd 11,Bagarmossen,GronSkarpnack,2,60,2,Lägenhet,null,[Bagarmossen],1790000,230000,2020000,3504,Svensk Fastighetsförmedling,296.3281292661709,Bagarmossen
+2014-09-12,Ljusnevägen 92,Bagarmossen,GronSkarpnack,5,null,null,Radhus,1955,[Bagarmossen],4950000,500000,5450000,null,Mäklarhuset Lindroos & Hamstedt,809.6223044630428,Bagarmossen
+2014-09-11,Ljusnevägen 6,Bagarmossen,GronSkarpnack,3,78.5,4,Lägenhet,null,[Bagarmossen],2950000,420000,3370000,4320,Svensk Fastighetsförmedling,524.3023011473283,Bagarmossen
+2014-09-11,Rusthållarvägen 147,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,1953,[Bagarmossen],1950000,650000,2600000,4458,HusmanHagberg,398.6048851223309,Bagarmossen
+2014-09-10,Stångåvägen 14,Bagarmossen,GronSkarpnack,1,27,2,Lägenhet,null,[Bagarmossen],1450000,0,1450000,2377,Svensk Fastighetsförmedling,336.81963718164366,Bagarmossen
+2014-09-06,Svartågatan 65,Bagarmossen,GronSkarpnack,1,42,3,Lägenhet,1954,[Bagarmossen],1350000,250000,1600000,3088,HusmanHagberg,511.46451813868833,Bagarmossen
+2014-09-04,Kolbäcksgränd 21,Bagarmossen,GronSkarpnack,2,63,1,Lägenhet,null,[Bagarmossen],1680000,590000,2270000,3675,Svensk Fastighetsförmedling,560.1111841267631,Bagarmossen
+2014-09-04,Ätravägen 14,Bagarmossen,GronSkarpnack,3,76,null,Lägenhet,null,[Bagarmossen],2795000,0,2795000,4382,Fastighetsbyrån,672.8398267457839,Karrtorp
+2014-09-01,Stångåvägen 14,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,null,[Bagarmossen],2480000,220000,2700000,4531,Svensk Fastighetsförmedling,336.81963718164366,Bagarmossen
+2014-08-30,Rusthållarvägen 179,Bagarmossen,GronSkarpnack,3,74,null,Lägenhet,1954,[Bagarmossen],2400000,270000,2670000,4622,Fastighetsbyrån,472.1476879647402,Bagarmossen
+2014-08-29,Svartågatan 80,Bagarmossen,GronSkarpnack,2,50,4.5,Lägenhet,1954,[Bagarmossen],1875000,165000,2040000,3586,SkandiaMäklarna,496.46021424816405,Bagarmossen
+2014-08-25,Rusthållarvägen 71,Bagarmossen,GronSkarpnack,1,null,1,Lägenhet,1953,[Bagarmossen],1435000,0,1435000,777,Mäklarhuset Lindroos & Hamstedt,66.87802730177188,Bagarmossen
+2014-08-25,Voxnegränd 4,Bagarmossen,GronSkarpnack,3,70,2,Lägenhet,1953,[Bagarmossen],2250000,-150000,2100000,4005,Fastighetsbyrån,201.4182314634901,Bagarmossen
+2014-08-24,Svartågatan 39,Bagarmossen,GronSkarpnack,3,74,3,Lägenhet,1954,[Bagarmossen],2050000,50000,2100000,4673,HusmanHagberg,392.7890713160581,Bagarmossen
+2014-08-24,Kolbäcksgränd 34,Bagarmossen,GronSkarpnack,3,null,3,Lägenhet,1954,[Bagarmossen],2480000,245000,2725000,4075,Mäklarhuset Lindroos & Hamstedt,520.6554157852786,Bagarmossen
+2014-08-22,Bergsrådsvägen 34,Bagarmossen,GronSkarpnack,3,76,3,Lägenhet,null,[Bagarmossen],2190000,130000,2320000,4418,Svensk Fastighetsförmedling,257.1018889645898,Bagarmossen
+2014-08-22,Ljusnevägen 2,Bagarmossen,GronSkarpnack,3,76.5,1,Lägenhet,null,[Bagarmossen],2650000,100000,2750000,4232,Svensk Fastighetsförmedling,466.3690499726215,Bagarmossen
+2014-08-21,Fyrisgränd 20,Bagarmossen,GronSkarpnack,6,83,null,Villa,1954,[Bagarmossen],6250000,725000,6975000,null,HusmanHagberg,806.0974872778985,Skarpnack
+2014-08-19,Rusthållarvägen 129,Bagarmossen,GronSkarpnack,2,53,2,Lägenhet,1954,[Bagarmossen],1675000,150000,1825000,3644,Fastighetsbyrån,287.15896423066005,Bagarmossen
+2014-08-14,Gondolgatan 8,Bagarmossen,GronSkarpnack,4,101.5,null,Lägenhet,1983,[Skarpnäck],2300000,470000,2770000,5786,Fastighetsbyrån,561.7913481249377,Skarpnack
+2014-08-14,Rusthållarvägen 143,Bagarmossen,GronSkarpnack,4,74,null,Lägenhet,1954,[Bagarmossen],2495000,0,2495000,4565,Fastighetsbyrån,370.7461014764601,Bagarmossen
+2014-08-08,Rusthållarvägen 171,Bagarmossen,GronSkarpnack,3,68,3,Lägenhet,1954,[Bagarmossen],2395000,70000,2465000,4395,Fastighetsbyrån,445.78200796232045,Bagarmossen
+2014-07-23,Bergsrådsvägen 12,Bagarmossen,GronSkarpnack,2,53,3,Lägenhet,null,[Bagarmossen],1750000,300000,2050000,3095,Svensk Fastighetsförmedling,165.42349972339449,Bagarmossen
+2014-07-10,Lagavägen 28,Bagarmossen,GronSkarpnack,4,91.5,1,Lägenhet,null,[Bagarmossen],3000000,0,3000000,6442,Svensk Fastighetsförmedling,105.46400375242341,Bagarmossen
+2014-07-04,Ätravägen 14,Bagarmossen,GronSkarpnack,2,49,1,Lägenhet,null,[Bagarmossen],1650000,150000,1800000,3334,Svensk Fastighetsförmedling,672.8398267457839,Karrtorp
+2014-07-04,Bergsrådsvägen 22,Bagarmossen,GronSkarpnack,2,56,null,Lägenhet,1954,[Bagarmossen],1850000,0,1850000,3268,MäklarMäster,210.55580020739654,Bagarmossen
+2014-06-27,Svartågatan 50,Bagarmossen,GronSkarpnack,3,68,2,Lägenhet,null,[Bagarmossen],2190000,160000,2350000,4450,Svensk Fastighetsförmedling,333.20260360568506,Bagarmossen
+2014-06-19,Lagavägen 22,Bagarmossen,GronSkarpnack,5,105.5,3,Lägenhet,null,[Bagarmossen],2995000,445000,3440000,7230,Fastighetsbyrån,151.60676915541464,Bagarmossen
+2014-06-18,Lagavägen 20,Bagarmossen,GronSkarpnack,4,91.5,3,Lägenhet,2001,[Bagarmossen],2800000,400000,3200000,6442,HusmanHagberg,174.09469076805775,Bagarmossen
+2014-06-18,Stångåvägen 20,Bagarmossen,GronSkarpnack,3,74,3,Lägenhet,1954,[Bagarmossen],2295000,225000,2520000,4677,Bjurfors,366.41190113537067,Bagarmossen
+2014-06-15,Svartågatan 74,Bagarmossen,GronSkarpnack,2,55,2,Lägenhet,1954,[Bagarmossen],1695000,105000,1800000,3771,Svenska Mäklarhuset,431.845497627643,Bagarmossen
+2014-06-13,Rusthållarvägen 171,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,1954,[Bagarmossen],2150000,280000,2430000,4395,Fastighetsbyrån,445.78200796232045,Bagarmossen
+2014-06-13,Voxnegränd 1,Bagarmossen,GronSkarpnack,2,54,null,Lägenhet,1954,[Bagarmossen],1450000,300000,1750000,3304,Fastighetsbyrån,226.3164291264651,Bagarmossen
+2014-06-12,Svartågatan 37,Bagarmossen,GronSkarpnack,2,53,3,Lägenhet,null,[Bagarmossen],1700000,280000,1980000,3698,Svensk Fastighetsförmedling,382.9384028867987,Bagarmossen
+2014-06-05,Svartågatan 47,Bagarmossen,GronSkarpnack,3,null,3,Lägenhet,1954,[Bagarmossen],2200000,400000,2600000,4412,Mäklarhuset Lindroos & Hamstedt,442.0687557132035,Bagarmossen
+2014-06-04,Kolbäcksgränd 23,Bagarmossen,GronSkarpnack,4,85,3,Lägenhet,1954,[Bagarmossen],2975000,915000,3890000,4990,Hemverket,569.7547587554719,Bagarmossen
+2014-06-04,Svartågatan 52,Bagarmossen,GronSkarpnack,4,85,2,Lägenhet,null,[Bagarmossen],2875000,625000,3500000,5243,Svensk Fastighetsförmedling,331.85157064145614,Bagarmossen
+2014-06-02,Svartågatan 49,Bagarmossen,GronSkarpnack,3,67,2,Lägenhet,null,[Bagarmossen],2100000,485000,2585000,4409,Svensk Fastighetsförmedling,406.07355523838567,Bagarmossen
+2014-05-29,Stångåvägen 8,Bagarmossen,GronSkarpnack,4,85,1,Lägenhet,1954,[Bagarmossen],2850000,200000,3050000,5243,SkandiaMäklarna,312.06582267277895,Bagarmossen
+2014-05-22,Svartågatan 80,Bagarmossen,GronSkarpnack,2,51,2,Lägenhet,1954,[Bagarmossen],1625000,335000,1960000,3621,Mäklarringen,496.46021424816405,Bagarmossen
+2014-05-17,Svartågatan 60,Bagarmossen,GronSkarpnack,2,null,2,Lägenhet,1954,[Bagarmossen],1745000,105000,1850000,3922,Mäklarhuset Lindroos & Hamstedt,675.6949318364964,Bagarmossen
+2014-05-16,Letstigen 11,Bagarmossen,GronSkarpnack,5,90,null,Radhus,1955,[Bagarmossen],4600000,775000,5375000,null,Mäklarhuset Lindroos & Hamstedt,818.0170450581919,Bagarmossen
+2014-05-16,Rusthållarvägen 73,Bagarmossen,GronSkarpnack,4,89,3,Lägenhet,null,[Bagarmossen],2975000,1125000,4100000,3641,Svensk Fastighetsförmedling,72.68846787583736,Bagarmossen
+2014-05-15,Svartågatan 80,Bagarmossen,GronSkarpnack,2,50,null,Lägenhet,1954,[Bagarmossen],1595000,425000,2020000,3583,SkandiaMäklarna,496.46021424816405,Bagarmossen
+2014-05-15,Rusthållarvägen 127,Bagarmossen,GronSkarpnack,2,53,1,Lägenhet,1954,[Bagarmossen],1695000,15000,1710000,3648,Fastighetsbyrån,275.99165188756734,Bagarmossen
+2014-05-14,Rusthållarvägen 187,Bagarmossen,GronSkarpnack,3,67,null,Lägenhet,1954,[Bagarmossen],1695000,665000,2360000,4357,Svenska Mäklargruppen,511.64854762792044,Bagarmossen
+2014-05-06,Kolbäcksgränd 32,Bagarmossen,GronSkarpnack,2,62,3,Lägenhet,1954,[Bagarmossen],1850000,50000,1900000,3663,Notar,523.7997984753289,Bagarmossen
+2014-04-28,Rusthållarvägen 173,Bagarmossen,GronSkarpnack,3,68,3,Lägenhet,1954,[Bagarmossen],2240000,160000,2400000,4395,Fastighetsbyrån,456.8633229352436,Bagarmossen
+2014-04-23,Svartågatan 48,Bagarmossen,GronSkarpnack,1,38,null,Lägenhet,1954,[Bagarmossen],1495000,105000,1600000,2942,Fastighetsbyrån,335.94749605402717,Bagarmossen
+2014-04-23,Svartågatan 33,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,null,[Bagarmossen],1680000,330000,2010000,3734,Svensk Fastighetsförmedling,352.0838920146537,Bagarmossen
+2014-04-18,Fogdevägen 47,Bagarmossen,GronSkarpnack,2,65,4,Lägenhet,2008,[Bagarmossen],1895000,375000,2270000,4366,SkandiaMäklarna,362.4681888634263,Bagarmossen
+2014-04-09,Svartågatan 50,Bagarmossen,GronSkarpnack,3,68,2,Lägenhet,1954,[Bagarmossen],2275000,480000,2755000,4450,Erik Olsson Fastighetsförmedling,333.20260360568506,Bagarmossen
+2014-04-04,Fogdevägen 41,Bagarmossen,GronSkarpnack,2,65,2,Lägenhet,2008,[Bagarmossen],1775000,535000,2310000,4366,SkandiaMäklarna,490.83382057376843,Bagarmossen
+2014-03-31,Svartågatan 80,Bagarmossen,GronSkarpnack,1,33,1,Lägenhet,null,[Enskede],1400000,-100000,1300000,2603,Svensk Fastighetsförmedling,496.46021424816405,Bagarmossen
+2014-03-30,Voxnegränd 13,Bagarmossen,GronSkarpnack,4,85,null,Lägenhet,1954,[Bagarmossen],2700000,140000,2840000,4639,Fastighetsbyrån,320.6018561462209,Bagarmossen
+2014-03-27,Rusthållarvägen 135,Bagarmossen,GronSkarpnack,2,59,2,Lägenhet,1953,[Bagarmossen],1595000,205000,1800000,3869,SkandiaMäklarna,337.6322032276284,Bagarmossen
+2014-03-25,Nidälvsgränd 9,Bagarmossen,GronSkarpnack,6,170,null,Villa,1954,[Bagarmossen],5950000,700000,6650000,null,SkandiaMäklarna,631.8260426085814,Bagarmossen
+2014-03-24,Svartågatan 47,Bagarmossen,GronSkarpnack,2,55,1,Lägenhet,null,[Bagarmossen],1595000,355000,1950000,3771,BOSTHLM,442.0687557132035,Bagarmossen
+2014-03-21,Emågatan 39,Bagarmossen,GronSkarpnack,3,68,1.5,Lägenhet,1954,[Bagarmossen],2195000,55000,2250000,3961,Notar,288.23212627643426,Bagarmossen
+2014-03-19,Svartågatan 82,Bagarmossen,GronSkarpnack,3,68,3,Lägenhet,null,[Enskede],2050000,650000,2700000,4450,Svensk Fastighetsförmedling,488.4164113539017,Bagarmossen
+2014-03-17,Bergsrådsvägen 16,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,null,[Enskede],2330000,-60000,2270000,3958,Svensk Fastighetsförmedling,219.02342283429155,Bagarmossen
+2014-03-06,Svartågatan 78,Bagarmossen,GronSkarpnack,3.5,74,2,Lägenhet,1954,[Bagarmossen],1995000,750000,2745000,4677,Södermäklarna,470.12459251649125,Bagarmossen
+2014-03-05,Rusthållarvägen 123,Bagarmossen,GronSkarpnack,2,55,null,Lägenhet,1954,[Bagarmossen],1595000,10000,1605000,3683,Svenska Mäklarhuset,287.4496848397092,Bagarmossen
+2014-03-05,Ljusnevägen 2,Bagarmossen,GronSkarpnack,2,43.5,2,Lägenhet,2009,[Bagarmossen],1550000,350000,1900000,2758,Mäklarringen,466.3690499726215,Bagarmossen
+2014-03-03,Kolbäcksgränd 6,Bagarmossen,GronSkarpnack,3,72,3,Lägenhet,null,[Enskede],2250000,490000,2740000,4138,Svensk Fastighetsförmedling,430.22594998500364,Bagarmossen
+2014-02-27,Kolbäcksgränd 3,Bagarmossen,GronSkarpnack,1,26,2,Lägenhet,1954,[Bagarmossen],1195000,20000,1215000,1948,Länsförsäkringar Fastighetsförmedling,454.34288776150606,Bagarmossen
+2014-02-27,Bergsrådsvägen 46,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,null,[Enskede],1600000,200000,1800000,3153,Svensk Fastighetsförmedling,296.3828043992386,Bagarmossen
+2014-02-13,Stångåvägen 20,Bagarmossen,GronSkarpnack,3,null,3,Lägenhet,1954,[Bagarmossen],2325000,275000,2600000,4677,Mäklarhuset Lindroos & Hamstedt,366.41190113537067,Bagarmossen
+2014-02-11,Voxnegränd 17,Bagarmossen,GronSkarpnack,1,27,2,Lägenhet,1953,[Enskede],1350000,90000,1440000,2102,Svensk Fastighetsförmedling,345.2051143324756,Bagarmossen
+2014-02-08,Ljusnevägen 4,Bagarmossen,GronSkarpnack,3,77,null,Lägenhet,2009,[Enskede],2650000,250000,2900000,4604,Svensk Fastighetsförmedling,502.0063281466932,Bagarmossen
+2014-02-06,Voxnegränd 1,Bagarmossen,GronSkarpnack,2,54,4,Lägenhet,1954,[Bagarmossen],1500000,270000,1770000,3304,Södermäklarna,226.3164291264651,Bagarmossen
+2014-02-06,Svartågatan 59,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1954,[Enskede],1695000,160000,1855000,3734,Svensk Fastighetsförmedling,534.0591363974156,Bagarmossen
+2014-02-05,Bergsrådsvägen 8,Bagarmossen,GronSkarpnack,1,20,null,Lägenhet,null,[Enskede],995000,325000,1320000,1197,Svensk Fastighetsförmedling,179.5900195313017,Bagarmossen
+2014-01-29,Rusthållarvägen 161,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1954,[Bagarmossen],1695000,55000,1750000,3641,Fastighetsbyrån,444.7854267523455,Bagarmossen
+2014-01-27,Bergsrådsvägen 34,Bagarmossen,GronSkarpnack,1,19,1,Lägenhet,1954,[Bagarmossen],995000,125000,1120000,1139,Notar,257.1018889645898,Bagarmossen
+2014-01-24,Kolbäcksgränd 9,Bagarmossen,GronSkarpnack,1,null,3,Lägenhet,1954,[Bagarmossen],1390000,210000,1600000,2596,Mäklarhuset Lindroos & Hamstedt,477.54224812669946,Bagarmossen
+2014-01-24,Svartågatan 72,Bagarmossen,GronSkarpnack,3,null,3,Lägenhet,1954,[Bagarmossen],1950000,50000,2000000,4677,Mäklarhuset Lindroos & Hamstedt,417.9164624292806,Bagarmossen
+2014-01-24,Rusthållarvägen 131,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,1954,[Bagarmossen],1895000,135000,2030000,4458,Fastighetsbyrån,291.2630381816648,Bagarmossen
+2014-01-23,Kolbäcksgränd 3,Bagarmossen,GronSkarpnack,2,58,2,Lägenhet,1954,[Bagarmossen],1850000,0,1850000,3523,Mäklarhuset,454.34288776150606,Bagarmossen
+2014-01-22,Svartågatan 63,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],1695000,55000,1750000,3660,Fastighetsbyrån,516.2296882687267,Bagarmossen
+2014-01-20,Stångåvägen 14,Bagarmossen,GronSkarpnack,1,27,2,Lägenhet,1954,[Enskede],1195000,155000,1350000,2330,Svensk Fastighetsförmedling,336.81963718164366,Bagarmossen
+2014-01-17,Rusthållarvägen 67,Bagarmossen,GronSkarpnack,2,56,2,Lägenhet,1953,[Bagarmossen],1895000,355000,2250000,2291,Länsförsäkringar Fastighetsförmedling,49.60142658038222,Bagarmossen
+2014-01-15,Fogdevägen 41,Bagarmossen,GronSkarpnack,2,48,3,Lägenhet,2008,[Bagarmossen],1650000,150000,1800000,3475,Fastighetsbyrån,490.83382057376843,Bagarmossen
+2013-12-13,Bergsrådsvägen 8,Bagarmossen,GronSkarpnack,1.5,54,null,Lägenhet,null,[Enskede],1600000,160000,1760000,3119,Svensk Fastighetsförmedling,179.5900195313017,Bagarmossen
+2013-12-09,Kolbäcksgränd 3,Bagarmossen,GronSkarpnack,2,58,2,Lägenhet,1954,[Bagarmossen],1695000,5000,1700000,3523,Mäklarhuset,454.34288776150606,Bagarmossen
+2013-12-05,Voxnegränd 17,Bagarmossen,GronSkarpnack,3,70,3,Lägenhet,1954,[Bagarmossen],2295000,175000,2470000,4005,Länsförsäkringar Fastighetsförmedling,345.2051143324756,Bagarmossen
+2013-12-03,Svartågatan 45,Bagarmossen,GronSkarpnack,3,63,1,Lägenhet,1954,[Enskede],1850000,170000,2020000,4179,Svensk Fastighetsförmedling,414.6814675752816,Bagarmossen
+2013-11-27,Voxnegränd 1,Bagarmossen,GronSkarpnack,3,64,4.5,Lägenhet,1954,[Bagarmossen],1695000,225000,1920000,3804,Fastighetsbyrån,226.3164291264651,Bagarmossen
+2013-11-22,Svartågatan 67,Bagarmossen,GronSkarpnack,1,27,null,Lägenhet,null,[Bagarmossen],1250000,150000,1400000,2293,Fastighetsbyrån,502.058144925295,Bagarmossen
+2013-11-16,Ljusnevägen 6,Bagarmossen,GronSkarpnack,3,77,1,Lägenhet,2009,[Bagarmossen],2195000,330000,2525000,4604,Fastighetsbyrån,524.3023011473283,Bagarmossen
+2013-11-15,Svartågatan 47,Bagarmossen,GronSkarpnack,2,59,0.5,Lägenhet,1954,[Enskede],1620000,140000,1760000,3846,Svensk Fastighetsförmedling,442.0687557132035,Bagarmossen
+2013-11-15,Ätravägen 14,Bagarmossen,GronSkarpnack,4.5,91,4,Lägenhet,2007,[Bagarmossen],2950000,850000,3800000,5179,Bjurfors,672.8398267457839,Karrtorp
+2013-11-14,Bergsrådsvägen 48,Bagarmossen,GronSkarpnack,3,60,0.5,Lägenhet,1954,[Bagarmossen],1495000,295000,1790000,3452,Restate,290.02945434389096,Bagarmossen
+2013-11-14,Lagavägen 18,Bagarmossen,GronSkarpnack,3,null,1,Lägenhet,2001,[Bagarmossen],1850000,0,1850000,5633,Mäklarhuset Lindroos & Hamstedt,185.05835811636538,Bagarmossen
+2013-11-07,Bergsrådsvägen 24,Bagarmossen,GronSkarpnack,2,60,null,Lägenhet,1954,[Bagarmossen],1495000,285000,1780000,3498,MäklarMäster,200.7221301081445,Bagarmossen
+2013-11-02,Svartågatan 52,Bagarmossen,GronSkarpnack,1,null,3,Lägenhet,1954,[Bagarmossen],1475000,0,1475000,2884,Mäklarhuset Lindroos & Hamstedt,331.85157064145614,Bagarmossen
+2013-10-31,Kolbäcksgränd 23,Bagarmossen,GronSkarpnack,3,58,3,Lägenhet,1954,[Bagarmossen],1650000,-100000,1550000,3523,Notar,569.7547587554719,Bagarmossen
+2013-10-24,Lagavägen 20,Bagarmossen,GronSkarpnack,4,91,1,Lägenhet,2001,[Bagarmossen],2350000,320000,2670000,6346,Bjurfors,174.09469076805775,Bagarmossen
+2013-10-23,Kolbäcksgränd 15,Bagarmossen,GronSkarpnack,1,null,3,Lägenhet,1954,[Bagarmossen],1180000,160000,1340000,1846,Mäklarhuset Lindroos & Hamstedt,518.8476318420546,Bagarmossen
+2013-10-11,Gimågatan 7,Bagarmossen,GronSkarpnack,5,90,null,Radhus,1955,[Bagarmossen],4600000,450000,5050000,null,Mäklarhuset Lindroos & Hamstedt,723.952028134362,Bagarmossen
+2013-10-10,Lagavägen 16,Bagarmossen,GronSkarpnack,3,79,null,Lägenhet,2001,[Bagarmossen],1995000,245000,2240000,5633,Fastighetsbyrån,214.76324548339744,Bagarmossen
+2013-10-09,Svartågatan 82,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,null,[Hammarby],1995000,0,1995000,4364,Erik Olsson Fastighetsförmedling,488.4164113539017,Bagarmossen
+2013-10-04,Ljusnevägen 4,Bagarmossen,GronSkarpnack,3,78.5,4,Lägenhet,2009,[Bagarmossen],2765000,-40000,2725000,4320,Mäklarringen,502.0063281466932,Bagarmossen
+2013-09-22,Kolbäcksgränd 14,Bagarmossen,GronSkarpnack,2,null,6,Lägenhet,null,[Bagarmossen],1725000,75000,1800000,3473,Mäklarhuset Lindroos & Hamstedt,400.3480017365138,Bagarmossen
+2013-09-17,Kolbäcksgränd 14,Bagarmossen,GronSkarpnack,2,54,2,Lägenhet,1954,[Enskede],1595000,240000,1835000,3279,Svensk Fastighetsförmedling,400.3480017365138,Bagarmossen
+2013-09-16,Svartågatan 49,Bagarmossen,GronSkarpnack,1,26,null,Lägenhet,1954,[Bagarmossen],1100000,110000,1210000,2293,Notar,406.07355523838567,Bagarmossen
+2013-09-16,Voxnegränd 17,Bagarmossen,GronSkarpnack,3,70,null,Lägenhet,1953,[Bagarmossen],1995000,405000,2400000,4005,Fastighetsbyrån,345.2051143324756,Bagarmossen
+2013-09-14,Rusthållarvägen 181,Bagarmossen,GronSkarpnack,3,74,null,Lägenhet,1954,[Bagarmossen],1795000,355000,2150000,4531,Fastighetsbyrån,477.2343265329773,Bagarmossen
+2013-09-13,Bergsrådsvägen 34,Bagarmossen,GronSkarpnack,1,19,null,Lägenhet,1954,[Bagarmossen],995000,25000,1020000,1139,HusmanHagberg,257.1018889645898,Bagarmossen
+2013-09-13,Kolbäcksgränd 14,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,1954,[Bagarmossen],1850000,640000,2490000,3987,Svenska Mäklarhuset,400.3480017365138,Bagarmossen
+2013-09-13,Kolbäcksgränd 10,Bagarmossen,GronSkarpnack,3,null,2,Lägenhet,null,[Bagarmossen],2050000,200000,2250000,4035,Mäklarhuset Lindroos & Hamstedt,411.0405069807294,Bagarmossen
+2013-09-13,Voxnegränd 4,Bagarmossen,GronSkarpnack,1,27,null,Lägenhet,1954,[Bagarmossen],1275000,25000,1300000,2061,Länsförsäkringar Fastighetsförmedling,201.4182314634901,Bagarmossen
+2013-09-12,Svartågatan 80,Bagarmossen,GronSkarpnack,2,51,5,Lägenhet,1954,[Bagarmossen],1575000,0,1575000,3550,Mäklarhuset,496.46021424816405,Bagarmossen
+2013-09-12,Rusthållarvägen 143,Bagarmossen,GronSkarpnack,3,74,null,Lägenhet,1953,[Bagarmossen],1850000,475000,2325000,4605,Fastighetsbyrån,370.7461014764601,Bagarmossen
+2013-09-07,Rusthållarvägen 141,Bagarmossen,GronSkarpnack,1,null,3,Lägenhet,null,[Bagarmossen],1225000,80000,1305000,2872,Mäklarhuset Lindroos & Hamstedt,354.35054131458753,Bagarmossen
+2013-09-06,Svartågatan 49,Bagarmossen,GronSkarpnack,1,26,null,Lägenhet,1954,[Bagarmossen],1050000,170000,1220000,2293,Fastighetsbyrån,406.07355523838567,Bagarmossen
+2013-09-04,Bergsrådsvägen 40,Bagarmossen,GronSkarpnack,2,54,null,Lägenhet,1954,[Bagarmossen],null,NaN,1970000,3153,ERA,250.00795909887213,Bagarmossen
+2013-08-31,Rusthållarvägen 131,Bagarmossen,GronSkarpnack,3,null,null,Lägenhet,null,[Bagarmossen],1810000,110000,1920000,4419,Mäklarhuset Lindroos & Hamstedt,291.2630381816648,Bagarmossen
+2013-08-29,Kolbäcksgränd 31,Bagarmossen,GronSkarpnack,3,null,2,Lägenhet,null,[Bagarmossen],1975000,580000,2555000,4035,Mäklarhuset Lindroos & Hamstedt,533.3913868223228,Bagarmossen
+2013-08-24,Letstigen 8,Bagarmossen,GronSkarpnack,5,null,null,Radhus,null,[Bagarmossen],4800000,150000,4950000,null,Mäklarhuset Lindroos & Hamstedt,792.8796186240756,Bagarmossen
+2013-08-23,Kolbäcksgränd 5,Bagarmossen,GronSkarpnack,2,58,2,Lägenhet,1954,[Bagarmossen],1590000,130000,1720000,3523,ERA,464.8213732230463,Bagarmossen
+2013-08-16,Rusthållarvägen 165,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,1954,[Bagarmossen],1850000,350000,2200000,4308,Fastighetsbyrån,440.7109357271668,Bagarmossen
+2013-08-16,Bergsrådsvägen 28,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,1952,[Bagarmossen],1895000,165000,2060000,3958,Fastighetsbyrån,202.34607959303995,Bagarmossen
+2013-08-14,Kolbäcksgränd 1,Bagarmossen,GronSkarpnack,1,39,2,Lägenhet,1954,[Enskede],1200000,200000,1400000,2653,Svensk Fastighetsförmedling,445.1185809163874,Bagarmossen
+2013-08-14,Voxnegränd 12,Bagarmossen,GronSkarpnack,1,27,null,Lägenhet,1953,[Enskede],1150000,150000,1300000,2102,Svensk Fastighetsförmedling,265.23066951017483,Bagarmossen
+2013-08-08,Fogdevägen 43,Bagarmossen,GronSkarpnack,2,48,null,Lägenhet,2008,[Bagarmossen],1595000,175000,1770000,3475,SkandiaMäklarna,448.66332441036064,Bagarmossen
+2013-07-31,Fogdevägen 47,Bagarmossen,GronSkarpnack,2,62.5,null,Lägenhet,2008,[Enskede],1500000,150000,1650000,4265,Svensk Fastighetsförmedling,362.4681888634263,Bagarmossen
+2013-07-11,Emågatan 35,Bagarmossen,GronSkarpnack,2,57,3,Lägenhet,1954,[Bagarmossen],1595000,225000,1820000,3334,Mäklarringen,273.4979598793804,Bagarmossen
+2013-07-05,Kolbäcksgränd 33,Bagarmossen,GronSkarpnack,4,null,3,Lägenhet,null,[Bagarmossen],2650000,470000,3120000,4625,Mäklarhuset Lindroos & Hamstedt,518.6017174331455,Bagarmossen
+2013-07-05,Voxnegränd 7,Bagarmossen,GronSkarpnack,4,85,null,Lägenhet,1953,[Bagarmossen],2495000,655000,3150000,4639,Fastighetsbyrån,235.13644106414773,Bagarmossen
+2013-07-04,Kolbäcksgränd 25,Bagarmossen,GronSkarpnack,1,26,null,Lägenhet,1954,[Bagarmossen],1195000,0,1195000,1929,SkandiaMäklarna,561.3626365289875,Bagarmossen
+2013-07-01,Emågatan 35,Bagarmossen,GronSkarpnack,2,57,2,Lägenhet,1954,[Enskede],1485000,265000,1750000,3334,Svensk Fastighetsförmedling,273.4979598793804,Bagarmossen
+2013-06-28,Rusthållarvägen 73,Bagarmossen,GronSkarpnack,4,89,1,Lägenhet,1953,[Bagarmossen],2595000,555000,3150000,3535,ERA,72.68846787583736,Bagarmossen
+2013-06-17,Bergsrådsvägen 32,Bagarmossen,GronSkarpnack,3,74,1,Lägenhet,1954,[Enskede],1920000,430000,2350000,4349,Svensk Fastighetsförmedling,242.48134150513434,Bagarmossen
+2013-06-13,Bergsrådsvägen 40,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1954,[Enskede],1485000,10000,1495000,3153,Svensk Fastighetsförmedling,250.00795909887213,Bagarmossen
+2013-06-13,Bergsrådsvägen 22,Bagarmossen,GronSkarpnack,2,56,1.5,Lägenhet,1954,[Bagarmossen],1495000,-25000,1470000,3268,Notar,210.55580020739654,Bagarmossen
+2013-06-10,Bergsrådsvägen 41,Bagarmossen,GronSkarpnack,3,null,2,Lägenhet,1954,[Bagarmossen],1850000,355000,2205000,3731,Mäklarhuset Lindroos & Hamstedt,481.2479326826761,Bagarmossen
+2013-06-07,Kolbäcksgränd 9,Bagarmossen,GronSkarpnack,1,40,1,Lägenhet,1954,[Bagarmossen],1275000,115000,1390000,2597,Mäklarringen,477.54224812669946,Bagarmossen
+2013-06-06,Svartågatan 31,Bagarmossen,GronSkarpnack,2,54,2,Lägenhet,1954,[Enskede],1480000,230000,1710000,3660,Svensk Fastighetsförmedling,347.093315656654,Bagarmossen
+2013-06-06,Svartågatan 51,Bagarmossen,GronSkarpnack,2,55,2,Lägenhet,1954,[Enskede],1380000,435000,1815000,3697,Svensk Fastighetsförmedling,499.681514567104,Bagarmossen
+2013-06-04,Kolbäcksgränd 12,Bagarmossen,GronSkarpnack,3,null,3,Lägenhet,null,[Bagarmossen],1850000,175000,2025000,4035,Mäklarhuset Lindroos & Hamstedt,402.78299732309756,Bagarmossen
+2013-05-30,Rusthållarvägen 191,Bagarmossen,GronSkarpnack,4,68,null,Lägenhet,1955,[Bagarmossen],1995000,5000,2000000,4302,Notar,537.3271587277484,Bagarmossen
+2013-05-18,Rusthållarvägen 73,Bagarmossen,GronSkarpnack,3,73,1,Lägenhet,1953,[Bagarmossen],1995000,305000,2300000,2899,ERA,72.68846787583736,Bagarmossen
+2013-05-16,Rusthållarvägen 69,Bagarmossen,GronSkarpnack,2,55,3,Lägenhet,1953,[Enskede],1575000,355000,1930000,2184,Svensk Fastighetsförmedling,62.01739243810525,Bagarmossen
+2013-05-15,Svartågatan 65,Bagarmossen,GronSkarpnack,1,42,1,Lägenhet,1954,[Enskede],1250000,20000,1270000,3032,Svensk Fastighetsförmedling,511.46451813868833,Bagarmossen
+2013-05-08,Svartågatan 29,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1954,[Enskede],1480000,280000,1760000,3660,Svensk Fastighetsförmedling,343.9657831881067,Bagarmossen
+2013-05-07,Rusthållarvägen 169B,Bagarmossen,GronSkarpnack,2,66,null,Lägenhet,1954,[Bagarmossen],1595000,360000,1955000,4106,Mäklarringen,424.2767219606198,Bagarmossen
+2013-05-02,Voxnegränd 13,Bagarmossen,GronSkarpnack,4,85,1,Lägenhet,1954,[Bagarmossen],2295000,515000,2810000,4638,Svenska Mäklarhuset,320.6018561462209,Bagarmossen
+2013-04-26,Lagavägen 24,Bagarmossen,GronSkarpnack,3.5,81,null,Lägenhet,2001,[Bagarmossen],1895000,35000,1930000,5985,Fastighetsbyrån,128.46258582337228,Bagarmossen
+2013-04-24,Rusthållarvägen 159,Bagarmossen,GronSkarpnack,1,38,null,Lägenhet,1954,[Bagarmossen],1295000,5000,1300000,2818,Fastighetsbyrån,422.11581577923124,Bagarmossen
+2013-04-20,Svartågatan 80,Bagarmossen,GronSkarpnack,2,null,1,Lägenhet,1954,[Bagarmossen],1410000,270000,1680000,3550,Mäklarhuset Lindroos & Hamstedt,496.46021424816405,Bagarmossen
+2013-04-16,Ljusnevägen 6,Bagarmossen,GronSkarpnack,1,37.5,null,Lägenhet,2009,[Enskede],1250000,240000,1490000,2491,Svensk Fastighetsförmedling,524.3023011473283,Bagarmossen
+2013-04-11,Voxnegränd 6,Bagarmossen,GronSkarpnack,2,54,3,Lägenhet,1953,[Bagarmossen],1450000,200000,1650000,3304,Mäklarhuset,220.06613079321187,Bagarmossen
+2013-04-06,Voxnegränd 17,Bagarmossen,GronSkarpnack,1,26,null,Lägenhet,1953,[Bagarmossen],1100000,210000,1310000,2069,Fastighetsbyrån,345.2051143324756,Bagarmossen
+2013-03-22,Bergsrådsvägen 48,Bagarmossen,GronSkarpnack,2,60,null,Lägenhet,1954,[Bagarmossen],1495000,220000,1715000,3452,Bjurfors,290.02945434389096,Bagarmossen
+2013-03-21,Lagavägen 22,Bagarmossen,GronSkarpnack,3,79,null,Lägenhet,2001,[Bagarmossen],1695000,655000,2350000,5604,Fastighetsbyrån,151.60676915541464,Bagarmossen
+2013-03-19,Ljusnevägen 61,Bagarmossen,GronSkarpnack,6,null,null,Radhus,null,[Bagarmossen],4050000,-250000,3800000,1308,Mäklarhuset Lindroos & Hamstedt,763.221276483768,Bagarmossen
+2013-03-16,Bergsrådsvägen 37,Bagarmossen,GronSkarpnack,3,75,1,Lägenhet,1954,[Bagarmossen],1750000,360000,2110000,4053,Mäklarhuset,466.2453493291443,Bagarmossen
+2013-03-16,Bergsrådsvägen 16,Bagarmossen,GronSkarpnack,3,104,null,Lägenhet,1954,[Bagarmossen],1950000,950000,2900000,6029,Fastighetsbyrån,219.02342283429155,Bagarmossen
+2013-03-01,Rusthållarvägen 139,Bagarmossen,GronSkarpnack,1,27,null,Lägenhet,1954,[Enskede],1195000,-20000,1175000,2325,Svensk Fastighetsförmedling,321.39109807964894,Bagarmossen
+2013-02-25,Kolbäcksgränd 25,Bagarmossen,GronSkarpnack,2,null,null,Lägenhet,null,[Bagarmossen],1650000,50000,1700000,3523,Mäklarhuset Lindroos & Hamstedt,561.3626365289875,Bagarmossen
+2013-02-22,Stångåvägen 22,Bagarmossen,GronSkarpnack,2,54,null,Lägenhet,1954,[Bagarmossen],1350000,200000,1550000,3454,HusmanHagberg,386.16640778880196,Bagarmossen
+2013-02-15,Svartågatan 70,Bagarmossen,GronSkarpnack,4,null,null,Lägenhet,null,[Bagarmossen],2475000,25000,2500000,5141,Mäklarhuset Lindroos & Hamstedt,424.36917077355935,Bagarmossen
+2013-02-15,Voxnegränd 1,Bagarmossen,GronSkarpnack,3,null,6,Lägenhet,null,[Bagarmossen],1750000,75000,1825000,3804,Mäklarhuset Lindroos & Hamstedt,226.3164291264651,Bagarmossen
+2013-02-09,Voxnegränd 11,Bagarmossen,GronSkarpnack,2,60,null,Lägenhet,1953,[Bagarmossen],1395000,235000,1630000,3504,SkandiaMäklarna,296.3281292661709,Bagarmossen
+2013-02-07,Letstigen 9,Bagarmossen,GronSkarpnack,6,null,null,Radhus,1955,[Bagarmossen],3800000,350000,4150000,1117,Mäklarhuset Lindroos & Hamstedt,825.021332025503,Bagarmossen
+2013-02-05,Fogdevägen 47,Bagarmossen,GronSkarpnack,2,48,3,Lägenhet,2008,[Bagarmossen],1450000,340000,1790000,3475,SkandiaMäklarna,362.4681888634263,Bagarmossen
+2013-02-02,Kolbäcksgränd 11,Bagarmossen,GronSkarpnack,1,26,null,Lägenhet,1954,[Bagarmossen],1100000,110000,1210000,1846,HusmanHagberg,490.1363029181944,Bagarmossen
+2013-01-20,Voxnegränd 17,Bagarmossen,GronSkarpnack,1,27,3,Lägenhet,1953,[Enskede],995000,282000,1277000,2102,Svensk Fastighetsförmedling,345.2051143324756,Bagarmossen
+2013-01-18,Stångåvägen 18,Bagarmossen,GronSkarpnack,2,null,null,Lägenhet,null,[Bagarmossen],1490000,225000,1715000,3697,Mäklarhuset Lindroos & Hamstedt,358.00477409044055,Bagarmossen
+2013-01-18,Stångåvägen 22,Bagarmossen,GronSkarpnack,2,null,3,Lägenhet,null,[Bagarmossen],1490000,160000,1650000,3661,Mäklarhuset Lindroos & Hamstedt,386.16640778880196,Bagarmossen
+2013-01-16,Svartågatan 43,Bagarmossen,GronSkarpnack,2,54,null,Lägenhet,1954,[Bagarmossen],1350000,60000,1410000,3454,Fastighetsbyrån,387.0700428179492,Bagarmossen
+2013-01-10,Rusthållarvägen 191,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,1954,[Bagarmossen],1450000,250000,1700000,4302,Länsförsäkringar Fastighetsförmedling,537.3271587277484,Bagarmossen
+2012-12-27,Stångåvägen 16,Bagarmossen,GronSkarpnack,3,null,null,Lägenhet,1954,[Bagarmossen],1875000,-75000,1800000,4586,Mäklarhuset Lindroos & Hamstedt,350.5874670157784,Bagarmossen
+2012-12-21,Stångåvägen 16,Bagarmossen,GronSkarpnack,3,null,null,Lägenhet,null,[Bagarmossen],1950000,80000,2030000,4586,Mäklarhuset Lindroos & Hamstedt,350.5874670157784,Bagarmossen
+2012-12-19,Svartågatan 47,Bagarmossen,GronSkarpnack,2,null,null,Lägenhet,1954,[Bagarmossen],1390000,230000,1620000,3697,Mäklarhuset Lindroos & Hamstedt,442.0687557132035,Bagarmossen
+2012-12-13,Rusthållarvägen 175,Bagarmossen,GronSkarpnack,3,null,null,Lägenhet,null,[Bagarmossen],1550000,10000,1560000,4345,Mäklarhuset Lindroos & Hamstedt,476.8053161885992,Bagarmossen
+2012-12-11,Rusthållarvägen 147,Bagarmossen,GronSkarpnack,1,27,3,Lägenhet,null,[Bagarmossen],995000,275000,1270000,2286,Erik Olsson Fastighetsförmedling,398.6048851223309,Bagarmossen
+2012-12-10,Lagavägen 26,Bagarmossen,GronSkarpnack,3,69.5,3,Lägenhet,2001,[Enskede],1800000,-50000,1750000,5361,Svensk Fastighetsförmedling,110.51537997890118,Bagarmossen
+2012-11-30,Kolbäcksgränd 11,Bagarmossen,GronSkarpnack,2,null,null,Lägenhet,null,[Bagarmossen],1450000,200000,1650000,3372,Mäklarhuset Lindroos & Hamstedt,490.1363029181944,Bagarmossen
+2012-11-29,Rusthållarvägen 123,Bagarmossen,GronSkarpnack,2,55,null,Lägenhet,1954,[Enskede],1295000,140000,1435000,3628,Svensk Fastighetsförmedling,287.4496848397092,Bagarmossen
+2012-11-16,Stångåvägen 12,Bagarmossen,GronSkarpnack,2,54,null,Lägenhet,1954,[Bagarmossen],1350000,125000,1475000,3454,Fastighetsbyrån,321.41380494944826,Bagarmossen
+2012-11-12,Svartbäcksvägen 30,Bagarmossen,GronSkarpnack,6,120,null,Villa,null,[Bagarmossen],3300000,770000,4070000,null,Entré rekommenderade mäklare AB,769.6227037045326,Bagarmossen
+2012-11-10,Rusthållarvägen 125,Bagarmossen,GronSkarpnack,3,null,2,Lägenhet,null,[Bagarmossen],1800000,100000,1900000,4571,Mäklarhuset Lindroos & Hamstedt,274.9072334594243,Bagarmossen
+2012-10-31,Emågatan 31,Bagarmossen,GronSkarpnack,2,57,null,Lägenhet,1954,[Bagarmossen],1250000,275000,1525000,3334,SkandiaMäklarna,275.8609966163513,Bagarmossen
+2012-10-27,Stångåvägen 16,Bagarmossen,GronSkarpnack,2,null,null,Lägenhet,1954,[Bagarmossen],1395000,-25000,1370000,3488,Mäklarhuset Lindroos & Hamstedt,350.5874670157784,Bagarmossen
+2012-10-23,Svartågatan 59,Bagarmossen,GronSkarpnack,2,null,null,Lägenhet,null,[Bagarmossen],1450000,125000,1575000,3454,Mäklarhuset Lindroos & Hamstedt,534.0591363974156,Bagarmossen
+2012-10-23,Kolbäcksgränd 5,Bagarmossen,GronSkarpnack,1,26,2,Lägenhet,null,[Bagarmossen],1249000,-49000,1200000,1810,Erik Olsson Fastighetsförmedling,464.8213732230463,Bagarmossen
+2012-10-20,Svartågatan 52,Bagarmossen,GronSkarpnack,1,null,3,Lägenhet,null,[Bagarmossen],1275000,145000,1420000,2721,Mäklarhuset Lindroos & Hamstedt,331.85157064145614,Bagarmossen
+2012-10-20,Rusthållarvägen 129,Bagarmossen,GronSkarpnack,2,53,null,Lägenhet,1954,[Enskede],1250000,225000,1475000,3595,Svensk Fastighetsförmedling,287.15896423066005,Bagarmossen
+2012-10-20,Rusthållarvägen 173,Bagarmossen,GronSkarpnack,3,68,null,Lägenhet,1954,[Enskede],1550000,0,1550000,4212,Svensk Fastighetsförmedling,456.8633229352436,Bagarmossen
+2012-10-20,Kolbäcksgränd 14,Bagarmossen,GronSkarpnack,2,54,1,Lägenhet,1954,[Bagarmossen],1150000,50000,1200000,3194,Mäklarhuset,400.3480017365138,Bagarmossen
+2012-10-17,Svartågatan 76,Bagarmossen,GronSkarpnack,1,38,3,Lägenhet,1954,[Enskede],1000000,350000,1350000,2720,Svensk Fastighetsförmedling,468.46357919331984,Bagarmossen
+2012-10-13,Lagavägen 14,Bagarmossen,GronSkarpnack,3,80,3,Lägenhet,null,[Enskede],1900000,85000,1985000,5642,Svensk Fastighetsförmedling,230.7227138060942,Bagarmossen
+2012-10-11,Kolbäcksgränd 14,Bagarmossen,GronSkarpnack,2,56,5,Lägenhet,1954,[Enskede],1295000,240000,1535000,3383,Svensk Fastighetsförmedling,400.3480017365138,Bagarmossen
+2012-09-30,Emågatan 29,Bagarmossen,GronSkarpnack,3,74,null,Lägenhet,1954,[Enskede],1690000,20000,1710000,4200,Svensk Fastighetsförmedling,269.74970351819303,Bagarmossen
+2012-09-30,Lagavägen 18,Bagarmossen,GronSkarpnack,3,77,null,Lägenhet,2001,[Bagarmossen],1650000,0,1650000,5662,Länsförsäkringar Fastighetsförmedling,185.05835811636538,Bagarmossen
+2012-09-28,Svartågatan 84,Bagarmossen,GronSkarpnack,2,55,null,Lägenhet,1953,[Bagarmossen],1250000,60000,1310000,3488,Fastighetsbyrån,468.87543619735345,Bagarmossen
+2012-08-30,Fogdevägen 47,Bagarmossen,GronSkarpnack,4,88,null,Lägenhet,2008,[Bagarmossen],2800000,50000,2850000,5506,SkandiaMäklarna,362.4681888634263,Bagarmossen

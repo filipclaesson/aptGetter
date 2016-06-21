@@ -1,0 +1,96 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-17,Ekevägen 6B,Marieberg,Kungsholmen,3,81,3,Lägenhet,2011,[Adolfsberg],1795000,65000,1860000,2977,Fastighetsbyrån,150999.80521729172,Norsborg
+2016-06-02,Anhaltsvägen 9,Marieberg,Kungsholmen,3,100,null,Villa,1939,[Marieberg],1695000,5000,1700000,null,Fastighetsbyrån,150578.09825270492,Norsborg
+2016-05-31,Mariebergsvägen 15,Marieberg,Kungsholmen,6,145,null,Villa,1922,[Marieberg],3695000,160000,3855000,null,Länsförsäkringar Fastighetsförmedling,151496.52508751335,Norsborg
+2016-05-26,Marieberg 208,Marieberg,Kungsholmen,6,222,null,Gård,2011,[Marieberg],5250000,1350000,6600000,null,Fastighetsbyrån,151572.3018719655,Norsborg
+2016-05-23,Lars-Pettravägen 19,Marieberg,Kungsholmen,5,122,null,Villa,2016,[Drottningholm],3895000,0,3895000,null,Länsförsäkringar Fastighetsförmedling,151276.772988793,Norsborg
+2016-05-21,Skogstorpsvägen 4H,Marieberg,Kungsholmen,2,68,1,Lägenhet,2011,[Adolfsberg],1245000,255000,1500000,4864,Fastighetsbyrån,151243.84615377357,Norsborg
+2016-05-20,Norra Belltorpsvägen 13,Marieberg,Kungsholmen,5,196,null,Villa,2016,[Adolfsberg-Södra Lindhult],5995000,105000,6100000,null,Svensk Fastighetsförmedling,151317.77051095408,Norsborg
+2016-05-20,Första Tvärgatan 26,Marieberg,Kungsholmen,7,146,null,Villa,1988,[Marieberg],3495000,335000,3830000,null,Fastighetsbyrån,151355.4105668498,Norsborg
+2016-05-13,Kristinebergsvägen 3G,Marieberg,Kungsholmen,3,88,2,Lägenhet,null,[Marieberg],995000,90000,1085000,4638,SkandiaMäklarna,151461.55980001856,Norsborg
+2016-05-02,Torkels väg 21,Marieberg,Kungsholmen,5,135,null,Villa,1928,[Marieberg],2195000,625000,2820000,null,Mäklarhuset,150663.67295636938,Norsborg
+2016-04-27,Lindhultsvägen 12,Marieberg,Kungsholmen,5,128,null,Villa,1992,[Södra Lindhult],3995000,205000,4200000,null,SkandiaMäklarna,150911.29867485963,Norsborg
+2016-04-22,Lektorpsvägen 27,Marieberg,Kungsholmen,6,142,null,Villa,1992,[Adolfsberg],3895000,-495000,3400000,null,Fastighetsbyrån,151228.52940191756,Norsborg
+2016-04-15,Södra Belltorpsvägen 9,Marieberg,Kungsholmen,6,160,null,Villa,2013,[Adolfsberg],5195000,205000,5400000,null,Länsförsäkringar Fastighetsförmedling,151292.24675542404,Norsborg
+2016-04-13,Norra Belltorpsvägen 14D,Marieberg,Kungsholmen,3,80,null,Radhus,2015,[Adolfsberg],1695000,85000,1780000,5134,Fastighetsbyrån,151259.05320564666,Norsborg
+2016-03-13,Steneborgsvägen 14,Marieberg,Kungsholmen,6,198,null,Villa,2009,[Marieberg],4695000,155000,4850000,null,Notar,151086.27857639792,Norsborg
+2016-03-02,Moholmsvägen 4C,Marieberg,Kungsholmen,2,66.5,null,Radhus,1989,[Marieberg],995000,235000,1230000,3768,Fastighetsbyrån,151528.42431015128,Norsborg
+2016-02-13,Första Tvärgatan 16,Marieberg,Kungsholmen,5,140,null,Villa,1970,[Marieberg],3095000,135000,3230000,null,Länsförsäkringar Fastighetsförmedling,151499.21614728964,Norsborg
+2016-02-10,Skogstorpsvägen 6K,Marieberg,Kungsholmen,3,69,2,Lägenhet,2011,[Södra Lindhult],1095000,215000,1310000,4936,Notar,151244.45389228192,Norsborg
+2016-02-01,Lars-Pettravägen,Marieberg,Kungsholmen,null,null,null,Tomt/Mark,null,[Södra Lindhult],895000,110000,1005000,null,Notar,151378.86852930352,Norsborg
+2016-01-06,Bonstorpsvägen 21A,Marieberg,Kungsholmen,5,121,null,Lägenhet,2014,[Adolfsberg],2395000,505000,2900000,5788,Länsförsäkringar Fastighetsförmedling,150771.64158366865,Norsborg
+2015-12-02,Bonstorpsvägen 21D,Marieberg,Kungsholmen,5,121,null,Radhus,null,[Adolfsberg],2295000,95000,2390000,5788,Svensk Fastighetsförmedling,150772.9570478907,Norsborg
+2015-11-03,Porla Gränd 7,Marieberg,Kungsholmen,5,129,null,Villa,1967,[Brunnsgärdet],2850000,0,2850000,null,Notar,151043.14720922126,Norsborg
+2015-10-05,Almtorpsvägen 12,Marieberg,Kungsholmen,5,105,3,Lägenhet,2012,[Södra Lindhult],2095000,155000,2250000,5120,Notar,150891.03893414885,Norsborg
+2015-10-03,Skogstorpsvägen 6A,Marieberg,Kungsholmen,2,52,1,Lägenhet,2011,[Södra Lindhult],995000,205000,1200000,3720,Svensk Fastighetsförmedling,151243.84054107274,Norsborg
+2015-10-01,Lektorpsvägen 45,Marieberg,Kungsholmen,2,68,1,Lägenhet,2001,[Södra Lindhult],995000,170000,1165000,4798,Svensk Fastighetsförmedling,151105.66336792117,Norsborg
+2015-09-29,Lektorpsvägen 47,Marieberg,Kungsholmen,3,78,4,Lägenhet,2001,[Adolfsberg],1095000,455000,1550000,5490,Fastighetsbyrån,151105.66336792117,Norsborg
+2015-09-24,Åsgatan 9,Marieberg,Kungsholmen,4,90,null,Villa,1965,[Marieberg],2895000,305000,3200000,null,Länsförsäkringar Fastighetsförmedling,151455.77830142103,Norsborg
+2015-09-10,Kristinebergsvägen 1G,Marieberg,Kungsholmen,3,88,2,Lägenhet,1989,[Marieberg],895000,310000,1205000,4934,Notar,151530.34273719112,Norsborg
+2015-09-09,Ulrikelundsvägen 19,Marieberg,Kungsholmen,5,113,null,Lägenhet,2014,[Södra Lindhult],2350000,400000,2750000,4674,Länsförsäkringar Fastighetsförmedling,151045.3936234176,Norsborg
+2015-09-07,Lindtorpsvägen 25,Marieberg,Kungsholmen,5,112.8,2,Lägenhet,2015,[Södra Lindhult],2195000,630000,2825000,4133,Notar,151176.8219075418,Norsborg
+2015-09-02,Vassvägen 19,Marieberg,Kungsholmen,5,144,null,Villa,1970,[Marieberg],2795000,255000,3050000,null,Svensk Fastighetsförmedling,150415.5237987894,Norsborg
+2015-08-28,Första Tvärgatan 15,Marieberg,Kungsholmen,6,126,null,Villa,1969,[Marieberg],3200000,680000,3880000,null,Fastighetsbyrån,151491.8971783169,Norsborg
+2015-08-11,Almtorpsvägen 24,Marieberg,Kungsholmen,4,105,2,Lägenhet,2012,[Södra Lindhult],1995000,355000,2350000,4970,Notar,150891.03893414885,Norsborg
+2015-07-16,Kristinebergsvägen 1E,Marieberg,Kungsholmen,2,66.5,2,Lägenhet,1989,[Marieberg],650000,425000,1075000,3858,Fastighetsbyrån,151528.42431015128,Norsborg
+2015-06-14,Ulrikelundsvägen 5,Marieberg,Kungsholmen,5,113,null,Lägenhet,2013,[Södra Lindhult],2100000,125000,2225000,null,Svensk Fastighetsförmedling,151062.47053444348,Norsborg
+2015-06-10,Mariebergsvägen 15,Marieberg,Kungsholmen,7,145,null,Villa,1922,[Marieberg],3495000,155000,3650000,null,Notar,151496.52508751335,Norsborg
+2015-06-04,Mosåsvägen 72,Marieberg,Kungsholmen,2,63,1,Lägenhet,1967,[Adolfsberg],1195000,325000,1520000,2687,SkandiaMäklarna,150993.71261947288,Norsborg
+2015-06-02,Liljendalsvägen 3,Marieberg,Kungsholmen,6,158,null,Villa,1993,[Adolfsberg],3495000,385000,3880000,null,Fastighetsbyrån,151113.10343450517,Norsborg
+2015-05-14,Skogstorpsvägen 4N,Marieberg,Kungsholmen,3,81,2,Lägenhet,2011,[Södra Lindhult],1095000,0,1095000,5794,Svensk Fastighetsförmedling,151243.84054107274,Norsborg
+2015-05-13,Ekevägen 15,Marieberg,Kungsholmen,6,217,null,Villa,2011,[Adolfsberg],6250000,-450000,5800000,null,Fastighetsbyrån,150952.98644064166,Norsborg
+2015-04-24,Strömstorpsvägen 45,Marieberg,Kungsholmen,7,160,null,Villa,2001,[Adolfsberg],2995000,810000,3805000,null,Fastighetsbyrån,150882.8360143235,Norsborg
+2015-04-02,Skogstorpsvägen 4L,Marieberg,Kungsholmen,3,69,1,Lägenhet,2011,[Södra Lindhult],1095000,405000,1500000,4936,Svensk Fastighetsförmedling,151243.84054107274,Norsborg
+2015-03-28,Skogstorpsvägen 6D,Marieberg,Kungsholmen,2,52,2,Lägenhet,2011,[Adolfsberg],795000,215000,1010000,3720,Fastighetsbyrån,151243.84615377357,Norsborg
+2015-03-27,Moholmsvägen 8K,Marieberg,Kungsholmen,3,84,null,Radhus,1989,[Marieberg],795000,555000,1350000,4887,Fastighetsbyrån,151528.42431015128,Norsborg
+2015-02-27,Fjärde Tvärgatan 7,Marieberg,Kungsholmen,4,95,null,Villa,1956,[Marieberg],2475000,250000,2725000,null,Mäklarhuset,151508.2829226962,Norsborg
+2015-02-27,Moholmsvägen 4H,Marieberg,Kungsholmen,3,90,null,Lägenhet,1989,[Marieberg],750000,400000,1150000,5160,Svensk Fastighetsförmedling,151511.13656785304,Norsborg
+2015-02-10,Skogstorpsvägen 4J,Marieberg,Kungsholmen,3,68,2,Lägenhet,2011,[Adolfsberg],995000,155000,1150000,4864,Länsförsäkringar Fastighetsförmedling,151253.40048394995,Norsborg
+2014-12-10,Mosåsvägen 120,Marieberg,Kungsholmen,3,78.5,null,Lägenhet,1967,[Adolfsberg],1295000,190000,1485000,3257,Fastighetsbyrån,151101.65836332433,Norsborg
+2014-12-05,Lektorpsvägen 49,Marieberg,Kungsholmen,2,72,null,Lägenhet,1999,[Adolfsberg],895000,315000,1210000,4691,Fastighetsbyrån,151004.61058872382,Norsborg
+2014-11-21,Skogstorpsvägen 4M,Marieberg,Kungsholmen,2,52,null,Lägenhet,2011,[Adolfsberg],895000,65000,960000,3720,Fastighetsbyrån,151243.84615377357,Norsborg
+2014-11-04,Medevi Gränd 41,Marieberg,Kungsholmen,4,94,null,Kedjehus,1967,[Adolfsberg],1895000,55000,1950000,null,Fastighetsbyrån,150851.66781869842,Norsborg
+2014-10-30,Kristinebergsvägen 3B,Marieberg,Kungsholmen,3,88,null,Lägenhet,1989,[Marieberg],595000,280000,875000,5249,Fastighetsbyrån,151485.21267131018,Norsborg
+2014-10-29,Skogstorpsvägen 6I,Marieberg,Kungsholmen,4,81,1,Lägenhet,2011,[Adolfsberg],1300000,125000,1425000,5794,Länsförsäkringar Fastighetsförmedling,151216.17300048005,Norsborg
+2014-10-28,Almtorpsvägen 16,Marieberg,Kungsholmen,5,105,null,Lägenhet,2012,[Adolfsberg],2075000,175000,2250000,4872,Fastighetsbyrån,150896.79631333178,Norsborg
+2014-10-28,Medevi Gränd 10,Marieberg,Kungsholmen,5,129,null,Villa,1967,[Brunnsgärdet],2175000,350000,2525000,null,Mäklarhuset,150763.62292694274,Norsborg
+2014-10-23,Lektorpsvägen 48,Marieberg,Kungsholmen,5,138,null,Villa,1993,[Adolfsberg],3995000,55000,4050000,null,Fastighetsbyrån,151090.25455443969,Norsborg
+2014-10-23,Lektorpsvägen 45,Marieberg,Kungsholmen,3,81.5,null,Lägenhet,2001,[Adolfsberg],995000,5000,1000000,5751,Fastighetsbyrån,151105.66336792117,Norsborg
+2014-10-22,Lektorpsvägen 33,Marieberg,Kungsholmen,6,154,null,Villa,1991,[Södra Lindhult],3300000,550000,3850000,null,Mäklarhuset,151239.25967150307,Norsborg
+2014-10-09,Törsjögatan 2,Marieberg,Kungsholmen,4,136,null,Villa,2004,[Marieberg],3695000,0,3695000,null,Notar,150768.0040049922,Norsborg
+2014-09-29,Bonstorpsvägen 19C,Marieberg,Kungsholmen,5,121,null,Lägenhet,2014,[Adolfsberg],2175000,0,2175000,5788,Fastighetsbyrån,150764.3680235642,Norsborg
+2014-09-26,Kvarntorpsvägen 17,Marieberg,Kungsholmen,5,125,null,Villa,1994,[Adolfsberg],3395000,595000,3990000,null,Fastighetsbyrån,151056.37756322944,Norsborg
+2014-09-12,Porla Gränd 47,Marieberg,Kungsholmen,4,124,null,Villa,1967,[Adolfsberg],2475000,0,2475000,null,Mäklarhuset,150968.87385494524,Norsborg
+2014-09-09,Första Tvärgatan 21,Marieberg,Kungsholmen,6,140,null,Villa,1937,[Marieberg],2600000,125000,2725000,null,Notar,151409.50496836106,Norsborg
+2014-09-08,Skogstorpsvägen 6F,Marieberg,Kungsholmen,4,81,2,Lägenhet,2011,[Södra Lindhult],1150000,-50000,1100000,5794,Mäklarhuset,151243.8290235405,Norsborg
+2014-09-05,Mosåsvägen 98,Marieberg,Kungsholmen,3.5,78.5,null,Lägenhet,null,[Adolfsberg],1295000,275000,1570000,3257,Svensk Fastighetsförmedling,151074.7383003114,Norsborg
+2014-08-01,Lektorpsvägen 47,Marieberg,Kungsholmen,2,65,2,Lägenhet,2001,[Adolfsberg],795000,115000,910000,4580,Länsförsäkringar Fastighetsförmedling,151105.66336792117,Norsborg
+2014-07-25,Bonstorpsvägen 78,Marieberg,Kungsholmen,5,112.8,null,Lägenhet,2014,[Adolfsberg],2250000,50000,2300000,4674,Fastighetsbyrån,150997.7739688472,Norsborg
+2014-07-24,Skogstorpsvägen 6B,Marieberg,Kungsholmen,3,69,1,Lägenhet,2011,[Adolfsberg],1195000,0,1195000,4936,Länsförsäkringar Fastighetsförmedling,151262.0518272193,Norsborg
+2014-06-26,Moholmsvägen 2C,Marieberg,Kungsholmen,2,66.5,null,Lägenhet,1989,[Marieberg],495000,330000,825000,4265,Fastighetsbyrån,151528.42431015128,Norsborg
+2014-06-13,Lektorpsvägen 49,Marieberg,Kungsholmen,2,49,null,Lägenhet,1999,[Adolfsberg],850000,70000,920000,3767,Fastighetsbyrån,151004.61058872382,Norsborg
+2014-06-02,Birats väg 2,Marieberg,Kungsholmen,6,145,null,Villa,1964,[Marieberg],2600000,160000,2760000,null,Fastighetsbyrån,150661.68676584022,Norsborg
+2014-05-23,Skogstorpsvägen 4G,Marieberg,Kungsholmen,3,81,null,Lägenhet,2011,[Södra Lindhult],1295000,25000,1320000,5794,SkandiaMäklarna,151244.84198859462,Norsborg
+2014-04-22,Ekevägen 6A,Marieberg,Kungsholmen,2,68,null,Lägenhet,2010,[Adolfsberg],1195000,-45000,1150000,2450,Fastighetsbyrån,151001.830086498,Norsborg
+2014-04-04,Karlsbergsvägen 5A,Marieberg,Kungsholmen,5,125,null,Villa,1988,[Marieberg],2275000,275000,2550000,null,Fastighetsbyrån,151531.67991264854,Norsborg
+2014-03-29,Moholmsvägen 8D,Marieberg,Kungsholmen,2,66.5,2,Lägenhet,null,[Marieberg],295000,125000,420000,4104,Svensk Fastighetsförmedling,151470.73754796459,Norsborg
+2014-03-27,Medevi Gränd 37,Marieberg,Kungsholmen,4,94,null,Kedjehus,1967,[Adolfsberg],1850000,305000,2155000,null,Fastighetsbyrån,150871.5378466691,Norsborg
+2014-02-20,Lektorpsvägen 45,Marieberg,Kungsholmen,3,81.5,null,Lägenhet,2001,[Adolfsberg],995000,355000,1350000,5751,Svensk Fastighetsförmedling,151105.66336792117,Norsborg
+2014-02-06,Lektorpsvägen 49,Marieberg,Kungsholmen,2,49,null,Lägenhet,1999,[Södra Lindhult],775000,75000,850000,3767,Fastighetsbyrån,151004.61058872382,Norsborg
+2014-01-29,Moholmsvägen 8C,Marieberg,Kungsholmen,2,62,null,Lägenhet,null,[Marieberg],395000,305000,700000,4028,Svensk Fastighetsförmedling,151474.7219829421,Norsborg
+2013-11-29,Kristinebergsvägen 3G,Marieberg,Kungsholmen,3,88,null,Lägenhet,1989,[Marieberg],550000,0,550000,5249,Fastighetsbyrån,151461.55980001856,Norsborg
+2013-11-20,Törsjögatan 2,Marieberg,Kungsholmen,4,136,null,Villa,2004,[Marieberg],2950000,650000,3600000,null,Fastighetsbyrån,150768.0040049922,Norsborg
+2013-11-07,Kvarntorpsvägen 11,Marieberg,Kungsholmen,5,146,null,Villa,1992,[Södra Lindhult],3795000,305000,4100000,null,Fastighetsbyrån,151040.8356190074,Norsborg
+2013-11-02,Åsgatan 10,Marieberg,Kungsholmen,6,186,null,Villa,1965,[Marieberg],3275000,75000,3350000,null,Fastighetsbyrån,151450.57919377225,Norsborg
+2013-10-21,Almtorpsvägen 26,Marieberg,Kungsholmen,5,105,null,Radhus,2012,[Adolfsberg-Södra Lindhult],1895000,0,1895000,5072,Svensk Fastighetsförmedling,150884.15148115958,Norsborg
+2013-08-30,Kristinebergsvägen 1E,Marieberg,Kungsholmen,2,66.5,null,Lägenhet,1989,[Marieberg],350000,50000,400000,4104,Fastighetsbyrån,151528.42431015128,Norsborg
+2013-05-08,Skogstorpsvägen 4C,Marieberg,Kungsholmen,3,81,null,Lägenhet,2011,[Södra Lindhult],1150000,115000,1265000,5653,Fastighetsbyrån,151243.84615377357,Norsborg
+2013-04-14,Ekevägen 15,Marieberg,Kungsholmen,6,217,null,Villa,2011,[Adolfsberg],6350000,25000,6375000,null,Svensk Fastighetsförmedling,150952.98644064166,Norsborg
+2013-03-21,Lektorpsvägen 49,Marieberg,Kungsholmen,3,92.5,null,Lägenhet,1999,[Södra Lindhult],850000,500000,1350000,5716,Fastighetsbyrån,151004.61058872382,Norsborg
+2013-03-07,Anhaltsvägen 21,Marieberg,Kungsholmen,3,88,null,Villa,1910,[Marieberg],995000,215000,1210000,null,Mäklarhuset,150640.70709422577,Norsborg
+2013-03-04,Anhaltsvägen,Marieberg,Kungsholmen,null,null,null,Tomt/Mark,null,[Marieberg],330000,320000,650000,null,Fastighetsbyrån,150520.55824850936,Norsborg
+2013-02-22,Törsjögatan 36,Marieberg,Kungsholmen,6,198,null,Villa,2008,[Marieberg],3790000,-40000,3750000,null,Svensk Fastighetsförmedling,150631.49839913996,Norsborg
+2013-02-02,Mosåsvägen 72,Marieberg,Kungsholmen,2,63.5,null,Lägenhet,1967,[Adolfsberg],775000,125000,900000,2636,HusmanHagberg,150993.71261947288,Norsborg
+2012-12-07,Mosåsvägen 104,Marieberg,Kungsholmen,3,78.5,null,Lägenhet,1967,[Söder],1095000,195000,1290000,3257,Svensk Fastighetsförmedling,151121.0222415134,Norsborg
+2012-11-01,Tredje Tvärgatan 2,Marieberg,Kungsholmen,4,90,null,Villa,1956,[Marieberg],1695000,-245000,1450000,null,Fastighetsbyrån,151618.47945277745,Norsborg
+2012-09-14,Mosåsvägen 46,Marieberg,Kungsholmen,4,78.5,null,Lägenhet,1967,[Adolfsberg],1095000,125000,1220000,3193,Mäklarhuset,150875.13091317733,Norsborg

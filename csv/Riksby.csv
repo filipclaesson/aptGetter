@@ -1,0 +1,371 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-16,Drottningholmsvägen 360,Riksby,GronHasselby,2,51,2,Lägenhet,null,[Riksby],2495000,0,2495000,2519,Mäklarhuset,297.742412679303,Abrahamsberg
+2016-06-16,Dukvägen 4,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Bromma Riksby],2495000,325000,2820000,2519,Notar,202.06736603565403,Abrahamsberg
+2016-06-08,Vadmalsvägen 3,Riksby,GronHasselby,2,41,null,Lägenhet,1942,[Riksby],2095000,155000,2250000,2282,Fastighetsbyrån,358.16913404222964,Brommaplan
+2016-06-03,Barrstigen 11,Riksby,GronHasselby,6,124,null,Villa,1926,[Bromma Ulvsunda],7900000,400000,8300000,null,HusmanHagberg,275.60304119078836,Stora mossen
+2016-06-01,Kvarnbacksvägen 57,Riksby,GronHasselby,3.5,73,1,Lägenhet,1943,[Bromma Riksby],2595000,175000,2770000,3488,HusmanHagberg,587.8183858935422,Abrahamsberg
+2016-06-01,Dukvägen 36,Riksby,GronHasselby,2,51,1,Lägenhet,null,[Bromma Riksby],2595000,255000,2850000,2519,SkandiaMäklarna,412.1553035042934,Abrahamsberg
+2016-05-30,Vadmalsvägen 19,Riksby,GronHasselby,3,65.5,2,Lägenhet,null,[Bromma],2595000,675000,3270000,3454,Svenska Mäklarhuset,259.18536812796026,Brommaplan
+2016-05-27,Drottningholmsvägen 374,Riksby,GronHasselby,2,51,3,Lägenhet,null,[Bromma Riksby],2475000,325000,2800000,2519,SkandiaMäklarna,405.77904385803936,Abrahamsberg
+2016-05-26,Synålsvägen 19,Riksby,GronHasselby,1.5,44,1,Lägenhet,null,[Bromma],2095000,505000,2600000,2112,Svenska Mäklarhuset,464.1268066822234,Abrahamsberg
+2016-05-25,Mattvägen 3,Riksby,GronHasselby,2,39,3,Lägenhet,2011,[Riksby],2295000,355000,2650000,2917,Länsförsäkringar Fastighetsförmedling,482.12154315534633,Brommaplan
+2016-05-23,Dukvägen 33,Riksby,GronHasselby,3.5,68,1,Lägenhet,1942,[Bromma],3195000,5000,3200000,3358,Svensk Fastighetsförmedling,325.64444377695537,Abrahamsberg
+2016-05-19,Vadmalsvägen 4,Riksby,GronHasselby,2,53.5,0.5,Lägenhet,1942,[Riksby],2495000,285000,2780000,2893,Länsförsäkringar Fastighetsförmedling,370.3404865173758,Brommaplan
+2016-05-19,Synålsvägen 9,Riksby,GronHasselby,3,60,3,Lägenhet,1943,[Riksby],2695000,325000,3020000,2899,Fastighetsbyrån,442.83199780762027,Abrahamsberg
+2016-05-19,Kvarnbacksvägen 105,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Bromma Riksby],2190000,385000,2575000,2893,Notar,407.26052544041863,Brommaplan
+2016-05-19,Spetsvägen 15,Riksby,GronHasselby,2.5,58,2,Lägenhet,1947,[Bromma Riksby],2445000,105000,2550000,3454,SkandiaMäklarna,591.0611312732401,Brommaplan
+2016-05-12,Spetsvägen 13,Riksby,GronHasselby,2.5,60,1,Lägenhet,null,[Bromma],2450000,450000,2900000,3573,Svenska Mäklarhuset,605.0942245964559,Brommaplan
+2016-05-11,Kvarnbacksvägen 105,Riksby,GronHasselby,2,53.5,1,Lägenhet,1942,[Bromma Riksby],2190000,330000,2520000,2893,Notar,407.26052544041863,Brommaplan
+2016-05-07,Stramaljvägen 34,Riksby,GronHasselby,2,51,1,Lägenhet,1942,[Riksby],2695000,285000,2980000,2519,Länsförsäkringar Fastighetsförmedling,401.44146421206443,Abrahamsberg
+2016-05-06,Riksbyvägen 26,Riksby,GronHasselby,2,41,1,Lägenhet,1942,[Bromma],2095000,220000,2315000,2282,SkandiaMäklarna,428.42214533201945,Brommaplan
+2016-05-01,Drottningholmsvägen 380,Riksby,GronHasselby,3,68,2,Lägenhet,1938,[Bromma Riksby],3000000,300000,3300000,3358,Notar,397.1996078517679,Brommaplan
+2016-04-27,Galonvägen 9,Riksby,GronHasselby,2,51,2,Lägenhet,null,[Bromma],2475000,465000,2940000,2519,Svenska Mäklarhuset,357.13954537172367,Abrahamsberg
+2016-04-23,Barrstigen 28,Riksby,GronHasselby,3.5,74,1,Lägenhet,1957,[Bromma],3695000,205000,3900000,2901,Svensk Fastighetsförmedling,410.99656380455457,Abrahamsberg
+2016-04-22,Dukvägen 30,Riksby,GronHasselby,2,51,3,Lägenhet,1944,[Riksby],2395000,255000,2650000,2519,Fastighetsbyrån,329.86501503902775,Abrahamsberg
+2016-04-21,Kvarnbacksvägen 103,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Bromma Riksby],1990000,510000,2500000,2282,Notar,445.7305871681795,Brommaplan
+2016-04-21,Vadmalsvägen 4,Riksby,GronHasselby,2,53.5,1,Lägenhet,1942,[Riksby],2495000,315000,2810000,2893,Fastighetsbyrån,370.3404865173758,Brommaplan
+2016-04-21,Dukvägen 39,Riksby,GronHasselby,1.5,39,2,Lägenhet,1942,[Bromma Riksby],2075000,425000,2500000,1927,HusmanHagberg,383.1739790832827,Abrahamsberg
+2016-04-16,Stramaljvägen 10,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Bromma],2495000,335000,2830000,2519,Svensk Fastighetsförmedling,300.4829917436941,Abrahamsberg
+2016-04-14,Synålsvägen 23,Riksby,GronHasselby,2,60,null,Lägenhet,null,[Bromma],2595000,455000,3050000,2864,SkandiaMäklarna,487.46684217917175,Abrahamsberg
+2016-04-07,Spetsvägen 12,Riksby,GronHasselby,2.5,61,2,Lägenhet,1945,[Bromma Riksby],2495000,655000,3150000,3632,HusmanHagberg,700.836473054358,Brommaplan
+2016-04-06,Spetsvägen 15,Riksby,GronHasselby,3,78,2,Lägenhet,1947,[Bromma],2995000,680000,3675000,4645,Svensk Fastighetsförmedling,591.0611312732401,Brommaplan
+2016-03-18,Kvarnbacksvägen 87,Riksby,GronHasselby,3,73,2,Lägenhet,1941,[Bromma Riksby],2990000,110000,3100000,3513,Notar,552.7698704018469,Brommaplan
+2016-03-17,Dukvägen 34,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Bromma],2595000,265000,2860000,2519,SkandiaMäklarna,399.26776158366226,Abrahamsberg
+2016-03-17,Dukvägen 28,Riksby,GronHasselby,2,51,2,Lägenhet,null,[Bromma],2350000,570000,2920000,2519,Svenska Mäklarhuset,316.6943419113004,Abrahamsberg
+2016-03-09,Drottningholmsvägen 372,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Bromma Riksby],2425000,535000,2960000,2519,HusmanHagberg,390.4276822568184,Abrahamsberg
+2016-03-09,Vadmalsvägen 13,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Riksby],2495000,615000,3110000,2893,Länsförsäkringar Fastighetsförmedling,294.7750408066719,Brommaplan
+2016-03-03,Dukvägen 36,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Bromma],2495000,605000,3100000,2519,Svensk Fastighetsförmedling,412.1553035042934,Abrahamsberg
+2016-02-19,Kvarnbacksvägen 101,Riksby,GronHasselby,2,41,2,Lägenhet,1942,[Riksby],1995000,315000,2310000,2282,Länsförsäkringar Fastighetsförmedling,456.7197843362315,Brommaplan
+2016-02-18,Stramaljvägen 26,Riksby,GronHasselby,2,51,1,Lägenhet,null,[Bromma],2475000,575000,3050000,2519,Svenska Mäklarhuset,374.5193986355805,Abrahamsberg
+2016-02-17,Mattvägen 9,Riksby,GronHasselby,3,72,2,Lägenhet,2011,[Bromma],3495000,555000,4050000,4485,Svensk Fastighetsförmedling,562.7558796552644,Brommaplan
+2016-02-10,Damastvägen 2,Riksby,GronHasselby,2,41,2,Lägenhet,1942,[Riksby],2195000,505000,2700000,2282,Fastighetsbyrån,345.68400612378025,Brommaplan
+2016-02-10,Vadmalsvägen 2,Riksby,GronHasselby,2,53.5,3,Lägenhet,null,[Bromma],2375000,582000,2957000,2893,Svenska Mäklarhuset,382.1142871323898,Brommaplan
+2016-02-07,Galonvägen 26,Riksby,GronHasselby,2,60,0.5,Lägenhet,1943,[Bromma],2150000,850000,3000000,2864,Mäklarhuset,458.49805284587933,Abrahamsberg
+2016-02-03,Kvarnbacksvägen 103,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Bromma],1995000,440000,2435000,2282,Svensk Fastighetsförmedling,445.7305871681795,Brommaplan
+2016-02-03,Synålsvägen 7,Riksby,GronHasselby,2,60,3,Lägenhet,1941,[Bromma],2495000,500000,2995000,2899,Living Fastighetsmäkleri,434.0335933644855,Abrahamsberg
+2016-02-02,Riksbyvägen 6,Riksby,GronHasselby,1.5,39,1,Lägenhet,1942,[Bromma],1995000,305000,2300000,1927,Svensk Fastighetsförmedling,386.06233903003914,Brommaplan
+2016-01-28,Dukvägen 45,Riksby,GronHasselby,2,51,1,Lägenhet,null,[Bromma],2495000,335000,2830000,2519,MOHV,432.45623702415537,Abrahamsberg
+2016-01-27,Dukvägen 18,Riksby,GronHasselby,1.5,39,3,Lägenhet,1938,[Bromma],2195000,350000,2545000,1927,Bjurfors,267.4584098429805,Abrahamsberg
+2016-01-22,Dukvägen 18,Riksby,GronHasselby,3,64,2,Lägenhet,1942,[Bromma],3195000,375000,3570000,3155,Mäklarhuset,267.4584098429805,Abrahamsberg
+2016-01-15,Dukvägen 36,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Bromma],2495000,365000,2860000,2519,Svensk Fastighetsförmedling,412.1553035042934,Abrahamsberg
+2016-01-13,Stramaljvägen 6,Riksby,GronHasselby,2,51,3,Lägenhet,null,[Bromma],2495000,615000,3110000,2519,Svenska Mäklarhuset,278.3606463795573,Abrahamsberg
+2015-12-17,Synålsvägen 11,Riksby,GronHasselby,3,75,1,Lägenhet,1942,[Bromma],3495000,530000,4025000,3584,Svensk Fastighetsförmedling,452.424550937085,Abrahamsberg
+2015-12-15,Synålsvägen 11,Riksby,GronHasselby,1.5,44,2,Lägenhet,1942,[Bromma],1995000,395000,2390000,2128,Svensk Fastighetsförmedling,452.424550937085,Abrahamsberg
+2015-12-10,Damastvägen 9,Riksby,GronHasselby,2,53.5,2,Lägenhet,1942,[Riksby],2495000,355000,2850000,2893,Länsförsäkringar Fastighetsförmedling,339.84268629517413,Brommaplan
+2015-12-03,Spetsvägen 27,Riksby,GronHasselby,2,58,2,Lägenhet,1947,[Riksby],2195000,425000,2620000,3434,Fastighetsbyrån,627.8124412986318,Brommaplan
+2015-12-02,Riksbyvägen 24,Riksby,GronHasselby,1,41,2,Lägenhet,1942,[Bromma],1975000,365000,2340000,2282,A-mäklarna,425.1840807389178,Brommaplan
+2015-11-26,Drottningholmsvägen 362,Riksby,GronHasselby,1.5,39,2,Lägenhet,1942,[Riksby],1995000,455000,2450000,1927,Fastighetsbyrån,313.6293125939353,Abrahamsberg
+2015-11-25,Spetsvägen 14,Riksby,GronHasselby,2,62,2,Lägenhet,null,[Bromma],2195000,635000,2830000,3692,Svenska Mäklarhuset,710.4111467045831,Abrahamsberg
+2015-11-19,Galonvägen 1,Riksby,GronHasselby,2,51,1,Lägenhet,1940,[Bromma],3100000,0,3100000,2519,BOSTHLM,323.288648261662,Abrahamsberg
+2015-11-12,Dukvägen 43,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Riksby],2750000,0,2750000,2519,Länsförsäkringar Fastighetsförmedling,417.16674754562,Abrahamsberg
+2015-11-12,Kvarnbacksvägen 100,Riksby,GronHasselby,2,41,1,Lägenhet,null,[Bromma],1895000,485000,2380000,2282,Svenska Mäklarhuset,472.90674281933394,Brommaplan
+2015-11-11,Galonvägen 42,Riksby,GronHasselby,1.5,46,2,Lägenhet,null,[Riksby],1995000,580000,2575000,2272,Fastighetsbyrån,452.8199224812107,Brommaplan
+2015-11-10,Dukvägen 42,Riksby,GronHasselby,2,51,2,Lägenhet,null,[Bromma],2475000,475000,2950000,2519,Svenska Mäklarhuset,449.67386620507034,Abrahamsberg
+2015-11-07,Synålsvägen 16,Riksby,GronHasselby,2,60,0.5,Lägenhet,1944,[Riksby],2495000,465000,2960000,2864,Länsförsäkringar Fastighetsförmedling,503.8703046676879,Abrahamsberg
+2015-11-06,Spetsvägen 35,Riksby,GronHasselby,2,58,1,Lägenhet,1946,[Bromma],2495000,0,2495000,3453,Svensk Fastighetsförmedling,670.5390103728149,Brommaplan
+2015-11-05,Stramaljvägen 8,Riksby,GronHasselby,2,51,3,Lägenhet,1938,[Bromma Riksby],2490000,610000,3100000,2519,Notar,291.6984227419424,Abrahamsberg
+2015-11-04,Dukvägen 29,Riksby,GronHasselby,3,51,2,Lägenhet,1942,[Bromma],2495000,825000,3320000,2519,Svensk Fastighetsförmedling,298.2755984124219,Abrahamsberg
+2015-10-30,Kvarnbacksvägen 119,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Riksby],2195000,605000,2800000,2893,Fastighetsbyrån,314.13694926873205,Brommaplan
+2015-10-29,Riksbyvägen 10,Riksby,GronHasselby,2.5,51,3,Lägenhet,1942,[Bromma],2375000,470000,2845000,2519,Svensk Fastighetsförmedling,394.1499036215693,Brommaplan
+2015-10-28,Stramaljvägen 13,Riksby,GronHasselby,1.5,39,2,Lägenhet,1942,[Riksby],2195000,315000,2510000,1927,Fastighetsbyrån,276.1804617914159,Abrahamsberg
+2015-10-22,Riksbyvägen 24,Riksby,GronHasselby,1.5,40,2,Lägenhet,1942,[Riksby],2100000,300000,2400000,2282,Fastighetsbyrån,425.1840807389178,Brommaplan
+2015-10-22,Kvarnbacksvägen 83,Riksby,GronHasselby,3,73,1,Lägenhet,1942,[Bromma],2895000,855000,3750000,3488,Svensk Fastighetsförmedling,584.3827757382577,Brommaplan
+2015-10-22,Vadmalsvägen 4,Riksby,GronHasselby,2.5,53.5,1,Lägenhet,1942,[Bromma],2195000,385000,2580000,2893,Svensk Fastighetsförmedling,370.3404865173758,Brommaplan
+2015-10-19,Galonvägen 7,Riksby,GronHasselby,2,51,2,Lägenhet,1938,[Bromma Riksby],2590000,330000,2920000,2519,Notar,355.04389991514773,Abrahamsberg
+2015-10-09,Galonvägen 19,Riksby,GronHasselby,2,51,1,Lägenhet,1940,[Bromma],3060000,0,3060000,2519,BOSTHLM,390.2158794004262,Abrahamsberg
+2015-10-08,Damastvägen 6A,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Bromma],2195000,560000,2755000,2282,Svensk Fastighetsförmedling,357.26938771291634,Brommaplan
+2015-10-05,Kvarnbacksvägen 88,Riksby,GronHasselby,2,58,3,Lägenhet,1947,[Riksby],2195000,405000,2600000,3454,Fastighetsbyrån,546.8481785035145,Brommaplan
+2015-10-05,Kvarnbacksvägen 82,Riksby,GronHasselby,3,71,1,Lägenhet,1945,[Bromma Riksby],2495000,530000,3025000,4225,Notar,590.1847448256772,Brommaplan
+2015-09-21,Kvarnbacksvägen 88,Riksby,GronHasselby,3.5,71,3,Lägenhet,1947,[Riksby],2750000,10000,2760000,4228,Länsförsäkringar Fastighetsförmedling,546.8481785035145,Brommaplan
+2015-09-03,Kvarnbacksvägen 121,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Riksby],2395000,445000,2840000,null,Fastighetsbyrån,280.4237255668457,Brommaplan
+2015-09-03,Vadmalsvägen 23,Riksby,GronHasselby,2,53.5,1,Lägenhet,1942,[Riksby],2395000,260000,2655000,null,Fastighetsbyrån,235.6013311628469,Brommaplan
+2015-09-01,Dukvägen 47,Riksby,GronHasselby,3,68,1,Lägenhet,1942,[Riksby],2695000,155000,2850000,3358,Fastighetsbyrån,432.07985369338303,Brommaplan
+2015-08-28,Synålsvägen 23,Riksby,GronHasselby,2.5,60,3,Lägenhet,null,[Bromma],3200000,0,3200000,2899,Svenska Mäklarhuset,487.46684217917175,Abrahamsberg
+2015-08-27,Galonvägen 24,Riksby,GronHasselby,2.5,59,2,Lägenhet,1943,[Riksby],2495000,570000,3065000,2851,Fastighetsbyrån,452.08664369925435,Abrahamsberg
+2015-08-27,Kvarnbacksvägen 88,Riksby,GronHasselby,2.5,58,1,Lägenhet,1947,[Riksby],2295000,0,2295000,3454,Länsförsäkringar Fastighetsförmedling,546.8481785035145,Brommaplan
+2015-08-25,Damastvägen 8,Riksby,GronHasselby,2,41,1,Lägenhet,1942,[Bromma],1995000,525000,2520000,2282,Svensk Fastighetsförmedling,367.30943768151286,Brommaplan
+2015-08-25,Barrstigen 22,Riksby,GronHasselby,2,67,0,Lägenhet,1957,[Bromma],2950000,275000,3225000,2401,Svensk Fastighetsförmedling,395.1907296170401,Abrahamsberg
+2015-08-19,Riksbyvägen 21,Riksby,GronHasselby,3,66,3,Lägenhet,1942,[Bromma],2695000,320000,3015000,3454,Svensk Fastighetsförmedling,400.69005129702145,Brommaplan
+2015-08-19,Galonvägen 6,Riksby,GronHasselby,1,15,2,Lägenhet,null,[Bromma],1195000,305000,1500000,723,Svenska Mäklarhuset,391.72393685765957,Abrahamsberg
+2015-08-18,Drottningholmsvägen 382,Riksby,GronHasselby,1.5,39,2,Lägenhet,null,[Bromma],1995000,555000,2550000,1927,Svenska Mäklarhuset,382.3552836470086,Brommaplan
+2015-08-13,Galonvägen 31,Riksby,GronHasselby,2.5,51,2,Lägenhet,1942,[Bromma],2095000,740000,2835000,2519,Svensk Fastighetsförmedling,457.3298888198671,Abrahamsberg
+2015-08-12,Dukvägen 36,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Bromma],2395000,620000,3015000,2519,Mäklarhuset,412.1553035042934,Abrahamsberg
+2015-08-04,Damastvägen 4B,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Bromma],2095000,640000,2735000,2282,Svensk Fastighetsförmedling,352.91335032154785,Brommaplan
+2015-07-31,Dukvägen 42,Riksby,GronHasselby,2,51,1,Lägenhet,null,[Bromma],2425000,525000,2950000,2519,Svenska Mäklarhuset,449.67386620507034,Abrahamsberg
+2015-07-15,Galonvägen 32,Riksby,GronHasselby,2.5,60,3,Lägenhet,null,[Bromma],2475000,525000,3000000,2899,Svenska Mäklarhuset,482.70105522111754,Abrahamsberg
+2015-07-13,Kvarnbacksvägen 131,Riksby,GronHasselby,3,53.5,2,Lägenhet,1942,[Bromma Riksby],2295000,330000,2625000,2893,HusmanHagberg,240.30338909990562,Brommaplan
+2015-07-03,Lillsjönäsvägen 7,Riksby,GronHasselby,6,128,null,Villa,1933,[Bromma],6750000,1750000,8500000,null,Svensk Fastighetsförmedling,113.79713174678973,Stora mossen
+2015-07-03,Spetsvägen 35,Riksby,GronHasselby,3,78,2,Lägenhet,1947,[Riksby],2895000,205000,3100000,4645,Fastighetsbyrån,670.5390103728149,Brommaplan
+2015-06-17,Barrstigen 28,Riksby,GronHasselby,2,54,2,Lägenhet,1957,[Bromma],2295000,255000,2550000,1935,Svensk Fastighetsförmedling,410.99656380455457,Abrahamsberg
+2015-06-16,Drottningholmsvägen 372,Riksby,GronHasselby,2,51,1,Lägenhet,1942,[Bromma],2500000,-205000,2295000,2519,Living Fastighetsmäkleri,390.4276822568184,Abrahamsberg
+2015-06-12,Damastvägen 4A,Riksby,GronHasselby,2,41,0.5,Lägenhet,1942,[Riksby],1995000,455000,2450000,2282,Länsförsäkringar Fastighetsförmedling,349.1539375025067,Brommaplan
+2015-06-10,Mattvägen 5,Riksby,GronHasselby,3,72,2,Lägenhet,2011,[Bromma],2995000,755000,3750000,4441,Erik Olsson Fastighetsförmedling,497.46010519358185,Brommaplan
+2015-06-04,Synålsvägen 9,Riksby,GronHasselby,2.5,60,null,Lägenhet,1942,[Bromma],2295000,255000,2550000,null,Svensk Fastighetsförmedling,442.83199780762027,Abrahamsberg
+2015-06-01,Galonvägen 28,Riksby,GronHasselby,2.5,60,3,Lägenhet,null,[Bromma],2275000,325000,2600000,2898,Svenska Mäklarhuset,456.52513732329396,Abrahamsberg
+2015-06-01,Stramaljvägen 3,Riksby,GronHasselby,2,51,1,Lägenhet,1942,[Riksby],2395000,345000,2740000,2519,Länsförsäkringar Fastighetsförmedling,291.88705940363985,Abrahamsberg
+2015-05-29,Kvarnbacksvägen 100,Riksby,GronHasselby,2,41,2,Lägenhet,1942,[Bromma],1875000,75000,1950000,2282,Svensk Fastighetsförmedling,472.90674281933394,Brommaplan
+2015-05-27,Riksbyvägen 6,Riksby,GronHasselby,1.5,39,3,Lägenhet,1942,[Bromma],1995000,355000,2350000,1927,Svensk Fastighetsförmedling,386.06233903003914,Brommaplan
+2015-05-27,Kvarnbacksvägen 81,Riksby,GronHasselby,3,73,3,Lägenhet,1943,[Bromma],2995000,415000,3410000,3528,Svensk Fastighetsförmedling,576.9836030758639,Abrahamsberg
+2015-05-27,Drottningholmsvägen 362,Riksby,GronHasselby,3,68,2,Lägenhet,null,[Bromma],2875000,325000,3200000,3358,Svenska Mäklarhuset,313.6293125939353,Abrahamsberg
+2015-05-23,Vadmalsvägen 15,Riksby,GronHasselby,3,66,1,Lägenhet,1942,[Bromma],2695000,105000,2800000,3454,Svensk Fastighetsförmedling,283.4390183601232,Brommaplan
+2015-05-23,Dukvägen 18,Riksby,GronHasselby,3,64,2,Lägenhet,1942,[Bromma],2490000,310000,2800000,3155,Svensk Fastighetsförmedling,267.4584098429805,Abrahamsberg
+2015-05-22,Stramaljvägen 17,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Bromma],2395000,115000,2510000,null,Svensk Fastighetsförmedling,305.20938713546093,Abrahamsberg
+2015-05-22,Galonvägen 29,Riksby,GronHasselby,2.5,51,2,Lägenhet,1942,[Bromma],2395000,325000,2720000,2519,Svensk Fastighetsförmedling,448.34092814022046,Abrahamsberg
+2015-05-13,Synålsvägen 7,Riksby,GronHasselby,2,60,1,Lägenhet,1941,[Bromma Riksby],2490000,80000,2570000,2864,Notar,434.0335933644855,Abrahamsberg
+2015-05-12,Galonvägen 48,Riksby,GronHasselby,1.5,41,3,Lägenhet,1942,[Bromma Riksby],1990000,460000,2450000,2282,Notar,414.491043931066,Brommaplan
+2015-05-08,Stramaljvägen 20,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Bromma],2395000,535000,2930000,2519,Svensk Fastighetsförmedling,352.31235914389913,Abrahamsberg
+2015-05-06,Damastvägen 7,Riksby,GronHasselby,3,53.5,2,Lägenhet,1942,[Bromma Riksby],2250000,360000,2610000,2893,HusmanHagberg,333.79698739694794,Brommaplan
+2015-05-06,Galonvägen 6,Riksby,GronHasselby,3.5,75,1,Lägenhet,1943,[Bromma],2975000,600000,3575000,3587,Svensk Fastighetsförmedling,391.72393685765957,Abrahamsberg
+2015-05-06,Stramaljvägen 21,Riksby,GronHasselby,2,51,3,Lägenhet,1941,[Bromma],2395000,585000,2980000,2519,Svenska Mäklarhuset,323.33572043247653,Abrahamsberg
+2015-04-30,Synålsvägen 19,Riksby,GronHasselby,3,75,3,Lägenhet,1943,[Bromma],3095000,0,3095000,3626,Svenska Mäklarhuset,464.1268066822234,Abrahamsberg
+2015-04-28,Galonvägen 6,Riksby,GronHasselby,3.5,75,2,Lägenhet,1941,[Bromma],2495000,780000,3275000,3608,Hemverket,391.72393685765957,Abrahamsberg
+2015-04-22,Synålsvägen 21,Riksby,GronHasselby,2,60,3,Lägenhet,1942,[Bromma],2395000,465000,2860000,2899,Svensk Fastighetsförmedling,479.6060921884653,Abrahamsberg
+2015-04-21,Galonvägen 39,Riksby,GronHasselby,1.5,39,3,Lägenhet,1942,[Bromma],1995000,355000,2350000,1927,Länsförsäkringar Fastighetsförmedling,431.01819343223605,Brommaplan
+2015-04-17,Galonvägen 3,Riksby,GronHasselby,5,102,1,Lägenhet,1946,[Bromma],3995000,555000,4550000,5037,Svensk Fastighetsförmedling,336.64444797125265,Abrahamsberg
+2015-04-16,Vadmalsvägen 16,Riksby,GronHasselby,2,53.5,1,Lägenhet,1942,[Bromma Riksby],2095000,415000,2510000,2893,HusmanHagberg,281.26643907556934,Brommaplan
+2015-04-15,Dukvägen 4,Riksby,GronHasselby,2,51,null,Lägenhet,1941,[Riksby],2395000,425000,2820000,2519,Svenska Mäklarhuset,202.06736603565403,Abrahamsberg
+2015-04-07,Mattvägen 7,Riksby,GronHasselby,2,39,1,Lägenhet,2011,[Bromma],1850000,580000,2430000,2888,Fantastic Frank Fastighetsmäkleri,534.6103709101804,Brommaplan
+2015-04-01,Stramaljvägen 1,Riksby,GronHasselby,1.5,40,2,Lägenhet,1942,[Riksby],1975000,435000,2410000,1927,Fastighetsbyrån,226.3817752717806,Abrahamsberg
+2015-04-01,Kvarnbacksvägen 82,Riksby,GronHasselby,3,71,1,Lägenhet,1945,[Bromma],2100000,550000,2650000,4225,Svensk Fastighetsförmedling,590.1847448256772,Brommaplan
+2015-04-01,Stramaljvägen 28,Riksby,GronHasselby,2,51,2,Lägenhet,1941,[Riksby],2250000,460000,2710000,2519,Svenska Mäklarhuset,380.88869511849896,Abrahamsberg
+2015-03-31,Galonvägen 25,Riksby,GronHasselby,2,51,3,Lägenhet,null,[Riksby],2395000,405000,2800000,2519,Svenska Mäklarhuset,425.95857508989286,Abrahamsberg
+2015-03-28,Damastvägen 4A,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Bromma Riksby],1875000,355000,2230000,2282,Mäklarringen,349.1539375025067,Brommaplan
+2015-03-24,Kvarnbacksvägen 101,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Bromma],1950000,250000,2200000,2282,Svensk Fastighetsförmedling,456.7197843362315,Brommaplan
+2015-03-11,Galonvägen 46,Riksby,GronHasselby,1.5,41,6,Lägenhet,1942,[Bromma Riksby],1980000,260000,2240000,2282,Notar,444.79561290595876,Brommaplan
+2015-03-04,Kvarnbacksvägen 99,Riksby,GronHasselby,1.5,41,3,Lägenhet,1942,[Bromma Riksby],2155000,-10000,2145000,2282,Notar,466.6771645586715,Brommaplan
+2015-03-04,Kvarnbacksvägen 84,Riksby,GronHasselby,3,72,3,Lägenhet,1947,[Bromma],2295000,215000,2510000,4287,Länsförsäkringar Fastighetsförmedling,573.9082852632396,Brommaplan
+2015-02-16,Stramaljvägen 6,Riksby,GronHasselby,2,51,2,Lägenhet,1941,[Bromma],2295000,525000,2820000,2519,Svenska Mäklarhuset,278.3606463795573,Abrahamsberg
+2015-02-16,Galonvägen 46,Riksby,GronHasselby,1.5,41,3,Lägenhet,1942,[Bromma Riksby],1990000,370000,2360000,2282,Notar,444.79561290595876,Brommaplan
+2015-02-16,Vadmalsvägen 17,Riksby,GronHasselby,3,65.5,2,Lägenhet,1942,[Bromma],2495000,405000,2900000,3354,Länsförsäkringar Fastighetsförmedling,270.8318424649277,Brommaplan
+2015-02-13,Lövåsvägen 25,Riksby,GronHasselby,6,149,null,Villa,1920,[Ulvsunda],8600000,0,8600000,null,Fastighetsbyrån,353.86966124262545,Stora mossen
+2015-02-13,Kvarnbacksvägen 103,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Riksby],1950000,230000,2180000,2282,Fastighetsbyrån,445.7305871681795,Brommaplan
+2015-02-11,Galonvägen 17,Riksby,GronHasselby,2.5,51,1,Lägenhet,1942,[Bromma],2195000,315000,2510000,2519,Svensk Fastighetsförmedling,387.07049624637455,Abrahamsberg
+2015-02-04,Dukvägen 27,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Bromma],2295000,355000,2650000,2519,Svensk Fastighetsförmedling,286.29886439223617,Abrahamsberg
+2015-01-31,Stramaljvägen 7,Riksby,GronHasselby,1.5,39,0.5,Lägenhet,1938,[Bromma Riksby],1990000,210000,2200000,1927,Notar,253.79244957424447,Abrahamsberg
+2015-01-23,Synålsvägen 21,Riksby,GronHasselby,3,60,3,Lägenhet,1942,[Bromma],2195000,280000,2475000,2899,Svensk Fastighetsförmedling,479.6060921884653,Abrahamsberg
+2015-01-23,Fältmarskalksvägen 37,Riksby,GronHasselby,7,175,null,Villa,1922,[Ulvsunda],8900000,700000,9600000,null,Fastighetsbyrån,440.3091512751401,Stora mossen
+2015-01-22,Kvarnbacksvägen 85,Riksby,GronHasselby,3,73,null,Lägenhet,1943,[Riksby],2695000,135000,2830000,3528,Fastighetsbyrån,547.5563489857293,Brommaplan
+2015-01-21,Dukvägen 8,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Riksby],2195000,495000,2690000,2519,Svensk Fastighetsförmedling,305.1645640644617,Abrahamsberg
+2015-01-17,Synålsvägen 7,Riksby,GronHasselby,2.5,60,3,Lägenhet,1943,[Bromma],2395000,0,2395000,2899,Svenska Mäklarhuset,434.0335933644855,Abrahamsberg
+2015-01-14,Stramaljvägen 36,Riksby,GronHasselby,2,51,1,Lägenhet,1940,[Riksby],2575000,0,2575000,2519,BOSTHLM,401.7049823965344,Abrahamsberg
+2015-01-14,Drottningholmsvägen 372,Riksby,GronHasselby,2,51,1,Lägenhet,1942,[Riksby],1895000,0,1895000,2519,Svensk Fastighetsförmedling,390.4276822568184,Abrahamsberg
+2015-01-14,Vadmalsvägen 9,Riksby,GronHasselby,2,53.5,1,Lägenhet,1942,[Bromma],1895000,635000,2530000,2893,Mäklarhuset,325.756243839978,Brommaplan
+2014-12-17,Kvarnbacksvägen 66,Riksby,GronHasselby,2,59,1,Lägenhet,1945,[Riksby],1795000,125000,1920000,3513,Länsförsäkringar Fastighetsförmedling,631.5206249827863,Abrahamsberg
+2014-12-11,Drottningsholmsvägen 376,Riksby,GronHasselby,1.5,39,1,Lägenhet,1941,[Bromma],1675000,275000,1950000,1927,Svenska Mäklarhuset,418.1874207150878,Abrahamsberg
+2014-12-10,Mattvägen 5,Riksby,GronHasselby,3,72,2,Lägenhet,2011,[Bromma],3295000,155000,3450000,4440,Bjurfors,497.46010519358185,Brommaplan
+2014-12-05,Galonvägen 31,Riksby,GronHasselby,2,51,1,Lägenhet,1942,[Riksby],2195000,105000,2300000,2519,Svensk Fastighetsförmedling,457.3298888198671,Abrahamsberg
+2014-11-25,Dukvägen 18,Riksby,GronHasselby,1.5,39,1,Lägenhet,1942,[Bromma],1895000,305000,2200000,1927,Erik Olsson Fastighetsförmedling,267.4584098429805,Abrahamsberg
+2014-11-25,Stramaljvägen 25,Riksby,GronHasselby,2.5,51,3,Lägenhet,1942,[Riksby],1995000,555000,2550000,2519,Svensk Fastighetsförmedling,346.2947878851638,Abrahamsberg
+2014-11-19,Kvarnbacksvägen 63,Riksby,GronHasselby,3,73,null,Lägenhet,1943,[Riksby],2595000,205000,2800000,3528,Fastighetsbyrån,586.9437635485386,Abrahamsberg
+2014-11-19,Drottningholmsvägen 362,Riksby,GronHasselby,2,39,1,Lägenhet,1942,[Riksby],1895000,155000,2050000,1927,Länsförsäkringar Fastighetsförmedling,313.6293125939353,Abrahamsberg
+2014-11-19,Galonvägen 16,Riksby,GronHasselby,3,75,3,Lägenhet,1944,[Bromma],3395000,-145000,3250000,3621,Svenska Mäklarhuset,417.3005516864184,Abrahamsberg
+2014-11-13,Galonvägen 25,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],2195000,135000,2330000,2519,Fastighetsbyrån,425.95857508989286,Abrahamsberg
+2014-11-12,Vadmalsvägen 14,Riksby,GronHasselby,2,53.5,2,Lägenhet,1942,[Riksby],1995000,406000,2401000,2893,Länsförsäkringar Fastighetsförmedling,291.17698147714697,Brommaplan
+2014-11-12,Kvarnbacksvägen 74,Riksby,GronHasselby,3,71,1,Lägenhet,1946,[Riksby],2395000,0,2395000,4227,BOSTHLM,633.4528702761127,Brommaplan
+2014-11-12,Kvarnbacksvägen 90,Riksby,GronHasselby,3,72,null,Lägenhet,1945,[Bromma],2395000,215000,2610000,4287,Erik Olsson Fastighetsförmedling,531.8281528953744,Brommaplan
+2014-11-06,Dukvägen 32,Riksby,GronHasselby,1,39,0.5,Lägenhet,1938,[Bromma],2310000,0,2310000,1927,Notar,441.2657084621002,Brommaplan
+2014-11-06,Stramaljvägen 13,Riksby,GronHasselby,1.5,39,0.5,Lägenhet,1938,[Bromma Riksby],1695000,655000,2350000,1927,Notar,276.1804617914159,Abrahamsberg
+2014-11-04,Dukvägen 45,Riksby,GronHasselby,2,51,2,Lägenhet,null,[Riksby],2510000,0,2510000,2519,Svensk Fastighetsförmedling,432.45623702415537,Abrahamsberg
+2014-10-30,Vadmalsvägen 19,Riksby,GronHasselby,3,65.5,2,Lägenhet,1942,[Bromma],2550000,0,2550000,3454,Bjurfors,259.18536812796026,Brommaplan
+2014-10-29,Kvarnbacksvägen 129,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Bromma Riksby],1995000,305000,2300000,2893,HusmanHagberg,231.6491663857393,Brommaplan
+2014-10-24,Kvarnbacksvägen 101,Riksby,GronHasselby,2,41,1,Lägenhet,null,[Riksby],1795000,280000,2075000,2282,Svensk Fastighetsförmedling,456.7197843362315,Brommaplan
+2014-10-24,Kvarnbacksvägen 74,Riksby,GronHasselby,2,58,2,Lägenhet,null,[Riksby],1775000,100000,1875000,3454,Svensk Fastighetsförmedling,633.4528702761127,Brommaplan
+2014-10-22,Dukvägen 40,Riksby,GronHasselby,2,51,1,Lägenhet,1942,[Riksby],1995000,405000,2400000,2519,SkandiaMäklarna,437.4036709538828,Abrahamsberg
+2014-10-17,Galonvägen 25,Riksby,GronHasselby,2.5,51,0.5,Lägenhet,1942,[Riksby],2195000,-45000,2150000,2519,Länsförsäkringar Fastighetsförmedling,425.95857508989286,Abrahamsberg
+2014-10-09,Stramaljvägen 4,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Riksby],2150000,90000,2240000,2519,BOSTHLM,237.63748607455219,Abrahamsberg
+2014-10-09,Vadmalsvägen 23,Riksby,GronHasselby,2,53.5,null,Lägenhet,1942,[Riksby],1895000,405000,2300000,2893,Fastighetsbyrån,235.6013311628469,Brommaplan
+2014-10-08,Galonvägen 4,Riksby,GronHasselby,1.5,44,2,Lägenhet,null,[Riksby],1875000,45000,1920000,2128,Svensk Fastighetsförmedling,340.34126975507917,Abrahamsberg
+2014-10-08,Galonvägen 24,Riksby,GronHasselby,2,59,3,Lägenhet,1942,[Riksby],2195000,85000,2280000,2861,BOSTHLM,452.08664369925435,Abrahamsberg
+2014-10-02,Dukvägen 42,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],2150000,160000,2310000,2519,Fastighetsbyrån,449.67386620507034,Abrahamsberg
+2014-10-01,Galonvägen 19,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],2095000,225000,2320000,2519,Fastighetsbyrån,390.2158794004262,Abrahamsberg
+2014-09-26,Dukvägen 53,Riksby,GronHasselby,3,68,null,Lägenhet,null,[Riksby],2820000,0,2820000,3358,Svensk Fastighetsförmedling,445.880162405325,Brommaplan
+2014-09-24,Synålsvägen 8,Riksby,GronHasselby,1.5,44,2,Lägenhet,null,[Riksby],1775000,235000,2010000,2128,Svensk Fastighetsförmedling,479.7745238505389,Abrahamsberg
+2014-09-18,Kvarnbacksvägen 66,Riksby,GronHasselby,2.5,59,2,Lägenhet,1945,[Bromma Riksby],1995000,255000,2250000,3513,Notar,631.5206249827863,Abrahamsberg
+2014-09-16,Kvarnbacksvägen 68,Riksby,GronHasselby,2.5,59,2,Lägenhet,1945,[Bromma Riksby],1850000,200000,2050000,3513,Notar,631.4195032878082,Abrahamsberg
+2014-09-12,Damastvägen 4B,Riksby,GronHasselby,2,41,1,Lägenhet,1942,[Riksby],1895000,205000,2100000,2282,Länsförsäkringar Fastighetsförmedling,352.91335032154785,Brommaplan
+2014-09-09,Galonvägen 6,Riksby,GronHasselby,1,15,3,Lägenhet,null,[Riksby],1195000,-95000,1100000,723,Svensk Fastighetsförmedling,391.72393685765957,Abrahamsberg
+2014-09-04,Synålsvägen 3,Riksby,GronHasselby,1.5,44,2,Lägenhet,null,[Riksby],1795000,405000,2200000,2128,Svensk Fastighetsförmedling,422.53611789971575,Abrahamsberg
+2014-08-15,Galonvägen 31,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Bromma],2095000,325000,2420000,2519,Svenska Mäklarhuset,457.3298888198671,Abrahamsberg
+2014-08-14,Dukvägen 31,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],2150000,100000,2250000,2519,Fastighetsbyrån,312.51083073251334,Abrahamsberg
+2014-08-13,Kvarnbacksvägen 66,Riksby,GronHasselby,2.5,59,2,Lägenhet,1945,[Bromma Riksby],1995000,35000,2030000,3513,Notar,631.5206249827863,Abrahamsberg
+2014-08-13,Kvarnbacksvägen 117,Riksby,GronHasselby,2,53.5,2,Lägenhet,1942,[Bromma],1995000,400000,2395000,2893,Svenska Mäklarhuset,307.58236765367786,Brommaplan
+2014-08-07,Stramaljvägen 1,Riksby,GronHasselby,1.5,39,3,Lägenhet,1942,[Bromma Riksby],1695000,355000,2050000,1927,HusmanHagberg,226.3817752717806,Abrahamsberg
+2014-07-17,Kvarnbacksvägen 102,Riksby,GronHasselby,2,41.5,2,Lägenhet,1942,[Bromma Riksby],1650000,220000,1870000,2282,HusmanHagberg,461.73795098825417,Brommaplan
+2014-07-07,Kvarnbacksvägen 68,Riksby,GronHasselby,2,63,null,Lägenhet,1945,[Bromma Riksby],2250000,210000,2460000,3571,Notar,631.4195032878082,Abrahamsberg
+2014-07-02,Dukvägen 26,Riksby,GronHasselby,3,64,3,Lägenhet,1942,[Riksby],2495000,205000,2700000,3156,BOSTHLM,306.87930423631815,Abrahamsberg
+2014-07-01,Riksbyvägen 28,Riksby,GronHasselby,2,41,2,Lägenhet,1942,[Brommaplan],1795000,215000,2010000,2282,Länsförsäkringar Fastighetsförmedling,431.9208754573152,Brommaplan
+2014-06-19,Synålsvägen 25,Riksby,GronHasselby,2,60,1,Lägenhet,1942,[Riksby],2195000,455000,2650000,2864,BOSTHLM,494.45024605102617,Abrahamsberg
+2014-06-19,Kvarnbacksvägen 66,Riksby,GronHasselby,2,59,2,Lägenhet,1945,[Riksby],1795000,-45000,1750000,3513,BOSTHLM,631.5206249827863,Abrahamsberg
+2014-06-17,Mattvägen 9,Riksby,GronHasselby,1.5,39,null,Lägenhet,2010,[Bromma],1795000,0,1795000,2653,Svenska Mäklarhuset,562.7558796552644,Brommaplan
+2014-06-13,Mattvägen 3,Riksby,GronHasselby,2,50,null,Lägenhet,null,[Riksby],1995000,355000,2350000,3430,Fastighetsbyrån,482.12154315534633,Brommaplan
+2014-06-06,Drottningholmsvägen 358,Riksby,GronHasselby,2,51,1,Lägenhet,null,[Riksby],1890000,20000,1910000,2519,Svensk Fastighetsförmedling,284.4606353387708,Abrahamsberg
+2014-06-04,Vadmalsvägen 16,Riksby,GronHasselby,2,53.5,null,Lägenhet,1942,[Bromma],1875000,325000,2200000,2893,Erik Olsson Fastighetsförmedling,281.26643907556934,Brommaplan
+2014-05-29,Damastvägen 4A,Riksby,GronHasselby,2,41,null,Lägenhet,1942,[Riksby],1695000,105000,1800000,2282,Fastighetsbyrån,349.1539375025067,Brommaplan
+2014-05-29,Dukvägen 42,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],2150000,160000,2310000,2519,Fastighetsbyrån,449.67386620507034,Abrahamsberg
+2014-05-28,Dukvägen 40,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Bromma],2095000,190000,2285000,2519,Svenska Mäklarhuset,437.4036709538828,Abrahamsberg
+2014-05-22,Galonvägen 32,Riksby,GronHasselby,2.5,59,2,Lägenhet,1941,[Bromma],2195000,355000,2550000,2851,Svenska Mäklarhuset,482.70105522111754,Abrahamsberg
+2014-05-22,Damastvägen 7,Riksby,GronHasselby,2,52.5,null,Lägenhet,1942,[Riksby],1850000,170000,2020000,2893,Fastighetsbyrån,333.79698739694794,Brommaplan
+2014-05-21,Drottningholmsvägen 376,Riksby,GronHasselby,1.5,39,2,Lägenhet,1942,[Bromma],1550000,280000,1830000,1927,Svenska Mäklarhuset,416.93579089388135,Abrahamsberg
+2014-05-16,Barrstigen 24,Riksby,GronHasselby,1,26,null,Lägenhet,null,[Riksby],1720000,0,1720000,932,Svensk Fastighetsförmedling,406.9943306302811,Abrahamsberg
+2014-05-16,Dukvägen 31,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Riksby],1995000,155000,2150000,2519,BOSTHLM,312.51083073251334,Abrahamsberg
+2014-05-15,Stramaljvägen 21,Riksby,GronHasselby,2,51,1,Lägenhet,null,[Riksby],1995000,15000,2010000,2519,Svensk Fastighetsförmedling,323.33572043247653,Abrahamsberg
+2014-05-13,Kvarnbacksvägen 83,Riksby,GronHasselby,3,73,2,Lägenhet,1941,[Bromma Riksby],2375000,350000,2725000,3513,Notar,584.3827757382577,Brommaplan
+2014-05-08,Galonvägen 32,Riksby,GronHasselby,2,59,null,Lägenhet,1943,[Riksby],2195000,0,2195000,2835,Fastighetsbyrån,482.70105522111754,Abrahamsberg
+2014-05-08,Kvarnbacksvägen 90,Riksby,GronHasselby,3,72,3,Lägenhet,1945,[Riksby],2375000,75000,2450000,4287,Länsförsäkringar Fastighetsförmedling,531.8281528953744,Brommaplan
+2014-05-03,Dukvägen 17,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Bromma],1995000,155000,2150000,2519,Svenska Mäklarhuset,216.25475032811806,Abrahamsberg
+2014-05-02,Synålsvägen 4,Riksby,GronHasselby,3,75,3,Lägenhet,1941,[Bromma],2750000,100000,2850000,3626,Svenska Mäklarhuset,463.16036326545384,Abrahamsberg
+2014-04-30,Riksbyvägen 19,Riksby,GronHasselby,3,65.5,null,Lägenhet,1942,[Riksby],2395000,275000,2670000,3454,Fastighetsbyrån,395.1054490132444,Brommaplan
+2014-04-29,Dukvägen 40,Riksby,GronHasselby,2,51,3,Lägenhet,null,[Riksby],2195000,115000,2310000,2519,BOSTHLM,437.4036709538828,Abrahamsberg
+2014-04-28,Dukvägen 4,Riksby,GronHasselby,2.5,51,3,Lägenhet,1938,[Riksby],2195000,55000,2250000,2519,Länsförsäkringar Fastighetsförmedling,202.06736603565403,Abrahamsberg
+2014-04-24,Stramaljvägen 6,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Bromma],2195000,270000,2465000,2519,Svenska Mäklarhuset,278.3606463795573,Abrahamsberg
+2014-04-23,Galonvägen 39,Riksby,GronHasselby,1.5,39,1,Lägenhet,1945,[Bromma Riksby],1595000,355000,1950000,1927,HusmanHagberg,431.01819343223605,Brommaplan
+2014-04-09,Kvarnbacksvägen 75,Riksby,GronHasselby,3,73,1,Lägenhet,1941,[Bromma],2475000,25000,2500000,3488,Svenska Mäklarhuset,572.0689995493954,Abrahamsberg
+2014-04-09,Vadmalsvägen 2,Riksby,GronHasselby,2,53.5,2,Lägenhet,1942,[Riksby],1995000,305000,2300000,2893,Länsförsäkringar Fastighetsförmedling,382.1142871323898,Brommaplan
+2014-04-07,Stramaljvägen 7,Riksby,GronHasselby,3,64,null,Lägenhet,1938,[Bromma Riksby],2495000,265000,2760000,3156,Notar,253.79244957424447,Abrahamsberg
+2014-04-05,Mattvägen 3,Riksby,GronHasselby,1.5,39,null,Lägenhet,null,[Riksby],1895000,55000,1950000,2653,Fastighetsbyrån,482.12154315534633,Brommaplan
+2014-03-19,Galonvägen 19,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Bromma],1950000,350000,2300000,2519,Svenska Mäklarhuset,390.2158794004262,Abrahamsberg
+2014-03-06,Dukvägen 26,Riksby,GronHasselby,1.5,39,1,Lägenhet,null,[Riksby],1590000,390000,1980000,1927,BOSTHLM,306.87930423631815,Abrahamsberg
+2014-02-27,Synålsvägen 21,Riksby,GronHasselby,3,60,2,Lägenhet,1943,[Bromma Riksby],2095000,55000,2150000,2886,HusmanHagberg,479.6060921884653,Abrahamsberg
+2014-02-27,Galonvägen 31,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Riksby],1995000,270000,2265000,2519,BOSTHLM,457.3298888198671,Abrahamsberg
+2014-02-27,Barrstigen 22,Riksby,GronHasselby,2,67,null,Lägenhet,null,[Ulvsunda],2420000,0,2420000,2401,Svensk Fastighetsförmedling,395.1907296170401,Abrahamsberg
+2014-02-21,Barrstigen 24,Riksby,GronHasselby,3,81,null,Lägenhet,1957,[Ulvsunda],2960000,540000,3500000,2903,Svensk Fastighetsförmedling,406.9943306302811,Abrahamsberg
+2014-02-20,Barrstigen 22,Riksby,GronHasselby,4,93,null,Lägenhet,1957,[Ulvsunda],3450000,850000,4300000,3333,Svensk Fastighetsförmedling,395.1907296170401,Abrahamsberg
+2014-02-20,Barrstigen 26,Riksby,GronHasselby,2,64,null,Lägenhet,1957,[Ulvsunda],2450000,10000,2460000,2293,Svensk Fastighetsförmedling,417.9006493712243,Abrahamsberg
+2014-02-20,Barrstigen 28,Riksby,GronHasselby,2,63,null,Lägenhet,1957,[Ulvsunda],2160000,140000,2300000,2258,Svensk Fastighetsförmedling,410.99656380455457,Abrahamsberg
+2014-02-20,Kvarnbacksvägen 74,Riksby,GronHasselby,3,71,null,Lägenhet,1946,[Riksby],1950000,-50000,1900000,4227,Svensk Fastighetsförmedling,633.4528702761127,Brommaplan
+2014-02-19,Barrstigen 24,Riksby,GronHasselby,1,46,null,Lägenhet,1957,[Ulvsunda],1980000,80000,2060000,1648,Svensk Fastighetsförmedling,406.9943306302811,Abrahamsberg
+2014-02-19,Barrstigen 28,Riksby,GronHasselby,3,90,null,Lägenhet,1957,[Ulvsunda],2760000,760000,3520000,3225,Svensk Fastighetsförmedling,410.99656380455457,Abrahamsberg
+2014-02-13,Synålsvägen 29,Riksby,GronHasselby,1.5,44,1,Lägenhet,1941,[Bromma],1695000,275000,1970000,2112,Svenska Mäklarhuset,509.17585103280385,Abrahamsberg
+2014-02-13,Dukvägen 27,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],1895000,255000,2150000,2519,Svensk Fastighetsförmedling,286.29886439223617,Abrahamsberg
+2014-02-12,Kvarnbacksvägen 123,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Bromma Riksby],1890000,180000,2070000,2893,Notar,287.54777808209576,Brommaplan
+2014-02-04,Synålsvägen 9,Riksby,GronHasselby,2.5,60,null,Lägenhet,1941,[Bromma Riksby],1990000,140000,2130000,2899,Notar,442.83199780762027,Abrahamsberg
+2014-02-04,Synålsvägen 8,Riksby,GronHasselby,3,75,3,Lägenhet,1941,[Riksby],2695000,405000,3100000,3626,Svenska Mäklarhuset,479.7745238505389,Abrahamsberg
+2014-02-03,Galonvägen 19,Riksby,GronHasselby,2,51,3,Lägenhet,null,[Bromma],1995000,-45000,1950000,2519,Mäklarhuset,390.2158794004262,Abrahamsberg
+2014-01-29,Kvarnbacksvägen 100,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Bromma Riksby],1395000,350000,1745000,2282,Notar,472.90674281933394,Brommaplan
+2014-01-27,Stramaljvägen 36,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],1950000,625000,2575000,2519,BOSTHLM,401.7049823965344,Abrahamsberg
+2014-01-26,Mattvägen 7,Riksby,GronHasselby,4,116,null,Lägenhet,2010,[Riksby],5750000,50000,5800000,5921,Fastighetsbyrån,534.6103709101804,Brommaplan
+2014-01-24,Damastvägen 6A,Riksby,GronHasselby,2,41,1,Lägenhet,1942,[Brommaplan],1695000,205000,1900000,2282,Länsförsäkringar Fastighetsförmedling,357.26938771291634,Brommaplan
+2014-01-17,Mattvägen 7,Riksby,GronHasselby,3,72,5,Lägenhet,null,[Riksby],2995000,205000,3200000,4353,Svensk Fastighetsförmedling,534.6103709101804,Brommaplan
+2014-01-16,Kvarnbacksvägen 82,Riksby,GronHasselby,2,58,null,Lägenhet,1945,[Riksby],1795000,0,1795000,3454,Fastighetsbyrån,590.1847448256772,Brommaplan
+2014-01-16,Lövåsvägen 25,Riksby,GronHasselby,6,149,null,Villa,1920,[Bromma],7995000,405000,8400000,null,Erik Olsson Fastighetsförmedling,353.86966124262545,Stora mossen
+2014-01-16,Mattvägen 5,Riksby,GronHasselby,3,72,null,Lägenhet,2010,[Riksby],2795000,145000,2940000,4440,Fastighetsbyrån,497.46010519358185,Brommaplan
+2014-01-10,Kvarnbacksvägen 127,Riksby,GronHasselby,2,53.5,null,Lägenhet,1942,[Bromma Riksby],1795000,165000,1960000,2893,Notar,263.18928148447594,Brommaplan
+2014-01-09,Stramaljvägen 7,Riksby,GronHasselby,1,39,null,Lägenhet,1938,[Bromma Riksby],1590000,240000,1830000,1927,Notar,253.79244957424447,Abrahamsberg
+2013-12-14,Damastvägen 7,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Riksby],1995000,0,1995000,2893,BOSTHLM,333.79698739694794,Brommaplan
+2013-12-12,Synålsvägen 19,Riksby,GronHasselby,1.5,44,null,Lägenhet,1943,[Riksby],1650000,-20000,1630000,2112,Svensk Fastighetsförmedling,464.1268066822234,Abrahamsberg
+2013-12-03,Kvarnbacksvägen 107,Riksby,GronHasselby,2,53.5,1,Lägenhet,1942,[Bromma Riksby],1495000,365000,1860000,2893,MäklarMäster,394.430664494407,Brommaplan
+2013-11-29,Galonvägen 7,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],1975000,225000,2200000,2519,Svensk Fastighetsförmedling,355.04389991514773,Abrahamsberg
+2013-11-22,Drottningholmsvägen 382,Riksby,GronHasselby,3,68,null,Lägenhet,1942,[Riksby],2395000,-145000,2250000,3358,Fastighetsbyrån,382.3552836470086,Brommaplan
+2013-11-21,Vadmalsvägen 15,Riksby,GronHasselby,3,65.5,null,Lägenhet,1942,[Riksby],2195000,105000,2300000,3454,Fastighetsbyrån,283.4390183601232,Brommaplan
+2013-11-20,Synålsvägen 18,Riksby,GronHasselby,2.5,60,null,Lägenhet,1943,[Riksby],1890000,230000,2120000,2864,Svensk Fastighetsförmedling,510.84619747342606,Abrahamsberg
+2013-11-20,Stramaljvägen 23,Riksby,GronHasselby,2.5,51,2,Lägenhet,1942,[Riksby],1700000,230000,1930000,2519,Svensk Fastighetsförmedling,333.47544291417336,Abrahamsberg
+2013-11-18,Vadmalsvägen 15,Riksby,GronHasselby,3,65.5,null,Lägenhet,1942,[Riksby],2495000,0,2495000,3455,BOSTHLM,283.4390183601232,Brommaplan
+2013-11-16,Dukvägen 10,Riksby,GronHasselby,3,64,null,Lägenhet,1942,[Riksby],2295000,-45000,2250000,3156,Fastighetsbyrån,229.9507774294332,Abrahamsberg
+2013-11-14,Damastvägen 4B,Riksby,GronHasselby,2,41,3,Lägenhet,null,[Bromma],1675000,150000,1825000,2282,Bjurfors,352.91335032154785,Brommaplan
+2013-11-06,Vadmalsvägen 24,Riksby,GronHasselby,2,53.5,1,Lägenhet,1942,[Bromma],1850000,250000,2100000,2893,Mäklarhuset,245.47520451696425,Brommaplan
+2013-11-02,Spetsvägen 33,Riksby,GronHasselby,3,78,null,Lägenhet,1945,[Riksby],2550000,80000,2630000,4645,ERA,655.3903454282735,Brommaplan
+2013-10-31,Kvarnbacksvägen 121,Riksby,GronHasselby,2,53.5,null,Lägenhet,1942,[Brommaplan],1995000,165000,2160000,2891,SthlmFast,280.4237255668457,Brommaplan
+2013-10-31,Synålsvägen 25,Riksby,GronHasselby,2,60,null,Lägenhet,null,[Bromma],1700000,300000,2000000,2864,Sight,494.45024605102617,Abrahamsberg
+2013-10-25,Fältmarskalksvägen 24A,Riksby,GronHasselby,2,43,1,Lägenhet,1920,[Bromma],1900000,20000,1920000,3172,Mäklarhuset,422.2144394322278,Stora mossen
+2013-10-19,Kvarnbacksvägen 61,Riksby,GronHasselby,3,73,null,Lägenhet,1943,[Riksby],2750000,-75000,2675000,3528,Fastighetsbyrån,567.6007151695061,Abrahamsberg
+2013-10-15,Kvarnbacksvägen 104,Riksby,GronHasselby,2,41,null,Lägenhet,1942,[Bromma],1495000,155000,1650000,2282,Erik Olsson Fastighetsförmedling,451.58293168128756,Brommaplan
+2013-10-11,Mattvägen 7,Riksby,GronHasselby,3,72,5,Lägenhet,null,[Riksby],2995000,0,2995000,4353,Svensk Fastighetsförmedling,534.6103709101804,Brommaplan
+2013-09-26,Riksbyvägen 10,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Riksby],1995000,115000,2110000,2519,Svenska Mäklarhuset,394.1499036215693,Brommaplan
+2013-09-26,Stramaljvägen 3,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],1945000,0,1945000,2519,Svensk Fastighetsförmedling,291.88705940363985,Abrahamsberg
+2013-09-22,Spetsvägen 27,Riksby,GronHasselby,3.5,78,null,Lägenhet,1946,[Riksby],2395000,115000,2510000,4525,Svenska Mäklarhuset,627.8124412986318,Brommaplan
+2013-09-22,Dukvägen 30,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Bromma],1995000,245000,2240000,2519,Svenska Mäklarhuset,329.86501503902775,Abrahamsberg
+2013-09-20,Barrstigen 22,Riksby,GronHasselby,2,63,null,Lägenhet,1957,[Riksby],2395000,135000,2530000,2258,Fastighetsbyrån,395.1907296170401,Abrahamsberg
+2013-09-18,Damastvägen 8,Riksby,GronHasselby,2,41,null,Lägenhet,1942,[Riksby],1545000,265000,1810000,2282,Svensk Fastighetsförmedling,367.30943768151286,Brommaplan
+2013-09-16,Vadmalsvägen 23,Riksby,GronHasselby,3,53.5,null,Lägenhet,1942,[Bromma Riksby],1950000,0,1950000,2893,Notar,235.6013311628469,Brommaplan
+2013-09-10,Barrstigen 26,Riksby,GronHasselby,3,77,null,Lägenhet,1957,[Bromma Ulvsunda],2795000,100000,2895000,2759,HusmanHagberg,417.9006493712243,Abrahamsberg
+2013-09-05,Smedjevägen 2A,Riksby,GronHasselby,1,35,1,Lägenhet,1913,[Ulvsunda],1195000,330000,1525000,2581,Länsförsäkringar Fastighetsförmedling,598.4577578191447,Stora mossen
+2013-09-05,Synålsvägen 23,Riksby,GronHasselby,2,60,null,Lägenhet,1943,[Riksby],2000000,330000,2330000,2814,Svensk Fastighetsförmedling,487.46684217917175,Abrahamsberg
+2013-09-01,Lillsjönäsvägen 19,Riksby,GronHasselby,7,206,null,Villa,1926,[Ulvsunda],6300000,1050000,7350000,null,Svensk Fastighetsförmedling,183.35039363818592,Stora mossen
+2013-08-29,Dukvägen 15,Riksby,GronHasselby,3,70,null,Lägenhet,1942,[Riksby],2595000,180000,2775000,3358,Svensk Fastighetsförmedling,196.9542209862454,Abrahamsberg
+2013-08-28,Galonvägen 21,Riksby,GronHasselby,2,51,1,Lägenhet,null,[Bromma],1995000,205000,2200000,2519,Mäklarhuset,400.12471486847795,Abrahamsberg
+2013-08-28,Spångavägen 16,Riksby,GronHasselby,2,56,0.5,Lägenhet,1940,[Bromma],1675000,0,1675000,3329,Svenska Mäklarhuset,305.983277618632,Brommaplan
+2013-08-21,Mattvägen 7,Riksby,GronHasselby,3,73,null,Lägenhet,2010,[Riksby],2995000,255000,3250000,4353,Fastighetsbyrån,534.6103709101804,Brommaplan
+2013-08-16,Vadmalsvägen 24,Riksby,GronHasselby,2,53.5,null,Lägenhet,1942,[Bromma Riksby],1850000,30000,1880000,2893,HusmanHagberg,245.47520451696425,Brommaplan
+2013-08-06,Vadmalsvägen 19,Riksby,GronHasselby,3,65.5,2,Lägenhet,1942,[Bromma],2500000,-105000,2395000,3454,Mäklarhuset,259.18536812796026,Brommaplan
+2013-07-19,Drottningholmsvägen 360,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Bromma Riksby],1750000,160000,1910000,2519,Notar,297.742412679303,Abrahamsberg
+2013-07-17,Galonvägen 21,Riksby,GronHasselby,2,51,2,Lägenhet,null,[Bromma],1950000,260000,2210000,2519,Mäklarhuset,400.12471486847795,Abrahamsberg
+2013-07-02,Kvarnbacksvägen 66,Riksby,GronHasselby,2,59,null,Lägenhet,1945,[Riksby],1850000,0,1850000,3513,Fastighetsbyrån,631.5206249827863,Abrahamsberg
+2013-06-28,Galonvägen 19,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Bromma Riksby],1850000,105000,1955000,2519,Mäklarringen,390.2158794004262,Abrahamsberg
+2013-06-25,Kvarnbacksvägen 68,Riksby,GronHasselby,2,59,2,Lägenhet,1946,[Riksby],1875000,45000,1920000,3513,Svensk Fastighetsförmedling,631.4195032878082,Abrahamsberg
+2013-06-19,Dukvägen 45,Riksby,GronHasselby,2.5,51,null,Lägenhet,1942,[Riksby],1795000,105000,1900000,2519,Fastighetsbyrån,432.45623702415537,Abrahamsberg
+2013-06-16,Dukvägen 27,Riksby,GronHasselby,2,51,1.5,Lägenhet,null,[Bromma],1850000,135000,1985000,2519,Mäklarhuset,286.29886439223617,Abrahamsberg
+2013-06-13,Vadmalsvägen 27,Riksby,GronHasselby,3,65.5,null,Lägenhet,1942,[Bromma Riksby],2095000,140000,2235000,3454,Notar,216.50506326610355,Brommaplan
+2013-06-04,Kvarnbacksvägen 119,Riksby,GronHasselby,2,53.5,null,Lägenhet,1942,[Bromma Riksby],1895000,0,1895000,2893,Notar,314.13694926873205,Brommaplan
+2013-05-30,Mattvägen 5,Riksby,GronHasselby,3,72,2,Lägenhet,null,[Riksby],2695000,400000,3095000,4353,Svensk Fastighetsförmedling,497.46010519358185,Brommaplan
+2013-05-30,Stramaljvägen 16,Riksby,GronHasselby,3,51,null,Lägenhet,1938,[Riksby],1895000,115000,2010000,2519,Länsförsäkringar Fastighetsförmedling,330.6198492055778,Abrahamsberg
+2013-05-29,Drottningholmsvägen 382,Riksby,GronHasselby,1,39,null,Lägenhet,null,[Bromma],1495000,120000,1615000,1927,BOSTHLM,382.3552836470086,Brommaplan
+2013-05-24,Spetsvägen 13,Riksby,GronHasselby,2,58,2,Lägenhet,1946,[Riksby],1490000,260000,1750000,3454,Svensk Fastighetsförmedling,605.0942245964559,Brommaplan
+2013-05-15,Galonvägen 21,Riksby,GronHasselby,2,51,2,Lägenhet,1938,[Bromma Riksby],1895000,315000,2210000,2519,Fantastic Frank Fastighetsmäkleri,400.12471486847795,Abrahamsberg
+2013-05-07,Vadmalsvägen 3,Riksby,GronHasselby,1.5,41,null,Lägenhet,1942,[Riksby],1495000,215000,1710000,2282,Fastighetsbyrån,358.16913404222964,Brommaplan
+2013-05-03,Galonvägen 44,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Bromma],1695000,70000,1765000,2282,Fantastic Frank Fastighetsmäkleri,439.45361899112146,Brommaplan
+2013-04-18,Kvarnbacksvägen 66,Riksby,GronHasselby,2.5,59,2,Lägenhet,null,[Bromma],1995000,55000,2050000,3512,BOSTHLM,631.5206249827863,Abrahamsberg
+2013-04-17,Synålsvägen 11,Riksby,GronHasselby,3,75,null,Lägenhet,1943,[Riksby],2495000,255000,2750000,3520,Svensk Fastighetsförmedling,452.424550937085,Abrahamsberg
+2013-04-10,Dukvägen 45,Riksby,GronHasselby,2,51,null,Lägenhet,1938,[Bromma Riksby],1500000,215000,1715000,2519,Notar,432.45623702415537,Abrahamsberg
+2013-04-10,Dukvägen 29,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],1795000,230000,2025000,2519,Fastighetsbyrån,298.2755984124219,Abrahamsberg
+2013-04-09,Dukvägen 10,Riksby,GronHasselby,1.5,39,null,Lägenhet,1942,[Riksby],1595000,195000,1790000,1927,Fastighetsbyrån,229.9507774294332,Abrahamsberg
+2013-03-29,Spetsvägen 12,Riksby,GronHasselby,2.5,61,null,Lägenhet,1945,[Riksby],1850000,0,1850000,3633,Fastighetsbyrån,700.836473054358,Brommaplan
+2013-03-28,Stramaljvägen 16,Riksby,GronHasselby,2,51,2,Lägenhet,1942,[Riksby],1695000,205000,1900000,2519,Svenska Mäklarhuset,330.6198492055778,Abrahamsberg
+2013-03-28,Kvarnbacksvägen 55,Riksby,GronHasselby,3,73,null,Lägenhet,1943,[Riksby],2495000,315000,2810000,3411,Fastighetsbyrån,568.8925432413822,Abrahamsberg
+2013-03-28,Kvarnbacksvägen 104,Riksby,GronHasselby,2,41,3,Lägenhet,1942,[Riksby],1495000,55000,1550000,2282,Länsförsäkringar Fastighetsförmedling,451.58293168128756,Brommaplan
+2013-03-27,Kvarnbacksvägen 68,Riksby,GronHasselby,2,59,2,Lägenhet,1946,[Riksby],1300000,350000,1650000,3513,Svensk Fastighetsförmedling,631.4195032878082,Abrahamsberg
+2013-03-27,Stramaljvägen 1,Riksby,GronHasselby,1.5,39,null,Lägenhet,1942,[Riksby],1595000,100000,1695000,1927,Fastighetsbyrån,226.3817752717806,Abrahamsberg
+2013-03-26,Spetsvägen 14,Riksby,GronHasselby,2.5,61,1,Lägenhet,null,[Bromma],2250000,-75000,2175000,3633,BOSTHLM,710.4111467045831,Abrahamsberg
+2013-03-22,Vadmalsvägen 13,Riksby,GronHasselby,2,53.5,null,Lägenhet,1942,[Riksby],1495000,90000,1585000,2893,Svensk Fastighetsförmedling,294.7750408066719,Brommaplan
+2013-03-14,Stramaljvägen 25,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],1895000,105000,2000000,2519,Fastighetsbyrån,346.2947878851638,Abrahamsberg
+2013-03-13,Galonvägen 4,Riksby,GronHasselby,3,75,null,Lägenhet,1943,[Riksby],2495000,245000,2740000,3504,Fastighetsbyrån,340.34126975507917,Abrahamsberg
+2013-03-09,Dukvägen 34,Riksby,GronHasselby,2,51,1,Lägenhet,1942,[Bromma],1795000,-10000,1785000,2519,Mäklarhuset,399.26776158366226,Abrahamsberg
+2013-02-28,Synålsvägen 16,Riksby,GronHasselby,2,60,null,Lägenhet,1943,[Riksby],1800000,100000,1900000,2814,Svensk Fastighetsförmedling,503.8703046676879,Abrahamsberg
+2013-02-28,Galonvägen 44,Riksby,GronHasselby,2,41,null,Lägenhet,1942,[Bromma Riksby],1670000,0,1670000,2282,Notar,439.45361899112146,Brommaplan
+2013-02-28,Stramaljvägen 27,Riksby,GronHasselby,1.5,39,null,Lägenhet,1938,[Bromma Riksby],1640000,0,1640000,1927,Notar,357.16425970380277,Abrahamsberg
+2013-02-26,Kvarnbacksvägen 125,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Riksby],1795000,145000,1940000,2893,Svenska Mäklarhuset,255.43565294351805,Brommaplan
+2013-02-25,Dukvägen 17,Riksby,GronHasselby,2,51,2,Lägenhet,null,[Bromma],1795000,-95000,1700000,2519,Erik Olsson Fastighetsförmedling,216.25475032811806,Abrahamsberg
+2013-02-21,Drottningholmsvägen 382,Riksby,GronHasselby,1.5,39,null,Lägenhet,1938,[Bromma Riksby],1400000,10000,1410000,1927,Notar,382.3552836470086,Brommaplan
+2013-02-21,Galonvägen 29,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Riksby],1825000,55000,1880000,2519,Svensk Fastighetsförmedling,448.34092814022046,Abrahamsberg
+2013-02-21,Damastvägen 7,Riksby,GronHasselby,2,53.5,3,Lägenhet,1942,[Riksby],1850000,-50000,1800000,2893,Svensk Fastighetsförmedling,333.79698739694794,Brommaplan
+2013-02-20,Dukvägen 47,Riksby,GronHasselby,3,68,null,Lägenhet,1942,[Bromma Riksby],2490000,0,2490000,3358,Notar,432.07985369338303,Brommaplan
+2013-02-14,Synålsvägen 3,Riksby,GronHasselby,1,44,null,Lägenhet,null,[Bromma Riksby],1595000,75000,1670000,2076,SkandiaMäklarna,422.53611789971575,Abrahamsberg
+2013-02-14,Kvarnbacksvägen 100,Riksby,GronHasselby,2,41,null,Lägenhet,1942,[Riksby],1495000,115000,1610000,2282,Fastighetsbyrån,472.90674281933394,Brommaplan
+2013-02-04,Stramaljvägen 21,Riksby,GronHasselby,2,51,3,Lägenhet,1942,[Riksby],1795000,55000,1850000,2519,Svenska Mäklarhuset,323.33572043247653,Abrahamsberg
+2013-01-29,Stramaljvägen 14,Riksby,GronHasselby,2,51.5,null,Lägenhet,1942,[Bromma Riksby],1775000,-25000,1750000,2519,SkandiaMäklarna,321.50890465414835,Abrahamsberg
+2013-01-23,Kvarnbacksvägen 68,Riksby,GronHasselby,2.5,63,null,Lägenhet,1947,[Riksby],1895000,80000,1975000,2680,Fastighetsbyrån,631.4195032878082,Abrahamsberg
+2013-01-23,Kvarnbacksvägen 123,Riksby,GronHasselby,2,53.5,null,Lägenhet,1942,[Bromma Riksby],1850000,20000,1870000,2893,Notar,287.54777808209576,Brommaplan
+2013-01-19,Smedjevägen 3-25,Riksby,GronHasselby,3,77,null,Lägenhet,1994,[Riksby],2895000,-95000,2800000,3575,Fastighetsbyrån,508.4154856052333,Stora mossen
+2013-01-18,Stramaljvägen 13,Riksby,GronHasselby,1.5,39,null,Lägenhet,1942,[Riksby],1595000,-45000,1550000,1927,Fastighetsbyrån,276.1804617914159,Abrahamsberg
+2013-01-16,Barrstigen 24,Riksby,GronHasselby,1,26,null,Lägenhet,1957,[Ulvsunda],1200000,370000,1570000,932,Svensk Fastighetsförmedling,406.9943306302811,Abrahamsberg
+2013-01-16,Galonvägen 46,Riksby,GronHasselby,1,41,null,Lägenhet,1942,[Bromma Riksby],1550000,180000,1730000,2282,Notar,444.79561290595876,Brommaplan
+2013-01-12,Kvarnbacksvägen 85,Riksby,GronHasselby,3,73,3,Lägenhet,1941,[Riksby],2495000,0,2495000,3425,Svenska Mäklarhuset,547.5563489857293,Brommaplan
+2013-01-11,Dukvägen 39,Riksby,GronHasselby,3,69,null,Lägenhet,1942,[Riksby],2195000,0,2195000,3358,Svensk Fastighetsförmedling,383.1739790832827,Abrahamsberg
+2013-01-09,Spetsvägen 14,Riksby,GronHasselby,2,61,null,Lägenhet,1945,[Bromma Riksby],2195000,5000,2200000,2595,Notar,710.4111467045831,Abrahamsberg
+2012-12-13,Vadmalsvägen 15,Riksby,GronHasselby,3,65.5,null,Lägenhet,1942,[Riksby],1800000,10000,1810000,3455,Fastighetsbyrån,283.4390183601232,Brommaplan
+2012-12-12,Fältmarskalksvägen 30A,Riksby,GronHasselby,1.5,43,null,Lägenhet,1912,[Riksby],1495000,5000,1500000,3064,Länsförsäkringar Fastighetsförmedling,462.6985144472882,Stora mossen
+2012-12-10,Galonvägen 14,Riksby,GronHasselby,2,60,1,Lägenhet,null,[Bromma],1995000,-195000,1800000,2781,Erik Olsson Fastighetsförmedling,415.15719539996894,Abrahamsberg
+2012-12-05,Dukvägen 17,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],1850000,80000,1930000,2519,Svensk Fastighetsförmedling,216.25475032811806,Abrahamsberg
+2012-11-30,Kvarnbacksvägen 81,Riksby,GronHasselby,3,73,null,Lägenhet,1943,[Riksby],2395000,55000,2450000,3386,Fastighetsbyrån,576.9836030758639,Abrahamsberg
+2012-11-30,Riksbyvägen 21,Riksby,GronHasselby,3,65.5,null,Lägenhet,1942,[Riksby],2195000,0,2195000,3454,Svensk Fastighetsförmedling,400.69005129702145,Brommaplan
+2012-11-22,Galonvägen 1,Riksby,GronHasselby,2,51,null,Lägenhet,1938,[Bromma Riksby],1690000,0,1690000,2519,Notar,323.288648261662,Abrahamsberg
+2012-11-16,Vadmalsvägen 15,Riksby,GronHasselby,3,65.5,null,Lägenhet,1942,[Riksby],2100000,0,2100000,3455,Fastighetsbyrån,283.4390183601232,Brommaplan
+2012-11-15,Synålsvägen 9,Riksby,GronHasselby,2.5,60,null,Lägenhet,1944,[Riksby],1795000,135000,1930000,2781,Fastighetsbyrån,442.83199780762027,Abrahamsberg
+2012-11-07,Dukvägen 16,Riksby,GronHasselby,1,39,null,Lägenhet,1942,[Riksby],1450000,160000,1610000,1927,Svensk Fastighetsförmedling,254.91657728174138,Abrahamsberg
+2012-11-07,Kvarnbacksvägen 107,Riksby,GronHasselby,2.5,53.5,2,Lägenhet,1942,[Riksby],1650000,0,1650000,2893,Länsförsäkringar Fastighetsförmedling,394.430664494407,Brommaplan
+2012-11-07,Kvarnbacksvägen 107,Riksby,GronHasselby,3,53.5,2,Lägenhet,1942,[Riksby],1650000,0,1650000,2893,Länsförsäkringar Fastighetsförmedling,394.430664494407,Brommaplan
+2012-11-07,Kvarnbacksvägen 107,Riksby,GronHasselby,2,53.5,2,Lägenhet,1942,[Riksby],1650000,0,1650000,2893,Länsförsäkringar Fastighetsförmedling,394.430664494407,Brommaplan
+2012-11-02,Dukvägen 42,Riksby,GronHasselby,2,51,1,Lägenhet,1946,[Bromma Riksby],1795000,125000,1920000,2519,Svenska Mäklarhuset,449.67386620507034,Abrahamsberg
+2012-10-30,Galonvägen 46,Riksby,GronHasselby,2,41,null,Lägenhet,1942,[Riksby],1550000,115000,1665000,2282,Fastighetsbyrån,444.79561290595876,Brommaplan
+2012-10-29,Stramaljvägen 17,Riksby,GronHasselby,2,51,null,Lägenhet,1938,[Bromma Riksby],1895000,-15000,1880000,2519,Notar,305.20938713546093,Abrahamsberg
+2012-10-28,Dukvägen 21,Riksby,GronHasselby,3,70,3,Lägenhet,1942,[Riksby],2500000,30000,2530000,3358,Svensk Fastighetsförmedling,243.7954234598643,Abrahamsberg
+2012-10-27,Fältmarskalksvägen 28B,Riksby,GronHasselby,2,43,null,Lägenhet,1912,[Riksby],1495000,155000,1650000,3064,Länsförsäkringar Fastighetsförmedling,456.4632387269018,Stora mossen
+2012-10-24,Stramaljvägen 13,Riksby,GronHasselby,1.5,39,null,Lägenhet,1942,[Riksby],1495000,185000,1680000,1927,Fastighetsbyrån,276.1804617914159,Abrahamsberg
+2012-10-20,Dukvägen 47,Riksby,GronHasselby,3,68,null,Lägenhet,1942,[Riksby],2395000,195000,2590000,3358,Svensk Fastighetsförmedling,432.07985369338303,Brommaplan
+2012-10-12,Kvarnbacksvägen 83,Riksby,GronHasselby,3,73,null,Lägenhet,1944,[Riksby],2195000,55000,2250000,3411,Fastighetsbyrån,584.3827757382577,Brommaplan
+2012-10-09,Synålsvägen 3,Riksby,GronHasselby,1.5,44,null,Lägenhet,1944,[Riksby],1495000,205000,1700000,2051,Fastighetsbyrån,422.53611789971575,Abrahamsberg
+2012-10-07,Stramaljvägen 16,Riksby,GronHasselby,2,51,null,Lägenhet,1942,[Riksby],1595000,115000,1710000,2519,Fastighetsbyrån,330.6198492055778,Abrahamsberg
+2012-10-05,Synålsvägen 20,Riksby,GronHasselby,3,75,3,Lägenhet,1944,[Riksby],2295000,5000,2300000,3520,Länsförsäkringar Fastighetsförmedling,514.118326934417,Abrahamsberg
+2012-09-25,Kvarnbacksvägen 68,Riksby,GronHasselby,2.5,59,null,Lägenhet,1947,[Riksby],1650000,50000,1700000,2363,Fastighetsbyrån,631.4195032878082,Abrahamsberg
+2012-09-13,Galonvägen 41,Riksby,GronHasselby,1,39,null,Lägenhet,1943,[Riksby],1450000,80000,1530000,1927,Svensk Fastighetsförmedling,416.24447591682383,Brommaplan
+2012-09-13,Dukvägen 44,Riksby,GronHasselby,2,51,null,Lägenhet,1946,[Riksby],1790000,-90000,1700000,2519,Svensk Fastighetsförmedling,463.29888914143766,Abrahamsberg
+2012-09-08,Spetsvägen 15,Riksby,GronHasselby,2.5,58,null,Lägenhet,1947,[Riksby],1895000,-95000,1800000,2323,Fastighetsbyrån,591.0611312732401,Brommaplan

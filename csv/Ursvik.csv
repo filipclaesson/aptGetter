@@ -1,0 +1,322 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-20,Oxenstiernas Allé 35,Ursvik,BlaSolna,4,92.3,4,Lägenhet,2013,[Ursvik],3995000,405000,4400000,4995,Fastighetsbyrån,1053.3621208226566,Rinkeby
+2016-06-17,Skattetorpsvägen 10,Ursvik,BlaSolna,4,116,null,Parhus,2008,[Ursvik],5895000,115000,6010000,null,Fastighetsbyrån,1185.736093106888,Rissne
+2016-06-17,Ursviks Allé 35,Ursvik,BlaSolna,3,59,2,Lägenhet,2015,[Ursvik],2595000,105000,2700000,3489,Fastighetsbyrån,969.7543512345998,Rissne
+2016-06-16,Stallgatan 22,Ursvik,BlaSolna,2,57,3,Lägenhet,2015,[Ursvik],2195000,405000,2600000,3394,Fastighetsbyrån,931.1645922537738,Rissne
+2016-06-16,Ursviks Allé 41,Ursvik,BlaSolna,3,62,3,Lägenhet,2015,[Rissne/Ursvik],2795000,55000,2850000,3632,Fastighetsbyrån,969.7543512345998,Rissne
+2016-06-15,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,55,2,Lägenhet,2013,[Ursvik],2195000,355000,2550000,2758,Notar,769.6700255292325,Rissne
+2016-06-04,Ursviks Allé 41,Ursvik,BlaSolna,3,62,3,Lägenhet,2015,[Ursvik],2995000,5000,3000000,3713,Fastighetsbyrån,969.7543512345998,Rissne
+2016-06-03,Ursviks Allé 6,Ursvik,BlaSolna,6,159,null,Villa,2012,[Ursvik],6495000,305000,6800000,null,Notar,992.0458284517676,Rissne
+2016-06-02,Gamla Enköpingsvägen 176,Ursvik,BlaSolna,2,44,2,Lägenhet,2016,[Ursvik],2495000,-65000,2430000,2848,Fastighetsbyrån,795.9771602240736,Rissne
+2016-06-01,Marieborgsgatan 2,Ursvik,BlaSolna,4,81,null,Lägenhet,2012,[Ursvik],2795000,505000,3300000,4025,Notar,1062.694863397441,Hallonbergen
+2016-05-27,Stallgatan 13,Ursvik,BlaSolna,3,65,3,Lägenhet,2016,[Ursvik],2995000,5000,3000000,3848,Notar,832.3214419679776,Rissne
+2016-05-25,Skrivargatan 31,Ursvik,BlaSolna,1.5,35,4,Lägenhet,2016,[Ursvik],1895000,205000,2100000,2339,Notar,862.8382629083341,Rissne
+2016-05-23,Milstensvägen 50,Ursvik,BlaSolna,4,80,2,Lägenhet,2013,[Ursvik],3250000,-150000,3100000,4078,Notar,1070.8119102683925,Hallonbergen
+2016-05-20,Skördegatan 4,Ursvik,BlaSolna,2,52.2,null,Lägenhet,2013,[Ursvik],1995000,305000,2300000,3195,Notar,1001.4305015592115,Rinkeby
+2016-05-19,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,55,1,Lägenhet,2013,[Ursvik],2695000,-95000,2600000,2728,Notar,769.6700255292325,Rissne
+2016-05-17,Gamla Enköpingsvägen 178,Ursvik,BlaSolna,2,44,6,Lägenhet,2016,[Ursvik],2650000,0,2650000,2848,Notar,805.6119782163705,Rissne
+2016-05-17,Oxenstiernas Allé 17,Ursvik,BlaSolna,1.5,36,3,Lägenhet,2013,[Ursvik],2300000,0,2300000,2127,Notar,849.6019508688132,Rissne
+2016-05-14,Egnahemsvägen 30,Ursvik,BlaSolna,6,166,null,Villa,1904,[Ursvik],8795000,755000,9550000,null,Svensk Fastighetsförmedling,709.4514126376847,Hallonbergen
+2016-05-10,Oxenstiernas Allé 10,Ursvik,BlaSolna,2,46,null,Lägenhet,2012,[Stora Ursvik],2395000,0,2395000,2940,Mäklarringen,804.2218017579397,Rissne
+2016-05-09,Stallgatan 22,Ursvik,BlaSolna,3,75,3,Lägenhet,2015,[Ursvik],3135000,265000,3400000,4250,Hemverket,931.1645922537738,Rissne
+2016-05-06,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,1.5,42,6,Lägenhet,2013,[Ursvik],2095000,315000,2410000,2297,Notar,769.6700255292325,Rissne
+2016-05-06,Milstensvägen 27,Ursvik,BlaSolna,3,72,4,Lägenhet,2012,[Ursvik],2995000,135000,3130000,3578,Länsförsäkringar Fastighetsförmedling,1051.070698276386,Hallonbergen
+2016-05-05,Forskargränd 20,Ursvik,BlaSolna,5,153,null,Lägenhet,2009,[Rissne/Ursvik],5495000,355000,5850000,6462,SkandiaMäklarna,1052.8780874195156,Rissne
+2016-05-05,Milstensvägen 28,Ursvik,BlaSolna,5,137,null,Radhus,2007,[Ursvik],5995000,575000,6570000,null,Svensk Fastighetsförmedling,939.9453699095099,Hallonbergen
+2016-04-29,Milstensvägen 15,Ursvik,BlaSolna,4,99,3,Lägenhet,2007,[Ursvik],3695000,455000,4150000,5273,Fastighetsbyrån,1004.9763853454688,Hallonbergen
+2016-04-29,Oxenstiernas Allé 11,Ursvik,BlaSolna,2,47,4,Lägenhet,2013,[Ursvik],2195000,605000,2800000,2519,Notar,793.6000862469105,Rissne
+2016-04-28,Skrivargatan 31,Ursvik,BlaSolna,1,35,3,Lägenhet,2016,[Rissne/Ursvik],1995000,0,1995000,2420,Svensk Fastighetsförmedling,862.8382629083341,Rissne
+2016-04-28,Oxenstiernas Allé 18,Ursvik,BlaSolna,2,54.5,2,Lägenhet,2015,[Ursvik],2495000,15000,2510000,3009,MOHV,791.551789144529,Rissne
+2016-04-26,Oxenstiernas Allé 18,Ursvik,BlaSolna,2,42.5,1,Lägenhet,2015,[Ursvik],2400000,-150000,2250000,2460,Notar,791.551789144529,Rissne
+2016-04-25,Stallgatan 13,Ursvik,BlaSolna,2,46,4,Lägenhet,2016,[Rissne/Ursvik],2495000,5000,2500000,2944,Erik Olsson Fastighetsförmedling,832.3214419679776,Rissne
+2016-04-25,Oxenstiernas Allé 22,Ursvik,BlaSolna,4,105,4,Lägenhet,2016,[Stora Ursvik],4495000,100000,4595000,5861,Mäklarringen,791.551789144529,Rissne
+2016-04-24,Oxenstiernas Allé 21,Ursvik,BlaSolna,2,38,null,Lägenhet,null,[Ursvik],1975000,225000,2200000,2541,HusmanHagberg,912.2148227967455,Rissne
+2016-04-22,Forskargränd 20,Ursvik,BlaSolna,3,91,null,Lägenhet,2009,[Rissne/Ursvik],3595000,335000,3930000,4401,SkandiaMäklarna,1052.8780874195156,Rissne
+2016-04-22,Stallgatan 13,Ursvik,BlaSolna,3,65,2,Lägenhet,null,[Ursvik],3095000,-45000,3050000,3849,Fastighetsbyrån,832.3214419679776,Rissne
+2016-04-21,Oxentiernas Allé 23,Ursvik,BlaSolna,2,39,3,Lägenhet,2013,[Ursvik],2195000,255000,2450000,2590,Fastighetsbyrån,819.1630480094553,Rissne
+2016-04-20,Gamla Enköpingsvägen 176,Ursvik,BlaSolna,4,77,5,Lägenhet,2016,[Rissne/Ursvik],3400000,100000,3500000,4338,Erik Olsson Fastighetsförmedling,795.9771602240736,Rissne
+2016-04-19,Stallgatan 30,Ursvik,BlaSolna,2,52,null,Lägenhet,2013,[Ursvik],2395000,-45000,2350000,3295,Notar,977.8276829071197,Rinkeby
+2016-04-19,Skördegatan 4,Ursvik,BlaSolna,2,52.2,null,Lägenhet,2013,[Ursvik],2395000,250000,2645000,3195,Notar,1001.4305015592115,Rinkeby
+2016-04-19,Mönstringsvägen 3,Ursvik,BlaSolna,3,81,null,Lägenhet,2013,[Ursvik],2595000,655000,3250000,4895,Notar,1018.1965722731696,Rinkeby
+2016-04-19,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,53.5,4,Lägenhet,2013,[Ursvik],2395000,375000,2770000,2664,Notar,769.6700255292325,Rissne
+2016-04-15,Milstensvägen 27,Ursvik,BlaSolna,3,81,4,Lägenhet,2012,[Ursvik],3395000,225000,3620000,4025,Länsförsäkringar Fastighetsförmedling,1051.070698276386,Hallonbergen
+2016-04-15,Milstensvägen 21,Ursvik,BlaSolna,3,82,2,Lägenhet,2007,[Ursvik],2995000,425000,3420000,4588,Fastighetsbyrån,1041.9589663203117,Hallonbergen
+2016-04-08,Milstensvägen 31,Ursvik,BlaSolna,4,88,4,Lägenhet,2013,[Ursvik],3595000,105000,3700000,4485,Mäklarhuset,1068.9526503582242,Hallonbergen
+2016-04-07,Skrivargatan 28,Ursvik,BlaSolna,3,75,3,Lägenhet,2014,[Ursvik],3195000,0,3195000,4298,Svensk Fastighetsförmedling,871.2343523447969,Rissne
+2016-04-06,Milstensvägen 29,Ursvik,BlaSolna,2,59,2,Lägenhet,2012,[Ursvik],2495000,255000,2750000,2932,Bjurfors,1057.2032538147148,Hallonbergen
+2016-04-02,Gåsörtsvägen 32,Ursvik,BlaSolna,5,151,null,Villa,2012,[Rissne/Ursvik],7250000,0,7250000,null,SkandiaMäklarna,1218.297016664498,Rinkeby
+2016-04-01,Stallgatan 13,Ursvik,BlaSolna,2,52,null,Lägenhet,2016,[Ursvik],2595000,0,2595000,3229,Notar,832.3214419679776,Rissne
+2016-04-01,Ursviksvägen 111B,Ursvik,BlaSolna,1,38,1,Lägenhet,1945,[Lilla Ursvik],1495000,465000,1960000,2595,Notar,573.897756468099,Hallonbergen
+2016-04-01,Grönlingens väg 4,Ursvik,BlaSolna,3,69,3,Lägenhet,2013,[Ursvik],2995000,0,2995000,3707,Notar,1117.7344918395077,Hallonbergen
+2016-04-01,Stallgatan 13,Ursvik,BlaSolna,2,46,1,Lägenhet,null,[Rissne/Ursvik],2295000,105000,2400000,2944,Svenska Mäklarhuset,832.3214419679776,Rissne
+2016-03-31,Forskningsringen 60,Ursvik,BlaSolna,null,null,null,Tomt/Mark,null,[Ursvik],3495000,255000,3750000,null,Jan Stigen AB Fastighetskonsult,932.5438838930214,Rissne
+2016-03-29,Oxenstiernas Allé 23,Ursvik,BlaSolna,2,39,2,Lägenhet,2015,[Ursvik],2095000,265000,2360000,2507,Notar,935.6012804073858,Rissne
+2016-03-24,Oxenstiernas Allé 22,Ursvik,BlaSolna,2,42.5,5,Lägenhet,null,[Ursvik],2395000,70000,2465000,2460,Mäklarringen,791.551789144529,Rissne
+2016-03-18,Oxenstiernas Allé 12,Ursvik,BlaSolna,4,88.5,5,Lägenhet,2012,[Rissne/Ursvik],3595000,355000,3950000,4885,Fastighetsbyrån,821.4078099641924,Rissne
+2016-03-18,Grönlingens väg 4,Ursvik,BlaSolna,1.5,35,3,Lägenhet,2013,[Ursvik],1995000,230000,2225000,1784,Notar,1117.7344918395077,Hallonbergen
+2016-03-18,Skrivargatan 31,Ursvik,BlaSolna,1,35,null,Lägenhet,2016,[Ursvik],1995000,30000,2025000,2420,Notar,862.8382629083341,Rissne
+2016-03-18,Skrivargatan 31,Ursvik,BlaSolna,3,70,3,Lägenhet,2016,[Ursvik],3295000,205000,3500000,4086,Fastighetsbyrån,862.8382629083341,Rissne
+2016-03-17,Oxenstiernas Allé 15,Ursvik,BlaSolna,2,72.5,5,Lägenhet,2014,[Ursvik],2795000,825000,3620000,3257,Fastighetsbyrån,836.4951701245216,Rissne
+2016-03-17,Oxenstiernas Allé 12,Ursvik,BlaSolna,4,78.5,5,Lägenhet,2012,[Rissne/Ursvik],3295000,925000,4220000,4548,SkandiaMäklarna,821.4078099641924,Rissne
+2016-03-16,Forskargränd 24,Ursvik,BlaSolna,3,91,2,Lägenhet,null,[Rissne/Ursvik],3495000,155000,3650000,4401,Svenska Mäklarhuset,790.0435890513331,Rissne
+2016-03-15,Skrivargatan 31,Ursvik,BlaSolna,1,35,2,Lägenhet,2016,[Ursvik],2145000,0,2145000,2420,Stones Fastighetsförmedling,862.8382629083341,Rissne
+2016-03-15,Skrivargatan 31,Ursvik,BlaSolna,2,46,3,Lägenhet,2016,[Ursvik],2595000,-95000,2500000,2944,Fastighetsbyrån,862.8382629083341,Rissne
+2016-03-13,Oxenstiernas Allé 31,Ursvik,BlaSolna,4,92.3,2,Lägenhet,2013,[Ursvik],3850000,0,3850000,4995,Bjurfors,1040.8759233996013,Rinkeby
+2016-03-12,Forskargränd 20,Ursvik,BlaSolna,3,91,1,Lägenhet,2009,[Ursvik],3495000,305000,3800000,4401,Notar,1052.8780874195156,Rissne
+2016-03-12,Oxenstiernas Allé 18,Ursvik,BlaSolna,4,91.5,2,Lägenhet,2015,[Ursvik],3995000,-115000,3880000,4871,Fastighetsbyrån,791.551789144529,Rissne
+2016-03-11,Marieborgsgatan 4,Ursvik,BlaSolna,3,69,1,Lägenhet,null,[Rissne/Ursvik],2795000,255000,3050000,3429,Svenska Mäklarhuset,1054.5273419455991,Hallonbergen
+2016-03-11,Milstensvägen 50,Ursvik,BlaSolna,1.5,35,2,Lägenhet,2013,[Ursvik],1995000,205000,2200000,1784,Notar,1070.8119102683925,Hallonbergen
+2016-03-10,Oxenstiernas Allé 31,Ursvik,BlaSolna,4,92.3,4,Lägenhet,2013,[Ursvik],3895000,405000,4300000,4995,Fastighetsbyrån,1040.8759233996013,Rinkeby
+2016-03-10,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,53.5,2,Lägenhet,null,[Rissne/Ursvik],2495000,280000,2775000,2664,Svenska Mäklarhuset,769.6700255292325,Rissne
+2016-03-09,Marieborgsgatan 35,Ursvik,BlaSolna,4,127,null,Kedjehus,2008,[Ursvik],6295000,505000,6800000,null,Fastighetsbyrån,1232.27376385087,Hallonbergen
+2016-03-04,Stallgatan 30,Ursvik,BlaSolna,2,56,1,Lägenhet,2013,[Ursvik],2495000,255000,2750000,3495,Fastighetsbyrån,977.8276829071197,Rinkeby
+2016-03-03,Oxenstiernas Allé 22,Ursvik,BlaSolna,4,105,4,Lägenhet,2015,[Ursvik],3995000,205000,4200000,5373,Fastighetsbyrån,791.551789144529,Rissne
+2016-03-02,Milstensvägen 27,Ursvik,BlaSolna,5,106,0,Lägenhet,2011,[Ursvik],3595000,705000,4300000,5268,Fastighetsbyrån,1051.070698276386,Hallonbergen
+2016-02-27,Milstensvägen 27,Ursvik,BlaSolna,4,81,3,Lägenhet,2011,[Ursvik],3295000,235000,3530000,4025,Fastighetsbyrån,1051.070698276386,Hallonbergen
+2016-02-26,Gamla Enköpingsvägen 160,Ursvik,BlaSolna,3,77.5,3,Lägenhet,2012,[Ursvik],3295000,205000,3500000,4289,Fastighetsbyrån,771.7403572025834,Rissne
+2016-02-26,Grönlingens väg 4,Ursvik,BlaSolna,1.5,35,2,Lägenhet,2013,[Ursvik],1995000,205000,2200000,1784,Notar,1117.7344918395077,Hallonbergen
+2016-02-24,Milstensvägen 23,Ursvik,BlaSolna,4,99,3,Lägenhet,2007,[Ursvik],4250000,0,4250000,5273,Fastighetsbyrån,1037.9737049938117,Hallonbergen
+2016-02-24,Skrivargatan 31,Ursvik,BlaSolna,2,46,1,Lägenhet,2016,[Ursvik],2495000,35000,2530000,2944,Fastighetsbyrån,862.8382629083341,Rissne
+2016-02-23,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,1.5,41,6,Lägenhet,2013,[Ursvik],1995000,515000,2510000,2226,Notar,769.6700255292325,Rissne
+2016-02-18,Marieborgsgatan 2,Ursvik,BlaSolna,1.5,36,null,Lägenhet,2012,[Ursvik],1895000,105000,2000000,1789,Notar,1062.694863397441,Hallonbergen
+2016-02-13,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,45,5,Lägenhet,2013,[Ursvik],2295000,205000,2500000,2453,Fastighetsbyrån,769.6700255292325,Rissne
+2016-02-10,Milstensvägen 29,Ursvik,BlaSolna,3,72,4,Lägenhet,2011,[Ursvik],3295000,5000,3300000,3578,Fastighetsbyrån,1057.2032538147148,Hallonbergen
+2016-02-10,Oxenstiernas Allé 33,Ursvik,BlaSolna,3,72.1,null,Lägenhet,2013,[Ursvik],2900000,0,2900000,4395,Notar,1045.2885507590734,Rinkeby
+2016-02-10,Marieborgsgatan 6,Ursvik,BlaSolna,4,81,null,Lägenhet,2012,[Ursvik],3395000,405000,3800000,4025,Notar,1086.5488434462711,Hallonbergen
+2016-02-03,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,42,2,Lägenhet,2014,[Ursvik],2195000,50000,2245000,2252,ERA,769.6700255292325,Rissne
+2016-02-02,Forskargränd 20,Ursvik,BlaSolna,2,75,null,Lägenhet,null,[Rissne/Ursvik],2495000,230000,2725000,3943,Svenska Mäklarhuset,1052.8780874195156,Rissne
+2016-02-01,Grönlingens väg 3,Ursvik,BlaSolna,4,81,3,Lägenhet,2011,[Ursvik],3495000,5000,3500000,4025,Fastighetsbyrån,1093.115315229198,Hallonbergen
+2016-01-31,Oxenstiernas Allé 15,Ursvik,BlaSolna,3,81.5,2,Lägenhet,2014,[Ursvik],3395000,355000,3750000,3596,Fastighetsbyrån,836.4951701245216,Rissne
+2016-01-28,Ursviks Allé 2,Ursvik,BlaSolna,7,180,null,Radhus,2012,[Ursvik],6995000,330000,7325000,null,Länsförsäkringar Fastighetsförmedling,995.5073297952536,Rissne
+2016-01-22,Grönlingens väg 5,Ursvik,BlaSolna,4,81,2,Lägenhet,2011,[Ursvik],3395000,225000,3620000,4025,Bjurfors,1115.3248072063886,Hallonbergen
+2016-01-21,Oxenstiernas Allé 21,Ursvik,BlaSolna,2,39,1,Lägenhet,2015,[Ursvik],1995000,395000,2390000,2507,Notar,912.2148227967455,Rissne
+2016-01-20,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,1.5,42,null,Lägenhet,2013,[Ursvik],1995000,365000,2360000,2329,Notar,769.6700255292325,Rissne
+2016-01-19,Skördegatan 4,Ursvik,BlaSolna,2,52.2,null,Lägenhet,2013,[Ursvik],2295000,105000,2400000,3195,Notar,1001.4305015592115,Rinkeby
+2016-01-18,Skördegatan 4,Ursvik,BlaSolna,2,52.2,null,Lägenhet,2013,[Ursvik],2195000,295000,2490000,3195,Notar,1001.4305015592115,Rinkeby
+2016-01-14,Oxenstiernas Allé 20,Ursvik,BlaSolna,4,87,3,Lägenhet,2015,[Ursvik],3990000,0,3990000,4748,Notar,791.551789144529,Rissne
+2016-01-14,Ursviks Allé 41,Ursvik,BlaSolna,2,39,2,Lägenhet,2015,[Ursvik],2195000,195000,2390000,2619,One Fastighetsmäkleri,969.7543512345998,Rissne
+2016-01-13,Sevensvägen 22,Ursvik,BlaSolna,2,57.8,3,Lägenhet,1997,[Ursvik],2295000,405000,2700000,4061,Fastighetsbyrån,633.6575138023263,Hallonbergen
+2016-01-08,Oxenstiernas Allé 12,Ursvik,BlaSolna,2,55,1,Lägenhet,null,[Rissne/Ursvik],2295000,335000,2630000,3283,Svenska Mäklarhuset,821.4078099641924,Rissne
+2015-12-23,Oxenstiernas Allé 22,Ursvik,BlaSolna,2,42.5,3,Lägenhet,2015,[Ursvik],2595000,0,2595000,2460,Fastighetsbyrån,791.551789144529,Rissne
+2015-12-17,Ursviks Allé 35,Ursvik,BlaSolna,2,39,2,Lägenhet,2015,[Ursvik],1995000,315000,2310000,2619,Fastighetsbyrån,969.7543512345998,Rissne
+2015-12-11,Ursviks Allé 35,Ursvik,BlaSolna,3,59,4,Lägenhet,2015,[Ursvik],2695000,305000,3000000,3489,Notar,969.7543512345998,Rissne
+2015-12-11,Oxenstiernas Allé 18,Ursvik,BlaSolna,2,54.5,2,Lägenhet,null,[Ursvik],2650000,0,2650000,3009,Notar,791.551789144529,Rissne
+2015-12-11,Milstensvägen 50,Ursvik,BlaSolna,4,80,3,Lägenhet,2011,[Ursvik],3195000,455000,3650000,4268,Fastighetsbyrån,1070.8119102683925,Hallonbergen
+2015-12-11,Ursviks Allé 35,Ursvik,BlaSolna,2,39,2,Lägenhet,2015,[Ursvik],1995000,355000,2350000,2619,Fastighetsbyrån,969.7543512345998,Rissne
+2015-12-08,Milstensvägen 27,Ursvik,BlaSolna,2,59,3,Lägenhet,null,[Ursvik],2295000,505000,2800000,2932,Fastighetsbyrån,1051.070698276386,Hallonbergen
+2015-12-05,Oxenstiernas Allé 33,Ursvik,BlaSolna,3,77.4,3,Lägenhet,2013,[Ursvik],2995000,455000,3450000,4695,Fastighetsbyrån,1045.2885507590734,Rinkeby
+2015-12-01,Oxenstiernas Allé 13,Ursvik,BlaSolna,1.5,36,4,Lägenhet,null,[Rissne/Ursvik],1895000,335000,2230000,2085,Svenska Mäklarhuset,772.614576812078,Rissne
+2015-11-30,Oxenstiernas Allé 20,Ursvik,BlaSolna,4,87,1,Lägenhet,2015,[Ursvik],3750000,-190000,3560000,4748,Notar,791.551789144529,Rissne
+2015-11-30,Milstensvägen 50,Ursvik,BlaSolna,4,80,3,Lägenhet,2012,[Ursvik],3550000,-150000,3400000,4378,Notar,1070.8119102683925,Hallonbergen
+2015-11-26,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,45,null,Lägenhet,2013,[Ursvik],1995000,235000,2230000,2453,Notar,769.6700255292325,Rissne
+2015-11-21,Skördegatan 4,Ursvik,BlaSolna,4,97,null,Lägenhet,null,[Rissne/Ursvik],3700000,150000,3850000,4995,Svenska Mäklarhuset,1001.4305015592115,Rinkeby
+2015-11-21,Ursviks Allé 41,Ursvik,BlaSolna,2,39,1,Lägenhet,2015,[Ursvik],1995000,255000,2250000,2538,Fastighetsbyrån,969.7543512345998,Rissne
+2015-11-20,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,53.5,4,Lägenhet,2014,[Ursvik],1995000,635000,2630000,2664,Länsförsäkringar Fastighetsförmedling,769.6700255292325,Rissne
+2015-11-16,Oxenstiernas Allé 19,Ursvik,BlaSolna,2,38,null,Lägenhet,2015,[Ursvik],1995000,215000,2210000,2541,Notar,905.2836102880607,Rissne
+2015-11-16,Oxenstiernas Allé 20,Ursvik,BlaSolna,4,87,null,Lägenhet,2016,[Ursvik],3495000,305000,3800000,4748,Notar,791.551789144529,Rissne
+2015-11-14,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,55,5,Lägenhet,2014,[Ursvik],2195000,505000,2700000,2704,Edward & Partners Fastighetsmäklare AB,769.6700255292325,Rissne
+2015-11-13,Oxenstiernas Allé 33,Ursvik,BlaSolna,3,77.4,null,Lägenhet,2013,[Ursvik],2795000,630000,3425000,4695,Notar,1045.2885507590734,Rinkeby
+2015-11-12,Grönlingens väg 3,Ursvik,BlaSolna,4,81,2,Lägenhet,2011,[Ursvik],3195000,305000,3500000,4025,Fastighetsbyrån,1093.115315229198,Hallonbergen
+2015-11-12,Ursviks Allé 29,Ursvik,BlaSolna,2,52,null,Lägenhet,2015,[Ursvik],1995000,225000,2220000,3156,Notar,958.1622233609277,Rissne
+2015-11-12,Skrivargatan 28,Ursvik,BlaSolna,3,75,4,Lägenhet,2014,[Stora Ursvik],3195000,0,3195000,4298,Svensk Fastighetsförmedling,871.2343523447969,Rissne
+2015-11-11,Stallgatan 10,Ursvik,BlaSolna,5,133,null,Radhus,2014,[Ursvik],4695000,505000,5200000,5137,Fastighetsbyrån,794.7888998999763,Rissne
+2015-11-07,Ursviks Allé 35,Ursvik,BlaSolna,3,59,4,Lägenhet,2015,[Rissne/Ursvik],2795000,105000,2900000,3569,SthlmFast,969.7543512345998,Rissne
+2015-11-07,Marieborgsgatan 6,Ursvik,BlaSolna,1,36,3,Lägenhet,null,[Rissne/Ursvik],1995000,200000,2195000,1789,Svenska Mäklarhuset,1086.5488434462711,Hallonbergen
+2015-11-06,Ursviks Allé 35,Ursvik,BlaSolna,2,39,4,Lägenhet,2015,[Rissne/Ursvik],1995000,375000,2370000,2619,Wendell Fastighetsförmedling AB,969.7543512345998,Rissne
+2015-11-03,Oxenstiernas Allé 15,Ursvik,BlaSolna,1.5,36,3,Lägenhet,2014,[Ursvik],1850000,325000,2175000,2085,Notar,836.4951701245216,Rissne
+2015-11-03,Skördegatan 4,Ursvik,BlaSolna,4,97,4,Lägenhet,2013,[Ursvik],3495000,625000,4120000,4995,Notar,1001.4305015592115,Rinkeby
+2015-11-02,Gamla Enköpingsvägen 158,Ursvik,BlaSolna,2,52,5,Lägenhet,2012,[Ursvik],1995000,525000,2520000,2936,Fastighetsbyrån,765.7849831965164,Rissne
+2015-10-30,Ursviks Allé 35,Ursvik,BlaSolna,2,35,2,Lägenhet,2015,[Rissne/Ursvik],1895000,200000,2095000,2348,SkandiaMäklarna,969.7543512345998,Rissne
+2015-10-24,Oxenstiernas Allé 13,Ursvik,BlaSolna,3,79,4,Lägenhet,2013,[Ursvik],3195000,270000,3465000,3449,Bjurfors,772.614576812078,Rissne
+2015-10-23,Gåsörtsvägen 18,Ursvik,BlaSolna,5,151,null,Villa,2012,[Rissne/Ursvik],6895000,830000,7725000,null,SkandiaMäklarna,1295.4090702952928,Rinkeby
+2015-10-19,Oxenstiernas Allé 19,Ursvik,BlaSolna,2,45,null,Lägenhet,2015,[Ursvik],2095000,305000,2400000,2792,Notar,905.2836102880607,Rissne
+2015-10-19,Oxenstiernas Allé 17,Ursvik,BlaSolna,1,36,2,Lägenhet,2013,[Ursvik],1795000,480000,2275000,2085,Notar,849.6019508688132,Rissne
+2015-10-19,Stallgatan 30,Ursvik,BlaSolna,2,52,4,Lägenhet,2012,null,2395000,155000,2550000,3295,Notar,977.8276829071197,Rinkeby
+2015-10-16,Grönlingens väg 5,Ursvik,BlaSolna,3,72,3,Lägenhet,2012,[Rissne/Ursvik],2895000,330000,3225000,3578,SkandiaMäklarna,1115.3248072063886,Hallonbergen
+2015-10-05,Ursviksvägen 109A,Ursvik,BlaSolna,1,38,2,Lägenhet,1945,[Ursvik],1795000,0,1795000,2595,Bjurfors,564.1111282529082,Hallonbergen
+2015-10-05,Marieborgsgatan 2,Ursvik,BlaSolna,3,69,null,Lägenhet,2012,[Ursvik],2695000,355000,3050000,3429,Notar,1062.694863397441,Hallonbergen
+2015-10-05,Milstensvägen 48,Ursvik,BlaSolna,2,60,2,Lägenhet,2013,[Ursvik],2295000,0,2295000,3248,Notar,1061.0126347827118,Hallonbergen
+2015-09-26,Ursviksvägen 116B,Ursvik,BlaSolna,1,38,1.5,Lägenhet,1944,[Ursvik],1695000,405000,2100000,1929,HusmanHagberg,621.9195645812096,Hallonbergen
+2015-09-24,Oxenstiernas Allé 16,Ursvik,BlaSolna,3,80,3,Lägenhet,2015,[Rissne/Ursvik],3350000,0,3350000,4173,Svensk Fastighetsförmedling,791.551789144529,Rissne
+2015-09-24,Oxenstiernas Allé 19,Ursvik,BlaSolna,2,39,4,Lägenhet,2015,[Ursvik],2095000,305000,2400000,2506,Notar,905.2836102880607,Rissne
+2015-09-17,Oxenstiernas Allé 23,Ursvik,BlaSolna,3,59,null,Lägenhet,2015,[Ursvik],2395000,205000,2600000,3457,Notar,935.6012804073858,Rissne
+2015-09-17,Milstensvägen 9,Ursvik,BlaSolna,4,99,1,Lägenhet,2007,[Ursvik],3295000,1125000,4420000,5588,Fastighetsbyrån,963.2628681408153,Hallonbergen
+2015-09-14,Ursviks Allé 35,Ursvik,BlaSolna,2,39,6,Lägenhet,2015,[Rissne/Ursvik],2195000,340000,2535000,2619,Erik Olsson Fastighetsförmedling,969.7543512345998,Rissne
+2015-09-14,Ursviks Allé 35,Ursvik,BlaSolna,2,39,4,Lägenhet,2015,[Ursvik],2095000,305000,2400000,2619,Notar,969.7543512345998,Rissne
+2015-09-14,Oxenstiernas Allé 14,Ursvik,BlaSolna,3,81.5,2,Lägenhet,2013,[Ursvik],2750000,510000,3260000,4518,Notar,837.181722973982,Rissne
+2015-09-14,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,41,2,Lägenhet,2013,[Ursvik],2250000,100000,2350000,2269,Notar,769.6700255292325,Rissne
+2015-09-09,Marieborgsgatan 53,Ursvik,BlaSolna,5,150,null,Villa,2008,[Stora Ursvik],7000000,600000,7600000,null,Susanne Persson Fastighetsförmedling AB,1264.0158308476055,Rinkeby
+2015-09-09,Ursviks Allé 41,Ursvik,BlaSolna,2,47,null,Lägenhet,null,[Ursvik],2195000,205000,2400000,null,One Fastighetsmäkleri,969.7543512345998,Rissne
+2015-09-09,Ursviks Allé 41,Ursvik,BlaSolna,2,39,3,Lägenhet,2015,[Ursvik],1995000,305000,2300000,2619,Edward & Partners Fastighetsmäklare AB,969.7543512345998,Rissne
+2015-09-07,Ursviks Allé 29,Ursvik,BlaSolna,4,83,3,Lägenhet,2015,[Ursvik],3295000,0,3295000,4711,Notar,958.1622233609277,Rissne
+2015-09-04,Oxenstiernas Allé 14,Ursvik,BlaSolna,4,95.5,1,Lägenhet,2012,[Ursvik],3850000,50000,3900000,5578,Fastighetsbyrån,837.181722973982,Rissne
+2015-09-03,Oxenstiernas Allé 14,Ursvik,BlaSolna,2,55,4,Lägenhet,2012,[Ursvik],2650000,0,2650000,3075,Fastighetsbyrån,837.181722973982,Rissne
+2015-09-03,Ursviksvägen 111B,Ursvik,BlaSolna,1,38,2,Lägenhet,null,[Rissne/Ursvik],1695000,275000,1970000,2595,Svenska Mäklarhuset,573.897756468099,Hallonbergen
+2015-08-29,Ursviks Allé 35,Ursvik,BlaSolna,2,35,3,Lägenhet,2015,[Rissne/Ursvik],1995000,80000,2075000,2348,SkandiaMäklarna,969.7543512345998,Rissne
+2015-08-27,Oxenstiernas Allé 19,Ursvik,BlaSolna,2,48,3,Lägenhet,2015,[Ursvik],2295000,205000,2500000,2934,Notar,905.2836102880607,Rissne
+2015-08-22,Stallgatan 22,Ursvik,BlaSolna,3,75,4,Lägenhet,null,[Ursvik],2795000,315000,3110000,4250,BOSTHLM,931.1645922537738,Rissne
+2015-08-20,Ursviksvägen 111B,Ursvik,BlaSolna,2,54,1,Lägenhet,null,[Rissne/Ursvik],1795000,225000,2020000,3515,Svenska Mäklarhuset,573.897756468099,Hallonbergen
+2015-08-18,Ursviks Allé 35,Ursvik,BlaSolna,2,45,6,Lägenhet,2015,[Rissne/Ursvik],2495000,5000,2500000,2905,Svensk Fastighetsförmedling,969.7543512345998,Rissne
+2015-08-12,Grönlingens väg 5,Ursvik,BlaSolna,4,81,3,Lägenhet,2012,[Ursvik],3275000,100000,3375000,4025,HusmanHagberg,1115.3248072063886,Hallonbergen
+2015-08-05,Oxenstiernas Allé 31,Ursvik,BlaSolna,4,92.3,1,Lägenhet,2013,[Ursvik],3250000,350000,3600000,4995,Notar,1040.8759233996013,Rinkeby
+2015-08-05,Skrivargatan 28,Ursvik,BlaSolna,1,29,3,Lägenhet,2014,[Ursvik],1495000,365000,1860000,2032,Notar,871.2343523447969,Rissne
+2015-07-31,Oxenstierns Allé 18B,Ursvik,BlaSolna,2,54.5,4,Lägenhet,2014,[Ursvik],2600000,-25000,2575000,3009,Diplomat Fastighetsmäkleri AB,1058.9250570080158,Rinkeby
+2015-07-24,Milstensvägen 50,Ursvik,BlaSolna,4,80,2,Lägenhet,2013,[Rissne/Ursvik],3195000,105000,3300000,4567,Svensk Fastighetsförmedling,1070.8119102683925,Hallonbergen
+2015-07-24,Oxenstiernas Allé 21,Ursvik,BlaSolna,4,73,3,Lägenhet,2015,[Ursvik],3195000,0,3195000,4121,Notar,912.2148227967455,Rissne
+2015-07-23,Ursviks Allé 35,Ursvik,BlaSolna,2,39,2,Lägenhet,2015,[Ursvik],1995000,280000,2275000,2538,Fastighetsbyrån,969.7543512345998,Rissne
+2015-07-20,Grönlingens väg 4,Ursvik,BlaSolna,1.5,35,2,Lägenhet,2013,[Ursvik],1795000,405000,2200000,1974,Notar,1117.7344918395077,Hallonbergen
+2015-07-18,Oxentiernas Allé 21,Ursvik,BlaSolna,2,39,5,Lägenhet,2013,[Ursvik],2295000,15000,2310000,2588,Fastighetsbyrån,819.1630480094553,Rissne
+2015-07-17,Oxenstiernas Allé 13,Ursvik,BlaSolna,1.5,36,3,Lägenhet,2014,[Rissne/Ursvik],1875000,375000,2250000,2085,ERA,772.614576812078,Rissne
+2015-07-15,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,55.3,5,Lägenhet,2014,[Ursvik],2295000,255000,2550000,2704,Fastighetsbyrån,769.6700255292325,Rissne
+2015-07-14,Oxenstiernas Allé 31,Ursvik,BlaSolna,4,92.3,4,Lägenhet,null,[Ursvik],3995000,205000,4200000,4995,Fastighetsbyrån,1040.8759233996013,Rinkeby
+2015-07-14,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,53.5,7,Lägenhet,2013,[Ursvik],2395000,155000,2550000,2664,Notar,769.6700255292325,Rissne
+2015-07-10,Marieborgsgatan 69,Ursvik,BlaSolna,1.5,37,1,Lägenhet,2015,[Ursvik],1750000,120000,1870000,2892,Notar,1090.2652848112757,Rinkeby
+2015-07-07,Oxenstiernas Allé 16,Ursvik,BlaSolna,1,31.5,0,Lägenhet,2015,[Ursvik],1695000,125000,1820000,1956,Fastighetsbyrån,791.551789144529,Rissne
+2015-07-03,Grönlingens väg 5,Ursvik,BlaSolna,2,42,3,Lägenhet,2012,[Ursvik],2095000,165000,2260000,2359,Fastighetsbyrån,1115.3248072063886,Hallonbergen
+2015-06-26,Frejavägen 15,Ursvik,BlaSolna,null,null,null,Tomt/Mark,null,[Ursvik],4695000,0,4695000,null,Notar,536.6774609568969,Hallonbergen
+2015-06-24,Ursviks Allé 41,Ursvik,BlaSolna,2,39,4,Lägenhet,2015,[Rissne/Ursvik],2195000,0,2195000,2619,Svensk Fastighetsförmedling,969.7543512345998,Rissne
+2015-06-23,Oxenstiernas Allé 14,Ursvik,BlaSolna,3,71.5,null,Lägenhet,2013,[Rissne/Ursvik],2595000,105000,2700000,4152,Svenska Mäklargruppen,837.181722973982,Rissne
+2015-06-18,Ursviks Allé 41,Ursvik,BlaSolna,3,59,2,Lägenhet,2015,[Rissne/Ursvik],2200000,300000,2500000,3570,Wallenberg Fastighetsförmedling,969.7543512345998,Rissne
+2015-06-16,Ursviks Allé 41,Ursvik,BlaSolna,2,39,3,Lägenhet,2015,[Ursvik],2195000,0,2195000,2619,Fastighetsbyrån,969.7543512345998,Rissne
+2015-06-12,Grönlingens väg 4,Ursvik,BlaSolna,3,69,2,Lägenhet,2013,[Ursvik],2995000,-95000,2900000,3966,Länsförsäkringar Fastighetsförmedling,1117.7344918395077,Hallonbergen
+2015-06-11,Oxentiernas Allé 19,Ursvik,BlaSolna,2,39,4,Lägenhet,2013,[Ursvik],1995000,215000,2210000,2588,Fastighetsbyrån,818.8020622235757,Rissne
+2015-06-04,Milstensvägen 11,Ursvik,BlaSolna,4,100,3,Lägenhet,2007,[Ursvik],3295000,130000,3425000,5631,Fastighetsbyrån,1187.3331349060882,Rissne
+2015-06-02,Oxenstiernas Allé 21,Ursvik,BlaSolna,4,73,4,Lägenhet,2015,[Ursvik],3195000,-45000,3150000,4121,Notar,912.2148227967455,Rissne
+2015-05-28,Forskargränd 24,Ursvik,BlaSolna,4,125,null,Lägenhet,2009,[Ursvik],4495000,130000,4625000,5882,Erik Olsson Fastighetsförmedling,790.0435890513331,Rissne
+2015-05-27,Skördegatan 4,Ursvik,BlaSolna,1,26,null,Lägenhet,2013,[Ursvik],1495000,455000,1950000,1595,Bjurfors,1001.4305015592115,Rinkeby
+2015-05-27,Mönstringsvägen 1,Ursvik,BlaSolna,4,92,null,Lägenhet,2013,[Ursvik],3495000,0,3495000,4995,Bjurfors,977.4422950388096,Rinkeby
+2015-05-23,Oxenstiernas Allé 23,Ursvik,BlaSolna,3,59,1,Lägenhet,2015,[Sunbyberg],2500000,280000,2780000,null,BOSTHLM,935.6012804073858,Rissne
+2015-05-22,Mönstringsvägen 5,Ursvik,BlaSolna,4,92,5,Lägenhet,null,[Rissne/Ursvik],3350000,400000,3750000,4995,Svenska Mäklarhuset,994.2595924781671,Rinkeby
+2015-05-21,Stallgatan 22,Ursvik,BlaSolna,3,75,5,Lägenhet,2014,[Rissne/Ursvik],2875000,50000,2925000,4331,Mäklarhuset,931.1645922537738,Rissne
+2015-05-15,Skrivargatan 28,Ursvik,BlaSolna,1,29,null,Lägenhet,2014,[Rissne/Ursvik],1595000,115000,1710000,2032,Notar,871.2343523447969,Rissne
+2015-05-13,Oxenstiernas Allé 19,Ursvik,BlaSolna,3,64,2,Lägenhet,null,[Ursvik],2650000,190000,2840000,3694,Notar,905.2836102880607,Rissne
+2015-05-12,Stallgatan 22,Ursvik,BlaSolna,2,57,2,Lägenhet,2015,[Ursvik],2400000,0,2400000,3475,Notar,931.1645922537738,Rissne
+2015-05-11,Skrivaregatan 28,Ursvik,BlaSolna,3,75,3,Lägenhet,2014,[Rissne/Ursvik],2695000,120000,2815000,4298,Svensk Fastighetsförmedling,882.0121918834652,Rissne
+2015-05-11,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,41,null,Lägenhet,2013,[Rissne/Ursvik],1995000,255000,2250000,2269,Notar,769.6700255292325,Rissne
+2015-05-10,Milstensvägen 23,Ursvik,BlaSolna,4,104,2,Lägenhet,2006,[Ursvik],3500000,100000,3600000,5970,Susanne Persson Fastighetsförmedling AB,1037.9737049938117,Hallonbergen
+2015-05-10,Forskningsringen 20,Ursvik,BlaSolna,5,139,null,Kedjehus,2009,[Ursvik],null,NaN,6500000,null,Susanne Persson Fastighetsförmedling AB,1110.1450696213165,Hallonbergen
+2015-05-08,Stallgatan 14,Ursvik,BlaSolna,5,133,3,Lägenhet,2014,[Ursvik],4495000,555000,5050000,5166,Fastighetsbyrån,843.1179473591844,Rissne
+2015-05-07,Mönstringsvägen 1,Ursvik,BlaSolna,3,87,1,Lägenhet,2012,[Sundbyberg],2650000,300000,2950000,4995,Notar,977.4422950388096,Rinkeby
+2015-05-04,Marieborgsgatan 6,Ursvik,BlaSolna,1,36,2,Lägenhet,null,[Ursvik],1795000,235000,2030000,1789,Fastighetsbyrån,1086.5488434462711,Hallonbergen
+2015-04-22,Skördegatan 4,Ursvik,BlaSolna,2,49.4,3,Lägenhet,2012,[Ursvik],2495000,0,2495000,2995,Fastighetsbyrån,1001.4305015592115,Rinkeby
+2015-04-21,Oxenstiernas Allé 33,Ursvik,BlaSolna,3,77.4,null,Lägenhet,2013,[Ursvik],2695000,125000,2820000,4695,Notar,1045.2885507590734,Rinkeby
+2015-04-21,Skördegatan 4,Ursvik,BlaSolna,2,52,4,Lägenhet,2013,[Rissne/Ursvik],2195000,205000,2400000,null,Svensk Fastighetsförmedling,1001.4305015592115,Rinkeby
+2015-04-16,Oxenstiernas Allé 23,Ursvik,BlaSolna,3,59,5,Lägenhet,2013,[Ursvik],2695000,165000,2860000,3457,Notar,935.6012804073858,Rissne
+2015-04-15,Gårdsstigen 7,Ursvik,BlaSolna,4,127,null,Villa,2008,[Rissne/Ursvik],5800000,450000,6250000,null,Svenska Mäklarhuset,1103.4543855798393,Rissne
+2015-04-07,Oxenstiernas Allé 21,Ursvik,BlaSolna,2,39,5,Lägenhet,2015,[Ursvik],1995000,155000,2150000,2588,Notar,912.2148227967455,Rissne
+2015-04-05,Forskargränd 22,Ursvik,BlaSolna,3,91,3,Lägenhet,2009,[Ursvik],2995000,430000,3425000,4633,Erik Olsson Fastighetsförmedling,1068.261328662449,Rissne
+2015-04-02,Oxenstiernas Allé 13,Ursvik,BlaSolna,3,79.5,2,Lägenhet,2014,[Ursvik],2795000,315000,3110000,3462,Fastighetsbyrån,772.614576812078,Rissne
+2015-04-01,Oxenstiernas Allé 13,Ursvik,BlaSolna,3,79.5,2,Lägenhet,2014,[Ursvik],2795000,275000,3070000,3462,Fastighetsbyrån,772.614576812078,Rissne
+2015-03-31,Oxenstiernas Allé 21,Ursvik,BlaSolna,1,27,null,Lägenhet,2015,[Ursvik],1695000,155000,1850000,2018,Notar,912.2148227967455,Rissne
+2015-03-29,Gamla Enköpingsvägen 158,Ursvik,BlaSolna,4,87,1,Lägenhet,2012,[Ursvik],3500000,0,3500000,4939,Fastighetsbyrån,765.7849831965164,Rissne
+2015-03-20,Oxenstiernas Allé 31,Ursvik,BlaSolna,3,81,0,Lägenhet,2013,[Rissne/Ursvik],3000000,0,3000000,4895,Mäklarhuset,1040.8759233996013,Rinkeby
+2015-03-20,Oxentiernas Allé 19,Ursvik,BlaSolna,2,39,1,Lägenhet,2013,[Ursvik],1995000,180000,2175000,2588,Fastighetsbyrån,818.8020622235757,Rissne
+2015-03-12,Skrivargatan 28,Ursvik,BlaSolna,4,87,1,Lägenhet,null,[Rissne/Ursvik],2975000,225000,3200000,4868,Mäklarhuset,871.2343523447969,Rissne
+2015-03-12,Oxentiernas Allé 25,Ursvik,BlaSolna,2,39,4,Lägenhet,null,[Ursvik],2100000,75000,2175000,2590,Fastighetsbyrån,819.1630480094553,Rissne
+2015-03-11,Oxenstiernas Allé 31,Ursvik,BlaSolna,4,92.3,null,Lägenhet,2013,[Ursvik],2895000,225000,3120000,4995,Notar,1040.8759233996013,Rinkeby
+2015-03-11,Marieborgsgatan 63C,Ursvik,BlaSolna,5,101,null,Villa,null,[Ursvik],5350000,0,5350000,null,Notar,1181.6997777668578,Rinkeby
+2015-03-04,Ursviksvägen 113,Ursvik,BlaSolna,2,53,null,Lägenhet,1939,[Lilla Ursvik],1495000,280000,1775000,3384,Erik Olsson Fastighetsförmedling,600.6713198497906,Hallonbergen
+2015-03-04,Oxenstiernas Allé 23,Ursvik,BlaSolna,3,59,5,Lägenhet,2015,[Ursvik],2650000,0,2650000,3538,Notar,935.6012804073858,Rissne
+2015-02-27,Oxenstiernas Allé 10,Ursvik,BlaSolna,4,88.5,null,Lägenhet,2013,[Rissne/Ursvik],3150000,275000,3425000,4885,Svenska Mäklargruppen,804.2218017579397,Rissne
+2015-02-26,Oxenstiernas Allé 23,Ursvik,BlaSolna,1,27,0,Lägenhet,2015,[Rissne/Ursvik],1495000,0,1495000,2018,Mäklarhuset,935.6012804073858,Rissne
+2015-02-15,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,47.5,6,Lägenhet,2014,[Ursvik],2100000,0,2100000,2512,Fastighetsbyrån,769.6700255292325,Rissne
+2015-02-13,Oxenstiernas Allé 23,Ursvik,BlaSolna,3,59,1,Lägenhet,2014,[Rissne/Ursvik],2095000,75000,2170000,3538,SkandiaMäklarna,935.6012804073858,Rissne
+2015-02-12,Marieborgsgatan 2,Ursvik,BlaSolna,1,36,null,Lägenhet,null,[Ursvik],1595000,390000,1985000,1887,Fastighetsbyrån,1062.694863397441,Hallonbergen
+2015-02-11,Ursviksvägen 113,Ursvik,BlaSolna,2,52,null,Lägenhet,1939,[Lilla Ursvik],1895000,355000,2250000,3385,Fastighetsbyrån,600.6713198497906,Hallonbergen
+2015-01-31,Milstensvägen 17,Ursvik,BlaSolna,3,90,null,Lägenhet,2007,[Rissne/Ursvik],2450000,520000,2970000,5207,Svenska Mäklarhuset,1035.789233648882,Hallonbergen
+2015-01-31,Marieborgsgatan 63B,Ursvik,BlaSolna,5,101,null,Villa,null,[Ursvik],5250000,0,5250000,null,Notar,1187.1891564290738,Rinkeby
+2015-01-31,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,55,1,Lägenhet,2013,[Ursvik],1995000,155000,2150000,2675,Notar,769.6700255292325,Rissne
+2015-01-31,Milstensvägen 22,Ursvik,BlaSolna,5,137,null,Radhus,2007,[Rissne/Ursvik],5695000,105000,5800000,null,Svensk Fastighetsförmedling,911.141914577276,Hallonbergen
+2015-01-15,Oxenstiernas Allé 12,Ursvik,BlaSolna,2,46,3,Lägenhet,2012,[Ursvik],1795000,255000,2050000,2940,Notar,821.4078099641924,Rissne
+2015-01-10,Gamla Enköpingsvägen 156,Ursvik,BlaSolna,2,52,null,Lägenhet,2012,[Ursvik],1895000,310000,2205000,2936,Fastighetsbyrån,760.204183363479,Rissne
+2014-12-22,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,41,null,Lägenhet,2014,[Ursvik],1995000,105000,2100000,2226,Fastighetsbyrån,769.6700255292325,Rissne
+2014-12-19,Milstensvägen 27,Ursvik,BlaSolna,4,81,null,Lägenhet,2011,[Rissne/Ursvik],2995000,-95000,2900000,4247,Svenska Mäklarhuset,1051.070698276386,Hallonbergen
+2014-12-19,Oxenstiernas Allé 17,Ursvik,BlaSolna,3,87.5,4,Lägenhet,2013,[Rissne/Ursvik],3195000,0,3195000,3688,Svenska Mäklarhuset,849.6019508688132,Rissne
+2014-12-18,Milstensvägen 23,Ursvik,BlaSolna,3.5,99,1,Lägenhet,2007,[Rissne/Ursvik],2850000,0,2850000,6101,SkandiaMäklarna,1037.9737049938117,Hallonbergen
+2014-12-10,Grönlingens väg 3,Ursvik,BlaSolna,2,45,2,Lägenhet,null,[Ursvik],1795000,305000,2100000,2359,Fastighetsbyrån,1093.115315229198,Hallonbergen
+2014-12-08,Gamla Enköpingsvägen 162,Ursvik,BlaSolna,4,104,3,Lägenhet,2012,[Ursvik],2995000,255000,3250000,5862,HusmanHagberg,767.1406922373081,Rissne
+2014-12-04,Oxenstiernas Allé 19,Ursvik,BlaSolna,2,39,3,Lägenhet,2014,[Rissne/Ursvik],1875000,0,1875000,2558,Svensk Fastighetsförmedling,905.2836102880607,Rissne
+2014-12-03,Skrivargatan 28,Ursvik,BlaSolna,4,89,1,Lägenhet,2013,[Ursvik],2695000,215000,2910000,4962,Notar,871.2343523447969,Rissne
+2014-11-20,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,53.5,null,Lägenhet,2013,[Ursvik],2195000,0,2195000,2664,Fastighetsbyrån,769.6700255292325,Rissne
+2014-11-17,Milstensvägen 50,Ursvik,BlaSolna,1,35,3,Lägenhet,2012,[Ursvik],1395000,425000,1820000,2105,Notar,1070.8119102683925,Hallonbergen
+2014-11-13,Skördegatan 4,Ursvik,BlaSolna,4,97,2,Lägenhet,2013,[Rissne/Ursvik],2995000,155000,3150000,4995,Svenska Mäklarhuset,1001.4305015592115,Rinkeby
+2014-11-13,Länsmansbacken 1,Ursvik,BlaSolna,7,163,null,Villa,1946,[Rissne/Ursvik],6495000,640000,7135000,null,Svenska Mäklarhuset,726.8487548289365,Hallonbergen
+2014-11-12,Gamla Enköpingsvägen 162,Ursvik,BlaSolna,4,104,2,Lägenhet,2012,[Stora Ursvik],3395000,-45000,3350000,6070,Mäklarringen,767.1406922373081,Rissne
+2014-11-11,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,55,null,Lägenhet,2013,[Ursvik],2100000,30000,2130000,null,Notar,769.6700255292325,Rissne
+2014-10-31,Milstensvägen 50,Ursvik,BlaSolna,1.5,35,null,Lägenhet,null,[Ursvik],1350000,360000,1710000,2105,Fastighetsbyrån,1070.8119102683925,Hallonbergen
+2014-10-31,Gamla Enköpingsvägen 168,Ursvik,BlaSolna,3,92.5,null,Lägenhet,2013,[Ursvik],2995000,55000,3050000,3876,Fastighetsbyrån,843.1179473591844,Rissne
+2014-10-17,Mönstringsvägen 3,Ursvik,BlaSolna,4,92,null,Lägenhet,2012,[Ursvik],2995000,135000,3130000,4995,Notar,1018.1965722731696,Rinkeby
+2014-10-16,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,53.5,2,Lägenhet,null,[Rissne/Ursvik],1995000,30000,2025000,2664,Svenska Mäklarhuset,769.6700255292325,Rissne
+2014-10-09,Grönlingens väg 23,Ursvik,BlaSolna,7,196.6,null,Villa,2014,[Ursvik],8250000,-450000,7800000,null,Fastighetsbyrån,1347.013715185235,Hallonbergen
+2014-10-01,Marieborgsgatan 2,Ursvik,BlaSolna,3,69,null,Lägenhet,null,[Ursvik],2195000,335000,2530000,3617,Fastighetsbyrån,1062.694863397441,Hallonbergen
+2014-09-25,Gamla Enköpingsvägen 160,Ursvik,BlaSolna,3,77.5,null,Lägenhet,2012,[Ursvik],2395000,80000,2475000,4289,Fastighetsbyrån,771.7403572025834,Rissne
+2014-09-16,Milstensvägen 33,Ursvik,BlaSolna,4,90,null,Lägenhet,2012,[Ursvik],3195000,5000,3200000,5115,Fastighetsbyrån,1088.158861207511,Hallonbergen
+2014-09-10,Oxenstiernas Allé 10,Ursvik,BlaSolna,2,55,3,Lägenhet,2013,[Ursvik],1995000,0,1995000,3373,Notar,804.2218017579397,Rissne
+2014-09-09,Milstensvägen 27,Ursvik,BlaSolna,4,81,null,Lägenhet,null,[Ursvik],2795000,0,2795000,4247,Fastighetsbyrån,1051.070698276386,Hallonbergen
+2014-08-28,Oxenstiernas Allé 13,Ursvik,BlaSolna,5,113.5,null,Lägenhet,2013,[Ursvik],3995000,50000,4045000,4811,Fastighetsbyrån,772.614576812078,Rissne
+2014-08-27,Oxenstiernas Allé 12,Ursvik,BlaSolna,2,55,4,Lägenhet,2013,[Ursvik],1995000,5000,2000000,3283,HusmanHagberg,821.4078099641924,Rissne
+2014-08-27,Oxenstiernas Allé 14,Ursvik,BlaSolna,2,55,null,Lägenhet,2012,[Ursvik],1995000,0,1995000,3075,Notar,837.181722973982,Rissne
+2014-08-22,Milstensvägen 33,Ursvik,BlaSolna,2,55,3,Lägenhet,null,[Ursvik],1995000,165000,2160000,3199,Living Fastighetsmäkleri,1088.158861207511,Hallonbergen
+2014-08-20,Gamla Enköpingsvägen 174,Ursvik,BlaSolna,2,42,6,Lägenhet,2014,[Ursvik],1900000,0,1900000,2329,Mäklarringen,769.6700255292325,Rissne
+2014-08-15,Oxenstiernas Allé 31,Ursvik,BlaSolna,3,81,null,Lägenhet,2012,[Ursvik],2495000,-25000,2470000,4895,Fastighetsbyrån,1040.8759233996013,Rinkeby
+2014-08-13,Oxenstiernas Allé 10,Ursvik,BlaSolna,4,88.5,2,Lägenhet,2013,[Ursvik],2750000,0,2750000,5093,Notar,804.2218017579397,Rissne
+2014-08-06,Mönstringsvägen 5,Ursvik,BlaSolna,4,92,3,Lägenhet,2012,[Ursvik],2795000,305000,3100000,4995,Notar,994.2595924781671,Rinkeby
+2014-07-29,Milstensvägen 15,Ursvik,BlaSolna,2,85,null,Lägenhet,2007,[Ursvik],2295000,115000,2410000,5776,HusmanHagberg,1004.9763853454688,Hallonbergen
+2014-07-28,Milstensvägen 15,Ursvik,BlaSolna,4,99,2,Lägenhet,2007,[Ursvik],2895000,5000,2900000,6101,Fastighetsbyrån,1004.9763853454688,Hallonbergen
+2014-07-19,Oxentiernas Allé 13,Ursvik,BlaSolna,2,70.5,null,Lägenhet,2013,[Ursvik],2295000,230000,2525000,3130,Fastighetsbyrån,819.1630480094553,Rissne
+2014-07-05,Milstensvägen 33,Ursvik,BlaSolna,2,55,3,Lägenhet,2011,[Ursvik],1995000,0,1995000,3199,Living Fastighetsmäkleri,1088.158861207511,Hallonbergen
+2014-07-04,Skördegatan 4,Ursvik,BlaSolna,4,97,null,Lägenhet,2012,[Ursvik],2995000,-45000,2950000,4995,Fastighetsbyrån,1001.4305015592115,Rinkeby
+2014-07-02,Oxenstiernas Allé 33,Ursvik,BlaSolna,3,77.4,4,Lägenhet,2012,[Rissne/Ursvik],2450000,-20000,2430000,4695,SkandiaMäklarna,1045.2885507590734,Rinkeby
+2014-06-29,Oxenstiernas Allé 13,Ursvik,BlaSolna,2,36,2,Lägenhet,2014,[Ursvik],1425000,320000,1745000,2085,Länsförsäkringar Fastighetsförmedling,772.614576812078,Rissne
+2014-06-12,Gamla Enköpingsvägen 156,Ursvik,BlaSolna,2,61.5,null,Lägenhet,2012,[Rissne/Ursvik],1950000,350000,2300000,3754,Svenska Mäklarhuset,760.204183363479,Rissne
+2014-06-06,Forskningsringen 11,Ursvik,BlaSolna,5,137,null,Villa,2007,[Rissne/Ursvik],5195000,-45000,5150000,null,Svenska Mäklarhuset,1041.4644406475813,Hallonbergen
+2014-05-28,Oxenstiernas Allé 10,Ursvik,BlaSolna,3,77.5,2,Lägenhet,2012,[Ursvik],2295000,0,2295000,4497,Notar,804.2218017579397,Rissne
+2014-05-20,Oxentiernas Allé 17,Ursvik,BlaSolna,1.5,36,null,Lägenhet,2013,[Ursvik],1495000,155000,1650000,2085,Fastighetsbyrån,819.1630480094553,Rissne
+2014-05-15,Oxenstiernas Allé 15,Ursvik,BlaSolna,2,72.5,null,Lägenhet,2013,[Ursvik],2225000,10000,2235000,3257,Svenska Mäklarhuset,836.4951701245216,Rissne
+2014-04-30,Marieborgsgatan 6,Ursvik,BlaSolna,4,81,3,Lägenhet,2011,[Rissne/Ursvik],2695000,455000,3150000,4247,Svenska Mäklarhuset,1086.5488434462711,Hallonbergen
+2014-04-18,Oxenstiernas Allé 12,Ursvik,BlaSolna,4,89,2,Lägenhet,2012,[Rissne/Ursvik],2695000,-45000,2650000,4908,SkandiaMäklarna,821.4078099641924,Rissne
+2014-04-01,Oxenstiernas Allé 13,Ursvik,BlaSolna,3,79,3,Lägenhet,2013,[Ursvik],2595000,0,2595000,3462,Svenska Mäklarhuset,772.614576812078,Rissne
+2014-03-29,Ursviksvägen 109A,Ursvik,BlaSolna,1,38,null,Lägenhet,1945,[Ursvik],1395000,205000,1600000,2595,Living Fastighetsmäkleri,564.1111282529082,Hallonbergen
+2014-03-20,Stallgatan 30,Ursvik,BlaSolna,2,52.2,null,Lägenhet,2012,[Rissne/Ursvik],1795000,165000,1960000,3295,Svenska Mäklarhuset,977.8276829071197,Rinkeby
+2014-03-06,Oxenstiernas Allé 17,Ursvik,BlaSolna,1,36,null,Lägenhet,2014,[Ursvik],1485000,15000,1500000,2085,Svenska Mäklarhuset,849.6019508688132,Rissne
+2014-03-05,Oxenstiernas Allé 12,Ursvik,BlaSolna,4,88.5,4,Lägenhet,2012,[Rissne/Ursvik],2800000,-80000,2720000,4885,SkandiaMäklarna,821.4078099641924,Rissne
+2014-02-26,Oxenstiernas Allé 33,Ursvik,BlaSolna,3,66.1,null,Lägenhet,2013,[Rissne/Ursvik],2095000,0,2095000,3995,BOSTHLM,1045.2885507590734,Rinkeby
+2014-02-04,Forskargränd 24,Ursvik,BlaSolna,3,91,null,Lägenhet,2009,[Rissne/Ursvik],2395000,125000,2520000,4776,Fastighetsbyrån,790.0435890513331,Rissne
+2014-02-03,Forskargränd 20,Ursvik,BlaSolna,4,95,null,Lägenhet,2009,[Rissne/Ursvik],3295000,0,3295000,5047,Svenska Mäklarhuset,1052.8780874195156,Rissne
+2014-02-03,Forskningsringen 51,Ursvik,BlaSolna,5,139,null,Villa,2009,[Rissne/Ursvik],5675000,40000,5715000,null,Svenska Mäklarhuset,1048.4161116273622,Rissne
+2014-02-02,Stallgatan 30,Ursvik,BlaSolna,2,56,null,Lägenhet,2013,[Rissne/Ursvik],1850000,-50000,1800000,3495,Fastighetsbyrån,977.8276829071197,Rinkeby
+2014-01-24,Oxenstiernas Allé 10,Ursvik,BlaSolna,2,55,5,Lägenhet,2012,[Rissne/Ursvik],1875000,25000,1900000,3283,SkandiaMäklarna,804.2218017579397,Rissne
+2014-01-24,Mönstringsvägen 1,Ursvik,BlaSolna,4,92,3,Lägenhet,2013,[Ursvik],2990000,0,2990000,4995,Erik Olsson Fastighetsförmedling,977.4422950388096,Rinkeby
+2014-01-23,Marieborgsgatan 6,Ursvik,BlaSolna,4,81,3,Lägenhet,2011,[Rissne/Ursvik],2495000,0,2495000,4247,SkandiaMäklarna,1086.5488434462711,Hallonbergen
+2014-01-22,Grönlingens väg 5,Ursvik,BlaSolna,3,72,null,Lägenhet,2011,[Rissne/Ursvik],2475000,25000,2500000,3775,Svenska Mäklarhuset,1115.3248072063886,Hallonbergen
+2014-01-16,Oxenstiernas Allé 31,Ursvik,BlaSolna,4,92.3,4,Lägenhet,2012,[Ursvik],2790000,460000,3250000,4995,Erik Olsson Fastighetsförmedling,1040.8759233996013,Rinkeby
+2014-01-15,Milstensvägen 29,Ursvik,BlaSolna,2,59,2,Lägenhet,2011,[Ursvik],1850000,-55000,1795000,2932,Bjurfors,1057.2032538147148,Hallonbergen
+2013-12-30,Milstensvägen 31,Ursvik,BlaSolna,2,55,3,Lägenhet,2013,[Rissne/Ursvik],1900000,25000,1925000,3200,Notar,1068.9526503582242,Hallonbergen
+2013-12-08,Oxenstiernas Allé 12,Ursvik,BlaSolna,1,46,null,Lägenhet,2012,[Rissne/Ursvik],1575000,0,1575000,2770,Fastighetsbyrån,821.4078099641924,Rissne
+2013-11-29,Fylkesvägen 25,Ursvik,BlaSolna,6,130,null,Villa,1928,[Lilla Ursvik],4695000,1130000,5825000,null,One Fastighetsmäkleri,410.6117259704955,Hallonbergen
+2013-11-27,Egnahemsvägen 8,Ursvik,BlaSolna,7,183,null,Villa,1951,[Rissne/Ursvik],4995000,555000,5550000,null,Fastighetsbyrån,499.3408452951015,Hallonbergen
+2013-11-12,Forskargränd 20,Ursvik,BlaSolna,4,108,2,Lägenhet,2009,[Rissne/Ursvik],3195000,-70000,3125000,5488,Fastighetsbyrån,1052.8780874195156,Rissne
+2013-11-07,Milstensvägen 19,Ursvik,BlaSolna,2,66,null,Lägenhet,2007,[Rissne/Ursvik],1650000,160000,1810000,4360,Fastighetsbyrån,1027.961407686715,Hallonbergen
+2013-11-05,Skördegatan 4,Ursvik,BlaSolna,4,97,3,Lägenhet,2012,[Stora Ursvik],2750000,-50000,2700000,4995,Notar,1001.4305015592115,Rinkeby
+2013-10-20,Forskargränd 24,Ursvik,BlaSolna,3,91,null,Lägenhet,2009,[Rissne/Ursvik],2595000,5000,2600000,4900,Fastighetsbyrån,790.0435890513331,Rissne
+2013-09-22,Grahamsvägen 14,Ursvik,BlaSolna,7,187,null,Villa,1956,[Rissne/Ursvik],4295000,305000,4600000,null,Svenska Mäklarhuset,790.7668650424519,Hallonbergen
+2013-09-14,Milstensvägen 29,Ursvik,BlaSolna,2,45,null,Lägenhet,2011,[Rissne/Ursvik],1395000,255000,1650000,2236,Notar,1057.2032538147148,Hallonbergen
+2013-08-30,Egnahemsvägen 26,Ursvik,BlaSolna,7,160.5,null,Villa,1909,[Rissne/Ursvik],6195000,805000,7000000,null,Svenska Mäklarhuset,667.9920199493552,Hallonbergen
+2013-07-15,Forskargränd 22,Ursvik,BlaSolna,2,54,null,Lägenhet,2009,[Rissne/Ursvik],1595000,0,1595000,3354,Fastighetsbyrån,1068.261328662449,Rissne
+2013-07-15,Milstensvägen 17,Ursvik,BlaSolna,3,90,null,Lägenhet,null,[Ursvik],2095000,0,2095000,5689,Svensk Fastighetsförmedling,1035.789233648882,Hallonbergen
+2013-06-20,Frejavägen 23,Ursvik,BlaSolna,5,77,null,Villa,1943,[Ursvik],3495000,10000,3505000,null,Bjurfors,636.2932312514204,Hallonbergen
+2013-06-05,Ursviksvägen 113,Ursvik,BlaSolna,2,37,null,Lägenhet,1939,[Rissne/Ursvik],1595000,0,1595000,2505,Fastighetsbyrån,600.6713198497906,Hallonbergen
+2013-06-05,Milstensvägen 39,Ursvik,BlaSolna,3.5,122,null,Lägenhet,1935,[Rissne/Ursvik],2595000,0,2595000,6026,Svenska Mäklarhuset,1144.0402945264912,Hallonbergen
+2013-05-29,Marieborgsgatan 37,Ursvik,BlaSolna,4,127,null,Villa,2008,[Stora Ursvik],4995000,-145000,4850000,null,Svensk Fastighetsförmedling,1248.3277022213483,Hallonbergen
+2013-05-17,Ursviksvägen 116B,Ursvik,BlaSolna,1,38,1.5,Lägenhet,1944,[Ursvik],1195000,40000,1235000,1753,HusmanHagberg,621.9195645812096,Hallonbergen
+2013-05-16,Sevensvägen 22,Ursvik,BlaSolna,3,74.4,3,Lägenhet,1997,[Rissne/Ursvik],1895000,105000,2000000,4919,Svenska Mäklarhuset,633.6575138023263,Hallonbergen
+2013-05-13,Forskningsringen 30,Ursvik,BlaSolna,5,139,null,Kedjehus,null,[Ursvik],5600000,-50000,5550000,null,Ekenstam Fastighetsmäklare,1141.310948399929,Rissne
+2013-05-03,Forskningsringen 36,Ursvik,BlaSolna,5,139,null,Parhus,2009,[Rissne/Ursvik],5200000,300000,5500000,null,Svenska Mäklarhuset,1127.4615525273593,Rissne
+2013-03-22,Fasanstigen 2,Ursvik,BlaSolna,6,138,null,Villa,1945,[Rissne/Ursvik],5475000,1025000,6500000,null,Svenska Mäklarhuset,711.1934128416076,Hallonbergen
+2013-03-21,Gamla Enköpingsvägen 156,Ursvik,BlaSolna,2,61.5,3,Lägenhet,2012,[Rissne/Ursvik],1850000,0,1850000,3546,Länsförsäkringar Fastighetsförmedling,760.204183363479,Rissne
+2013-03-14,Sevensvägen 22,Ursvik,BlaSolna,2,57,null,Lägenhet,1997,[Rissne/Ursvik],1595000,-45000,1550000,4061,Fastighetsbyrån,633.6575138023263,Hallonbergen
+2013-03-13,Ursviksvägen 115,Ursvik,BlaSolna,2,64,null,Lägenhet,1951,[Rissne/Ursvik],1995000,175000,2170000,3416,Svenska Mäklarhuset,651.6965889965622,Hallonbergen
+2013-02-21,Marieborgsgatan 6,Ursvik,BlaSolna,1,36,3,Lägenhet,null,[Stora Ursvik],1395000,55000,1450000,1887,SkandiaMäklarna,1086.5488434462711,Hallonbergen
+2013-02-01,Egnahemsvägen 6,Ursvik,BlaSolna,6,114,null,Villa,null,[Ursvik],5475000,355000,5830000,null,Erik Olsson Fastighetsförmedling,490.4521054164649,Hallonbergen
+2013-01-30,Ursviksvägen 115A,Ursvik,BlaSolna,2,54,null,Lägenhet,1951,[Rissne/Ursvik],1600000,-75000,1525000,2882,Fastighetsbyrån,640.279585167133,Hallonbergen
+2012-11-12,Fylkesvägen 6,Ursvik,BlaSolna,5,120,null,Villa,null,[Lilla Ursvik],5150000,50000,5200000,null,Erik Olsson Fastighetsförmedling,522.2209458758996,Hallonbergen

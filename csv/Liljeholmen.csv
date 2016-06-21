@@ -1,0 +1,458 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2014-11-12,Sjöviksbacken 4,Liljeholmen,RodFruangen,3,71,2,Lägenhet,2006,[Liljeholmskajen],3595000,125000,3720000,4518,Fastighetsbyrån,703.5510719091101,Liljeholmen
+2014-11-12,Liljeholmstorget 92,Liljeholmen,RodFruangen,1,34,1,Lägenhet,2003,[Liljeholmen],2095000,455000,2550000,1846,Notar,29.889261992847732,Liljeholmen
+2014-11-08,Buteljgatan 30,Liljeholmen,RodFruangen,2,54,2,Lägenhet,2011,[Liljeholmen],3200000,670000,3870000,3043,Erik Olsson Fastighetsförmedling,458.2361593214377,Liljeholmen
+2014-10-31,Nybohovsgränd 32,Liljeholmen,RodFruangen,3,76,4,Lägenhet,1962,[Liljeholmen],2995000,305000,3300000,3185,MäklarMäster,395.8010074342307,Liljeholmen
+2014-10-30,Sturehillsvägen 46,Liljeholmen,RodFruangen,3,85,3,Lägenhet,2009,[Liljeholmskajen],3995000,505000,4500000,4624,Svenska Mäklarhuset,925.558184249212,Liljeholmen
+2014-10-30,Marieviksgatan 45,Liljeholmen,RodFruangen,2,54,2,Lägenhet,2013,[Liljeholmskajen],3195000,0,3195000,2786,Södermäklarna,385.7372772112591,Liljeholmen
+2014-10-30,Karaffgatan 5,Liljeholmen,RodFruangen,4,96,7,Lägenhet,2011,[Liljeholmskajen],6495000,180000,6675000,4598,SkandiaMäklarna,437.54826897498475,Liljeholmen
+2014-10-29,Marieviksgatan 41,Liljeholmen,RodFruangen,2,46,6,Lägenhet,2011,[Liljeholmskajen],2695000,5000,2700000,3041,SkandiaMäklarna,378.5892216532709,Liljeholmen
+2014-10-29,Marieviksgatan 43,Liljeholmen,RodFruangen,2,54,6,Lägenhet,2012,[Liljeholmskajen],3295000,0,3295000,3341,Notar,378.8254575788057,Liljeholmen
+2014-10-29,Fredsborgsgatan 1,Liljeholmen,RodFruangen,3,81,6,Lägenhet,2009,[Liljeholmskajen],3995000,450000,4445000,5219,Erik Olsson Fastighetsförmedling,483.9950069559268,Liljeholmen
+2014-10-28,Sjöviksvägen 76,Liljeholmen,RodFruangen,2,41,7,Lägenhet,null,[Liljeholmskajen],2395000,495000,2890000,2918,Svensk Fastighetsförmedling,759.3415297597718,Liljeholmen
+2014-10-28,Hildebergsvägen 2,Liljeholmen,RodFruangen,3,76.5,null,Lägenhet,2006,[Liljeholmskajen],3495000,430000,3925000,4784,Södermäklarna,927.5492796658177,Liljeholmen
+2014-10-28,Grönbrinksgatan 10,Liljeholmen,RodFruangen,4,96,null,Lägenhet,2009,[Liljeholmskajen],4695000,405000,5100000,5966,Södermäklarna,509.5895609048986,Liljeholmen
+2014-10-27,Sturehillsvägen 42,Liljeholmen,RodFruangen,3,81,4,Lägenhet,2009,[Liljeholmskajen],3995000,-620000,3375000,4473,Södermäklarna,928.7812055685641,Liljeholmen
+2014-10-24,Sjöviksbacken 15,Liljeholmen,RodFruangen,5,112,4,Lägenhet,2008,[Liljeholmskajen],4875000,300000,5175000,5913,Mäklarhuset,741.3772871824696,Liljeholmen
+2014-10-24,Grönbrinksgatan 6,Liljeholmen,RodFruangen,2,58,4,Lägenhet,2009,[Liljeholmskajen],2995000,765000,3760000,4122,Södermäklarna,512.6685850684081,Liljeholmen
+2014-10-23,Sjöviksvägen 34,Liljeholmen,RodFruangen,4,104.5,6,Lägenhet,2003,[Liljeholmskajen],5150000,300000,5450000,5203,Mäklarhuset,540.9559620214714,Liljeholmen
+2014-10-22,Vingårdsgatan 5,Liljeholmen,RodFruangen,3,73,2,Lägenhet,2005,[Liljeholmskajen],3750000,590000,4340000,4537,SkandiaMäklarna,593.7021091334869,Liljeholmen
+2014-10-22,Nybohovsbacken 68,Liljeholmen,RodFruangen,3,66,6,Lägenhet,2008,[Liljeholmen],3350000,145000,3495000,4453,Notar,637.4075447466053,Liljeholmen
+2014-10-21,Vinodlargatan 11,Liljeholmen,RodFruangen,3,84.5,3,Villa,2007,[Liljeholmskajen],3990000,635000,4625000,null,Mäklarhuset,656.0448322271108,Liljeholmen
+2014-10-20,Nybohovsgränd 26B,Liljeholmen,RodFruangen,2,57,null,Lägenhet,1960,[Liljeholmen],2495000,155000,2650000,2389,BOSTHLM,454.0227180646142,Liljeholmen
+2014-10-18,Hildebergsvägen 6,Liljeholmen,RodFruangen,2,52.5,4,Lägenhet,2006,[Liljeholmen],2795000,0,2795000,3644,Södermäklarna,886.9576965192165,Liljeholmen
+2014-10-16,Liljeholmsvägen 10,Liljeholmen,RodFruangen,4,117,4,Lägenhet,1915,[Liljeholmen],4995000,975000,5970000,5574,Notar,356.4109313994759,Liljeholmen
+2014-10-16,Nybohovsgränd 42,Liljeholmen,RodFruangen,3,78,null,Lägenhet,1962,[Liljeholmen],2995000,125000,3120000,3263,MäklarMäster,389.4986320779583,Liljeholmen
+2014-10-16,Sturehillsvägen 37,Liljeholmen,RodFruangen,3,79,5,Lägenhet,2009,[Liljeholmskajen],3995000,905000,4900000,4398,Länsförsäkringar Fastighetsförmedling,925.558184249212,Liljeholmen
+2014-10-15,Nybodaringen 9,Liljeholmen,RodFruangen,4,90.5,2,Radhus,1998,[Liljeholmen],3975000,-325000,3650000,5928,Fantastic Frank Fastighetsmäkleri,578.2254153658331,Midsommarkransen
+2014-10-15,Marieviksgatan 48,Liljeholmen,RodFruangen,4,89,4,Lägenhet,2010,[Liljeholmskajen],4295000,555000,4850000,4879,SkandiaMäklarna,359.80555174292886,Liljeholmen
+2014-10-10,Liljeholmstorget 52,Liljeholmen,RodFruangen,3,86,null,Lägenhet,2004,[Liljeholmen],4295000,855000,5150000,4075,Notar,52.79538058676033,Liljeholmen
+2014-10-09,Sturehillsvägen 39,Liljeholmen,RodFruangen,3,89,null,Lägenhet,2009,[Liljeholmskajen],3250000,480000,3730000,4774,Mäklarhuset,925.558184249212,Liljeholmen
+2014-10-09,Nybohovsbacken 83,Liljeholmen,RodFruangen,4,97,5,Lägenhet,1960,[Liljeholmen],3795000,255000,4050000,3205,Notar,612.6497248221557,Liljeholmen
+2014-10-08,Nybohovsbacken 61,Liljeholmen,RodFruangen,3,71,5,Lägenhet,1962,[Liljeholmen],2975000,315000,3290000,3459,MäklarMäster,492.1062886685474,Liljeholmen
+2014-10-08,Fredsborgsgatan 3,Liljeholmen,RodFruangen,5,143,1,Lägenhet,2009,[Liljeholmskajen],4975000,475000,5450000,8025,Erik Olsson Fastighetsförmedling,494.6471131999048,Liljeholmen
+2014-10-07,Buteljgatan 24,Liljeholmen,RodFruangen,2,45,3,Lägenhet,2011,[Liljeholmskajen],2750000,250000,3000000,2963,HusmanHagberg,404.388399185854,Liljeholmen
+2014-10-03,Nybodaringen 39,Liljeholmen,RodFruangen,2,46,3,Lägenhet,null,[Liljeholmen],1895000,5000,1900000,3531,Svensk Fastighetsförmedling,568.1152955395955,Midsommarkransen
+2014-10-02,Hildebergsvägen 4,Liljeholmen,RodFruangen,4,95,4,Lägenhet,2006,[Liljeholmskajen],4195000,630000,4825000,5286,Estate Fastighetsbyrå AB,913.9921808281197,Liljeholmen
+2014-10-02,Nybohovsbacken 21,Liljeholmen,RodFruangen,2,58,13,Lägenhet,1962,[Liljeholmen],2795000,525000,3320000,3128,Notar,204.5976300783123,Liljeholmen
+2014-09-30,Vingårdsgatan 48,Liljeholmen,RodFruangen,3,77,1,Lägenhet,2003,[Liljeholmskajen],3800000,0,3800000,4203,SkandiaMäklarna,620.9198264188736,Liljeholmen
+2014-09-29,Nybohovsgränd 13,Liljeholmen,RodFruangen,4,80,1,Lägenhet,1962,[Nybohovsbacken],3395000,200000,3595000,3352,Svenska Mäklarhuset,311.7441017729773,Liljeholmen
+2014-09-28,Nybodaringen 107,Liljeholmen,RodFruangen,4,95,2,Lägenhet,1998,[Nybodaringen],3700000,200000,3900000,6085,Södermäklarna,780.3050960681724,Liljeholmen
+2014-09-27,Marieviksgatan 41,Liljeholmen,RodFruangen,3,76,5,Lägenhet,2012,[Liljeholmskajen],3995000,405000,4400000,4228,Södermäklarna,378.5892216532709,Liljeholmen
+2014-09-26,Liljeholmstorget 84,Liljeholmen,RodFruangen,2,71,1,Lägenhet,2003,[Liljeholmen],3395000,615000,4010000,2994,Notar,21.004220622902924,Liljeholmen
+2014-09-24,Sjöviksbacken 5,Liljeholmen,RodFruangen,3,90,23,Lägenhet,2014,[Liljeholmskajen],7495000,-295000,7200000,4923,Mäklarhuset,722.6847394072548,Liljeholmen
+2014-09-23,Hildebergsvägen 14,Liljeholmen,RodFruangen,3,79,2,Lägenhet,2004,[Liljeholmskajen],3695000,275000,3970000,4888,Södermäklarna,819.8478329052984,Midsommarkransen
+2014-09-23,Fredsborgsgatan 2,Liljeholmen,RodFruangen,3,75,3,Lägenhet,2004,[Liljeholmskajen],3975000,375000,4350000,4254,Södermäklarna,474.1365218758576,Liljeholmen
+2014-09-19,Sjöviksvägen 26,Liljeholmen,RodFruangen,2,64,null,Lägenhet,2008,[Liljeholmskajen],2695000,-120000,2575000,4384,Södermäklarna,478.5461940127046,Liljeholmen
+2014-09-19,Sturehillsvägen 17,Liljeholmen,RodFruangen,4,94,null,Lägenhet,2013,[Liljeholmskajen],4250000,0,4250000,4864,Fastighetsbyrån,897.523558372921,Liljeholmen
+2014-09-18,Sjöviksvägen 45,Liljeholmen,RodFruangen,4,84,4,Lägenhet,2006,[Liljeholmen],4095000,225000,4320000,5068,HusmanHagberg,613.88887633666,Liljeholmen
+2014-09-18,Marieviksgatan 44,Liljeholmen,RodFruangen,3,87,1,Lägenhet,2010,[Liljeholmskajen],4095000,5000,4100000,4502,SkandiaMäklarna,363.52797594180333,Liljeholmen
+2014-09-16,Nybohovsbacken 81,Liljeholmen,RodFruangen,2,59,8,Lägenhet,1960,[Liljeholmen],2695000,115000,2810000,1950,Notar,581.7662785296308,Liljeholmen
+2014-09-15,Hildebergsvägen 6,Liljeholmen,RodFruangen,2,52.5,5,Lägenhet,2006,[Liljeholmskajen],2395000,655000,3050000,3644,Södermäklarna,886.9576965192165,Liljeholmen
+2014-09-11,Liljeholmstorget 92,Liljeholmen,RodFruangen,2,53,3,Lägenhet,2003,[Liljeholmen],2995000,535000,3530000,2491,Notar,29.889261992847732,Liljeholmen
+2014-09-11,Marieviksgatan 45,Liljeholmen,RodFruangen,4,91,1,Lägenhet,2013,[Liljeholmskajen],4795000,55000,4850000,4055,SkandiaMäklarna,385.7372772112591,Liljeholmen
+2014-09-10,Sjöviksvägen 76,Liljeholmen,RodFruangen,2,47,5,Lägenhet,2008,[Liljeholmskajen],2395000,405000,2800000,3150,Fastighetsbyrån,759.3415297597718,Liljeholmen
+2014-09-10,Marieviksgatan 44,Liljeholmen,RodFruangen,3,84,3,Lägenhet,2010,[Liljeholmskajen],3995000,505000,4500000,4615,SkandiaMäklarna,363.52797594180333,Liljeholmen
+2014-09-10,Nybodaringen 93,Liljeholmen,RodFruangen,3,83,null,Lägenhet,1998,[Nybodahöjden],3495000,245000,3740000,4334,Södermäklarna,698.8317627734762,Liljeholmen
+2014-09-09,Nybohovsgränd 42,Liljeholmen,RodFruangen,3,78,1,Lägenhet,1962,[Liljeholmen],3095000,355000,3450000,3263,MäklarMäster,389.4986320779583,Liljeholmen
+2014-09-05,Katrinebergsbacken 36,Liljeholmen,RodFruangen,3,87,null,Lägenhet,1993,[Liljeholmen],4100000,0,4100000,5006,Fastighetsbyrån,221.0519190824253,Liljeholmen
+2014-09-05,Liljeholmstorget 96,Liljeholmen,RodFruangen,3,81,5,Lägenhet,2003,[Liljeholmen],5295000,1055000,6350000,3329,Notar,42.43364816985561,Liljeholmen
+2014-09-04,Vinodlargatan 4,Liljeholmen,RodFruangen,5,100,6,Lägenhet,2005,[Liljeholmskajen],4950000,1060000,6010000,5803,SkandiaMäklarna,639.9394244322269,Liljeholmen
+2014-09-04,Vingårdsgatan 8,Liljeholmen,RodFruangen,3,83,4,Lägenhet,2008,[Liljeholmskajen],4375000,-275000,4100000,4989,Mäklarhuset,577.1909563493955,Liljeholmen
+2014-09-04,Förmansvägen 21,Liljeholmen,RodFruangen,3,87,1,Lägenhet,2004,[Liljeholmskajen],3995000,180000,4175000,4579,Bjurfors,535.6729946727482,Liljeholmen
+2014-08-29,Vingårdsgatan 5,Liljeholmen,RodFruangen,4,84.5,1,Lägenhet,2006,[Liljeholmskajen],3995000,105000,4100000,5088,Södermäklarna,593.7021091334869,Liljeholmen
+2014-08-29,Nybodaringen 59,Liljeholmen,RodFruangen,2,56.7,null,Lägenhet,1998,[Liljeholmen],2250000,50000,2300000,3684,Fastighetsbyrån,648.9796082142584,Midsommarkransen
+2014-08-28,Nybohovsgränd 52,Liljeholmen,RodFruangen,5,111,3,Lägenhet,1962,[Liljeholmen],3950000,250000,4200000,4652,MäklarMäster,334.61944358007963,Liljeholmen
+2014-08-28,Nybodaringen 101,Liljeholmen,RodFruangen,1.5,44.7,1,Lägenhet,null,[Liljeholmen],2195000,105000,2300000,3053,Svensk Fastighetsförmedling,771.2747498151526,Liljeholmen
+2014-08-27,Liljeholmstorget 10,Liljeholmen,RodFruangen,3,82,6,Lägenhet,2006,[Liljeholmen],4500000,0,4500000,4849,SkandiaMäklarna,131.4672698107383,Liljeholmen
+2014-08-22,Hildebergsvägen 26,Liljeholmen,RodFruangen,4,94.5,4,Lägenhet,2005,[Liljeholmskajen],3995000,205000,4200000,5332,Notar,948.3913276262697,Midsommarkransen
+2014-08-22,Blekegatan 1,Liljeholmen,RodFruangen,3,89,5,Lägenhet,2004,[Liljeholmskajen],4495000,0,4495000,4780,Södermäklarna,472.0371317021367,Liljeholmen
+2014-08-20,Grönbrinksgatan 8,Liljeholmen,RodFruangen,5,115,1,Lägenhet,2009,[Liljeholmskajen],4950000,350000,5300000,6797,SkandiaMäklarna,515.2448699618185,Liljeholmen
+2014-08-20,Sjöviksvägen 39,Liljeholmen,RodFruangen,2,62,2,Lägenhet,2008,[Liljeholmskajen],3295000,315000,3610000,4041,Södermäklarna,566.4517944344813,Liljeholmen
+2014-08-20,Buteljgatan 26,Liljeholmen,RodFruangen,2,46,2,Lägenhet,2011,[Liljeholmskajen],2575000,425000,3000000,2772,Södermäklarna,427.15658596411134,Liljeholmen
+2014-08-16,Nybohovsbacken 85,Liljeholmen,RodFruangen,3,76,2,Lägenhet,1961,[Liljeholmen],2895000,55000,2950000,3521,SkandiaMäklarna,618.7419465417552,Liljeholmen
+2014-08-15,Nybohovsbacken 83,Liljeholmen,RodFruangen,4,97,6,Lägenhet,null,[Liljeholmen],3795000,445000,4240000,3205,Fastighetsbyrån,612.6497248221557,Liljeholmen
+2014-08-14,Nybohovsgränd 4,Liljeholmen,RodFruangen,4,79,4,Lägenhet,1961,[Liljeholmen],2995000,330000,3325000,2831,Notar,404.77822034916056,Liljeholmen
+2014-08-14,Nybohovsgränd 16,Liljeholmen,RodFruangen,3,71,4,Lägenhet,1962,[Liljeholmen],3350000,225000,3575000,2631,Södermäklarna,367.17464422003314,Liljeholmen
+2014-08-14,Buteljgatan 26,Liljeholmen,RodFruangen,3,81,7,Lägenhet,2012,[Liljeholmskajen],4395000,415000,4810000,4022,Södermäklarna,427.15658596411134,Liljeholmen
+2014-08-06,Liljeholmstorget 24,Liljeholmen,RodFruangen,2,57.5,3,Lägenhet,2004,[Liljeholmen],2995000,255000,3250000,3070,Notar,85.17503820682325,Liljeholmen
+2014-08-01,Nybohovsbacken 87,Liljeholmen,RodFruangen,3,71,3,Lägenhet,1961,[Liljeholmen],2895000,0,2895000,3355,Notar,618.7419465417552,Liljeholmen
+2014-07-29,Katrinebergsbacken 32,Liljeholmen,RodFruangen,2,60,3,Lägenhet,1993,[Liljeholmen],2495000,155000,2650000,3467,Notar,234.13590034228878,Liljeholmen
+2014-07-23,Nybohovsbacken 83,Liljeholmen,RodFruangen,2,59,10,Lägenhet,1960,[Liljeholmen],2995000,0,2995000,1949,Notar,612.6497248221557,Liljeholmen
+2014-07-22,Sjöviksbacken 5,Liljeholmen,RodFruangen,4,99,9,Lägenhet,2014,[Liljeholmskajen],6400000,285000,6685000,5107,Länsförsäkringar Fastighetsförmedling,722.6847394072548,Liljeholmen
+2014-07-19,Sjöviksbacken 5,Liljeholmen,RodFruangen,3,89,1,Lägenhet,2014,[Liljeholmskajen],5675000,0,5675000,4886,Mäklarhuset,722.6847394072548,Liljeholmen
+2014-07-11,Nybohovsgränd 13,Liljeholmen,RodFruangen,3.5,80,null,Lägenhet,1962,[Liljeholmen],3395000,505000,3900000,3312,Södermäklarna,311.7441017729773,Liljeholmen
+2014-07-10,Nybohovsbacken 77,Liljeholmen,RodFruangen,2,40,7,Lägenhet,1962,[Liljeholmen],1995000,105000,2100000,2059,Notar,573.3097122062024,Liljeholmen
+2014-07-08,Fredsborgsgatan 17,Liljeholmen,RodFruangen,2.5,81.5,1,Lägenhet,2003,[Årstadal],3195000,105000,3300000,4292,RE/MAX Sverige,546.3493391555204,Liljeholmen
+2014-07-03,Nybohovsbacken 91,Liljeholmen,RodFruangen,1.5,32,null,Lägenhet,1960,[Liljeholmen],1595000,490000,2085000,1742,Notar,664.1877901938345,Liljeholmen
+2014-07-03,Grönbrinksgatan 8,Liljeholmen,RodFruangen,4,114,2,Lägenhet,2009,[Liljeholmskajen],4795000,105000,4900000,6753,Södermäklarna,515.2448699618185,Liljeholmen
+2014-07-02,Sjöviksbacken 5,Liljeholmen,RodFruangen,3,90,9,Lägenhet,2013,[Liljeholmskajen],5850000,60000,5910000,4923,SkandiaMäklarna,722.6847394072548,Liljeholmen
+2014-06-28,Katrinebergsbacken 24,Liljeholmen,RodFruangen,4,97,2,Lägenhet,1994,[Liljeholmen],4495000,-195000,4300000,5259,Mäklarhuset,254.8159308262418,Liljeholmen
+2014-06-25,Fredsborgsgatan 2,Liljeholmen,RodFruangen,2,53,0,Lägenhet,2004,[Liljeholmskajen],2495000,180000,2675000,3241,Mäklarhuset,474.1365218758576,Liljeholmen
+2014-06-23,Liljeholmstorget 8,Liljeholmen,RodFruangen,2,69,6,Lägenhet,2004,[Liljeholmen],3195000,325000,3520000,3783,Södermäklarna,136.28626359112752,Liljeholmen
+2014-06-19,Liljeholmsvägen 8A,Liljeholmen,RodFruangen,2,78,2,Lägenhet,1906,[Liljeholmen],4875000,385000,5260000,2090,Mäklarhuset,414.14543810624673,Liljeholmen
+2014-06-19,Liljeholmsvägen,Liljeholmen,RodFruangen,3,78,12.5,Lägenhet,2008,[Liljeholmen],3995000,0,3995000,4485,Fastighetsbyrån,268.98113081593175,Liljeholmen
+2014-06-17,Vingårdsgatan 7,Liljeholmen,RodFruangen,2,62,2,Lägenhet,2006,[Liljeholmskajen],2995000,405000,3400000,4005,SkandiaMäklarna,622.0491462209413,Liljeholmen
+2014-06-15,Buteljgatan 26,Liljeholmen,RodFruangen,2,55,null,Lägenhet,2011,[Liljeholmskajen],1995000,655000,2650000,3075,Bjurfors,427.15658596411134,Liljeholmen
+2014-06-13,Buteljgatan 26,Liljeholmen,RodFruangen,3,81,4,Lägenhet,2011,[Liljeholmskajen],3995000,355000,4350000,4312,Fastighetsbyrån,427.15658596411134,Liljeholmen
+2014-06-13,Liljeholmstorget 14,Liljeholmen,RodFruangen,3,78.5,2,Lägenhet,null,[Liljeholmen],3495000,325000,3820000,4673,Fastighetsbyrån,123.08371381706498,Liljeholmen
+2014-06-12,Vingårdsgatan 7,Liljeholmen,RodFruangen,2,64,null,Lägenhet,2004,[Liljeholmskajen],3195000,320000,3515000,4083,Svenska Mäklarhuset,622.0491462209413,Liljeholmen
+2014-06-12,Nybohovsgränd 48,Liljeholmen,RodFruangen,1,42.7,null,Lägenhet,1962,[Liljeholmen],1690000,610000,2300000,1790,MäklarMäster,371.72208266470795,Liljeholmen
+2014-06-11,Liljeholmsgränd 13,Liljeholmen,RodFruangen,3,77,4,Lägenhet,2003,[Liljeholmen],3995000,955000,4950000,3218,Notar,28.78774772159332,Liljeholmen
+2014-06-09,Sjövikstorget 11,Liljeholmen,RodFruangen,3,78,6,Lägenhet,2008,[Liljeholmskajen],4495000,465000,4960000,4781,Södermäklarna,528.9061331361161,Liljeholmen
+2014-06-07,Nybohovsbacken 101,Liljeholmen,RodFruangen,3,76,2,Lägenhet,1962,[Liljeholmen],2695000,115000,2810000,3484,MäklarMäster,628.6215812446932,Aspudden
+2014-06-05,Sjöviksbacken 5,Liljeholmen,RodFruangen,3,90,16,Lägenhet,2014,[Liljeholmskajen],6195000,0,6195000,4802,Notar,722.6847394072548,Liljeholmen
+2014-06-05,Marieviksgatan 44,Liljeholmen,RodFruangen,3,84,5,Lägenhet,2010,[Liljeholmskajen],3895000,255000,4150000,4615,SkandiaMäklarna,363.52797594180333,Liljeholmen
+2014-06-05,Sturehillsvägen 42,Liljeholmen,RodFruangen,2,55,1,Lägenhet,2009,[Liljeholmskajen],2595000,425000,3020000,3422,SkandiaMäklarna,928.7812055685641,Liljeholmen
+2014-06-03,Sjöviksvägen 76,Liljeholmen,RodFruangen,2.5,62,7,Lägenhet,2007,[Liljeholmen],3195000,0,3195000,3814,Länsförsäkringar Fastighetsförmedling,759.3415297597718,Liljeholmen
+2014-05-30,Sturehillsvägen 40,Liljeholmen,RodFruangen,3,85,null,Lägenhet,2009,[Liljeholmskajen],3995000,105000,4100000,4624,Södermäklarna,895.595006955802,Liljeholmen
+2014-05-30,Katrinebergsbacken 24,Liljeholmen,RodFruangen,2.5,67,2,Lägenhet,1994,[Liljeholmen],2800000,210000,3010000,3875,Svenska Mäklarhuset,254.8159308262418,Liljeholmen
+2014-05-28,Sjöviksvägen 39,Liljeholmen,RodFruangen,3,86.5,6,Lägenhet,2008,[Liljeholmskajen],4095000,55000,4150000,5132,Södermäklarna,566.4517944344813,Liljeholmen
+2014-05-27,Sjöviksvägen 38,Liljeholmen,RodFruangen,4,105.5,2,Lägenhet,2003,[Liljeholmskajen],4395000,205000,4600000,5318,SkandiaMäklarna,560.957241929685,Liljeholmen
+2014-05-27,Vingårdsgatan 7,Liljeholmen,RodFruangen,2,63,6,Lägenhet,2005,[Liljeholmskajen],3495000,-45000,3450000,4064,Södermäklarna,622.0491462209413,Liljeholmen
+2014-05-27,Liljeholmsvägen 12,Liljeholmen,RodFruangen,3,78,5,Lägenhet,2009,[Liljeholmen],3795000,0,3795000,4485,Notar,321.27266135232355,Liljeholmen
+2014-05-23,Sturehillsvägen 15,Liljeholmen,RodFruangen,3,80,4,Lägenhet,2012,[Liljeholmskajen],4400000,-80000,4320000,4310,Mäklarhuset,895.3200073657897,Liljeholmen
+2014-05-22,Sjöviksvägen 37,Liljeholmen,RodFruangen,2,61,null,Lägenhet,2008,[Liljeholmskajen],3495000,0,3495000,3997,Svenska Mäklarhuset,542.5615970266399,Liljeholmen
+2014-05-19,Marieviksgatan 41,Liljeholmen,RodFruangen,4,92,null,Lägenhet,2012,[Liljeholmskajen],4995000,615000,5610000,4899,Södermäklarna,378.5892216532709,Liljeholmen
+2014-05-19,Sjöviksvägen 38,Liljeholmen,RodFruangen,4,105.5,3,Lägenhet,2003,[Liljeholmskajen],4495000,35000,4530000,5318,Södermäklarna,560.957241929685,Liljeholmen
+2014-05-19,Grönbrinksgatan 8,Liljeholmen,RodFruangen,2,58,3,Lägenhet,2008,[Liljeholmen],2695000,270000,2965000,4122,Södermäklarna,515.2448699618185,Liljeholmen
+2014-05-18,Lövholmsvägen 19,Liljeholmen,RodFruangen,2,84,5,Lägenhet,1986,[Gröndal],2695000,725000,3420000,4220,Living Fastighetsmäkleri,343.2050032767304,Liljeholmen
+2014-05-16,Nybohovsgränd 13,Liljeholmen,RodFruangen,4,115,null,Lägenhet,1962,[Liljeholmen],3995000,555000,4550000,4819,Notar,311.7441017729773,Liljeholmen
+2014-05-16,Nybohovsbacken 73,Liljeholmen,RodFruangen,3,71,6,Lägenhet,1961,[Liljeholmen],2995000,95000,3090000,3459,SkandiaMäklarna,521.7532351250052,Liljeholmen
+2014-05-15,Sjöviksvägen 37,Liljeholmen,RodFruangen,2,61,4,Lägenhet,2008,[Liljeholmskajen],3295000,155000,3450000,3997,Erik Olsson Fastighetsförmedling,542.5615970266399,Liljeholmen
+2014-05-15,Vinodlargatan 1,Liljeholmen,RodFruangen,4,100.5,3,Lägenhet,2007,[Liljeholmskajen],6200000,0,6200000,5931,SkandiaMäklarna,656.9555638381971,Liljeholmen
+2014-05-14,Nybohovsbacken 71,Liljeholmen,RodFruangen,3,71,3,Lägenhet,1961,[Liljeholmen],2895000,105000,3000000,3355,Notar,538.4369520873206,Liljeholmen
+2014-05-14,Vinodlargatan 8,Liljeholmen,RodFruangen,3,74,4,Lägenhet,2006,[Liljeholmskajen],3695000,255000,3950000,4576,SkandiaMäklarna,639.4656370466952,Liljeholmen
+2014-05-14,Nybohovsgränd 8,Liljeholmen,RodFruangen,3,74,4,Lägenhet,1962,[Liljeholmen],2975000,285000,3260000,2652,Balders Ädelmarks,398.36013725539266,Liljeholmen
+2014-05-13,Hildebergsvägen 2,Liljeholmen,RodFruangen,3,76.5,1,Lägenhet,2006,[Liljeholmen],2995000,255000,3250000,4784,SkandiaMäklarna,927.5492796658177,Liljeholmen
+2014-05-11,Nybohovsbacken 101,Liljeholmen,RodFruangen,1,38,null,Lägenhet,null,[Liljeholmen],1995000,205000,2200000,992,Svensk Fastighetsförmedling,628.6215812446932,Aspudden
+2014-05-08,Nybohovsbacken 21,Liljeholmen,RodFruangen,3,71,7,Lägenhet,1962,[Liljeholmen],2995000,195000,3190000,3673,Notar,204.5976300783123,Liljeholmen
+2014-05-08,Nybohovsbacken 105,Liljeholmen,RodFruangen,4,109,null,Lägenhet,1962,[Liljeholmen],2000000,850000,2850000,4910,MäklarMäster,633.4391154808812,Aspudden
+2014-05-08,Nybohovsbacken 83,Liljeholmen,RodFruangen,3,71,8,Lägenhet,1962,[Liljeholmen],3195000,305000,3500000,2346,MäklarMäster,612.6497248221557,Liljeholmen
+2014-05-06,Vingårdsgatan 3,Liljeholmen,RodFruangen,3,73,5,Lägenhet,2006,[Liljeholmskajen],3995000,180000,4175000,4536,Södermäklarna,602.798138639248,Liljeholmen
+2014-05-05,Fredsborgsgatan 2,Liljeholmen,RodFruangen,3,75,null,Lägenhet,null,[Liljeholmen],3745000,340000,4085000,4254,Erik Olsson Fastighetsförmedling,474.1365218758576,Liljeholmen
+2014-05-02,Vingårdsgatan 7,Liljeholmen,RodFruangen,1,40,null,Lägenhet,2005,[Liljeholmskajen],1995000,215000,2210000,3020,Södermäklarna,622.0491462209413,Liljeholmen
+2014-05-02,Hildebergsvägen 24,Liljeholmen,RodFruangen,4,94.5,1,Lägenhet,2005,[Liljeholmskajen],3595000,315000,3910000,5332,HusmanHagberg,926.9711734128773,Midsommarkransen
+2014-05-01,Vingårdsgatan 3,Liljeholmen,RodFruangen,3,78,7,Lägenhet,2005,[Liljeholmskajen],3895000,365000,4260000,4740,Notar,602.798138639248,Liljeholmen
+2014-04-30,Förmansvägen 21,Liljeholmen,RodFruangen,3.5,87,3,Lägenhet,2004,[Liljeholmskajen],3895000,325000,4220000,4579,SkandiaMäklarna,535.6729946727482,Liljeholmen
+2014-04-29,Sjöviksvägen 45,Liljeholmen,RodFruangen,3,76.5,7,Lägenhet,2005,[Liljeholmskajen],3795000,785000,4580000,4655,SkandiaMäklarna,613.88887633666,Liljeholmen
+2014-04-25,Ingenjörsvägen 40,Liljeholmen,RodFruangen,5,122,6,Lägenhet,2009,[Liljeholmskajen],5395000,0,5395000,7194,SkandiaMäklarna,494.39123230499246,Liljeholmen
+2014-04-24,Nybohovsbacken 67,Liljeholmen,RodFruangen,2,59,7,Lägenhet,1960,[Liljeholmen],2395000,340000,2735000,1950,Notar,522.5014675848338,Liljeholmen
+2014-04-24,Liljeholmsvägen 10B,Liljeholmen,RodFruangen,2,59,1,Lägenhet,1915,[Liljeholmen],2995000,655000,3650000,2959,SkandiaMäklarna,381.4352756198099,Liljeholmen
+2014-04-24,Katrinebergsbacken 32,Liljeholmen,RodFruangen,2.5,68,4,Lägenhet,1993,[Liljeholmen],2495000,405000,2900000,4116,Notar,234.13590034228878,Liljeholmen
+2014-04-17,Marieviksgatan 43,Liljeholmen,RodFruangen,2,55,4,Lägenhet,2011,[Liljeholmskajen],2995000,-45000,2950000,3376,SkandiaMäklarna,378.8254575788057,Liljeholmen
+2014-04-16,Vinodlargatan 8,Liljeholmen,RodFruangen,2,62.5,4,Lägenhet,2006,[Liljeholmskajen],3095000,85000,3180000,4024,SkandiaMäklarna,639.4656370466952,Liljeholmen
+2014-04-16,Sjöviksvägen 37,Liljeholmen,RodFruangen,2,61,5,Lägenhet,2008,[Liljeholmskajen],3450000,200000,3650000,3997,Södermäklarna,542.5615970266399,Liljeholmen
+2014-04-15,Marieviksgatan 41,Liljeholmen,RodFruangen,3,76,2,Lägenhet,2011,[Liljeholmskajen],3895000,-55000,3840000,4228,SkandiaMäklarna,378.5892216532709,Liljeholmen
+2014-04-15,Sjöviksvägen 59,Liljeholmen,RodFruangen,3,80,1,Lägenhet,2006,[Liljeholmskajen],3995000,-45000,3950000,4980,Södermäklarna,687.9793266815184,Liljeholmen
+2014-04-15,Marieviksgatan 43,Liljeholmen,RodFruangen,2,54,3,Lägenhet,2012,[Liljeholmskajen],2995000,130000,3125000,3340,Södermäklarna,378.8254575788057,Liljeholmen
+2014-04-15,Liljeholmstorget 20B,Liljeholmen,RodFruangen,3,90,1,Lägenhet,null,[Liljeholmen],3200000,100000,3300000,4976,Mäklarhuset,81.05627829748396,Liljeholmen
+2014-04-14,Nybohovsbacken 68,Liljeholmen,RodFruangen,3,66,null,Lägenhet,2008,[Liljeholmen],2995000,835000,3830000,4453,BOSTHLM,637.4075447466053,Liljeholmen
+2014-04-08,Nybohovsbacken 61,Liljeholmen,RodFruangen,2,42.5,1,Lägenhet,1961,[Liljeholmen],1995000,305000,2300000,1967,Notar,492.1062886685474,Liljeholmen
+2014-04-07,Liljeholmstorget 86,Liljeholmen,RodFruangen,4,91,4,Lägenhet,2003,[Liljeholmen],4995000,1015000,6010000,3851,Södermäklarna,37.51036985845974,Liljeholmen
+2014-04-04,Nybohovsbacken 65,Liljeholmen,RodFruangen,2,59,4,Lägenhet,1960,[Liljeholmen],2395000,235000,2630000,1950,Notar,492.37309468449075,Liljeholmen
+2014-04-04,Nybohovsbacken 54,Liljeholmen,RodFruangen,4,87,6,Lägenhet,1960,[Liljeholmen],3295000,295000,3590000,3234,Notar,468.422871569615,Liljeholmen
+2014-04-03,Grönbrinksgatan 6,Liljeholmen,RodFruangen,3,84,null,Lägenhet,2009,[Liljeholmskajen],3995000,-105000,3890000,5350,Södermäklarna,512.6685850684081,Liljeholmen
+2014-04-02,Nybohovsbacken 61,Liljeholmen,RodFruangen,2,38.5,1,Lägenhet,1961,[Liljeholmen],1695000,375000,2070000,1782,Notar,492.1062886685474,Liljeholmen
+2014-04-02,Vingårdsgatan 5,Liljeholmen,RodFruangen,1,32.5,1,Lägenhet,2005,[Liljeholmskajen],1895000,0,1895000,2633,Fastighetsbyrån,593.7021091334869,Liljeholmen
+2014-04-02,Karaffgatan 4,Liljeholmen,RodFruangen,2,54,2,Lägenhet,2013,[Liljeholmskajen],3195000,0,3195000,2786,SkandiaMäklarna,430.7258440331013,Liljeholmen
+2014-03-31,Vingårdsgatan 5,Liljeholmen,RodFruangen,4,95.5,4,Lägenhet,2005,[Liljeholmskajen],4495000,175000,4670000,5534,Södermäklarna,593.7021091334869,Liljeholmen
+2014-03-28,Hildebergsvägen 26,Liljeholmen,RodFruangen,3,79,3,Lägenhet,null,[Liljeholmen],3395000,155000,3550000,4654,Fastighetsbyrån,948.3913276262697,Midsommarkransen
+2014-03-28,Nybohovsgränd 36,Liljeholmen,RodFruangen,3,78,3,Lägenhet,1962,[Nybohovshöjden],2695000,355000,3050000,3055,Södermäklarna,394.80763460675547,Liljeholmen
+2014-03-27,Nybodaringen 63,Liljeholmen,RodFruangen,2,56.7,null,Radhus,1998,[Nybodahöjden],2295000,95000,2390000,3684,Svenska Mäklarhuset,654.4325511864813,Midsommarkransen
+2014-03-27,Vinodlargatan 4,Liljeholmen,RodFruangen,3.5,73,2,Lägenhet,2005,[Liljeholmen],3500000,340000,3840000,4536,Fastighetsbyrån,639.9394244322269,Liljeholmen
+2014-03-26,Katrinebergsbacken 32,Liljeholmen,RodFruangen,4,97,1,Lägenhet,1993,[Liljeholmen],4095000,0,4095000,4970,Svenska Mäklarhuset,234.13590034228878,Liljeholmen
+2014-03-25,Nybohovsbacken 65,Liljeholmen,RodFruangen,2,59,null,Lägenhet,1960,[Liljeholmen],2495000,5000,2500000,1950,Notar,492.37309468449075,Liljeholmen
+2014-03-20,Nybohovsbacken 29,Liljeholmen,RodFruangen,3,72,null,Lägenhet,1962,[Liljeholmen],2450000,50000,2500000,3715,Notar,229.71962880792663,Liljeholmen
+2014-03-20,Nybohovsbacken 63,Liljeholmen,RodFruangen,3,76,3,Lägenhet,1960,[Liljeholmen],2695000,215000,2910000,3648,Notar,503.2111241466364,Liljeholmen
+2014-03-20,Liljeholmsvägen 12,Liljeholmen,RodFruangen,2,41,4,Lägenhet,2009,[Liljeholmen],1995000,645000,2640000,2358,Notar,321.27266135232355,Liljeholmen
+2014-03-18,Katrinebergsbacken 30,Liljeholmen,RodFruangen,2,65,4,Lägenhet,1995,[Liljeholmen],2495000,535000,3030000,4020,Svenska Mäklarhuset,253.81714158909085,Liljeholmen
+2014-03-17,Sjöviksvägen 76,Liljeholmen,RodFruangen,2,47,6,Lägenhet,2008,[Liljeholmskajen],2425000,-125000,2300000,3150,Fastighetsbyrån,759.3415297597718,Liljeholmen
+2014-03-16,Blekegatan 5,Liljeholmen,RodFruangen,3,91,2,Lägenhet,2004,[Liljeholmskajen],3995000,15000,4010000,4855,Svenska Mäklarhuset,500.0410466160381,Liljeholmen
+2014-03-13,Nybohovsbacken 93,Liljeholmen,RodFruangen,3,71,3,Lägenhet,1962,[Liljeholmen],2590000,110000,2700000,3355,MäklarMäster,669.2990196020319,Liljeholmen
+2014-03-13,Förmansvägen 29,Liljeholmen,RodFruangen,4,104,3,Lägenhet,null,[Liljeholmskajen],4595000,245000,4840000,5468,Södermäklarna,528.2171975721085,Liljeholmen
+2014-03-12,Marieviksgatan 40,Liljeholmen,RodFruangen,3,87,6,Lägenhet,2010,[Liljeholmskajen],3950000,20000,3970000,4502,SkandiaMäklarna,361.68997564091313,Liljeholmen
+2014-03-09,Grönbrinksgatan 8,Liljeholmen,RodFruangen,5,114,5,Lägenhet,2009,[Liljeholmskajen],4895000,425000,5320000,6753,SkandiaMäklarna,515.2448699618185,Liljeholmen
+2014-03-06,Liljeholmstorget 84,Liljeholmen,RodFruangen,3,83,null,Lägenhet,2004,[Liljeholmen],3895000,330000,4225000,3387,Notar,21.004220622902924,Liljeholmen
+2014-03-06,Katrinebergsbacken 36,Liljeholmen,RodFruangen,4,109,2,Lägenhet,1993,[Liljeholmen],4815000,0,4815000,5656,Södermäklarna,221.0519190824253,Liljeholmen
+2014-02-27,Hildebergsvägen 10,Liljeholmen,RodFruangen,2,58,3,Lägenhet,2006,[Liljeholmskajen],2945000,0,2945000,4073,Södermäklarna,891.420929267778,Midsommarkransen
+2014-02-26,Nybodaringen 3,Liljeholmen,RodFruangen,2,54.9,null,Lägenhet,1998,[Liljeholmen],2125000,285000,2410000,3599,Mäklarhuset,580.3023947952049,Midsommarkransen
+2014-02-25,Fredsborgsgatan 6,Liljeholmen,RodFruangen,2,42,0.5,Lägenhet,2004,[Liljeholmskajen],1895000,525000,2420000,2828,SkandiaMäklarna,595.2352815111752,Liljeholmen
+2014-02-21,Hildebergsvägen 2,Liljeholmen,RodFruangen,4,87,5,Lägenhet,2006,[Årstaberg],3995000,10000,4005000,5286,Södermäklarna,927.5492796658177,Liljeholmen
+2014-02-21,Liljeholmsvägen 12,Liljeholmen,RodFruangen,5,137,7,Lägenhet,2008,[Liljeholmen],5950000,-200000,5750000,7878,Mäklarhuset,321.27266135232355,Liljeholmen
+2014-02-20,Nybohovsgränd 16,Liljeholmen,RodFruangen,3,71,3,Lägenhet,1960,[Liljeholmen],2495000,525000,3020000,2595,Notar,367.17464422003314,Liljeholmen
+2014-02-20,Sturehillsvägen 5,Liljeholmen,RodFruangen,4,95,null,Lägenhet,2013,[Liljeholmskajen],4395000,105000,4500000,4679,Fastighetsbyrån,894.1142106718002,Liljeholmen
+2014-02-19,Vinodlargatan 8,Liljeholmen,RodFruangen,2,45,1,Lägenhet,2005,[Liljeholmskajen],2095000,265000,2360000,3230,SkandiaMäklarna,639.4656370466952,Liljeholmen
+2014-02-19,Hildebergsvägen 2,Liljeholmen,RodFruangen,4,87,4,Lägenhet,2005,[Liljeholsmskajen],3575000,275000,3850000,5286,Länsförsäkringar Fastighetsförmedling,927.5492796658177,Liljeholmen
+2014-02-19,Sjöviksvägen 76,Liljeholmen,RodFruangen,2,41,5,Lägenhet,2008,[Liljeholmskajen],2145000,80000,2225000,2918,Bjurfors,759.3415297597718,Liljeholmen
+2014-02-17,Nybohovsbacken 69,Liljeholmen,RodFruangen,3,76,4,Lägenhet,1962,[Liljeholmen],2575000,625000,3200000,3686,Mäklarhuset,511.668545424524,Liljeholmen
+2014-02-15,Hildebergsvägen 2,Liljeholmen,RodFruangen,3,76.5,5,Lägenhet,2006,[Liljeholmskajen],3495000,235000,3730000,4784,Södermäklarna,927.5492796658177,Liljeholmen
+2014-02-13,Liljeholmsvägen 12,Liljeholmen,RodFruangen,2,52,3,Lägenhet,null,[Liljeholmen],2925000,275000,3200000,2990,Fantastic Frank Fastighetsmäkleri,321.27266135232355,Liljeholmen
+2014-02-13,Nybohovsbacken 81,Liljeholmen,RodFruangen,2,59,4,Lägenhet,1960,[Liljeholmen],2395000,130000,2525000,1950,Notar,581.7662785296308,Liljeholmen
+2014-02-12,Nybohovsbacken 97,Liljeholmen,RodFruangen,2.5,59,1,Lägenhet,1960,[Liljeholmen],2295000,355000,2650000,1950,Notar,649.8987881805161,Midsommarkransen
+2014-02-12,Grönbrinksgatan 1,Liljeholmen,RodFruangen,4,118.5,4,Lägenhet,2003,[Liljeholmskajen],5495000,850000,6345000,5789,Södermäklarna,528.1958307859568,Liljeholmen
+2014-02-12,Sjöviksbacken 15,Liljeholmen,RodFruangen,5,112,8,Lägenhet,2008,[Liljeholmskajen],5100000,400000,5500000,5913,Mäklarhuset,741.3772871824696,Liljeholmen
+2014-02-11,Årgångsgatan 2,Liljeholmen,RodFruangen,2,54,3,Lägenhet,2013,[Liljeholmskajen],2995000,235000,3230000,3307,Bjurfors,831.707915959221,Liljeholmen
+2014-02-07,Sturehillsvägen 39,Liljeholmen,RodFruangen,2,55,1,Lägenhet,2009,[Liljeholmskajen],2390000,335000,2725000,3422,SkandiaMäklarna,925.558184249212,Liljeholmen
+2014-02-07,Vingårdsgatan 1,Liljeholmen,RodFruangen,4,96.5,5,Lägenhet,2005,[Liljeholmskajen],5750000,1075000,6825000,5574,SkandiaMäklarna,597.3324698908638,Liljeholmen
+2014-02-07,Nybohovsgränd 44,Liljeholmen,RodFruangen,3,78,3,Lägenhet,1962,[Liljeholmen],2695000,670000,3365000,3055,Södermäklarna,313.0391802257909,Liljeholmen
+2014-02-05,Vinodlargatan 11,Liljeholmen,RodFruangen,3,84.5,7,Lägenhet,2007,[Liljeholmskajen],4100000,270000,4370000,5171,SkandiaMäklarna,656.0448322271108,Liljeholmen
+2014-02-03,Katrinebergsbacken 28,Liljeholmen,RodFruangen,3,67,1.5,Lägenhet,1994,[Liljeholmen],2495000,465000,2960000,3875,Svenska Mäklarhuset,278.869925207487,Liljeholmen
+2014-02-03,Fredsborgsgatan 1,Liljeholmen,RodFruangen,3,83,3,Lägenhet,2008,[Liljeholmskajen],3650000,330000,3980000,5306,Hemverket,483.9950069559268,Liljeholmen
+2014-02-02,Nybohovsbacken 21,Liljeholmen,RodFruangen,4,97,9,Lägenhet,1962,[Liljeholmen],3395000,955000,4350000,4721,Notar,204.5976300783123,Liljeholmen
+2014-01-30,Nybohovsbacken 65,Liljeholmen,RodFruangen,2,59,11,Lägenhet,1960,[Liljeholmen],2495000,585000,3080000,1949,Notar,492.37309468449075,Liljeholmen
+2014-01-30,Sturehillsvägen 37,Liljeholmen,RodFruangen,4,99,4,Lägenhet,2009,[Liljeholmskajen],4695000,330000,5025000,5226,SkandiaMäklarna,925.558184249212,Liljeholmen
+2014-01-30,Hildebergsvägen 18,Liljeholmen,RodFruangen,4,95,3,Lägenhet,2005,[Liljeholsmskajen],3795000,-20000,3775000,5621,Länsförsäkringar Fastighetsförmedling,859.9161644833954,Midsommarkransen
+2014-01-29,Marieviksgatan 44,Liljeholmen,RodFruangen,3,84,2,Lägenhet,2010,[Liljeholmskajen],3695000,425000,4120000,4615,SkandiaMäklarna,363.52797594180333,Liljeholmen
+2014-01-27,Liljeholmstorget 52,Liljeholmen,RodFruangen,3,86.5,null,Lägenhet,2004,[Liljeholmen],3895000,705000,4600000,4087,BOSTHLM,52.79538058676033,Liljeholmen
+2014-01-27,Marieviksgatan 43,Liljeholmen,RodFruangen,5,117,1,Lägenhet,2011,[Liljeholmskajen],4895000,-345000,4550000,5785,SkandiaMäklarna,378.8254575788057,Liljeholmen
+2014-01-24,Sjövikstorget 7,Liljeholmen,RodFruangen,3,85,1,Lägenhet,2008,[Liljeholmskajen],4150000,-200000,3950000,5072,Stones Fastighetsförmedling,530.7953903375363,Liljeholmen
+2014-01-23,Hildebergsvägen 28,Liljeholmen,RodFruangen,2,51.5,null,Lägenhet,2004,[Liljeholmen],2095000,235000,2330000,3424,Fastighetsbyrån,956.3445620476458,Liljeholmen
+2014-01-22,Hildebergsvägen 22,Liljeholmen,RodFruangen,2,51.5,2,Lägenhet,2005,[Liljeholmskajen],2195000,135000,2330000,3424,Svenska Mäklarhuset,906.1190675366586,Midsommarkransen
+2014-01-22,Sjöviksvägen 25,Liljeholmen,RodFruangen,5,107,6,Lägenhet,2013,[Liljeholmskajen],6060000,0,6060000,4831,SkandiaMäklarna,410.7908017248736,Liljeholmen
+2014-01-22,Nybodaringen 32,Liljeholmen,RodFruangen,2,56.7,null,Lägenhet,1998,[Liljeholmen],2195000,225000,2420000,3684,Mäklarhuset,642.0642254161069,Midsommarkransen
+2014-01-21,Hildebergsvägen 24,Liljeholmen,RodFruangen,1.5,38,1,Lägenhet,2005,[Liljeholmen],1595000,285000,1880000,2883,SkandiaMäklarna,926.9711734128773,Midsommarkransen
+2014-01-21,Nybohovsbacken 87,Liljeholmen,RodFruangen,2,39,null,Lägenhet,1960,[Liljeholmen],1795000,55000,1850000,2071,Notar,618.7419465417552,Liljeholmen
+2014-01-21,Sjöviksvägen,Liljeholmen,RodFruangen,3,80.5,59.5,Lägenhet,2006,[Liljeholmskajen],4100000,100000,4200000,5006,HusmanHagberg,680.4194782628164,Liljeholmen
+2014-01-21,Sjöviksvägen 29,Liljeholmen,RodFruangen,2,54,3,Lägenhet,2012,[Liljeholmskajen],3195000,130000,3325000,3006,SkandiaMäklarna,437.88503911532115,Liljeholmen
+2014-01-16,Fredsborgsgatan 3,Liljeholmen,RodFruangen,4.5,111,2,Lägenhet,2009,[Liljeholmskajen],4495000,515000,5010000,6622,Södermäklarna,494.6471131999048,Liljeholmen
+2014-01-15,Vingårdsgatan 1,Liljeholmen,RodFruangen,3,76,3,Lägenhet,2005,[Liljeholmskajen],4500000,500000,5000000,4655,SkandiaMäklarna,597.3324698908638,Liljeholmen
+2014-01-15,Grönbrinksgatan 6,Liljeholmen,RodFruangen,3,84,4,Lägenhet,2009,[Liljeholmskajen],3895000,125000,4020000,5350,Södermäklarna,512.6685850684081,Liljeholmen
+2014-01-15,Fredsborgsgatan 8,Liljeholmen,RodFruangen,2,61,6,Lägenhet,2003,[Liljeholmskajen],2995000,75000,3070000,3603,Södermäklarna,517.3770055189705,Liljeholmen
+2014-01-15,Nybohovsbacken 68,Liljeholmen,RodFruangen,3,66,5,Lägenhet,2008,[Liljeholmen],2995000,565000,3560000,4453,Notar,637.4075447466053,Liljeholmen
+2014-01-10,Årgångsgatan 4,Liljeholmen,RodFruangen,2,59,3,Lägenhet,2013,[Liljeholmskajen],2995000,205000,3200000,3491,Bjurfors,746.6084089699658,Liljeholmen
+2013-12-20,Katrinebergsbacken 24,Liljeholmen,RodFruangen,2,47,1,Lägenhet,1995,[Liljeholmen],1995000,435000,2430000,3141,Notar,254.8159308262418,Liljeholmen
+2013-12-16,Nybohovsgränd 22,Liljeholmen,RodFruangen,3,71,3,Lägenhet,1961,[Liljeholmen],2495000,795000,3290000,2549,Notar,348.3439366776159,Liljeholmen
+2013-12-13,Liljeholmstorget 54,Liljeholmen,RodFruangen,3,75,4,Lägenhet,2004,[Liljeholmen],3595000,135000,3730000,3713,Notar,53.21414870185631,Liljeholmen
+2013-11-30,Nybohovsbacken 85,Liljeholmen,RodFruangen,3,76,3,Lägenhet,1960,[Liljeholmen],2495000,140000,2635000,3648,Notar,618.7419465417552,Liljeholmen
+2013-11-29,Hildebergsvägen 8,Liljeholmen,RodFruangen,2,63,2,Lägenhet,2006,[Årstaberg],2495000,105000,2600000,4246,Notar,871.690232367155,Liljeholmen
+2013-11-28,Grönbrinksgatan 9,Liljeholmen,RodFruangen,4,108,4,Lägenhet,2003,[Liljeholmskajen],4995000,50000,5045000,5407,Fastighetsbyrån,531.4132399543292,Liljeholmen
+2013-11-28,Blekegatan 1,Liljeholmen,RodFruangen,4,99,null,Lägenhet,2003,[Liljeholmskajen],4795000,405000,5200000,5532,Södermäklarna,472.0371317021367,Liljeholmen
+2013-11-28,Hildebergsvägen 6,Liljeholmen,RodFruangen,4,95,4,Lägenhet,2006,[Liljeholmen],3795000,455000,4250000,5625,Fastighetsbyrån,886.9576965192165,Liljeholmen
+2013-11-28,Nybohovsbacken 31,Liljeholmen,RodFruangen,3,72,null,Lägenhet,1962,[Liljeholmen],2495000,525000,3020000,3860,Fastighetsbyrån,272.53698359948197,Liljeholmen
+2013-11-28,Sjöviksvägen 37,Liljeholmen,RodFruangen,4,96.5,3,Lägenhet,2008,[Liljeholmskajen],4495000,340000,4835000,5625,Södermäklarna,542.5615970266399,Liljeholmen
+2013-11-27,Karaffgatan 5,Liljeholmen,RodFruangen,2,54,4,Lägenhet,2011,[Liljeholmskajen],2995000,385000,3380000,3208,SkandiaMäklarna,437.54826897498475,Liljeholmen
+2013-11-27,Vinodlargatan 11,Liljeholmen,RodFruangen,3,84.5,5,Lägenhet,2006,[Liljeholmskajen],3750000,375000,4125000,5171,Mäklarhuset,656.0448322271108,Liljeholmen
+2013-11-25,Marieviksgatan 41,Liljeholmen,RodFruangen,2,46,2,Lägenhet,2011,[Liljeholmskajen],2500000,-100000,2400000,2981,SkandiaMäklarna,378.5892216532709,Liljeholmen
+2013-11-25,Vingårdsgatan 2,Liljeholmen,RodFruangen,4,97,2,Lägenhet,2008,[Liljeholmskajen],5595000,85000,5680000,5647,SkandiaMäklarna,581.9786995709441,Liljeholmen
+2013-11-23,Hildebergsvägen 24,Liljeholmen,RodFruangen,2,45.5,null,Lägenhet,2005,[Årstaberg],1995000,-25000,1970000,3128,Svensk Fastighetsförmedling,926.9711734128773,Midsommarkransen
+2013-11-22,Liljeholmsvägen 10,Liljeholmen,RodFruangen,3,77,1,Lägenhet,1915,[Liljeholmen],3550000,850000,4400000,3843,HusmanHagberg,356.4109313994759,Liljeholmen
+2013-11-22,Vingårdsgatan 3,Liljeholmen,RodFruangen,2,48.5,2,Lägenhet,null,[Liljeholmskajen],2495000,35000,2530000,3368,Fastighetsbyrån,602.798138639248,Liljeholmen
+2013-11-22,Nybohovsgränd 28,Liljeholmen,RodFruangen,4,90,2,Lägenhet,1962,[Liljeholmen],2990000,490000,3480000,3525,MäklarMäster,447.4067225801608,Liljeholmen
+2013-11-22,Nybodaringen 75,Liljeholmen,RodFruangen,2,56.7,1,Lägenhet,1988,[Liljeholmen],2195000,95000,2290000,3684,Notar,669.8885888148369,Midsommarkransen
+2013-11-21,Nybohovsbacken 68,Liljeholmen,RodFruangen,2,52,5,Lägenhet,2008,[Liljeholmen],2595000,130000,2725000,3519,HusmanHagberg,637.4075447466053,Liljeholmen
+2013-11-15,Nybohovsbacken 67,Liljeholmen,RodFruangen,3,72,9,Lägenhet,1960,[Liljeholmen],2750000,600000,3350000,2379,Balders Ädelmarks,522.5014675848338,Liljeholmen
+2013-11-15,Fredsborgsgatan 3,Liljeholmen,RodFruangen,2,58,4,Lägenhet,2008,[Liljeholmskajen],2850000,60000,2910000,4122,Södermäklarna,494.6471131999048,Liljeholmen
+2013-11-14,Fredsborgsgatan 2,Liljeholmen,RodFruangen,4,103,5,Lägenhet,2003,[Liljeholmskajen],3995000,605000,4600000,5716,Fastighetsbyrån,474.1365218758576,Liljeholmen
+2013-11-14,Blekegatan 1,Liljeholmen,RodFruangen,3,79,4,Lägenhet,2004,[Liljeholmskajen],3395000,335000,3730000,4636,SkandiaMäklarna,472.0371317021367,Liljeholmen
+2013-11-13,Hildebergsvägen 14,Liljeholmen,RodFruangen,2,51.5,2,Lägenhet,2005,[Liljeholmen],2095000,105000,2200000,3601,SkandiaMäklarna,819.8478329052984,Midsommarkransen
+2013-11-07,Fredsborgsgatan 8,Liljeholmen,RodFruangen,3,88,6,Lägenhet,2004,[Liljeholmskajen],3885000,665000,4550000,4860,Södermäklarna,517.3770055189705,Liljeholmen
+2013-11-07,Hildebergsvägen 18,Liljeholmen,RodFruangen,3,79,3,Lägenhet,2005,[Liljeholmskajen],3095000,505000,3600000,4888,Svenska Mäklarhuset,859.9161644833954,Midsommarkransen
+2013-11-07,Grönbrinksgatan 6,Liljeholmen,RodFruangen,2,58,3,Lägenhet,2009,[Liljeholmskajen],2850000,0,2850000,4122,SkandiaMäklarna,512.6685850684081,Liljeholmen
+2013-11-06,Katrinebergsbacken 32,Liljeholmen,RodFruangen,2.5,68,5,Lägenhet,1993,[Liljeholmen],2695000,25000,2720000,4128,Notar,234.13590034228878,Liljeholmen
+2013-11-06,Vingårdsgatan 2,Liljeholmen,RodFruangen,3,88.5,1,Lägenhet,2008,[Liljeholmskajen],3895000,105000,4000000,5214,SkandiaMäklarna,581.9786995709441,Liljeholmen
+2013-11-01,Marieviksgatan 48,Liljeholmen,RodFruangen,4,89,null,Lägenhet,2010,[Liljeholmen],3995000,255000,4250000,4879,Notar,359.80555174292886,Liljeholmen
+2013-11-01,Grönbrinksgatan 10,Liljeholmen,RodFruangen,2,64,1,Lägenhet,2009,[Liljeholmskajen],2750000,-30000,2720000,4384,SkandiaMäklarna,509.5895609048986,Liljeholmen
+2013-10-31,Sjöviksvägen 59,Liljeholmen,RodFruangen,3,80.5,null,Lägenhet,2006,[Liljeholmskajen],4195000,165000,4360000,5006,Södermäklarna,687.9793266815184,Liljeholmen
+2013-10-31,Blekegatan 3,Liljeholmen,RodFruangen,2,66,null,Lägenhet,2004,[Liljeholmskajen],2995000,0,2995000,3925,SkandiaMäklarna,359.42998887966655,Liljeholmen
+2013-10-30,Grönbrinksgatan 8,Liljeholmen,RodFruangen,3,81,1,Lägenhet,2009,[Liljeholmskajen],3395000,295000,3690000,5219,Notar,515.2448699618185,Liljeholmen
+2013-10-28,Hildebergsvägen 12,Liljeholmen,RodFruangen,4,87,4,Lägenhet,2006,[Liljeholmskajen],3595000,135000,3730000,5413,Södermäklarna,849.0341986128606,Midsommarkransen
+2013-10-25,Katrinebergsbacken 32,Liljeholmen,RodFruangen,2,53,4,Lägenhet,1993,[Liljeholmen],1995000,310000,2305000,3562,Notar,234.13590034228878,Liljeholmen
+2013-10-25,Liljeholmstorget 92,Liljeholmen,RodFruangen,1,34,1,Lägenhet,2003,[Liljeholmen],1895000,325000,2220000,1846,Notar,29.889261992847732,Liljeholmen
+2013-10-24,Katrinebergsbacken 24,Liljeholmen,RodFruangen,1,47,5,Lägenhet,1995,[Liljeholmen],1695000,105000,1800000,3141,SkandiaMäklarna,254.8159308262418,Liljeholmen
+2013-10-23,Hildebergsvägen 12,Liljeholmen,RodFruangen,2,58,2,Lägenhet,2006,[Liljeholmen],2295000,210000,2505000,4032,SkandiaMäklarna,849.0341986128606,Midsommarkransen
+2013-10-21,Marieviksgatan 42,Liljeholmen,RodFruangen,2,70,6,Lägenhet,2009,[Liljeholmskajen],2995000,545000,3540000,4009,Södermäklarna,362.265470401328,Liljeholmen
+2013-10-20,Vingårdsgatan 7,Liljeholmen,RodFruangen,2,63.5,7,Lägenhet,null,[Liljeholmskajen],3395000,15000,3410000,4064,Södermäklarna,622.0491462209413,Liljeholmen
+2013-10-18,Sturehillsvägen 37,Liljeholmen,RodFruangen,3,82,3,Lägenhet,2009,[Liljeholmskajen],3575000,-95000,3480000,4444,Mäklarhuset,925.558184249212,Liljeholmen
+2013-10-17,Hildebergsvägen 10,Liljeholmen,RodFruangen,4,87,null,Lägenhet,2006,[Liljeholmen],3750000,105000,3855000,5413,Södermäklarna,891.420929267778,Midsommarkransen
+2013-10-17,Nybohovsbacken 80,Liljeholmen,RodFruangen,3,78,1,Lägenhet,1960,[Liljeholmen],2550000,-70000,2480000,3563,Notar,625.0873746960755,Aspudden
+2013-10-17,Sjöviksvägen 39,Liljeholmen,RodFruangen,3,86.5,3,Lägenhet,2008,[Liljeholmskajen],4280000,0,4280000,5132,Mäklarhuset,566.4517944344813,Liljeholmen
+2013-10-16,Sjöviksvägen 38,Liljeholmen,RodFruangen,4,102,null,Lägenhet,null,[Liljeholmskajen],4495000,885000,5380000,5114,Södermäklarna,560.957241929685,Liljeholmen
+2013-10-16,Sturehillsvägen 7,Liljeholmen,RodFruangen,2,53,null,Lägenhet,2013,[Liljeholmskajen],2495000,-95000,2400000,3085,Notar,897.433726326704,Liljeholmen
+2013-10-16,Ingenjörsvägen 42,Liljeholmen,RodFruangen,4,88,null,Lägenhet,null,[Liljeholmskajen],3750000,750000,4500000,5525,BOSTHLM,494.39123230499246,Liljeholmen
+2013-10-10,Nybohovsbacken 29,Liljeholmen,RodFruangen,2,58,3,Lägenhet,1962,[Liljeholmen],2395000,105000,2500000,3128,Notar,229.71962880792663,Liljeholmen
+2013-10-10,Nybohovsgränd 50,Liljeholmen,RodFruangen,3,76,1,Lägenhet,null,[Liljeholmen],2590000,180000,2770000,2977,MäklarMäster,343.60909435733765,Liljeholmen
+2013-10-09,Sturehillsvägen 46,Liljeholmen,RodFruangen,4,102,1,Lägenhet,2009,[Liljeholmskajen],4395000,15000,4410000,5260,SkandiaMäklarna,925.558184249212,Liljeholmen
+2013-10-06,Liljeholmstorget 32,Liljeholmen,RodFruangen,3,87.5,null,Lägenhet,2004,[Liljeholmen],3695000,375000,4070000,4121,Notar,104.48671873561311,Liljeholmen
+2013-10-05,Lövholmsvägen 21,Liljeholmen,RodFruangen,4,85,4,Lägenhet,null,[Gröndal],4095000,355000,4450000,3883,Living Fastighetsmäkleri,401.07761167597704,Liljeholmen
+2013-10-04,Förmansvägen 25,Liljeholmen,RodFruangen,4,100,1,Lägenhet,null,[Liljeholmskajen],3995000,290000,4285000,5597,Södermäklarna,576.8813086886644,Liljeholmen
+2013-10-04,Nybodaringen 34,Liljeholmen,RodFruangen,2,56.7,2,Lägenhet,1998,[Liljeholmen],2245000,195000,2440000,3684,Mäklarhuset,645.9414642542653,Midsommarkransen
+2013-10-03,Karaffgatan 3,Liljeholmen,RodFruangen,4,107,2,Lägenhet,2011,[Liljeholmskajen],4350000,505000,4855000,5348,SkandiaMäklarna,403.35829383134643,Liljeholmen
+2013-10-02,Marieviksgatan 44,Liljeholmen,RodFruangen,3,87,5,Lägenhet,2009,[Liljeholmskajen],3650000,270000,3920000,4727,SkandiaMäklarna,363.52797594180333,Liljeholmen
+2013-10-02,Liljeholmstorget 50,Liljeholmen,RodFruangen,3,85,null,Lägenhet,2004,[Liljeholmen],3595000,0,3595000,4040,Fastighetsbyrån,56.64160372548736,Liljeholmen
+2013-10-02,Marieviksgatan 48,Liljeholmen,RodFruangen,3,74,null,Lägenhet,2010,[Liljeholmskajen],3970000,0,3970000,4160,BOSTHLM,359.80555174292886,Liljeholmen
+2013-09-27,Ingenjörsvägen 42,Liljeholmen,RodFruangen,2,66,7,Lägenhet,null,[Liljeholmskajen],3295000,160000,3455000,4475,Södermäklarna,494.39123230499246,Liljeholmen
+2013-09-26,Katrinebergsbacken 36,Liljeholmen,RodFruangen,3,88,2,Lägenhet,1993,[Liljeholmen],2995000,630000,3625000,4778,Notar,221.0519190824253,Liljeholmen
+2013-09-25,Nybohovsbacken 101,Liljeholmen,RodFruangen,3,76,3,Lägenhet,null,[Liljeholmen],2290000,150000,2440000,3648,MäklarMäster,628.6215812446932,Aspudden
+2013-09-24,Vingårdsgatan 48,Liljeholmen,RodFruangen,4,104,0.5,Lägenhet,2003,[Liljeholmskajen],4195000,0,4195000,5241,SkandiaMäklarna,620.9198264188736,Liljeholmen
+2013-09-23,Nybodaringen 101,Liljeholmen,RodFruangen,4,101,null,Lägenhet,1998,[Liljeholmen],3195000,925000,4120000,6897,HusmanHagberg,771.2747498151526,Liljeholmen
+2013-09-23,Sjöviksbacken 2,Liljeholmen,RodFruangen,2,46.5,3,Lägenhet,2006,[Liljeholmskajen],2595000,-95000,2500000,3396,Notar,702.3131978194729,Liljeholmen
+2013-09-22,Nybohovsgränd 13,Liljeholmen,RodFruangen,3,71,2,Lägenhet,null,[Liljeholmen],2890000,60000,2950000,2781,MäklarMäster,311.7441017729773,Liljeholmen
+2013-09-20,Liljeholmsvägen 10,Liljeholmen,RodFruangen,2,49,null,Lägenhet,1915,[Liljeholmen],2350000,150000,2500000,2655,Fastighetsbyrån,356.4109313994759,Liljeholmen
+2013-09-20,Nybohovsbacken 81,Liljeholmen,RodFruangen,2,59,2,Lägenhet,1960,[Liljeholmen],2395000,105000,2500000,1950,Notar,581.7662785296308,Liljeholmen
+2013-09-20,Nybodaringen 105,Liljeholmen,RodFruangen,2,63,1,Lägenhet,1998,[Liljeholmen],2145000,105000,2250000,4338,Notar,783.0921501380697,Liljeholmen
+2013-09-13,Sjöviksvägen 37,Liljeholmen,RodFruangen,3,97,2,Lägenhet,null,[Liljeholmen],4290000,310000,4600000,5647,Erik Olsson Fastighetsförmedling,542.5615970266399,Liljeholmen
+2013-09-13,Sjöviksbacken 2,Liljeholmen,RodFruangen,2.5,71.5,null,Lägenhet,null,[Liljeholmen],3295000,330000,3625000,4536,Södermäklarna,702.3131978194729,Liljeholmen
+2013-09-12,Sjöviksvägen 59,Liljeholmen,RodFruangen,4,97.5,6,Lägenhet,2006,[Liljeholmskajen],4295000,385000,4680000,5804,Bjurfors,687.9793266815184,Liljeholmen
+2013-09-12,Marieviksgatan 41,Liljeholmen,RodFruangen,2,45,null,Lägenhet,2012,[Liljeholmskajen],2395000,225000,2620000,2946,Bjurfors,378.5892216532709,Liljeholmen
+2013-09-10,Liljeholmstorget 16,Liljeholmen,RodFruangen,2,63.5,3,Lägenhet,2005,[Liljeholmen],2725000,255000,2980000,3721,Svensk Fastighetsförmedling,100.63997142687509,Liljeholmen
+2013-09-07,Marieviksgatan 38,Liljeholmen,RodFruangen,3,76,null,Lägenhet,2010,[Liljeholmskajen],4900000,235000,5135000,4312,HusmanHagberg,362.4192254351895,Liljeholmen
+2013-09-05,Sjöviksbacken 6,Liljeholmen,RodFruangen,3,79,null,Lägenhet,null,[Liljeholmen],3250000,180000,3430000,4942,Södermäklarna,706.9783252240904,Liljeholmen
+2013-08-31,Sjöviksvägen 34,Liljeholmen,RodFruangen,4,119,null,Lägenhet,2003,[Liljeholmskajen],5200000,0,5200000,5878,Bjurfors,540.9559620214714,Liljeholmen
+2013-08-30,Liljeholmsvägen 12,Liljeholmen,RodFruangen,3,77,null,Lägenhet,2008,[Liljeholmen],3295000,255000,3550000,4586,Fastighetsbyrån,321.27266135232355,Liljeholmen
+2013-08-30,Blekegatan 5,Liljeholmen,RodFruangen,4,91,1,Lägenhet,2004,[Liljeholmskajen],3695000,-300000,3395000,5110,SkandiaMäklarna,500.0410466160381,Liljeholmen
+2013-08-30,Nybodaringen 91,Liljeholmen,RodFruangen,3,83,1,Lägenhet,1998,[Liljeholmen],2895000,595000,3490000,4711,Notar,697.903110416728,Liljeholmen
+2013-08-29,Katrinebergsbacken 30,Liljeholmen,RodFruangen,3,87,null,Lägenhet,1993,[Liljeholmen],2995000,455000,3450000,4754,Notar,253.81714158909085,Liljeholmen
+2013-08-29,Nybohovsgränd 52,Liljeholmen,RodFruangen,5,111,3,Lägenhet,null,[Liljeholmen],3490000,70000,3560000,4348,MäklarMäster,334.61944358007963,Liljeholmen
+2013-08-28,Nybohovsbacken 99,Liljeholmen,RodFruangen,2,59,10,Lägenhet,1960,[Liljeholmen],2190000,270000,2460000,1950,MäklarMäster,636.6366860655662,Midsommarkransen
+2013-08-28,Liljeholmsvägen 12,Liljeholmen,RodFruangen,3,78,3,Lägenhet,null,[Liljeholmen],3575000,-325000,3250000,4485,Diplomat Fastighetsmäkleri AB,321.27266135232355,Liljeholmen
+2013-08-23,Sjöviksvägen 76,Liljeholmen,RodFruangen,3,62,null,Lägenhet,2008,[Liljeholmskajen],2850000,150000,3000000,4015,Svensk Fastighetsförmedling,759.3415297597718,Liljeholmen
+2013-08-23,Hildebergsvägen 10,Liljeholmen,RodFruangen,2,63,null,Lägenhet,2006,[Liljeholmskajen],2495000,-200000,2295000,4246,Svensk Fastighetsförmedling,891.420929267778,Midsommarkransen
+2013-08-20,Nybohovsgränd 46,Liljeholmen,RodFruangen,3,78,null,Lägenhet,1960,[Liljeholmen],2150000,175000,2325000,3055,BOSTHLM,367.7912419011748,Liljeholmen
+2013-08-19,Nybohovsgränd 15,Liljeholmen,RodFruangen,3,89,null,Lägenhet,1962,[Liljeholmen],2850000,175000,3025000,3528,Fastighetsbyrån,316.6369672479542,Liljeholmen
+2013-08-16,Hildebergsvägen 12,Liljeholmen,RodFruangen,4,87,null,Lägenhet,null,[Liljeholmskajen],3495000,0,3495000,5413,Södermäklarna,849.0341986128606,Midsommarkransen
+2013-08-14,Nybohovsbacken 68,Liljeholmen,RodFruangen,4,82,null,Lägenhet,2008,[Liljeholmen],3395000,175000,3570000,4992,Notar,637.4075447466053,Liljeholmen
+2013-08-08,Buteljgatan 24,Liljeholmen,RodFruangen,2,54,5,Lägenhet,2011,[Liljeholmskajen],2995000,110000,3105000,2984,Notar,404.388399185854,Liljeholmen
+2013-07-31,Nybohovsbacken 54,Liljeholmen,RodFruangen,4,87,null,Lägenhet,1960,[Liljeholmen],2995000,0,2995000,3234,Notar,468.422871569615,Liljeholmen
+2013-07-18,Nybohovsbacken 31,Liljeholmen,RodFruangen,2,58,7,Lägenhet,1962,[Liljeholmen],2195000,205000,2400000,3128,Notar,272.53698359948197,Liljeholmen
+2013-07-18,Förmansvägen 29,Liljeholmen,RodFruangen,3,79,null,Lägenhet,2004,[Liljeholmskajen],3295000,505000,3800000,4636,Bjurfors,528.2171975721085,Liljeholmen
+2013-07-17,Liljeholmstorget 54,Liljeholmen,RodFruangen,1,43,null,Lägenhet,2004,[Liljeholmen],1950000,400000,2350000,2529,Notar,53.21414870185631,Liljeholmen
+2013-07-16,Karaffgatan 4,Liljeholmen,RodFruangen,2,54,3,Lägenhet,2013,[Liljeholmskajen],2995000,55000,3050000,2786,Notar,430.7258440331013,Liljeholmen
+2013-07-05,Hildebergsvägen 12,Liljeholmen,RodFruangen,3,76.5,null,Lägenhet,2006,[Liljeholmskajen],2995000,215000,3210000,4896,Svensk Fastighetsförmedling,849.0341986128606,Midsommarkransen
+2013-07-05,Fredsborgsgatan 3,Liljeholmen,RodFruangen,2,58,2,Lägenhet,2007,[Liljeholmskajen],2695000,105000,2800000,4122,HusmanHagberg,494.6471131999048,Liljeholmen
+2013-07-03,Sjöviksvägen 39,Liljeholmen,RodFruangen,2,62,6,Lägenhet,2007,[Liljeholmskajen],2895000,55000,2950000,4041,HusmanHagberg,566.4517944344813,Liljeholmen
+2013-06-28,Nybohovsbacken 21,Liljeholmen,RodFruangen,2,58,2,Lägenhet,1962,[Liljeholmen],2400000,10000,2410000,3273,Mäklarhuset,204.5976300783123,Liljeholmen
+2013-06-25,Hildebergsvägen 28,Liljeholmen,RodFruangen,4,94.5,null,Lägenhet,2005,[Liljeholmskajen],2995000,205000,3200000,5228,SkandiaMäklarna,956.3445620476458,Liljeholmen
+2013-06-20,Sjöviksvägen 59,Liljeholmen,RodFruangen,4,97.5,2,Lägenhet,null,[Liljeholmen],4290000,0,4290000,5804,Erik Olsson Fastighetsförmedling,687.9793266815184,Liljeholmen
+2013-06-19,Grönbrinksgatan 6,Liljeholmen,RodFruangen,5,127,3,Lägenhet,null,[Liljeholmskajen],4795000,-195000,4600000,7325,Södermäklarna,512.6685850684081,Liljeholmen
+2013-06-13,Nybodaringen 45,Liljeholmen,RodFruangen,1,27,1,Lägenhet,1936,[Liljeholmen],1145000,265000,1410000,2274,Notar,617.3644480105693,Midsommarkransen
+2013-06-12,Liljeholmstorget 86,Liljeholmen,RodFruangen,4,113,null,Lägenhet,2003,[Liljeholmen],4600000,750000,5350000,4534,Svensk Fastighetsförmedling,37.51036985845974,Liljeholmen
+2013-06-12,Liljeholmstorget 16,Liljeholmen,RodFruangen,4,122.5,null,Lägenhet,2005,[Liljeholmen],4995000,405000,5400000,6252,Notar,100.63997142687509,Liljeholmen
+2013-06-05,Nybohovsbacken 99,Liljeholmen,RodFruangen,3,71,3,Lägenhet,1960,[Liljeholmen],2495000,275000,2770000,2346,Notar,636.6366860655662,Midsommarkransen
+2013-06-04,Nybohovsbacken 97,Liljeholmen,RodFruangen,3,71,null,Lägenhet,1960,[Liljeholmen],2295000,415000,2710000,2346,HusmanHagberg,649.8987881805161,Midsommarkransen
+2013-05-29,Nybohovsbacken 101,Liljeholmen,RodFruangen,3,76,1,Lägenhet,1960,[Liljeholmen],2095000,175000,2270000,3573,Notar,628.6215812446932,Aspudden
+2013-05-28,Liljeholmsvägen 12,Liljeholmen,RodFruangen,2,41,null,Lägenhet,2009,[Liljeholmen],2195000,205000,2400000,2358,Notar,321.27266135232355,Liljeholmen
+2013-05-28,Buteljgatan 24,Liljeholmen,RodFruangen,3,76,4,Lägenhet,2011,[Liljeholmskajen],3295000,305000,3600000,3779,Notar,404.388399185854,Liljeholmen
+2013-05-27,Liljeholmsvägen 12,Liljeholmen,RodFruangen,3,78,null,Lägenhet,2008,[Liljeholmen],3695000,85000,3780000,4485,Fastighetsbyrån,321.27266135232355,Liljeholmen
+2013-05-24,Nybodaringen 39,Liljeholmen,RodFruangen,1,37,1,Lägenhet,1936,[Liljeholmen],1490000,85000,1575000,2873,Notar,568.1152955395955,Midsommarkransen
+2013-05-24,Liljeholmstorget 86,Liljeholmen,RodFruangen,5,135,3,Lägenhet,null,[Liljeholmen],5150000,950000,6100000,4999,Bostadsrättsspecialisten,37.51036985845974,Liljeholmen
+2013-05-22,Vingårdsgatan 8,Liljeholmen,RodFruangen,3,83,null,Lägenhet,2006,[Liljeholmskajen],3775000,-75000,3700000,4989,Fastighetsbyrån,577.1909563493955,Liljeholmen
+2013-05-22,Sturehillsvägen 40,Liljeholmen,RodFruangen,3,85,3,Lägenhet,2009,[Liljeholmskajen],3495000,130000,3625000,4555,SkandiaMäklarna,895.595006955802,Liljeholmen
+2013-05-22,Nybohovsgränd 15,Liljeholmen,RodFruangen,3.5,103,null,Lägenhet,null,[Liljeholmen],3950000,280000,4230000,4034,Erik Olsson Fastighetsförmedling,316.6369672479542,Liljeholmen
+2013-05-18,Nybohovsgränd 50,Liljeholmen,RodFruangen,3,76,null,Lägenhet,null,[Liljeholmen],2495000,-95000,2400000,2977,BOSTHLM,343.60909435733765,Liljeholmen
+2013-05-17,Nybohovsgränd 36,Liljeholmen,RodFruangen,3,78,2,Lägenhet,null,[Liljeholmen],2790000,0,2790000,3055,MäklarMäster,394.80763460675547,Liljeholmen
+2013-05-08,Hildebergsvägen 6,Liljeholmen,RodFruangen,3,76.5,2,Lägenhet,2006,[Liljeholmskajen],2995000,295000,3290000,4784,SkandiaMäklarna,886.9576965192165,Liljeholmen
+2013-05-07,Grönbrinksgatan 2,Liljeholmen,RodFruangen,3,72,null,Lägenhet,2008,[Liljeholmskajen],3295000,5000,3300000,4737,Fastighetsbyrån,513.0871281966935,Liljeholmen
+2013-05-04,Blekegatan 5,Liljeholmen,RodFruangen,3,91,null,Lägenhet,2004,[Liljeholmskajen],3695000,25000,3720000,5110,Bjurfors,500.0410466160381,Liljeholmen
+2013-05-03,Nybohovsbacken 29,Liljeholmen,RodFruangen,4,96,3,Lägenhet,1962,[Liljeholmen],2995000,165000,3160000,4721,Notar,229.71962880792663,Liljeholmen
+2013-05-03,Nybohovsbacken 99,Liljeholmen,RodFruangen,3,70,1,Lägenhet,1960,[Liljeholmen],2495000,55000,2550000,2313,Notar,636.6366860655662,Midsommarkransen
+2013-05-02,Nybohovsbacken 68,Liljeholmen,RodFruangen,2,52,2,Lägenhet,2008,[Liljeholmen],2195000,65000,2260000,3519,Notar,637.4075447466053,Liljeholmen
+2013-05-02,Grönbrinksgatan 10,Liljeholmen,RodFruangen,4,96,null,Lägenhet,2009,[Liljeholmskajen],3900000,560000,4460000,5966,Fastighetsbyrån,509.5895609048986,Liljeholmen
+2013-05-02,Nybohovsbacken 73,Liljeholmen,RodFruangen,3,71,3,Lägenhet,null,[Liljeholmen],2290000,510000,2800000,3441,MäklarMäster,521.7532351250052,Liljeholmen
+2013-04-29,Vingårdsgatan 8,Liljeholmen,RodFruangen,3,83,null,Lägenhet,2006,[Liljeholmskajen],3695000,-85000,3610000,4989,Fastighetsbyrån,577.1909563493955,Liljeholmen
+2013-04-26,Hildebergsvägen 18,Liljeholmen,RodFruangen,1.5,38.5,null,Lägenhet,2005,[Liljeholmskajen],1495000,175000,1670000,3056,SkandiaMäklarna,859.9161644833954,Midsommarkransen
+2013-04-25,Nybodaringen 45,Liljeholmen,RodFruangen,1,27,2,Lägenhet,1936,[Liljeholmen],995000,315000,1310000,2239,Notar,617.3644480105693,Midsommarkransen
+2013-04-18,Marieviksgatan 42,Liljeholmen,RodFruangen,2,65,3,Lägenhet,2010,[Liljeholmskajen],2700000,140000,2840000,3820,Mäklarhuset,362.265470401328,Liljeholmen
+2013-04-17,Nybohovsbacken 61,Liljeholmen,RodFruangen,4,87,3,Lägenhet,1960,[Liljeholmen],2895000,105000,3000000,4321,Notar,492.1062886685474,Liljeholmen
+2013-04-17,Liljeholmstorget 52,Liljeholmen,RodFruangen,3,87,2,Lägenhet,2004,[Liljeholmen],3495000,325000,3820000,4104,Notar,52.79538058676033,Liljeholmen
+2013-04-17,Sturehillsvägen 44,Liljeholmen,RodFruangen,3,82,3,Lägenhet,2009,[Liljeholmskajen],3600000,0,3600000,4444,SkandiaMäklarna,935.9041485668923,Liljeholmen
+2013-04-16,Nybohovsbacken 99,Liljeholmen,RodFruangen,3,71,null,Lägenhet,null,[Liljeholmen],2495000,45000,2540000,2313,Hans Göthe Fastighetsbyrå AB,636.6366860655662,Midsommarkransen
+2013-04-15,Nybohovsgränd 34,Liljeholmen,RodFruangen,3,78,1,Lägenhet,1961,[Liljeholmen],2200000,130000,2330000,3055,Svensk Fastighetsförmedling,404.3915456908368,Liljeholmen
+2013-04-14,Nybohovsbacken 79,Liljeholmen,RodFruangen,3,76,2,Lägenhet,1960,[Liljeholmen],2350000,35000,2385000,3611,Notar,578.5438790787923,Liljeholmen
+2013-04-13,Nybodaringen 45,Liljeholmen,RodFruangen,3,87,null,Lägenhet,null,[Liljeholmen],2875000,0,2875000,6162,Erik Olsson Fastighetsförmedling,617.3644480105693,Midsommarkransen
+2013-04-10,Katrinebergsbacken 24,Liljeholmen,RodFruangen,4,97,6,Lägenhet,1994,[Liljeholmen],3595000,205000,3800000,5512,SkandiaMäklarna,254.8159308262418,Liljeholmen
+2013-04-04,Sjöviksvägen 39,Liljeholmen,RodFruangen,2,50.5,1,Lägenhet,2008,[Liljeholmskajen],2195000,105000,2300000,3482,HusmanHagberg,566.4517944344813,Liljeholmen
+2013-03-29,Hildebergsvägen 12,Liljeholmen,RodFruangen,2,52.5,3,Lägenhet,null,[Liljeholmen],2075000,50000,2125000,3729,Bostadsrättsspecialisten,849.0341986128606,Midsommarkransen
+2013-03-28,Sturehillsvägen 13,Liljeholmen,RodFruangen,2,45,null,Lägenhet,2013,[Liljeholmskajen],2175000,200000,2375000,2807,Fastighetsbyrån,893.613102483757,Liljeholmen
+2013-03-28,Katrinebergsbacken 26,Liljeholmen,RodFruangen,4,109,2,Lägenhet,null,[Liljeholmen],3995000,405000,4400000,5668,Svenska Hem,270.02631635513535,Liljeholmen
+2013-03-27,Vinodlargatan 8,Liljeholmen,RodFruangen,3,74,5,Lägenhet,2006,[Liljeholmskajen],3395000,0,3395000,4576,SkandiaMäklarna,639.4656370466952,Liljeholmen
+2013-03-27,Vinodlargatan 4,Liljeholmen,RodFruangen,2,48.5,5,Lägenhet,2006,[Liljeholmskajen],2495000,55000,2550000,3368,SkandiaMäklarna,639.9394244322269,Liljeholmen
+2013-03-25,Liljeholmstorget 10,Liljeholmen,RodFruangen,2,51,null,Lägenhet,2005,[Liljeholmen],1895000,555000,2450000,3126,Fastighetsbyrån,131.4672698107383,Liljeholmen
+2013-03-21,Buteljgatan 30,Liljeholmen,RodFruangen,2,54,null,Lägenhet,2011,[Liljeholmskajen],2995000,-95000,2900000,3208,Bjurfors,458.2361593214377,Liljeholmen
+2013-03-20,Hildebergsvägen 12,Liljeholmen,RodFruangen,1.5,46,1,Lägenhet,2006,[Liljeholmen],1700000,-100000,1600000,3449,Innerstadsspecialisten AB,849.0341986128606,Midsommarkransen
+2013-03-19,Nybodaringen 99,Liljeholmen,RodFruangen,4,101,2,Lägenhet,1998,[Liljeholmskajen],2995000,705000,3700000,6897,Vision Fastighetsmäkleri AB,761.7261536931815,Liljeholmen
+2013-03-19,Hildebergsvägen 16,Liljeholmen,RodFruangen,3,69.5,null,Lägenhet,2005,[Liljeholmskajen],2750000,150000,2900000,4423,SkandiaMäklarna,839.6570440173266,Midsommarkransen
+2013-03-19,Lövholmsvägen 21,Liljeholmen,RodFruangen,3,70,5,Lägenhet,1986,[Gröndal],2995000,15000,3010000,3045,Svensk Fastighetsförmedling,401.07761167597704,Liljeholmen
+2013-03-18,Marieviksgatan 48,Liljeholmen,RodFruangen,4,89,4,Lägenhet,2010,[Liljeholmskajen],3895000,40000,3935000,4879,SkandiaMäklarna,359.80555174292886,Liljeholmen
+2013-03-18,Karaffgatan 3,Liljeholmen,RodFruangen,4,101,null,Lägenhet,2011,[Liljeholmskajen],3895000,265000,4160000,5027,SkandiaMäklarna,403.35829383134643,Liljeholmen
+2013-03-15,Nybohovsgränd 15,Liljeholmen,RodFruangen,5,110,4,Lägenhet,null,[Liljeholmen],3190000,320000,3510000,4308,MäklarMäster,316.6369672479542,Liljeholmen
+2013-03-14,Nybohovsbacken 67,Liljeholmen,RodFruangen,4,97,9,Lägenhet,1960,[Liljeholmen],2995000,965000,3960000,3205,Notar,522.5014675848338,Liljeholmen
+2013-03-09,Sjöviksvägen 45,Liljeholmen,RodFruangen,4,84,null,Lägenhet,2005,[Liljeholmskajen],3725000,70000,3795000,5068,Länsförsäkringar Fastighetsförmedling,613.88887633666,Liljeholmen
+2013-03-09,Buteljgatan 24,Liljeholmen,RodFruangen,2,45,null,Lägenhet,2011,[Liljeholmskajen],2095000,110000,2205000,2684,Notar,404.388399185854,Liljeholmen
+2013-03-09,Vingårdsgatan 44,Liljeholmen,RodFruangen,2,71,3,Lägenhet,null,[Liljeholmen],2875000,0,2875000,3910,Erik Olsson Fastighetsförmedling,576.8160261726478,Liljeholmen
+2013-03-07,Marieviksgatan 44,Liljeholmen,RodFruangen,2,45,5,Lägenhet,null,[Liljeholmskajen],2195000,185000,2380000,2989,SkandiaMäklarna,363.52797594180333,Liljeholmen
+2013-03-06,Marieviksgatan 42,Liljeholmen,RodFruangen,2,65,5,Lägenhet,null,[Liljeholmskajen],2895000,-75000,2820000,3820,SkandiaMäklarna,362.265470401328,Liljeholmen
+2013-03-06,Marieviksgatan 40,Liljeholmen,RodFruangen,3,87,2,Lägenhet,null,[Liljeholmskajen],3450000,50000,3500000,4727,SkandiaMäklarna,361.68997564091313,Liljeholmen
+2013-03-06,Nybohovsbacken 99,Liljeholmen,RodFruangen,2,59,7,Lägenhet,1960,[Liljeholmen],2195000,325000,2520000,1950,Notar,636.6366860655662,Midsommarkransen
+2013-03-05,Nybohovsbacken 67,Liljeholmen,RodFruangen,3,72,null,Lägenhet,1960,[Liljeholmen],2495000,715000,3210000,2379,Notar,522.5014675848338,Liljeholmen
+2013-03-02,Marieviksgatan 41,Liljeholmen,RodFruangen,2,54,2,Lägenhet,2011,[Liljeholmskajen],2295000,155000,2450000,3428,Notar,378.5892216532709,Liljeholmen
+2013-03-02,Nybohovsbacken 103,Liljeholmen,RodFruangen,5,105,1,Lägenhet,1960,[Liljeholmen],2995000,-295000,2700000,4876,Vision Fastighetsmäkleri AB,494.9907525385257,Aspudden
+2013-02-28,Grönbrinksgatan 10,Liljeholmen,RodFruangen,2,70,2,Lägenhet,null,[Liljeholmskajen],2795000,-95000,2700000,4650,Svensk Fastighetsförmedling,509.5895609048986,Liljeholmen
+2013-02-28,Hildebergsvägen 6,Liljeholmen,RodFruangen,3,76.5,4,Lägenhet,2006,[Liljeholmskajen],2995000,375000,3370000,4784,SkandiaMäklarna,886.9576965192165,Liljeholmen
+2013-02-28,Nybohovsgränd 46,Liljeholmen,RodFruangen,3,78,2,Lägenhet,null,[Liljeholmen],2490000,210000,2700000,3055,MäklarMäster,367.7912419011748,Liljeholmen
+2013-02-28,Liljeholmstorget 10,Liljeholmen,RodFruangen,2,69,null,Lägenhet,2005,[Liljeholmen],2695000,165000,2860000,3982,Notar,131.4672698107383,Liljeholmen
+2013-02-22,Liljeholmsvägen 10,Liljeholmen,RodFruangen,2,52,4,Lägenhet,1915,[Liljeholmen],2795000,225000,3020000,2608,HusmanHagberg,356.4109313994759,Liljeholmen
+2013-02-17,Nybohovsgränd 18,Liljeholmen,RodFruangen,3,74,2,Lägenhet,1962,[Liljeholmen],2395000,135000,2530000,2679,SkandiaMäklarna,363.1341714106286,Liljeholmen
+2013-02-16,Sjöviksvägen 45,Liljeholmen,RodFruangen,3,76.5,5,Lägenhet,2006,[Liljeholmskajen],3195000,185000,3380000,4681,SkandiaMäklarna,613.88887633666,Liljeholmen
+2013-02-16,Lövholmsvägen 21,Liljeholmen,RodFruangen,4,85,1,Lägenhet,1986,[Gröndal],3895000,0,3895000,3883,Svensk Fastighetsförmedling,401.07761167597704,Liljeholmen
+2013-02-16,Nybodaringen 53,Liljeholmen,RodFruangen,4,86.6,null,Lägenhet,1998,[Nybodahöjden],3450000,-200000,3250000,5589,Svensk Fastighetsförmedling,666.8623994446936,Midsommarkransen
+2013-02-16,Hildebergsvägen 8,Liljeholmen,RodFruangen,2,58,null,Lägenhet,2006,[Liljeholmskajen],2150000,200000,2350000,4032,SkandiaMäklarna,871.690232367155,Liljeholmen
+2013-02-15,Vingårdsgatan 3,Liljeholmen,RodFruangen,4,84.5,null,Lägenhet,2006,[Liljeholmskajen],3695000,0,3695000,5088,HusmanHagberg,602.798138639248,Liljeholmen
+2013-02-09,Liljeholmstorget 24,Liljeholmen,RodFruangen,5,116.5,null,Lägenhet,2004,[Liljeholmen],4450000,170000,4620000,5207,Notar,85.17503820682325,Liljeholmen
+2013-02-09,Nybohovsbacken 99,Liljeholmen,RodFruangen,3,71,null,Lägenhet,null,[Liljeholmen],2495000,105000,2600000,2345,Hans Göthe Fastighetsbyrå AB,636.6366860655662,Midsommarkransen
+2013-02-08,Nybohovsbacken 83,Liljeholmen,RodFruangen,2,58,null,Lägenhet,1960,[Liljeholmen],1795000,75000,1870000,1917,Notar,612.6497248221557,Liljeholmen
+2013-02-07,Vinodlargatan 9,Liljeholmen,RodFruangen,3,79.5,null,Lägenhet,2006,[Liljeholmskajen],2875000,175000,3050000,4962,Bjurfors,655.6161115127644,Liljeholmen
+2013-02-06,Liljeholmstorget 96,Liljeholmen,RodFruangen,2,68,null,Lägenhet,2003,[Liljeholmen],2595000,605000,3200000,2954,Notar,42.43364816985561,Liljeholmen
+2013-02-02,Hildebergsvägen 2,Liljeholmen,RodFruangen,3,76.5,3,Lägenhet,2006,[Liljeholmskajen],2995000,-95000,2900000,4784,SkandiaMäklarna,927.5492796658177,Liljeholmen
+2013-01-27,Buteljgatan 30,Liljeholmen,RodFruangen,3,84,3,Lägenhet,null,[Liljeholmskajen Sjövikstorget],4200000,0,4200000,4268,A-mäklarna,458.2361593214377,Liljeholmen
+2013-01-27,Sjöviksbacken 6,Liljeholmen,RodFruangen,4,103.5,6,Villa,null,[Liljeholmskajen],4395000,225000,4620000,null,Hans Göthe Fastighetsbyrå AB,706.9783252240904,Liljeholmen
+2013-01-25,Sjöviksvägen 39,Liljeholmen,RodFruangen,2,65.5,3,Lägenhet,2008,[Liljeholmskajen],2995000,180000,3175000,4183,Innerstadsspecialisten AB,566.4517944344813,Liljeholmen
+2013-01-24,Hildebergsvägen 6,Liljeholmen,RodFruangen,2,58,5,Lägenhet,2006,[Liljeholmskajen],2375000,200000,2575000,3937,SkandiaMäklarna,886.9576965192165,Liljeholmen
+2013-01-23,Nybohovsbacken 65,Liljeholmen,RodFruangen,2,59,11,Lägenhet,1960,[Liljeholmen],2195000,275000,2470000,1949,Notar,492.37309468449075,Liljeholmen
+2013-01-22,Sjöviksvägen 39,Liljeholmen,RodFruangen,2.5,62,null,Lägenhet,2007,[Liljeholmskajen],2745000,385000,3130000,4041,Fastighetsbyrån,566.4517944344813,Liljeholmen
+2013-01-19,Liljeholmsvägen 10,Liljeholmen,RodFruangen,2,60,3,Lägenhet,null,[Liljeholmen],2795000,285000,3080000,3207,Hans Göthe Fastighetsbyrå AB,356.4109313994759,Liljeholmen
+2013-01-19,Katrinebergsbacken 28,Liljeholmen,RodFruangen,3,92,null,Lägenhet,null,[Liljeholmen],3650000,250000,3900000,5187,Fastighetsbyrån,278.869925207487,Liljeholmen
+2013-01-18,Marieviksgatan 40,Liljeholmen,RodFruangen,3,84,1,Lägenhet,null,[Liljeholmskajen],3350000,100000,3450000,4615,SkandiaMäklarna,361.68997564091313,Liljeholmen
+2013-01-18,Grönbrinksgatan 10,Liljeholmen,RodFruangen,4,96,5,Lägenhet,2008,[Liljeholmen],4100000,-300000,3800000,5966,Karlsson & Uddare,509.5895609048986,Liljeholmen
+2013-01-16,Liljeholmstorget 16,Liljeholmen,RodFruangen,2,63.5,4,Lägenhet,null,[Liljeholmen],2575000,250000,2825000,3721,Svensk Fastighetsförmedling,100.63997142687509,Liljeholmen
+2013-01-15,Liljeholmstorget 24,Liljeholmen,RodFruangen,5,116.5,null,Lägenhet,2004,[Liljeholmen],4695000,0,4695000,5207,Notar,85.17503820682325,Liljeholmen
+2013-01-12,Sturehillsvägen 40,Liljeholmen,RodFruangen,2,55,2,Lägenhet,2009,[Liljeholmskajen],2350000,-150000,2200000,3372,SkandiaMäklarna,895.595006955802,Liljeholmen
+2013-01-12,Liljeholmstorget 8,Liljeholmen,RodFruangen,1,38.5,null,Lägenhet,2005,[Liljeholmen],1895000,0,1895000,2539,Notar,136.28626359112752,Liljeholmen
+2012-12-20,Nybohovsbacken 67,Liljeholmen,RodFruangen,2,59,10,Lägenhet,1960,[Liljeholmen],2190000,300000,2490000,1950,MäklarMäster,522.5014675848338,Liljeholmen
+2012-12-14,Nybohovsgränd 50,Liljeholmen,RodFruangen,3.5,76,null,Lägenhet,1962,[Liljeholmen],2495000,0,2495000,2977,Notar,343.60909435733765,Liljeholmen
+2012-12-04,Liljeholmstorget 54,Liljeholmen,RodFruangen,2,69,1,Lägenhet,2004,[Liljeholmen],2595000,0,2595000,3385,Mäklarhuset,53.21414870185631,Liljeholmen
+2012-11-30,Hildebergsvägen 26,Liljeholmen,RodFruangen,2,51.5,null,Lägenhet,2006,[Liljeholmskajen],1995000,55000,2050000,3275,Bjurfors,948.3913276262697,Midsommarkransen
+2012-11-30,Sjövikstorget 11,Liljeholmen,RodFruangen,2.5,61,null,Lägenhet,2008,[Liljeholmskajen],2995000,380000,3375000,3997,Bjurfors,528.9061331361161,Liljeholmen
+2012-11-23,Marieviksgatan 43,Liljeholmen,RodFruangen,3,103,null,Lägenhet,2011,[Liljeholmskajen],4500000,0,4500000,5243,Notar,378.8254575788057,Liljeholmen
+2012-11-17,Vinodlargatan 4,Liljeholmen,RodFruangen,3,73,5,Lägenhet,2006,[Liljeholmskajen],3395000,-95000,3300000,4536,SkandiaMäklarna,639.9394244322269,Liljeholmen
+2012-11-14,Nybohovsbacken 81,Liljeholmen,RodFruangen,2,59,null,Lägenhet,1960,[Liljeholmen],2095000,255000,2350000,2085,Notar,581.7662785296308,Liljeholmen
+2012-11-09,Nybohovsbacken 83,Liljeholmen,RodFruangen,4,97,7,Lägenhet,2006,[Liljeholmen],3390000,120000,3510000,3427,MäklarMäster,612.6497248221557,Liljeholmen
+2012-11-08,Nybohovsbacken 79,Liljeholmen,RodFruangen,3,76,null,Lägenhet,1962,[Liljeholmen],2450000,-50000,2400000,3880,Fastighetsbyrån,578.5438790787923,Liljeholmen
+2012-11-08,Nybohovsbacken 83,Liljeholmen,RodFruangen,2,59,1,Lägenhet,1960,[Liljeholmen],1990000,245000,2235000,2085,MäklarMäster,612.6497248221557,Liljeholmen
+2012-11-08,Marieviksgatan 42,Liljeholmen,RodFruangen,3,87,4,Lägenhet,null,[Liljeholmskajen],3480000,-70000,3410000,4871,SkandiaMäklarna,362.265470401328,Liljeholmen
+2012-11-08,Liljeholmstorget 16,Liljeholmen,RodFruangen,3,75,null,Lägenhet,null,[Liljeholmen],2695000,405000,3100000,4265,Svensk Fastighetsförmedling,100.63997142687509,Liljeholmen
+2012-11-07,Hildebergsvägen 26,Liljeholmen,RodFruangen,3,79,4,Lägenhet,2005,[Årstaberg],3295000,10000,3305000,4452,Notar,948.3913276262697,Midsommarkransen
+2012-11-03,Ingenjörsvägen 42,Liljeholmen,RodFruangen,2,66,2,Lägenhet,2009,[Liljeholmskajen],2995000,-45000,2950000,4475,SkandiaMäklarna,494.39123230499246,Liljeholmen
+2012-11-01,Nybohovsbacken 79,Liljeholmen,RodFruangen,3,76,4,Lägenhet,1960,[Liljeholmen],2295000,155000,2450000,3880,Notar,578.5438790787923,Liljeholmen
+2012-10-27,Vinodlargatan 9,Liljeholmen,RodFruangen,3,72,null,Lägenhet,2006,[Liljeholmskajen],4000000,50000,4050000,4644,Notar,655.6161115127644,Liljeholmen
+2012-10-26,Nybohovsbacken 68,Liljeholmen,RodFruangen,2,52,5,Lägenhet,2008,[Liljeholmen],1875000,75000,1950000,3519,Länsförsäkringar Fastighetsförmedling,637.4075447466053,Liljeholmen
+2012-10-24,Liljeholmsvägen 12,Liljeholmen,RodFruangen,2,41,3,Lägenhet,2009,[Liljeholmen],2195000,115000,2310000,2358,Notar,321.27266135232355,Liljeholmen
+2012-10-21,Nybohovsbacken 29,Liljeholmen,RodFruangen,2,58,2,Lägenhet,1962,[Liljeholmen],1895000,0,1895000,3128,Notar,229.71962880792663,Liljeholmen
+2012-10-19,Vingårdsgatan 8,Liljeholmen,RodFruangen,2.5,75,1,Lägenhet,2008,[Liljeholmskajen],3150000,-100000,3050000,4573,Mäklarhuset,577.1909563493955,Liljeholmen
+2012-10-18,Nybodaringen 57,Liljeholmen,RodFruangen,4,90.5,null,Lägenhet,1998,[Nybodahöjden],3575000,105000,3680000,5928,Svensk Fastighetsförmedling,701.7184252630035,Midsommarkransen
+2012-10-17,Liljeholmsvägen 8A,Liljeholmen,RodFruangen,5,205,4,Lägenhet,null,[Liljeholmskajen],7800000,1000000,8800000,5177,Erik Olsson Fastighetsförmedling,414.14543810624673,Liljeholmen
+2012-10-17,Liljeholmstorget 84,Liljeholmen,RodFruangen,1,35,null,Lägenhet,2003,[Liljeholmen],1700000,225000,1925000,1904,Notar,21.004220622902924,Liljeholmen
+2012-10-15,Nybodaringen 39,Liljeholmen,RodFruangen,2,46,1,Lägenhet,1934,[Liljeholmen],1645000,25000,1670000,3092,Notar,568.1152955395955,Midsommarkransen
+2012-10-11,Nybohovsgränd 26,Liljeholmen,RodFruangen,3,76,3,Lägenhet,1962,[Liljeholmen],2195000,210000,2405000,2977,Notar,445.6705183035948,Liljeholmen
+2012-10-11,Nybodaringen 105,Liljeholmen,RodFruangen,3,75,null,Lägenhet,1998,[Nybodahöjden],2095000,5000,2100000,4976,Svensk Fastighetsförmedling,783.0921501380697,Liljeholmen
+2012-10-11,Nybohovsgränd 40,Liljeholmen,RodFruangen,3,78,null,Lägenhet,1960,[Liljeholmen],2095000,505000,2600000,3055,Fastighetsbyrån,379.2758924826439,Liljeholmen
+2012-10-07,Liljeholmstorget 26,Liljeholmen,RodFruangen,3,81.5,null,Lägenhet,2004,[Liljeholmen],3295000,-45000,3250000,3925,Notar,105.06087209535406,Liljeholmen
+2012-10-05,Liljeholmstorget 96,Liljeholmen,RodFruangen,2,53,null,Lägenhet,2003,[Liljeholmen],2395000,235000,2630000,2529,Notar,42.43364816985561,Liljeholmen
+2012-10-05,Liljeholmstorget 8,Liljeholmen,RodFruangen,2,69,null,Lägenhet,2006,[Liljeholmen],2500000,50000,2550000,3982,Fastighetsbyrån,136.28626359112752,Liljeholmen
+2012-10-05,Sturehillsvägen 46,Liljeholmen,RodFruangen,2,55,3,Lägenhet,2008,[Liljeholmskajen],2595000,0,2595000,3338,Länsförsäkringar Fastighetsförmedling,925.558184249212,Liljeholmen
+2012-09-28,Sjöviksbacken 15,Liljeholmen,RodFruangen,5,112,null,Lägenhet,2008,[Liljeholmskajen],4475000,-100000,4375000,6224,Mäklarhuset,741.3772871824696,Liljeholmen
+2012-09-26,Hildebergsvägen 8,Liljeholmen,RodFruangen,2,52.5,null,Lägenhet,2006,[Liljeholmen],2075000,85000,2160000,3656,Mäklarhuset,871.690232367155,Liljeholmen
+2012-09-26,Sjöviksbacken 4,Liljeholmen,RodFruangen,2,47.5,null,Lägenhet,2006,[Liljeholmskajen],2295000,-195000,2100000,3440,Svensk Fastighetsförmedling,703.5510719091101,Liljeholmen
+2012-09-22,Nybohovsbacken 31,Liljeholmen,RodFruangen,2,58,6,Lägenhet,1962,[Liljeholmen],2300000,-130000,2170000,3128,Svensk Fastighetsförmedling,272.53698359948197,Liljeholmen
+2012-09-21,Nybohovsbacken 29,Liljeholmen,RodFruangen,2,58,2,Lägenhet,1962,[Liljeholmen],1895000,155000,2050000,3273,SkandiaMäklarna,229.71962880792663,Liljeholmen
+2012-08-30,Sjöviksbacken 6,Liljeholmen,RodFruangen,4,94,null,Lägenhet,2006,[Liljeholmskajen],4350000,0,4350000,5658,Mäklarhuset,706.9783252240904,Liljeholmen

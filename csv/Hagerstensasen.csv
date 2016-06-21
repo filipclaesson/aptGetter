@@ -1,0 +1,469 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-16,Bokbindarvägen 47,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,1945,[Hägerstensåsen],2495000,335000,2830000,2593,HusmanHagberg,543.4632541163016,Ornsberg
+2016-06-16,Sparbanksvägen 43,Hagerstensasen,RodFruangen,3,55,2,Lägenhet,1945,[Hägerstensåsen],2795000,405000,3200000,3165,Fastighetsbyrån,273.56249664353834,Hagerstensasen
+2016-06-14,Inteckningsvägen 83,Hagerstensasen,RodFruangen,2,46,2,Lägenhet,1945,[Hägersten],2195000,555000,2750000,2172,Svensk Fastighetsförmedling,215.77310231283775,Hagerstensasen
+2016-06-14,Valutavägen 32,Hagerstensasen,RodFruangen,3,74,1,Lägenhet,1944,[Hägersten-Liljeholmen],3295000,655000,3950000,4347,Svensk Fastighetsförmedling,396.7925629736713,Hagerstensasen
+2016-06-12,Dymlingsgränd 13,Hagerstensasen,RodFruangen,3,85.5,2,Lägenhet,1952,[Hägersten-Liljeholmen],3995000,280000,4275000,4563,Hägerstens mäklare,721.1138212696472,Hagerstensasen
+2016-06-03,Bokbindarvägen 53,Hagerstensasen,RodFruangen,3,52,2,Lägenhet,1944,[Hägerstensåsen],2495000,505000,3000000,2944,Fastighetsbyrån,554.9760362388273,Axelsberg
+2016-05-27,Boktryckarvägen 12,Hagerstensasen,RodFruangen,2,51,0,Lägenhet,2006,[Hägerstensåsen],1995000,320000,2315000,3520,HusmanHagberg,503.399327975395,Ornsberg
+2016-05-26,Lotterivägen 23,Hagerstensasen,RodFruangen,2,50,1,Lägenhet,1947,[Hägerstensåsen],2295000,555000,2850000,3102,Länsförsäkringar Fastighetsförmedling,261.58508813717225,Hagerstensasen
+2016-05-26,Bokbindarvägen 53,Hagerstensasen,RodFruangen,2,52,1,Lägenhet,null,[Hägerstensåsen],2595000,505000,3100000,2886,Svenska Mäklarhuset,554.9760362388273,Axelsberg
+2016-05-26,Valutavägen 78,Hagerstensasen,RodFruangen,2,41,2,Lägenhet,1946,[Hägerstensåsen],1995000,515000,2510000,2474,Notar,164.50001678740895,Hagerstensasen
+2016-05-26,Bäckvägen 120,Hagerstensasen,RodFruangen,2.5,57,0.5,Lägenhet,1939,[Hägersten],2695000,0,2695000,3732,Södermäklarna,513.8914899856873,Ornsberg
+2016-05-25,Inteckningsvägen 85,Hagerstensasen,RodFruangen,2,53,null,Lägenhet,null,[Hägersten],2495000,655000,3150000,2600,Erik Olsson Fastighetsförmedling,203.0868995406641,Hagerstensasen
+2016-05-25,Bokbindarvägen 45,Hagerstensasen,RodFruangen,3,65,1,Lägenhet,1943,[Hägerstensåsen],3295000,855000,4150000,3675,Bjurfors,501.42782389757036,Ornsberg
+2016-05-25,Riksdalervägen 14,Hagerstensasen,RodFruangen,2,51,3,Lägenhet,1947,[Hägerstensåsen],2195000,605000,2800000,3328,Länsförsäkringar Fastighetsförmedling,407.8051494155812,Hagerstensasen
+2016-05-21,Riksdalervägen 13,Hagerstensasen,RodFruangen,3,76,-1,Lägenhet,1986,[Hägerstensåsen],3350000,480000,3830000,3793,Notar,393.47760285773876,Hagerstensasen
+2016-05-19,Valutavägen 84,Hagerstensasen,RodFruangen,3,54,3,Lägenhet,1946,[Hägerstensåsen],2850000,-60000,2790000,3259,SkandiaMäklarna,129.34270452318708,Hagerstensasen
+2016-05-18,Bokbindarvägen 78,Hagerstensasen,RodFruangen,1,38,3,Lägenhet,1944,[Hägersten],1995000,100000,2095000,3245,Svensk Fastighetsförmedling,526.1640458162977,Axelsberg
+2016-05-18,Lotterivägen 7,Hagerstensasen,RodFruangen,3,65,3,Lägenhet,1946,[Hägerstensåsen],2995000,870000,3865000,3384,Fastighetsbyrån,276.1729184649733,Hagerstensasen
+2016-05-18,Inteckningsvägen 66,Hagerstensasen,RodFruangen,2,36,2,Lägenhet,1945,[Hägerstensåsen],1995000,555000,2550000,2644,SkandiaMäklarna,312.903115005106,Hagerstensasen
+2016-05-17,Dymlingsgränd 12,Hagerstensasen,RodFruangen,4.5,111,null,Lägenhet,1952,[Hägersten],5960000,0,5960000,5345,Länsförsäkringar Fastighetsförmedling,682.2271406237005,Hagerstensasen
+2016-05-17,Sparbanksvägen 16,Hagerstensasen,RodFruangen,2,55,1,Lägenhet,1945,[Hägerstensåsen],2295000,375000,2670000,3230,HusmanHagberg,334.31210965849993,Hagerstensasen
+2016-05-13,Bokbindarvägen 84,Hagerstensasen,RodFruangen,2,57,4,Lägenhet,null,[Hägerstensåsen],2795000,655000,3450000,2483,Svenska Mäklarhuset,532.5286877427218,Axelsberg
+2016-05-12,Lotterivägen 14,Hagerstensasen,RodFruangen,2,56,3,Lägenhet,1948,[Hägersten],2495000,715000,3210000,3408,Erik Olsson Fastighetsförmedling,272.1492102708468,Hagerstensasen
+2016-05-12,Förskottsvägen 6,Hagerstensasen,RodFruangen,2,55,1,Lägenhet,1947,[Hägersten],2495000,455000,2950000,3108,Erik Olsson Fastighetsförmedling,395.3093037928552,Hagerstensasen
+2016-05-11,Lotterivägen 3,Hagerstensasen,RodFruangen,3,55,3,Lägenhet,1946,[Hägerstensåsen],2495000,565000,3060000,2953,Länsförsäkringar Fastighetsförmedling,294.6151558683451,Hagerstensasen
+2016-05-07,Riksdalervägen 9,Hagerstensasen,RodFruangen,3,69,4,Lägenhet,null,[Hägerstensåsen],3195000,805000,4000000,2613,Svenska Mäklarhuset,355.8229398615057,Hagerstensasen
+2016-05-07,Sparbanksvägen 72,Hagerstensasen,RodFruangen,2,42,3,Lägenhet,1945,[Hägerstensåsen],1995000,645000,2640000,3179,Notar,365.74558200302664,Hagerstensasen
+2016-05-04,Sparbanksvägen 64,Hagerstensasen,RodFruangen,3,56,1,Lägenhet,1945,[Hägerstensåsen],2395000,375000,2770000,4388,Fastighetsbyrån,330.6890118563677,Hagerstensasen
+2016-05-04,Bokbindarvägen 78,Hagerstensasen,RodFruangen,2,50,3,Lägenhet,1944,[Hägerstensåsen],2395000,405000,2800000,3980,Fastighetsbyrån,526.1640458162977,Axelsberg
+2016-05-04,Arvodesvägen 19,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,null,[Hägerstensåsen],2595000,85000,2680000,3569,Fastighetsbyrån,532.6842533340202,Hagerstensasen
+2016-05-04,Arvodesvägen 6,Hagerstensasen,RodFruangen,2,48,1,Lägenhet,1944,[Hägerstensåsen],2195000,5000,2200000,4381,HusmanHagberg,491.7011878441392,Hagerstensasen
+2016-05-03,Inteckningsvägen 81,Hagerstensasen,RodFruangen,2,46,3,Lägenhet,1945,[Hägersten],2295000,705000,3000000,2193,BOSTHLM,229.71185916847537,Hagerstensasen
+2016-05-02,Bokbindarvägen 84,Hagerstensasen,RodFruangen,2,57,2,Lägenhet,1944,[Hägerstensåsen],2575000,675000,3250000,2483,Mäklarringen,532.5286877427218,Axelsberg
+2016-04-29,Inteckningsvägen 17H,Hagerstensasen,RodFruangen,3,77,3,Lägenhet,1993,[Hägersten-Liljeholmen],2995000,705000,3700000,6089,SkandiaMäklarna,603.017917157457,Hagerstensasen
+2016-04-22,Boktryckarvägen 6,Hagerstensasen,RodFruangen,3,58,3,Lägenhet,1943,[Hägerstensåsen],2995000,555000,3550000,3573,Fastighetsbyrån,465.0496898828331,Ornsberg
+2016-04-21,Lotterivägen 43,Hagerstensasen,RodFruangen,2,53,2,Lägenhet,1946,[Hägerstensåsen],2495000,555000,3050000,2868,Länsförsäkringar Fastighetsförmedling,216.00550669428327,Hagerstensasen
+2016-04-21,Valutavägen 31,Hagerstensasen,RodFruangen,2,55,2,Lägenhet,1947,[Hägersten],2495000,555000,3050000,3641,Svensk Fastighetsförmedling,113.67955566297907,Hagerstensasen
+2016-04-20,Sparbanksvägen 43,Hagerstensasen,RodFruangen,2,55,1,Lägenhet,1945,[Hägerstensåsen],2395000,830000,3225000,3165,Fastighetsbyrån,273.56249664353834,Hagerstensasen
+2016-04-19,Dymlingsgränd 5,Hagerstensasen,RodFruangen,2,48.3,2,Lägenhet,1996,[Hägerstensåsen],2095000,450000,2545000,3300,Södermäklarna,714.6663056772776,Hagerstensasen
+2016-04-16,Sparbanksvägen 9,Hagerstensasen,RodFruangen,3,76,2,Lägenhet,1946,[Hägerstensåsen],3195000,405000,3600000,4397,HusmanHagberg,422.48734659759305,Hagerstensasen
+2016-04-16,Lotterivägen 8,Hagerstensasen,RodFruangen,2,58,2,Lägenhet,1946,[Hägersten],2595000,630000,3225000,2849,Svensk Fastighetsförmedling,298.70485390674975,Hagerstensasen
+2016-04-15,Sparbanksvägen 74,Hagerstensasen,RodFruangen,3,60,1,Lägenhet,1945,[Hägerstensåsen],2495000,305000,2800000,4231,Fastighetsbyrån,374.62128858974074,Hagerstensasen
+2016-04-14,Sparbanksvägen 48,Hagerstensasen,RodFruangen,2,45,3,Lägenhet,1945,[Hägersten],2195000,565000,2760000,2661,Fastighetsmäklarna,261.574940756538,Hagerstensasen
+2016-04-08,Sparbanksvägen 78,Hagerstensasen,RodFruangen,2,45,1,Lägenhet,1945,[Hägerstensåsen],2100000,420000,2520000,3173,Historiska Hem AB,397.3755141102708,Hagerstensasen
+2016-04-07,Inteckningsvägen 23,Hagerstensasen,RodFruangen,2.5,58,1,Lägenhet,1946,[Hägerstensåsen],2295000,455000,2750000,3625,HusmanHagberg,513.2104833708864,Hagerstensasen
+2016-04-07,Riksdalervägen 16,Hagerstensasen,RodFruangen,3,70,2,Lägenhet,1947,[Hägerstensåsen],2950000,900000,3850000,4567,Fastighetsbyrån,414.6694352703291,Hagerstensasen
+2016-04-07,Sparbanksvägen 66,Hagerstensasen,RodFruangen,3,56,3,Lägenhet,1945,[Hägersten],2395000,505000,2900000,4238,Svensk Fastighetsförmedling,341.46677474652165,Hagerstensasen
+2016-04-06,Lotterivägen 33,Hagerstensasen,RodFruangen,2,49,2,Lägenhet,1947,[Hägerstensåsen],2195000,705000,2900000,3040,Notar,234.39772440913873,Hagerstensasen
+2016-04-06,Bokbindarvägen 51,Hagerstensasen,RodFruangen,2,51,6,Lägenhet,1944,[Hägersten],2595000,1255000,3850000,2619,Länsförsäkringar Fastighetsförmedling,574.1576279200127,Axelsberg
+2016-04-06,Sparbanksvägen 44,Hagerstensasen,RodFruangen,2,45,3,Lägenhet,1945,[Hägerstensåsen],2195000,755000,2950000,2661,Fastighetsbyrån,252.32540313708807,Hagerstensasen
+2016-04-06,Bokbindarvägen 80,Hagerstensasen,RodFruangen,2,56.4,1,Lägenhet,1944,[Hägerstensåsen],2600000,850000,3450000,2877,Fastighetsbyrån,508.0178599373535,Axelsberg
+2016-03-29,Lotterivägen 37,Hagerstensasen,RodFruangen,3,66,1,Lägenhet,1947,[Hägerstensåsen],2995000,305000,3300000,4095,Länsförsäkringar Fastighetsförmedling,221.30447877920884,Hagerstensasen
+2016-03-24,Lotterivägen 49,Hagerstensasen,RodFruangen,2,56,1,Lägenhet,null,[Hägersten-Liljeholmen],2750000,440000,3190000,3031,Svensk Fastighetsförmedling,240.67798795682336,Hagerstensasen
+2016-03-24,Piruettvägen 9,Hagerstensasen,RodFruangen,4,106,4,Lägenhet,2009,[Hägerstensåsen],5295000,655000,5950000,5403,Bjurfors,100.23249395722839,Hagerstensasen
+2016-03-23,Sparbanksvägen 72,Hagerstensasen,RodFruangen,2,42,2,Lägenhet,1945,[Hägerstensåsen],1995000,555000,2550000,3179,Länsförsäkringar Fastighetsförmedling,365.74558200302664,Hagerstensasen
+2016-03-22,Inteckningsvägen 103,Hagerstensasen,RodFruangen,2,52,2,Lägenhet,1946,[Hägersten],2395000,525000,2920000,3421,Erik Olsson Fastighetsförmedling,95.42607372802378,Hagerstensasen
+2016-03-18,Riksdalervägen 9,Hagerstensasen,RodFruangen,2,63,2,Lägenhet,1948,[Hägersten-Liljeholmen],2675000,445000,3120000,2390,SkandiaMäklarna,355.8229398615057,Hagerstensasen
+2016-03-17,Inteckningsvägen 81,Hagerstensasen,RodFruangen,2,46,1,Lägenhet,null,[Hägerstensåsen],2295000,430000,2725000,2244,BOSTHLM,229.71185916847537,Hagerstensasen
+2016-03-17,Lotterivägen 2,Hagerstensasen,RodFruangen,3,79.4,2,Lägenhet,2000,[Hägerstensåsen],3575000,525000,4100000,5104,Länsförsäkringar Fastighetsförmedling,338.4192006937104,Hagerstensasen
+2016-03-16,Inteckningsvägen 56,Hagerstensasen,RodFruangen,3,58,3,Lägenhet,1945,[Hägerstensåsen],2495000,755000,3250000,4258,Fastighetsbyrån,381.2416200436332,Hagerstensasen
+2016-03-16,Inteckningsvägen 17H,Hagerstensasen,RodFruangen,2,65,2,Lägenhet,1993,[Hägersten-Liljeholmen],1995000,1005000,3000000,4961,SkandiaMäklarna,603.017917157457,Hagerstensasen
+2016-03-15,Inteckningsvägen 103,Hagerstensasen,RodFruangen,2,52,1,Lägenhet,null,[Hägerstensåsen],2495000,105000,2600000,3421,Svenska Mäklarhuset,95.42607372802378,Hagerstensasen
+2016-03-09,Arvodesvägen 23,Hagerstensasen,RodFruangen,2,53,2,Lägenhet,1947,[Hägerstensåsen],2495000,665000,3160000,3569,Fastighetsbyrån,504.60763586011103,Hagerstensasen
+2016-03-08,Inteckningsvägen 79,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1945,[Hägersten],2395000,705000,3100000,2575,Erik Olsson Fastighetsförmedling,240.01718580676814,Hagerstensasen
+2016-03-05,Bäckvägen 114,Hagerstensasen,RodFruangen,2,42,2,Lägenhet,1942,[Hägersten],2295000,805000,3100000,3042,Erik Olsson Fastighetsförmedling,466.81898766845256,Ornsberg
+2016-02-26,Inteckningsvägen 56,Hagerstensasen,RodFruangen,1,25,1,Lägenhet,1945,[Hägerstensåsen],1795000,475000,2270000,1834,Notar,381.2416200436332,Hagerstensasen
+2016-02-26,Sparbanksvägen 85,Hagerstensasen,RodFruangen,2,51,2,Lägenhet,1946,[Hägerstensåsen],2295000,305000,2600000,3410,Fastighetsbyrån,437.10429154902283,Hagerstensasen
+2016-02-18,Valutavägen 27,Hagerstensasen,RodFruangen,1,29,1,Lägenhet,1947,[Hägerstensåsen],1695000,355000,2050000,2326,Länsförsäkringar Fastighetsförmedling,140.39009449271956,Hagerstensasen
+2016-02-18,Sparbanksvägen 81,Hagerstensasen,RodFruangen,2,51,1,Lägenhet,1946,[Hägerstensåsen],1950000,880000,2830000,3410,Fastighetsbyrån,417.5591197262882,Hagerstensasen
+2016-02-11,Bäckvägen 120,Hagerstensasen,RodFruangen,3,57,2,Lägenhet,null,[Hägerstensåsen],2495000,825000,3320000,3732,Svenska Mäklarhuset,513.8914899856873,Ornsberg
+2016-02-11,Sparbanksvägen 44,Hagerstensasen,RodFruangen,2,45,1,Lägenhet,null,[Hägersten],2250000,550000,2800000,2661,Länsförsäkringar Fastighetsförmedling,252.32540313708807,Hagerstensasen
+2016-02-10,Arvodesvägen 21,Hagerstensasen,RodFruangen,2,52,0,Lägenhet,1946,[Hägerstensåsen],2495000,355000,2850000,3437,Södermäklarna,517.8483684965922,Hagerstensasen
+2016-02-09,Inteckningsvägen 19,Hagerstensasen,RodFruangen,2.5,58,3,Lägenhet,1945,[Hägersten],2595000,345000,2940000,3625,Svensk Fastighetsförmedling,538.1549147052763,Hagerstensasen
+2016-02-04,Förskottsvägen 6,Hagerstensasen,RodFruangen,2,55,2,Lägenhet,1944,[Hägerstensåsen],2595000,325000,2920000,3140,Fastighetsbyrån,395.3093037928552,Hagerstensasen
+2016-02-04,Piruettvägen 9,Hagerstensasen,RodFruangen,2,63,9,Lägenhet,2009,[Hägerstensåsen],3195000,655000,3850000,3647,Bjurfors,100.23249395722839,Hagerstensasen
+2016-02-03,Piruettvägen 9,Hagerstensasen,RodFruangen,3,86,8,Lägenhet,2009,[Hägerstensåsen],4295000,705000,5000000,4592,Bjurfors,100.23249395722839,Hagerstensasen
+2016-02-01,Sparbanksvägen 81,Hagerstensasen,RodFruangen,2,51,3,Lägenhet,1946,[Hägerstensåsen],2295000,745000,3040000,3410,Notar,417.5591197262882,Hagerstensasen
+2016-02-01,Inteckningsvägen 35,Hagerstensasen,RodFruangen,2,51,2,Lägenhet,1945,[Hägerstensåsen],2295000,425000,2720000,3406,Notar,479.28712284238793,Hagerstensasen
+2016-02-01,Dymlingsgränd 9,Hagerstensasen,RodFruangen,2,48.3,1,Lägenhet,1996,[Hägerstensåsen],2395000,-100000,2295000,3075,Notar,760.0142139170488,Hagerstensasen
+2016-01-28,Bäckvägen 110,Hagerstensasen,RodFruangen,1,29,null,Lägenhet,1942,[Hägerstensåsen],1895000,280000,2175000,1730,HusmanHagberg,445.01873730139124,Ornsberg
+2016-01-15,Dymlingsgränd 9,Hagerstensasen,RodFruangen,2,48.3,3,Lägenhet,1996,[Hägerstensåsen],2450000,0,2450000,3300,HusmanHagberg,760.0142139170488,Hagerstensasen
+2016-01-15,Bäckvägen 165,Hagerstensasen,RodFruangen,1,36,1,Lägenhet,1944,[Hägerstensåsen],1850000,420000,2270000,1874,HusmanHagberg,564.9180295304337,Hagerstensasen
+2016-01-15,Sparbanksvägen 83,Hagerstensasen,RodFruangen,3,65,2,Lägenhet,1946,[Hägerstensåsen],2895000,55000,2950000,4262,Fastighetsbyrån,428.24317052087923,Hagerstensasen
+2016-01-14,Sparbanksvägen 10,Hagerstensasen,RodFruangen,3,109,null,Lägenhet,1945,[Hägersten-Liljeholmen],3950000,1100000,5050000,5356,Södermäklarna,371.2746270978215,Hagerstensasen
+2016-01-14,Arvodesvägen 8,Hagerstensasen,RodFruangen,2,50,1,Lägenhet,null,[Hägerstensåsen],1995000,655000,2650000,4483,Fastighetsbyrån,476.4391951955402,Hagerstensasen
+2016-01-13,Bäckvägen 167,Hagerstensasen,RodFruangen,1,36,2,Lägenhet,1946,[Hägerstensåsen],1950000,250000,2200000,1874,Bjurfors,552.1770813791954,Hagerstensasen
+2016-01-13,Sparbanksvägen 66,Hagerstensasen,RodFruangen,3,56,null,Lägenhet,1945,[Hägerstensåsen],2695000,0,2695000,4388,Svenska Mäklargruppen,341.46677474652165,Hagerstensasen
+2016-01-13,Inteckningsvägen 97,Hagerstensasen,RodFruangen,2,52,1,Lägenhet,1946,[Hägerstensåsen],2810000,0,2810000,3421,BOSTHLM,129.50979282108045,Hagerstensasen
+2016-01-12,Bokbindarvägen 53,Hagerstensasen,RodFruangen,2,53,4,Lägenhet,1944,[Hägerstensåsen],2695000,905000,3600000,2975,Fastighetsbyrån,554.9760362388273,Axelsberg
+2016-01-06,Sparbanksvägen 80,Hagerstensasen,RodFruangen,2,45,2,Lägenhet,null,[Hägerstensåsen],2195000,330000,2525000,3173,Svenska Mäklarhuset,414.79622694392555,Hagerstensasen
+2015-12-12,Valutavägen 35,Hagerstensasen,RodFruangen,2.5,56,0.5,Lägenhet,1947,[Hägerstensåsen],2395000,130000,2525000,3714,Fastighetsbyrån,101.47859248491348,Hagerstensasen
+2015-12-11,Valutavägen 84,Hagerstensasen,RodFruangen,2,41,1,Lägenhet,1946,[Hägerstensåsen],1995000,515000,2510000,2426,HusmanHagberg,129.34270452318708,Hagerstensasen
+2015-12-11,Bäckvägen 127,Hagerstensasen,RodFruangen,2,43,2,Lägenhet,1939,[Hägersten],2195000,215000,2410000,3548,Notar,460.0096662016944,Ornsberg
+2015-12-10,Förskottsvägen 5,Hagerstensasen,RodFruangen,3,56,null,Lägenhet,null,[Hägerstensåsen],2475000,625000,3100000,3240,BOSTHLM,425.1990665374787,Hagerstensasen
+2015-12-09,Sparbanksvägen 50,Hagerstensasen,RodFruangen,2,45,2,Lägenhet,1945,[Hägerstensåsen],2250000,300000,2550000,2661,HusmanHagberg,247.2257051687536,Hagerstensasen
+2015-12-04,Bokbindarvägen 78,Hagerstensasen,RodFruangen,4.5,103,5,Lägenhet,1944,[Hägersten],4495000,135000,4630000,7224,Svensk Fastighetsförmedling,526.1640458162977,Axelsberg
+2015-12-04,Lotterivägen 5,Hagerstensasen,RodFruangen,3,55,1,Lägenhet,1946,[Hägerstensåsen],2795000,205000,3000000,2953,HusmanHagberg,285.4990175881862,Hagerstensasen
+2015-11-27,Sparbanksvägen 40,Hagerstensasen,RodFruangen,1,27,null,Lägenhet,1945,[Hägerstensåsen],1895000,225000,2120000,1596,HusmanHagberg,243.45703004318213,Hagerstensasen
+2015-11-26,Lotterivägen 49,Hagerstensasen,RodFruangen,2,56,2.5,Lägenhet,1947,[Hägersten-Liljeholmen],2695000,105000,2800000,3031,SkandiaMäklarna,240.67798795682336,Hagerstensasen
+2015-11-26,Sparbanksvägen 42,Hagerstensasen,RodFruangen,2,45,3,Lägenhet,1945,[Hägerstensåsen],2250000,380000,2630000,2661,HusmanHagberg,247.2257051687536,Hagerstensasen
+2015-11-19,Boktryckarvägen 12,Hagerstensasen,RodFruangen,4,100,3,Lägenhet,2006,[Hägersten],4595000,830000,5425000,6901,Fastighetsmäklarna,503.399327975395,Ornsberg
+2015-11-13,Bokbindarvägen 51,Hagerstensasen,RodFruangen,2,35,2,Lägenhet,1944,[Hägerstensåsen],2195000,405000,2600000,1923,Fastighetsbyrån,574.1576279200127,Axelsberg
+2015-11-12,Arvodesvägen 21,Hagerstensasen,RodFruangen,2,52,3,Lägenhet,1946,[Hägersten-Liljeholmen],2800000,-105000,2695000,3437,SkandiaMäklarna,517.8483684965922,Hagerstensasen
+2015-11-12,Valutavägen 27,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1947,[Hägersten-Liljeholmen],2595000,580000,3175000,3528,SkandiaMäklarna,140.39009449271956,Hagerstensasen
+2015-11-10,Arvodesvägen 6,Hagerstensasen,RodFruangen,2,48,1,Lägenhet,1944,[Hägersten],1895000,30000,1925000,4381,Notar,491.7011878441392,Hagerstensasen
+2015-11-06,Inteckningsvägen 19,Hagerstensasen,RodFruangen,1,32,null,Lägenhet,1946,[Hägerstensåsen],1795000,545000,2340000,2387,Notar,538.1549147052763,Hagerstensasen
+2015-11-05,Valutavägen 21,Hagerstensasen,RodFruangen,3,71,null,Lägenhet,1947,[Hägerstensåsen],2795000,1005000,3800000,4328,Länsförsäkringar Fastighetsförmedling,195.2537153972788,Hagerstensasen
+2015-11-04,Dymlingsgränd 9,Hagerstensasen,RodFruangen,3,69.7,null,Lägenhet,1998,[Telefonplan],2895000,405000,3300000,3954,MOHV,760.0142139170488,Hagerstensasen
+2015-11-03,Arvodesvägen 17,Hagerstensasen,RodFruangen,3,70,2,Lägenhet,1944,[Hägerstensåsen],2995000,755000,3750000,2231,Notar,509.67946094681827,Hagerstensasen
+2015-11-03,Inteckningsvägen 56,Hagerstensasen,RodFruangen,2,58,2,Lägenhet,1945,[Hägerstensåsen],2395000,135000,2530000,3980,Notar,381.2416200436332,Hagerstensasen
+2015-11-02,Bäckvägen 167,Hagerstensasen,RodFruangen,1,36,3,Lägenhet,1946,[Hägerstensåsen],1995000,355000,2350000,1874,Bjurfors,552.1770813791954,Hagerstensasen
+2015-10-26,Sparbanksvägen 72,Hagerstensasen,RodFruangen,2,42,1,Lägenhet,null,[Hägerstensåsen],2195000,325000,2520000,3179,Svenska Mäklarhuset,365.74558200302664,Hagerstensasen
+2015-10-24,Inteckningsvägen 101,Hagerstensasen,RodFruangen,2,52,1,Lägenhet,1946,[Hägerstensåsen],2295000,280000,2575000,3354,Fastighetsbyrån,106.89759680053109,Hagerstensasen
+2015-10-23,Riksdalervägen 16,Hagerstensasen,RodFruangen,1,34,null,Lägenhet,1947,[Hägerstensåsen],1250000,850000,2100000,2218,Bjurfors,414.6694352703291,Hagerstensasen
+2015-10-21,Förskottsvägen 3,Hagerstensasen,RodFruangen,2.5,56,null,Lägenhet,1946,[Hägerstensåsen],2250000,650000,2900000,3028,Mäklare Sjögren,415.7179090846947,Hagerstensasen
+2015-10-20,Arvodesvägen 8,Hagerstensasen,RodFruangen,2,50,1,Lägenhet,1944,[Hägersten-Liljeholmen],2350000,-355000,1995000,4483,SkandiaMäklarna,476.4391951955402,Hagerstensasen
+2015-10-16,Lotterivägen 8,Hagerstensasen,RodFruangen,2,58,1,Lägenhet,1946,[Hägerstensåsen],2595000,155000,2750000,2849,HusmanHagberg,298.70485390674975,Hagerstensasen
+2015-10-15,Valutavägen 66E,Hagerstensasen,RodFruangen,2,62,5,Lägenhet,2007,[Hägersten],2800000,450000,3250000,4461,Svensk Fastighetsförmedling,247.58362615461584,Hagerstensasen
+2015-10-14,Sparbanksvägen 18,Hagerstensasen,RodFruangen,2.5,69,1,Lägenhet,1946,[Hägersten-Liljeholmen],2995000,605000,3600000,2376,Magnusson Mäkleri,310.96976283538345,Hagerstensasen
+2015-10-13,Förskottsvägen 5,Hagerstensasen,RodFruangen,2.5,56,0.5,Lägenhet,1946,[Hägerstensåsen],2295000,645000,2940000,3028,Fastighetsbyrån,425.1990665374787,Hagerstensasen
+2015-10-09,Lotterivägen 2,Hagerstensasen,RodFruangen,4,79.4,7,Lägenhet,2000,[Hägerstensåsen],3425000,1100000,4525000,5104,Mäklarringen,338.4192006937104,Hagerstensasen
+2015-10-06,Lotterivägen 9,Hagerstensasen,RodFruangen,2,49,2,Lägenhet,1946,[Hägerstensåsen],2295000,805000,3100000,2664,Erik Olsson Fastighetsförmedling,266.5488805075485,Hagerstensasen
+2015-10-03,Riksdalervägen 24,Hagerstensasen,RodFruangen,2,51,1,Lägenhet,1947,[Hägerstensåsen],2195000,305000,2500000,3328,Fastighetsbyrån,430.9925489420543,Hagerstensasen
+2015-10-01,Bokbindarvägen 47,Hagerstensasen,RodFruangen,3,65,2,Lägenhet,1944,[Hägerstensåsen],3195000,595000,3790000,3148,Fastighetsbyrån,543.4632541163016,Ornsberg
+2015-09-30,Bokbindarvägen 70,Hagerstensasen,RodFruangen,6,160,null,Villa,1947,[Hägersten],10175000,0,10175000,null,Länsförsäkringar Fastighetsförmedling,484.6603603014427,Ornsberg
+2015-09-24,Förskottsvägen 12,Hagerstensasen,RodFruangen,2,57,3,Lägenhet,1947,[Hägerstensåsen],2695000,405000,3100000,3203,HusmanHagberg,422.9081033395538,Hagerstensasen
+2015-09-24,Sparbanksvägen 42,Hagerstensasen,RodFruangen,2,45,3,Lägenhet,null,[Hägerstensåsen],2860000,0,2860000,2661,BOSTHLM,247.2257051687536,Hagerstensasen
+2015-09-14,Lotterivägen 49,Hagerstensasen,RodFruangen,2,56,2,Lägenhet,1947,[Hägerstensåsen],2395000,755000,3150000,3031,Notar,240.67798795682336,Hagerstensasen
+2015-09-09,Valutavägen 66D,Hagerstensasen,RodFruangen,1,36,null,Lägenhet,2007,[Hägerstensåsen],1795000,685000,2480000,3168,Länsförsäkringar Fastighetsförmedling,256.7050264568447,Hagerstensasen
+2015-09-09,Inteckningsvägen 17G,Hagerstensasen,RodFruangen,4,93,4,Lägenhet,1993,[Hägerstensåsen],2750000,-130000,2620000,7501,Mäklarringen,606.115542126488,Hagerstensasen
+2015-09-07,Sparbanksvägen 74B,Hagerstensasen,RodFruangen,3,89,null,Lägenhet,1945,[Hägersten],2895000,605000,3500000,6470,Notar,378.4697030706426,Hagerstensasen
+2015-09-07,Bäckvägen 161,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1945,[Hägerstensåsen],2375000,625000,3000000,2000,Länsförsäkringar Fastighetsförmedling,602.3725287222136,Hagerstensasen
+2015-09-07,Valutavägen 66D,Hagerstensasen,RodFruangen,2,62,5,Lägenhet,2007,[Hägerstensåsen],2495000,1065000,3560000,4461,Länsförsäkringar Fastighetsförmedling,256.7050264568447,Hagerstensasen
+2015-09-03,Bäckvägen 169,Hagerstensasen,RodFruangen,2,66,4,Lägenhet,null,[Hägerstensåsen],2595000,605000,3200000,3436,Svenska Mäklarhuset,515.6830611239417,Hagerstensasen
+2015-09-02,Inteckningsvägen 99,Hagerstensasen,RodFruangen,2,52,2,Lägenhet,null,[Hägerstensåsen],2175000,750000,2925000,3354,BOSTHLM,119.83707961741396,Hagerstensasen
+2015-08-28,Bokbindarvägen 53,Hagerstensasen,RodFruangen,3,65,2,Lägenhet,1944,[Hägersten],3195000,220000,3415000,3559,Mäklarhuset,554.9760362388273,Axelsberg
+2015-08-28,Bokbindarvägen 53,Hagerstensasen,RodFruangen,2,65,2,Lägenhet,1944,[Hägersten],3195000,220000,3415000,3559,Mäklarhuset,554.9760362388273,Axelsberg
+2015-08-27,Riksdalervägen 7,Hagerstensasen,RodFruangen,2,63,4,Lägenhet,null,[Hägerstensåsen],2395000,885000,3280000,2414,Svenska Mäklarhuset,368.02355320317474,Hagerstensasen
+2015-08-27,Arvodesvägen 6,Hagerstensasen,RodFruangen,2,48,2,Lägenhet,1945,[Hägerstensåsen],1975000,0,1975000,4381,Länsförsäkringar Fastighetsförmedling,491.7011878441392,Hagerstensasen
+2015-08-25,Förskottsvägen 8,Hagerstensasen,RodFruangen,2,55,2,Lägenhet,1947,[Hägerstensåsen],2295000,905000,3200000,3140,Fastighetsbyrån,403.22556453429047,Hagerstensasen
+2015-08-24,Arvodesvägen 6,Hagerstensasen,RodFruangen,1,23,3,Lägenhet,1944,[Hägersten-Liljeholmen],1850000,-35000,1815000,2420,SkandiaMäklarna,491.7011878441392,Hagerstensasen
+2015-08-22,Lotterivägen 4,Hagerstensasen,RodFruangen,2,58,1,Lägenhet,1946,[Hägerstensåsen],2350000,525000,2875000,2849,HusmanHagberg,313.9160906040263,Hagerstensasen
+2015-08-19,Valutavägen 80,Hagerstensasen,RodFruangen,2,54,0,Lägenhet,1946,[Hägerstensåsen],2295000,505000,2800000,3195,Södermäklarna,152.78153232407917,Hagerstensasen
+2015-08-19,Bokbindarvägen 51,Hagerstensasen,RodFruangen,2,51,2,Lägenhet,null,[Hägerstensåsen],3005000,0,3005000,2542,BOSTHLM,574.1576279200127,Axelsberg
+2015-08-14,Valutavägen 30,Hagerstensasen,RodFruangen,3,74,3,Lägenhet,1947,[Hägerstensåsen],3495000,405000,3900000,4347,HusmanHagberg,410.8204360353811,Hagerstensasen
+2015-08-14,Sparbanksvägen 78,Hagerstensasen,RodFruangen,2,45,3,Lägenhet,1945,[Hägerstensåsen],2295000,220000,2515000,3271,HusmanHagberg,397.3755141102708,Hagerstensasen
+2015-08-12,Bäckvägen 114,Hagerstensasen,RodFruangen,2,40,1,Lägenhet,1942,[Hägerstensåsen],1995000,425000,2420000,2924,HusmanHagberg,466.81898766845256,Ornsberg
+2015-08-12,Inteckningsvägen 101,Hagerstensasen,RodFruangen,2,52,2,Lägenhet,1946,[Hägerstensåsen],2295000,625000,2920000,3104,Fastighetsbyrån,106.89759680053109,Hagerstensasen
+2015-08-10,Lotterivägen 23,Hagerstensasen,RodFruangen,2,50,3,Lägenhet,1947,[Hägerstensåsen],2195000,705000,2900000,3102,Länsförsäkringar Fastighetsförmedling,261.58508813717225,Hagerstensasen
+2015-08-05,Valutavägen 66E,Hagerstensasen,RodFruangen,2,54,1,Lägenhet,2007,[Hägerstensåsen],2395000,525000,2920000,4169,Fastighetsbyrån,247.58362615461584,Hagerstensasen
+2015-07-31,Inteckningsvägen 79,Hagerstensasen,RodFruangen,2,53,1,Lägenhet,1945,[Hägerstensåsen],2295000,565000,2860000,2551,Erik Olsson Fastighetsförmedling,240.01718580676814,Hagerstensasen
+2015-07-20,Bokbindarvägen 78,Hagerstensasen,RodFruangen,1,38,6,Lägenhet,1944,[Hägerstensåsen],1795000,590000,2385000,3533,Notar,526.1640458162977,Axelsberg
+2015-07-16,Lotterivägen 14,Hagerstensasen,RodFruangen,2,56,3,Lägenhet,1948,[Hägerstensåsen],2450000,300000,2750000,3577,HusmanHagberg,272.1492102708468,Hagerstensasen
+2015-07-02,Sparbanksvägen 11,Hagerstensasen,RodFruangen,2,53,2,Lägenhet,1946,[Hägerstensåsen],2695000,240000,2935000,2854,HusmanHagberg,440.88345969488375,Hagerstensasen
+2015-07-01,Lotterivägen 2,Hagerstensasen,RodFruangen,4,79.4,null,Lägenhet,1999,[Hägerstensåsen],3295000,505000,3800000,5104,Fastighetsbyrån,338.4192006937104,Hagerstensasen
+2015-07-01,Inteckningsvägen 21,Hagerstensasen,RodFruangen,2,51,2,Lägenhet,1945,[Hägersten],2250000,555000,2805000,3293,Mäklarringen,525.7688813681938,Hagerstensasen
+2015-07-01,Arvodesvägen 8,Hagerstensasen,RodFruangen,1,23,3,Lägenhet,1944,[Hägerstensåsen],1495000,515000,2010000,2420,Fastighetsbyrån,476.4391951955402,Hagerstensasen
+2015-06-26,Bäckvägen 118,Hagerstensasen,RodFruangen,3,71,2,Lägenhet,1937,[Hägersten],3495000,555000,4050000,4204,Notar,495.57288706001646,Ornsberg
+2015-06-24,Förskottsvägen 8,Hagerstensasen,RodFruangen,2,55,1,Lägenhet,1947,[Hägersten],2595000,230000,2825000,3108,Svensk Fastighetsförmedling,403.22556453429047,Hagerstensasen
+2015-06-24,Lotterivägen 33,Hagerstensasen,RodFruangen,2,49,3,Lägenhet,1946,[Hägersten],2295000,335000,2630000,3040,Svensk Fastighetsförmedling,234.39772440913873,Hagerstensasen
+2015-06-24,Lotterivägen 4,Hagerstensasen,RodFruangen,2,58,3,Lägenhet,1946,[Hägerstensåsen],2375000,375000,2750000,2849,Länsförsäkringar Fastighetsförmedling,313.9160906040263,Hagerstensasen
+2015-06-18,Boktryckarvägen 8,Hagerstensasen,RodFruangen,4,95.3,3,Lägenhet,2004,[Hägerstensåsen],4495000,330000,4825000,5994,HusmanHagberg,495.88510393293893,Ornsberg
+2015-06-18,Sparbanksvägen 64,Hagerstensasen,RodFruangen,2.5,56,2,Lägenhet,1945,[Hägersten],1995000,-95000,1900000,4238,Svensk Fastighetsförmedling,330.6890118563677,Hagerstensasen
+2015-06-13,Valutavägen 35,Hagerstensasen,RodFruangen,3,67,3,Lägenhet,1947,[Hägersten],2950000,450000,3400000,4188,Mäklarhuset,101.47859248491348,Hagerstensasen
+2015-06-10,Sparbanksvägen 77,Hagerstensasen,RodFruangen,2,51,2,Lägenhet,1946,[Hägerstensåsen],2195000,425000,2620000,3410,Fastighetsbyrån,382.83258500774826,Hagerstensasen
+2015-06-05,Bäckvägen 161,Hagerstensasen,RodFruangen,2,54,2,Lägenhet,1945,[Hägerstensåsen],2275000,645000,2920000,2000,Länsförsäkringar Fastighetsförmedling,602.3725287222136,Hagerstensasen
+2015-06-03,Inteckningsvägen 99,Hagerstensasen,RodFruangen,2,52,2,Lägenhet,1946,[Hägerstensåsen],1995000,715000,2710000,3104,Fastighetsbyrån,119.83707961741396,Hagerstensasen
+2015-06-03,Piruettvägen 5,Hagerstensasen,RodFruangen,3,86,10,Lägenhet,2009,[Hägersten-Liljeholmen],null,NaN,4605000,4592,SkandiaMäklarna,144.3165794785158,Hagerstensasen
+2015-06-03,Bokbindarvägen 51,Hagerstensasen,RodFruangen,2,51,3,Lägenhet,null,[Hägerstensåsen],2700000,-115000,2585000,2542,BOSTHLM,574.1576279200127,Axelsberg
+2015-06-02,Lotterivägen 43,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1947,[Hägerstensåsen],2850000,0,2850000,2868,Fastighetsbyrån,216.00550669428327,Hagerstensasen
+2015-06-01,Bäckvägen 114,Hagerstensasen,RodFruangen,2,42,1,Lägenhet,null,[Hägerstensåsen],1995000,0,1995000,3042,Svenska Mäklarhuset,466.81898766845256,Ornsberg
+2015-06-01,Riksdalervägen 18,Hagerstensasen,RodFruangen,2,51,2,Lägenhet,null,[Hägerstensåsen],2195000,355000,2550000,3328,Svenska Mäklarhuset,420.57102117783677,Hagerstensasen
+2015-06-01,Valutavä,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,1947,[Hägersten],2175000,35000,2210000,3409,Länsförsäkringar Fastighetsförmedling,186.602915791687,Hagerstensasen
+2015-05-28,Lotterivägen 45,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1947,[Hägerstensåsen],2695000,455000,3150000,2868,HusmanHagberg,229.57385065834944,Hagerstensasen
+2015-05-28,Bäckvägen 165,Hagerstensasen,RodFruangen,1,36,3,Lägenhet,1946,[Hägersten-Liljeholmen],2210000,0,2210000,1875,SkandiaMäklarna,564.9180295304337,Hagerstensasen
+2015-05-22,Dymlingsgränd 12,Hagerstensasen,RodFruangen,3,62.5,2,Lägenhet,1953,[Hägerstensåsen],2650000,450000,3100000,3460,SkandiaMäklarna,682.2271406237005,Hagerstensasen
+2015-05-22,Sparbanksvägen 49,Hagerstensasen,RodFruangen,2,49,1,Lägenhet,null,[Hägerstensåsen],2195000,405000,2600000,2899,Svenska Mäklarhuset,285.36262547950975,Hagerstensasen
+2015-05-20,Bokbindarvägen 80,Hagerstensasen,RodFruangen,1,41,null,Lägenhet,1944,[Hägerstensåsen],1995000,370000,2365000,2092,SkandiaMäklarna,508.0178599373535,Axelsberg
+2015-05-14,Bäckvägen 169,Hagerstensasen,RodFruangen,3,75,3,Lägenhet,1946,[Hägerstensåsen],3195000,630000,3825000,3696,Fastighetsbyrån,515.6830611239417,Hagerstensasen
+2015-05-14,Dymlingsgränd 7,Hagerstensasen,RodFruangen,1,47,null,Lägenhet,1997,[Hägersten],1595000,325000,1920000,2982,Svensk Fastighetsförmedling,750.9112683273853,Hagerstensasen
+2015-05-13,Inteckningsvägen 17I,Hagerstensasen,RodFruangen,2.5,65,null,Lägenhet,1993,[Hägerstensåsen],2095000,0,2095000,5033,SkandiaMäklarna,571.1136431111366,Hagerstensasen
+2015-05-13,Bokbindarvägen 78,Hagerstensasen,RodFruangen,1,38,1,Lägenhet,1944,[Hägerstensåsen],2200000,-180000,2020000,3245,Fastighetsbyrån,526.1640458162977,Axelsberg
+2015-05-13,Lotterivägen 6,Hagerstensasen,RodFruangen,2,58,3,Lägenhet,1946,[Hägerstensåsen],2450000,750000,3200000,2849,Erik Olsson Fastighetsförmedling,306.70586087509747,Hagerstensasen
+2015-05-12,Inteckningsvägen 64,Hagerstensasen,RodFruangen,2,56,3,Lägenhet,1945,[Hägerstensåsen],2195000,375000,2570000,3839,SkandiaMäklarna,327.83226794824145,Hagerstensasen
+2015-05-12,Lotterivägen 41,Hagerstensasen,RodFruangen,3,67,2.5,Lägenhet,1947,[Hägerstensåsen],3095000,730000,3825000,3626,SkandiaMäklarna,197.1379616236932,Hagerstensasen
+2015-05-12,Piruettvägen 5,Hagerstensasen,RodFruangen,3,86,5,Lägenhet,2009,[Hägerstensåsen],3595000,1025000,4620000,4592,SkandiaMäklarna,144.3165794785158,Hagerstensasen
+2015-05-12,Valutavägen 36,Hagerstensasen,RodFruangen,3,74,2,Lägenhet,1945,[Hägerstensåsen],2795000,1105000,3900000,4347,Erik Olsson Fastighetsförmedling,368.1014471817624,Hagerstensasen
+2015-05-09,Inteckningsvägen 17H,Hagerstensasen,RodFruangen,2,68,null,Lägenhet,1993,[Hägerstensåsen],2195000,0,2195000,5295,SkandiaMäklarna,603.017917157457,Hagerstensasen
+2015-05-07,Bäckvägen 127,Hagerstensasen,RodFruangen,1,30,null,Lägenhet,null,null,2370000,0,2370000,2475,BOSTHLM,460.0096662016944,Ornsberg
+2015-05-06,Piruettvägen 5,Hagerstensasen,RodFruangen,2,63,7,Lägenhet,2009,[Hägerstensåsen],2795000,905000,3700000,3647,Fastighetsbyrån,144.3165794785158,Hagerstensasen
+2015-05-06,Valutavägen 31,Hagerstensasen,RodFruangen,1,29,0.5,Lägenhet,1947,[Hägerstensåsen],1495000,555000,2050000,2273,Södermäklarna,113.67955566297907,Hagerstensasen
+2015-05-01,Sparbanksvägen 45,Hagerstensasen,RodFruangen,2,42,null,Lägenhet,1946,[Hägerstensåsen],2395000,215000,2610000,2589,Balders Ädelmarks,275.31346202973793,Hagerstensasen
+2015-05-01,Bäckvägen 127,Hagerstensasen,RodFruangen,1,30,1,Lägenhet,1939,[Hägerstensåsen],2370000,0,2370000,2475,BOSTHLM,460.0096662016944,Ornsberg
+2015-04-29,Bokbindarvägen 47,Hagerstensasen,RodFruangen,3,66,2,Lägenhet,1944,[Hägerstensåsen],3195000,525000,3720000,3187,Fastighetsbyrån,543.4632541163016,Ornsberg
+2015-04-29,Valutavägen 19,Hagerstensasen,RodFruangen,2,51,2,Lägenhet,null,[Hägersten],2395000,515000,2910000,3409,SkandiaMäklarna,210.13691032100502,Hagerstensasen
+2015-04-28,Arvodesvägen 6,Hagerstensasen,RodFruangen,1,24,2,Lägenhet,1944,[Hägerstensåsen],1395000,555000,1950000,2506,Notar,491.7011878441392,Hagerstensasen
+2015-04-23,Lotterivägen 2,Hagerstensasen,RodFruangen,2,67,6,Lägenhet,2000,[Hägersten],2895000,530000,3425000,null,Svensk Fastighetsförmedling,338.4192006937104,Hagerstensasen
+2015-04-23,Valutavägen 36,Hagerstensasen,RodFruangen,2,52,3,Lägenhet,1944,[Hägerstensåsen],2100000,725000,2825000,3276,Fastighetsbyrån,368.1014471817624,Hagerstensasen
+2015-04-22,Lotterivägen 10,Hagerstensasen,RodFruangen,3,68,1.5,Lägenhet,1948,[Hägerstensåsen],2850000,900000,3750000,4307,Fastighetsbyrån,283.25474745436503,Hagerstensasen
+2015-04-21,Valutavägen 66E,Hagerstensasen,RodFruangen,1,36,null,Lägenhet,2006,[Hägerstensåsen],1795000,505000,2300000,3347,Notar,247.58362615461584,Hagerstensasen
+2015-04-19,Valutavägen 66B,Hagerstensasen,RodFruangen,2,62,4,Lägenhet,2006,[Hägerstensåsen],2495000,445000,2940000,4461,Notar,279.7797682987235,Hagerstensasen
+2015-04-02,Lotterivägen 29,Hagerstensasen,RodFruangen,3,55,2,Lägenhet,1947,[Hägersten],2295000,805000,3100000,3412,Länsförsäkringar Fastighetsförmedling,250.69009723771867,Hagerstensasen
+2015-03-31,Bäckvägen 167,Hagerstensasen,RodFruangen,4,108,2,Lägenhet,1946,[Hägerstensåsen],3995000,585000,4580000,5622,Fastighetsbyrån,552.1770813791954,Hagerstensasen
+2015-03-25,Lotterivägen 27,Hagerstensasen,RodFruangen,2.5,55,1,Lägenhet,1946,[Hägersten],2495000,455000,2950000,3412,Svensk Fastighetsförmedling,258.7344678015089,Hagerstensasen
+2015-03-25,Arvodesvägen 18,Hagerstensasen,RodFruangen,1,20,3,Lägenhet,1947,[Hägerstensåsen],1395000,365000,1760000,1450,Fastighetsbyrån,489.2520251861019,Hagerstensasen
+2015-03-25,Sparbanksvägen 22,Hagerstensasen,RodFruangen,1,27,2,Lägenhet,1946,[Hägerstensåsen],1495000,505000,2000000,1226,Notar,289.11257373752863,Hagerstensasen
+2015-03-19,Bokbindarvägen 80,Hagerstensasen,RodFruangen,3,72,5,Lägenhet,1944,[Hägersten],2950000,1160000,4110000,3963,Svensk Fastighetsförmedling,508.0178599373535,Axelsberg
+2015-03-17,Inteckningsvägen 99,Hagerstensasen,RodFruangen,2,52,3,Lägenhet,1946,[Hägerstensåsen],2295000,505000,2800000,3354,Erik Olsson Fastighetsförmedling,119.83707961741396,Hagerstensasen
+2015-03-14,Lotterivägen 45,Hagerstensasen,RodFruangen,2,53,2,Lägenhet,1947,[Hägerstensåsen],2095000,805000,2900000,2868,HusmanHagberg,229.57385065834944,Hagerstensasen
+2015-03-13,Lotterivägen 23,Hagerstensasen,RodFruangen,2,50,3,Lägenhet,1947,[Hägersten],2750000,0,2750000,3102,Länsförsäkringar Fastighetsförmedling,261.58508813717225,Hagerstensasen
+2015-03-13,Inteckningsvägen 17D,Hagerstensasen,RodFruangen,4,93,2,Lägenhet,1993,[Hägersten],2495000,280000,2775000,7293,Mäklarhuset,581.291775274017,Hagerstensasen
+2015-03-12,Boktryckarvägen 6,Hagerstensasen,RodFruangen,3,58,2,Lägenhet,1943,[Hägersten],2675000,0,2675000,3538,Svensk Fastighetsförmedling,465.0496898828331,Ornsberg
+2015-03-12,Lotterivägen 7,Hagerstensasen,RodFruangen,3,70,1,Lägenhet,1946,[Hägersten],2750000,870000,3620000,3384,Länsförsäkringar Fastighetsförmedling,276.1729184649733,Hagerstensasen
+2015-03-11,Arvodesvägen 20,Hagerstensasen,RodFruangen,1,20,3,Lägenhet,1947,[Hägerstensåsen],1295000,455000,1750000,1450,Notar,480.19989511109145,Hagerstensasen
+2015-03-04,Bäckvägen 167,Hagerstensasen,RodFruangen,3,74,1,Lägenhet,1946,[Hägerstensåsen],2975000,1045000,4020000,3696,Länsförsäkringar Fastighetsförmedling,552.1770813791954,Hagerstensasen
+2015-03-04,Inteckningsvägen 17A,Hagerstensasen,RodFruangen,2,65,1,Lägenhet,1993,[Hägersten],1695000,730000,2425000,4983,SkandiaMäklarna,577.4237443671201,Hagerstensasen
+2015-02-27,Arvodesvägen 18,Hagerstensasen,RodFruangen,1,20,null,Lägenhet,1947,[Hägersten],1495000,10000,1505000,null,Svensk Fastighetsförmedling,489.2520251861019,Hagerstensasen
+2015-02-26,Piruettvägen 9,Hagerstensasen,RodFruangen,2,63,6,Lägenhet,2009,[Hägerstensåsen],2695000,565000,3260000,3647,Fastighetsbyrån,100.23249395722839,Hagerstensasen
+2015-02-19,Sparbanksvägen 22,Hagerstensasen,RodFruangen,1,27,2,Lägenhet,1946,[Hägerstensåsen],1475000,405000,1880000,1226,Notar,289.11257373752863,Hagerstensasen
+2015-02-19,Riksdalervägen 7,Hagerstensasen,RodFruangen,2,63,5,Lägenhet,1948,[Hägerstensåsen],2150000,610000,2760000,2426,Notar,368.02355320317474,Hagerstensasen
+2015-02-16,Inteckningsvägen 66,Hagerstensasen,RodFruangen,2,56,1,Lägenhet,1945,[Hägerstensåsen],1995000,405000,2400000,3839,Notar,312.903115005106,Hagerstensasen
+2015-02-12,Bäckvägen 118,Hagerstensasen,RodFruangen,3,72.5,3,Lägenhet,1940,[Hägersten],3390000,630000,4020000,4184,Mäklarhuset,495.57288706001646,Ornsberg
+2015-02-11,Lotterivägen 8,Hagerstensasen,RodFruangen,2,58,1,Lägenhet,1946,[Hägerstensåsen],1995000,555000,2550000,2849,Fastighetsbyrån,298.70485390674975,Hagerstensasen
+2015-02-11,Bäckvägen 165,Hagerstensasen,RodFruangen,3,75,2,Lägenhet,1946,[Hägerstensåsen],2795000,805000,3600000,3696,Fastighetsbyrån,564.9180295304337,Hagerstensasen
+2015-02-10,Lotterivägen 13,Hagerstensasen,RodFruangen,2,49,3,Lägenhet,1946,[Hägerstensåsen],2050000,640000,2690000,2664,Länsförsäkringar Fastighetsförmedling,242.6725680085606,Hagerstensasen
+2015-02-10,Valutavägen 66E,Hagerstensasen,RodFruangen,3,67,1,Lägenhet,2007,[Hägersten],2850000,290000,3140000,4878,Länsförsäkringar Fastighetsförmedling,247.58362615461584,Hagerstensasen
+2015-02-10,Lotterivägen 35,Hagerstensasen,RodFruangen,2,49,1,Lägenhet,1947,[Hägerstensåsen],1950000,510000,2460000,3040,Länsförsäkringar Fastighetsförmedling,220.73748721501846,Hagerstensasen
+2015-01-30,Valutavägen 25,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1947,[Hägersten],2195000,0,2195000,3528,SkandiaMäklarna,154.24862385573837,Hagerstensasen
+2015-01-30,Sparbanksvägen 82,Hagerstensasen,RodFruangen,3,60,2,Lägenhet,1945,[Hägerstensåsen],1995000,655000,2650000,4497,Notar,415.1748549906332,Hagerstensasen
+2015-01-23,Valutavägen 21,Hagerstensasen,RodFruangen,3,71,3,Lägenhet,1947,[Hägersten],2595000,505000,3100000,4328,Svensk Fastighetsförmedling,195.2537153972788,Hagerstensasen
+2015-01-22,Bäckvägen 127,Hagerstensasen,RodFruangen,2,43,3,Lägenhet,1939,[Hägerstensåsen],1895000,310000,2205000,3548,Fastighetsbyrån,460.0096662016944,Ornsberg
+2015-01-22,Lotterivägen 5,Hagerstensasen,RodFruangen,3,55,1,Lägenhet,1946,[Hägerstensåsen],2195000,615000,2810000,2953,Bjurfors,285.4990175881862,Hagerstensasen
+2015-01-21,Inteckningsvägen 103,Hagerstensasen,RodFruangen,2,52,1,Lägenhet,1946,[Hägerstensåsen],2195000,455000,2650000,3105,HusmanHagberg,95.42607372802378,Hagerstensasen
+2015-01-15,Sparbanksvägen 82,Hagerstensasen,RodFruangen,4,74,3,Lägenhet,1945,[Hägerstensåsen],2395000,575000,2970000,5546,Fastighetsbyrån,415.1748549906332,Hagerstensasen
+2015-01-14,Inteckningsvägen 56,Hagerstensasen,RodFruangen,1,25,null,Lägenhet,1945,[Hägersten],1490000,320000,1810000,1714,BOSTHLM,381.2416200436332,Hagerstensasen
+2015-01-14,Inteckningsvägen 17G,Hagerstensasen,RodFruangen,4,93,1,Lägenhet,1993,[Hägerstensåsen],2495000,705000,3200000,7293,Fastighetsbyrån,606.115542126488,Hagerstensasen
+2015-01-14,Lotterivägen 29,Hagerstensasen,RodFruangen,2,55,3,Lägenhet,1947,[Hägerstensåsen],2250000,620000,2870000,3412,Länsförsäkringar Fastighetsförmedling,250.69009723771867,Hagerstensasen
+2014-12-12,Arvodesvägen 13,Hagerstensasen,RodFruangen,3,70,2,Lägenhet,1948,[Hägerstensåsen],2995000,525000,3520000,2231,Fastighetsbyrån,538.6446023163325,Hagerstensasen
+2014-12-11,Riksdalervägen 11,Hagerstensasen,RodFruangen,2,64,null,Lägenhet,1986,[Hägersten],1995000,235000,2230000,3042,Svensk Fastighetsförmedling,399.865010329551,Hagerstensasen
+2014-12-11,Sparbanksvägen 49,Hagerstensasen,RodFruangen,2,49,0.5,Lägenhet,1946,[Hägerstensåsen],1995000,655000,2650000,2899,Svenska Mäklarhuset,285.36262547950975,Hagerstensasen
+2014-12-06,Lotterivägen 51,Hagerstensasen,RodFruangen,2,56,2,Lägenhet,null,[Hägersten],2195000,505000,2700000,3031,BOSTHLM,238.6624135006559,Hagerstensasen
+2014-12-05,Valutavägen 35,Hagerstensasen,RodFruangen,3,67,3,Lägenhet,1947,[Hägersten],2795000,235000,3030000,4285,Svensk Fastighetsförmedling,101.47859248491348,Hagerstensasen
+2014-12-04,Bokbindarvägen 47,Hagerstensasen,RodFruangen,2,51,1,Lägenhet,1945,[Hägersten],1995000,275000,2270000,2506,Svensk Fastighetsförmedling,543.4632541163016,Ornsberg
+2014-11-28,Arvodesvägen 21,Hagerstensasen,RodFruangen,2,52,null,Lägenhet,null,[Hägerstensåsen],1995000,455000,2450000,3437,Fastighetsbyrån,517.8483684965922,Hagerstensasen
+2014-11-22,Förskottsvägen 7,Hagerstensasen,RodFruangen,3,56,2,Lägenhet,1946,[Hägerstensåsen],2395000,270000,2665000,3028,Svenska Mäklarhuset,433.8793107284309,Hagerstensasen
+2014-11-21,Sparbanksvägen 49,Hagerstensasen,RodFruangen,2,49,1.5,Lägenhet,1946,[Hägerstensåsen],1895000,420000,2315000,2899,Svenska Mäklarhuset,285.36262547950975,Hagerstensasen
+2014-11-20,Dymlingsgränd 12,Hagerstensasen,RodFruangen,3,113.5,null,Lägenhet,null,[Hägerstensåsen],4500000,0,4500000,5400,Fastighetsbyrån,682.2271406237005,Hagerstensasen
+2014-11-20,Lotterivägen 29,Hagerstensasen,RodFruangen,2,55,3,Lägenhet,1947,[Hägersten],2150000,310000,2460000,3412,Länsförsäkringar Fastighetsförmedling,250.69009723771867,Hagerstensasen
+2014-11-19,Lotterivägen 10,Hagerstensasen,RodFruangen,2,56,null,Lägenhet,1948,[Hägerstensåsen],2195000,265000,2460000,3408,Fastighetsbyrån,283.25474745436503,Hagerstensasen
+2014-11-19,Riksdalervägen 11,Hagerstensasen,RodFruangen,4,114,3,Lägenhet,1986,[Hägersten],4295000,340000,4635000,5418,Svensk Fastighetsförmedling,399.865010329551,Hagerstensasen
+2014-11-19,Sparbanksvägen 20,Hagerstensasen,RodFruangen,2,57,1,Lägenhet,1946,[Hägerstensåsen],2595000,205000,2800000,2085,Edward & Partners Fastighetsmäklare AB,296.53451706103266,Hagerstensasen
+2014-11-17,Riksdalervägen 9,Hagerstensasen,RodFruangen,3,69,1,Lägenhet,1948,[Hägerstensåsen],2595000,230000,2825000,2575,HusmanHagberg,355.8229398615057,Hagerstensasen
+2014-11-15,Arvodesvägen 8,Hagerstensasen,RodFruangen,2,48,2,Lägenhet,1944,[Hägerstensåsen],1795000,495000,2290000,4381,HusmanHagberg,476.4391951955402,Hagerstensasen
+2014-11-11,Bokbindarvägen 53,Hagerstensasen,RodFruangen,3,65,null,Lägenhet,1944,[Hägerstensåsen],2695000,525000,3220000,3289,Fastighetsbyrån,554.9760362388273,Axelsberg
+2014-11-11,Inteckningsvägen 101,Hagerstensasen,RodFruangen,2,52,1,Lägenhet,1946,[Hägerstensåsen],2095000,380000,2475000,3104,Fastighetsbyrån,106.89759680053109,Hagerstensasen
+2014-11-11,Bäckvägen 169,Hagerstensasen,RodFruangen,1,36,2,Lägenhet,1946,[Hägersten],1550000,600000,2150000,1875,SkandiaMäklarna,515.6830611239417,Hagerstensasen
+2014-11-07,Bäckvägen 161,Hagerstensasen,RodFruangen,2,52,null,Lägenhet,1944,[Hägersten],2350000,260000,2610000,2000,Svensk Fastighetsförmedling,602.3725287222136,Hagerstensasen
+2014-11-07,Inteckningsvägen 33,Hagerstensasen,RodFruangen,2.5,55,null,Lägenhet,1945,[Hägersten],2150000,150000,2300000,3446,Svensk Fastighetsförmedling,491.4332017523761,Hagerstensasen
+2014-10-29,Inteckningsvägen 35,Hagerstensasen,RodFruangen,2,51,2,Lägenhet,1945,[Hägerstensåsen],2150000,-250000,1900000,3196,Fastighetsbyrån,479.28712284238793,Hagerstensasen
+2014-10-23,Sparbanksvägen 68,Hagerstensasen,RodFruangen,2,42,2,Lägenhet,null,[Hägerstensåsen],1795000,355000,2150000,3028,Fastighetsbyrån,337.04065645237387,Hagerstensasen
+2014-10-22,Lotterivägen 27,Hagerstensasen,RodFruangen,2.5,55,1,Lägenhet,1947,[Hägersten],2395000,475000,2870000,3412,Mäklarhuset,258.7344678015089,Hagerstensasen
+2014-10-16,Bäckvägen 112,Hagerstensasen,RodFruangen,2,42,3,Lägenhet,1942,[Hägerstensåsen],1895000,60000,1955000,2766,Notar,465.3356212572597,Ornsberg
+2014-10-15,Inteckningsvägen 99,Hagerstensasen,RodFruangen,2,52,2,Lägenhet,null,[Hägerstensåsen],1995000,285000,2280000,3104,Hultberg & Almquist Fastighetsförmedling,119.83707961741396,Hagerstensasen
+2014-10-08,Dymlingsgränd 14,Hagerstensasen,RodFruangen,4,110,null,Radhus,1953,[Hägersten],3795000,0,3795000,5492,Wallenberg Fastighetsförmedling,706.4302578682172,Hagerstensasen
+2014-10-01,Valutavägen 66C,Hagerstensasen,RodFruangen,3,69,2,Lägenhet,2007,[Hägersten],2595000,955000,3550000,4961,Länsförsäkringar Fastighetsförmedling,290.8772936252322,Hagerstensasen
+2014-09-24,Inteckningsvägen 60,Hagerstensasen,RodFruangen,2,43,1,Lägenhet,1945,[Hägersten],1795000,155000,1950000,2948,SkandiaMäklarna,354.7569394804967,Hagerstensasen
+2014-09-24,Sparbanksvägen 22,Hagerstensasen,RodFruangen,2,69,2,Lägenhet,null,[Hägerstensåsen],2595000,505000,3100000,2376,Fastighetsbyrån,289.11257373752863,Hagerstensasen
+2014-09-18,Arvodesvägen 6,Hagerstensasen,RodFruangen,2,48,0.5,Lägenhet,1945,[Hägersten],1750000,50000,1800000,4381,SkandiaMäklarna,491.7011878441392,Hagerstensasen
+2014-09-18,Lotterivägen 12,Hagerstensasen,RodFruangen,3.5,68,2,Lägenhet,null,[Hägersten],2495000,305000,2800000,4307,Svensk Fastighetsförmedling,277.2033637767469,Hagerstensasen
+2014-09-16,Bokbindarvägen 78,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,1944,[Hägerstensåsen],1995000,325000,2320000,3980,Fastighetsbyrån,526.1640458162977,Axelsberg
+2014-09-13,Sparbanksvägen 68,Hagerstensasen,RodFruangen,2,42,2,Lägenhet,null,[Hägerstensåsen],1695000,405000,2100000,3027,Fastighetsbyrån,337.04065645237387,Hagerstensasen
+2014-09-11,Bokbindarvägen 30,Hagerstensasen,RodFruangen,8,210,null,Villa,1946,[Hägerstensåsen],8900000,750000,9650000,null,Svenska Mäklarhuset,374.72510136047396,Ornsberg
+2014-09-11,Piruettvägen 4,Hagerstensasen,RodFruangen,4,106,6,Lägenhet,2009,[Hägersten],4195000,605000,4800000,5403,SkandiaMäklarna,104.58794893721274,Hagerstensasen
+2014-09-10,Lotterivägen 9,Hagerstensasen,RodFruangen,2,49,3,Lägenhet,1946,[Hägerstensåsen],1950000,580000,2530000,2664,Länsförsäkringar Fastighetsförmedling,266.5488805075485,Hagerstensasen
+2014-09-05,Inteckningsvägen 17H,Hagerstensasen,RodFruangen,2,65,1,Lägenhet,1993,[Hägerstensåsen],1475000,300000,1775000,5121,Exbo,603.017917157457,Hagerstensasen
+2014-08-28,Bäckvägen 165,Hagerstensasen,RodFruangen,2,63.5,4,Lägenhet,1946,[Hägersten],2395000,355000,2750000,3305,Fastighetsmäklarna,564.9180295304337,Hagerstensasen
+2014-08-27,Sparbanksvägen 11,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1946,[Hägersten],2200000,250000,2450000,2678,Magnusson Mäkleri,440.88345969488375,Hagerstensasen
+2014-08-21,Bäckvägen 161,Hagerstensasen,RodFruangen,2,52,1,Lägenhet,1944,[Hägersten],2375000,125000,2500000,2000,Mäklarhuset,602.3725287222136,Hagerstensasen
+2014-08-21,Bäckvägen 169,Hagerstensasen,RodFruangen,3,75,2,Lägenhet,1946,[Hägersten],2995000,215000,3210000,3697,Erik Olsson Fastighetsförmedling,515.6830611239417,Hagerstensasen
+2014-08-21,Bokbindarvägen 62,Hagerstensasen,RodFruangen,7,247,null,Villa,1949,[Hägerstensåsen],11800000,-800000,11000000,null,Svenska Mäklarhuset,420.9194628949335,Ornsberg
+2014-08-20,Lotterivägen 12,Hagerstensasen,RodFruangen,2,56,null,Lägenhet,1948,[Hägerstensåsen],2250000,150000,2400000,3408,Erik Olsson Fastighetsförmedling,277.2033637767469,Hagerstensasen
+2014-08-19,Bäckvägen 167,Hagerstensasen,RodFruangen,1,36,2,Lägenhet,null,[Hägersten],1500000,430000,1930000,1874,Svensk Fastighetsförmedling,552.1770813791954,Hagerstensasen
+2014-08-15,Sparbanksvägen 82,Hagerstensasen,RodFruangen,3,84,null,Lägenhet,1945,[Hägersten],2995000,0,2995000,6295,Erik Olsson Fastighetsförmedling,415.1748549906332,Hagerstensasen
+2014-08-14,Lotterivägen 2,Hagerstensasen,RodFruangen,3,67.4,2,Lägenhet,null,[Hägersten],2445000,285000,2730000,4509,Svensk Fastighetsförmedling,338.4192006937104,Hagerstensasen
+2014-08-07,Bäckvägen 129,Hagerstensasen,RodFruangen,2,43,3,Lägenhet,1939,[Hägerstensåsen],1595000,375000,1970000,3548,Fastighetsbyrån,463.43952437961275,Ornsberg
+2014-07-31,Lotterivägen 3,Hagerstensasen,RodFruangen,2.5,55,3,Lägenhet,null,[Hägersten],2095000,490000,2585000,2953,Svensk Fastighetsförmedling,294.6151558683451,Hagerstensasen
+2014-07-19,Inteckningsvägen 83,Hagerstensasen,RodFruangen,2,46,1,Lägenhet,null,[Hägerstensåsen],1695000,525000,2220000,2223,Bjurfors,215.77310231283775,Hagerstensasen
+2014-07-10,Valutavägen 27,Hagerstensasen,RodFruangen,2,53,2,Lägenhet,1947,[Hägerstensåsen],2050000,300000,2350000,3529,Mäklarringen,140.39009449271956,Hagerstensasen
+2014-07-10,Riksdalervägen 18,Hagerstensasen,RodFruangen,2,51,3,Lägenhet,1947,[Hägerstensåsen],1995000,405000,2400000,3328,Svenska Mäklarhuset,420.57102117783677,Hagerstensasen
+2014-07-10,Lotterivägen 6,Hagerstensasen,RodFruangen,2,58,2,Lägenhet,1946,[Hägerstensåsen],1995000,445000,2440000,2849,Svenska Mäklarhuset,306.70586087509747,Hagerstensasen
+2014-06-27,Lotterivägen 47,Hagerstensasen,RodFruangen,1,41,2,Lägenhet,1947,[Hägersten],1395000,415000,1810000,2219,SkandiaMäklarna,238.11796614904046,Hagerstensasen
+2014-06-26,Bokbindarvägen 84,Hagerstensasen,RodFruangen,2,57,4,Lägenhet,1944,[Hägerstensåsen],2350000,475000,2825000,2220,Fastighetsbyrån,532.5286877427218,Axelsberg
+2014-06-20,Bäckvägen 167,Hagerstensasen,RodFruangen,3,74,3,Lägenhet,1946,[Hägerstensåsen],2695000,525000,3220000,3696,Fastighetsbyrån,552.1770813791954,Hagerstensasen
+2014-06-14,Lotterivägen 43,Hagerstensasen,RodFruangen,2,53,null,Lägenhet,1947,[Hägerstensåsen],1995000,405000,2400000,2868,Fastighetsbyrån,216.00550669428327,Hagerstensasen
+2014-06-12,Valutavägen 33,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1947,[Hägersten],2295000,80000,2375000,3528,SkandiaMäklarna,95.78928760148297,Hagerstensasen
+2014-06-12,Piruettvägen 5,Hagerstensasen,RodFruangen,4,106,3,Lägenhet,2009,[Hägerstensåsen],3795000,305000,4100000,5403,Fastighetsbyrån,144.3165794785158,Hagerstensasen
+2014-06-09,Bokbindarvägen 78,Hagerstensasen,RodFruangen,1,38,4,Lägenhet,1944,[Hägerstensåsen],1745000,155000,1900000,3245,Svenska Mäklarhuset,526.1640458162977,Axelsberg
+2014-06-07,Bäckvägen 120,Hagerstensasen,RodFruangen,3,57,1,Lägenhet,1939,[Hägerstensåsen],2195000,345000,2540000,3732,Södermäklarna,513.8914899856873,Ornsberg
+2014-06-06,Sparbanksvägen 76A,Hagerstensasen,RodFruangen,1,59,null,Lägenhet,1945,[Hägerstensåsen],1845000,-20000,1825000,4422,Bjurfors,389.8254920069529,Hagerstensasen
+2014-06-04,Arvodesvägen 18,Hagerstensasen,RodFruangen,2,53,null,Lägenhet,1947,[Hägerstensåsen],1995000,0,1995000,3044,Svenska Mäklarhuset,489.2520251861019,Hagerstensasen
+2014-06-04,Lotterivägen 49,Hagerstensasen,RodFruangen,2,56,3,Lägenhet,1947,[Hägerstensåsen],2050000,450000,2500000,3031,Länsförsäkringar Fastighetsförmedling,240.67798795682336,Hagerstensasen
+2014-05-30,Bäckvägen 116,Hagerstensasen,RodFruangen,2,53,2,Lägenhet,1940,[Hägerstensåsen],2095000,105000,2200000,3168,HusmanHagberg,488.55886298239835,Ornsberg
+2014-05-27,Valutavägen 66C,Hagerstensasen,RodFruangen,1,38,null,Lägenhet,2007,[Hägerstensåsen],1595000,25000,1620000,3252,Södermäklarna,290.8772936252322,Hagerstensasen
+2014-05-23,Arvodesvägen 21,Hagerstensasen,RodFruangen,2,52,1,Lägenhet,1946,[Hägersten],1795000,375000,2170000,3437,HusmanHagberg,517.8483684965922,Hagerstensasen
+2014-05-22,Bokbindarvägen 47,Hagerstensasen,RodFruangen,2.5,66,2,Lägenhet,1944,[Hägerstensåsen],2250000,375000,2625000,3094,Fastighetsbyrån,543.4632541163016,Ornsberg
+2014-05-22,Valutavägen 66D,Hagerstensasen,RodFruangen,3,78,4,Lägenhet,2007,[Hägerstensåsen],2995000,610000,3605000,5378,Länsförsäkringar Fastighetsförmedling,256.7050264568447,Hagerstensasen
+2014-05-21,Inteckningsvägen 17D,Hagerstensasen,RodFruangen,4,77,3,Lägenhet,1993,[Hägerstensåsen],2195000,0,2195000,6089,Notar,581.291775274017,Hagerstensasen
+2014-05-16,Inteckningsvägen 17A,Hagerstensasen,RodFruangen,4,93,4,Lägenhet,null,[Hägerstensåsen],2250000,0,2250000,7293,Fastighetsbyrån,577.4237443671201,Hagerstensasen
+2014-05-15,Valutavägen 35,Hagerstensasen,RodFruangen,3,67,1,Lägenhet,null,[Hägerstensåsen],2695000,135000,2830000,4188,Fastighetsbyrån,101.47859248491348,Hagerstensasen
+2014-05-08,Bäckvägen 159,Hagerstensasen,RodFruangen,2,52,3,Lägenhet,1944,[Hägerstensåsen],2095000,455000,2550000,2000,Mäklarringen,614.9932821003431,Axelsberg
+2014-05-08,Sparbanksvägen 76,Hagerstensasen,RodFruangen,2,45,1,Lägenhet,1945,[Hägerstensåsen],1595000,105000,1700000,3373,Länsförsäkringar Fastighetsförmedling,336.2638554558972,Hagerstensasen
+2014-05-08,Lotterivägen 14,Hagerstensasen,RodFruangen,2,56,1,Lägenhet,1948,[Hägerstensåsen],1795000,505000,2300000,3577,Fastighetsbyrån,272.1492102708468,Hagerstensasen
+2014-04-30,Boktryckarvägen 8,Hagerstensasen,RodFruangen,4,92.6,4,Lägenhet,null,[Hägerstensåsen],3595000,415000,4010000,5642,Svenska Mäklarhuset,495.88510393293893,Ornsberg
+2014-04-27,Lotterivägen 41,Hagerstensasen,RodFruangen,3,67,3,Lägenhet,1948,[Hägerstensåsen],2695000,505000,3200000,3626,Erik Olsson Fastighetsförmedling,197.1379616236932,Hagerstensasen
+2014-04-24,Valutavägen 66E,Hagerstensasen,RodFruangen,2,54,1,Lägenhet,2007,[Hägerstensåsen],2075000,150000,2225000,4169,Länsförsäkringar Fastighetsförmedling,247.58362615461584,Hagerstensasen
+2014-04-22,Inteckningsvägen 58,Hagerstensasen,RodFruangen,2,47,2,Lägenhet,1945,[Hägerstensåsen],1750000,250000,2000000,2948,Notar,366.7953635833371,Hagerstensasen
+2014-04-17,Bäckvägen 129,Hagerstensasen,RodFruangen,2,43,2,Lägenhet,1934,[Hägerstensåsen],1795000,0,1795000,3548,HusmanHagberg,463.43952437961275,Ornsberg
+2014-04-17,Inteckningsvägen 56,Hagerstensasen,RodFruangen,1,25,3,Lägenhet,1945,[Hägerstensåsen],1295000,220000,1515000,1714,Notar,381.2416200436332,Hagerstensasen
+2014-04-16,Boktryckarvägen 8,Hagerstensasen,RodFruangen,4,78.2,null,Lägenhet,2004,[Hägersten],3350000,350000,3700000,4802,Länsförsäkringar Fastighetsförmedling,495.88510393293893,Ornsberg
+2014-04-16,Lotterivägen 2,Hagerstensasen,RodFruangen,2,67,6,Lägenhet,2000,[Hägerstensåsen],2610000,0,2610000,4509,Södermäklarna,338.4192006937104,Hagerstensasen
+2014-04-13,Lotterivägen 31,Hagerstensasen,RodFruangen,2,43,3,Lägenhet,1947,[Hägerstensåsen],1850000,0,1850000,2668,HusmanHagberg,243.33421732486636,Hagerstensasen
+2014-04-13,Inteckningsvägen 99,Hagerstensasen,RodFruangen,2,52,3,Lägenhet,1946,[Hägerstensåsen],2000000,210000,2210000,3104,Fastighetsbyrån,119.83707961741396,Hagerstensasen
+2014-04-11,Inteckningsvägen 99,Hagerstensasen,RodFruangen,2,52,3,Lägenhet,1946,[Hägerstensåsen],1995000,175000,2170000,3104,Fastighetsbyrån,119.83707961741396,Hagerstensasen
+2014-04-11,Sparbanksvägen 77,Hagerstensasen,RodFruangen,2,51,3,Lägenhet,1946,[Hägerstensåsen],1995000,135000,2130000,3410,Fastighetsbyrån,382.83258500774826,Hagerstensasen
+2014-04-10,Arvodesvägen 15,Hagerstensasen,RodFruangen,2,56,3,Lägenhet,1948,[Hägerstensåsen],1925000,375000,2300000,1825,Mäklarringen,527.8394853944669,Hagerstensasen
+2014-04-10,Arvodesvägen 13,Hagerstensasen,RodFruangen,3,70,2,Lägenhet,1948,[Hägerstensåsen],2300000,925000,3225000,2231,Länsförsäkringar Fastighetsförmedling,538.6446023163325,Hagerstensasen
+2014-04-10,Inteckningsvägen 64,Hagerstensasen,RodFruangen,2,56,1,Lägenhet,1945,[Hägerstensåsen],1750000,400000,2150000,3688,Länsförsäkringar Fastighetsförmedling,327.83226794824145,Hagerstensasen
+2014-04-09,Lotterivägen 2,Hagerstensasen,RodFruangen,4,79.4,5,Lägenhet,2000,[Hägerstensåsen],3095000,155000,3250000,5104,Erik Olsson Fastighetsförmedling,338.4192006937104,Hagerstensasen
+2014-04-08,Bokbindarvägen 78,Hagerstensasen,RodFruangen,1,24,null,Lägenhet,1944,[Hägerstensåsen],1295000,280000,1575000,2388,Fastighetsbyrån,526.1640458162977,Axelsberg
+2014-04-04,Förskottsvägen 8,Hagerstensasen,RodFruangen,2,55,3,Lägenhet,1944,[Hägerstensåsen],2230000,0,2230000,3140,Södermäklarna,403.22556453429047,Hagerstensasen
+2014-03-31,Boktryckarvägen 6,Hagerstensasen,RodFruangen,2,58,3,Lägenhet,1943,[Hägerstensåsen],2250000,250000,2500000,3421,Mäklarringen,465.0496898828331,Ornsberg
+2014-03-28,Valutavägen 33,Hagerstensasen,RodFruangen,2,53,null,Lägenhet,1947,[Hägerstensåsen],1995000,135000,2130000,3528,Svenska Mäklarhuset,95.78928760148297,Hagerstensasen
+2014-03-26,Valutavägen 66E,Hagerstensasen,RodFruangen,2,54,2,Lägenhet,2007,[Hägerstensåsen],2075000,185000,2260000,4169,Länsförsäkringar Fastighetsförmedling,247.58362615461584,Hagerstensasen
+2014-03-26,Inteckningsvägen 23,Hagerstensasen,RodFruangen,2,44,9,Lägenhet,1946,[Hägerstensåsen],1850000,325000,2175000,2923,Notar,513.2104833708864,Hagerstensasen
+2014-03-26,Förskottsvägen 2,Hagerstensasen,RodFruangen,2,55,3,Lägenhet,1947,[Hägerstensåsen],2150000,175000,2325000,3140,HusmanHagberg,375.76552403764697,Hagerstensasen
+2014-03-20,Lotterivägen 49,Hagerstensasen,RodFruangen,2,56,0.5,Lägenhet,1947,[Hägersten],1995000,55000,2050000,3031,SkandiaMäklarna,240.67798795682336,Hagerstensasen
+2014-03-19,Bäckvägen 114,Hagerstensasen,RodFruangen,2,40,2,Lägenhet,1942,[Hägerstensåsen],1495000,430000,1925000,2658,Notar,466.81898766845256,Ornsberg
+2014-03-06,Sparbanksvägen 70,Hagerstensasen,RodFruangen,2,42,1,Lägenhet,1945,[Hägerstensåsen],1795000,25000,1820000,3027,Erik Olsson Fastighetsförmedling,359.1635331190774,Hagerstensasen
+2014-03-06,Bäckvägen 116,Hagerstensasen,RodFruangen,2,53,4,Lägenhet,1940,[Hägerstensåsen],1995000,155000,2150000,3168,HusmanHagberg,488.55886298239835,Ornsberg
+2014-03-05,Inteckningsvägen 17B,Hagerstensasen,RodFruangen,4,78,4,Lägenhet,1993,[Hägersten],2295000,0,2295000,6205,SkandiaMäklarna,585.2445721079694,Hagerstensasen
+2014-03-05,Lotterivägen 2,Hagerstensasen,RodFruangen,4,79.4,1,Lägenhet,2000,[Hägerstensåsen],3095000,410000,3505000,5104,Erik Olsson Fastighetsförmedling,338.4192006937104,Hagerstensasen
+2014-03-05,Riksdalervägen 14,Hagerstensasen,RodFruangen,1,31,null,Lägenhet,1947,[Hägerstensåsen],1400000,0,1400000,1983,Hans Göthe Fastighetsbyrå AB,407.8051494155812,Hagerstensasen
+2014-02-27,Lotterivägen 7,Hagerstensasen,RodFruangen,2,43,3,Lägenhet,null,[Hägerstensåsen],1745000,145000,1890000,2373,Svensk Fastighetsförmedling,276.1729184649733,Hagerstensasen
+2014-02-27,Dymlingsgränd 5,Hagerstensasen,RodFruangen,2,48.3,1,Lägenhet,1996,[Hägerstensåsen],1695000,365000,2060000,3075,Erik Olsson Fastighetsförmedling,714.6663056772776,Hagerstensasen
+2014-02-21,Lotterivägen 31,Hagerstensasen,RodFruangen,2,43,1,Lägenhet,1946,[Hägerstensåsen],1695000,385000,2080000,2668,Erik Olsson Fastighetsförmedling,243.33421732486636,Hagerstensasen
+2014-02-06,Bokbindarvägen 47,Hagerstensasen,RodFruangen,3,66,4,Lägenhet,1944,[Hägersten],2695000,565000,3260000,3094,Erik Olsson Fastighetsförmedling,543.4632541163016,Ornsberg
+2014-02-06,Inteckningsvägen 56,Hagerstensasen,RodFruangen,1,25,null,Lägenhet,1946,[Hägerstensåsen],1395000,40000,1435000,1714,Svensk Fastighetsförmedling,381.2416200436332,Hagerstensasen
+2014-02-06,Boktryckarvägen 14,Hagerstensasen,RodFruangen,3,81,0.5,Lägenhet,2006,[Hägerstensåsen],2850000,600000,3450000,5590,Länsförsäkringar Fastighetsförmedling,523.3035280881896,Ornsberg
+2014-01-21,Riksdalervägen 14,Hagerstensasen,RodFruangen,1,31,3,Lägenhet,1947,[Hägerstensåsen],1495000,215000,1710000,1983,Svensk Fastighetsförmedling,407.8051494155812,Hagerstensasen
+2014-01-18,Sparbanksvägen 70,Hagerstensasen,RodFruangen,2,42,3,Lägenhet,1945,[Hägerstensåsen],1595000,295000,1890000,3027,Länsförsäkringar Fastighetsförmedling,359.1635331190774,Hagerstensasen
+2014-01-17,Riksdalervägen 9,Hagerstensasen,RodFruangen,3,69,2,Lägenhet,1948,[Hägerstensåsen],2495000,255000,2750000,2588,HusmanHagberg,355.8229398615057,Hagerstensasen
+2014-01-16,Inteckningsvägen 58,Hagerstensasen,RodFruangen,2,43,3,Lägenhet,1945,[Hägerstensåsen],1695000,205000,1900000,2948,Erik Olsson Fastighetsförmedling,366.7953635833371,Hagerstensasen
+2014-01-15,Lotterivägen 35,Hagerstensasen,RodFruangen,2,49,2,Lägenhet,1947,[Hägerstensåsen],1795000,365000,2160000,2763,Länsförsäkringar Fastighetsförmedling,220.73748721501846,Hagerstensasen
+2014-01-15,Piruettvägen 5,Hagerstensasen,RodFruangen,2,63,null,Lägenhet,2009,[Hägersten],2150000,370000,2520000,3647,Fastighetsbyrån,144.3165794785158,Hagerstensasen
+2013-12-19,Förskottsvägen 3,Hagerstensasen,RodFruangen,3,56,3,Lägenhet,1946,[Hägerstensåsen],1995000,455000,2450000,2830,HusmanHagberg,415.7179090846947,Hagerstensasen
+2013-12-05,Valutavägen 33,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1947,[Hägersten],1995000,225000,2220000,3409,SkandiaMäklarna,95.78928760148297,Hagerstensasen
+2013-12-04,Bäckvägen 112,Hagerstensasen,RodFruangen,1,28,null,Lägenhet,1942,[Hägerstensåsen],1295000,405000,1700000,2010,Svensk Fastighetsförmedling,465.3356212572597,Ornsberg
+2013-12-04,Arvodesvägen 23,Hagerstensasen,RodFruangen,2,53,2,Lägenhet,1947,[Hägersten],1950000,400000,2350000,3569,Fastighetsbyrån,504.60763586011103,Hagerstensasen
+2013-11-29,Sparbanksvägen 80,Hagerstensasen,RodFruangen,2,45,null,Lägenhet,null,[Hägersten],1550000,70000,1620000,3373,Fastighetsbyrån,414.79622694392555,Hagerstensasen
+2013-11-27,Riksdalervägen 14,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,null,[Hägerstensåsen],1795000,85000,1880000,3262,Sight,407.8051494155812,Hagerstensasen
+2013-11-20,Bäckvägen 167,Hagerstensasen,RodFruangen,3,71,2,Lägenhet,1946,[Hägerstensåsen],2795000,385000,3180000,3520,Bjurfors,552.1770813791954,Hagerstensasen
+2013-11-20,Piruettvägen 9,Hagerstensasen,RodFruangen,4,106,10,Lägenhet,2009,[Hägersten],3890000,635000,4525000,5403,BOSTHLM,100.23249395722839,Hagerstensasen
+2013-11-15,Arvodesvägen 4,Hagerstensasen,RodFruangen,2,49,1,Lägenhet,1944,[Hägerstensåsen],1795000,0,1795000,3546,HusmanHagberg,505.6046436905521,Hagerstensasen
+2013-10-31,Riksdalervägen 9,Hagerstensasen,RodFruangen,2,63,4,Lägenhet,1948,[Hägerstensåsen],1995000,255000,2250000,2414,Svenska Mäklarhuset,355.8229398615057,Hagerstensasen
+2013-10-25,Bokbindarvägen 78,Hagerstensasen,RodFruangen,2,50,null,Lägenhet,1944,[Hägersten],2195000,-45000,2150000,3061,Fastighetsbyrån,526.1640458162977,Axelsberg
+2013-10-22,Sparbanksvägen 80,Hagerstensasen,RodFruangen,2,45,null,Lägenhet,1945,[Hägersten],1495000,305000,1800000,3373,Fastighetsbyrån,414.79622694392555,Hagerstensasen
+2013-10-19,Arvodesvägen 23,Hagerstensasen,RodFruangen,2,52,null,Lägenhet,1946,[Hägerstensåsen],1795000,0,1795000,3437,Notar,504.60763586011103,Hagerstensasen
+2013-10-17,Förskottsvägen 8,Hagerstensasen,RodFruangen,2,55,3,Lägenhet,null,[Hägerstensåsen],1995000,275000,2270000,3140,Södermäklarna,403.22556453429047,Hagerstensasen
+2013-10-16,Piruettvägen 5,Hagerstensasen,RodFruangen,3,86,6,Lägenhet,2009,[Hägersten],3395000,225000,3620000,4592,SkandiaMäklarna,144.3165794785158,Hagerstensasen
+2013-10-16,Inteckningsvägen 17G,Hagerstensasen,RodFruangen,4,93,null,Lägenhet,1993,[Hägerstensåsen],2175000,525000,2700000,7590,Mäklarringen,606.115542126488,Hagerstensasen
+2013-10-15,Bäckvägen 65,Hagerstensasen,RodFruangen,2,46,2,Lägenhet,1945,[Hägersten],1995000,305000,2300000,3328,SkandiaMäklarna,466.2205814084466,Telefonplan
+2013-10-10,Sparbanksvägen 13,Hagerstensasen,RodFruangen,3.5,76,null,Lägenhet,1946,[Hägerstensåsen],2575000,150000,2725000,3840,HusmanHagberg,396.7034131139353,Hagerstensasen
+2013-10-09,Arvodesvägen 6,Hagerstensasen,RodFruangen,1,25,null,Lägenhet,1944,[Hägerstensåsen],1195000,155000,1350000,2072,Svenska Mäklarhuset,491.7011878441392,Hagerstensasen
+2013-10-04,Bokbindarvägen 51,Hagerstensasen,RodFruangen,2,50,6,Lägenhet,1944,[Hägerstensåsen],1995000,20000,2015000,2456,Notar,574.1576279200127,Axelsberg
+2013-09-26,Inteckningsvägen 56,Hagerstensasen,RodFruangen,2.5,56,null,Lägenhet,1945,[Hägersten],1895000,175000,2070000,3688,Fastighetsbyrån,381.2416200436332,Hagerstensasen
+2013-09-25,Bäckvägen 129,Hagerstensasen,RodFruangen,2,43,null,Lägenhet,1934,[Hägersten],null,NaN,1700000,3548,BOSTHLM,463.43952437961275,Ornsberg
+2013-09-22,Inteckningsvägen 66,Hagerstensasen,RodFruangen,1,36,null,Lägenhet,1945,[Hägerstensåsen],1495000,155000,1650000,2374,Svenska Mäklarhuset,312.903115005106,Hagerstensasen
+2013-09-20,Arvodesvägen 6,Hagerstensasen,RodFruangen,2,48,null,Lägenhet,1945,[Hägerstensåsen],1595000,65000,1660000,3505,Carl Martin Fastighetsmäkleri,491.7011878441392,Hagerstensasen
+2013-09-10,Riksdalervägen 9,Hagerstensasen,RodFruangen,3,69,5,Lägenhet,1948,[Hägerstensåsen],2495000,185000,2680000,2626,HusmanHagberg,355.8229398615057,Hagerstensasen
+2013-09-06,Inteckningsvägen 17H,Hagerstensasen,RodFruangen,2,68,null,Lägenhet,1993,[Hägerstensåsen],1475000,0,1475000,5458,HusmanHagberg,603.017917157457,Hagerstensasen
+2013-09-04,Inteckningsvägen 79,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1945,[Hägerstensåsen],1675000,375000,2050000,2575,Länsförsäkringar Fastighetsförmedling,240.01718580676814,Hagerstensasen
+2013-08-29,Lotterivägen 5,Hagerstensasen,RodFruangen,2.5,55,null,Lägenhet,1946,[Hägerstensåsen],1895000,425000,2320000,2953,Svensk Fastighetsförmedling,285.4990175881862,Hagerstensasen
+2013-08-28,Bäckvägen 110,Hagerstensasen,RodFruangen,3,54,null,Lägenhet,null,[Hägersten],1895000,340000,2235000,3218,Fastighetsbyrån,445.01873730139124,Ornsberg
+2013-08-28,Bokbindarvägen 78,Hagerstensasen,RodFruangen,4.5,103,null,Lägenhet,1944,[Hägerstensåsen],3495000,605000,4100000,5293,Svensk Fastighetsförmedling,526.1640458162977,Axelsberg
+2013-08-22,Boktryckarvägen 4,Hagerstensasen,RodFruangen,3,58,null,Lägenhet,1943,[Hägersten],1995000,205000,2200000,3421,Fastighetsbyrån,480.03382075763597,Ornsberg
+2013-08-21,Riksdalervägen 7,Hagerstensasen,RodFruangen,2,56,null,Lägenhet,1948,[Hägerstensåsen],1875000,475000,2350000,2192,Svensk Fastighetsförmedling,368.02355320317474,Hagerstensasen
+2013-08-20,Bokbindarvägen 53,Hagerstensasen,RodFruangen,3,65,null,Lägenhet,1944,[Hägersten],2895000,-95000,2800000,3764,Fastighetsbyrån,554.9760362388273,Axelsberg
+2013-08-14,Bäckvägen 169,Hagerstensasen,RodFruangen,1,36,3,Lägenhet,1946,[Hägerstensåsen],1495000,105000,1600000,1788,Svenska Mäklarhuset,515.6830611239417,Hagerstensasen
+2013-08-09,Arvodesvägen 21,Hagerstensasen,RodFruangen,2,52,null,Lägenhet,1946,[Hägerstensåsen],1850000,0,1850000,3437,Länsförsäkringar Fastighetsförmedling,517.8483684965922,Hagerstensasen
+2013-08-09,Inteckningsvägen 79,Hagerstensasen,RodFruangen,2,46,3,Lägenhet,1945,[Hägerstensåsen],1450000,295000,1745000,2193,Länsförsäkringar Fastighetsförmedling,240.01718580676814,Hagerstensasen
+2013-08-07,Dymlingsgränd 13,Hagerstensasen,RodFruangen,3,75.5,null,Lägenhet,1952,[Hägersten],2495000,225000,2720000,3899,Fastighetsbyrån,721.1138212696472,Hagerstensasen
+2013-07-19,Inteckningsvägen 17B,Hagerstensasen,RodFruangen,3,78,2,Lägenhet,1993,[Hägersten],1925000,0,1925000,6279,Mäklarhuset,585.2445721079694,Hagerstensasen
+2013-07-12,Dymlingsgränd 6,Hagerstensasen,RodFruangen,4,83.5,null,Lägenhet,1997,[Hägerstensåsen],3100000,300000,3400000,4338,Svensk Fastighetsförmedling,646.962350703205,Hagerstensasen
+2013-07-05,Sparbanksvägen 9,Hagerstensasen,RodFruangen,3,76,null,Lägenhet,1946,[Hägerstensåsen],2495000,130000,2625000,3840,HusmanHagberg,422.48734659759305,Hagerstensasen
+2013-06-20,Arvodesvägen 19,Hagerstensasen,RodFruangen,2,53,1,Lägenhet,null,[Hägerstensåsen],1895000,105000,2000000,3569,Södermäklarna,532.6842533340202,Hagerstensasen
+2013-06-12,Arvodesvägen 18,Hagerstensasen,RodFruangen,2,53,null,Lägenhet,1947,[Hägerstensåsen],1950000,175000,2125000,3044,Svenska Mäklarhuset,489.2520251861019,Hagerstensasen
+2013-06-11,Riksdalervägen 9,Hagerstensasen,RodFruangen,2,63,6,Lägenhet,null,[Hägerstensåsen],1995000,220000,2215000,2438,Svenska Mäklarhuset,355.8229398615057,Hagerstensasen
+2013-06-07,Bäckvägen 171,Hagerstensasen,RodFruangen,3,66,4,Lägenhet,null,[Hägerstensåsen],1995000,305000,2300000,3272,Svenska Mäklarhuset,502.54818621590425,Hagerstensasen
+2013-06-05,Sparbanksvägen 82,Hagerstensasen,RodFruangen,3,60,1,Lägenhet,null,[Hägersten],1795000,-195000,1600000,4497,Erik Olsson Fastighetsförmedling,415.1748549906332,Hagerstensasen
+2013-06-01,Bokbindarvägen 80,Hagerstensasen,RodFruangen,2,56.4,null,Lägenhet,1944,[Hägersten],1975000,50000,2025000,2877,Länsförsäkringar Fastighetsförmedling,508.0178599373535,Axelsberg
+2013-05-30,Bokbindarvägen 78,Hagerstensasen,RodFruangen,2,50,null,Lägenhet,1944,[Hägerstensåsen],1995000,345000,2340000,2915,Svensk Fastighetsförmedling,526.1640458162977,Axelsberg
+2013-05-22,Inteckningsvägen 17G,Hagerstensasen,RodFruangen,2.5,68,null,Lägenhet,1993,[Hägerstensåsen],1695000,55000,1750000,5415,Mäklarringen,606.115542126488,Hagerstensasen
+2013-05-16,Dymlingsgränd 13,Hagerstensasen,RodFruangen,2,74.5,null,Lägenhet,1952,[Hägerstensåsen],2295000,0,2295000,3881,HusmanHagberg,721.1138212696472,Hagerstensasen
+2013-05-15,Bäckvägen 165,Hagerstensasen,RodFruangen,3,71,null,Lägenhet,1946,[Hägersten],2500000,10000,2510000,3520,Fastighetsbyrån,564.9180295304337,Hagerstensasen
+2013-05-14,Bokbindarvägen 78,Hagerstensasen,RodFruangen,2,50,null,Lägenhet,1944,[Hägerstensåsen],1750000,180000,1930000,3060,Svensk Fastighetsförmedling,526.1640458162977,Axelsberg
+2013-05-09,Bokbindarvägen 80,Hagerstensasen,RodFruangen,2,56.4,2,Lägenhet,1944,[Hägersten],1975000,-75000,1900000,2877,Länsförsäkringar Fastighetsförmedling,508.0178599373535,Axelsberg
+2013-05-05,Bokbindarvägen 51,Hagerstensasen,RodFruangen,2,50,null,Lägenhet,1945,[Hägerstensåsen],1795000,105000,1900000,2339,Svensk Fastighetsförmedling,574.1576279200127,Axelsberg
+2013-05-04,Bäckvägen 114,Hagerstensasen,RodFruangen,1,28,null,Lägenhet,1942,[Hägersten],1375000,80000,1455000,2010,Fastighetsbyrån,466.81898766845256,Ornsberg
+2013-05-04,Inteckningsvägen 37,Hagerstensasen,RodFruangen,3,55,2,Lägenhet,1945,[Hägerstensåsen],1895000,-20000,1875000,3446,Notar,468.5608063540985,Hagerstensasen
+2013-05-04,Sparbanksvägen 82,Hagerstensasen,RodFruangen,3,60,2,Lägenhet,1945,[Hägerstensåsen],1875000,0,1875000,4497,Notar,415.1748549906332,Hagerstensasen
+2013-04-30,Inteckningsvägen 17B,Hagerstensasen,RodFruangen,3,78,null,Lägenhet,1993,[Hägerstensåsen],1775000,0,1775000,6397,Notar,585.2445721079694,Hagerstensasen
+2013-04-25,Arvodesvägen 6,Hagerstensasen,RodFruangen,2,48,null,Lägenhet,1945,[Hägerstensåsen],1750000,40000,1790000,3505,Carl Martin Fastighetsmäkleri,491.7011878441392,Hagerstensasen
+2013-04-25,Riksdalervägen 14,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,1947,[Hägersten],1750000,135000,1885000,3263,Fastighetsbyrån,407.8051494155812,Hagerstensasen
+2013-04-19,Valutavägen 66E,Hagerstensasen,RodFruangen,3,86,null,Lägenhet,2007,[Hägersten],2995000,5000,3000000,5532,Länsförsäkringar Fastighetsförmedling,247.58362615461584,Hagerstensasen
+2013-04-19,Sparbanksvägen 77,Hagerstensasen,RodFruangen,2,51,3,Lägenhet,null,[Hägersten],1850000,0,1850000,3410,Erik Olsson Fastighetsförmedling,382.83258500774826,Hagerstensasen
+2013-04-18,Arvodesvägen 20,Hagerstensasen,RodFruangen,2,53,null,Lägenhet,1943,[Hägersten],1700000,180000,1880000,3044,Fastighetsbyrån,480.19989511109145,Hagerstensasen
+2013-04-13,Piruettvägen 9,Hagerstensasen,RodFruangen,4,106,1,Lägenhet,2009,[Hägersten],3100000,530000,3630000,5403,Mäklarhuset,100.23249395722839,Hagerstensasen
+2013-04-12,Inteckningsvägen 33,Hagerstensasen,RodFruangen,2.5,55,null,Lägenhet,null,[Hägerstensåsen],1550000,-150000,1400000,3446,Erik Olsson Fastighetsförmedling,491.4332017523761,Hagerstensasen
+2013-04-06,Valutavägen 66C,Hagerstensasen,RodFruangen,2.5,67,null,Lägenhet,2007,[Hägerstensåsen],2195000,0,2195000,4596,HusmanHagberg,290.8772936252322,Hagerstensasen
+2013-03-29,Bokbindarvägen 47,Hagerstensasen,RodFruangen,1,39,null,Lägenhet,null,[Hägerstensåsen],1595000,55000,1650000,1916,Svensk Fastighetsförmedling,543.4632541163016,Ornsberg
+2013-03-28,Inteckningsvägen 37,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,null,[Hägersten],1795000,130000,1925000,3196,Fastighetsbyrån,468.5608063540985,Hagerstensasen
+2013-03-28,Bokbindarvägen 53,Hagerstensasen,RodFruangen,2.5,53,1,Lägenhet,1944,[Hägerstensåsen],1990000,110000,2100000,2692,Svenska Mäklarhuset,554.9760362388273,Axelsberg
+2013-03-27,Bäckvägen 127,Hagerstensasen,RodFruangen,2,43,1,Lägenhet,null,[Telefonplan],1595000,40000,1635000,3548,Erik Olsson Fastighetsförmedling,460.0096662016944,Ornsberg
+2013-03-22,Sparbanksvägen 81,Hagerstensasen,RodFruangen,2,51,3,Lägenhet,1946,[Hägersten],1695000,20000,1715000,3410,HusmanHagberg,417.5591197262882,Hagerstensasen
+2013-03-20,Sparbanksvägen 77,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,1946,[Hägersten],1795000,130000,1925000,3410,Fastighetsbyrån,382.83258500774826,Hagerstensasen
+2013-03-18,Piruettvägen 9,Hagerstensasen,RodFruangen,2,63,4,Lägenhet,2009,[Hägerstensåsen],2295000,70000,2365000,3647,SkandiaMäklarna,100.23249395722839,Hagerstensasen
+2013-03-16,Sparbanksvägen 78,Hagerstensasen,RodFruangen,2,45,1,Lägenhet,1945,[Hägerstensåsen],1495000,55000,1550000,3373,Notar,397.3755141102708,Hagerstensasen
+2013-03-16,Bokbindarvägen 53,Hagerstensasen,RodFruangen,3,65,null,Lägenhet,1944,[Hägersten],2495000,275000,2770000,3559,Fastighetsbyrån,554.9760362388273,Axelsberg
+2013-03-15,Inteckningsvägen 17A,Hagerstensasen,RodFruangen,4,77,2,Lägenhet,null,[Hägerstensåsen],1575000,675000,2250000,6218,BOSTHLM,577.4237443671201,Hagerstensasen
+2013-03-15,Riksdalervägen 7,Hagerstensasen,RodFruangen,2,63,5,Lägenhet,null,[Hägerstensåsen],1895000,465000,2360000,2426,Svenska Mäklarhuset,368.02355320317474,Hagerstensasen
+2013-03-13,Riksdalervägen 16,Hagerstensasen,RodFruangen,3,70,2,Lägenhet,1947,[Hägersten],2150000,270000,2420000,4477,Länsförsäkringar Fastighetsförmedling,414.6694352703291,Hagerstensasen
+2013-03-05,Riksdalervägen 13,Hagerstensasen,RodFruangen,3,76,null,Lägenhet,1986,[Hägersten],2395000,0,2395000,3612,Fastighetsbyrån,393.47760285773876,Hagerstensasen
+2013-03-04,Sparbanksvägen 74B,Hagerstensasen,RodFruangen,3,81,1,Lägenhet,1945,[Hägersten],2475000,-80000,2395000,6071,Mäklarhuset,378.4697030706426,Hagerstensasen
+2013-03-02,Boktryckarvägen 12,Hagerstensasen,RodFruangen,3,91,null,Radhus,2006,[Hägersten],2800000,0,2800000,6280,Länsförsäkringar Fastighetsförmedling,503.399327975395,Ornsberg
+2013-02-28,Boktryckarvägen 8,Hagerstensasen,RodFruangen,3,90.5,4,Lägenhet,null,[Hägersten],3250000,800000,4050000,5519,Erik Olsson Fastighetsförmedling,495.88510393293893,Ornsberg
+2013-02-28,Inteckningsvägen 23,Hagerstensasen,RodFruangen,2,44,null,Lägenhet,1946,[Hägersten],995000,415000,1410000,2923,Fastighetsbyrån,513.2104833708864,Hagerstensasen
+2013-02-28,Arvodesvägen 18,Hagerstensasen,RodFruangen,2,53,null,Lägenhet,1947,[Hägerstensåsen],1795000,185000,1980000,3044,Svenska Mäklarhuset,489.2520251861019,Hagerstensasen
+2013-02-16,Lotterivägen 21,Hagerstensasen,RodFruangen,2,50,null,Lägenhet,1946,[Hägerstensåsen],1795000,175000,1970000,2820,Svenska Mäklarhuset,242.24666889151302,Hagerstensasen
+2013-02-15,Arvodesvägen 8,Hagerstensasen,RodFruangen,2,50,2,Lägenhet,1944,[Hägerstensåsen],1695000,75000,1770000,3586,HusmanHagberg,476.4391951955402,Hagerstensasen
+2013-02-12,Sparbanksvägen 64,Hagerstensasen,RodFruangen,3,56,1,Lägenhet,null,[Hägersten],1675000,375000,2050000,3919,Mäklarhuset,330.6890118563677,Hagerstensasen
+2013-02-09,Lotterivägen 29,Hagerstensasen,RodFruangen,2,55,null,Lägenhet,1946,[Hägerstensåsen],1945000,0,1945000,3102,Svensk Fastighetsförmedling,250.69009723771867,Hagerstensasen
+2013-01-30,Riksdalervägen 22,Hagerstensasen,RodFruangen,3,70,2,Lägenhet,1947,[Hägersten],2300000,0,2300000,4478,Länsförsäkringar Fastighetsförmedling,428.47016558996387,Hagerstensasen
+2013-01-27,Lotterivägen 49,Hagerstensasen,RodFruangen,2,56,null,Lägenhet,1947,[Hägerstensåsen],1850000,70000,1920000,3031,Svensk Fastighetsförmedling,240.67798795682336,Hagerstensasen
+2013-01-19,Bäckvägen 171,Hagerstensasen,RodFruangen,null,36,null,Lägenhet,null,[Hägerstensåsen],1375000,25000,1400000,200,Mäklarringen,502.54818621590425,Hagerstensasen
+2013-01-18,Boktryckarvägen 8,Hagerstensasen,RodFruangen,3,78.2,null,Lägenhet,2004,[Hägerstensåsen],2895000,260000,3155000,4802,Svenska Mäklarhuset,495.88510393293893,Ornsberg
+2013-01-17,Sparbanksvägen 64,Hagerstensasen,RodFruangen,3,56,null,Lägenhet,null,[Hägersten],1650000,65000,1715000,3919,Fastighetsbyrån,330.6890118563677,Hagerstensasen
+2013-01-17,Inteckningsvägen 35,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,null,[Hägersten],1600000,80000,1680000,3196,Fastighetsbyrån,479.28712284238793,Hagerstensasen
+2013-01-16,Arvodesvägen 8,Hagerstensasen,RodFruangen,2,48,2,Lägenhet,1944,[Hägerstensåsen],1695000,0,1695000,3505,Svensk Fastighetsförmedling,476.4391951955402,Hagerstensasen
+2013-01-10,Arvodesvägen 20,Hagerstensasen,RodFruangen,2,53,3,Lägenhet,1947,[Hägerstensåsen],1850000,90000,1940000,3044,Svenska Mäklarhuset,480.19989511109145,Hagerstensasen
+2013-01-09,Valutavägen 66D,Hagerstensasen,RodFruangen,1,36,null,Lägenhet,2007,[Hägersten],1275000,175000,1450000,3091,Länsförsäkringar Fastighetsförmedling,256.7050264568447,Hagerstensasen
+2013-01-09,Bokbindarvägen 51,Hagerstensasen,RodFruangen,1,35,null,Lägenhet,null,[Hägerstensåsen],1195000,530000,1725000,1719,Svensk Fastighetsförmedling,574.1576279200127,Axelsberg
+2012-12-12,Lotterivägen 27,Hagerstensasen,RodFruangen,3,55,null,Lägenhet,1949,[Hägersten],2095000,0,2095000,3102,Fastighetsbyrån,258.7344678015089,Hagerstensasen
+2012-12-06,Bokbindarvägen 53,Hagerstensasen,RodFruangen,3,65,null,Lägenhet,1944,[Hägersten],2595000,305000,2900000,3627,Fastighetsbyrån,554.9760362388273,Axelsberg
+2012-12-01,Inteckningsvägen 58,Hagerstensasen,RodFruangen,2,43,null,Lägenhet,null,[Hägerstensåsen],1650000,-50000,1600000,2831,Peter Eliases Fastighetsförmedling AB,366.7953635833371,Hagerstensasen
+2012-11-26,Förskottsvägen 6,Hagerstensasen,RodFruangen,2,55,1,Lägenhet,null,[Hägerstensåsen],1795000,170000,1965000,3108,Erik Olsson Fastighetsförmedling,395.3093037928552,Hagerstensasen
+2012-11-24,Inteckningsvägen 17D,Hagerstensasen,RodFruangen,2,65,null,Lägenhet,1993,[Hägersten],1075000,110000,1185000,5279,Fastighetsbyrån,581.291775274017,Hagerstensasen
+2012-11-20,Sparbanksvägen 76,Hagerstensasen,RodFruangen,2,45,null,Lägenhet,1945,[Hägersten],1495000,35000,1530000,3373,Fastighetsbyrån,336.2638554558972,Hagerstensasen
+2012-11-15,Bokbindarvägen 51,Hagerstensasen,RodFruangen,2,50,null,Lägenhet,1945,[Hägerstensåsen],1850000,180000,2030000,2456,Svensk Fastighetsförmedling,574.1576279200127,Axelsberg
+2012-11-15,Bäckvägen 114,Hagerstensasen,RodFruangen,2,42,null,Lägenhet,1942,[Hägersten],1495000,60000,1555000,2765,Fastighetsbyrån,466.81898766845256,Ornsberg
+2012-10-31,Inteckningsvägen 19,Hagerstensasen,RodFruangen,2,58,null,Lägenhet,null,[Hägerstensåsen],1795000,80000,1875000,2900,Svensk Fastighetsförmedling,538.1549147052763,Hagerstensasen
+2012-10-24,Bäckvägen 120,Hagerstensasen,RodFruangen,1,25,1,Lägenhet,null,[Hägerstensåsen],1250000,-100000,1150000,2076,Erik Olsson Fastighetsförmedling,513.8914899856873,Ornsberg
+2012-10-20,Lotterivägen 47,Hagerstensasen,RodFruangen,2,41,null,Lägenhet,1947,[Hägerstensåsen],1375000,315000,1690000,2419,Mäklarringen,238.11796614904046,Hagerstensasen
+2012-10-20,Lotterivägen 2,Hagerstensasen,RodFruangen,4,79.4,1,Lägenhet,2000,[Hägersten],2550000,70000,2620000,5154,Länsförsäkringar Fastighetsförmedling,338.4192006937104,Hagerstensasen
+2012-10-20,Inteckningsvägen 35,Hagerstensasen,RodFruangen,2,51,3,Lägenhet,1945,[Hägerstensåsen],1595000,45000,1640000,3058,Notar,479.28712284238793,Hagerstensasen
+2012-10-14,Lotterivägen 45,Hagerstensasen,RodFruangen,2,53,2,Lägenhet,1947,[Hägerstensåsen],1895000,-45000,1850000,2933,SkandiaMäklarna,229.57385065834944,Hagerstensasen
+2012-10-12,Inteckningsvägen 37,Hagerstensasen,RodFruangen,2,51,null,Lägenhet,1945,[Hägerstensåsen],1595000,115000,1710000,3058,Svensk Fastighetsförmedling,468.5608063540985,Hagerstensasen
+2012-09-12,Bäckvägen 129,Hagerstensasen,RodFruangen,2,43,null,Lägenhet,1939,[Hägerstensåsen],1495000,75000,1570000,3225,Svensk Fastighetsförmedling,463.43952437961275,Ornsberg
+2012-08-27,Piruettvägen 4,Hagerstensasen,RodFruangen,2,63,null,Lägenhet,2009,[Hägersten],2150000,200000,2350000,3647,Fastighetsbyrån,104.58794893721274,Hagerstensasen

@@ -1,0 +1,511 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-17,Nybodagatan 6B,CentralaSolna,BlaSolna,3,73,6,Lägenhet,1962,[Skytteholm],2995000,295000,3290000,3406,Svensk Fastighetsförmedling,456.60055762468835,Solna centrum
+2016-06-17,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4,96,1,Lägenhet,1950,[Solna Centrum],3995000,205000,4200000,5430,Fastighetsbyrån,169.73472419494146,Solna centrum
+2016-06-16,Klippgatan 16A,CentralaSolna,BlaSolna,2,60,5,Lägenhet,null,[Solna Centrum],2795000,230000,3025000,2958,Svenska Mäklarhuset,401.8846179175441,Solna centrum
+2016-06-04,Centralvägen 15,CentralaSolna,BlaSolna,1,19,4,Lägenhet,1954,[Solna Centrum],2000000,50000,2050000,827,Fastighetsbyrån,193.0774139379797,Solna centrum
+2016-06-02,Klippgatan 12A,CentralaSolna,BlaSolna,1,46,7,Lägenhet,1965,[Centrum Solna],2095000,255000,2350000,1755,Länsförsäkringar Fastighetsförmedling,439.4092530058252,Solna centrum
+2016-05-31,Skytteholmsvägen 20,CentralaSolna,BlaSolna,3,70,1,Lägenhet,1950,[Solna Centrum],3295000,385000,3680000,3959,Bostadsrättsspecialisten,169.73472419494146,Solna centrum
+2016-05-28,Nybodagatan 14,CentralaSolna,BlaSolna,3,87,1,Lägenhet,1957,[Skytteholm],3495000,300000,3795000,3345,HusmanHagberg,395.73355917487095,Solna centrum
+2016-05-28,Klippgatan 24C,CentralaSolna,BlaSolna,2,59.5,7,Lägenhet,1965,[Solna Centrum],2695000,205000,2900000,1828,SkandiaMäklarna,306.5425658358743,Solna centrum
+2016-05-26,Klippgatan 16C,CentralaSolna,BlaSolna,3,75,8,Lägenhet,1965,[Solna Centrum],3295000,535000,3830000,3668,MOHV,357.79523996148424,Solna centrum
+2016-05-25,Centralvägen 7,CentralaSolna,BlaSolna,2,65,4,Lägenhet,1954,[Solna Centrum],2295000,740000,3035000,2829,Fastighetsbyrån,249.41453327283594,Solna centrum
+2016-05-20,Centrumslingan 47,CentralaSolna,BlaSolna,3,78,7,Lägenhet,null,[Solna Centrum],3995000,205000,4200000,3988,Svenska Mäklarhuset,179.89111561032223,Solna centrum
+2016-05-19,Klippgatan 20C,CentralaSolna,BlaSolna,2,57,1.5,Lägenhet,1965,[Solna Centrum],2495000,555000,3050000,2660,Mäklarhuset,330.0134954118392,Solna centrum
+2016-05-18,Nybodagatan 2,CentralaSolna,BlaSolna,2,62.5,2,Lägenhet,null,[Skytteholm],2895000,0,2895000,3110,Svenska Mäklarhuset,511.3203756648936,Solna centrum
+2016-05-14,Nybodagatan 3,CentralaSolna,BlaSolna,2,53.5,4,Lägenhet,1957,[Skytteholm],2495000,305000,2800000,2563,SkandiaMäklarna,510.88651639143876,Solna centrum
+2016-05-12,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,2,60,5,Lägenhet,1965,[Solna Centrum],2595000,405000,3000000,2981,Notar,343.8686027001269,Solna centrum
+2016-05-12,Centrumslingan 51,CentralaSolna,BlaSolna,3,78,5,Lägenhet,null,[Solna Centrum],3995000,455000,4450000,3988,Svenska Mäklarhuset,135.06351956964346,Solna centrum
+2016-05-12,Klippgatan 16B,CentralaSolna,BlaSolna,3,75.5,1,Lägenhet,1965,[Solna Centrum],2995000,675000,3670000,3697,MOHV,380.9756512358881,Solna centrum
+2016-05-11,Nybodagatan 3,CentralaSolna,BlaSolna,2,53.5,3,Lägenhet,1957,[Skytteholm],2295000,380000,2675000,2527,Fastighetsbyrån,510.88651639143876,Solna centrum
+2016-05-11,Klippgatan 24A,CentralaSolna,BlaSolna,1,46,1,Lägenhet,null,[Solna Centrum],2295000,0,2295000,1413,Svenska Mäklarhuset,346.09253661961145,Solna centrum
+2016-05-11,Nybodagatan 6B,CentralaSolna,BlaSolna,3,73,3,Lägenhet,1962,[Skytteholm],2995000,505000,3500000,3406,Fastighetsbyrån,456.60055762468835,Solna centrum
+2016-05-11,Klippgatan 24C,CentralaSolna,BlaSolna,2,57.5,6,Lägenhet,1964,[Solna Centrum],2495000,855000,3350000,1766,MOHV,306.5425658358743,Solna centrum
+2016-05-05,Hannebergsgatan 13,CentralaSolna,BlaSolna,1.5,37,0,Lägenhet,1951,[Solna Centrum],2295000,0,2295000,1859,Fastighetsbyrån,370.4994048090309,Solna centrum
+2016-05-05,Nybodagatan 4,CentralaSolna,BlaSolna,6,171.8,7,Lägenhet,1956,[Skytteholm],6495000,470000,6965000,8548,Fastighetsbyrån,488.20547382092997,Solna centrum
+2016-04-28,Ankdammsgatan 28,CentralaSolna,BlaSolna,3,76,5,Lägenhet,1959,[Skytteholm],3195000,105000,3300000,3781,Länsförsäkringar Fastighetsförmedling,488.8509149148139,Solna centrum
+2016-04-27,Sagagatan 12,CentralaSolna,BlaSolna,4,96,2,Lägenhet,1951,[Solna Centrum],4495000,705000,5200000,4776,One Fastighetsmäkleri,270.05740901250607,Solna centrum
+2016-04-22,Ankdammsgatan 30,CentralaSolna,BlaSolna,1,49,null,Lägenhet,1960,[Skytteholm],2500000,-70000,2430000,2438,Fastighetsbyrån,500.54282520061486,Solna centrum
+2016-04-22,Klippgatan 12C,CentralaSolna,BlaSolna,1,46,1,Lägenhet,1965,[Centrum Solna],2295000,270000,2565000,1755,Länsförsäkringar Fastighetsförmedling,396.5779902884771,Solna centrum
+2016-04-21,Nybodagatan 6B,CentralaSolna,BlaSolna,3,76,1,Lägenhet,1962,[Skytteholm],3230000,20000,3250000,3533,SkandiaMäklarna,456.60055762468835,Solna centrum
+2016-04-21,Nybodagatan 2,CentralaSolna,BlaSolna,1.5,52,1,Lägenhet,1960,[Skytteholm],2495000,5000,2500000,2587,Fastighetsbyrån,511.3203756648936,Solna centrum
+2016-04-19,Skytteholmsvägen 41,CentralaSolna,BlaSolna,2,45,null,Lägenhet,2003,[Fristaden],2725000,225000,2950000,2841,Notar,114.75204028781198,Solna centrum
+2016-04-15,Klippgatan 16A,CentralaSolna,BlaSolna,2,60,7,Lägenhet,1964,[Solna Centrum],2895000,415000,3310000,2956,Erik Olsson Fastighetsförmedling,401.8846179175441,Solna centrum
+2016-04-12,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,11,Lägenhet,1959,[Skytteholm],3595000,505000,4100000,3358,HusmanHagberg,622.11108686786,Solna centrum
+2016-04-12,Nybodagatan 6C,CentralaSolna,BlaSolna,3,83,6,Lägenhet,1961,[Skytteholm],3295000,215000,3510000,3828,Notar,467.76108296154706,Solna centrum
+2016-04-11,Huvudstagatan 1D,CentralaSolna,BlaSolna,2,50,4,Lägenhet,2002,[Fristaden],2595000,105000,2700000,2836,Fastighetsbyrån,63.06442050882015,Solna centrum
+2016-04-11,Ankdammsgatan 26,CentralaSolna,BlaSolna,2,57.5,3,Lägenhet,1959,[Skytteholm],2850000,250000,3100000,2861,Länsförsäkringar Fastighetsförmedling,478.4747746195364,Solna centrum
+2016-04-11,Klippgatan 8A,CentralaSolna,BlaSolna,1,46,3,Lägenhet,1965,[Centrum Solna],2295000,315000,2610000,1747,Länsförsäkringar Fastighetsförmedling,455.5605428010253,Solna centrum
+2016-04-09,Sagagatan 13,CentralaSolna,BlaSolna,2,55,3,Lägenhet,null,[Solna Centrum],2495000,345000,2840000,2641,Svenska Mäklarhuset,220.781020123381,Solna centrum
+2016-04-08,Skytteholmsvägen 22,CentralaSolna,BlaSolna,2,58,3,Lägenhet,1952,[Solna Centrum],2695000,555000,3250000,2187,Notar,112.2466231972227,Solna centrum
+2016-04-08,Ankdammsgatan 36,CentralaSolna,BlaSolna,2,57.2,2,Lägenhet,1959,[Skytteholm],2495000,505000,3000000,2572,MOHV,622.11108686786,Solna centrum
+2016-04-01,Centrumslingan 51,CentralaSolna,BlaSolna,3,78,7,Lägenhet,1991,[Solna Centrum],3995000,410000,4405000,3988,SkandiaMäklarna,135.06351956964346,Solna centrum
+2016-03-29,Huvudstagatan 1B,CentralaSolna,BlaSolna,1,41,null,Lägenhet,2002,[Fristaden],2250000,475000,2725000,2470,Notar,87.07919113786492,Solna centrum
+2016-03-29,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,3,86,1,Lägenhet,null,[Solna Centrum],3295000,215000,3510000,4573,Svenska Mäklarhuset,343.8686027001269,Solna centrum
+2016-03-24,Sagagatan 13,CentralaSolna,BlaSolna,3,69,2,Lägenhet,1952,[Solna Centrum],2995000,605000,3600000,3245,Fastighetsbyrån,220.781020123381,Solna centrum
+2016-03-23,Skytteholmsvägen 41,CentralaSolna,BlaSolna,2,60,null,Lägenhet,2003,[Fristaden],2895000,305000,3200000,3516,Notar,114.75204028781198,Solna centrum
+2016-03-22,Ankdammsgatan 40,CentralaSolna,BlaSolna,5,119,11,Lägenhet,1958,[Skytteholm],5450000,440000,5890000,4364,SkandiaMäklarna,570.1324976749531,Solna centrum
+2016-03-21,Ankdammsgatan 30,CentralaSolna,BlaSolna,2,53,1,Lägenhet,1959,[Skytteholm],2450000,250000,2700000,2637,Notar,500.54282520061486,Solna centrum
+2016-03-17,Nybodagatan 6A,CentralaSolna,BlaSolna,3,73,3,Lägenhet,1958,[Skytteholm],2995000,545000,3540000,3310,Fastighetsbyrån,444.4837098649487,Solna centrum
+2016-03-17,Nybodagatan 16,CentralaSolna,BlaSolna,2,54,1,Lägenhet,1957,[Skytteholm],2495000,385000,2880000,2154,Mäklarhuset,378.6859157520134,Solna centrum
+2016-03-16,Nybodagatan 4,CentralaSolna,BlaSolna,3,100.2,4,Lägenhet,1959,[Skytteholm],3495000,680000,4175000,4985,Länsförsäkringar Fastighetsförmedling,488.20547382092997,Solna centrum
+2016-03-07,Nybodagatan 12,CentralaSolna,BlaSolna,3,91,3,Lägenhet,1957,[Skytteholm],2995000,485000,3480000,4955,Notar,430.4424995153574,Solna centrum
+2016-03-05,Ankdammsgatan 36,CentralaSolna,BlaSolna,2,57.2,9,Lägenhet,1959,[Skytteholm],2595000,300000,2895000,2651,Fastighetsbyrån,622.11108686786,Solna centrum
+2016-02-26,Klippgatan 16A,CentralaSolna,BlaSolna,4,96.5,2,Lägenhet,null,[Solna Centrum],4295000,0,4295000,4699,Svenska Mäklarhuset,401.8846179175441,Solna centrum
+2016-02-25,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4.5,96,2,Lägenhet,1950,[Solna Centrum],3595000,965000,4560000,5429,Mäklarhuset,169.73472419494146,Solna centrum
+2016-02-24,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,5,Lägenhet,1959,[Skytteholm],3395000,335000,3730000,3378,Fastighetsbyrån,622.11108686786,Solna centrum
+2016-02-23,Klippgatan 8C,CentralaSolna,BlaSolna,1,46,1,Lägenhet,1965,[Solna Centrum],1895000,735000,2630000,1597,One Fastighetsmäkleri,412.4206406151149,Solna centrum
+2016-02-20,Centrumslingan 47,CentralaSolna,BlaSolna,3,78,3,Lägenhet,null,[Solna Centrum],3195000,405000,3600000,3988,Svenska Mäklarhuset,179.89111561032223,Solna centrum
+2016-02-18,Nybodagatan 6A,CentralaSolna,BlaSolna,2,56,2,Lägenhet,1962,[Skytteholm],2595000,282000,2877000,2605,Svensk Fastighetsförmedling,444.4837098649487,Solna centrum
+2016-02-18,Ankdammsgatan 40,CentralaSolna,BlaSolna,3,78,11,Lägenhet,1958,[Skytteholm],3195000,305000,3500000,3020,HusmanHagberg,570.1324976749531,Solna centrum
+2016-02-16,Klippgatan 16A,CentralaSolna,BlaSolna,1.5,46,1,Lägenhet,1964,[Solna Centrum],1995000,505000,2500000,2290,Bjurfors,401.8846179175441,Solna centrum
+2016-02-10,Klippgatan 8C,CentralaSolna,BlaSolna,2,57.5,7,Lägenhet,null,[Solna Centrum],2495000,915000,3410000,1996,Svenska Mäklarhuset,412.4206406151149,Solna centrum
+2016-02-08,Centrumslingan 51,CentralaSolna,BlaSolna,2,59,2,Lägenhet,null,[Solna Centrum],2895000,305000,3200000,2991,Svenska Mäklarhuset,135.06351956964346,Solna centrum
+2016-02-05,Centralvägen 15,CentralaSolna,BlaSolna,3,72,1,Lägenhet,1954,[Solna Centrum],2895000,695000,3590000,3134,Fastighetsbyrån,193.0774139379797,Solna centrum
+2016-02-01,Nybodagatan 12,CentralaSolna,BlaSolna,3,78,1,Lägenhet,1957,[Skytteholm],2750000,300000,3050000,4184,Notar,430.4424995153574,Solna centrum
+2016-01-28,Hannebergsgatan 30,CentralaSolna,BlaSolna,3,81,6,Lägenhet,2003,[Fristaden],3995000,655000,4650000,4392,SkandiaMäklarna,142.87174890363278,Solna centrum
+2016-01-28,Klippgatan 12A,CentralaSolna,BlaSolna,4.5,116,8,Lägenhet,1965,[Solna Centrum],4395000,1605000,6000000,4122,Länsförsäkringar Fastighetsförmedling,439.4092530058252,Solna centrum
+2016-01-27,Nybodagatan 14,CentralaSolna,BlaSolna,3,87,6,Lägenhet,1957,[Skytteholm],3395000,15000,3410000,3345,Fastighetsbyrån,395.73355917487095,Solna centrum
+2016-01-23,Klippgatan 20C,CentralaSolna,BlaSolna,3,75,3,Lägenhet,1965,[Solna Centrum],3395000,655000,4050000,3397,SkandiaMäklarna,330.0134954118392,Solna centrum
+2016-01-21,Klippgatan 24C,CentralaSolna,BlaSolna,1.5,46,3,Lägenhet,null,[Solna Centrum],1995000,680000,2675000,1413,Svenska Mäklarhuset,306.5425658358743,Solna centrum
+2016-01-21,Hannebergsgatan 32,CentralaSolna,BlaSolna,2,50,3,Lägenhet,2003,[Fristaden],2875000,425000,3300000,3135,Notar,142.89373018208408,Solna centrum
+2016-01-21,Centralvägen 9,CentralaSolna,BlaSolna,2,65,5,Lägenhet,1951,[Solna Centrum],3475000,0,3475000,3098,SkandiaMäklarna,196.05365714999084,Solna centrum
+2016-01-21,Nybodagatan 14,CentralaSolna,BlaSolna,6,151,4,Lägenhet,1957,[Skytteholm],5995000,1355000,7350000,5383,Mäklarhuset,395.73355917487095,Solna centrum
+2016-01-20,Klippgatan 8C,CentralaSolna,BlaSolna,3,75,7,Lägenhet,1965,[Solna Centrum],2995000,680000,3675000,2603,One Fastighetsmäkleri,412.4206406151149,Solna centrum
+2016-01-15,Centralvägen 15,CentralaSolna,BlaSolna,1,19,4,Lägenhet,1951,[Solna Centrum],1595000,405000,2000000,1046,SkandiaMäklarna,193.0774139379797,Solna centrum
+2016-01-14,Centrumslingan 45,CentralaSolna,BlaSolna,2,61.8,4,Lägenhet,1991,[Solna Centrum],2795000,415000,3210000,3144,Mäklarhuset,216.56175377225549,Solna centrum
+2015-12-11,Klippgatan 16B,CentralaSolna,BlaSolna,3,75.5,null,Lägenhet,1964,[Solna Centrum],3475000,175000,3650000,3697,Karlsson & Uddare,380.9756512358881,Solna centrum
+2015-12-11,Nybodagatan 2,CentralaSolna,BlaSolna,4,85.7,2,Lägenhet,1959,[Skytteholm],3490000,360000,3850000,4264,Notar,511.3203756648936,Solna centrum
+2015-12-09,Centralvägen 15,CentralaSolna,BlaSolna,1,17,null,Lägenhet,1954,[Solna Centrum],1395000,505000,1900000,739,Fastighetsbyrån,193.0774139379797,Solna centrum
+2015-12-09,Centralvägen 15,CentralaSolna,BlaSolna,3,71,0,Lägenhet,1954,[Solna Centrum],2995000,305000,3300000,3090,Fastighetsbyrån,193.0774139379797,Solna centrum
+2015-12-05,Nybodagatan 3,CentralaSolna,BlaSolna,4,97.5,5,Lägenhet,null,[Skytteholm],3895000,505000,4400000,4200,Svenska Mäklarhuset,510.88651639143876,Solna centrum
+2015-12-04,Centralvägen 21,CentralaSolna,BlaSolna,2,62,3,Lägenhet,1952,[Solna Centrum],2995000,155000,3150000,2338,Bjurfors,96.17733067112215,Solna centrum
+2015-12-03,Skytteholmsvägen 20,CentralaSolna,BlaSolna,2,70,1,Lägenhet,1950,[Solna Centrum],2595000,155000,2750000,3959,Fastighetsbyrån,169.73472419494146,Solna centrum
+2015-12-03,Hannebergsgatan 32,CentralaSolna,BlaSolna,2,50,3,Lägenhet,2003,[Fristaden],2775000,285000,3060000,3232,SthlmFast,142.89373018208408,Solna centrum
+2015-11-28,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4,90,3,Lägenhet,1950,[Solna Centrum],3495000,415000,3910000,5090,Länsförsäkringar Fastighetsförmedling,169.73472419494146,Solna centrum
+2015-11-19,Ankdammsgatan 8,CentralaSolna,BlaSolna,3,74.5,4,Lägenhet,1978,[Skytteholm],2995000,415000,3410000,3323,HusmanHagberg,272.74826244889334,Solna centrum
+2015-11-19,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,80,1,Lägenhet,null,[Solna Centrum],3395000,415000,3810000,3781,Svenska Mäklarhuset,363.88586029181164,Solna centrum
+2015-11-19,Nybodagatan 10,CentralaSolna,BlaSolna,2,61,1,Lägenhet,1957,[Skytteholm],2450000,270000,2720000,3272,Notar,450.7501270535338,Solna centrum
+2015-11-19,Ankdammsgatan 28,CentralaSolna,BlaSolna,3,76,2,Lägenhet,1959,[Skytteholm],2995000,540000,3535000,3781,Länsförsäkringar Fastighetsförmedling,488.8509149148139,Solna centrum
+2015-11-18,Huvudstagatan 3F,CentralaSolna,BlaSolna,1,38,1,Lägenhet,null,[Fristaden],1895000,755000,2650000,2522,Svenska Mäklarhuset,163.79981075161606,Solna centrum
+2015-11-16,Nybodagatan 6B,CentralaSolna,BlaSolna,3,76,3,Lägenhet,1962,[Skytteholm],3400000,-75000,3325000,3470,Länsförsäkringar Fastighetsförmedling,456.60055762468835,Solna centrum
+2015-11-11,Klippgatan 24A,CentralaSolna,BlaSolna,1,46,1,Lägenhet,1965,[Solna Centrum],1995000,630000,2625000,1413,One Fastighetsmäkleri,346.09253661961145,Solna centrum
+2015-11-07,Nybodagatan 10,CentralaSolna,BlaSolna,6,154,3,Lägenhet,null,[Skytteholm],5500000,1100000,6600000,8261,Svenska Mäklarhuset,450.7501270535338,Solna centrum
+2015-11-06,Skytteholmsvägen 20,CentralaSolna,BlaSolna,3,96,1,Lägenhet,1950,[Solna Centrum],2875000,455000,3330000,4688,Notar,169.73472419494146,Solna centrum
+2015-11-03,Nybodagatan 4,CentralaSolna,BlaSolna,4,100.2,6,Lägenhet,1959,[Skytteholm],3975000,325000,4300000,4985,Notar,488.20547382092997,Solna centrum
+2015-11-03,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,1,42,2,Lägenhet,1965,[Solna Centrum],2195000,385000,2580000,2189,Notar,343.8686027001269,Solna centrum
+2015-11-03,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,74,2,Lägenhet,1951,[Solna Centrum],2995000,555000,3550000,3686,Notar,363.88586029181164,Solna centrum
+2015-10-29,Centrumslingan 51,CentralaSolna,BlaSolna,2,59,4,Lägenhet,1991,[Solna Centrum],2595000,450000,3045000,2991,Mäklarhuset,135.06351956964346,Solna centrum
+2015-10-27,Centrumslingan 51,CentralaSolna,BlaSolna,3,78,null,Lägenhet,1991,[Solna Centrum],3695000,190000,3885000,3988,Länsförsäkringar Fastighetsförmedling,135.06351956964346,Solna centrum
+2015-10-27,Ankdammsgatan 28,CentralaSolna,BlaSolna,4,97,null,Lägenhet,1959,[Skytteholm],3495000,555000,4050000,4826,Länsförsäkringar Fastighetsförmedling,488.8509149148139,Solna centrum
+2015-10-23,Nybodagatan 5,CentralaSolna,BlaSolna,4,97,null,Lägenhet,1957,[Skytteholm],4295000,505000,4800000,4097,Fastighetsbyrån,473.0984834587351,Solna centrum
+2015-10-22,Klippgatan 12C,CentralaSolna,BlaSolna,4,97,1,Lägenhet,1965,[Solna Centrum],4295000,225000,4520000,3479,Fastighetsbyrån,396.5779902884771,Solna centrum
+2015-10-19,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,1,Lägenhet,1959,[Skytteholm],2995000,205000,3200000,3299,Notar,622.11108686786,Solna centrum
+2015-10-19,Nybodagatan 14,CentralaSolna,BlaSolna,2.5,65,4,Lägenhet,1957,[Skytteholm],2495000,805000,3300000,2543,Notar,395.73355917487095,Solna centrum
+2015-10-19,Nybodagatan 5,CentralaSolna,BlaSolna,5,111,9,Lägenhet,1957,[Skytteholm],3950000,950000,4900000,4865,Notar,473.0984834587351,Solna centrum
+2015-10-05,Skytteholmsvägen 41,CentralaSolna,BlaSolna,2,45,2,Lägenhet,2003,[Fristaden],2150000,400000,2550000,2841,Notar,114.75204028781198,Solna centrum
+2015-10-05,Klippgatan 20C,CentralaSolna,BlaSolna,2,60,7,Lägenhet,1965,[Solna Centrum],2595000,535000,3130000,2772,Notar,330.0134954118392,Solna centrum
+2015-09-21,Ankdammsgatan 28,CentralaSolna,BlaSolna,3,76,1,Lägenhet,1959,[Skytteholm],3295000,275000,3570000,3781,Svensk Fastighetsförmedling,488.8509149148139,Solna centrum
+2015-09-17,Hannebergsgatan 32,CentralaSolna,BlaSolna,2,55,1,Lägenhet,2003,[Fristaden],2575000,625000,3200000,3442,SthlmFast,142.89373018208408,Solna centrum
+2015-09-16,Centralvägen 15,CentralaSolna,BlaSolna,1,19,5,Lägenhet,1952,[Solna Centrum],1495000,390000,1885000,1096,HusmanHagberg,193.0774139379797,Solna centrum
+2015-09-15,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,74,2,Lägenhet,1951,[Solna Centrum],3650000,-240000,3410000,3686,Länsförsäkringar Fastighetsförmedling,363.88586029181164,Solna centrum
+2015-09-15,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4,90,7,Lägenhet,1950,[Solna Centrum],3895000,155000,4050000,5090,Fastighetsbyrån,169.73472419494146,Solna centrum
+2015-09-10,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,11,Lägenhet,1959,[Skytteholm],3495000,755000,4250000,3397,HusmanHagberg,622.11108686786,Solna centrum
+2015-09-07,Centralvägen 5,CentralaSolna,BlaSolna,2,60,3,Lägenhet,1951,[Solna Centrum],2950000,315000,3265000,2612,Länsförsäkringar Fastighetsförmedling,193.0774139379797,Solna centrum
+2015-09-07,Hannebergsgatan 28,CentralaSolna,BlaSolna,1,34,null,Lägenhet,2004,[Fristaden],1995000,355000,2350000,2444,Länsförsäkringar Fastighetsförmedling,162.30948320360977,Solna centrum
+2015-09-07,Sagagatan 13,CentralaSolna,BlaSolna,3,70,3,Lägenhet,1952,[Centrum Solna],3700000,0,3700000,3245,Länsförsäkringar Fastighetsförmedling,220.781020123381,Solna centrum
+2015-09-03,Ankdammsgatan 24,CentralaSolna,BlaSolna,3,74.5,2,Lägenhet,1962,[Skytteholm],3195000,555000,3750000,2451,Fastighetsbyrån,439.9803602352619,Solna centrum
+2015-09-02,Ankdammsgatan 8,CentralaSolna,BlaSolna,3,81,1,Lägenhet,1978,[Skytteholm],3295000,805000,4100000,null,One Fastighetsmäkleri,272.74826244889334,Solna centrum
+2015-09-01,Hannebergsgatan 13,CentralaSolna,BlaSolna,2,37,1,Lägenhet,null,[Solna Centrum],1895000,1105000,3000000,1859,Svenska Mäklarhuset,370.4994048090309,Solna centrum
+2015-08-31,Hannebergsgatan 28,CentralaSolna,BlaSolna,2,44,5,Lägenhet,2004,[Solna Centrum],2395000,680000,3075000,3117,SthlmFast,162.30948320360977,Solna centrum
+2015-08-28,Huvudstagatan 3E,CentralaSolna,BlaSolna,3,69,1,Lägenhet,2003,[Solna Centrum],3600000,-60000,3540000,3848,Innerstadsspecialisten AB,126.19771602009092,Solna centrum
+2015-08-28,Klippgatan 16C,CentralaSolna,BlaSolna,2,57.5,4,Lägenhet,null,[Solna Centrum],2595000,655000,3250000,2839,Svenska Mäklarhuset,357.79523996148424,Solna centrum
+2015-08-27,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,11,Lägenhet,1959,[Skytteholm],3150000,400000,3550000,3358,Hemmäklarna,622.11108686786,Solna centrum
+2015-08-26,Huvudstagatan 1,CentralaSolna,BlaSolna,3,67,null,Lägenhet,2002,[Fristaden],3250000,250000,3500000,3507,Fabergé Fastighetsmäkleri,73.55846590048706,Solna centrum
+2015-08-26,Klippgatan 24,CentralaSolna,BlaSolna,2,58,6,Lägenhet,1965,[Solna Centrum],2695000,435000,3130000,1766,Svensk Fastighetsförmedling,364.69135864054505,Solna centrum
+2015-08-23,Klippgatan 16B,CentralaSolna,BlaSolna,3,75.5,4,Lägenhet,null,[Solna Centrum],3495000,405000,3900000,3697,Svenska Mäklarhuset,380.9756512358881,Solna centrum
+2015-08-20,Nybodagatan 12,CentralaSolna,BlaSolna,2,61,7,Lägenhet,1957,[Skytteholm],2450000,450000,2900000,3272,Notar,430.4424995153574,Solna centrum
+2015-08-19,Klippgatan 16A,CentralaSolna,BlaSolna,2,60,8,Lägenhet,1964,[Solna Centrum],2895000,435000,3330000,2958,One Fastighetsmäkleri,401.8846179175441,Solna centrum
+2015-08-15,Nybodagatan 2,CentralaSolna,BlaSolna,3,85.7,6,Lägenhet,1959,[Skytteholm],2995000,430000,3425000,4264,Notar,511.3203756648936,Solna centrum
+2015-08-11,Ankdammsgatan 24A,CentralaSolna,BlaSolna,2,70,null,Lägenhet,1962,[Skytteholm],2695000,655000,3350000,null,One Fastighetsmäkleri,440.79756513784713,Solna centrum
+2015-08-11,Skytteholmsvägen 22,CentralaSolna,BlaSolna,2,58,3,Lägenhet,1952,[Solna Centrum],2495000,855000,3350000,2187,Notar,112.2466231972227,Solna centrum
+2015-08-07,Ankdammsgatan 40,CentralaSolna,BlaSolna,3,73.5,5,Lägenhet,1958,[Skytteholm],2995000,605000,3600000,2799,Fastighetsbyrån,570.1324976749531,Solna centrum
+2015-07-20,Nybodagatan 5,CentralaSolna,BlaSolna,2,55.4,6,Lägenhet,1957,[Skytteholm],2495000,515000,3010000,2781,Notar,473.0984834587351,Solna centrum
+2015-07-09,Centralvägen 21,CentralaSolna,BlaSolna,3,83,3,Lägenhet,1952,[Solna Centrum],3495000,425000,3920000,2895,Notar,96.17733067112215,Solna centrum
+2015-07-07,Hannebergsgatan 11,CentralaSolna,BlaSolna,3.5,79,2,Lägenhet,1951,[Solna Centrum],2750000,250000,3000000,4049,Notar,608.865769780049,Solna centrum
+2015-07-02,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,4,102,5,Lägenhet,1965,[Solna Centrum],3495000,280000,3775000,5068,Notar,343.8686027001269,Solna centrum
+2015-06-26,Hannebergsgatan 30,CentralaSolna,BlaSolna,3,81,2,Lägenhet,null,[Fristaden],3495000,0,3495000,4528,Notar,142.87174890363278,Solna centrum
+2015-06-26,Centralvägen 15,CentralaSolna,BlaSolna,3,72,4,Lägenhet,1952,[Solna Centrum],2895000,255000,3150000,2849,Notar,193.0774139379797,Solna centrum
+2015-06-26,Huvudstagatan 1,CentralaSolna,BlaSolna,2,78,2,Lägenhet,null,[Fristaden],3650000,50000,3700000,3934,Notar,73.55846590048706,Solna centrum
+2015-06-25,Skytteholmsvägen 24,CentralaSolna,BlaSolna,2,61,4,Lägenhet,1952,[Solna Centrum],2695000,200000,2895000,2356,Mäklarhuset,101.85175468830603,Solna centrum
+2015-06-22,Huvudstagatan 3D,CentralaSolna,BlaSolna,3,77,3,Lägenhet,2003,[Solna Centrum],3495000,305000,3800000,4212,Fantastic Frank Fastighetsmäkleri,146.16104634222606,Solna centrum
+2015-06-22,Klippgatan 8C,CentralaSolna,BlaSolna,4,97,3,Lägenhet,null,[Solna Centrum],3795000,55000,3850000,null,One Fastighetsmäkleri,412.4206406151149,Solna centrum
+2015-06-17,Klippgatan 24A,CentralaSolna,BlaSolna,1,46,4,Lägenhet,null,[Solna Centrum],1995000,565000,2560000,null,One Fastighetsmäkleri,346.09253661961145,Solna centrum
+2015-06-17,Nybodagatan 3,CentralaSolna,BlaSolna,3,77.3,9,Lägenhet,1957,[Skytteholm],3295000,55000,3350000,3516,HusmanHagberg,510.88651639143876,Solna centrum
+2015-06-16,Nybodagatan 2,CentralaSolna,BlaSolna,3.5,85.7,5,Lägenhet,1960,[Skytteholm],2895000,305000,3200000,4264,Fastighetsbyrån,511.3203756648936,Solna centrum
+2015-06-13,Hannebergsgatan 28,CentralaSolna,BlaSolna,2,53,5,Lägenhet,2004,[Fristaden],2395000,615000,3010000,null,Svensk Fastighetsförmedling,162.30948320360977,Solna centrum
+2015-06-12,Klippgatan 16C,CentralaSolna,BlaSolna,3,50,0,Lägenhet,1965,[Solna Centrum],2495000,45000,2540000,2628,Svensk Fastighetsförmedling,357.79523996148424,Solna centrum
+2015-06-11,Nybodagatan 16,CentralaSolna,BlaSolna,3,87,2,Lägenhet,1958,[Skytteholm],3495000,115000,3610000,3345,Fastighetsbyrån,378.6859157520134,Solna centrum
+2015-06-09,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,75,6,Lägenhet,1951,[Solna Centrum],3495000,185000,3680000,3734,Länsförsäkringar Fastighetsförmedling,363.88586029181164,Solna centrum
+2015-06-06,Klippgatan 24A,CentralaSolna,BlaSolna,3,77,8,Lägenhet,1965,[Solna Centrum],3495000,255000,3750000,2350,Svensk Fastighetsförmedling,346.09253661961145,Solna centrum
+2015-06-05,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4,90,6,Lägenhet,1950,[Solna Centrum],3495000,305000,3800000,5090,Länsförsäkringar Fastighetsförmedling,169.73472419494146,Solna centrum
+2015-06-04,Klippgatan 8C,CentralaSolna,BlaSolna,4,97,3,Lägenhet,1965,[Solna Centrum],3995000,0,3995000,3517,Fastighetsbyrån,412.4206406151149,Solna centrum
+2015-06-04,Ankdammsgatan 30,CentralaSolna,BlaSolna,1,25.3,4,Lägenhet,1960,[Skytteholm],1650000,135000,1785000,1259,SverigeMäklaren,500.54282520061486,Solna centrum
+2015-06-04,Huvudstagatan 3E,CentralaSolna,BlaSolna,3,82,1,Lägenhet,2002,[Fristaden],3895000,55000,3950000,4420,Erik Olsson Fastighetsförmedling,126.19771602009092,Solna centrum
+2015-05-29,Huvudstagatan 3E,CentralaSolna,BlaSolna,2,45,2,Lägenhet,2002,[Fristaden],2395000,355000,2750000,2841,Fastighetsbyrån,126.19771602009092,Solna centrum
+2015-05-28,Nybodagatan 10,CentralaSolna,BlaSolna,2,62,4,Lägenhet,1957,[Skytteholm],2395000,155000,2550000,3326,Fastighetsbyrån,450.7501270535338,Solna centrum
+2015-05-26,Ankdammsgatan 40,CentralaSolna,BlaSolna,3,94.3,5,Lägenhet,1958,[Skytteholm],3695000,455000,4150000,3385,HusmanHagberg,570.1324976749531,Solna centrum
+2015-05-21,Huvudstagatan 1,CentralaSolna,BlaSolna,2,51,4,Lägenhet,2002,[Fristaden],2595000,105000,2700000,2866,Fastighetsbyrån,73.55846590048706,Solna centrum
+2015-05-21,Huvudstagatan 3F,CentralaSolna,BlaSolna,2,72,7,Lägenhet,2002,[Fristaden],3775000,725000,4500000,3978,SthlmFast,163.79981075161606,Solna centrum
+2015-05-14,Klippgatan 16C,CentralaSolna,BlaSolna,1,46,6,Lägenhet,1965,[Solna Centrum],1995000,405000,2400000,2290,Notar,357.79523996148424,Solna centrum
+2015-05-14,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,7,Lägenhet,1959,[Skytteholm],2995000,605000,3600000,3358,Fastighetsbyrån,622.11108686786,Solna centrum
+2015-05-14,Klippgatan 4,CentralaSolna,BlaSolna,1.5,44,1,Lägenhet,null,[Solna Centrum],2195000,395000,2590000,2631,Svenska Mäklarhuset,482.7352839002131,Solna centrum
+2015-05-12,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,76,5,Lägenhet,null,[Solna Centrum],2995000,615000,3610000,null,One Fastighetsmäkleri,363.88586029181164,Solna centrum
+2015-05-12,Klippgatan 12B,CentralaSolna,BlaSolna,3,75.5,8,Lägenhet,1965,[Solna Centrum],3495000,205000,3700000,2752,SthlmFast,410.6615243865447,Solna centrum
+2015-05-08,Hannebergsgatan 28,CentralaSolna,BlaSolna,2,44,1,Lägenhet,2004,[Solna Centrum],2295000,105000,2400000,null,One Fastighetsmäkleri,162.30948320360977,Solna centrum
+2015-05-06,Huvudstagatan 1,CentralaSolna,BlaSolna,1,41,3,Lägenhet,2003,[Fristaden],1995000,345000,2340000,2470,HusmanHagberg,73.55846590048706,Solna centrum
+2015-05-06,Ankdammsgatan 30,CentralaSolna,BlaSolna,2,55.8,5,Lägenhet,1959,[Skytteholm],2495000,215000,2710000,2776,Notar,500.54282520061486,Solna centrum
+2015-05-06,Sagagatan 12,CentralaSolna,BlaSolna,2,53,1,Lägenhet,1951,[Solna Centrum],2495000,255000,2750000,2457,Notar,270.05740901250607,Solna centrum
+2015-05-06,Klippgatan 8A,CentralaSolna,BlaSolna,3,76.5,4,Lägenhet,1965,[Solna Centrum],2975000,415000,3390000,2655,Mäklarhuset,455.5605428010253,Solna centrum
+2015-05-06,Centrumslingan 47,CentralaSolna,BlaSolna,2,59,3,Lägenhet,1991,[Solna Centrum],2695000,40000,2735000,2991,Svenska Mäklarhuset,179.89111561032223,Solna centrum
+2015-04-29,Klippgatan 8B,CentralaSolna,BlaSolna,3,76,5,Lägenhet,1965,[Solna Centrum],3295000,530000,3825000,2771,Svensk Fastighetsförmedling,501.4092205524532,Solna centrum
+2015-04-29,Klippgatan 20C,CentralaSolna,BlaSolna,3,74,2,Lägenhet,1965,[Solna Centrum],3195000,80000,3275000,3335,Bjurfors,330.0134954118392,Solna centrum
+2015-04-28,Ankdammsgatan 30,CentralaSolna,BlaSolna,3,76,1,Lägenhet,1959,[Skytteholm],2895000,405000,3300000,3781,Fastighetsbyrån,500.54282520061486,Solna centrum
+2015-04-24,Hannebergsgatan 32,CentralaSolna,BlaSolna,2,55,-1,Lägenhet,2003,[Fristaden],2475000,25000,2500000,3442,Notar,142.89373018208408,Solna centrum
+2015-04-23,Ankdammsgatan 10,CentralaSolna,BlaSolna,5,119,2,Lägenhet,1978,[Skytteholm],3895000,825000,4720000,null,One Fastighetsmäkleri,283.95748828655456,Solna centrum
+2015-04-22,Huvudstagatan 3E,CentralaSolna,BlaSolna,3,82,2,Lägenhet,2002,[Fristaden],3975000,25000,4000000,4419,Notar,126.19771602009092,Solna centrum
+2015-04-16,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,76,0.5,Lägenhet,1951,[Solna Centrum],2995000,305000,3300000,3734,Fastighetsbyrån,363.88586029181164,Solna centrum
+2015-04-16,Centralvägen 9,CentralaSolna,BlaSolna,3,88,2,Lägenhet,1952,[Solna Centrum],3195000,285000,3480000,3478,Mäklarhuset,196.05365714999084,Solna centrum
+2015-04-15,Nybodagatan 16,CentralaSolna,BlaSolna,3,87,4,Lägenhet,1957,[Skytteholm],3195000,515000,3710000,3345,Fastighetsbyrån,378.6859157520134,Solna centrum
+2015-04-15,Huvudstagatan 3A,CentralaSolna,BlaSolna,2.5,68,3,Lägenhet,2002,[Fristaden],2995000,625000,3620000,3537,Notar,115.51232497625229,Solna centrum
+2015-04-07,Centralvägen 9,CentralaSolna,BlaSolna,2,65,2,Lägenhet,1951,[Solna Centrum],2595000,335000,2930000,2622,Notar,196.05365714999084,Solna centrum
+2015-04-07,Skytteholmsvägen 24,CentralaSolna,BlaSolna,2.5,63,2,Lägenhet,1952,[Solna Centrum],2895000,115000,3010000,2330,Bjurfors,101.85175468830603,Solna centrum
+2015-04-03,Klippgatan 16C,CentralaSolna,BlaSolna,3,77,8,Lägenhet,1964,[Solna Centrum],3395000,305000,3700000,3733,Svensk Fastighetsförmedling,357.79523996148424,Solna centrum
+2015-03-27,Nybodagatan 16,CentralaSolna,BlaSolna,5,151,3,Lägenhet,1957,[Skytteholm],5295000,1405000,6700000,5383,Svenska Mäklarhuset,378.6859157520134,Solna centrum
+2015-03-26,Nybodagatan 14,CentralaSolna,BlaSolna,3,87,4,Lägenhet,1957,[Skytteholm],3195000,865000,4060000,3345,Mäklarhuset,395.73355917487095,Solna centrum
+2015-03-26,Nybodagatan 12,CentralaSolna,BlaSolna,1.5,44,8,Lägenhet,1957,[Skytteholm],1995000,695000,2690000,2360,Fastighetsbyrån,430.4424995153574,Solna centrum
+2015-03-17,Klippgatan 16C,CentralaSolna,BlaSolna,2,57.5,1,Lägenhet,1965,[Solna Centrum],2495000,405000,2900000,2875,Notar,357.79523996148424,Solna centrum
+2015-03-12,Ankdammsgatan 24A,CentralaSolna,BlaSolna,3,75,6,Lägenhet,1962,[Skytteholm],3295000,-95000,3200000,2580,Mäklarringen,440.79756513784713,Solna centrum
+2015-03-11,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,11,Lägenhet,1959,[Skytteholm],2895000,305000,3200000,3397,Notar,622.11108686786,Solna centrum
+2015-03-10,Huvudstagatan 3E,CentralaSolna,BlaSolna,3,65,6,Lägenhet,2003,[Solna Centrum],3595000,1055000,4650000,3691,Fantastic Frank Fastighetsmäkleri,126.19771602009092,Solna centrum
+2015-03-06,Centrumslingan 47,CentralaSolna,BlaSolna,2,59,5,Lägenhet,1991,[Solna Centrum],2650000,315000,2965000,2991,Svenska Mäklarhuset,179.89111561032223,Solna centrum
+2015-03-04,Hannebergsgatan 32,CentralaSolna,BlaSolna,3,81,5,Lägenhet,2003,[Fristaden],3475000,665000,4140000,4528,Notar,142.89373018208408,Solna centrum
+2015-03-04,Huvudstagatan 1,CentralaSolna,BlaSolna,1,41,4,Lägenhet,2001,[Fristaden],2195000,70000,2265000,2470,Notar,73.55846590048706,Solna centrum
+2015-03-04,Klippgatan 12C,CentralaSolna,BlaSolna,1.5,46,6,Lägenhet,1965,[Solna Centrum],1995000,405000,2400000,1755,Länsförsäkringar Fastighetsförmedling,396.5779902884771,Solna centrum
+2015-02-16,Centralvägen 7,CentralaSolna,BlaSolna,2,65,5,Lägenhet,1952,[Solna Centrum],2750000,560000,3310000,2585,Notar,249.41453327283594,Solna centrum
+2015-02-12,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,3,93,8,Lägenhet,1965,[Skytteholm],3250000,0,3250000,4620,Erik Olsson Fastighetsförmedling,343.8686027001269,Solna centrum
+2015-02-12,Ankdammsgatan 40,CentralaSolna,BlaSolna,3,78.4,4,Lägenhet,1958,[Skytteholm],2795000,315000,3110000,2754,HusmanHagberg,570.1324976749531,Solna centrum
+2015-02-09,Sagagatan 14,CentralaSolna,BlaSolna,3,68,1,Lägenhet,1952,[Solna Centrum],2895000,55000,2950000,3256,Svensk Fastighetsförmedling,250.36825176510374,Solna centrum
+2015-02-04,Huvudstagatan 3C,CentralaSolna,BlaSolna,2,59,0.5,Lägenhet,2003,[Fristaden],2795000,0,2795000,3432,HusmanHagberg,127.86955527681273,Solna centrum
+2015-02-04,Ankdammsgatan 30,CentralaSolna,BlaSolna,4,76,1,Lägenhet,1959,[Skytteholm],2850000,370000,3220000,3781,SkandiaMäklarna,500.54282520061486,Solna centrum
+2015-02-03,Skytteholmsvägen 5B,CentralaSolna,BlaSolna,2,60,2,Lägenhet,1965,[Solna Centrum],2850000,-30000,2820000,2981,Svenska Mäklarhuset,306.9486565559879,Solna centrum
+2015-01-31,Centrumslingan 45,CentralaSolna,BlaSolna,2,62,5,Lägenhet,1991,[Solna Centrum],2495000,130000,2625000,3144,Notar,216.56175377225549,Solna centrum
+2015-01-31,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,4,102,4,Lägenhet,1965,[Solna Centrum],3395000,105000,3500000,5068,Notar,343.8686027001269,Solna centrum
+2015-01-31,Nybodagatan 10,CentralaSolna,BlaSolna,2,62,6,Lägenhet,1957,[Skytteholm],2195000,530000,2725000,3326,Notar,450.7501270535338,Solna centrum
+2015-01-31,Nybodagatan 7,CentralaSolna,BlaSolna,4,98.6,1,Lägenhet,1958,[Skytteholm],2995000,955000,3950000,4119,Notar,437.96111529353294,Solna centrum
+2015-01-31,Ankdammsgatan 28,CentralaSolna,BlaSolna,3,76,null,Lägenhet,1960,[Skytteholm],3195000,80000,3275000,3781,Fastighetsbyrån,488.8509149148139,Solna centrum
+2015-01-30,Ankdammsgatan 6,CentralaSolna,BlaSolna,3,85,4,Lägenhet,1978,[Skytteholm],2895000,270000,3165000,null,One Fastighetsmäkleri,332.6082278264132,Solna centrum
+2015-01-30,Centralvägen 3,CentralaSolna,BlaSolna,3,83,4,Lägenhet,1953,[Solna Centrum],2895000,555000,3450000,null,One Fastighetsmäkleri,271.16401059722114,Solna centrum
+2015-01-23,Centrumslingan 47,CentralaSolna,BlaSolna,2,59,6,Lägenhet,1991,[Solna Centrum],2695000,235000,2930000,2991,Mäklarringen,179.89111561032223,Solna centrum
+2015-01-23,Nybodagatan 6A,CentralaSolna,BlaSolna,1,50,7,Lägenhet,null,[Skytteholm],2195000,235000,2430000,2402,SkandiaMäklarna,444.4837098649487,Solna centrum
+2015-01-22,Ankdammsgatan 40,CentralaSolna,BlaSolna,5,119.3,9,Lägenhet,1958,[Skytteholm],4295000,580000,4875000,4097,HusmanHagberg,570.1324976749531,Solna centrum
+2015-01-21,Centralvägen 21,CentralaSolna,BlaSolna,2,62,3,Lägenhet,1952,[Solna Centrum],2595000,285000,2880000,2338,Bjurfors,96.17733067112215,Solna centrum
+2015-01-21,Klippgatan 8,CentralaSolna,BlaSolna,1.5,46,7,Lägenhet,1965,[Solna Centrum],1895000,405000,2300000,1597,Mäklarhuset,477.87369592947766,Solna centrum
+2015-01-15,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,75,2,Lägenhet,1951,[Solna Centrum],2995000,320000,3315000,3734,Svensk Fastighetsförmedling,363.88586029181164,Solna centrum
+2015-01-15,Ankdammsgatan 6,CentralaSolna,BlaSolna,2,67,null,Lägenhet,1978,[Skytteholm],2395000,285000,2680000,2995,Svensk Fastighetsförmedling,332.6082278264132,Solna centrum
+2015-01-14,Centralvägen 11,CentralaSolna,BlaSolna,3.5,92,1,Lägenhet,null,[Solna Centrum],3395000,15000,3410000,3309,HusmanHagberg,174.81324447843753,Solna centrum
+2014-12-12,Klippgatan 8A,CentralaSolna,BlaSolna,4,97,8,Lägenhet,1965,[Solna Centrum],3995000,225000,4220000,3500,Svensk Fastighetsförmedling,455.5605428010253,Solna centrum
+2014-12-09,Huvudstagatan 1,CentralaSolna,BlaSolna,2,51,2,Lägenhet,2001,[Fristaden],2350000,0,2350000,2866,Notar,73.55846590048706,Solna centrum
+2014-11-30,Huvudstagatan 1,CentralaSolna,BlaSolna,1,41,3,Lägenhet,2001,[Fristaden],1850000,340000,2190000,2470,Notar,73.55846590048706,Solna centrum
+2014-11-28,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,3,Lägenhet,1959,[Skytteholm],2795000,160000,2955000,3352,Bjurfors,622.11108686786,Solna centrum
+2014-11-27,Skytteholmsvägen 22,CentralaSolna,BlaSolna,3,71,null,Lägenhet,1952,[Solna Centrum],2995000,245000,3240000,2429,Classic Home Fastighetsmäkleri,112.2466231972227,Solna centrum
+2014-11-27,Klippgatan 24A,CentralaSolna,BlaSolna,3,76.5,4,Lägenhet,1965,[Solna Centrum],3095000,455000,3550000,2350,Svensk Fastighetsförmedling,346.09253661961145,Solna centrum
+2014-11-26,Hannebergsgatan 30,CentralaSolna,BlaSolna,3,88,3,Lägenhet,null,[Fristaden],3495000,205000,3700000,4821,Svensk Fastighetsförmedling,142.87174890363278,Solna centrum
+2014-11-25,Klippgatan 24,CentralaSolna,BlaSolna,3,75,null,Lägenhet,1965,[Solna Centrum],2695000,475000,3170000,2304,Fastighetsbyrån,364.69135864054505,Solna centrum
+2014-11-20,Hannebergsgatan 13,CentralaSolna,BlaSolna,2,57,2,Lägenhet,1951,[Solna Centrum],2395000,105000,2500000,2864,Svenska Mäklarhuset,370.4994048090309,Solna centrum
+2014-11-20,Centrumslingan 47,CentralaSolna,BlaSolna,3,78,4,Lägenhet,1991,[Solna Centrum],2995000,380000,3375000,3988,Svenska Mäklarhuset,179.89111561032223,Solna centrum
+2014-11-18,Nybodagatan 7,CentralaSolna,BlaSolna,3,78,6,Lägenhet,1958,[Skytteholm],2795000,180000,2975000,3599,Länsförsäkringar Fastighetsförmedling,437.96111529353294,Solna centrum
+2014-11-14,Klippgatan 20C,CentralaSolna,BlaSolna,2,53.5,null,Lägenhet,1965,[Solna Centrum],1995000,365000,2360000,2500,One Fastighetsmäkleri,330.0134954118392,Solna centrum
+2014-11-09,Ankdammsgatan 36,CentralaSolna,BlaSolna,2,57,7,Lägenhet,1959,[Skytteholm],1895000,415000,2310000,2651,Wallenberg Fastighetsförmedling,622.11108686786,Solna centrum
+2014-11-06,Hannebergsgatan 30,CentralaSolna,BlaSolna,2,50,2,Lägenhet,null,[Fristaden],2395000,105000,2500000,3232,Svensk Fastighetsförmedling,142.87174890363278,Solna centrum
+2014-11-06,Nybodagatan 12,CentralaSolna,BlaSolna,2,62,4,Lägenhet,null,[Skytteholm],2495000,0,2495000,3326,Svensk Fastighetsförmedling,430.4424995153574,Solna centrum
+2014-11-06,Centrumslingan 49,CentralaSolna,BlaSolna,2,58.5,7,Lägenhet,1991,[Solna Centrum],2545000,165000,2710000,2991,Svenska Mäklarhuset,156.20134569781146,Solna centrum
+2014-11-06,Huvudstagatan 1,CentralaSolna,BlaSolna,2,51,null,Lägenhet,2001,[Fristaden],2395000,215000,2610000,2866,Notar,73.55846590048706,Solna centrum
+2014-11-05,Klippgatan 24A,CentralaSolna,BlaSolna,1.5,44.5,1,Lägenhet,null,[Solna Centrum],2250000,0,2250000,1366,Svensk Fastighetsförmedling,346.09253661961145,Solna centrum
+2014-11-05,Hannebergsgatan 13,CentralaSolna,BlaSolna,2,57,null,Lägenhet,1951,[Solna Centrum],2250000,0,2250000,2944,Fastighetsbyrån,370.4994048090309,Solna centrum
+2014-11-04,Huvudstagatan 3F,CentralaSolna,BlaSolna,2,50,4,Lägenhet,2003,[Fristaden],2350000,230000,2580000,3042,Notar,163.79981075161606,Solna centrum
+2014-11-01,Nybodagatan 12,CentralaSolna,BlaSolna,2,62,2,Lägenhet,1957,[Skytteholm],1995000,655000,2650000,3326,Notar,430.4424995153574,Solna centrum
+2014-10-30,Nybodagatan 3,CentralaSolna,BlaSolna,3,78.6,3,Lägenhet,1957,[Skytteholm],2975000,115000,3090000,3441,HusmanHagberg,510.88651639143876,Solna centrum
+2014-10-30,Klippgatan 8A,CentralaSolna,BlaSolna,3,73.5,1,Lägenhet,1965,[Solna Centrum],2995000,305000,3300000,2551,Svenska Mäklarhuset,455.5605428010253,Solna centrum
+2014-10-29,Ankdammsgatan 4,CentralaSolna,BlaSolna,2,63,null,Lägenhet,1978,[Skytteholm],2375000,255000,2630000,2852,SverigeMäklaren,312.5198164703765,Solna centrum
+2014-10-29,Klippgatan 20C,CentralaSolna,BlaSolna,2,60,null,Lägenhet,1965,[Solna Centrum],2595000,-95000,2500000,2772,Fastighetsbyrån,330.0134954118392,Solna centrum
+2014-10-22,Klippgatan 4,CentralaSolna,BlaSolna,1,35,1,Lägenhet,1904,[Solna Centrum],1895000,405000,2300000,2094,Svenska Mäklarhuset,482.7352839002131,Solna centrum
+2014-10-18,Huvudstagatan 1,CentralaSolna,BlaSolna,4,112,6,Lägenhet,2001,[Fristaden],4995000,115000,5110000,5306,Notar,73.55846590048706,Solna centrum
+2014-10-16,Klippgatan 8B,CentralaSolna,BlaSolna,3,75.5,6,Lägenhet,1965,[Solna Centrum],2895000,455000,3350000,2621,Svenska Mäklarhuset,501.4092205524532,Solna centrum
+2014-10-08,Ankdammsgatan 40,CentralaSolna,BlaSolna,3,78.4,8,Lägenhet,1958,[Skytteholm],2495000,365000,2860000,2837,Wallenberg Fastighetsförmedling,570.1324976749531,Solna centrum
+2014-10-07,Ankdammsgatan 26,CentralaSolna,BlaSolna,2,57.5,1,Lägenhet,1959,[Skytteholm],2195000,155000,2350000,2861,Notar,478.4747746195364,Solna centrum
+2014-10-06,Ankdammsgatan 8,CentralaSolna,BlaSolna,3,89.5,1,Lägenhet,1978,[Skytteholm],2895000,625000,3520000,3851,One Fastighetsmäkleri,272.74826244889334,Solna centrum
+2014-10-01,Huvudstagatan 3E,CentralaSolna,BlaSolna,2,60,null,Lägenhet,2003,[Fristaden],2595000,0,2595000,3516,Notar,126.19771602009092,Solna centrum
+2014-10-01,Nybodagatan 6C,CentralaSolna,BlaSolna,3,83,7,Lägenhet,1961,[Skytteholm],2995000,0,2995000,3765,Notar,467.76108296154706,Solna centrum
+2014-09-30,Centralvägen 15,CentralaSolna,BlaSolna,2.5,62,0.5,Lägenhet,1951,[Solna Centrum],2195000,335000,2530000,2280,Svenska Mäklarhuset,193.0774139379797,Solna centrum
+2014-09-25,Klippgatan 20C,CentralaSolna,BlaSolna,3,76.5,7,Lägenhet,1965,[Solna Centrum],2795000,0,2795000,3459,Svenska Mäklarhuset,330.0134954118392,Solna centrum
+2014-09-25,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,12,Lägenhet,1959,[Skytteholm],2895000,520000,3415000,3358,Länsförsäkringar Fastighetsförmedling,622.11108686786,Solna centrum
+2014-09-23,Huvudstagatan 1,CentralaSolna,BlaSolna,2,51,null,Lägenhet,2002,[Fristaden],2295000,0,2295000,2866,Svenska Mäklarhuset,73.55846590048706,Solna centrum
+2014-09-18,Hannebergsgatan 16,CentralaSolna,BlaSolna,4,86,3,Lägenhet,1951,[Solna Centrum],3395000,-35000,3360000,4222,Fastighetsbyrån,363.88586029181164,Solna centrum
+2014-09-18,Huvudstagatan 1,CentralaSolna,BlaSolna,3,67,1,Lägenhet,2001,[Fristaden],2695000,130000,2825000,3507,Notar,73.55846590048706,Solna centrum
+2014-09-12,Ankdammsgatan 36,CentralaSolna,BlaSolna,2,57.2,7,Lägenhet,1959,[Skytteholm],2195000,165000,2360000,2662,SkandiaMäklarna,622.11108686786,Solna centrum
+2014-09-12,Klippgatan 8A,CentralaSolna,BlaSolna,2,60,5,Lägenhet,1965,[Solna Centrum],2695000,160000,2855000,2083,Svenska Mäklarhuset,455.5605428010253,Solna centrum
+2014-09-09,Hannebergsgatan 28,CentralaSolna,BlaSolna,1.5,34,5,Lägenhet,2004,[Fristaden],1850000,250000,2100000,2444,Notar,162.30948320360977,Solna centrum
+2014-08-29,Klippgatan 24A,CentralaSolna,BlaSolna,1.5,46,6,Lägenhet,null,[Solna Centrum],1895000,515000,2410000,1413,Svensk Fastighetsförmedling,346.09253661961145,Solna centrum
+2014-08-27,Nybodagatan 5,CentralaSolna,BlaSolna,3,77,2,Lägenhet,1957,[Skytteholm],2850000,180000,3030000,3404,SkandiaMäklarna,473.0984834587351,Solna centrum
+2014-08-27,Huvudstagatan 1,CentralaSolna,BlaSolna,2,56,7,Lägenhet,2002,[Fristaden],3395000,505000,3900000,3080,Fastighetsbyrån,73.55846590048706,Solna centrum
+2014-08-26,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,1,Lägenhet,null,[Skytteholm],2895000,255000,3150000,3240,Mäklarhuset,622.11108686786,Solna centrum
+2014-08-20,Huvudstagatan 3C,CentralaSolna,BlaSolna,2,68,null,Lägenhet,2003,[Fristaden],2695000,0,2695000,3822,HusmanHagberg,127.86955527681273,Solna centrum
+2014-08-20,Nybodagatan 2,CentralaSolna,BlaSolna,3,85.7,2,Lägenhet,1959,[Skytteholm],2900000,0,2900000,4264,Länsförsäkringar Fastighetsförmedling,511.3203756648936,Solna centrum
+2014-08-14,Huvudstagatan 3F,CentralaSolna,BlaSolna,2,72,6,Lägenhet,null,[Fristaden],3550000,200000,3750000,3978,Berggren Hörle,163.79981075161606,Solna centrum
+2014-08-14,Centrumslingan 47,CentralaSolna,BlaSolna,2,58.8,8,Lägenhet,1991,[Solna Centrum],2495000,305000,2800000,2991,Svenska Mäklarhuset,179.89111561032223,Solna centrum
+2014-08-13,Huvudstagatan 1,CentralaSolna,BlaSolna,2,51,4,Lägenhet,2002,[Fristaden],2395000,205000,2600000,2866,Svenska Mäklarhuset,73.55846590048706,Solna centrum
+2014-08-06,Ankdammsgatan 40,CentralaSolna,BlaSolna,2,73.5,null,Lägenhet,null,[Skytteholm],2595000,475000,3070000,2707,One Fastighetsmäkleri,570.1324976749531,Solna centrum
+2014-08-02,Klippgatan 8C,CentralaSolna,BlaSolna,2,57.5,7,Lägenhet,1965,[Solna Centrum],2395000,465000,2860000,1996,Svenska Mäklarhuset,412.4206406151149,Solna centrum
+2014-08-01,Klippgatan 2,CentralaSolna,BlaSolna,4,92,null,Lägenhet,1946,[Solna Centrum],2995000,125000,3120000,3192,Fastighetsbyrån,470.5880935149979,Solna centrum
+2014-07-31,Hannebergsgatan 13,CentralaSolna,BlaSolna,1,37,2,Lägenhet,1951,[Fristaden],1495000,535000,2030000,1859,Notar,370.4994048090309,Solna centrum
+2014-07-28,Nybodagatan 10,CentralaSolna,BlaSolna,2,62,5,Lägenhet,1957,[Skytteholm],2395000,0,2395000,3326,SkandiaMäklarna,450.7501270535338,Solna centrum
+2014-07-24,Skytteholmsvägen 22,CentralaSolna,BlaSolna,3,71,null,Lägenhet,1952,[Solna Centrum],3195000,30000,3225000,2291,Fastighetsbyrån,112.2466231972227,Solna centrum
+2014-07-23,Klippgatan 16C,CentralaSolna,BlaSolna,3,75,8,Lägenhet,1965,[Solna Centrum],2995000,405000,3400000,3660,SkandiaMäklarna,357.79523996148424,Solna centrum
+2014-07-14,Nybodagatan 3,CentralaSolna,BlaSolna,3,77.3,1,Lägenhet,1957,[Skytteholm],2495000,65000,2560000,3341,HusmanHagberg,510.88651639143876,Solna centrum
+2014-07-11,Klippgatan 20C,CentralaSolna,BlaSolna,2,60,7,Lägenhet,1965,[Solna Centrum],2395000,145000,2540000,2772,Svenska Mäklarhuset,330.0134954118392,Solna centrum
+2014-07-04,Huvudstagatan 1,CentralaSolna,BlaSolna,1,41,2,Lägenhet,2001,[Fristaden],1850000,370000,2220000,2469,Notar,73.55846590048706,Solna centrum
+2014-07-04,Hannebergsgatan 32,CentralaSolna,BlaSolna,3,88,3,Lägenhet,null,[Fristaden],3495000,0,3495000,4821,Svensk Fastighetsförmedling,142.89373018208408,Solna centrum
+2014-07-03,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,3,86,4,Lägenhet,1965,[Centrum Solna],2895000,205000,3100000,4272,Länsförsäkringar Fastighetsförmedling,343.8686027001269,Solna centrum
+2014-06-26,Nybodagatan 2,CentralaSolna,BlaSolna,3,85.7,5,Lägenhet,1960,[Skytteholm],2995000,0,2995000,4264,Svenska Mäklarhuset,511.3203756648936,Solna centrum
+2014-06-25,Huvudstagatan 1,CentralaSolna,BlaSolna,2,51,3,Lägenhet,2002,[Fristaden],2350000,100000,2450000,2866,Notar,73.55846590048706,Solna centrum
+2014-06-25,Huvudstagatan 3C,CentralaSolna,BlaSolna,2,68,2,Lägenhet,null,[Solna Centrum],2695000,0,2695000,3822,Bjurfors,127.86955527681273,Solna centrum
+2014-06-19,Nybodagatan 4,CentralaSolna,BlaSolna,1,23.5,8,Lägenhet,null,[Skytteholm],1195000,265000,1460000,1169,Svensk Fastighetsförmedling,488.20547382092997,Solna centrum
+2014-06-19,Ankdammsgatan 40,CentralaSolna,BlaSolna,2,58,7,Lägenhet,1958,[Skytteholm],2195000,175000,2370000,2258,HusmanHagberg,570.1324976749531,Solna centrum
+2014-06-18,Klippgatan 20C,CentralaSolna,BlaSolna,2,59.5,1,Lägenhet,1965,[Solna Centrum],2495000,-95000,2400000,2752,SverigeMäklaren,330.0134954118392,Solna centrum
+2014-06-17,Klippgatan 8C,CentralaSolna,BlaSolna,2,59.5,3,Lägenhet,1965,[Solna Centrum],2295000,-25000,2270000,2065,Erik Olsson Fastighetsförmedling,412.4206406151149,Solna centrum
+2014-06-15,Huvudstagatan 3E,CentralaSolna,BlaSolna,2,69,1,Lägenhet,null,[Plan],2295000,0,2295000,3848,Svensk Fastighetsförmedling,126.19771602009092,Solna centrum
+2014-06-14,Nybodagatan 6A,CentralaSolna,BlaSolna,3,73,null,Lägenhet,1961,[Skytteholm],2650000,70000,2720000,3406,Notar,444.4837098649487,Solna centrum
+2014-06-13,Sagagatan 15,CentralaSolna,BlaSolna,3,66,1,Lägenhet,1952,[Solna Centrum],2495000,255000,2750000,3218,Fastighetsbyrån,224.1426311907528,Solna centrum
+2014-06-13,Klippgatan 12C,CentralaSolna,BlaSolna,2,59.5,7,Lägenhet,1965,[Solna Centrum],2395000,125000,2520000,2211,Svenska Mäklarhuset,396.5779902884771,Solna centrum
+2014-06-12,Klippgatan 2,CentralaSolna,BlaSolna,1.5,41,2,Lägenhet,1946,[Solna Centrum],1995000,-30000,1965000,1684,Notar,470.5880935149979,Solna centrum
+2014-06-12,Klippgatan 24,CentralaSolna,BlaSolna,2,57.5,3,Lägenhet,1964,[Solna Centrum],2495000,0,2495000,1766,Svenska Mäklarhuset,364.69135864054505,Solna centrum
+2014-06-12,Klippgatan 16C,CentralaSolna,BlaSolna,2,60,7,Lägenhet,1965,[Solna Centrum],2395000,0,2395000,2806,Svenska Mäklarhuset,357.79523996148424,Solna centrum
+2014-06-06,Huvudstagatan 1,CentralaSolna,BlaSolna,2,78,6,Lägenhet,null,[Fristaden],2995000,355000,3350000,3934,One Fastighetsmäkleri,73.55846590048706,Solna centrum
+2014-06-05,Nybodagatan 3,CentralaSolna,BlaSolna,3,77.3,6,Lägenhet,1957,[Skytteholm],2495000,185000,2680000,3472,Länsförsäkringar Fastighetsförmedling,510.88651639143876,Solna centrum
+2014-06-04,Ankdammsgatan 24A,CentralaSolna,BlaSolna,3,74.5,4,Lägenhet,1962,[Skytteholm],2695000,335000,3030000,2516,Länsförsäkringar Fastighetsförmedling,440.79756513784713,Solna centrum
+2014-05-29,Hannebergsgatan 30,CentralaSolna,BlaSolna,3,88,null,Lägenhet,2003,[Fristaden],3350000,0,3350000,4821,Notar,142.87174890363278,Solna centrum
+2014-05-29,Hannebergsgatan 13,CentralaSolna,BlaSolna,2,57,null,Lägenhet,1951,[Solna Centrum],2095000,90000,2185000,2864,Svenska Mäklarhuset,370.4994048090309,Solna centrum
+2014-05-27,Klippgatan 20B,CentralaSolna,BlaSolna,3,75.5,null,Lägenhet,1965,[Solna Centrum],2795000,0,2795000,3425,Fastighetsbyrån,346.2565333851291,Solna centrum
+2014-05-27,Klippgatan 16C,CentralaSolna,BlaSolna,3,73.5,7,Lägenhet,1964,[Råsunda],2750000,25000,2775000,3418,Magnusson Mäkleri,357.79523996148424,Solna centrum
+2014-05-23,Ankdammsgatan 2,CentralaSolna,BlaSolna,4,99,3,Lägenhet,null,[Skytteholm],3095000,241000,3336000,4249,Svensk Fastighetsförmedling,310.08380036784206,Solna centrum
+2014-05-21,Ankdammsgatan 4,CentralaSolna,BlaSolna,3,90,3,Lägenhet,1978,[Skytteholm],2995000,465000,3460000,3858,HusmanHagberg,312.5198164703765,Solna centrum
+2014-05-21,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,1.5,42,null,Lägenhet,1965,[Solna Centrum],1695000,255000,1950000,2087,Notar,343.8686027001269,Solna centrum
+2014-05-20,Nybodagatan 3,CentralaSolna,BlaSolna,3,79,4,Lägenhet,1957,[Skytteholm],2595000,55000,2650000,3484,Fastighetsbyrån,510.88651639143876,Solna centrum
+2014-05-14,Centrumslingan 49,CentralaSolna,BlaSolna,2,59,6,Lägenhet,1991,[Solna Centrum],2150000,600000,2750000,2991,Svenska Mäklarhuset,156.20134569781146,Solna centrum
+2014-05-09,Nybodagatan 2,CentralaSolna,BlaSolna,4,100.2,3,Lägenhet,1959,[Skytteholm],3250000,170000,3420000,4985,Diplomat Fastighetsmäkleri AB,511.3203756648936,Solna centrum
+2014-05-07,Klippgatan 12A,CentralaSolna,BlaSolna,1,46,5,Lägenhet,1965,[Solna Centrum],1695000,380000,2075000,1756,Svensk Fastighetsförmedling,439.4092530058252,Solna centrum
+2014-05-06,Klippgatan 12C,CentralaSolna,BlaSolna,2,59.5,3,Lägenhet,1965,[Solna Centrum],2295000,255000,2550000,2210,Svenska Mäklarhuset,396.5779902884771,Solna centrum
+2014-05-05,Ankdammsgatan 36,CentralaSolna,BlaSolna,2,57,3,Lägenhet,1959,[Skytteholm],2295000,75000,2370000,2593,Fastighetsbyrån,622.11108686786,Solna centrum
+2014-05-05,Centralvägen 9,CentralaSolna,BlaSolna,2.5,90,2,Lägenhet,1953,[Solna Centrum],3100000,-175000,2925000,3287,Notar,196.05365714999084,Solna centrum
+2014-05-01,Huvudstagatan 3A,CentralaSolna,BlaSolna,4,116,null,Lägenhet,2002,[Fristaden],4750000,100000,4850000,5458,Notar,115.51232497625229,Solna centrum
+2014-04-30,Klippgatan 20C,CentralaSolna,BlaSolna,2,57.5,5,Lägenhet,1965,[Centrum Solna],2275000,225000,2500000,2660,Länsförsäkringar Fastighetsförmedling,330.0134954118392,Solna centrum
+2014-04-29,Nybodagatan 5,CentralaSolna,BlaSolna,3,77,8,Lägenhet,1957,[Skytteholm],2695000,0,2695000,3565,Bjurfors,473.0984834587351,Solna centrum
+2014-04-28,Ankdammsgatan 28,CentralaSolna,BlaSolna,3,76,3,Lägenhet,1959,[Skytteholm],2395000,105000,2500000,3781,Fastighetsbyrån,488.8509149148139,Solna centrum
+2014-04-24,Hannebergsgatan 28,CentralaSolna,BlaSolna,2,53,5,Lägenhet,2004,[Fristaden],2450000,0,2450000,3381,Notar,162.30948320360977,Solna centrum
+2014-04-24,Ankdammsgatan 6,CentralaSolna,BlaSolna,3,85,null,Lägenhet,1978,[Skytteholm],2795000,100000,2895000,3686,Notar,332.6082278264132,Solna centrum
+2014-04-17,Klippgatan 24,CentralaSolna,BlaSolna,2,59.5,8,Lägenhet,null,[Solna Centrum],2295000,400000,2695000,1828,Svenska Mäklarhuset,364.69135864054505,Solna centrum
+2014-04-16,Klippgatan 20C,CentralaSolna,BlaSolna,1.5,46,3,Lägenhet,1965,[Solna Centrum],1650000,250000,1900000,2177,Erik Olsson Fastighetsförmedling,330.0134954118392,Solna centrum
+2014-04-15,Skytteholmsvägen 24,CentralaSolna,BlaSolna,2.5,58,5,Lägenhet,1952,[Solna Centrum],2395000,80000,2475000,2159,Fastighetsbyrån,101.85175468830603,Solna centrum
+2014-04-14,Centrumslingan 51,CentralaSolna,BlaSolna,3,78,2,Lägenhet,1991,[Solna Centrum],2795000,55000,2850000,3988,Svenska Mäklarhuset,135.06351956964346,Solna centrum
+2014-04-14,Ankdammsgatan 36,CentralaSolna,BlaSolna,2,57,8,Lägenhet,1959,[Skytteholm],2195000,0,2195000,2651,Svensk Fastighetsförmedling,622.11108686786,Solna centrum
+2014-04-11,Nybodagatan 5,CentralaSolna,BlaSolna,3,80,8,Lägenhet,1957,[Skytteholm],2395000,125000,2520000,3705,Fastighetsbyrån,473.0984834587351,Solna centrum
+2014-04-09,Centrumslingan 47,CentralaSolna,BlaSolna,2,58.8,5,Lägenhet,1991,[Solna Centrum],2150000,360000,2510000,2991,Svenska Mäklarhuset,179.89111561032223,Solna centrum
+2014-04-08,Ankdammsgatan 28,CentralaSolna,BlaSolna,3,76,null,Lägenhet,1959,[Skytteholm],2495000,55000,2550000,3781,Notar,488.8509149148139,Solna centrum
+2014-04-08,Klippgatan 20C,CentralaSolna,BlaSolna,2,59.5,null,Lägenhet,1965,[Solna Centrum],1995000,115000,2110000,2752,Fastighetsbyrån,330.0134954118392,Solna centrum
+2014-04-05,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,2,60,5,Lägenhet,1956,[Solna Centrum],2195000,0,2195000,2981,Notar,343.8686027001269,Solna centrum
+2014-04-04,Ankdammsgatan 28,CentralaSolna,BlaSolna,3,76,6,Lägenhet,1959,[Skytteholm],2495000,-95000,2400000,3781,Fastighetsbyrån,488.8509149148139,Solna centrum
+2014-04-04,Klippgatan 20C,CentralaSolna,BlaSolna,1,46,8,Lägenhet,1965,[Solna Centrum],1695000,295000,1990000,2177,Länsförsäkringar Fastighetsförmedling,330.0134954118392,Solna centrum
+2014-03-27,Hannebergsgatan 30,CentralaSolna,BlaSolna,3,81,4,Lägenhet,null,[Solna Centrum],3195000,255000,3450000,4528,Svensk Fastighetsförmedling,142.87174890363278,Solna centrum
+2014-03-26,Hannebergsgatan 30,CentralaSolna,BlaSolna,2,50,5,Lägenhet,2003,[Solna Centrum],2495000,30000,2525000,3232,Fastighetsbyrån,142.87174890363278,Solna centrum
+2014-03-24,Huvudstagatan 3A,CentralaSolna,BlaSolna,3,102,7,Lägenhet,2002,[Fristaden],5495000,650000,6145000,4909,Notar,115.51232497625229,Solna centrum
+2014-03-24,Nybodagatan 7,CentralaSolna,BlaSolna,3,78,12,Lägenhet,null,[Solna Centrum Skytteholm],2695000,315000,3010000,3793,Svensk Fastighetsförmedling,437.96111529353294,Solna centrum
+2014-03-21,Klippgatan 8A,CentralaSolna,BlaSolna,2,60,4,Lägenhet,null,[Solna Centrum],1995000,455000,2450000,2083,One Fastighetsmäkleri,455.5605428010253,Solna centrum
+2014-03-20,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4,96,3,Lägenhet,1950,[Solna Centrum],3195000,125000,3320000,4829,Erik Olsson Fastighetsförmedling,169.73472419494146,Solna centrum
+2014-03-19,Centralvägen 19,CentralaSolna,BlaSolna,2,62,1,Lägenhet,null,[Solna Centrum],2595000,225000,2820000,2183,Svensk Fastighetsförmedling,121.599542671056,Solna centrum
+2014-03-07,Nybodagatan 5,CentralaSolna,BlaSolna,2,55,1,Lägenhet,1957,[Solna Centrum Skytteholm],1995000,315000,2310000,2653,Svensk Fastighetsförmedling,473.0984834587351,Solna centrum
+2014-02-27,Nybodagatan 2,CentralaSolna,BlaSolna,3,100.2,null,Lägenhet,1959,[Skytteholm],2900000,0,2900000,4985,Notar,511.3203756648936,Solna centrum
+2014-02-25,Skytteholmsvägen 5B,CentralaSolna,BlaSolna,1,42,4,Lägenhet,1965,[Solna Centrum],1495000,325000,1820000,2087,Bjurfors,306.9486565559879,Solna centrum
+2014-02-23,Nybodagatan 12,CentralaSolna,BlaSolna,2,62,3,Lägenhet,1957,[Skytteholm],2550000,-55000,2495000,3326,Notar,430.4424995153574,Solna centrum
+2014-02-13,Centralvägen 15,CentralaSolna,BlaSolna,4,72,3,Lägenhet,1954,[Solna Centrum],2995000,315000,3310000,2590,Fastighetsbyrån,193.0774139379797,Solna centrum
+2014-02-12,Huvudstagatan 3A,CentralaSolna,BlaSolna,3,90,6,Lägenhet,2002,[Fristaden],3995000,0,3995000,4421,Länsförsäkringar Fastighetsförmedling,115.51232497625229,Solna centrum
+2014-02-11,Nybodagatan 12,CentralaSolna,BlaSolna,3,91,7,Lägenhet,1957,[Skytteholm],2695000,0,2695000,4882,HusmanHagberg,430.4424995153574,Solna centrum
+2014-02-07,Hannebergsgatan 13,CentralaSolna,BlaSolna,2,57,2,Lägenhet,1951,[Solna Centrum],2200000,300000,2500000,2864,Erik Olsson Fastighetsförmedling,370.4994048090309,Solna centrum
+2014-02-05,Nybodagatan 16,CentralaSolna,BlaSolna,2,54,null,Lägenhet,1957,[Skytteholm],2295000,105000,2400000,2154,Notar,378.6859157520134,Solna centrum
+2014-02-05,Skytteholmsvägen 5B,CentralaSolna,BlaSolna,3.5,86,4,Lägenhet,1965,[Solna Centrum],2695000,255000,2950000,4272,Svenska Mäklarhuset,306.9486565559879,Solna centrum
+2014-02-03,Nybodagatan 7,CentralaSolna,BlaSolna,3,78.1,1.5,Lägenhet,1958,[Skytteholm],2795000,-45000,2750000,3729,Notar,437.96111529353294,Solna centrum
+2014-01-30,Ankdammsgatan 40,CentralaSolna,BlaSolna,3,72.5,1,Lägenhet,1958,[Skytteholm],2595000,-95000,2500000,2544,SkandiaMäklarna,570.1324976749531,Solna centrum
+2014-01-29,Huvudstagatan 3D,CentralaSolna,BlaSolna,4,113,4,Lägenhet,2003,[Fristaden],5575000,-325000,5250000,5720,Notar,146.16104634222606,Solna centrum
+2014-01-26,Nybodagatan 6C,CentralaSolna,BlaSolna,3,83,null,Lägenhet,null,[Skytteholm],2595000,105000,2700000,3765,Notar,467.76108296154706,Solna centrum
+2014-01-24,Klippgatan 16C,CentralaSolna,BlaSolna,2,57.5,5,Lägenhet,1965,[Solna Centrum],1995000,380000,2375000,2695,Svenska Mäklarhuset,357.79523996148424,Solna centrum
+2014-01-23,Klippgatan 16C,CentralaSolna,BlaSolna,1.5,46,1,Lägenhet,1965,[Solna Centrum],1695000,235000,1930000,2175,Svenska Mäklarhuset,357.79523996148424,Solna centrum
+2014-01-23,Klippgatan 24,CentralaSolna,BlaSolna,3,75,1,Lägenhet,1965,[Centrum Solna],2795000,205000,3000000,2303,Länsförsäkringar Fastighetsförmedling,364.69135864054505,Solna centrum
+2014-01-23,Klippgatan 8C,CentralaSolna,BlaSolna,1.5,46,2,Lägenhet,1965,[Centrum Solna],1595000,255000,1850000,1597,Länsförsäkringar Fastighetsförmedling,412.4206406151149,Solna centrum
+2014-01-22,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4,90,null,Lägenhet,1950,[Solna Centrum],3795000,5000,3800000,4527,Fastighetsbyrån,169.73472419494146,Solna centrum
+2014-01-17,Centrumslingan 51,CentralaSolna,BlaSolna,3,78,1,Lägenhet,1991,[Solna Centrum],2650000,-200000,2450000,3988,Svenska Mäklarhuset,135.06351956964346,Solna centrum
+2014-01-16,Skytteholmsvägen 5B,CentralaSolna,BlaSolna,2,59,null,Lägenhet,1956,[Solna Centrum],1995000,105000,2100000,2930,Notar,306.9486565559879,Solna centrum
+2014-01-10,Nybodagatan 5,CentralaSolna,BlaSolna,2,55.4,12,Lägenhet,1958,[Skytteholm],2350000,50000,2400000,2911,Länsförsäkringar Fastighetsförmedling,473.0984834587351,Solna centrum
+2014-01-10,Skytteholmsvägen 22,CentralaSolna,BlaSolna,3,71,1,Lägenhet,1952,[Centrum Solna],2950000,130000,3080000,2371,Länsförsäkringar Fastighetsförmedling,112.2466231972227,Solna centrum
+2013-12-19,Huvudstagatan 1,CentralaSolna,BlaSolna,3,77,null,Lägenhet,2002,[Solna Centrum],3095000,0,3095000,3903,Fastighetsbyrån,73.55846590048706,Solna centrum
+2013-12-17,Klippgatan 8B,CentralaSolna,BlaSolna,3,75.5,3,Lägenhet,1965,[Solna Centrum],2795000,0,2795000,2621,Länsförsäkringar Fastighetsförmedling,501.4092205524532,Solna centrum
+2013-12-15,Ankdammsgatan 28,CentralaSolna,BlaSolna,2,64,null,Lägenhet,1960,[Skytteholm],1995000,20000,2015000,3185,Svensk Fastighetsförmedling,488.8509149148139,Solna centrum
+2013-12-13,Klippgatan 4,CentralaSolna,BlaSolna,1.5,44,1,Lägenhet,1904,[Solna Centrum],1895000,285000,2180000,2631,Svenska Mäklarhuset,482.7352839002131,Solna centrum
+2013-12-12,Nybodagatan 10,CentralaSolna,BlaSolna,2,62,6,Lägenhet,1957,[Skytteholm],1895000,115000,2010000,3326,Mäklarhuset,450.7501270535338,Solna centrum
+2013-12-05,Hannebergsgatan 11,CentralaSolna,BlaSolna,3,77,2,Lägenhet,1951,[Solna Centrum],2450000,70000,2520000,3869,Svenska Mäklarhuset,608.865769780049,Solna centrum
+2013-12-04,Nybodagatan 6B,CentralaSolna,BlaSolna,3,73,3,Lägenhet,1962,[Skytteholm],2295000,115000,2410000,3406,Bjurfors,456.60055762468835,Solna centrum
+2013-12-02,Ankdammsgatan 36,CentralaSolna,BlaSolna,2,57.2,12,Lägenhet,1959,[Solna Centrum],2100000,100000,2200000,2651,Mäklarringen,622.11108686786,Solna centrum
+2013-11-30,Nybodagatan 2,CentralaSolna,BlaSolna,2,58,null,Lägenhet,1959,[Skytteholm],2195000,-45000,2150000,2886,Notar,511.3203756648936,Solna centrum
+2013-11-21,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,75,3,Lägenhet,1951,[Solna Centrum],2695000,205000,2900000,3734,Fastighetsbyrån,363.88586029181164,Solna centrum
+2013-11-21,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,3,86,6,Lägenhet,1965,[Centrum Solna],2795000,105000,2900000,4272,Länsförsäkringar Fastighetsförmedling,343.8686027001269,Solna centrum
+2013-11-20,Centralvägen 15,CentralaSolna,BlaSolna,4,72,3,Lägenhet,1954,[Solna Centrum],2995000,255000,3250000,2590,Fastighetsbyrån,193.0774139379797,Solna centrum
+2013-11-15,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,4,Lägenhet,1959,[Skytteholm],2745000,75000,2820000,3319,Svensk Fastighetsförmedling,622.11108686786,Solna centrum
+2013-11-15,Nybodagatan 12,CentralaSolna,BlaSolna,3,77,null,Lägenhet,1957,[Skytteholm],2175000,105000,2280000,4131,Notar,430.4424995153574,Solna centrum
+2013-11-15,Skytteholmsvägen 5B,CentralaSolna,BlaSolna,2,60,2,Lägenhet,1965,[Solna Centrum],2150000,0,2150000,2981,Länsförsäkringar Fastighetsförmedling,306.9486565559879,Solna centrum
+2013-11-15,Nybodagatan 10,CentralaSolna,BlaSolna,2,61,5,Lägenhet,1957,[Skytteholm],1790000,310000,2100000,3272,Ansvar Fastighetsförmedling,450.7501270535338,Solna centrum
+2013-11-14,Ankdammsgatan 40,CentralaSolna,BlaSolna,3,73.5,9,Lägenhet,1958,[Skytteholm],2595000,255000,2850000,2618,Svenska Mäklarhuset,570.1324976749531,Solna centrum
+2013-11-13,Skytteholmsvägen 26,CentralaSolna,BlaSolna,3,76,2,Lägenhet,1952,[Solna Centrum],3030000,0,3030000,2561,Länsförsäkringar Fastighetsförmedling,84.4869057593507,Solna centrum
+2013-11-07,Nybodagatan 14,CentralaSolna,BlaSolna,2,46,8,Lägenhet,1957,[Skytteholm],1745000,255000,2000000,1851,Svensk Fastighetsförmedling,395.73355917487095,Solna centrum
+2013-11-05,Skytteholmsvägen 22,CentralaSolna,BlaSolna,3,71,null,Lägenhet,1952,[Solna Centrum],2795000,155000,2950000,2324,Fastighetsbyrån,112.2466231972227,Solna centrum
+2013-11-04,Centralvägen 19,CentralaSolna,BlaSolna,3,85,1,Lägenhet,1952,[Solna Centrum],2995000,35000,3030000,2700,Bjurfors,121.599542671056,Solna centrum
+2013-11-03,Ankdammsgatan 30,CentralaSolna,BlaSolna,2,55.8,null,Lägenhet,1959,[Skytteholm],1795000,155000,1950000,2776,Notar,500.54282520061486,Solna centrum
+2013-11-01,Klippgatan 12A,CentralaSolna,BlaSolna,2,58,null,Lägenhet,1965,[Solna Centrum],2095000,35000,2130000,2130,Fastighetsbyrån,439.4092530058252,Solna centrum
+2013-10-24,Skytteholmsvägen 41,CentralaSolna,BlaSolna,2,45,null,Lägenhet,2003,[Solna Centrum],2195000,0,2195000,2841,Notar,114.75204028781198,Solna centrum
+2013-10-19,Sundbybergs Torg 1F,CentralaSolna,BlaSolna,2,53,null,Lägenhet,1937,[Signalfabriken],2795000,0,2795000,3405,Notar,662.3265859466342,Solna centrum
+2013-10-09,Sagagatan 12,CentralaSolna,BlaSolna,4,96,2,Lägenhet,null,[Solna Centrum],3595000,105000,3700000,4451,Erik Olsson Fastighetsförmedling,270.05740901250607,Solna centrum
+2013-10-03,Nybodagatan 2,CentralaSolna,BlaSolna,3,86,null,Lägenhet,1959,[Skytteholm],2100000,250000,2350000,4264,SkandiaMäklarna,511.3203756648936,Solna centrum
+2013-10-02,Huvudstagatan 3F,CentralaSolna,BlaSolna,1,38,null,Lägenhet,2003,[Solna Centrum],1595000,0,1595000,2522,Notar,163.79981075161606,Solna centrum
+2013-10-02,Skytteholmsvägen 22,CentralaSolna,BlaSolna,3,71,0.5,Lägenhet,1952,[Solna Centrum],2795000,-45000,2750000,2264,Ansvar Fastighetsförmedling,112.2466231972227,Solna centrum
+2013-09-25,Klippgatan 12C,CentralaSolna,BlaSolna,3,75,null,Lägenhet,1965,[Solna Centrum],2750000,0,2750000,2705,Fastighetsbyrån,396.5779902884771,Solna centrum
+2013-09-22,Centralvägen 19,CentralaSolna,BlaSolna,3,85,3,Lägenhet,1951,[Solna Centrum],3195000,0,3195000,2793,Svenska Mäklarhuset,121.599542671056,Solna centrum
+2013-09-17,Hannebergsgatan 28,CentralaSolna,BlaSolna,2,53,null,Lägenhet,2004,[Solna Centrum],2295000,30000,2325000,3381,Notar,162.30948320360977,Solna centrum
+2013-09-10,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,null,Lägenhet,1959,[Skytteholm],2200000,435000,2635000,3260,Fastighetsbyrån,622.11108686786,Solna centrum
+2013-09-05,Centrumslingan 49,CentralaSolna,BlaSolna,3,78.4,8,Lägenhet,1991,[Solna Centrum],2595000,505000,3100000,3988,Svenska Mäklarhuset,156.20134569781146,Solna centrum
+2013-09-01,Ankdammsgatan 26,CentralaSolna,BlaSolna,null,106,null,Lägenhet,1959,[Skytteholm],2995000,285000,3280000,5269,SkandiaMäklarna,478.4747746195364,Solna centrum
+2013-08-30,Nybodagatan 12,CentralaSolna,BlaSolna,2,62,6,Lägenhet,1957,[Skytteholm],1895000,115000,2010000,3326,Svenska Mäklarhuset,430.4424995153574,Solna centrum
+2013-08-22,Nybodagatan 2,CentralaSolna,BlaSolna,3,83,1,Lägenhet,1959,[Skytteholm],2350000,110000,2460000,4130,Svenska Mäklarhuset,511.3203756648936,Solna centrum
+2013-08-21,Klippgatan 16C,CentralaSolna,BlaSolna,2,60,5,Lägenhet,1965,[Solna Centrum],2095000,265000,2360000,2854,Svensk Fastighetsförmedling,357.79523996148424,Solna centrum
+2013-08-21,Hannebergsgatan 28,CentralaSolna,BlaSolna,2,44,null,Lägenhet,2004,[Solna Centrum],2195000,0,2195000,2938,Notar,162.30948320360977,Solna centrum
+2013-08-20,Sagagatan 15,CentralaSolna,BlaSolna,3,69,1,Lägenhet,1952,[Solna Centrum],2975000,25000,3000000,3606,Svenska Mäklarhuset,224.1426311907528,Solna centrum
+2013-08-14,Skytteholmsvägen 5B,CentralaSolna,BlaSolna,3,82,8,Lägenhet,1965,[Skytteholm],2495000,-45000,2450000,4125,Ansvar Fastighetsförmedling,306.9486565559879,Solna centrum
+2013-08-14,Centrumslingan 47,CentralaSolna,BlaSolna,3,78.4,null,Lägenhet,1991,[Solna Centrum],2600000,-30000,2570000,3988,Ansvar Fastighetsförmedling,179.89111561032223,Solna centrum
+2013-08-11,Huvudstagatan 3C,CentralaSolna,BlaSolna,2,68,2,Lägenhet,2003,[Solna Centrum],2595000,20000,2615000,3822,Bjurfors,127.86955527681273,Solna centrum
+2013-08-09,Ankdammsgatan 28,CentralaSolna,BlaSolna,3,76,null,Lägenhet,1959,[Skytteholm],2050000,200000,2250000,3781,Notar,488.8509149148139,Solna centrum
+2013-08-01,Sagagatan 15,CentralaSolna,BlaSolna,3,69,null,Lägenhet,1952,[Solna Centrum],2795000,30000,2825000,3606,Svenska Mäklarhuset,224.1426311907528,Solna centrum
+2013-07-24,Huvudstagatan 3C,CentralaSolna,BlaSolna,2,68,4,Lägenhet,2003,[Solna Centrum],2450000,100000,2550000,3822,Mäklarringen,127.86955527681273,Solna centrum
+2013-07-23,Skytteholmsvägen 26,CentralaSolna,BlaSolna,1,33,null,Lägenhet,1952,[Solna Centrum],1495000,305000,1800000,1284,Fastighetsbyrån,84.4869057593507,Solna centrum
+2013-07-19,Centralvägen 5,CentralaSolna,BlaSolna,3.5,86,1,Lägenhet,1952,[Solna Centrum],2995000,145000,3140000,3094,Notar,193.0774139379797,Solna centrum
+2013-07-04,Skytteholmsvägen 41,CentralaSolna,BlaSolna,4,90,3,Lägenhet,null,[Solna Centrum],3495000,205000,3700000,4866,Bostadsrättsspecialisten,114.75204028781198,Solna centrum
+2013-07-03,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,75,null,Lägenhet,1951,[Solna Centrum],2495000,130000,2625000,3734,Fastighetsbyrån,363.88586029181164,Solna centrum
+2013-06-27,Nybodagatan 6A,CentralaSolna,BlaSolna,2,64,null,Lägenhet,1962,[Skytteholm],2150000,15000,2165000,2955,Notar,444.4837098649487,Solna centrum
+2013-06-18,Klippgatan 24A,CentralaSolna,BlaSolna,3,76.5,4,Lägenhet,1965,[Solna Centrum],2695000,140000,2835000,2350,Mäklarhuset,346.09253661961145,Solna centrum
+2013-06-17,Nybodagatan 6B,CentralaSolna,BlaSolna,3,76,1,Lägenhet,1962,[Skytteholm],2275000,-55000,2220000,3470,Ansvar Fastighetsförmedling,456.60055762468835,Solna centrum
+2013-06-13,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,81,null,Lägenhet,1959,[Skytteholm],2895000,-70000,2825000,3279,Fastighetsbyrån,622.11108686786,Solna centrum
+2013-06-11,Ankdammsgatan 36,CentralaSolna,BlaSolna,3,80.1,null,Lägenhet,1959,[Skytteholm],2695000,100000,2795000,3319,Fastighetsbyrån,622.11108686786,Solna centrum
+2013-06-09,Nybodagatan 7,CentralaSolna,BlaSolna,2,57,null,Lägenhet,1958,[Skytteholm],2195000,0,2195000,2927,Notar,437.96111529353294,Solna centrum
+2013-06-06,Huvudstagatan 3F,CentralaSolna,BlaSolna,3,80,6,Lägenhet,2003,[Solna Centrum],3895000,105000,4000000,4342,Svenska Mäklarhuset,163.79981075161606,Solna centrum
+2013-06-06,Ankdammsgatan 26,CentralaSolna,BlaSolna,5,105.9,5,Lägenhet,null,[Skytteholm],3395000,-145000,3250000,5269,SkandiaMäklarna,478.4747746195364,Solna centrum
+2013-06-04,Huvudstagatan 1,CentralaSolna,BlaSolna,2,51,2,Lägenhet,2002,[Solna Centrum],2175000,30000,2205000,2866,Widerlöv & Co,73.55846590048706,Solna centrum
+2013-06-04,Klippgatan 24,CentralaSolna,BlaSolna,4,97,4,Lägenhet,1965,[Solna Centrum],3090000,60000,3150000,2979,Länsförsäkringar Fastighetsförmedling,364.69135864054505,Solna centrum
+2013-06-01,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4,96,6,Lägenhet,1950,[Solna Centrum],2995000,-295000,2700000,4688,Svensk Fastighetsförmedling,169.73472419494146,Solna centrum
+2013-05-30,Nybodagatan 3,CentralaSolna,BlaSolna,2,53.5,null,Lägenhet,1957,[Skytteholm],1895000,100000,1995000,1985,SkandiaMäklarna,510.88651639143876,Solna centrum
+2013-05-28,Skytteholmsvägen 22,CentralaSolna,BlaSolna,2,58,4,Lägenhet,1952,[Solna Centrum],2395000,155000,2550000,2112,Mäklarringen,112.2466231972227,Solna centrum
+2013-05-27,Nybodagatan 10,CentralaSolna,BlaSolna,6,154,null,Lägenhet,1956,[Skytteholm],4200000,-100000,4100000,8099,Fastighetsbyrån,450.7501270535338,Solna centrum
+2013-05-22,Hannebergsgatan 13,CentralaSolna,BlaSolna,1,37,1,Lägenhet,1951,[Solna Centrum],1575000,205000,1780000,1859,Svenska Mäklarhuset,370.4994048090309,Solna centrum
+2013-05-14,Sagagatan 13,CentralaSolna,BlaSolna,3,55,null,Lägenhet,1952,[Solna Centrum],1995000,405000,2400000,2935,Notar,220.781020123381,Solna centrum
+2013-05-14,Ankdammsgatan 28,CentralaSolna,BlaSolna,1,51,null,Lägenhet,1960,[Skytteholm],1495000,5000,1500000,2538,Mäklarhuset,488.8509149148139,Solna centrum
+2013-05-14,Nybodagatan 3,CentralaSolna,BlaSolna,2,53.5,11,Lägenhet,1957,[Skytteholm],1995000,5000,2000000,2112,Länsförsäkringar Fastighetsförmedling,510.88651639143876,Solna centrum
+2013-05-10,Klippgatan 16C,CentralaSolna,BlaSolna,1,46,5,Lägenhet,1964,[Solna Centrum],1645000,125000,1770000,2252,Svensk Fastighetsförmedling,357.79523996148424,Solna centrum
+2013-05-10,Nybodagatan 16,CentralaSolna,BlaSolna,3,87,5,Lägenhet,1958,[Skytteholm],2895000,155000,3050000,3345,Svensk Fastighetsförmedling,378.6859157520134,Solna centrum
+2013-05-08,Ankdammsgatan 24A,CentralaSolna,BlaSolna,3,74.5,2,Lägenhet,1962,[Solna Centrum],2495000,335000,2830000,2451,Svensk Fastighetsförmedling,440.79756513784713,Solna centrum
+2013-05-04,Klippgatan 4,CentralaSolna,BlaSolna,3.5,88,null,Lägenhet,null,[Solna Centrum],2995000,100000,3095000,5203,Erik Olsson Fastighetsförmedling,482.7352839002131,Solna centrum
+2013-05-01,Klippgatan 24B,CentralaSolna,BlaSolna,3,75.5,7,Lägenhet,1965,[Solna Centrum],2895000,15000,2910000,2319,Länsförsäkringar Fastighetsförmedling,324.6322033918462,Solna centrum
+2013-04-30,Klippgatan 8C,CentralaSolna,BlaSolna,4,97.5,6,Lägenhet,1965,[Solna Centrum],2995000,190000,3185000,3367,Länsförsäkringar Fastighetsförmedling,412.4206406151149,Solna centrum
+2013-04-28,Nybodagatan 14,CentralaSolna,BlaSolna,6,151,1,Lägenhet,1958,[Solna Centrum],4850000,250000,5100000,5383,Svensk Fastighetsförmedling,395.73355917487095,Solna centrum
+2013-04-26,Skytteholmsvägen 22,CentralaSolna,BlaSolna,4.5,105,null,Lägenhet,1952,[Solna Centrum],3995000,505000,4500000,3357,Notar,112.2466231972227,Solna centrum
+2013-04-24,Sagagatan 15,CentralaSolna,BlaSolna,3,69,0.5,Lägenhet,1958,[Solna Centrum],2195000,-5000,2190000,3606,Länsförsäkringar Fastighetsförmedling,224.1426311907528,Solna centrum
+2013-04-24,Nybodagatan 5,CentralaSolna,BlaSolna,5,110.7,null,Lägenhet,1957,[Skytteholm],3495000,-95000,3400000,4633,Fastighetsbyrån,473.0984834587351,Solna centrum
+2013-04-20,Centralvägen 5,CentralaSolna,BlaSolna,4.5,144,6,Lägenhet,1953,[Solna Centrum],5900000,0,5900000,5180,Länsförsäkringar Fastighetsförmedling,193.0774139379797,Solna centrum
+2013-04-19,Klippgatan 24A,CentralaSolna,BlaSolna,2,60,5,Lägenhet,1965,[Solna Centrum],2195000,235000,2430000,1843,Länsförsäkringar Fastighetsförmedling,346.09253661961145,Solna centrum
+2013-04-19,Klippgatan 12C,CentralaSolna,BlaSolna,1,46,2,Lägenhet,1965,[Solna Centrum],1795000,-25000,1770000,1725,Magnusson Mäkleri,396.5779902884771,Solna centrum
+2013-04-18,Huvudstagatan 1,CentralaSolna,BlaSolna,4,98,2,Lägenhet,null,[Solna Centrum],3800000,25000,3825000,4757,Erik Olsson Fastighetsförmedling,73.55846590048706,Solna centrum
+2013-04-15,Nybodagatan 14,CentralaSolna,BlaSolna,2,54,4,Lägenhet,1957,[Skytteholm],1795000,185000,1980000,2154,HusmanHagberg,395.73355917487095,Solna centrum
+2013-04-15,Hannebergsgatan 16,CentralaSolna,BlaSolna,4,128,5,Lägenhet,1951,[Solna Centrum],4795000,255000,5050000,5884,HusmanHagberg,363.88586029181164,Solna centrum
+2013-04-12,Nybodagatan 3,CentralaSolna,BlaSolna,4,97.5,5,Lägenhet,1957,[Skytteholm],2995000,-85000,2910000,3356,Svenska Mäklarhuset,510.88651639143876,Solna centrum
+2013-04-10,Nybodagatan 6A,CentralaSolna,BlaSolna,3,73,null,Lägenhet,1958,[Skytteholm],2495000,0,2495000,3406,Fastighetsbyrån,444.4837098649487,Solna centrum
+2013-04-06,Huvudstagatan 3E,CentralaSolna,BlaSolna,3,64,null,Lägenhet,2003,[Solna Centrum],2900000,0,2900000,3696,Mäklarringen,126.19771602009092,Solna centrum
+2013-03-29,Centralvägen 13,CentralaSolna,BlaSolna,4,84,1,Lägenhet,null,[Solna Centrum],3850000,0,3850000,3072,Bostadsrättsspecialisten,178.03794516624424,Solna centrum
+2013-03-28,Nybodagatan 7,CentralaSolna,BlaSolna,2,57,null,Lägenhet,1958,[Skytteholm],2000000,50000,2050000,2732,Fastighetsbyrån,437.96111529353294,Solna centrum
+2013-03-26,Nybodagatan 7,CentralaSolna,BlaSolna,3,77.1,5,Lägenhet,null,[Skytteholm],2350000,250000,2600000,3545,Mäklarhuset,437.96111529353294,Solna centrum
+2013-03-21,Centralvägen 15,CentralaSolna,BlaSolna,3,72,3,Lägenhet,1952,[Solna Centrum],2495000,125000,2620000,2640,Svenska Mäklarhuset,193.0774139379797,Solna centrum
+2013-03-21,Sagagatan 14,CentralaSolna,BlaSolna,3,68,null,Lägenhet,1951,[Solna Centrum],2450000,0,2450000,3240,Svensk Fastighetsförmedling,250.36825176510374,Solna centrum
+2013-03-21,Klippgatan 16C,CentralaSolna,BlaSolna,4,96.5,null,Lägenhet,1965,[Solna Centrum],3195000,105000,3300000,4245,Fastighetsbyrån,357.79523996148424,Solna centrum
+2013-03-20,Nybodagatan 5,CentralaSolna,BlaSolna,3,77,10,Lägenhet,1957,[Skytteholm],2695000,0,2695000,3447,Svensk Fastighetsförmedling,473.0984834587351,Solna centrum
+2013-03-20,Nybodagatan 7,CentralaSolna,BlaSolna,3,78,null,Lägenhet,1958,[Skytteholm],2425000,75000,2500000,3770,Fastighetsbyrån,437.96111529353294,Solna centrum
+2013-03-15,Nybodagatan 5,CentralaSolna,BlaSolna,2,55.4,null,Lägenhet,1957,[Skytteholm],1895000,5000,1900000,2700,Fastighetsbyrån,473.0984834587351,Solna centrum
+2013-03-15,Sagagatan 15,CentralaSolna,BlaSolna,2,55,2,Lägenhet,1952,[Solna Centrum],2095000,225000,2320000,2935,Svenska Mäklarhuset,224.1426311907528,Solna centrum
+2013-03-13,Klippgatan 2,CentralaSolna,BlaSolna,2,40,1,Lägenhet,1946,[Solna Centrum],1735000,0,1735000,1655,Notar,470.5880935149979,Solna centrum
+2013-03-12,Ankdammsgatan 40,CentralaSolna,BlaSolna,5,119.3,11,Lägenhet,1958,[Skytteholm],4595000,-195000,4400000,3958,HusmanHagberg,570.1324976749531,Solna centrum
+2013-03-08,Ankdammsgatan 40,CentralaSolna,BlaSolna,4,94.3,5,Lägenhet,null,[Skytteholm],2795000,-75000,2720000,3070,Mäklarhuset,570.1324976749531,Solna centrum
+2013-03-06,Centralvägen 21,CentralaSolna,BlaSolna,2,62,null,Lägenhet,1952,[Solna Centrum],2350000,50000,2400000,2065,Notar,96.17733067112215,Solna centrum
+2013-02-21,Centrumslingan 51,CentralaSolna,BlaSolna,3,78.4,5,Lägenhet,1991,[Solna Centrum],2595000,135000,2730000,3988,Svensk Fastighetsförmedling,135.06351956964346,Solna centrum
+2013-02-19,Nybodagatan 12,CentralaSolna,BlaSolna,2,62,4,Lägenhet,null,[Skytteholm],1795000,0,1795000,3261,Erik Olsson Fastighetsförmedling,430.4424995153574,Solna centrum
+2013-02-19,Nybodagatan 2,CentralaSolna,BlaSolna,2,60,1,Lägenhet,1960,[Skytteholm],1095000,305000,1400000,2985,Edward & Partners Fastighetsmäklare AB,511.3203756648936,Solna centrum
+2013-02-08,Hannebergsgatan 30,CentralaSolna,BlaSolna,2,50,null,Lägenhet,2003,[Solna Centrum],2149000,151000,2300000,3232,Notar,142.87174890363278,Solna centrum
+2013-02-07,Centralvägen 5,CentralaSolna,BlaSolna,3.5,86,3,Lägenhet,1952,[Solna Centrum],3295000,-145000,3150000,3094,Notar,193.0774139379797,Solna centrum
+2013-02-06,Nybodagatan 16,CentralaSolna,BlaSolna,5,151,4,Lägenhet,null,[Skytteholm],4975000,-25000,4950000,5383,Bostadsrättsspecialisten,378.6859157520134,Solna centrum
+2013-02-01,Huvudstagatan 1,CentralaSolna,BlaSolna,1,41,null,Lägenhet,2002,[Solna Centrum],1495000,155000,1650000,2470,Bjurfors,73.55846590048706,Solna centrum
+2013-01-29,Klippgatan 24A,CentralaSolna,BlaSolna,2,57,null,Lägenhet,1965,[Solna Centrum],2095000,0,2095000,1751,Länsförsäkringar Fastighetsförmedling,346.09253661961145,Solna centrum
+2013-01-24,Ankdammsgatan 24A,CentralaSolna,BlaSolna,3,74.5,3,Lägenhet,1962,[Solna Centrum],2595000,75000,2670000,2451,Svensk Fastighetsförmedling,440.79756513784713,Solna centrum
+2013-01-24,Ankdammsgatan 36,CentralaSolna,BlaSolna,2,57.2,5,Lägenhet,1959,[Skytteholm],1950000,0,1950000,2632,Länsförsäkringar Fastighetsförmedling,622.11108686786,Solna centrum
+2013-01-23,Hannebergsgatan 32,CentralaSolna,BlaSolna,3,88,null,Lägenhet,2003,[Solna Centrum],3095000,270000,3365000,4821,Notar,142.89373018208408,Solna centrum
+2013-01-18,Klippgatan 16C,CentralaSolna,BlaSolna,4,96.5,6,Lägenhet,1966,[Solna Centrum],3195000,155000,3350000,4425,Länsförsäkringar Fastighetsförmedling,357.79523996148424,Solna centrum
+2013-01-17,Ankdammsgatan 40,CentralaSolna,BlaSolna,2,58.6,11,Lägenhet,1958,[Skytteholm],1975000,10000,1985000,2215,HusmanHagberg,570.1324976749531,Solna centrum
+2013-01-17,Ankdammsgatan 26,CentralaSolna,BlaSolna,5,105.9,null,Lägenhet,1959,[Skytteholm],2850000,0,2850000,5269,Svenska Mäklarhuset,478.4747746195364,Solna centrum
+2013-01-12,Nybodagatan 4,CentralaSolna,BlaSolna,2,62.5,null,Lägenhet,1960,[Skytteholm],1750000,0,1750000,3110,Notar,488.20547382092997,Solna centrum
+2013-01-11,Klippgatan 20C,CentralaSolna,BlaSolna,4,96.5,null,Lägenhet,1965,[Solna Centrum],3195000,140000,3335000,4142,Svenska Mäklarhuset,330.0134954118392,Solna centrum
+2013-01-09,Ankdammsgatan 8,CentralaSolna,BlaSolna,3,81,4,Lägenhet,1978,[Skytteholm],2450000,0,2450000,3612,Länsförsäkringar Fastighetsförmedling,272.74826244889334,Solna centrum
+2012-12-19,Klippgatan 16B,CentralaSolna,BlaSolna,3,75.5,2,Lägenhet,null,[Solna Centrum],2350000,-10000,2340000,3521,One Fastighetsmäkleri,380.9756512358881,Solna centrum
+2012-12-19,Skytteholmsvägen 20,CentralaSolna,BlaSolna,4,96,null,Lägenhet,1950,[Solna Centrum],3195000,-115000,3080000,4688,Notar,169.73472419494146,Solna centrum
+2012-12-14,Klippgatan 24,CentralaSolna,BlaSolna,1.5,46,2,Lägenhet,1965,[Solna Centrum],1650000,30000,1680000,1413,Notar,364.69135864054505,Solna centrum
+2012-12-12,Nybodagatan 14,CentralaSolna,BlaSolna,2,54,null,Lägenhet,1958,[Skytteholm],1500000,255000,1755000,2154,Fastighetsbyrån,395.73355917487095,Solna centrum
+2012-12-11,Klippgatan 20C,CentralaSolna,BlaSolna,2,56,null,Lägenhet,1965,[Solna Centrum],1545000,165000,1710000,2518,Pelle Lundberg Fastighetsmäklare AB,330.0134954118392,Solna centrum
+2012-12-07,Centralvägen 11,CentralaSolna,BlaSolna,2,59,null,Lägenhet,1952,[Solna Centrum],2395000,5000,2400000,2122,Notar,174.81324447843753,Solna centrum
+2012-12-06,Klippgatan 20C,CentralaSolna,BlaSolna,4,96.5,5,Lägenhet,null,[Solna Centrum],2750000,0,2750000,4156,Länsförsäkringar Fastighetsförmedling,330.0134954118392,Solna centrum
+2012-11-30,Nybodagatan 5,CentralaSolna,BlaSolna,5.5,110.7,null,Lägenhet,1957,[Skytteholm],3300000,220000,3520000,4306,SkandiaMäklarna,473.0984834587351,Solna centrum
+2012-11-30,Ankdammsgatan 40,CentralaSolna,BlaSolna,4,94.3,null,Lägenhet,1958,[Solna Centrum],2995000,-145000,2850000,3070,Mäklarringen,570.1324976749531,Solna centrum
+2012-11-30,Hannebergsgatan 28,CentralaSolna,BlaSolna,2,48,null,Lägenhet,2004,[Solna Centrum],1920000,20000,1940000,3134,Notar,162.30948320360977,Solna centrum
+2012-11-28,Centralvägen 9,CentralaSolna,BlaSolna,2,65,null,Lägenhet,1952,[Solna Centrum],1995000,-65000,1930000,2338,Notar,196.05365714999084,Solna centrum
+2012-11-28,Hannebergsgatan 28,CentralaSolna,BlaSolna,1.5,34,null,Lägenhet,2004,[Solna Centrum],1495000,15000,1510000,2444,Fastighetsbyrån,162.30948320360977,Solna centrum
+2012-11-27,Nybodagatan 5,CentralaSolna,BlaSolna,2,55.4,9,Lägenhet,null,[Skytteholm],1895000,60000,1955000,2690,Erik Olsson Fastighetsförmedling,473.0984834587351,Solna centrum
+2012-11-22,Ankdammsgatan 24A,CentralaSolna,BlaSolna,2,59,null,Lägenhet,1962,[Skytteholm],1750000,300000,2050000,1908,Notar,440.79756513784713,Solna centrum
+2012-11-21,Ankdammsgatan 26,CentralaSolna,BlaSolna,2,57.5,4,Lägenhet,1960,[Skytteholm],1495000,135000,1630000,2861,Länsförsäkringar Fastighetsförmedling,478.4747746195364,Solna centrum
+2012-11-21,Klippgatan 12A,CentralaSolna,BlaSolna,1,46,6,Lägenhet,1965,[Solna Centrum],1295000,265000,1560000,1725,Länsförsäkringar Fastighetsförmedling,439.4092530058252,Solna centrum
+2012-11-20,Sagagatan 13,CentralaSolna,BlaSolna,5,113,null,Lägenhet,1952,[Solna Centrum],3225000,0,3225000,5761,Länsförsäkringar Fastighetsförmedling,220.781020123381,Solna centrum
+2012-11-17,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,1,42,4,Lägenhet,1965,[Solna Centrum],1495000,0,1495000,2087,Länsförsäkringar Fastighetsförmedling,343.8686027001269,Solna centrum
+2012-11-16,Klippgatan 8B,CentralaSolna,BlaSolna,3,75.5,6,Lägenhet,null,[Solna Centrum],2495000,35000,2530000,2621,One Fastighetsmäkleri,501.4092205524532,Solna centrum
+2012-11-14,Hannebergsgatan 30,CentralaSolna,BlaSolna,3,88,null,Lägenhet,2003,[Solna Centrum],3295000,100000,3395000,4821,Notar,142.87174890363278,Solna centrum
+2012-11-09,Nybodagatan 3,CentralaSolna,BlaSolna,3.5,78.5,7,Lägenhet,1957,[Skytteholm],2250000,-10000,2240000,2813,Länsförsäkringar Fastighetsförmedling,510.88651639143876,Solna centrum
+2012-11-03,Klippgatan 24A,CentralaSolna,BlaSolna,3,76.5,8,Lägenhet,1965,[Solna Centrum],2975000,25000,3000000,2350,Länsförsäkringar Fastighetsförmedling,346.09253661961145,Solna centrum
+2012-10-26,Klippgatan 24A,CentralaSolna,BlaSolna,4,96.5,3,Lägenhet,1965,[Huvudsta/Skytteholm],3150000,400000,3550000,2964,Länsförsäkringar Fastighetsförmedling,346.09253661961145,Solna centrum
+2012-10-25,Centrumslingan 51,CentralaSolna,BlaSolna,2,59,8,Lägenhet,1991,[Solna Centrum],1895000,305000,2200000,2991,Svenska Mäklarhuset,135.06351956964346,Solna centrum
+2012-10-24,Centralvägen 3,CentralaSolna,BlaSolna,2.5,60,4,Lägenhet,1952,[Solna Centrum],2495000,0,2495000,2158,Notar,271.16401059722114,Solna centrum
+2012-10-20,Skytteholmsvägen 5B,CentralaSolna,BlaSolna,1,42,7,Lägenhet,1965,[Solna Centrum],1550000,100000,1650000,2087,Svenska Mäklarhuset,306.9486565559879,Solna centrum
+2012-10-19,Centrumslingan 47,CentralaSolna,BlaSolna,5,163,null,Lägenhet,1991,[Huvudsta/Skytteholm],2995000,305000,3300000,8306,Fastighetsbyrån,179.89111561032223,Solna centrum
+2012-10-18,Hannebergsgatan 16,CentralaSolna,BlaSolna,3,75,null,Lägenhet,null,[Solna Centrum],2950000,-150000,2800000,3734,One Fastighetsmäkleri,363.88586029181164,Solna centrum
+2012-10-17,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,4,102,null,Lägenhet,1965,[Skytteholm],2800000,-200000,2600000,5068,SkandiaMäklarna,343.8686027001269,Solna centrum
+2012-10-14,Klippgatan 16C,CentralaSolna,BlaSolna,4,96.5,6,Lägenhet,1965,[Solna Centrum],2650000,60000,2710000,4245,Notar,357.79523996148424,Solna centrum
+2012-10-09,Huvudstagatan 1,CentralaSolna,BlaSolna,2,67,null,Lägenhet,2002,[Huvudsta/Skytteholm],2295000,0,2295000,3340,Notar,73.55846590048706,Solna centrum
+2012-10-09,Skytteholmsvägen 5A,CentralaSolna,BlaSolna,2,60,5,Lägenhet,1965,[Solna Centrum],1795000,5000,1800000,2981,Svensk Fastighetsförmedling,343.8686027001269,Solna centrum
+2012-10-07,Nybodagatan 3,CentralaSolna,BlaSolna,2,53.5,4,Lägenhet,1957,[Skytteholm],1795000,115000,1910000,2035,SkandiaMäklarna,510.88651639143876,Solna centrum
+2012-10-01,Huvudstagatan 1,CentralaSolna,BlaSolna,2,53,null,Lägenhet,2002,[Fristaden],2750000,0,2750000,2817,Notar,73.55846590048706,Solna centrum
+2012-09-24,Centralvägen 19,CentralaSolna,BlaSolna,3,85,null,Lägenhet,1952,[Huvudsta/Skytteholm],3095000,-115000,2980000,2793,Mäklarhuset,121.599542671056,Solna centrum
+2012-09-11,Klippgatan 24,CentralaSolna,BlaSolna,1,46,4,Lägenhet,1965,[Skytteholm],1630000,90000,1720000,1413,SkandiaMäklarna,364.69135864054505,Solna centrum

@@ -1,0 +1,852 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-21,Samaritgränd 3,Zinkensdamm,Sodermalm,2,42,0,Lägenhet,1929,[Södermalm],3250000,575000,3825000,2300,Erik Olsson Fastighetsförmedling,320.0002401237804,Zinkensdamm
+2016-06-21,Heleneborgsgatan 8A,Zinkensdamm,Sodermalm,2,60,2,Lägenhet,1925,[Södermalm],3975000,875000,4850000,2796,Erik Olsson Fastighetsförmedling,476.7565885830824,Zinkensdamm
+2016-06-18,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,2,55,3,Lägenhet,1933,[Södermalm],3600000,500000,4100000,3057,SkandiaMäklarna,75.49940643477724,Zinkensdamm
+2016-06-18,Brännkyrkagatan 90,Zinkensdamm,Sodermalm,3,76,3,Lägenhet,1933,[Södermalm],5490000,510000,6000000,4096,Per Jansson Fastighetsförmedling,91.01468928114012,Zinkensdamm
+2016-06-18,Wollmar Yxkullsgatan 48A,Zinkensdamm,Sodermalm,1,31,0.5,Lägenhet,1928,[Södermalm Högalid],2195000,605000,2800000,1608,Bjurfors,297.90657998653796,Zinkensdamm
+2016-06-17,Skinnarviksringen 20,Zinkensdamm,Sodermalm,2,50,4,Lägenhet,1936,[Södermalm Högalid],3595000,0,3595000,3730,Bjurfors,356.4416074852787,Zinkensdamm
+2016-06-17,Lundagatan 48B,Zinkensdamm,Sodermalm,2,28,null,Lägenhet,1937,[Söder Högalid],2295000,505000,2800000,1503,Berggren & Co Fastighetsmäkleri,430.56838128339484,Zinkensdamm
+2016-06-16,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,1,27,3,Lägenhet,1930,[Södermalm],1995000,795000,2790000,1621,Fastighetsbyrån,323.5170617787885,Zinkensdamm
+2016-06-16,Krukmakargatan 62,Zinkensdamm,Sodermalm,2,39,2,Lägenhet,1942,[Södermalm Högalid],2495000,605000,3100000,2499,HusmanHagberg,353.94831930642596,Zinkensdamm
+2016-06-14,Wollmar Yxkullsgatan 52B,Zinkensdamm,Sodermalm,1,37,2,Lägenhet,1935,[Högalid],2795000,470000,3265000,2170,Fastighetsbyrån,255.66342054297158,Zinkensdamm
+2016-06-13,Rosenlundsgatan 28B,Zinkensdamm,Sodermalm,3,101,1,Lägenhet,1906,[Södermalm],7850000,100000,7950000,3173,Mäklarhuset,407.8939860907092,Zinkensdamm
+2016-06-10,Maria Skolgata 77A,Zinkensdamm,Sodermalm,2,50,3,Lägenhet,2015,[Södermalm Maria Magdalena],3990000,10000,4000000,3057,HusmanHagberg,440.9456840384787,Zinkensdamm
+2016-06-10,Wollmar Yxkullsgatan 29,Zinkensdamm,Sodermalm,3.5,82,4,Lägenhet,1906,[Södermalm],6995000,255000,7250000,2512,Erik Olsson Fastighetsförmedling,388.76527321996844,Zinkensdamm
+2016-06-09,Krukmakargatan 27,Zinkensdamm,Sodermalm,1.5,49,4,Lägenhet,1930,[Södermalm Högalid],4200000,-705000,3495000,2405,HusmanHagberg,282.28206675922087,Zinkensdamm
+2016-06-07,Brännkyrkagatan 93,Zinkensdamm,Sodermalm,2,54,6,Lägenhet,1910,[Södermalm],6000000,-390000,5610000,2250,Fantastic Frank Fastighetsmäkleri,36.1475113919179,Zinkensdamm
+2016-06-05,Krukmakargatan 58,Zinkensdamm,Sodermalm,3,66,3,Lägenhet,1989,[Södermalm Högalid],4200000,-175000,4025000,3822,HusmanHagberg,305.79915829805964,Zinkensdamm
+2016-06-03,Lundagatan 36F,Zinkensdamm,Sodermalm,2.5,56,2,Lägenhet,1931,[Södermalm],4695000,780000,5475000,2782,ERA,312.41966294712455,Zinkensdamm
+2016-06-03,Krukmakargatan 26,Zinkensdamm,Sodermalm,3,85,5,Lägenhet,1964,[Södermalm],5495000,1355000,6850000,4524,Länsförsäkringar Fastighetsförmedling,260.5645280276044,Zinkensdamm
+2016-06-02,Lundagatan 36B,Zinkensdamm,Sodermalm,1,25,2,Lägenhet,1930,[Södermalm-Högalid],1995000,615000,2610000,1374,Innerstadsspecialisten AB,255.1775825458512,Zinkensdamm
+2016-05-31,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,31,2,Lägenhet,1927,[Södermalm Maria Magdalena],2475000,345000,2820000,1748,HusmanHagberg,370.58001856113816,Zinkensdamm
+2016-05-29,Samaritgränd 9,Zinkensdamm,Sodermalm,2.5,63.5,1,Lägenhet,null,[Södermalm],4550000,750000,5300000,3531,BOSTHLM,263.2705333792517,Zinkensdamm
+2016-05-28,Samaritgränd 1,Zinkensdamm,Sodermalm,1,25,2,Lägenhet,1929,[Högalid],1995000,595000,2590000,922,Svensk Fastighetsförmedling,336.29492462735675,Zinkensdamm
+2016-05-26,Samaritgränd 3,Zinkensdamm,Sodermalm,3.5,75,4,Lägenhet,1929,[Södermalm],5995000,1105000,7100000,4106,Erik Olsson Fastighetsförmedling,320.0002401237804,Zinkensdamm
+2016-05-26,Krukmakargatan 67,Zinkensdamm,Sodermalm,2,44,1,Lägenhet,1942,[Södermalm Högalid],3295000,705000,4000000,2854,HusmanHagberg,391.52901546628755,Zinkensdamm
+2016-05-26,Wollmar Yxkullsgatan 48A,Zinkensdamm,Sodermalm,1.5,38.5,2,Lägenhet,1927,[Högalid],2750000,550000,3300000,2126,Fastighetsbyrån,297.90657998653796,Zinkensdamm
+2016-05-26,Brännkyrkagatan 80F,Zinkensdamm,Sodermalm,3,74,2,Lägenhet,1983,[Högalid],4995000,1055000,6050000,2471,Fastighetsbyrån,67.43455832105002,Zinkensdamm
+2016-05-25,Hornsgatan 90,Zinkensdamm,Sodermalm,4,105,6,Lägenhet,1928,[Högalid],9450000,1650000,11100000,4375,Fastighetsbyrån,172.5241095251185,Zinkensdamm
+2016-05-23,Lundagatan 40A,Zinkensdamm,Sodermalm,2,38,4,Lägenhet,1939,[Södermalm Högalid],2695000,325000,3020000,1954,Bjurfors,283.39437270011183,Zinkensdamm
+2016-05-21,Lundagatan 42B,Zinkensdamm,Sodermalm,1.5,41,1,Lägenhet,1930,[Södermalm Högalid Hornstull],2850000,200000,3050000,1979,HusmanHagberg,263.6820038435634,Zinkensdamm
+2016-05-19,Skinnarviksringen 5,Zinkensdamm,Sodermalm,4,96,0,Lägenhet,1929,[Södermalm-Högalid],7900000,1700000,9600000,2920,Södermäklarna,250.61760894544005,Zinkensdamm
+2016-05-19,Krukmakarbacken 4B,Zinkensdamm,Sodermalm,5,112,6,Lägenhet,null,[Södermalm],6950000,1270000,8220000,3875,BOSTHLM,239.48703389827733,Zinkensdamm
+2016-05-19,Hornsgatan 77,Zinkensdamm,Sodermalm,3,87,3,Lägenhet,null,[Södermalm],6695000,705000,7400000,3891,Fastighetsmäklarna,98.80279298866444,Zinkensdamm
+2016-05-19,Krukmakargatan 60,Zinkensdamm,Sodermalm,4,88,4,Lägenhet,1989,[Södermalm Zinkensdamm],5995000,1330000,7325000,4900,HusmanHagberg,333.7783403620088,Zinkensdamm
+2016-05-19,Hornsgatan 107,Zinkensdamm,Sodermalm,1.5,33,1,Lägenhet,1967,[Högalid],1995000,625000,2620000,1444,Fastighetsbyrån,432.19390922246805,Hornstull
+2016-05-18,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,36,2,Lägenhet,1932,[Södermalm Maria Magdalena],2695000,405000,3100000,2032,HusmanHagberg,305.4402930279476,Zinkensdamm
+2016-05-17,Krukmakargatan 33A,Zinkensdamm,Sodermalm,3.5,77,4,Lägenhet,null,[Södermalm],5195000,255000,5450000,2689,Svensk Fastighetsförmedling,219.91342480407343,Zinkensdamm
+2016-05-16,Lundagatan 36B,Zinkensdamm,Sodermalm,1,25,2,Lägenhet,1930,[Södermalm Högalid Hornstull],2195000,405000,2600000,1391,HusmanHagberg,255.1775825458512,Zinkensdamm
+2016-05-14,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,2,59,2,Lägenhet,1964,[Södermalm],4250000,0,4250000,3141,Länsförsäkringar Fastighetsförmedling,288.0787714678536,Zinkensdamm
+2016-05-14,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,1.5,41,0.5,Lägenhet,1942,[Södermalm Högalid],2690000,0,2690000,2324,HusmanHagberg,128.25045094511074,Zinkensdamm
+2016-05-12,Rosenlundsgatan 24,Zinkensdamm,Sodermalm,1,20,2,Lägenhet,1928,[Södermalm],1895000,265000,2160000,1096,Erik Olsson Fastighetsförmedling,357.8558054997864,Zinkensdamm
+2016-05-11,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,1,37,1,Lägenhet,1969,[Södermalm],2350000,275000,2625000,1619,SkandiaMäklarna,453.145596108398,Hornstull
+2016-05-11,Pålsundsparken 12,Zinkensdamm,Sodermalm,3.5,68,null,Lägenhet,1913,[Högalid],5500000,600000,6100000,3080,Fastighetsbyrån,543.5734559470101,Hornstull
+2016-05-04,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,25,2,Lägenhet,1941,[Högalid],1995000,480000,2475000,1578,Fastighetsbyrån,463.23818207195086,Zinkensdamm
+2016-05-04,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,23,2,Lägenhet,1884,[Södermalm],1990000,560000,2550000,1881,Fantastic Frank Fastighetsmäkleri,137.0638747703233,Zinkensdamm
+2016-05-04,Wollmar Yxkullsgatan 52B,Zinkensdamm,Sodermalm,2,39,2,Lägenhet,1935,[Södermalm],2795000,905000,3700000,2171,Svensk Fastighetsförmedling,255.66342054297158,Zinkensdamm
+2016-05-04,Zinkens väg 69,Zinkensdamm,Sodermalm,4,93,4,Lägenhet,1988,[Södermalm],5895000,1625000,7520000,4972,Svensk Fastighetsförmedling,327.4393961421541,Zinkensdamm
+2016-04-29,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,4,85,3,Lägenhet,1967,[Södermalm],4795000,325000,5120000,3719,SkandiaMäklarna,453.145596108398,Hornstull
+2016-04-29,Lundagatan 48A,Zinkensdamm,Sodermalm,2,28,2,Lägenhet,1932,[Södermalm],2450000,400000,2850000,1591,Södermäklarna,399.21780091460164,Zinkensdamm
+2016-04-29,Krukmakargatan 27,Zinkensdamm,Sodermalm,2,53,1,Lägenhet,1930,[Södermalm Högalid],3995000,255000,4250000,2441,HusmanHagberg,282.28206675922087,Zinkensdamm
+2016-04-28,Heleneborgsgatan 6A,Zinkensdamm,Sodermalm,2,51,5,Lägenhet,1924,[Södermalm],4100000,800000,4900000,2970,Fantastic Frank Fastighetsmäkleri,467.85925945477874,Zinkensdamm
+2016-04-28,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,24,null,Lägenhet,1884,[Södermalm Högalid],1990000,470000,2460000,2177,Bjurfors,137.0638747703233,Zinkensdamm
+2016-04-28,Ringvägen 9A,Zinkensdamm,Sodermalm,4,84,1,Lägenhet,1981,[Högalid],5950000,1150000,7100000,2685,Fastighetsbyrån,122.74062626874836,Zinkensdamm
+2016-04-28,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,37,3,Lägenhet,1884,[Södermalm Högalid],2475000,475000,2950000,2930,HusmanHagberg,137.0638747703233,Zinkensdamm
+2016-04-27,Lundagatan 44C,Zinkensdamm,Sodermalm,2.5,53,1,Lägenhet,null,[Södermalm],3495000,80000,3575000,2495,Svenska Mäklarhuset,372.33826706848936,Zinkensdamm
+2016-04-26,Lundagatan 44A,Zinkensdamm,Sodermalm,2,47,2,Lägenhet,1930,[Södermalm],3250000,670000,3920000,2341,Erik Olsson Fastighetsförmedling,347.28878808287726,Zinkensdamm
+2016-04-22,Hornsgatan 94,Zinkensdamm,Sodermalm,2,55,4,Lägenhet,1943,[Södermalm-Högalid],3750000,510000,4260000,2863,Södermäklarna,127.00600427338945,Zinkensdamm
+2016-04-22,Brännkyrkagatan 95B,Zinkensdamm,Sodermalm,1,38,5,Lägenhet,1909,[Södermalm Högalid],2850000,0,2850000,2056,Bjurfors,62.11698175066442,Zinkensdamm
+2016-04-22,Krukmakargatan 59,Zinkensdamm,Sodermalm,2,48,1,Lägenhet,1942,[Södermalm],3250000,1250000,4500000,3100,Mäklarringen,332.9456407994397,Zinkensdamm
+2016-04-22,Samaritgränd 3,Zinkensdamm,Sodermalm,3.5,75,1.5,Lägenhet,1929,[Södermalm],5995000,855000,6850000,4106,Erik Olsson Fastighetsförmedling,320.0002401237804,Zinkensdamm
+2016-04-22,Wollmar Yxkullsgatan 48C,Zinkensdamm,Sodermalm,1,29.5,2,Lägenhet,1928,[Södermalm Högalid],2350000,670000,3020000,1666,Bjurfors,266.24436093447775,Zinkensdamm
+2016-04-22,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,45,3,Lägenhet,1932,[Södermalm],3375000,475000,3850000,2479,Erik Olsson Fastighetsförmedling,305.4402930279476,Zinkensdamm
+2016-04-21,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,2,31,2,Lägenhet,1935,[Södermalm],2295000,905000,3200000,1951,Svensk Fastighetsförmedling,270.50080349894375,Zinkensdamm
+2016-04-21,Lundagatan 40B,Zinkensdamm,Sodermalm,2,41.5,4,Lägenhet,1930,[Hornstull],2995000,455000,3450000,2105,Fastighetsbyrån,293.8782697881175,Zinkensdamm
+2016-04-21,Lundagatan 50,Zinkensdamm,Sodermalm,1.5,39,1.5,Lägenhet,1932,[Södermalm],2995000,605000,3600000,2050,Södermäklarna,419.9094431523744,Zinkensdamm
+2016-04-19,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,25,3,Lägenhet,1928,[Högalid],1995000,655000,2650000,1608,Svensk Fastighetsförmedling,296.22812010846377,Zinkensdamm
+2016-04-19,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,26,3,Lägenhet,1941,[Högalid],2150000,700000,2850000,1743,Svensk Fastighetsförmedling,463.23818207195086,Zinkensdamm
+2016-04-19,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,2,45,0,Lägenhet,1945,[Södermalm-Högalid],2995000,580000,3575000,3375,Södermäklarna,325.4329619130417,Zinkensdamm
+2016-04-18,Hornsgatan 63,Zinkensdamm,Sodermalm,5,121,1,Lägenhet,1910,[Södermalm],9495000,-495000,9000000,3692,Svensk Fastighetsförmedling,220.64850113205296,Zinkensdamm
+2016-04-16,Krukmakargatan 65,Zinkensdamm,Sodermalm,1,34,-1,Lägenhet,1942,[Södermalm Högalid],2325000,425000,2750000,2334,HusmanHagberg,382.5131097213914,Zinkensdamm
+2016-04-15,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,1,32,4,Lägenhet,1932,[Södermalm],2495000,-95000,2400000,1834,Fastighetsbyrån,305.4402930279476,Zinkensdamm
+2016-04-15,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,45,2,Lägenhet,1932,[Södermalm],3375000,275000,3650000,2479,Berggren Hörle,305.4402930279476,Zinkensdamm
+2016-04-15,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,2,39,1,Lägenhet,1935,[Södermalm],2950000,350000,3300000,2171,Erik Olsson Fastighetsförmedling,270.50080349894375,Zinkensdamm
+2016-04-13,Zinkens väg 53,Zinkensdamm,Sodermalm,2,66,null,Lägenhet,1988,[Högalid],4295000,755000,5050000,3971,Svensk Fastighetsförmedling,360.7454374669546,Zinkensdamm
+2016-04-13,Heleneborgsgatan 12A,Zinkensdamm,Sodermalm,3.5,100,2.5,Lägenhet,1924,[Södermalm Högalid],7395000,2605000,10000000,3527,Bjurfors,565.8864256827914,Hornstull
+2016-04-08,Lundagatan 36E,Zinkensdamm,Sodermalm,2,39,2,Lägenhet,1932,[Södermalm],2850000,400000,3250000,1997,Mäklarhuset,283.76731338331825,Zinkensdamm
+2016-04-08,Ringvägen,Zinkensdamm,Sodermalm,3,74,null,Lägenhet,1983,[Södermalm Högalid],5450000,750000,6200000,2447,Bjurfors,68.61692050756017,Zinkensdamm
+2016-04-08,Krukmakargatan 63,Zinkensdamm,Sodermalm,2,48,2,Lägenhet,1942,[Högalid],3450000,970000,4420000,3100,Fastighetsbyrån,361.4804127761859,Zinkensdamm
+2016-04-08,Lundagatan 40A,Zinkensdamm,Sodermalm,2,53,2,Lägenhet,1930,[Högalid],3850000,870000,4720000,2613,Södermäklarna,283.39437270011183,Zinkensdamm
+2016-04-07,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,2,46,5,Lägenhet,1930,[Börja],3250000,800000,4050000,2363,Svensk Fastighetsförmedling,323.5170617787885,Zinkensdamm
+2016-04-06,Zinkens väg 59,Zinkensdamm,Sodermalm,3,63,2,Lägenhet,null,[Södermalm],4295000,1125000,5420000,3648,Svenska Mäklarhuset,344.136915096023,Zinkensdamm
+2016-04-06,Samaritgränd 1,Zinkensdamm,Sodermalm,3,92,3,Lägenhet,1928,[Mariatorget],6495000,2255000,8750000,3324,Fastighetsbyrån,336.29492462735675,Zinkensdamm
+2016-04-04,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,25,3,Lägenhet,1884,[Södermalm],1995000,505000,2500000,2474,ERA,137.0638747703233,Zinkensdamm
+2016-04-01,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1,20,null,Lägenhet,1935,[Högalid],1795000,560000,2355000,1468,Svensk Fastighetsförmedling,124.2941811776174,Zinkensdamm
+2016-04-01,Heleneborgsgatan 12A,Zinkensdamm,Sodermalm,3,79,4,Lägenhet,1923,[Södermalm-Högalid],5950000,1560000,7510000,2645,Södermäklarna,565.8864256827914,Hornstull
+2016-03-24,Lundagatan 44B,Zinkensdamm,Sodermalm,2.5,47,1,Lägenhet,1930,[Södermalm],3375000,0,3375000,2268,Mäklarhuset,356.5734682201418,Zinkensdamm
+2016-03-22,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,2,48,1,Lägenhet,1967,[Södermalm],2995000,455000,3450000,2100,Mäklarringen,453.145596108398,Hornstull
+2016-03-19,Wollmar Yxkullsgatan 48B,Zinkensdamm,Sodermalm,1,40,4,Lägenhet,1928,[Södermalm Högalid],2995000,305000,3300000,2283,Bjurfors,288.38781474961354,Zinkensdamm
+2016-03-19,Hornsgatan 94,Zinkensdamm,Sodermalm,2,55,3,Lägenhet,1943,[Södermalm-Maria Magdalena],3845000,730000,4575000,2995,Södermäklarna,127.00600427338945,Zinkensdamm
+2016-03-19,Lundagatan 48B,Zinkensdamm,Sodermalm,1,27,2,Lägenhet,1936,[Högalid],1995000,955000,2950000,1553,Södermäklarna,430.56838128339484,Zinkensdamm
+2016-03-18,Drakenbergsgatan 4,Zinkensdamm,Sodermalm,2,64,8,Lägenhet,1967,[Högalid],3495000,1230000,4725000,2800,Fastighetsbyrån,471.31973232000144,Zinkensdamm
+2016-03-17,Lundagatan 41,Zinkensdamm,Sodermalm,1,38.5,3,Lägenhet,1905,[Högalid],2795000,0,2795000,2762,Svensk Fastighetsförmedling,222.43377031944152,Zinkensdamm
+2016-03-17,Drakenbergsgatan 6,Zinkensdamm,Sodermalm,2,64,2,Lägenhet,1967,[Södermalm Högalid],3995000,305000,4300000,2800,Bjurfors,472.1206546682025,Zinkensdamm
+2016-03-12,Maria Skolgata 77B,Zinkensdamm,Sodermalm,3,86,3,Lägenhet,2015,[Södermalm Högalid],6790000,-140000,6650000,4376,Bjurfors,416.26541007919235,Zinkensdamm
+2016-03-08,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,37,3,Lägenhet,1884,[Högalid],2495000,385000,2880000,2930,Fastighetsbyrån,137.0638747703233,Zinkensdamm
+2016-03-04,Ludvigsbergsgatan 37,Zinkensdamm,Sodermalm,3,81,5,Lägenhet,1963,[Södermalm Högalid],7695000,1005000,8700000,2240,HusmanHagberg,215.60909651037272,Zinkensdamm
+2016-03-04,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,1,35,1,Lägenhet,1942,[Södermalm Såld],2550000,550000,3100000,2058,Vision Fastighetsmäkleri AB,128.25045094511074,Zinkensdamm
+2016-03-03,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,61,2,Lägenhet,1929,[Södermalm Högalid],4490000,635000,5125000,2674,HusmanHagberg,172.02145439387476,Zinkensdamm
+2016-03-03,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,3,70,3,Lägenhet,1931,[Södermalm],5950000,300000,6250000,3718,Wrede,305.4402930279476,Zinkensdamm
+2016-03-02,Lundagatan 36E,Zinkensdamm,Sodermalm,2,37,3,Lägenhet,1930,[Södermalm Högalid],3150000,1450000,4600000,1938,HusmanHagberg,283.76731338331825,Zinkensdamm
+2016-03-02,Lundagatan 48A,Zinkensdamm,Sodermalm,2,28,1,Lägenhet,1937,[Högalid],2295000,730000,3025000,1541,Svensk Fastighetsförmedling,399.21780091460164,Zinkensdamm
+2016-03-02,Lundagatan 36F,Zinkensdamm,Sodermalm,1,22,2.5,Lägenhet,1930,[Södermalm],1995000,605000,2600000,1266,Svensk Fastighetsförmedling,312.41966294712455,Zinkensdamm
+2016-03-02,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,31,3,Lägenhet,1927,[Södermalm],2295000,605000,2900000,1840,Svensk Fastighetsförmedling,370.58001856113816,Zinkensdamm
+2016-02-26,Rosenlundsgatan 24,Zinkensdamm,Sodermalm,1.5,46,3,Lägenhet,1928,[Södermalm-Högalid],2990000,510000,3500000,2574,Södermäklarna,357.8558054997864,Zinkensdamm
+2016-02-26,Krukmakargatan 49,Zinkensdamm,Sodermalm,3,80,6,Lägenhet,null,[Södermalm],5395000,1155000,6550000,4455,Svenska Mäklarhuset,250.48493601702543,Zinkensdamm
+2016-02-26,Lundagatan 38B,Zinkensdamm,Sodermalm,1,33,1,Lägenhet,1930,[Högalid],2350000,760000,3110000,1739,Fastighetsbyrån,267.06666292823326,Zinkensdamm
+2016-02-25,Krukmakargatan 49,Zinkensdamm,Sodermalm,4,73,2,Lägenhet,1988,[Södermalm],5000000,0,5000000,4228,Mäklarhuset,250.48493601702543,Zinkensdamm
+2016-02-25,Lundagatan 38A,Zinkensdamm,Sodermalm,2,41,3,Lägenhet,1930,[Högalid],3000000,510000,3510000,2094,Fastighetsbyrån,244.472090944914,Zinkensdamm
+2016-02-25,Rosenlundsgatan 28B,Zinkensdamm,Sodermalm,2,50,4,Lägenhet,1908,[Södermalm],4175000,545000,4720000,1591,SkandiaMäklarna,407.8939860907092,Zinkensdamm
+2016-02-24,Krukmakargatan 42,Zinkensdamm,Sodermalm,2,81.9,3,Lägenhet,1909,[Södermalm],5900000,0,5900000,2065,Erik Olsson Fastighetsförmedling,123.48200827736015,Zinkensdamm
+2016-02-24,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,2,39,3,Lägenhet,1935,[Södermalm],2975000,835000,3810000,2171,Erik Olsson Fastighetsförmedling,270.50080349894375,Zinkensdamm
+2016-02-23,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,2,39.5,null,Lägenhet,1928,[Södermalm Högalid],2950000,700000,3650000,2028,Bjurfors,296.22812010846377,Zinkensdamm
+2016-02-23,Hornsgatan 84,Zinkensdamm,Sodermalm,4,112,1,Lägenhet,1909,[Södermalm],8495000,505000,9000000,2162,Fastighetsmäklarna,241.60923579113043,Zinkensdamm
+2016-02-19,Hornsgatan 63,Zinkensdamm,Sodermalm,2,64,6,Lägenhet,1909,[Södermalm-Maria],4750000,380000,5130000,1954,Södermäklarna,220.64850113205296,Zinkensdamm
+2016-02-17,Krukmakargatan 24,Zinkensdamm,Sodermalm,2,40,3,Lägenhet,1964,[Södermalm Högalid],2700000,650000,3350000,2129,Bjurfors,281.4418269206465,Zinkensdamm
+2016-02-17,Hornsgatan 90,Zinkensdamm,Sodermalm,1,27,3,Lägenhet,1929,[Södermalm],2125000,635000,2760000,1283,Edward & Partners Fastighetsmäklare AB,172.5241095251185,Zinkensdamm
+2016-02-10,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,26,4,Lägenhet,1941,[Södermalm],2250000,500000,2750000,1743,Fantastic Frank Fastighetsmäkleri,463.23818207195086,Zinkensdamm
+2016-02-10,Lundagatan 44A,Zinkensdamm,Sodermalm,1,29.5,2,Lägenhet,1930,[Högalid],2295000,505000,2800000,1589,Fastighetsbyrån,347.28878808287726,Zinkensdamm
+2016-02-10,Ludvigsbergsgatan 39,Zinkensdamm,Sodermalm,3,81,null,Lägenhet,1963,[Södermalm Högalid],5900000,320000,6220000,2240,HusmanHagberg,200.38576333945312,Zinkensdamm
+2016-02-04,Wollmar Yxkullsgatan 48C,Zinkensdamm,Sodermalm,1.5,40,4,Lägenhet,1927,[Högalid],3100000,1120000,4220000,2334,Svensk Fastighetsförmedling,266.24436093447775,Zinkensdamm
+2016-02-02,Krukmakarbacken 2A,Zinkensdamm,Sodermalm,null,null,null,Lägenhet,1987,[Södermalm],750000,300000,1050000,325,Erik Olsson Fastighetsförmedling,230.96155341232216,Zinkensdamm
+2016-01-29,Varvsgatan 1B,Zinkensdamm,Sodermalm,2,42,null,Lägenhet,1913,[Hornstull],2995000,705000,3700000,2259,BOSTHLM,516.2085922883252,Hornstull
+2016-01-22,Kristinehovsgatan 5B,Zinkensdamm,Sodermalm,2,56,4,Lägenhet,1941,[Södermalm-Högalid],4250000,850000,5100000,3219,Södermäklarna,461.1368205397797,Zinkensdamm
+2016-01-21,Maria Skolgata 77A,Zinkensdamm,Sodermalm,4,118,3,Lägenhet,2015,[Södermalm Högalid],8495000,955000,9450000,5535,Bjurfors,440.9456840384787,Zinkensdamm
+2016-01-21,Lundagatan 40A,Zinkensdamm,Sodermalm,2,38,0.5,Lägenhet,1930,[Högalid],2650000,785000,3435000,1876,Fastighetsbyrån,283.39437270011183,Zinkensdamm
+2016-01-15,Krukmakargatan 31B,Zinkensdamm,Sodermalm,1,34,3,Lägenhet,1930,[Södermalm],2490000,20000,2510000,2210,Fastighetsmäklarna,255.82431133075622,Zinkensdamm
+2016-01-15,Ringvägen 11A,Zinkensdamm,Sodermalm,4,84,2,Lägenhet,1982,[Södermalm],5995000,555000,6550000,2712,Mäklarhuset,82.0833464930955,Zinkensdamm
+2016-01-15,Krukmakargatan 62,Zinkensdamm,Sodermalm,1,22,1,Lägenhet,1942,[Högalid],1950000,260000,2210000,1618,Fastighetsbyrån,353.94831930642596,Zinkensdamm
+2016-01-15,Zinkens väg 47,Zinkensdamm,Sodermalm,3.5,89,null,Lägenhet,1988,[Hornstull],5995000,705000,6700000,5105,Fastighetsbyrån,385.72198309438403,Zinkensdamm
+2016-01-14,Maria Skolgata 77A,Zinkensdamm,Sodermalm,2.5,63,1,Lägenhet,2015,[Södermalm],4195000,5000,4200000,3475,Erik Olsson Fastighetsförmedling,440.9456840384787,Zinkensdamm
+2016-01-14,Krukmakargatan 60,Zinkensdamm,Sodermalm,3,66,4,Lägenhet,null,[Södermalm],4295000,955000,5250000,3822,Svenska Mäklarhuset,333.7783403620088,Zinkensdamm
+2016-01-14,Lundagatan 46,Zinkensdamm,Sodermalm,2,33,2.5,Lägenhet,1931,[Södermalm],2750000,750000,3500000,1787,Erik Olsson Fastighetsförmedling,387.30072148172064,Zinkensdamm
+2015-12-17,Zinkens väg 59,Zinkensdamm,Sodermalm,2,63,5,Lägenhet,null,[Södermalm],3995000,1005000,5000000,3648,Svenska Mäklarhuset,344.136915096023,Zinkensdamm
+2015-12-16,Lundagatan 36A,Zinkensdamm,Sodermalm,2,38,3,Lägenhet,1930,[Högalid],2650000,810000,3460000,1954,Fastighetsbyrån,236.31088168439584,Zinkensdamm
+2015-12-15,Lundagatan 29,Zinkensdamm,Sodermalm,2,48,1,Lägenhet,1894,[Högalid],3695000,625000,4320000,2353,Svensk Fastighetsförmedling,132.90401612309432,Zinkensdamm
+2015-12-14,Krukmakargatan 45,Zinkensdamm,Sodermalm,4,90,1,Lägenhet,1988,[Södermalm],5995000,-95000,5900000,4455,Erik Olsson Fastighetsförmedling,225.11758199277736,Zinkensdamm
+2015-12-11,Drakenbergsgatan 3,Zinkensdamm,Sodermalm,4,92,1,Lägenhet,1967,[Högalid],5450000,1100000,6550000,4025,Fastighetsbyrån,478.3154509078238,Zinkensdamm
+2015-12-10,Lundagatan 36C,Zinkensdamm,Sodermalm,2,48,2,Lägenhet,1930,[Södermalm],3950000,760000,4710000,2400,Länsförsäkringar Fastighetsförmedling,264.27426311790987,Zinkensdamm
+2015-12-10,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,2,39,null,Lägenhet,1928,[Södermalm Högalid],2950000,460000,3410000,2126,Bjurfors,296.22812010846377,Zinkensdamm
+2015-12-09,Krukmakargatan 45,Zinkensdamm,Sodermalm,4,90,2,Lägenhet,null,[Södermalm],5995000,1330000,7325000,4900,Svenska Mäklarhuset,225.11758199277736,Zinkensdamm
+2015-12-06,Hornsgatan 63,Zinkensdamm,Sodermalm,2,48,2.5,Lägenhet,1907,[Södermalm],3750000,715000,4465000,1220,Fastighetsbyrån,220.64850113205296,Zinkensdamm
+2015-12-05,Maria Skolgata 77B,Zinkensdamm,Sodermalm,4,118,3,Lägenhet,2015,[Södermalm],8900000,0,8900000,5535,BOSTHLM,416.26541007919235,Zinkensdamm
+2015-12-04,Lundagatan 36F,Zinkensdamm,Sodermalm,2,56,null,Lägenhet,1930,[Högalid],3895000,915000,4810000,2671,Fastighetsbyrån,312.41966294712455,Zinkensdamm
+2015-12-03,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,1,36,6,Lägenhet,1931,[Södermalm],3500000,930000,4430000,2520,Fantastic Frank Fastighetsmäkleri,305.4402930279476,Zinkensdamm
+2015-12-03,Heleneborgsgatan 8A,Zinkensdamm,Sodermalm,2,59,1,Lägenhet,1925,[Hornstull],3795000,705000,4500000,2667,Fastighetsbyrån,476.7565885830824,Zinkensdamm
+2015-12-02,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,25,null,Lägenhet,1928,[Södermalm],1990000,685000,2675000,1608,SkandiaMäklarna,296.22812010846377,Zinkensdamm
+2015-12-02,Lundagatan 42B,Zinkensdamm,Sodermalm,1,31,0,Lägenhet,1930,[Södermalm],2295000,505000,2800000,1525,Svensk Fastighetsförmedling,263.6820038435634,Zinkensdamm
+2015-12-02,Krukmakarbacken 2,Zinkensdamm,Sodermalm,null,12.1,null,Lägenhet,1987,[Högalid],360000,350000,710000,325,Fastighetsbyrån,230.96155341232216,Zinkensdamm
+2015-12-02,Rosenlundsgatan 24,Zinkensdamm,Sodermalm,2,39,3,Lägenhet,null,[Södermalm],3600000,0,3600000,2137,BOSTHLM,357.8558054997864,Zinkensdamm
+2015-12-02,Krukmakargatan 33A,Zinkensdamm,Sodermalm,3.5,77,3,Lägenhet,1987,[Högalid],4995000,950000,5945000,2721,Fastighetsbyrån,219.91342480407343,Zinkensdamm
+2015-11-30,Zinkens väg 37,Zinkensdamm,Sodermalm,2,63,3,Lägenhet,null,[Södermalm],4295000,685000,4980000,3648,Svenska Mäklarhuset,418.9250151492622,Zinkensdamm
+2015-11-28,Hornsgatan 107,Zinkensdamm,Sodermalm,4,87,5,Lägenhet,1967,[Södermalm-Högalid],4975000,840000,5815000,3806,Södermäklarna,432.19390922246805,Hornstull
+2015-11-26,Brännkyrkagatan 90,Zinkensdamm,Sodermalm,2,56,2,Lägenhet,1929,[Högalid],3895000,345000,4240000,3221,Fastighetsbyrån,91.01468928114012,Zinkensdamm
+2015-11-26,Krukmakargatan 27,Zinkensdamm,Sodermalm,1.5,49,4,Lägenhet,null,[Södermalm],3295000,705000,4000000,2405,Fastighetsmäklarna,282.28206675922087,Zinkensdamm
+2015-11-26,Lundagatan 42A,Zinkensdamm,Sodermalm,2,40.5,1,Lägenhet,1930,[Södermalm],2850000,780000,3630000,1979,Svensk Fastighetsförmedling,316.1294023766264,Zinkensdamm
+2015-11-25,Skinnarviksringen 20,Zinkensdamm,Sodermalm,2,50,4,Lägenhet,1936,[Södermalm Högalid],3495000,655000,4150000,3686,Bjurfors,356.4416074852787,Zinkensdamm
+2015-11-24,Brännkyrkagatan 93,Zinkensdamm,Sodermalm,3,83,5,Lägenhet,1910,[Södermalm],5795000,1855000,7650000,3254,Erik Olsson Fastighetsförmedling,36.1475113919179,Zinkensdamm
+2015-11-23,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,17,null,Lägenhet,1884,[Södermalm],1495000,635000,2130000,1683,ERA,137.0638747703233,Zinkensdamm
+2015-11-21,Rosenlundsgatan 12,Zinkensdamm,Sodermalm,1,15,4.5,Lägenhet,1907,[Södermalm],1650000,750000,2400000,940,Södermäklarna,282.3582744422554,Zinkensdamm
+2015-11-21,Lundagatan 41,Zinkensdamm,Sodermalm,1,50.5,1,Lägenhet,null,[Högalid],2995000,645000,3640000,3152,Svensk Fastighetsförmedling,222.43377031944152,Zinkensdamm
+2015-11-20,Lundagatan 40A,Zinkensdamm,Sodermalm,2,38,3,Lägenhet,1930,[Södermalm Högalid],2695000,825000,3520000,1954,Bjurfors,283.39437270011183,Zinkensdamm
+2015-11-19,Lundagatan 40,Zinkensdamm,Sodermalm,2,41.5,3,Lägenhet,1930,[Maria],2950000,960000,3910000,2105,Notar,286.09801869042536,Zinkensdamm
+2015-11-18,Samaritgränd 1,Zinkensdamm,Sodermalm,1,26,2,Lägenhet,1929,[Södermalm],1995000,1055000,3050000,903,Fantastic Frank Fastighetsmäkleri,336.29492462735675,Zinkensdamm
+2015-11-18,Lundagatan 52,Zinkensdamm,Sodermalm,2,59,1,Lägenhet,1932,[Högalid],3850000,900000,4750000,2578,Fastighetsbyrån,413.04639393098495,Zinkensdamm
+2015-11-18,Ringvägen 4,Zinkensdamm,Sodermalm,2,67.4,3,Lägenhet,1893,[Södermalm],4995000,1305000,6300000,2653,Svensk Fastighetsförmedling,69.34252729681138,Zinkensdamm
+2015-11-13,Samaritgränd 1,Zinkensdamm,Sodermalm,3,67,2,Lägenhet,1929,[Södermalm-Högalid],4950000,750000,5700000,2421,Södermäklarna,336.29492462735675,Zinkensdamm
+2015-11-13,Krukmakargatan 24,Zinkensdamm,Sodermalm,2,53,1,Lägenhet,1964,[Södermalm Maria Magdalena],3295000,580000,3875000,2821,HusmanHagberg,281.4418269206465,Zinkensdamm
+2015-11-12,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1,30,4,Lägenhet,1935,[Södermalm],2375000,225000,2600000,2245,SkandiaMäklarna,124.2941811776174,Zinkensdamm
+2015-11-12,Lundagatan 36A,Zinkensdamm,Sodermalm,1,29.5,2,Lägenhet,1930,[Södermalm Högalid],2195000,530000,2725000,1589,HusmanHagberg,236.31088168439584,Zinkensdamm
+2015-11-10,Ringvägen 11G,Zinkensdamm,Sodermalm,3,74,3,Lägenhet,1982,[Södermalm Skinnarviksberget],4790000,1310000,6100000,2496,HusmanHagberg,102.88458699400721,Zinkensdamm
+2015-11-09,Krukmakargatan 73,Zinkensdamm,Sodermalm,4,92,2,Lägenhet,1988,[Högalid],5495000,1055000,6550000,4918,Fastighetsbyrån,440.4647780161238,Zinkensdamm
+2015-11-07,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,36,0.5,Lägenhet,1927,[Södermalm],2400000,550000,2950000,1978,Fantastic Frank Fastighetsmäkleri,370.58001856113816,Zinkensdamm
+2015-11-03,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,61,5,Lägenhet,1929,[Södermalm],4195000,955000,5150000,2674,Fastighetsbyrån,172.02145439387476,Zinkensdamm
+2015-10-30,Brännkyrkagatan 87,Zinkensdamm,Sodermalm,3,79,3,Lägenhet,1969,[Södermalm],4695000,580000,5275000,3259,Svensk Fastighetsförmedling,85.0322274050625,Zinkensdamm
+2015-10-26,Krukmakargatan 45,Zinkensdamm,Sodermalm,2,66,2,Lägenhet,1989,[Södermalm],3750000,1070000,4820000,3822,Södermäklarna,225.11758199277736,Zinkensdamm
+2015-10-25,Rosenlundsgatan 32C,Zinkensdamm,Sodermalm,5,114,1,Lägenhet,null,[Södermalm],8600000,0,8600000,5406,BOSTHLM,459.5898350914176,Zinkensdamm
+2015-10-23,Lundagatan 37,Zinkensdamm,Sodermalm,2,58,4,Lägenhet,1904,[Södermalm],4250000,1100000,5350000,2662,Erik Olsson Fastighetsförmedling,186.6900442056129,Zinkensdamm
+2015-10-23,Lundagatan 42B,Zinkensdamm,Sodermalm,2,38,1,Lägenhet,null,[Södermalm],2850000,420000,3270000,1876,Mäklarhuset,263.6820038435634,Zinkensdamm
+2015-10-23,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,1,34,6,Lägenhet,1964,[Södermalm Högalid],2375000,535000,2910000,1809,HusmanHagberg,288.0787714678536,Zinkensdamm
+2015-10-23,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,2,42,3,Lägenhet,1928,[Högalid],3195000,455000,3650000,2333,Fastighetsbyrån,306.77287109019807,Zinkensdamm
+2015-10-22,Heleneborgsgatan 8C,Zinkensdamm,Sodermalm,2,60,2,Lägenhet,1925,[Södermalm Högalid],3975000,1150000,5125000,3204,HusmanHagberg,493.04878299674465,Zinkensdamm
+2015-10-21,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,36,5,Lägenhet,1932,[Södermalm Maria Magdalena],2695000,605000,3300000,2032,HusmanHagberg,305.4402930279476,Zinkensdamm
+2015-10-19,Maria Skolgata 77A,Zinkensdamm,Sodermalm,2,50,5,Lägenhet,2015,[Södermalm],4195000,305000,4500000,3357,Edward & Partners Fastighetsmäklare AB,440.9456840384787,Zinkensdamm
+2015-10-16,Zinkens väg 37,Zinkensdamm,Sodermalm,4,95,2,Lägenhet,1988,[Högalid],6495000,1255000,7750000,5227,Fastighetsbyrån,418.9250151492622,Zinkensdamm
+2015-10-16,Lundagatan 36D,Zinkensdamm,Sodermalm,1,25,null,Lägenhet,1930,[Högalid],2195000,485000,2680000,1356,Fastighetsbyrån,256.12113501511084,Zinkensdamm
+2015-10-14,Krukmakargatan 27,Zinkensdamm,Sodermalm,1.5,40,2,Lägenhet,1930,[Södermalm Maria Magdalena],2750000,790000,3540000,2025,HusmanHagberg,282.28206675922087,Zinkensdamm
+2015-10-14,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,2,39,3,Lägenhet,1927,[Södermalm],2995000,705000,3700000,2126,Edward & Partners Fastighetsmäklare AB,296.22812010846377,Zinkensdamm
+2015-10-14,Doktor Abelins gata 2,Zinkensdamm,Sodermalm,1.5,41,3,Lägenhet,1927,[Södermalm],2950000,540000,3490000,2283,Gripsholms Fastighetsförmedling,293.20263552176937,Zinkensdamm
+2015-10-13,Lundagatan 42B,Zinkensdamm,Sodermalm,2.5,52,3,Lägenhet,1930,[Södermalm],3495000,505000,4000000,2492,Svensk Fastighetsförmedling,263.6820038435634,Zinkensdamm
+2015-10-13,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,31.5,2,Lägenhet,1927,[Södermalm-Högalid],2395000,555000,2950000,1840,Södermäklarna,370.58001856113816,Zinkensdamm
+2015-10-09,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,47,5,Lägenhet,1929,[Södermalm-Högalid],3450000,470000,3920000,2077,Södermäklarna,172.02145439387476,Zinkensdamm
+2015-10-08,Kristinehovsgatan 5B,Zinkensdamm,Sodermalm,2,56,1,Lägenhet,1941,[Högalid],3850000,510000,4360000,2897,Fastighetsbyrån,461.1368205397797,Zinkensdamm
+2015-10-08,Wollmar Yxkullsgatan 52B,Zinkensdamm,Sodermalm,1,39,3,Lägenhet,null,[Södermalm Högalid],2695000,605000,3300000,2167,Bjurfors,255.66342054297158,Zinkensdamm
+2015-10-08,Heleneborgsgatan 6A,Zinkensdamm,Sodermalm,2,56,0.5,Lägenhet,1925,[Högalid],3775000,1275000,5050000,2667,Fastighetsbyrån,467.85925945477874,Zinkensdamm
+2015-10-08,Drakenbergsgatan 1,Zinkensdamm,Sodermalm,5.5,131,4,Lägenhet,1967,[Högalid],7995000,2555000,10550000,5600,Fastighetsbyrån,488.22092085207674,Zinkensdamm
+2015-10-08,Samaritgränd 6,Zinkensdamm,Sodermalm,2,46,3,Lägenhet,1928,[Södermalm Högalid],3495000,930000,4425000,2439,HusmanHagberg,293.84446013884,Zinkensdamm
+2015-10-07,Lundagatan 41,Zinkensdamm,Sodermalm,2,65,0,Lägenhet,1905,[Södermalm],4750000,700000,5450000,3947,Södermäklarna,222.43377031944152,Zinkensdamm
+2015-10-05,Lundagatan 41,Zinkensdamm,Sodermalm,2,51,3,Lägenhet,1903,[Södermalm],4425000,0,4425000,3618,Vision Fastighetsmäkleri AB,222.43377031944152,Zinkensdamm
+2015-09-30,Hornsgatan 71,Zinkensdamm,Sodermalm,4,76,1,Lägenhet,1884,[Södermalm],5495000,1030000,6525000,3867,Edward & Partners Fastighetsmäklare AB,142.45690108904404,Zinkensdamm
+2015-09-30,Ringvägen 12,Zinkensdamm,Sodermalm,3.5,97,3,Lägenhet,1905,[Högalid],6495000,1765000,8260000,3887,Fastighetsbyrån,79.43923229867285,Zinkensdamm
+2015-09-29,Maria Skolgata 77A,Zinkensdamm,Sodermalm,4,118,5,Lägenhet,2015,[Södermalm],8350000,700000,9050000,5535,Svensk Fastighetsförmedling,440.9456840384787,Zinkensdamm
+2015-09-29,Lundagatan 38B,Zinkensdamm,Sodermalm,1,33,0.5,Lägenhet,1930,[Hornstull],2250000,900000,3150000,1669,Fastighetsbyrån,267.06666292823326,Zinkensdamm
+2015-09-25,Drakenbergsgatan 6,Zinkensdamm,Sodermalm,2,64,2,Lägenhet,1967,[Högalid],3295000,735000,4030000,2800,Fastighetsbyrån,472.1206546682025,Zinkensdamm
+2015-09-24,Samaritgränd 6,Zinkensdamm,Sodermalm,2,46,2,Lägenhet,1928,[Södermalm],3495000,870000,4365000,2439,Fastighetsmäklarna,293.84446013884,Zinkensdamm
+2015-09-24,Lundagatan 48,Zinkensdamm,Sodermalm,2,37,1.5,Lägenhet,1932,[Södermalm Högalid],2995000,635000,3630000,1919,Södermäklarna,414.36614513444215,Zinkensdamm
+2015-09-22,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,31,0.5,Lägenhet,1927,[Södermalm],2150000,690000,2840000,1608,Svensk Fastighetsförmedling,296.22812010846377,Zinkensdamm
+2015-09-18,Ringvägen 11G,Zinkensdamm,Sodermalm,3,74,3,Lägenhet,null,[Södermalm],5700000,150000,5850000,2496,Fastighetsmäklarna,102.88458699400721,Zinkensdamm
+2015-09-17,Krukmakargatan 73,Zinkensdamm,Sodermalm,3,66,2,Lägenhet,null,[Södermalm Högalid],3795000,1020000,4815000,3631,HusmanHagberg,440.4647780161238,Zinkensdamm
+2015-09-17,Lundagatan 48,Zinkensdamm,Sodermalm,2,39,3,Lägenhet,1932,[Södermalm],2995000,875000,3870000,2050,Södermäklarna,414.36614513444215,Zinkensdamm
+2015-09-15,Lundagatan 40,Zinkensdamm,Sodermalm,1.5,35,4,Lägenhet,1930,[Södermalm],2495000,305000,2800000,1804,Erik Olsson Fastighetsförmedling,286.09801869042536,Zinkensdamm
+2015-09-10,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,4.5,85,3,Lägenhet,null,[Södermalm Högalid Hornstull],4850000,350000,5200000,3719,HusmanHagberg,453.145596108398,Hornstull
+2015-09-10,Lundagatan 36D,Zinkensdamm,Sodermalm,2,45.5,1,Lägenhet,1930,[Södermalm],3690000,0,3690000,2185,Mäklarhuset,256.12113501511084,Zinkensdamm
+2015-09-10,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,3.5,74,2,Lägenhet,1899,[Södermalm],5095000,155000,5250000,3990,Svensk Fastighetsförmedling,75.49940643477724,Zinkensdamm
+2015-09-10,Lundagatan 42A,Zinkensdamm,Sodermalm,2,51,0.5,Lägenhet,1930,[Södermalm],3295000,755000,4050000,2351,Fantastic Frank Fastighetsmäkleri,316.1294023766264,Zinkensdamm
+2015-09-10,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,2,60,7,Lägenhet,1967,[Högalid],3495000,625000,4120000,2625,Fastighetsbyrån,453.145596108398,Hornstull
+2015-09-10,Zinkens väg 37,Zinkensdamm,Sodermalm,3,74,4,Lägenhet,1988,[Högalid],4395000,1160000,5555000,4285,Fastighetsbyrån,418.9250151492622,Zinkensdamm
+2015-09-09,Samaritgränd 1,Zinkensdamm,Sodermalm,3,67,1,Lägenhet,1929,[Om Området],4950000,750000,5700000,2421,Södermäklarna,336.29492462735675,Zinkensdamm
+2015-09-09,Krukmakargatan 50,Zinkensdamm,Sodermalm,2,58,null,Lägenhet,1909,[Högalid],3850000,1300000,5150000,2404,Fastighetsbyrån,167.8865347852018,Zinkensdamm
+2015-09-09,Rosenlundsgatan 32B,Zinkensdamm,Sodermalm,2,50,2,Lägenhet,2015,[Södermalm],3750000,425000,4175000,3357,Edward & Partners Fastighetsmäklare AB,459.5898350914176,Zinkensdamm
+2015-09-08,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,2,54,4,Lägenhet,1899,[Södermalm],3995000,405000,4400000,3046,Svensk Fastighetsförmedling,75.49940643477724,Zinkensdamm
+2015-09-08,Lundagatan 36D,Zinkensdamm,Sodermalm,1,25,1,Lägenhet,1930,[Södermalm Högalid],2050000,850000,2900000,1413,HusmanHagberg,256.12113501511084,Zinkensdamm
+2015-09-08,Lundagatan 44A,Zinkensdamm,Sodermalm,2,48,2,Lägenhet,1931,[Södermalm Högalid],3150000,850000,4000000,2363,Bjurfors,347.28878808287726,Zinkensdamm
+2015-09-07,Rosenlundsgatan 32B,Zinkensdamm,Sodermalm,2,50,4,Lägenhet,2015,[Södermalm],4250000,0,4250000,3357,Länsförsäkringar Fastighetsförmedling,459.5898350914176,Zinkensdamm
+2015-09-04,Hornsgatan 107,Zinkensdamm,Sodermalm,1,33,0,Lägenhet,1967,[Södermalm-Högalid],2595000,515000,3110000,1444,Södermäklarna,432.19390922246805,Hornstull
+2015-09-04,Krukmakargatan 38,Zinkensdamm,Sodermalm,2,62,1,Lägenhet,1884,[Högalid],3995000,505000,4500000,3563,Fastighetsbyrån,137.0638747703233,Zinkensdamm
+2015-09-04,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,2,69,5,Lägenhet,1969,[Södermalm],3975000,475000,4450000,2804,Karlsson & Uddare,51.59848310629898,Zinkensdamm
+2015-09-03,Ludvigsbergsgatan 37,Zinkensdamm,Sodermalm,3,81,4,Lägenhet,1963,[Högalid],5475000,1725000,7200000,2240,Fastighetsbyrån,215.60909651037272,Zinkensdamm
+2015-09-03,Heleneborgsgatan 6,Zinkensdamm,Sodermalm,2,51,5,Lägenhet,1925,[Södermalm],3950000,1150000,5100000,2970,SkandiaMäklarna,467.85925945477874,Zinkensdamm
+2015-09-02,Heleneborgsgatan 14,Zinkensdamm,Sodermalm,3,77,2,Lägenhet,1913,[Södermalm Högalid],5495000,755000,6250000,3396,Bjurfors,516.1171319566398,Hornstull
+2015-09-02,Lundagatan 48,Zinkensdamm,Sodermalm,1,30,1,Lägenhet,2002,[Södermalm],2325000,745000,3070000,1640,Södermäklarna,414.36614513444215,Zinkensdamm
+2015-08-28,Lundagatan 52,Zinkensdamm,Sodermalm,1.5,40,2,Lägenhet,1931,[Södermalm Högalid],2995000,105000,3100000,2050,Bjurfors,413.04639393098495,Zinkensdamm
+2015-08-27,Lundagatan 39,Zinkensdamm,Sodermalm,3,83,1,Lägenhet,null,[Södermalm],6295000,1605000,7900000,4458,Svenska Mäklarhuset,201.87641608142025,Zinkensdamm
+2015-08-27,Hornsgatan 85,Zinkensdamm,Sodermalm,3,97,2,Lägenhet,1905,[Södermalm Högalid Zinkensdamm],5975000,1075000,7050000,4673,HusmanHagberg,93.52167002056484,Zinkensdamm
+2015-08-27,Hornsgatan 107,Zinkensdamm,Sodermalm,2,64,4,Lägenhet,1967,[Högalid],3825000,415000,4240000,2800,Fastighetsbyrån,432.19390922246805,Hornstull
+2015-08-27,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,1,38,1,Lägenhet,1967,[Södermalm],2195000,605000,2800000,1444,Svensk Fastighetsförmedling,453.145596108398,Hornstull
+2015-08-27,Lundagatan 44A,Zinkensdamm,Sodermalm,1,23,1,Lägenhet,1930,[Södermalm],1795000,680000,2475000,1236,Svensk Fastighetsförmedling,347.28878808287726,Zinkensdamm
+2015-08-26,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,4,124,2,Lägenhet,1968,[Södermalm],6995000,455000,7450000,4749,Erik Olsson Fastighetsförmedling,51.59848310629898,Zinkensdamm
+2015-08-26,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,1,21,4,Lägenhet,1945,[Södermalm],1925000,675000,2600000,1575,Mäklarhuset,325.4329619130417,Zinkensdamm
+2015-08-25,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,45,3,Lägenhet,1932,[Södermalm],3150000,850000,4000000,2479,Erik Olsson Fastighetsförmedling,305.4402930279476,Zinkensdamm
+2015-08-20,Lundagatan 52,Zinkensdamm,Sodermalm,1,25,2,Lägenhet,1932,[Södermalm],2075000,535000,2610000,1423,Mäklarringen,413.04639393098495,Zinkensdamm
+2015-08-20,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,21,1,Lägenhet,1884,[Södermalm Högalid Zinkensdamm],1950000,700000,2650000,1979,HusmanHagberg,137.0638747703233,Zinkensdamm
+2015-08-20,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,1,32,1,Lägenhet,1932,[Södermalm-Högalid],2250000,1010000,3260000,1605,Södermäklarna,305.4402930279476,Zinkensdamm
+2015-08-20,Lundagatan 44A,Zinkensdamm,Sodermalm,2,36.5,2,Lägenhet,1930,[Södermalm],2895000,605000,3500000,1890,Länsförsäkringar Fastighetsförmedling,347.28878808287726,Zinkensdamm
+2015-08-20,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,1,32,3,Lägenhet,1925,[Södermalm Högalid],2295000,765000,3060000,1409,HusmanHagberg,519.1684955005329,Zinkensdamm
+2015-08-19,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,2,41,1,Lägenhet,1928,[Högalid],3295000,775000,4070000,2277,Fastighetsbyrån,306.77287109019807,Zinkensdamm
+2015-08-19,Heleneborgsgatan 8A,Zinkensdamm,Sodermalm,2,57,1,Lägenhet,1925,[Södermalm Högalid],3790000,1160000,4950000,2884,HusmanHagberg,476.7565885830824,Zinkensdamm
+2015-08-18,Brännkyrkagatan 81,Zinkensdamm,Sodermalm,2,45,5,Lägenhet,1929,[Södermalm],4300000,0,4300000,1483,BOSTHLM,149.32324932554124,Zinkensdamm
+2015-08-18,Lundagatan 44B,Zinkensdamm,Sodermalm,2,47.5,null,Lägenhet,1930,[Högalid],2995000,690000,3685000,2268,Fastighetsbyrån,356.5734682201418,Zinkensdamm
+2015-08-18,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,2,40,null,Lägenhet,1928,[Södermalm Högalid],2750000,900000,3650000,2126,Bjurfors,296.22812010846377,Zinkensdamm
+2015-08-18,Krukmakarbacken 4A,Zinkensdamm,Sodermalm,2,62,1,Lägenhet,1987,[Södermalm],3650000,1000000,4650000,2210,Innerstadsspecialisten AB,248.5117623469595,Zinkensdamm
+2015-08-17,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,47,5,Lägenhet,1928,[Södermalm],3195000,955000,4150000,2077,Svensk Fastighetsförmedling,172.02145439387476,Zinkensdamm
+2015-08-14,Lundagatan 48,Zinkensdamm,Sodermalm,1.5,37,0.5,Lägenhet,1932,[Hornstull],2595000,405000,3000000,1919,Fastighetsbyrån,414.36614513444215,Zinkensdamm
+2015-08-14,Rosenlundsgatan 28B,Zinkensdamm,Sodermalm,1,24,1,Lägenhet,1906,[Södermalm],1995000,945000,2940000,737,Erik Olsson Fastighetsförmedling,407.8939860907092,Zinkensdamm
+2015-08-14,Hornsgatan 89A,Zinkensdamm,Sodermalm,2,58,2,Lägenhet,1905,[Södermalm],4200000,650000,4850000,1929,Fastighetsbyrån,140.4726693508419,Zinkensdamm
+2015-08-12,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,2,42,2,Lägenhet,1928,[Högalid],2925000,900000,3825000,2333,Fastighetsbyrån,306.77287109019807,Zinkensdamm
+2015-08-06,Wollmar Yxkullsgatan 52B,Zinkensdamm,Sodermalm,1.5,38,3,Lägenhet,1935,[Södermalm],2750000,600000,3350000,2170,Fastighetsmäklarna,255.66342054297158,Zinkensdamm
+2015-08-06,Samaritgränd 3,Zinkensdamm,Sodermalm,2,42,2,Lägenhet,1929,[Södermalm],2995000,655000,3650000,2509,Fastighetsmäklarna,320.0002401237804,Zinkensdamm
+2015-07-30,Heleneborgsgatan 14,Zinkensdamm,Sodermalm,2,61,3,Lägenhet,null,[Södermalm],3995000,1705000,5700000,2764,BOSTHLM,516.1171319566398,Hornstull
+2015-07-30,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,2,41,3.5,Lägenhet,1942,[Södermalm],3195000,465000,3660000,2324,Mäklarhuset,128.25045094511074,Zinkensdamm
+2015-07-24,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,23,2,Lägenhet,null,[Södermalm],1995000,555000,2550000,2276,Svenska Mäklarhuset,137.0638747703233,Zinkensdamm
+2015-07-22,Krukmakargatan 27,Zinkensdamm,Sodermalm,1,27,2,Lägenhet,1930,[Södermalm Maria Magdalena],2095000,155000,2250000,1628,HusmanHagberg,282.28206675922087,Zinkensdamm
+2015-07-20,Doktor Abelins gata 6,Zinkensdamm,Sodermalm,2.5,70,null,Lägenhet,1929,[Södermalm],4875000,300000,5175000,3092,Gripsholms Fastighetsförmedling,319.03891034120284,Zinkensdamm
+2015-07-14,Lundagatan 36D,Zinkensdamm,Sodermalm,2,46,1,Lägenhet,1930,[Södermalm],2995000,955000,3950000,2255,SthlmFast,256.12113501511084,Zinkensdamm
+2015-07-11,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1.5,39,1.5,Lägenhet,1928,[Södermalm],3220000,0,3220000,2183,BOSTHLM,296.22812010846377,Zinkensdamm
+2015-07-11,Krukmakargatan 24,Zinkensdamm,Sodermalm,4,106,6,Lägenhet,1964,[Södermalm],5295000,1145000,6440000,5644,Svensk Fastighetsförmedling,281.4418269206465,Zinkensdamm
+2015-07-04,Hornsgatan 107,Zinkensdamm,Sodermalm,2,50,0,Lägenhet,1967,[Södermalm-Högalid],3275000,445000,3720000,2188,Södermäklarna,432.19390922246805,Hornstull
+2015-07-03,Zinkens väg 43,Zinkensdamm,Sodermalm,4,93,4,Lägenhet,1988,[Södermalm],5700000,330000,6030000,4972,Karlsson & Uddare,393.29833358918967,Zinkensdamm
+2015-07-03,Krukmakargatan 67,Zinkensdamm,Sodermalm,2,43,0.5,Lägenhet,1942,[Södermalm],3075000,625000,3700000,2854,SkandiaMäklarna,391.52901546628755,Zinkensdamm
+2015-07-02,Krukmakargatan 27,Zinkensdamm,Sodermalm,1.5,49,3,Lägenhet,null,[Södermalm],2975000,775000,3750000,2380,Svensk Fastighetsförmedling,282.28206675922087,Zinkensdamm
+2015-07-01,Krukmakargatan 67,Zinkensdamm,Sodermalm,1,34,1,Lägenhet,1942,[Södermalm Högalid],2425000,325000,2750000,2334,HusmanHagberg,391.52901546628755,Zinkensdamm
+2015-07-01,Krukmakarbacken 2,Zinkensdamm,Sodermalm,2,65,null,Lägenhet,1987,[Södermalm],3695000,405000,4100000,2184,Erik Olsson Fastighetsförmedling,230.96155341232216,Zinkensdamm
+2015-06-26,Lundagatan 48,Zinkensdamm,Sodermalm,1,26,2,Lägenhet,1937,[Södermalm],1895000,705000,2600000,1462,Living Fastighetsmäkleri,414.36614513444215,Zinkensdamm
+2015-06-26,Doktor Abelins gata 6,Zinkensdamm,Sodermalm,3,66,0.5,Lägenhet,1928,[Maria],4395000,155000,4550000,2920,Fastighetsbyrån,319.03891034120284,Zinkensdamm
+2015-06-26,Wollmar Yxkullsgatan 50,Zinkensdamm,Sodermalm,2,49,null,Lägenhet,1935,[Södermalm],3350000,200000,3550000,2675,Notar,288.1615712778291,Zinkensdamm
+2015-06-26,Lundagatan 29,Zinkensdamm,Sodermalm,1,35,1,Lägenhet,null,[Södermalm],2495000,835000,3330000,2261,Notar,132.90401612309432,Zinkensdamm
+2015-06-25,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,6,134,5,Lägenhet,1929,[Högalid],9950000,1500000,11450000,6554,Fastighetsbyrån,75.49940643477724,Zinkensdamm
+2015-06-24,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,3,64,3,Lägenhet,1967,[Södermalm],3675000,740000,4415000,2800,ERA,453.145596108398,Hornstull
+2015-06-17,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,2,35,4,Lägenhet,1941,[Hornstull],2625000,475000,3100000,1856,Fastighetsbyrån,463.23818207195086,Zinkensdamm
+2015-06-17,Lundagatan 48,Zinkensdamm,Sodermalm,1.5,39,2,Lägenhet,1932,[Hornstull],2995000,205000,3200000,2050,Fastighetsbyrån,414.36614513444215,Zinkensdamm
+2015-06-17,Lundagatan 42A,Zinkensdamm,Sodermalm,1,29,2,Lägenhet,1930,[Södermalm],2195000,530000,2725000,1567,Erik Olsson Fastighetsförmedling,316.1294023766264,Zinkensdamm
+2015-06-17,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1.5,40,4,Lägenhet,1928,[Södermalm],2595000,605000,3200000,2283,Svensk Fastighetsförmedling,296.22812010846377,Zinkensdamm
+2015-06-13,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,3,60,5,Lägenhet,1967,[Högalid],3295000,1305000,4600000,2625,Fastighetsbyrån,453.145596108398,Hornstull
+2015-06-11,Lundagatan 36D,Zinkensdamm,Sodermalm,2,56,0.5,Lägenhet,1930,[Södermalm],3995000,765000,4760000,2666,Fantastic Frank Fastighetsmäkleri,256.12113501511084,Zinkensdamm
+2015-06-10,Lundagatan 44A,Zinkensdamm,Sodermalm,1,22.5,4,Lägenhet,1930,[Södermalm],1995000,455000,2450000,1288,Erik Olsson Fastighetsförmedling,347.28878808287726,Zinkensdamm
+2015-06-10,Ludvigsbergsgatan 39,Zinkensdamm,Sodermalm,1,31,null,Lägenhet,1963,[Södermalm Högalid],2295000,1135000,3430000,857,HusmanHagberg,200.38576333945312,Zinkensdamm
+2015-06-04,Krukmakargatan 62,Zinkensdamm,Sodermalm,2,43,3,Lägenhet,1942,[Södermalm Högalid],2950000,750000,3700000,2854,HusmanHagberg,353.94831930642596,Zinkensdamm
+2015-06-04,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,4,95,6,Lägenhet,1964,[Södermalm],5950000,960000,6910000,5057,Wrede,288.0787714678536,Zinkensdamm
+2015-06-03,Ringvägen 14,Zinkensdamm,Sodermalm,2,38.7,5,Lägenhet,1909,[Högalid],2695000,665000,3360000,976,Fastighetsbyrån,110.26120279310834,Zinkensdamm
+2015-06-03,Wollmar Yxkullsgatan 40,Zinkensdamm,Sodermalm,1,36,null,Lägenhet,1929,[Södermalm],2450000,300000,2750000,1412,Svensk Fastighetsförmedling,357.1208283328512,Zinkensdamm
+2015-06-03,Heleneborgsgatan 6,Zinkensdamm,Sodermalm,2,60,1.5,Lägenhet,1925,[Högalid],3495000,1055000,4550000,2714,Fastighetsbyrån,467.85925945477874,Zinkensdamm
+2015-06-03,Hornsgatan 107,Zinkensdamm,Sodermalm,3,87,1,Lägenhet,1967,[Södermalm-Högalid],4575000,275000,4850000,3806,Södermäklarna,432.19390922246805,Hornstull
+2015-06-02,Lundagatan 44B,Zinkensdamm,Sodermalm,2,47.5,2,Lägenhet,1930,[Högalid],2995000,705000,3700000,2363,Fastighetsbyrån,356.5734682201418,Zinkensdamm
+2015-05-29,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,3,69.5,1,Lägenhet,null,[Högalid],4795000,415000,5210000,3891,Fastighetsbyrån,296.22812010846377,Zinkensdamm
+2015-05-29,Krukmakargatan 24,Zinkensdamm,Sodermalm,2,53,4,Lägenhet,1964,[Södermalm],3395000,305000,3700000,2821,Svensk Fastighetsförmedling,281.4418269206465,Zinkensdamm
+2015-05-28,Lundagatan 36E,Zinkensdamm,Sodermalm,1.5,36,2,Lägenhet,1930,[Södermalm Högalid],2475000,200000,2675000,1847,HusmanHagberg,283.76731338331825,Zinkensdamm
+2015-05-27,Heleneborgsgatan 8A,Zinkensdamm,Sodermalm,2,60,3,Lägenhet,1925,[Södermalm],3975000,945000,4920000,2796,Vision Fastighetsmäkleri AB,476.7565885830824,Zinkensdamm
+2015-05-26,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1.5,41.5,0.5,Lägenhet,1928,[Högalid],2695000,715000,3410000,2283,Fastighetsbyrån,296.22812010846377,Zinkensdamm
+2015-05-24,Lundagatan 44B,Zinkensdamm,Sodermalm,2,47.5,2.5,Lägenhet,1930,[Högalid],2995000,275000,3270000,2363,Fastighetsbyrån,356.5734682201418,Zinkensdamm
+2015-05-22,Hornsgatan 107,Zinkensdamm,Sodermalm,3,85,1,Lägenhet,1967,[Södermalm],4450000,400000,4850000,3719,Berggren Hörle,432.19390922246805,Hornstull
+2015-05-22,Zinkens väg 53,Zinkensdamm,Sodermalm,3,63,2,Lägenhet,1988,[Högalid],3995000,735000,4730000,3648,Fastighetsbyrån,360.7454374669546,Zinkensdamm
+2015-05-22,Heleneborgsgatan 6,Zinkensdamm,Sodermalm,2,57,2,Lägenhet,1925,[Södermalm Högalid],4500000,-200000,4300000,2884,Bjurfors,467.85925945477874,Zinkensdamm
+2015-05-21,Lundagatan 46,Zinkensdamm,Sodermalm,3,77,3,Lägenhet,1932,[Södermalm],4950000,800000,5750000,3437,Svensk Fastighetsförmedling,387.30072148172064,Zinkensdamm
+2015-05-20,Krukmakargatan 67,Zinkensdamm,Sodermalm,2,43,2,Lägenhet,1942,[Södermalm],2975000,765000,3740000,2854,Svensk Fastighetsförmedling,391.52901546628755,Zinkensdamm
+2015-05-17,Hornsgatan 75,Zinkensdamm,Sodermalm,3.5,120,null,Lägenhet,1908,[Södermalm],9975000,-725000,9250000,4763,Vision Fastighetsmäkleri AB,107.84882009288089,Zinkensdamm
+2015-05-16,Zinkens väg 53,Zinkensdamm,Sodermalm,4.5,111,null,Lägenhet,1988,[Södermalm],5995000,1455000,7450000,5686,Living Fastighetsmäkleri,360.7454374669546,Zinkensdamm
+2015-05-15,Krukmakargatan 42,Zinkensdamm,Sodermalm,4,132,2,Lägenhet,1907,[Södermalm],9495000,1235000,10730000,3333,Svensk Fastighetsförmedling,123.48200827736015,Zinkensdamm
+2015-05-14,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,1.5,47,8,Lägenhet,1967,[Hornstull],2495000,255000,2750000,2056,Fastighetsbyrån,453.145596108398,Hornstull
+2015-05-13,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,1,21,4,Lägenhet,1945,[Södermalm],1995000,85000,2080000,1575,Erik Olsson Fastighetsförmedling,325.4329619130417,Zinkensdamm
+2015-05-13,Ringvägen 9A,Zinkensdamm,Sodermalm,3,74,2,Lägenhet,1982,[Södermalm Skinnarviksberget],4350000,1670000,6020000,2471,HusmanHagberg,122.74062626874836,Zinkensdamm
+2015-05-13,Ringvägen 11F,Zinkensdamm,Sodermalm,3,68,6,Lägenhet,1982,[Södermalm Skinnarviksberget],4475000,1225000,5700000,2358,HusmanHagberg,90.46448394717375,Zinkensdamm
+2015-05-13,Brännkyrkagatan 93,Zinkensdamm,Sodermalm,1.5,39,4,Lägenhet,1910,[Södermalm],2695000,655000,3350000,1786,HusmanHagberg,36.1475113919179,Zinkensdamm
+2015-05-13,Samaritgränd 3,Zinkensdamm,Sodermalm,1.5,43,4,Lägenhet,1929,[Södermalm-Högalid],3100000,50000,3150000,2424,Södermäklarna,320.0002401237804,Zinkensdamm
+2015-05-13,Drakenbergsgatan 3,Zinkensdamm,Sodermalm,4,92,1,Lägenhet,1967,[Södermalm Högalid],4995000,905000,5900000,4025,HusmanHagberg,478.3154509078238,Zinkensdamm
+2015-05-13,Lundagatan 42B,Zinkensdamm,Sodermalm,2,50.5,4,Lägenhet,1930,[Södermalm Högalid],3325000,175000,3500000,2492,HusmanHagberg,263.6820038435634,Zinkensdamm
+2015-05-12,Rosenlundsgatan 12,Zinkensdamm,Sodermalm,2,51.5,2.5,Lägenhet,1909,[Högalid],4150000,0,4150000,2483,Fastighetsbyrån,282.3582744422554,Zinkensdamm
+2015-05-12,Krukmakargatan 69,Zinkensdamm,Sodermalm,1,23,1,Lägenhet,1942,[Södermalm],1900000,450000,2350000,1721,Svensk Fastighetsförmedling,400.68656434919404,Zinkensdamm
+2015-05-09,Krukmakargatan 26,Zinkensdamm,Sodermalm,4,97,4,Lägenhet,1964,[Södermalm],6250000,0,6250000,5163,SkandiaMäklarna,260.5645280276044,Zinkensdamm
+2015-05-07,Lundagatan 36D,Zinkensdamm,Sodermalm,1,30,3,Lägenhet,1931,[Södermalm-Högalid],2150000,370000,2520000,1610,Södermäklarna,256.12113501511084,Zinkensdamm
+2015-05-07,Krukmakargatan 65,Zinkensdamm,Sodermalm,1,24,1,Lägenhet,1942,[Södermalm Högalid],2095000,355000,2450000,1596,HusmanHagberg,382.5131097213914,Zinkensdamm
+2015-05-05,Drakenbergsgatan 11,Zinkensdamm,Sodermalm,4,122,1,Lägenhet,1967,[Södermalm],6900000,0,6900000,5337,Berggren Hörle,474.10238105531687,Hornstull
+2015-05-05,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,1,27,1,Lägenhet,1930,[Södermalm-Högalid],2095000,905000,3000000,1671,Södermäklarna,323.5170617787885,Zinkensdamm
+2015-05-05,Samaritgränd 6,Zinkensdamm,Sodermalm,1.5,43,2,Lägenhet,1928,[Södermalm-Högalid],2650000,650000,3300000,2280,Södermäklarna,293.84446013884,Zinkensdamm
+2015-04-30,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,3,94,null,Lägenhet,1933,[Högalid],5995000,1055000,7050000,4789,Fastighetsbyrån,75.49940643477724,Zinkensdamm
+2015-04-29,Krukmakargatan 61,Zinkensdamm,Sodermalm,2,48,2,Lägenhet,1942,[Högalid],3395000,780000,4175000,3100,Fastighetsbyrån,351.9991837945305,Zinkensdamm
+2015-04-29,Lundagatan 48A,Zinkensdamm,Sodermalm,1,19,3,Lägenhet,1936,[Högalid],1850000,150000,2000000,1182,Fastighetsbyrån,399.21780091460164,Zinkensdamm
+2015-04-29,Samaritgränd 3,Zinkensdamm,Sodermalm,2,44,3,Lägenhet,1929,[Södermalm],3295000,695000,3990000,2409,Svensk Fastighetsförmedling,320.0002401237804,Zinkensdamm
+2015-04-25,Hornsgatan 107,Zinkensdamm,Sodermalm,2,64,1,Lägenhet,1967,[Södermalm Hornstull],3275000,765000,4040000,2800,HusmanHagberg,432.19390922246805,Hornstull
+2015-04-23,Wollmar Yxkullsgatan 40,Zinkensdamm,Sodermalm,2,58.3,0.5,Lägenhet,1929,[Södermalm],3295000,825000,4120000,2314,Erik Olsson Fastighetsförmedling,357.1208283328512,Zinkensdamm
+2015-04-23,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,61,1,Lägenhet,1928,[Södermalm],3795000,1025000,4820000,2674,Erik Olsson Fastighetsförmedling,172.02145439387476,Zinkensdamm
+2015-04-23,Krukmakargatan 24,Zinkensdamm,Sodermalm,3,85,3,Lägenhet,1964,[Södermalm],4950000,600000,5550000,4524,Fantastic Frank Fastighetsmäkleri,281.4418269206465,Zinkensdamm
+2015-04-22,Varvsgatan 1B,Zinkensdamm,Sodermalm,2,72,5,Lägenhet,1913,[Södermalm],4475000,575000,5050000,3175,Erik Olsson Fastighetsförmedling,516.2085922883252,Hornstull
+2015-04-21,Lundagatan 46,Zinkensdamm,Sodermalm,2,38,3,Lägenhet,1931,[Södermalm],2895000,705000,3600000,1960,Erik Olsson Fastighetsförmedling,387.30072148172064,Zinkensdamm
+2015-04-20,Ringvägen 14,Zinkensdamm,Sodermalm,4,138,5,Lägenhet,1909,[Södermalm],9995000,0,9995000,null,Svensk Fastighetsförmedling,110.26120279310834,Zinkensdamm
+2015-04-19,Krukmakarbacken 4B,Zinkensdamm,Sodermalm,3,98,1,Lägenhet,1987,[Högalid],5495000,405000,5900000,3245,Fastighetsbyrån,239.48703389827733,Zinkensdamm
+2015-04-18,Lundagatan 38A,Zinkensdamm,Sodermalm,2,42,5,Lägenhet,1930,[Södermalm],3350000,850000,4200000,2141,Behrer & Partners,244.472090944914,Zinkensdamm
+2015-04-18,Lundagatan 48,Zinkensdamm,Sodermalm,2,37,null,Lägenhet,2002,[Södermalm-Högalid],2495000,505000,3000000,1919,Södermäklarna,414.36614513444215,Zinkensdamm
+2015-04-17,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,3,97,3,Lägenhet,1928,[Södermalm],4295000,1145000,5440000,5388,Notar,306.77287109019807,Zinkensdamm
+2015-04-17,Brännkyrkagatan 73,Zinkensdamm,Sodermalm,3,72,4,Lägenhet,1907,[Södermalm],5490000,570000,6060000,1484,Fastighetsmäklarna,239.95718585601796,Zinkensdamm
+2015-04-16,Drakenbergsgatan 4,Zinkensdamm,Sodermalm,2,64,2,Lägenhet,1967,[Högalid],3195000,1025000,4220000,2800,Fastighetsbyrån,471.31973232000144,Zinkensdamm
+2015-04-15,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,1,27,2,Lägenhet,1930,[Södermalm],1995000,715000,2710000,1621,Fastighetsbyrån,323.5170617787885,Zinkensdamm
+2015-04-14,Krukmakargatan 48,Zinkensdamm,Sodermalm,3,100,1,Lägenhet,1909,[Södermalm],5950000,960000,6910000,4428,Erik Olsson Fastighetsförmedling,154.8307942865166,Zinkensdamm
+2015-04-11,Wollmar Yxkullsgatan 40,Zinkensdamm,Sodermalm,2,39,4,Lägenhet,1927,[Södermalm],2750000,510000,3260000,1551,Notar,357.1208283328512,Zinkensdamm
+2015-04-10,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,30,4,Lägenhet,1928,[Mariatorget],2325000,400000,2725000,1716,SkandiaMäklarna,296.22812010846377,Zinkensdamm
+2015-04-02,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1,25,1.5,Lägenhet,1935,[Södermalm],1995000,515000,2510000,1871,Erik Olsson Fastighetsförmedling,124.2941811776174,Zinkensdamm
+2015-04-01,Kristinehovsgatan 5,Zinkensdamm,Sodermalm,1,27,5,Lägenhet,1941,[Högalid],2250000,375000,2625000,1544,Svensk Fastighetsförmedling,461.1368205397797,Zinkensdamm
+2015-03-31,Krukmakargatan 57,Zinkensdamm,Sodermalm,2,48,1,Lägenhet,1942,[Södermalm],3375000,585000,3960000,3100,Fantastic Frank Fastighetsmäkleri,323.39609665484437,Zinkensdamm
+2015-03-30,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,44,3,Lägenhet,1928,[Mariatorget],3250000,70000,3320000,2391,Länsförsäkringar Fastighetsförmedling,296.22812010846377,Zinkensdamm
+2015-03-27,Heleneborgsgatan 8A,Zinkensdamm,Sodermalm,2,59,1,Lägenhet,1925,[Hornstull],3595000,825000,4420000,2589,Fastighetsbyrån,476.7565885830824,Zinkensdamm
+2015-03-26,Lundagatan 42B,Zinkensdamm,Sodermalm,1,38,1.5,Lägenhet,1931,[Södermalm Högalid],2595000,605000,3200000,1954,Bjurfors,263.6820038435634,Zinkensdamm
+2015-03-26,Lundagatan 44A,Zinkensdamm,Sodermalm,2,37,4,Lägenhet,1930,[Södermalm-Högalid],2700000,550000,3250000,1890,Södermäklarna,347.28878808287726,Zinkensdamm
+2015-03-25,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,1.5,40,1,Lägenhet,1929,[Södermalm],2650000,325000,2975000,1864,Fastighetsbyrån,172.02145439387476,Zinkensdamm
+2015-03-24,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,3.5,77,2,Lägenhet,1925,[Södermalm-Högalid],4495000,1305000,5800000,3220,Södermäklarna,519.1684955005329,Zinkensdamm
+2015-03-24,Lundagatan 46,Zinkensdamm,Sodermalm,1,23,3.5,Lägenhet,1932,[Södermalm-Högalid],1995000,375000,2370000,1342,Södermäklarna,387.30072148172064,Zinkensdamm
+2015-03-23,Lundagatan 50,Zinkensdamm,Sodermalm,2,35,3,Lägenhet,1931,[Södermalm],2795000,655000,3450000,1817,Erik Olsson Fastighetsförmedling,419.9094431523744,Zinkensdamm
+2015-03-19,Lundagatan 50,Zinkensdamm,Sodermalm,2,35,1,Lägenhet,1932,[Södermalm-Högalid],3300000,0,3300000,1817,Södermäklarna,419.9094431523744,Zinkensdamm
+2015-03-18,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1.5,30,5,Lägenhet,1941,[Maria],2295000,355000,2650000,1757,Notar,463.23818207195086,Zinkensdamm
+2015-03-17,Pålsundsparken 12A,Zinkensdamm,Sodermalm,2,56,5,Lägenhet,1913,[Södermalm-Högalid],3790000,740000,4530000,2701,Södermäklarna,529.6918918652764,Hornstull
+2015-03-12,Brännkyrkagatan 81,Zinkensdamm,Sodermalm,1,39,4,Lägenhet,1929,[Södermalm],2950000,280000,3230000,1384,Länsförsäkringar Fastighetsförmedling,149.32324932554124,Zinkensdamm
+2015-03-04,Krukmakarbacken 2,Zinkensdamm,Sodermalm,5.5,122,0.5,Lägenhet,1987,[Högalid],6795000,2005000,8800000,4094,Fastighetsbyrån,230.96155341232216,Zinkensdamm
+2015-03-04,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,23,1,Lägenhet,1884,[Södermalm],1895000,635000,2530000,1880,Erik Olsson Fastighetsförmedling,137.0638747703233,Zinkensdamm
+2015-03-04,Ludvigsbergsgatan 17,Zinkensdamm,Sodermalm,3,81,3,Lägenhet,1963,[Mariatorget],5975000,1125000,7100000,2355,Svenska Mäklarhuset,298.090955129664,Zinkensdamm
+2015-03-04,Lundagatan 39,Zinkensdamm,Sodermalm,3,83,3,Lägenhet,1904,[Södermalm Högalid],5950000,1250000,7200000,4545,Bjurfors,201.87641608142025,Zinkensdamm
+2015-03-03,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,61,5,Lägenhet,1928,[Södermalm],4600000,0,4600000,2674,BOSTHLM,172.02145439387476,Zinkensdamm
+2015-02-28,Zinkens väg 43,Zinkensdamm,Sodermalm,2,63,4,Lägenhet,1988,[Zinkensdamm/Rosenlund],4095000,515000,4610000,3648,Svenska Mäklarhuset,393.29833358918967,Zinkensdamm
+2015-02-25,Wollmar Yxkullsgatan 48C,Zinkensdamm,Sodermalm,1,39.5,1.5,Lägenhet,1927,[Södermalm],2495000,505000,3000000,2283,Erik Olsson Fastighetsförmedling,266.24436093447775,Zinkensdamm
+2015-02-24,Lundagatan 46,Zinkensdamm,Sodermalm,2,39,2.5,Lägenhet,1932,[Södermalm-Högalid],2995000,805000,3800000,1960,Södermäklarna,387.30072148172064,Zinkensdamm
+2015-02-16,Ludvigsbergsgatan 35,Zinkensdamm,Sodermalm,3,81,5,Lägenhet,1963,[Skinnarviksberget],5950000,330000,6280000,2240,Privatmäklaren,224.51503451835725,Zinkensdamm
+2015-02-16,Lundagatan 36D,Zinkensdamm,Sodermalm,2,46,4,Lägenhet,1931,[Södermalm Högalid],3295000,775000,4070000,2277,Bjurfors,256.12113501511084,Zinkensdamm
+2015-02-13,Brännkyrkagatan 81,Zinkensdamm,Sodermalm,2,60,1,Lägenhet,1929,[Mariatorget],3995000,805000,4800000,1977,Fastighetsbyrån,149.32324932554124,Zinkensdamm
+2015-02-12,Lundagatan 40B,Zinkensdamm,Sodermalm,2,41.5,1.5,Lägenhet,1930,[Högalid],2795000,365000,3160000,2104,Mäklarhuset,293.8782697881175,Zinkensdamm
+2015-02-10,Brännkyrkagatan 81,Zinkensdamm,Sodermalm,1,40,1,Lägenhet,1929,[Södermalm],2910000,90000,3000000,1384,Länsförsäkringar Fastighetsförmedling,149.32324932554124,Zinkensdamm
+2015-02-06,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,null,null,7,Lägenhet,1967,[Södermalm-Högalid],2995000,905000,3900000,2625,Södermäklarna,453.145596108398,Hornstull
+2015-02-05,Wollmar Yxkullsgatan 50A,Zinkensdamm,Sodermalm,2,53,4,Lägenhet,1935,[Södermalm],3795000,740000,4535000,2890,Erik Olsson Fastighetsförmedling,288.5865644986229,Zinkensdamm
+2015-02-03,Lundagatan 36D,Zinkensdamm,Sodermalm,2,45.5,null,Lägenhet,1930,[Högalid],3200000,310000,3510000,2277,Fastighetsbyrån,256.12113501511084,Zinkensdamm
+2015-01-30,Zinkens väg 35,Zinkensdamm,Sodermalm,null,null,null,Lägenhet,1988,[Södermalm Högalid],6495000,315000,6810000,5579,Södermäklarna,425.4536454317144,Zinkensdamm
+2015-01-28,Wollmar Yxkullsgatan 50B,Zinkensdamm,Sodermalm,3,69,null,Lägenhet,1935,[Mariatorget],4290000,660000,4950000,3708,HusmanHagberg,283.3458227517372,Zinkensdamm
+2015-01-23,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,1,28,6,Lägenhet,1925,[Högalid],2495000,30000,2525000,1258,Svensk Fastighetsförmedling,519.1684955005329,Zinkensdamm
+2015-01-22,Lundagatan 29,Zinkensdamm,Sodermalm,null,null,4,Lägenhet,1894,[Södermalm-Högalid],3500000,0,3500000,2121,Södermäklarna,132.90401612309432,Zinkensdamm
+2015-01-22,Ringvägen 8,Zinkensdamm,Sodermalm,5,167,4,Lägenhet,1910,[Högalid],9390000,2060000,11450000,6277,Fastighetsbyrån,14.307846602949482,Zinkensdamm
+2015-01-21,Lundagatan 48,Zinkensdamm,Sodermalm,3,74.5,2,Lägenhet,1937,[Södermalm],4895000,475000,5370000,3355,Erik Olsson Fastighetsförmedling,414.36614513444215,Zinkensdamm
+2015-01-21,Lundagatan 42B,Zinkensdamm,Sodermalm,1,38,2,Lägenhet,1931,[Södermalm Högalid],2485000,565000,3050000,1954,Bjurfors,263.6820038435634,Zinkensdamm
+2015-01-15,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,2,59,3,Lägenhet,1964,[Mariatorget],3450000,550000,4000000,3141,SkandiaMäklarna,288.0787714678536,Zinkensdamm
+2015-01-15,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,43,3,Lägenhet,1932,[Södermalm Maria Magdalena],2850000,330000,3180000,2379,HusmanHagberg,305.4402930279476,Zinkensdamm
+2015-01-14,Heleneborgsgatan 8,Zinkensdamm,Sodermalm,1,36,null,Lägenhet,1925,[Södermalm Högalid],2495000,755000,3250000,1979,HusmanHagberg,493.04878299674465,Zinkensdamm
+2015-01-14,Lundagatan 40B,Zinkensdamm,Sodermalm,null,null,1,Lägenhet,1930,[Södermalm-Högalid],2800000,510000,3310000,2104,Södermäklarna,293.8782697881175,Zinkensdamm
+2015-01-14,Brännkyrkagatan 81,Zinkensdamm,Sodermalm,null,null,3,Lägenhet,1929,[Södermalm-Högalid],1995000,1015000,3010000,1384,Södermäklarna,149.32324932554124,Zinkensdamm
+2015-01-14,Kristinehovsgatan 5,Zinkensdamm,Sodermalm,1,26,1,Lägenhet,1941,[Högalid],1875000,530000,2405000,1281,Svensk Fastighetsförmedling,461.1368205397797,Zinkensdamm
+2014-12-18,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,61,3,Lägenhet,1929,[Södermalm],3395000,630000,4025000,2674,Fastighetsbyrån,172.02145439387476,Zinkensdamm
+2014-12-16,Lundagatan 44D,Zinkensdamm,Sodermalm,1,31,1.5,Lägenhet,1930,[Södermalm],2250000,505000,2755000,1632,Svenska Mäklarhuset,338.84470158505655,Zinkensdamm
+2014-12-13,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,2,40,null,Lägenhet,1941,[Högalid],2495000,25000,2520000,1753,Fastighetsbyrån,463.23818207195086,Zinkensdamm
+2014-12-13,Heleneborgsgatan 6B,Zinkensdamm,Sodermalm,1,40,2,Lägenhet,1925,[Södermalm],3265000,-175000,3090000,1979,RE/MAX Sverige,493.04878299674465,Zinkensdamm
+2014-12-12,Krukmakargatan 60,Zinkensdamm,Sodermalm,3,68,1,Lägenhet,1989,[Södermalm],3695000,-210000,3485000,3938,Svenska Mäklarhuset,333.7783403620088,Zinkensdamm
+2014-12-10,Krukmakargatan 26,Zinkensdamm,Sodermalm,2,51,6,Lägenhet,1964,[Mariatorget],2895000,505000,3400000,2715,Svensk Fastighetsförmedling,260.5645280276044,Zinkensdamm
+2014-12-08,Heleneborgsgatan 8,Zinkensdamm,Sodermalm,1,40,2,Lägenhet,1925,[Södermalm-Högalid],2495000,325000,2820000,1866,Södermäklarna,493.04878299674465,Zinkensdamm
+2014-12-04,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,1,23,4,Lägenhet,1929,[Södermalm],1995000,205000,2200000,1277,Svenska Mäklarhuset,306.77287109019807,Zinkensdamm
+2014-12-04,Vån 2A,Zinkensdamm,Sodermalm,2,38,1.5,Lägenhet,1930,[Södermalm],2695000,380000,3075000,1954,Svenska Mäklarhuset,272.5914998463999,Zinkensdamm
+2014-12-03,Krukmakarbacken 4A,Zinkensdamm,Sodermalm,2.5,59,null,Lägenhet,1987,[Högalid],3350000,225000,3575000,2796,Fastighetsbyrån,248.5117623469595,Zinkensdamm
+2014-12-03,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,2.5,68.4,null,Lägenhet,1925,[Södermalm-Högalid],4200000,100000,4300000,2653,Södermäklarna,519.1684955005329,Zinkensdamm
+2014-12-03,Heleneborgsgatan 12B,Zinkensdamm,Sodermalm,1,27,0.5,Lägenhet,1923,[Södermalm],1995000,325000,2320000,1035,Erik Olsson Fastighetsförmedling,570.334692335305,Hornstull
+2014-11-30,Brännkyrkagatan 81,Zinkensdamm,Sodermalm,2,60,5,Lägenhet,null,[Södermalm],3550000,300000,3850000,1977,Karlsson & Uddare,149.32324932554124,Zinkensdamm
+2014-11-29,Brännkyrkagatan 73,Zinkensdamm,Sodermalm,2,71,1,Lägenhet,1907,[Södermalm],4250000,200000,4450000,1371,Wrede,239.95718585601796,Zinkensdamm
+2014-11-28,Ludvigsbergsgatan 37,Zinkensdamm,Sodermalm,3,81,1,Lägenhet,1963,[Södermalm Högalid],5200000,250000,5450000,2240,HusmanHagberg,215.60909651037272,Zinkensdamm
+2014-11-26,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,26,3,Lägenhet,1941,[Högalid],2075000,385000,2460000,1509,Svensk Fastighetsförmedling,463.23818207195086,Zinkensdamm
+2014-11-26,Ludvigsbergsgatan 19,Zinkensdamm,Sodermalm,3,81,null,Lägenhet,1963,[Södermalm],5650000,0,5650000,2355,Falgert FastighetsFörmedling AB,297.6075646187027,Zinkensdamm
+2014-11-26,Lundagatan 44A,Zinkensdamm,Sodermalm,1,22.5,3,Lägenhet,1931,[Södermalm Högalid],1795000,380000,2175000,1288,Bjurfors,347.28878808287726,Zinkensdamm
+2014-11-26,Lundagatan 48B,Zinkensdamm,Sodermalm,3,52,null,Lägenhet,1936,[Högalid],3500000,500000,4000000,2505,Fastighetsbyrån,430.56838128339484,Zinkensdamm
+2014-11-26,Krukmakargatan 26,Zinkensdamm,Sodermalm,2,40,1,Lägenhet,1964,[Södermalm],2595000,105000,2700000,2129,Edward & Partners Fastighetsmäklare AB,260.5645280276044,Zinkensdamm
+2014-11-25,Krukmakargatan 27,Zinkensdamm,Sodermalm,2,49,3,Lägenhet,1930,[Södermalm Högalid],2995000,705000,3700000,2380,Bjurfors,282.28206675922087,Zinkensdamm
+2014-11-25,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,31,4,Lägenhet,1927,[Södermalm-Högalid],2095000,405000,2500000,1813,Södermäklarna,370.58001856113816,Zinkensdamm
+2014-11-25,Krukmakargatan 42,Zinkensdamm,Sodermalm,3.5,121,6,Lägenhet,1909,[Södermalm],8750000,-250000,8500000,2723,Per Jansson Fastighetsförmedling,123.48200827736015,Zinkensdamm
+2014-11-22,Lundagatan 42B,Zinkensdamm,Sodermalm,2,42,4,Lägenhet,1930,[Södermalm],2790000,360000,3150000,2105,HusmanHagberg,263.6820038435634,Zinkensdamm
+2014-11-22,Brännkyrkagatan 73,Zinkensdamm,Sodermalm,3,71,4.5,Lägenhet,1907,[Södermalm],4800000,800000,5600000,1537,Erik Olsson Fastighetsförmedling,239.95718585601796,Zinkensdamm
+2014-11-21,Wollmar Yxkullsgatan 52B,Zinkensdamm,Sodermalm,1.5,39,2,Lägenhet,1935,[Maria],2995000,55000,3050000,2171,Fastighetsbyrån,255.66342054297158,Zinkensdamm
+2014-11-20,Brännkyrkagatan 80,Zinkensdamm,Sodermalm,3,74,3,Lägenhet,1983,[Mariatorget],4275000,345000,4620000,2471,Svensk Fastighetsförmedling,102.88458699400721,Zinkensdamm
+2014-11-19,Heleneborgsgatan 14,Zinkensdamm,Sodermalm,2,59,5,Lägenhet,1913,[Högalid],3795000,555000,4350000,2733,Svensk Fastighetsförmedling,516.1171319566398,Hornstull
+2014-11-19,Skinnarviksringen 20,Zinkensdamm,Sodermalm,2,56,null,Lägenhet,1936,[Högalid],3695000,0,3695000,4375,Fastighetsbyrån,356.4416074852787,Zinkensdamm
+2014-11-18,Lundagatan 36E,Zinkensdamm,Sodermalm,2,38,null,Lägenhet,1930,[Hornstull],2650000,90000,2740000,1954,Fastighetsbyrån,283.76731338331825,Zinkensdamm
+2014-11-13,Ludvigsbergsgatan 37,Zinkensdamm,Sodermalm,3,81,2,Lägenhet,1963,[Södermalm Högalid],5400000,200000,5600000,2240,HusmanHagberg,215.60909651037272,Zinkensdamm
+2014-11-12,Krukmakargatan 27,Zinkensdamm,Sodermalm,1.5,49,2,Lägenhet,1930,[Maria],2850000,570000,3420000,2358,Fastighetsbyrån,282.28206675922087,Zinkensdamm
+2014-11-12,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,1.5,61,2,Lägenhet,1929,[Södermalm],2995000,775000,3770000,2599,Fastighetsbyrån,172.02145439387476,Zinkensdamm
+2014-11-12,Lundagatan 48,Zinkensdamm,Sodermalm,1,26,null,Lägenhet,1936,[Södermalm],1875000,155000,2030000,1392,SverigeMäklaren,414.36614513444215,Zinkensdamm
+2014-11-11,Krukmakargatan 26,Zinkensdamm,Sodermalm,2,53,3,Lägenhet,1964,[Södermalm-Högalid],3150000,850000,4000000,2821,Södermäklarna,260.5645280276044,Zinkensdamm
+2014-11-11,Samaritgränd 3,Zinkensdamm,Sodermalm,1,27,null,Lägenhet,1929,[Maria],2000000,250000,2250000,1478,Fastighetsbyrån,320.0002401237804,Zinkensdamm
+2014-11-11,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,26,3,Lägenhet,1884,[Maria],1895000,330000,2225000,1890,Notar,137.0638747703233,Zinkensdamm
+2014-11-08,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,5,105,3,Lägenhet,1964,[Södermalm],5795000,355000,6150000,5589,Svenska Mäklarhuset,288.0787714678536,Zinkensdamm
+2014-11-08,Drakenbergsgatan 11,Zinkensdamm,Sodermalm,4,90,6,Lägenhet,1967,[Södermalm],5395000,375000,5770000,3938,Svenska Mäklarhuset,474.10238105531687,Hornstull
+2014-11-07,Krukmakargatan 31A,Zinkensdamm,Sodermalm,2,46,3,Lägenhet,1930,[Södermalm Högalid],2795000,235000,3030000,2885,HusmanHagberg,251.1823136967325,Zinkensdamm
+2014-11-06,Lundagatan 36D,Zinkensdamm,Sodermalm,1.5,30,null,Lägenhet,1930,[Högalid],2250000,410000,2660000,1610,Fastighetsbyrån,256.12113501511084,Zinkensdamm
+2014-11-05,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,1,34,5,Lägenhet,1925,[Södermalm Högalid],2375000,575000,2950000,1611,HusmanHagberg,519.1684955005329,Zinkensdamm
+2014-11-05,Brännkyrkagatan 90,Zinkensdamm,Sodermalm,4,91,null,Lägenhet,1933,[Högalid],6975000,655000,7630000,4775,SkandiaMäklarna,91.01468928114012,Zinkensdamm
+2014-10-31,Doktor Abelins gata 2,Zinkensdamm,Sodermalm,2,47,2,Lägenhet,1928,[Södermalm-Högalid],2850000,310000,3160000,2294,Södermäklarna,293.20263552176937,Zinkensdamm
+2014-10-27,Ringvägen 4,Zinkensdamm,Sodermalm,3,83.5,4,Lägenhet,1894,[Högalid],5250000,50000,5300000,3130,Bostadsrättsspecialisten,69.34252729681138,Zinkensdamm
+2014-10-25,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,47,1,Lägenhet,1929,[Södermalm],2975000,295000,3270000,2079,Mäklarringen,172.02145439387476,Zinkensdamm
+2014-10-23,Krukmakargatan 50,Zinkensdamm,Sodermalm,4,130,5,Lägenhet,1909,[Högalid],7795000,505000,8300000,5553,Fastighetsbyrån,167.8865347852018,Zinkensdamm
+2014-10-23,Krukmakargatan 48A,Zinkensdamm,Sodermalm,2.5,60,2,Lägenhet,1906,[Södermalm Högalid Zinkensdamm],3695000,625000,4320000,2777,HusmanHagberg,140.35496182481845,Zinkensdamm
+2014-10-23,Drakenbergsgatan 1,Zinkensdamm,Sodermalm,4,90,6,Lägenhet,1967,[Södermalm-Högalid],5395000,135000,5530000,3938,Södermäklarna,488.22092085207674,Zinkensdamm
+2014-10-23,Ringvägen 11A,Zinkensdamm,Sodermalm,4,86,6,Lägenhet,1983,[Södermalm],5150000,575000,5725000,2869,Mäklarringen,82.0833464930955,Zinkensdamm
+2014-10-23,Hornsgatan 107,Zinkensdamm,Sodermalm,2,60,6,Lägenhet,1967,[Södermalm-Högalid],3450000,220000,3670000,2625,Södermäklarna,432.19390922246805,Hornstull
+2014-10-22,Lundagatan 38A,Zinkensdamm,Sodermalm,1.5,41,null,Lägenhet,1930,[Södermalm],2750000,335000,3085000,2010,Fastighetsbyrån,244.472090944914,Zinkensdamm
+2014-10-17,Ringvägen 11C,Zinkensdamm,Sodermalm,3,82,6,Lägenhet,1982,[Södermalm Skinnarviksberget],4995000,355000,5350000,2770,HusmanHagberg,68.61692050756017,Zinkensdamm
+2014-10-16,Brännkyrkagatan 95A,Zinkensdamm,Sodermalm,1,36,5,Lägenhet,1909,[Högalid],2450000,300000,2750000,1981,SkandiaMäklarna,50.01213532020401,Zinkensdamm
+2014-10-13,Krukmakargatan 59,Zinkensdamm,Sodermalm,1,37,null,Lägenhet,null,[Sut],2395000,225000,2620000,2399,Mäklarhuset,332.9456407994397,Zinkensdamm
+2014-10-10,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,1.5,41,3.5,Lägenhet,1942,[Södermalm],2595000,255000,2850000,2324,Erik Olsson Fastighetsförmedling,128.25045094511074,Zinkensdamm
+2014-10-09,Lundagatan 42A,Zinkensdamm,Sodermalm,2,51.5,1,Lägenhet,1930,[Högalid],3495000,40000,3535000,2535,Fastighetsbyrån,316.1294023766264,Zinkensdamm
+2014-10-08,Krukmakargatan 50,Zinkensdamm,Sodermalm,2,87,null,Lägenhet,1909,[Maria],5200000,0,5200000,3771,Fastighetsbyrån,167.8865347852018,Zinkensdamm
+2014-10-08,Drakenbergsgatan 23,Zinkensdamm,Sodermalm,4,92,1,Lägenhet,1967,[Högalid],4995000,580000,5575000,4025,Fastighetsbyrån,417.84008926211266,Hornstull
+2014-10-07,Krukmakargatan 69,Zinkensdamm,Sodermalm,2,43,2,Lägenhet,1942,[Södermalm],2795000,930000,3725000,2729,Notar,400.68656434919404,Zinkensdamm
+2014-10-03,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,3,69,5,Lägenhet,1968,[Södermalm],3995000,338333,4333333,2844,Svenska Mäklarhuset,51.59848310629898,Zinkensdamm
+2014-10-02,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,1,31,4,Lägenhet,1935,[Högalid],2395000,105000,2500000,1951,Fastighetsbyrån,270.50080349894375,Zinkensdamm
+2014-10-02,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,1,39,1,Lägenhet,1935,[Mariatorget],2450000,200000,2650000,2171,HusmanHagberg,270.50080349894375,Zinkensdamm
+2014-10-01,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,24,2,Lägenhet,null,[Mariatorget],1850000,170000,2020000,1979,Svensk Fastighetsförmedling,137.0638747703233,Zinkensdamm
+2014-10-01,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,2,42,null,Lägenhet,1928,[Högalid],2695000,325000,3020000,2079,Fastighetsbyrån,296.22812010846377,Zinkensdamm
+2014-09-27,Krukmakargatan 48A,Zinkensdamm,Sodermalm,2,56,null,Lägenhet,1906,[Södermalm],3000000,370000,3370000,2657,Erik Olsson Fastighetsförmedling,140.35496182481845,Zinkensdamm
+2014-09-25,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,1.5,41,null,Lägenhet,1942,[Södermalm-Högalid],2295000,255000,2550000,2324,Södermäklarna,128.25045094511074,Zinkensdamm
+2014-09-25,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1,28,2,Lägenhet,1935,[Södermalm],1995000,465000,2460000,2185,Erik Olsson Fastighetsförmedling,124.2941811776174,Zinkensdamm
+2014-09-24,Lundagatan 36E,Zinkensdamm,Sodermalm,1.5,37,4,Lägenhet,1930,[Södermalm Högalid Hornstull],2875000,1225000,4100000,1937,HusmanHagberg,283.76731338331825,Zinkensdamm
+2014-09-24,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,2,59,5,Lägenhet,1964,[Södermalm],3295000,405000,3700000,3141,Fantastic Frank Fastighetsmäkleri,288.0787714678536,Zinkensdamm
+2014-09-24,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,2,50,null,Lägenhet,1935,[Högalid],2950000,650000,3600000,2616,Fastighetsbyrån,270.50080349894375,Zinkensdamm
+2014-09-23,Wollmar Yxkullsgatan 48C,Zinkensdamm,Sodermalm,1,29.5,4,Lägenhet,1927,[Mariatorget],1995000,530000,2525000,1587,Fastighetsmäklarna,266.24436093447775,Zinkensdamm
+2014-09-23,Hornsgatan 94,Zinkensdamm,Sodermalm,2,55,6,Lägenhet,1943,[Södermalm],3595000,25000,3620000,2995,Svenska Mäklarhuset,127.00600427338945,Zinkensdamm
+2014-09-19,Brännkyrkagatan 77A,Zinkensdamm,Sodermalm,3,80.5,6,Lägenhet,1969,[Zinkensdamm],4700000,1300000,6000000,1719,Hemmäklarna,181.14417706537947,Zinkensdamm
+2014-09-18,Krukmakargatan 64,Zinkensdamm,Sodermalm,2,45,0.5,Lägenhet,1942,[Södermalm Högalid],2575000,275000,2850000,2848,HusmanHagberg,364.5888434998024,Zinkensdamm
+2014-09-18,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,2,60,5,Lägenhet,1925,[Södermalm],4150000,670000,4820000,2750,Notar,519.1684955005329,Zinkensdamm
+2014-09-18,Krukmakargatan 33A,Zinkensdamm,Sodermalm,2,77,null,Lägenhet,1987,[Högalid],3895000,565000,4460000,3632,Fastighetsbyrån,219.91342480407343,Zinkensdamm
+2014-09-18,Skinnarviksringen 20,Zinkensdamm,Sodermalm,2,56,3,Lägenhet,1936,[Södermalm Högalid],3900000,250000,4150000,4417,HusmanHagberg,356.4416074852787,Zinkensdamm
+2014-09-18,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,1,40,3,Lägenhet,null,[Södermalm],2495000,515000,3010000,1864,ERA,172.02145439387476,Zinkensdamm
+2014-09-18,Krukmakargatan 42,Zinkensdamm,Sodermalm,2,82,1.5,Lägenhet,1907,[Södermalm Högalid],5500000,150000,5650000,2065,Bjurfors,123.48200827736015,Zinkensdamm
+2014-09-16,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1.5,34,2,Lägenhet,1935,[Södermalm-Högalid],2450000,50000,2500000,2395,Södermäklarna,124.2941811776174,Zinkensdamm
+2014-09-12,Lundagatan 50,Zinkensdamm,Sodermalm,2,39,1,Lägenhet,null,[Södermalm],2925000,725000,3650000,1878,Fantastic Frank Fastighetsmäkleri,419.9094431523744,Zinkensdamm
+2014-09-12,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,1,36,3,Lägenhet,1943,[Högalid],2395000,75000,2470000,2097,Fastighetsbyrån,128.25045094511074,Zinkensdamm
+2014-09-11,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,23,null,Lägenhet,null,[Högalid],1830000,70000,1900000,1198,Svensk Fastighetsförmedling,463.23818207195086,Zinkensdamm
+2014-09-10,Lundagatan 46,Zinkensdamm,Sodermalm,1.5,33,2.5,Lägenhet,null,[Högalid],2395000,455000,2850000,1702,Svensk Fastighetsförmedling,387.30072148172064,Zinkensdamm
+2014-09-10,Rosenlundsgatan 24,Zinkensdamm,Sodermalm,2,39,2,Lägenhet,1928,[Södermalm Mariatorget],2595000,705000,3300000,1943,HusmanHagberg,357.8558054997864,Zinkensdamm
+2014-09-09,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,39.5,1,Lägenhet,1927,[Södermalm-Högalid],2375000,545000,2920000,1931,Södermäklarna,296.22812010846377,Zinkensdamm
+2014-09-04,Lundagatan 44B,Zinkensdamm,Sodermalm,2,37,3,Lägenhet,1930,[Södermalm-Högalid],2495000,420000,2915000,1890,Södermäklarna,356.5734682201418,Zinkensdamm
+2014-09-03,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,2.5,68,null,Lägenhet,1925,[Högalid],3995000,605000,4600000,2996,SkandiaMäklarna,519.1684955005329,Zinkensdamm
+2014-08-29,Brännkyrkagatan 90,Zinkensdamm,Sodermalm,2,56,2,Lägenhet,1899,[Södermalm],3495000,505000,4000000,3220,Länsförsäkringar Fastighetsförmedling,91.01468928114012,Zinkensdamm
+2014-08-28,Lundagatan 44C,Zinkensdamm,Sodermalm,2.5,53,null,Lägenhet,1930,[Högalid Södermalm],3195000,325000,3520000,2495,Högalidsmäklarna,372.33826706848936,Zinkensdamm
+2014-08-27,Lundagatan 48B,Zinkensdamm,Sodermalm,1,18,1.5,Lägenhet,1936,[Södermalm-Högalid],1700000,225000,1925000,1134,Södermäklarna,430.56838128339484,Zinkensdamm
+2014-08-26,Krukmakargatan 60,Zinkensdamm,Sodermalm,5,88,2,Lägenhet,1988,[Södermalm],4495000,1755000,6250000,4900,Living Fastighetsmäkleri,333.7783403620088,Zinkensdamm
+2014-08-22,Ludvigsbergsgatan 35,Zinkensdamm,Sodermalm,3,81,3,Lägenhet,1963,[Södermalm Högalid],5300000,450000,5750000,2240,HusmanHagberg,224.51503451835725,Zinkensdamm
+2014-08-21,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1,25,2,Lägenhet,null,[Högalid],1995000,280000,2275000,1960,Svensk Fastighetsförmedling,124.2941811776174,Zinkensdamm
+2014-08-20,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,2,58,6,Lägenhet,1925,[Södermalm-Högalid],3950000,725000,4675000,2660,Södermäklarna,519.1684955005329,Zinkensdamm
+2014-08-20,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,1.5,39,4,Lägenhet,1935,[Högalid],2695000,535000,3230000,2171,Fastighetsbyrån,270.50080349894375,Zinkensdamm
+2014-08-20,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,2,33,0.5,Lägenhet,1945,[Högalid],1990000,710000,2700000,2325,BOSTHLM,325.4329619130417,Zinkensdamm
+2014-08-18,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,1,21,0.5,Lägenhet,null,[Högalid],1675000,385000,2060000,1575,Svensk Fastighetsförmedling,325.4329619130417,Zinkensdamm
+2014-08-15,Krukmakargatan 31,Zinkensdamm,Sodermalm,1,30,0.5,Lägenhet,1930,[Södermalm],2250000,50000,2300000,1912,Hemmäklarna,249.21070732327436,Zinkensdamm
+2014-08-15,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,1,32,null,Lägenhet,1932,[Södermalm-Högalid],1950000,670000,2620000,1605,Södermäklarna,305.4402930279476,Zinkensdamm
+2014-08-14,Lundagatan 48B,Zinkensdamm,Sodermalm,1,21,null,Lägenhet,1937,[Södermalm],1695000,345000,2040000,1126,Svenska Mäklarhuset,430.56838128339484,Zinkensdamm
+2014-08-14,Hornsgatan 77,Zinkensdamm,Sodermalm,3,100,2,Lägenhet,1888,[Södermalm],6750000,950000,7700000,4319,Svenska Mäklarhuset,98.80279298866444,Zinkensdamm
+2014-08-11,Lundagatan 44D,Zinkensdamm,Sodermalm,1,30.5,4,Lägenhet,1930,[Södermalm],2350000,-100000,2250000,1632,Hemmäklarna,338.84470158505655,Zinkensdamm
+2014-08-08,Lundagatan 52,Zinkensdamm,Sodermalm,1.5,36,3,Lägenhet,1931,[Södermalm],2875000,275000,3150000,1751,Erik Olsson Fastighetsförmedling,413.04639393098495,Zinkensdamm
+2014-08-06,Krukmakargatan 69,Zinkensdamm,Sodermalm,1,23,2,Lägenhet,1942,[Södermalm],1750000,550000,2300000,1596,Notar,400.68656434919404,Zinkensdamm
+2014-08-06,Lundagatan 48B,Zinkensdamm,Sodermalm,1,28,null,Lägenhet,1932,[Högalid],1995000,410000,2405000,1431,Fastighetsbyrån,430.56838128339484,Zinkensdamm
+2014-08-04,Ringvägen 14,Zinkensdamm,Sodermalm,1,18,4,Lägenhet,1909,[Högalid],1850000,20000,1870000,451,Fastighetsbyrån,110.26120279310834,Zinkensdamm
+2014-08-02,Drakenbergsgatan 15,Zinkensdamm,Sodermalm,4,92,8,Lägenhet,1967,[Södermalm Högalid Hornstull],5500000,-150000,5350000,4025,HusmanHagberg,459.6360443500298,Hornstull
+2014-07-29,Hornsgatan 89,Zinkensdamm,Sodermalm,1,36,null,Lägenhet,1905,[Södermalm],2495000,455000,2950000,1405,Fantastic Frank Fastighetsmäkleri,135.15285361102946,Zinkensdamm
+2014-07-26,Hornsgatan 90,Zinkensdamm,Sodermalm,1,27,1,Lägenhet,1928,[Mariatorget],1995000,145000,2140000,1283,SkandiaMäklarna,172.5241095251185,Zinkensdamm
+2014-07-25,Lundagatan 48A,Zinkensdamm,Sodermalm,2,28,2,Lägenhet,null,[Högalid],2095000,385000,2480000,1518,Svensk Fastighetsförmedling,399.21780091460164,Zinkensdamm
+2014-07-23,Krukmakargatan 26,Zinkensdamm,Sodermalm,4,97,4,Lägenhet,1964,[Södermalm],5450000,550000,6000000,5163,Erik Olsson Fastighetsförmedling,260.5645280276044,Zinkensdamm
+2014-07-07,Krukmakargatan 64,Zinkensdamm,Sodermalm,1,33,0.5,Lägenhet,1942,[Södermalm],1990000,330000,2320000,2135,Erik Olsson Fastighetsförmedling,364.5888434998024,Zinkensdamm
+2014-07-03,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1,25,1.5,Lägenhet,1936,[Södermalm Högalid Zinkensdamm],1825000,260000,2085000,1960,HusmanHagberg,124.2941811776174,Zinkensdamm
+2014-07-03,Krukmakargatan 67,Zinkensdamm,Sodermalm,1,34,1,Lägenhet,1942,[Södermalm Högalid],2275000,225000,2500000,2368,HusmanHagberg,391.52901546628755,Zinkensdamm
+2014-06-25,Drakenbergsgatan 21,Zinkensdamm,Sodermalm,1,32.1,null,Lägenhet,1967,[Södermalm],1895000,285000,2180000,1623,Edward & Partners Fastighetsmäklare AB,425.0140920434177,Hornstull
+2014-06-13,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,3,85,7,Lägenhet,1967,[Hornstull],3975000,735000,4710000,3719,Fastighetsbyrån,453.145596108398,Hornstull
+2014-06-13,Krukmakargatan 27,Zinkensdamm,Sodermalm,1.5,39,0.5,Lägenhet,1930,[Högalid],2495000,555000,3050000,1986,Fastighetsbyrån,282.28206675922087,Zinkensdamm
+2014-06-13,Krukmakarbacken 4A,Zinkensdamm,Sodermalm,2,62,null,Lägenhet,1987,[Högalid],3350000,150000,3500000,3042,Fastighetsbyrån,248.5117623469595,Zinkensdamm
+2014-06-12,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,2.5,70,null,Lägenhet,1925,[Högalid],3975000,700000,4675000,3109,SkandiaMäklarna,519.1684955005329,Zinkensdamm
+2014-06-12,Krukmakargatan 31A,Zinkensdamm,Sodermalm,1,34,1,Lägenhet,1930,[Södermalm-Maria],2250000,0,2250000,2165,Södermäklarna,251.1823136967325,Zinkensdamm
+2014-06-12,Krukmakargatan 38,Zinkensdamm,Sodermalm,1,24,2,Lägenhet,1884,[Södermalm-Högalid],1675000,525000,2200000,1980,Södermäklarna,137.0638747703233,Zinkensdamm
+2014-06-05,Krukmakargatan 31B,Zinkensdamm,Sodermalm,1.5,44,2,Lägenhet,1930,[Södermalm-Högalid],2650000,0,2650000,2789,Södermäklarna,255.82431133075622,Zinkensdamm
+2014-05-31,Lundagatan 40B,Zinkensdamm,Sodermalm,2,41.5,3,Lägenhet,1939,[Södermalm Högalid],2695000,0,2695000,2105,HusmanHagberg,293.8782697881175,Zinkensdamm
+2014-05-28,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,4,91,null,Lägenhet,1927,[Maria],4295000,875000,5170000,3867,Fastighetsbyrån,370.58001856113816,Zinkensdamm
+2014-05-28,Samaritgränd 1,Zinkensdamm,Sodermalm,3,67,null,Lägenhet,1928,[Högalid],3895000,280000,4175000,2421,Fastighetsbyrån,336.29492462735675,Zinkensdamm
+2014-05-28,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,2,48,null,Lägenhet,1928,[Högalid],2995000,405000,3400000,2717,Fastighetsbyrån,296.22812010846377,Zinkensdamm
+2014-05-28,Lundagatan 29,Zinkensdamm,Sodermalm,2,50,0.5,Lägenhet,1894,[Högalid],3250000,360000,3610000,2212,Bostadsrättsspecialisten,132.90401612309432,Zinkensdamm
+2014-05-28,Wollmar Yxkullsgatan 48C,Zinkensdamm,Sodermalm,1,29.5,null,Lägenhet,1928,[Högalid],1995000,525000,2520000,1531,Fastighetsbyrån,266.24436093447775,Zinkensdamm
+2014-05-27,Brännkyrkagatan 95A,Zinkensdamm,Sodermalm,2,36,2,Lägenhet,1909,[Södermalm-Högalid],2450000,420000,2870000,1981,Södermäklarna,50.01213532020401,Zinkensdamm
+2014-05-27,Krukmakargatan 24,Zinkensdamm,Sodermalm,1,22,null,Lägenhet,1964,[Södermalm],1695000,330000,2025000,1172,Erik Olsson Fastighetsförmedling,281.4418269206465,Zinkensdamm
+2014-05-24,Hornsgatan 107,Zinkensdamm,Sodermalm,4,87,2,Lägenhet,1967,[Hornstull],4195000,105000,4300000,3806,BOSTHLM,432.19390922246805,Hornstull
+2014-05-23,Lundagatan 36D,Zinkensdamm,Sodermalm,2,38,2.5,Lägenhet,1931,[Södermalm Högalid],2395000,465000,2860000,1954,Bjurfors,256.12113501511084,Zinkensdamm
+2014-05-22,Samaritgränd 3,Zinkensdamm,Sodermalm,2,43,3,Lägenhet,1929,[Maria],2795000,430000,3225000,2354,Fastighetsbyrån,320.0002401237804,Zinkensdamm
+2014-05-22,Ludvigsbergsgatan 35,Zinkensdamm,Sodermalm,1.5,34,null,Lägenhet,1963,[Högalid],2295000,605000,2900000,944,Fastighetsbyrån,224.51503451835725,Zinkensdamm
+2014-05-22,Krukmakarbacken 4B,Zinkensdamm,Sodermalm,2,42,null,Lägenhet,1987,[Högalid],2495000,255000,2750000,1919,Fastighetsbyrån,239.48703389827733,Zinkensdamm
+2014-05-21,Lundagatan 40B,Zinkensdamm,Sodermalm,2,41.5,2.5,Lägenhet,1930,[Högalid],2475000,175000,2650000,2104,SkandiaMäklarna,293.8782697881175,Zinkensdamm
+2014-05-21,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,20,1,Lägenhet,1927,[Södermalm],1695000,205000,1900000,1190,Notar,296.22812010846377,Zinkensdamm
+2014-05-19,Doktor Abelins gata 6,Zinkensdamm,Sodermalm,1.5,45,4,Lägenhet,1928,[Södermalm],2595000,445000,3040000,2096,Erik Olsson Fastighetsförmedling,319.03891034120284,Zinkensdamm
+2014-05-15,Hornsgatan 107,Zinkensdamm,Sodermalm,2,64,2,Lägenhet,1967,[Södermalm-Högalid],3475000,0,3475000,2800,Södermäklarna,432.19390922246805,Hornstull
+2014-05-15,Ludvigsbergsgatan 37,Zinkensdamm,Sodermalm,3,81,5,Lägenhet,1963,[Södermalm Högalid],4950000,850000,5800000,2240,HusmanHagberg,215.60909651037272,Zinkensdamm
+2014-05-15,Skinnarviksringen 20,Zinkensdamm,Sodermalm,2,50,null,Lägenhet,1936,[Högalid],2795000,355000,3150000,3730,Fastighetsbyrån,356.4416074852787,Zinkensdamm
+2014-05-15,Brännkyrkagatan 81,Zinkensdamm,Sodermalm,1.5,60,5,Lägenhet,1929,[Södermalm],3495000,-145000,3350000,1977,Svenska Mäklarhuset,149.32324932554124,Zinkensdamm
+2014-05-15,Kristinehovsgatan 5,Zinkensdamm,Sodermalm,1,36,1,Lägenhet,1941,[Södermalm-Högalid],2295000,245000,2540000,1868,Södermäklarna,461.1368205397797,Zinkensdamm
+2014-05-14,Kristinehovsgatan 5,Zinkensdamm,Sodermalm,1,27,4,Lägenhet,1941,[Högalid],1895000,435000,2330000,1511,Fastighetsbyrån,461.1368205397797,Zinkensdamm
+2014-05-08,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,2,59,2,Lägenhet,1964,[Södermalm],3150000,160000,3310000,2855,Erik Olsson Fastighetsförmedling,288.0787714678536,Zinkensdamm
+2014-05-08,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,2,43,2,Lägenhet,1928,[Södermalm Högalid],2495000,590000,3085000,2333,Bjurfors,306.77287109019807,Zinkensdamm
+2014-05-07,Wollmar Yxkullsgatan 52B,Zinkensdamm,Sodermalm,2,39,null,Lägenhet,1935,[Högalid],2495000,705000,3200000,2171,Fastighetsbyrån,255.66342054297158,Zinkensdamm
+2014-05-07,Ludvigsbergsgatan 31,Zinkensdamm,Sodermalm,5,118,3,Lägenhet,1963,[Maria],7495000,755000,8250000,3262,Notar,253.88256916168876,Zinkensdamm
+2014-04-30,Wollmar Yxkullsgatan 50A,Zinkensdamm,Sodermalm,2.5,49,0.5,Lägenhet,1935,[Södermalm],2950000,-75000,2875000,2672,Svenska Mäklarhuset,288.5865644986229,Zinkensdamm
+2014-04-30,Ringvägen 11B,Zinkensdamm,Sodermalm,2,63.5,null,Lägenhet,1982,[Södermalm Skinnarviksberget],2995000,420000,3415000,1978,HusmanHagberg,75.19464362827475,Zinkensdamm
+2014-04-30,Krukmakargatan 73,Zinkensdamm,Sodermalm,2,66,2,Lägenhet,1988,[Södermalm],2995000,115000,3110000,3631,Erik Olsson Fastighetsförmedling,440.4647780161238,Zinkensdamm
+2014-04-29,Lundagatan 36D,Zinkensdamm,Sodermalm,1,25,4,Lägenhet,1930,[Södermalm Högalid],2225000,100000,2325000,1413,HusmanHagberg,256.12113501511084,Zinkensdamm
+2014-04-29,Lundagatan 36D,Zinkensdamm,Sodermalm,1,29.5,1.5,Lägenhet,1930,[Södermalm],1995000,205000,2200000,1589,Svenska Mäklarhuset,256.12113501511084,Zinkensdamm
+2014-04-24,Krukmakargatan 26,Zinkensdamm,Sodermalm,2,53,4,Lägenhet,1964,[Södermalm],2695000,625000,3320000,2821,Erik Olsson Fastighetsförmedling,260.5645280276044,Zinkensdamm
+2014-04-24,Krukmakargatan 45,Zinkensdamm,Sodermalm,4,88,4,Lägenhet,1988,[Södermalm],4995000,1405000,6400000,4900,Svenska Mäklarhuset,225.11758199277736,Zinkensdamm
+2014-04-17,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,2,39,null,Lägenhet,1928,[Mariatorget],2395000,80000,2475000,2024,SkandiaMäklarna,296.22812010846377,Zinkensdamm
+2014-04-17,Drakenbergsgatan 19,Zinkensdamm,Sodermalm,4,90,4,Lägenhet,1967,[Södermalm],4995000,55000,5050000,3938,Notar,433.9232150710353,Hornstull
+2014-04-16,Hornsgatan 85,Zinkensdamm,Sodermalm,2,68,5,Lägenhet,1905,[Södermalm],4150000,500000,4650000,2996,Fastighetsbyrån,93.52167002056484,Zinkensdamm
+2014-04-16,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1,22,1,Lägenhet,1934,[Södermalm-Högalid],1595000,325000,1920000,1647,Södermäklarna,124.2941811776174,Zinkensdamm
+2014-04-16,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,1,33,4,Lägenhet,1945,[Södermalm],2325000,0,2325000,2325,BOSTHLM,325.4329619130417,Zinkensdamm
+2014-04-15,Lundagatan 38B,Zinkensdamm,Sodermalm,2,40.5,4,Lägenhet,1930,[Högalid],2575000,445000,3020000,2062,SkandiaMäklarna,267.06666292823326,Zinkensdamm
+2014-04-11,Krukmakargatan 73,Zinkensdamm,Sodermalm,4,96,5,Lägenhet,1988,[Södermalm],4995000,30000,5025000,5132,Svenska Mäklarhuset,440.4647780161238,Zinkensdamm
+2014-04-09,Lundagatan 29,Zinkensdamm,Sodermalm,2,76,2,Lägenhet,1894,[Södermalm],4700000,225000,4925000,3476,Vision Fastighetsmäkleri AB,132.90401612309432,Zinkensdamm
+2014-04-09,Lundagatan 38A,Zinkensdamm,Sodermalm,1,33,2,Lägenhet,1930,[Högalid],2095000,460000,2555000,1739,Fastighetsbyrån,244.472090944914,Zinkensdamm
+2014-04-09,Hornsgatan 107,Zinkensdamm,Sodermalm,4,87,null,Lägenhet,1967,[Hornstull],4490000,-290000,4200000,3806,SkandiaMäklarna,432.19390922246805,Hornstull
+2014-04-09,Krukmakargatan 73,Zinkensdamm,Sodermalm,3,80,3,Lägenhet,1988,[Södermalm],3995000,0,3995000,4200,Fastighetsbyrån,440.4647780161238,Zinkensdamm
+2014-04-04,Lundagatan 44A,Zinkensdamm,Sodermalm,2,47.5,1.5,Lägenhet,1930,[Södermalm],2795000,265000,3060000,2363,Svenska Mäklarhuset,347.28878808287726,Zinkensdamm
+2014-04-04,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,3,60,4,Lägenhet,null,[Södermalm Högalid Hornstull],2995000,255000,3250000,2625,HusmanHagberg,453.145596108398,Hornstull
+2014-04-04,Krukmakargatan 31B,Zinkensdamm,Sodermalm,1,44,1,Lägenhet,1930,[Södermalm],2550000,100000,2650000,2761,Erik Olsson Fastighetsförmedling,255.82431133075622,Zinkensdamm
+2014-04-03,Krukmakargatan 51,Zinkensdamm,Sodermalm,2,48,3,Lägenhet,1942,[Högalid],3100000,440000,3540000,3134,Fastighetsbyrån,272.0929964753242,Zinkensdamm
+2014-04-01,Brännkyrkagatan 95A,Zinkensdamm,Sodermalm,1,35,1,Lägenhet,1909,[Högalid],2150000,265000,2415000,1942,Fastighetsbyrån,50.01213532020401,Zinkensdamm
+2014-03-29,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,61,null,Lägenhet,1929,[Mariatorget],3590000,70000,3660000,2674,SkandiaMäklarna,172.02145439387476,Zinkensdamm
+2014-03-28,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,43,5,Lägenhet,1932,[Södermalm Högalid],2790000,175000,2965000,2379,HusmanHagberg,305.4402930279476,Zinkensdamm
+2014-03-28,Lundagatan 41A,Zinkensdamm,Sodermalm,3,74,4,Lägenhet,1906,[Högalid],4290000,260000,4550000,4483,HusmanHagberg,230.75525357285863,Zinkensdamm
+2014-03-28,Kristinehovsgatan 5B,Zinkensdamm,Sodermalm,2,45,1,Lägenhet,1941,[Södermalm],3160000,0,3160000,2283,BOSTHLM,461.1368205397797,Zinkensdamm
+2014-03-27,Lundagatan 40B,Zinkensdamm,Sodermalm,2,34,1.5,Lägenhet,1930,[Södermalm],2350000,475000,2825000,1782,Magnusson Mäkleri,293.8782697881175,Zinkensdamm
+2014-03-27,Doktor Abelins gata 6,Zinkensdamm,Sodermalm,2,66,0.5,Lägenhet,null,[Södermalm],3695000,-75000,3620000,2920,Svensk Fastighetsförmedling,319.03891034120284,Zinkensdamm
+2014-03-26,Lundagatan 36D,Zinkensdamm,Sodermalm,2,37.5,null,Lägenhet,1930,[Södermalm],2250000,800000,3050000,1855,Svenska Mäklarhuset,256.12113501511084,Zinkensdamm
+2014-03-26,Krukmakargatan 24,Zinkensdamm,Sodermalm,4,85,5,Lägenhet,1964,[Södermalm],4695000,905000,5600000,4524,Edward & Partners Fastighetsmäklare AB,281.4418269206465,Zinkensdamm
+2014-03-26,Wollmar Yxkullsgatan 52B,Zinkensdamm,Sodermalm,2,51,null,Lägenhet,1935,[Mariatorget],3250000,265000,3515000,2610,SkandiaMäklarna,255.66342054297158,Zinkensdamm
+2014-03-26,Lundagatan 50,Zinkensdamm,Sodermalm,2,52,1.5,Lägenhet,1937,[Södermalm],3475000,360000,3835000,2347,Fantastic Frank Fastighetsmäkleri,419.9094431523744,Zinkensdamm
+2014-03-26,Zinkens väg 59,Zinkensdamm,Sodermalm,3,63,4,Lägenhet,1988,[Södermalm],3695000,905000,4600000,3648,Svenska Mäklarhuset,344.136915096023,Zinkensdamm
+2014-03-21,Lundagatan 38B,Zinkensdamm,Sodermalm,2,42,4,Lägenhet,1931,[Södermalm Högalid],2950000,200000,3150000,2094,Bjurfors,267.06666292823326,Zinkensdamm
+2014-03-13,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,39.5,1,Lägenhet,1927,[Södermalm],2395000,55000,2450000,2175,Notar,296.22812010846377,Zinkensdamm
+2014-03-13,Wollmar Yxkullsgatan 50A,Zinkensdamm,Sodermalm,2,53,3,Lägenhet,1935,[Södermalm],3495000,755000,4250000,2890,Svenska Mäklarhuset,288.5865644986229,Zinkensdamm
+2014-03-12,Lundagatan 44B,Zinkensdamm,Sodermalm,2,47,2,Lägenhet,1931,[Södermalm Högalid],2995000,5000,3000000,2341,Södermäklarna,356.5734682201418,Zinkensdamm
+2014-03-12,Heleneborgsgatan 6B,Zinkensdamm,Sodermalm,1,25,5,Lägenhet,1925,[Södermalm Högalid],1950000,130000,2080000,1592,Bjurfors,493.04878299674465,Zinkensdamm
+2014-03-11,Lundagatan 48B,Zinkensdamm,Sodermalm,2,27,3,Lägenhet,1936,[Södermalm-Högalid],2150000,510000,2660000,1481,Södermäklarna,430.56838128339484,Zinkensdamm
+2014-03-11,Drakenbergsgatan 23,Zinkensdamm,Sodermalm,4,92,3,Lägenhet,1967,[Södermalm-Högalid],4950000,410000,5360000,4025,Södermäklarna,417.84008926211266,Hornstull
+2014-03-11,Krukmakargatan 48,Zinkensdamm,Sodermalm,2,69,1,Lägenhet,1906,[Södermalm-Högalid],3995000,55000,4050000,3140,Södermäklarna,154.8307942865166,Zinkensdamm
+2014-03-06,Drakenbergsgatan 8,Zinkensdamm,Sodermalm,2,64,8,Lägenhet,1967,[Södermalm-Högalid],3275000,200000,3475000,2800,Södermäklarna,453.145596108398,Hornstull
+2014-03-05,Hornsgatan 94,Zinkensdamm,Sodermalm,2,53,5,Lägenhet,1943,[Södermalm],3175000,555000,3730000,2928,Svenska Mäklarhuset,127.00600427338945,Zinkensdamm
+2014-03-05,Krukmakargatan 73,Zinkensdamm,Sodermalm,2,66,null,Lägenhet,1988,[Södermalm],3395000,-195000,3200000,3631,Erik Olsson Fastighetsförmedling,440.4647780161238,Zinkensdamm
+2014-03-05,Krukmakargatan 27,Zinkensdamm,Sodermalm,2,49,2,Lägenhet,1930,[Södermalm],3400000,0,3400000,2358,BOSTHLM,282.28206675922087,Zinkensdamm
+2014-02-28,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,47,5,Lägenhet,1928,[Södermalm],2950000,125000,3075000,2077,Erik Olsson Fastighetsförmedling,172.02145439387476,Zinkensdamm
+2014-02-27,Lundagatan 36D,Zinkensdamm,Sodermalm,2,38,3,Lägenhet,1930,[Södermalm],3490000,-290000,3200000,1980,Erik Olsson Fastighetsförmedling,256.12113501511084,Zinkensdamm
+2014-02-24,Krukmakargatan 26,Zinkensdamm,Sodermalm,3,85,4,Lägenhet,1964,[Södermalm],4495000,165000,4660000,4113,Erik Olsson Fastighetsförmedling,260.5645280276044,Zinkensdamm
+2014-02-21,Ringvägen 9F,Zinkensdamm,Sodermalm,4,84,1.5,Lägenhet,1982,[Södermalm],4495000,810000,5305000,2685,HusmanHagberg,153.23009284920752,Zinkensdamm
+2014-02-21,Krukmakargatan 48,Zinkensdamm,Sodermalm,3,107,4,Lägenhet,1906,[Södermalm Högalid],5995000,-195000,5800000,4709,Bjurfors,154.8307942865166,Zinkensdamm
+2014-02-19,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,2,69,1,Lägenhet,1968,[Mariatorget],2950000,650000,3600000,2656,SkandiaMäklarna,51.59848310629898,Zinkensdamm
+2014-02-19,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,3,71,5,Lägenhet,null,[Mariatorget],3995000,630000,4625000,3799,Mäklarhuset,128.25045094511074,Zinkensdamm
+2014-02-17,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,30,3,Lägenhet,1941,[Högalid],1945000,355000,2300000,1652,Mäklarhuset,463.23818207195086,Zinkensdamm
+2014-02-13,Lundagatan 29,Zinkensdamm,Sodermalm,1.5,41,null,Lägenhet,1894,[Högalid],2495000,405000,2900000,2121,SkandiaMäklarna,132.90401612309432,Zinkensdamm
+2014-02-12,Krukmakargatan 26,Zinkensdamm,Sodermalm,2,53,5,Lägenhet,1964,[Södermalm-Högalid],2895000,355000,3250000,2565,Södermäklarna,260.5645280276044,Zinkensdamm
+2014-02-11,Varvsgatan 1A,Zinkensdamm,Sodermalm,2,53,5,Lägenhet,1913,[Högalid],3975000,275000,4250000,2606,Fastighetsbyrån,531.5503455934813,Hornstull
+2014-02-06,Lundagatan 42B,Zinkensdamm,Sodermalm,2,41.5,2,Lägenhet,1930,[Högalid],2395000,535000,2930000,2105,Fastighetsbyrån,263.6820038435634,Zinkensdamm
+2014-02-06,Lundagatan 52,Zinkensdamm,Sodermalm,1,25,2,Lägenhet,1932,[Södermalm],1850000,260000,2110000,1355,Mäklarringen,413.04639393098495,Zinkensdamm
+2014-02-06,Samaritgränd 6,Zinkensdamm,Sodermalm,1.5,46,4,Lägenhet,1928,[Södermalm Högalid],2550000,460000,3010000,2439,HusmanHagberg,293.84446013884,Zinkensdamm
+2014-02-05,Heleneborgsgatan 14,Zinkensdamm,Sodermalm,2,58,2,Lägenhet,1913,[Södermalm Högalid],3375000,545000,3920000,2796,HusmanHagberg,516.1171319566398,Hornstull
+2014-02-03,Pålsundsparken 12,Zinkensdamm,Sodermalm,3,89,1,Lägenhet,1914,[Södermalm Högalid],5950000,50000,6000000,3775,HusmanHagberg,543.5734559470101,Hornstull
+2014-02-02,Samaritgränd 1,Zinkensdamm,Sodermalm,2,53,2,Lägenhet,1928,[Södermalm],2995000,30000,3025000,1843,Notar,336.29492462735675,Zinkensdamm
+2014-01-31,Zinkens väg 59,Zinkensdamm,Sodermalm,2,63,4,Lägenhet,1988,[Zinkensdamm/Rosenlund],3000000,435000,3435000,3648,Mäklarhuset,344.136915096023,Zinkensdamm
+2014-01-27,Zinkens väg 61,Zinkensdamm,Sodermalm,4,113,null,Lägenhet,1988,[Zinkensdamm/Rosenlund],5895000,655000,6550000,5430,Fastighetsbyrån,341.1979001255165,Zinkensdamm
+2014-01-27,Krukmakargatan 24,Zinkensdamm,Sodermalm,2,53,2,Lägenhet,1964,[Mariatorget],2890000,685000,3575000,2565,BOSTHLM,281.4418269206465,Zinkensdamm
+2014-01-24,Brännkyrkagatan 80,Zinkensdamm,Sodermalm,3,74,5,Lägenhet,1983,[Mariatorget],4395000,355000,4750000,2544,Mäklarhuset,102.88458699400721,Zinkensdamm
+2014-01-24,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,3,70,3,Lägenhet,1932,[Södermalm Maria Magdalena],4475000,525000,5000000,3718,HusmanHagberg,305.4402930279476,Zinkensdamm
+2014-01-24,Hornsgatan 107,Zinkensdamm,Sodermalm,2,60,3,Lägenhet,1967,[Södermalm Högalid],2950000,425000,3375000,2625,HusmanHagberg,432.19390922246805,Hornstull
+2014-01-23,Rosenlundsgatan 24,Zinkensdamm,Sodermalm,2,46,null,Lägenhet,1928,[Mariatorget],2850000,250000,3100000,2292,Fastighetsbyrån,357.8558054997864,Zinkensdamm
+2014-01-23,Hornsgatan 85,Zinkensdamm,Sodermalm,2.5,58,5,Lägenhet,1905,[Södermalm Högalid Zinkensdamm],3195000,60000,3255000,2592,HusmanHagberg,93.52167002056484,Zinkensdamm
+2014-01-22,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,5,195,7,Lägenhet,1925,[Högalid],10500000,2600000,13100000,7726,Fastighetsbyrån,519.1684955005329,Zinkensdamm
+2014-01-22,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,1.5,37,3,Lägenhet,1935,[Mariatorget],2295000,305000,2600000,2170,Fastighetsbyrån,270.50080349894375,Zinkensdamm
+2014-01-18,Hornsgatan 71,Zinkensdamm,Sodermalm,5,129,4,Lägenhet,1883,[Södermalm Mariaberget],7650000,0,7650000,6403,HusmanHagberg,142.45690108904404,Zinkensdamm
+2014-01-16,Kristinehovsgatan 5,Zinkensdamm,Sodermalm,2,40,3,Lägenhet,1941,[Högalid],2495000,415000,2910000,2272,Fastighetsbyrån,461.1368205397797,Zinkensdamm
+2014-01-16,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,3,63,3,Lägenhet,null,[Mariatorget],3995000,555000,4550000,2965,Fastighetsbyrån,370.58001856113816,Zinkensdamm
+2014-01-11,Kristinehovsgatan 5,Zinkensdamm,Sodermalm,1,25,0,Lägenhet,null,[Högalid],1695000,170000,1865000,1237,Mäklarhuset,461.1368205397797,Zinkensdamm
+2014-01-10,Wollmar Yxkullsgatan 50B,Zinkensdamm,Sodermalm,2,53,1,Lägenhet,1935,[Mariatorget],2995000,545000,3540000,2833,Erik Olsson Fastighetsförmedling,283.3458227517372,Zinkensdamm
+2014-01-10,Ludvigsbergsgatan 37,Zinkensdamm,Sodermalm,1,34,null,Lägenhet,1963,[Södermalm],2275000,155000,2430000,944,Svensk Fastighetsförmedling,215.60909651037272,Zinkensdamm
+2014-01-10,Samaritgränd 1,Zinkensdamm,Sodermalm,1,26,3,Lägenhet,1928,[Södermalm],1850000,70000,1920000,940,Svensk Fastighetsförmedling,336.29492462735675,Zinkensdamm
+2014-01-10,Heleneborgsgatan 6C,Zinkensdamm,Sodermalm,1,25,5,Lägenhet,1925,[Södermalm],1895000,290000,2185000,1510,Erik Olsson Fastighetsförmedling,473.5118160599178,Zinkensdamm
+2014-01-09,Hornsgatan 63,Zinkensdamm,Sodermalm,2,48,1.5,Lägenhet,1910,[Södermalm],3595000,95000,3690000,1220,Svensk Fastighetsförmedling,220.64850113205296,Zinkensdamm
+2014-01-09,Lundagatan 50,Zinkensdamm,Sodermalm,2,35,2,Lägenhet,1932,[Södermalm],2375000,275000,2650000,1801,Fantastic Frank Fastighetsmäkleri,419.9094431523744,Zinkensdamm
+2013-12-14,Drakenbergsgatan 15,Zinkensdamm,Sodermalm,4,92,6,Lägenhet,1967,[Södermalm-Högalid],4475000,625000,5100000,3833,Södermäklarna,459.6360443500298,Hornstull
+2013-12-13,Lundagatan 44B,Zinkensdamm,Sodermalm,2.5,47.5,4,Lägenhet,1930,[Högalid],2675000,175000,2850000,2363,SkandiaMäklarna,356.5734682201418,Zinkensdamm
+2013-12-12,Brännkyrkagatan 87,Zinkensdamm,Sodermalm,4,102,6,Lägenhet,1969,[Södermalm],4695000,555000,5250000,4236,Svenska Mäklarhuset,85.0322274050625,Zinkensdamm
+2013-12-12,Skinnarviksringen 20,Zinkensdamm,Sodermalm,2,56,3,Lägenhet,1936,[Högalid],3760000,0,3760000,3988,BOSTHLM,356.4416074852787,Zinkensdamm
+2013-12-12,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,45,3,Lägenhet,1932,[Södermalm],2695000,505000,3200000,2479,Svenska Mäklarhuset,305.4402930279476,Zinkensdamm
+2013-12-12,Zinkens väg 27,Zinkensdamm,Sodermalm,1.5,53,null,Lägenhet,1988,[Zinkensdamm/Rosenlund],2600000,0,2600000,3133,Fastighetsbyrån,458.35833175346687,Zinkensdamm
+2013-12-06,Brännkyrkagatan 87,Zinkensdamm,Sodermalm,3,79,6,Lägenhet,1969,[Södermalm],3995000,550000,4545000,3339,Wallenberg Fastighetsförmedling,85.0322274050625,Zinkensdamm
+2013-12-06,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,2,45,4,Lägenhet,1930,[Södermalm Maria Magdalena],2695000,625000,3320000,2560,HusmanHagberg,323.5170617787885,Zinkensdamm
+2013-12-04,Drakenbergsgatan 5,Zinkensdamm,Sodermalm,4,92,7,Lägenhet,1967,[Hornstull],4700000,550000,5250000,3833,Fastighetsbyrån,472.9099144191056,Zinkensdamm
+2013-11-28,Heleneborgsgatan 6,Zinkensdamm,Sodermalm,2,57,3,Lägenhet,1925,[Södermalm Högalid],3300000,230000,3530000,2635,HusmanHagberg,467.85925945477874,Zinkensdamm
+2013-11-28,Ringvägen 9F,Zinkensdamm,Sodermalm,3,74,2,Lägenhet,1982,[Södermalm],3995000,680000,4675000,2471,HusmanHagberg,153.23009284920752,Zinkensdamm
+2013-11-28,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,47,4,Lägenhet,1929,[Mariatorget],2795000,230000,3025000,2077,Fastighetsbyrån,172.02145439387476,Zinkensdamm
+2013-11-27,Lundagatan 37,Zinkensdamm,Sodermalm,3,58,3,Lägenhet,1904,[Södermalm],3695000,580000,4275000,2485,Erik Olsson Fastighetsförmedling,186.6900442056129,Zinkensdamm
+2013-11-25,Lundagatan 44D,Zinkensdamm,Sodermalm,2.5,68,0.5,Lägenhet,1930,[Högalid],4150000,450000,4600000,3175,SkandiaMäklarna,338.84470158505655,Zinkensdamm
+2013-11-24,Ringvägen 8,Zinkensdamm,Sodermalm,5,161,4,Lägenhet,1910,[Högalid],8750000,-450000,8300000,6277,SkandiaMäklarna,14.307846602949482,Zinkensdamm
+2013-11-21,Wollmar Yxkullsgatan 50A,Zinkensdamm,Sodermalm,3,80,3,Lägenhet,1935,[Mariatorget],4850000,425000,5275000,4277,Fastighetsbyrån,288.5865644986229,Zinkensdamm
+2013-11-21,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,31,2,Lägenhet,1927,[Södermalm],1995000,-5000,1990000,1840,Erik Olsson Fastighetsförmedling,370.58001856113816,Zinkensdamm
+2013-11-20,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1.5,45,2,Lägenhet,1928,[Södermalm],2695000,265000,2960000,2277,Svenska Mäklarhuset,296.22812010846377,Zinkensdamm
+2013-11-14,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,2,69,1,Lägenhet,1969,[Mariatorget],3250000,-25000,3225000,2702,Fastighetsbyrån,51.59848310629898,Zinkensdamm
+2013-11-14,Lundagatan 38A,Zinkensdamm,Sodermalm,2,41,0.5,Lägenhet,1930,[Södermalm],2395000,175000,2570000,2010,Erik Olsson Fastighetsförmedling,244.472090944914,Zinkensdamm
+2013-11-13,Samaritgränd 1,Zinkensdamm,Sodermalm,2.5,72,2,Lägenhet,1929,[Södermalm-Högalid],3775000,175000,3950000,2421,Södermäklarna,336.29492462735675,Zinkensdamm
+2013-11-13,Samaritgränd 3,Zinkensdamm,Sodermalm,3.5,75,null,Lägenhet,1929,[Maria],4150000,310000,4460000,4106,Notar,320.0002401237804,Zinkensdamm
+2013-11-08,Krukmakargatan 46,Zinkensdamm,Sodermalm,3,111,null,Lägenhet,1909,[Södermalm Högalid],4990000,1410000,6400000,1815,HusmanHagberg,142.50421116384717,Zinkensdamm
+2013-11-07,Krukmakarbacken 2,Zinkensdamm,Sodermalm,2,63,2,Lägenhet,1987,[Mariatorget],3295000,135000,3430000,3031,Mäklarhuset,230.96155341232216,Zinkensdamm
+2013-11-07,Rosenlundsgatan 24,Zinkensdamm,Sodermalm,1.5,46,3,Lägenhet,1928,[Mariatorget],2495000,155000,2650000,2292,Mäklarhuset,357.8558054997864,Zinkensdamm
+2013-11-02,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1.5,41.5,2,Lägenhet,1928,[Södermalm-Högalid],2293000,147000,2440000,2277,Södermäklarna,296.22812010846377,Zinkensdamm
+2013-10-31,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,2,42,null,Lägenhet,1928,[Mariatorget],2600000,350000,2950000,2333,Fastighetsbyrån,306.77287109019807,Zinkensdamm
+2013-10-31,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1.5,22,null,Lägenhet,1935,[Södermalm],1595000,205000,1800000,1497,Notar,124.2941811776174,Zinkensdamm
+2013-10-30,Lundagatan 48A,Zinkensdamm,Sodermalm,2,28,null,Lägenhet,null,[Södermalm],1895000,355000,2250000,1468,Living Fastighetsmäkleri,399.21780091460164,Zinkensdamm
+2013-10-29,Drakenbergsgatan 6,Zinkensdamm,Sodermalm,2,64,1,Lägenhet,1967,[Södermalm-Högalid],2950000,100000,3050000,2667,Södermäklarna,472.1206546682025,Zinkensdamm
+2013-10-24,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,2,41,0.5,Lägenhet,1945,[Södermalm],2565000,0,2565000,3075,BOSTHLM,325.4329619130417,Zinkensdamm
+2013-10-24,Heleneborgsgatan 6,Zinkensdamm,Sodermalm,2,57,4,Lägenhet,1925,[Södermalm],3295000,0,3295000,2635,Erik Olsson Fastighetsförmedling,467.85925945477874,Zinkensdamm
+2013-10-23,Brännkyrkagatan 95B,Zinkensdamm,Sodermalm,2,45,null,Lägenhet,1909,[Högalid],2995000,705000,3700000,2399,Fastighetsbyrån,62.11698175066442,Zinkensdamm
+2013-10-23,Heleneborgsgatan 6,Zinkensdamm,Sodermalm,2,70,5,Lägenhet,1925,[Högalid],3850000,300000,4150000,2855,Svenska Mäklarhuset,467.85925945477874,Zinkensdamm
+2013-10-21,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,2,42,2,Lägenhet,1928,[Södermalm],2795000,-145000,2650000,2333,Crown Estate Fastighetsbyrå,306.77287109019807,Zinkensdamm
+2013-10-17,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,45,3,Lägenhet,1932,[Mariatorget],2650000,0,2650000,2479,Bostadsrättsspecialisten,305.4402930279476,Zinkensdamm
+2013-10-17,Wollmar Yxkullsgatan 29,Zinkensdamm,Sodermalm,1,37,3,Lägenhet,1908,[Södermalm],2495000,-20000,2475000,1130,Svensk Fastighetsförmedling,388.76527321996844,Zinkensdamm
+2013-10-16,Rosenlundsgatan 28A,Zinkensdamm,Sodermalm,2,61,2,Lägenhet,1908,[Mariatorget],3650000,400000,4050000,1941,SkandiaMäklarna,399.18249348771775,Zinkensdamm
+2013-10-14,Krukmakargatan 27,Zinkensdamm,Sodermalm,1.5,49,3,Lägenhet,null,[Mariatorget],2895000,-55000,2840000,2380,BOSTHLM,282.28206675922087,Zinkensdamm
+2013-10-12,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,2.5,75,null,Lägenhet,1925,[Högalid],4175000,115000,4290000,2940,SkandiaMäklarna,519.1684955005329,Zinkensdamm
+2013-10-11,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,1,31,4,Lägenhet,null,[Högalid],1795000,345000,2140000,2325,BOSTHLM,325.4329619130417,Zinkensdamm
+2013-10-11,Doktor Abelins Gata 4,Zinkensdamm,Sodermalm,1,23,2,Lägenhet,null,[Södermalm],1695000,0,1695000,1277,Erik Olsson Fastighetsförmedling,306.77287109019807,Zinkensdamm
+2013-10-11,Lundagatan 48B,Zinkensdamm,Sodermalm,2.5,49,4,Lägenhet,1937,[Högalid],3600000,50000,3650000,2336,Mäklarhuset,430.56838128339484,Zinkensdamm
+2013-10-11,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,2,41,6,Lägenhet,null,[Maria],2495000,125000,2620000,1984,Södermäklarna,288.0787714678536,Zinkensdamm
+2013-10-09,Ludvigsbergsgatan 33,Zinkensdamm,Sodermalm,1.5,46,null,Lägenhet,1963,[Mariatorget],2495000,-40000,2455000,1278,Fastighetsbyrån,370.13713089647035,Zinkensdamm
+2013-10-09,Lundagatan 50,Zinkensdamm,Sodermalm,2.5,52,2,Lägenhet,null,[Södermalm-Högalid],3275000,125000,3400000,2347,Södermäklarna,419.9094431523744,Zinkensdamm
+2013-10-07,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,29,null,Lägenhet,1927,[Södermalm],1995000,25000,2020000,1785,Privatmäklaren,370.58001856113816,Zinkensdamm
+2013-10-02,Doktor Abelins gata 2,Zinkensdamm,Sodermalm,2,42,4,Lägenhet,1927,[Södermalm],2850000,0,2850000,2175,BOSTHLM,293.20263552176937,Zinkensdamm
+2013-10-02,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,4,101,2,Lägenhet,1969,[Södermalm],4995000,5000,5000000,4127,Notar,51.59848310629898,Zinkensdamm
+2013-09-28,Heleneborgsgatan 8B,Zinkensdamm,Sodermalm,2,37,3,Lägenhet,1925,[Högalid],2760000,0,2760000,1922,BOSTHLM,495.3292811168081,Zinkensdamm
+2013-09-27,Lundagatan 42B,Zinkensdamm,Sodermalm,2,41.5,null,Lägenhet,1930,[Högalid],2350000,100000,2450000,2105,Fastighetsbyrån,263.6820038435634,Zinkensdamm
+2013-09-27,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,3,74,2,Lägenhet,1929,[Södermalm],4295000,15000,4310000,3511,Fantastic Frank Fastighetsmäkleri,323.5170617787885,Zinkensdamm
+2013-09-27,Hornsgatan 85,Zinkensdamm,Sodermalm,1,36,3,Lägenhet,1905,[Södermalm Högalid Zinkensdamm],2195000,205000,2400000,1610,HusmanHagberg,93.52167002056484,Zinkensdamm
+2013-09-25,Krukmakargatan 48,Zinkensdamm,Sodermalm,4,99,5,Lägenhet,null,[Södermalm-Högalid],5850000,-250000,5600000,4025,Södermäklarna,154.8307942865166,Zinkensdamm
+2013-09-20,Kristinehovsgatan 5,Zinkensdamm,Sodermalm,1,27,null,Lägenhet,1941,[Högalid],1900000,100000,2000000,1356,Fastighetsbyrån,461.1368205397797,Zinkensdamm
+2013-09-20,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,1,32,null,Lägenhet,1925,[Högalid],1995000,85000,2080000,1264,Fastighetsbyrån,519.1684955005329,Zinkensdamm
+2013-09-20,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,31,1,Lägenhet,1927,[Södermalm],1895000,255000,2150000,1636,Svensk Fastighetsförmedling,296.22812010846377,Zinkensdamm
+2013-09-20,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,28,null,Lägenhet,1941,[Högalid],1850000,100000,1950000,1480,Fastighetsbyrån,463.23818207195086,Zinkensdamm
+2013-09-20,Zinkens väg 59,Zinkensdamm,Sodermalm,4,111,null,Lägenhet,1988,[Zinkensdamm/Rosenlund],5200000,850000,6050000,5835,Fastighetsbyrån,344.136915096023,Zinkensdamm
+2013-09-19,Krukmakargatan 71,Zinkensdamm,Sodermalm,2,66,null,Lägenhet,1988,[Zinkensdamm/Rosenlund],2950000,80000,3030000,3780,Fastighetsbyrån,441.9337283231128,Zinkensdamm
+2013-09-19,Heleneborgsgatan 6B,Zinkensdamm,Sodermalm,1,36,null,Lägenhet,null,[Södermalm],2500000,150000,2650000,1922,Erik Olsson Fastighetsförmedling,493.04878299674465,Zinkensdamm
+2013-09-13,Wollmar Yxkullsgatan 48C,Zinkensdamm,Sodermalm,1,29.5,2,Lägenhet,1928,[Södermalm],1950000,110000,2060000,1531,Svensk Fastighetsförmedling,266.24436093447775,Zinkensdamm
+2013-09-13,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,25,4,Lägenhet,null,[Södermalm-Högalid],1850000,175000,2025000,1531,Södermäklarna,296.22812010846377,Zinkensdamm
+2013-09-13,Krukmakargatan 50,Zinkensdamm,Sodermalm,2,61,null,Lägenhet,1909,[Södermalm],3600000,25000,3625000,2478,Länsförsäkringar Fastighetsförmedling,167.8865347852018,Zinkensdamm
+2013-09-12,Krukmakargatan 31B,Zinkensdamm,Sodermalm,1.5,44,null,Lägenhet,1930,[Mariatorget],2450000,230000,2680000,2816,Fastighetsbyrån,255.82431133075622,Zinkensdamm
+2013-09-12,Pålsundsparken 12A,Zinkensdamm,Sodermalm,2,68,null,Lägenhet,1913,[Södermalm],3750000,-150000,3600000,3080,Notar,529.6918918652764,Hornstull
+2013-09-12,Lundagatan 36B,Zinkensdamm,Sodermalm,1,24.5,null,Lägenhet,1930,[Södermalm],1795000,0,1795000,1334,Svensk Fastighetsförmedling,255.1775825458512,Zinkensdamm
+2013-09-10,Krukmakargatan 24,Zinkensdamm,Sodermalm,4,97,2,Lägenhet,1964,[Mariatorget],4995000,130000,5125000,4694,Mäklarhuset,281.4418269206465,Zinkensdamm
+2013-09-06,Heleneborgsgatan 10A,Zinkensdamm,Sodermalm,4.5,109.7,null,Lägenhet,1925,[Högalid],6300000,350000,6650000,4466,Fastighetsbyrån,519.6828442951993,Zinkensdamm
+2013-09-05,Krukmakargatan 51,Zinkensdamm,Sodermalm,2,48,2,Lägenhet,null,[Södermalm-Högalid],2990000,510000,3500000,2975,Södermäklarna,272.0929964753242,Zinkensdamm
+2013-09-04,Heleneborgsgatan 14,Zinkensdamm,Sodermalm,2,58,3,Lägenhet,null,[Södermalm Högalid],2900000,500000,3400000,2764,Södermäklarna,516.1171319566398,Hornstull
+2013-09-04,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,2,38.5,2,Lägenhet,null,[Södermalm],2600000,150000,2750000,2079,Erik Olsson Fastighetsförmedling,296.22812010846377,Zinkensdamm
+2013-09-04,Samaritgränd 6,Zinkensdamm,Sodermalm,1.5,43,null,Lägenhet,1930,[Mariatorget],2395000,305000,2700000,2121,Fastighetsbyrån,293.84446013884,Zinkensdamm
+2013-08-30,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,2,45,2,Lägenhet,null,[Södermalm-Högalid],2675000,125000,2800000,2460,Södermäklarna,323.5170617787885,Zinkensdamm
+2013-08-29,Hornsgatan 59A,Zinkensdamm,Sodermalm,3,162,6,Lägenhet,null,[Södermalm],9450000,-850000,8600000,5914,Per Jansson Fastighetsförmedling,249.0728268674833,Zinkensdamm
+2013-08-29,Hornsgatan 107,Zinkensdamm,Sodermalm,2,60,2,Lägenhet,null,[Södermalm-Högalid],2875000,425000,3300000,2500,Södermäklarna,432.19390922246805,Hornstull
+2013-08-29,Hornsgatan 90,Zinkensdamm,Sodermalm,1,27,null,Lägenhet,1929,[Södermalm],1695000,115000,1810000,1208,Länsförsäkringar Fastighetsförmedling,172.5241095251185,Zinkensdamm
+2013-08-28,Lundagatan 42B,Zinkensdamm,Sodermalm,2.5,52,3,Lägenhet,1930,[Södermalm],2895000,155000,3050000,2492,HusmanHagberg,263.6820038435634,Zinkensdamm
+2013-08-28,Lundagatan 36D,Zinkensdamm,Sodermalm,2,39.2,4,Lägenhet,null,[Södermalm],2990000,660000,3650000,2009,Erik Olsson Fastighetsförmedling,256.12113501511084,Zinkensdamm
+2013-08-23,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,2,54,null,Lägenhet,1929,[Högalid],3295000,-55000,3240000,3120,Fastighetsbyrån,75.49940643477724,Zinkensdamm
+2013-08-23,Lundagatan 42A,Zinkensdamm,Sodermalm,1,29,2,Lägenhet,1930,[Södermalm Högalid],1995000,65000,2060000,1567,HusmanHagberg,316.1294023766264,Zinkensdamm
+2013-08-22,Lundagatan 36E,Zinkensdamm,Sodermalm,2,42.5,4,Lägenhet,1930,[Högalid],3695000,355000,4050000,2189,Ansvar Fastighetsförmedling,283.76731338331825,Zinkensdamm
+2013-08-20,Krukmakargatan 24,Zinkensdamm,Sodermalm,4,97,2,Lägenhet,1970,[Södermalm-Mariatorget],5450000,-200000,5250000,4694,SthlmFast,281.4418269206465,Zinkensdamm
+2013-08-20,Hornsgatan 89A,Zinkensdamm,Sodermalm,1,36,3,Lägenhet,1905,[Södermalm Högalid Zinkensdamm],2395000,0,2395000,1382,HusmanHagberg,140.4726693508419,Zinkensdamm
+2013-08-11,Zinkens väg 53,Zinkensdamm,Sodermalm,2.5,68,null,Lägenhet,1988,[Södermalm Högalid Zinkensdamm],3100000,500000,3600000,3938,HusmanHagberg,360.7454374669546,Zinkensdamm
+2013-08-08,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,45,2,Lägenhet,1932,[Maria],2695000,65000,2760000,2479,Notar,305.4402930279476,Zinkensdamm
+2013-08-08,Rosenlundsgatan 28B,Zinkensdamm,Sodermalm,1,24,1,Lägenhet,1906,[Södermalm],1595000,355000,1950000,737,Svenska Mäklarhuset,407.8939860907092,Zinkensdamm
+2013-08-07,Doktor Abelins gata 6,Zinkensdamm,Sodermalm,2,45,null,Lägenhet,1928,[Mariatorget],2600000,415000,3015000,1996,Fastighetsbyrån,319.03891034120284,Zinkensdamm
+2013-08-02,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,1,35,5,Lägenhet,null,[Mariatorget],2150000,290000,2440000,2052,Mäklarhuset,128.25045094511074,Zinkensdamm
+2013-07-25,Krukmakarbacken 4A,Zinkensdamm,Sodermalm,5,115,6,Lägenhet,1987,[Södermalm],4995000,925000,5920000,5283,Notar,248.5117623469595,Zinkensdamm
+2013-07-16,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1.5,34,null,Lägenhet,null,[Högalid],1995000,285000,2280000,2177,Södermäklarna,124.2941811776174,Zinkensdamm
+2013-07-12,Samaritgränd 6,Zinkensdamm,Sodermalm,1,46,null,Lägenhet,1928,[Södermalm],1995000,565000,2560000,2269,Notar,293.84446013884,Zinkensdamm
+2013-07-04,Krukmakargatan 64,Zinkensdamm,Sodermalm,3,62,1,Lägenhet,1942,[Södermalm Högalid],3495000,155000,3650000,3424,HusmanHagberg,364.5888434998024,Zinkensdamm
+2013-07-03,Rosenlundsgatan 24,Zinkensdamm,Sodermalm,2,51.3,null,Lägenhet,1928,[Mariatorget],2690000,-290000,2400000,2542,Fastighetsbyrån,357.8558054997864,Zinkensdamm
+2013-06-25,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,2,55,null,Lägenhet,1933,[Högalid],3095000,0,3095000,3057,Fastighetsbyrån,75.49940643477724,Zinkensdamm
+2013-06-25,Lundagatan 38A,Zinkensdamm,Sodermalm,2,41,null,Lägenhet,1930,[Södermalm],2590000,110000,2700000,2094,SkandiaMäklarna,244.472090944914,Zinkensdamm
+2013-06-20,Lundagatan 44B,Zinkensdamm,Sodermalm,2.5,48,1,Lägenhet,1930,[Högalid],2700000,160000,2860000,2268,Mäklarhuset,356.5734682201418,Zinkensdamm
+2013-06-20,Samaritgränd 7,Zinkensdamm,Sodermalm,1,21.5,null,Lägenhet,1928,[Mariatorget],1675000,125000,1800000,1140,Länsförsäkringar Fastighetsförmedling,278.1632824175649,Zinkensdamm
+2013-06-20,Heleneborgsgatan 6B,Zinkensdamm,Sodermalm,1,36,0.5,Lägenhet,null,[Södermalm],1995000,95000,2090000,1812,Erik Olsson Fastighetsförmedling,493.04878299674465,Zinkensdamm
+2013-06-20,Samaritgränd 7,Zinkensdamm,Sodermalm,1,42,4,Lägenhet,1928,[Södermalm],2495000,225000,2720000,2223,BOSTHLM,278.1632824175649,Zinkensdamm
+2013-06-19,Wollmar Yxkullsgatan 48C,Zinkensdamm,Sodermalm,2,39.5,null,Lägenhet,1928,[Mariatorget],2295000,235000,2530000,2079,Fastighetsbyrån,266.24436093447775,Zinkensdamm
+2013-06-19,Krukmakargatan 50,Zinkensdamm,Sodermalm,2,87,2,Lägenhet,1909,[Södermalm],4495000,0,4495000,3606,Svensk Fastighetsförmedling,167.8865347852018,Zinkensdamm
+2013-06-18,Kristinehovsgatan 5,Zinkensdamm,Sodermalm,3,66,null,Lägenhet,1941,[Högalid],3500000,650000,4150000,3101,Fastighetsbyrån,461.1368205397797,Zinkensdamm
+2013-06-14,Hornsgatan 85,Zinkensdamm,Sodermalm,1,23,null,Lägenhet,1905,[Zinkensdamm/Rosenlund],1750000,100000,1850000,1151,Länsförsäkringar Fastighetsförmedling,93.52167002056484,Zinkensdamm
+2013-06-13,Samaritgränd 1,Zinkensdamm,Sodermalm,2.5,67,null,Lägenhet,1928,[Mariatorget],2850000,650000,3500000,2421,Fastighetsbyrån,336.29492462735675,Zinkensdamm
+2013-06-13,Krukmakargatan 45,Zinkensdamm,Sodermalm,2,66,2,Lägenhet,1988,[Södermalm],3495000,40000,3535000,3822,Svenska Mäklarhuset,225.11758199277736,Zinkensdamm
+2013-06-12,Hornsgatan 75,Zinkensdamm,Sodermalm,2,43,null,Lägenhet,1908,[Södermalm],2700000,-75000,2625000,1662,Notar,107.84882009288089,Zinkensdamm
+2013-06-12,Lundagatan 50,Zinkensdamm,Sodermalm,1,24,null,Lägenhet,1932,[Södermalm],1750000,370000,2120000,1366,Fantastic Frank Fastighetsmäkleri,419.9094431523744,Zinkensdamm
+2013-06-07,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,30,null,Lägenhet,1941,[Högalid],1850000,50000,1900000,1576,Fastighetsbyrån,463.23818207195086,Zinkensdamm
+2013-06-05,Lundagatan 44B,Zinkensdamm,Sodermalm,1,27,2,Lägenhet,null,[Södermalm],1800000,150000,1950000,1481,Erik Olsson Fastighetsförmedling,356.5734682201418,Zinkensdamm
+2013-06-05,Lundagatan 44C,Zinkensdamm,Sodermalm,2,40,1,Lägenhet,1930,[Södermalm Högalid],2650000,510000,3160000,2073,HusmanHagberg,372.33826706848936,Zinkensdamm
+2013-06-01,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,3,69,5,Lägenhet,1968,[Södermalm],3395000,675000,4070000,2845,Svenska Mäklarhuset,51.59848310629898,Zinkensdamm
+2013-06-01,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,31,null,Lägenhet,1927,[Mariatorget],1895000,0,1895000,1840,Fastighetsbyrån,370.58001856113816,Zinkensdamm
+2013-05-31,Zinkens väg 69,Zinkensdamm,Sodermalm,5,113,6,Lägenhet,null,[Södermalm-Högalid],5650000,570000,6220000,5789,Södermäklarna,327.4393961421541,Zinkensdamm
+2013-05-31,Hornsgatan 59A,Zinkensdamm,Sodermalm,5,161,null,Lägenhet,null,[Södermalm],9700000,-450000,9250000,5896,Per Jansson Fastighetsförmedling,249.0728268674833,Zinkensdamm
+2013-05-31,Lundagatan 29,Zinkensdamm,Sodermalm,2,48,null,Lägenhet,1894,[Södermalm Högalid],2995000,185000,3180000,2212,Bjurfors,132.90401612309432,Zinkensdamm
+2013-05-30,Zinkens väg 59,Zinkensdamm,Sodermalm,2,63,2,Lägenhet,null,[Södermalm],2995000,465000,3460000,3648,Erik Olsson Fastighetsförmedling,344.136915096023,Zinkensdamm
+2013-05-30,Lundagatan 29,Zinkensdamm,Sodermalm,2,36,4,Lägenhet,1894,[Södermalm],2450000,225000,2675000,2121,Svensk Fastighetsförmedling,132.90401612309432,Zinkensdamm
+2013-05-30,Hornsgatan 107,Zinkensdamm,Sodermalm,2,60,null,Lägenhet,1967,[Södermalm],2895000,0,2895000,2500,Svensk Fastighetsförmedling,432.19390922246805,Hornstull
+2013-05-29,Brännkyrkagatan 73,Zinkensdamm,Sodermalm,2,60,1,Lägenhet,null,[Mariatorget],3595000,505000,4100000,1225,Mäklarhuset,239.95718585601796,Zinkensdamm
+2013-05-24,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1.5,38.5,null,Lägenhet,1927,[Mariatorget],2195000,420000,2615000,2024,Fastighetsbyrån,296.22812010846377,Zinkensdamm
+2013-05-23,Krukmakargatan 38,Zinkensdamm,Sodermalm,2,36,null,Lägenhet,1884,[Mariatorget],2095000,225000,2320000,2519,Fastighetsbyrån,137.0638747703233,Zinkensdamm
+2013-05-23,Wollmar Yxkullsgatan 52A,Zinkensdamm,Sodermalm,2,39,null,Lägenhet,1935,[Södermalm],2350000,250000,2600000,2171,SkandiaMäklarna,270.50080349894375,Zinkensdamm
+2013-05-23,Krukmakargatan 31B,Zinkensdamm,Sodermalm,1.5,44,null,Lägenhet,1930,[Mariatorget],2500000,-50000,2450000,2789,Fastighetsbyrån,255.82431133075622,Zinkensdamm
+2013-05-17,Rosenlundsgatan 24,Zinkensdamm,Sodermalm,2,50,null,Lägenhet,1928,[Mariatorget],2495000,255000,2750000,2493,Fastighetsbyrån,357.8558054997864,Zinkensdamm
+2013-05-17,Doktor Abelins gata 2,Zinkensdamm,Sodermalm,1,35,null,Lägenhet,1928,[Södermalm],1995000,335000,2330000,1829,SkandiaMäklarna,293.20263552176937,Zinkensdamm
+2013-05-16,Ludvigsbergsgatan 43,Zinkensdamm,Sodermalm,1,31,null,Lägenhet,1963,[Mariatorget],1850000,340000,2190000,857,Länsförsäkringar Fastighetsförmedling,179.4773533250817,Zinkensdamm
+2013-05-16,Krukmakargatan 27,Zinkensdamm,Sodermalm,1.5,39,null,Lägenhet,1930,[Södermalm Högalid],2395000,-70000,2325000,2006,HusmanHagberg,282.28206675922087,Zinkensdamm
+2013-05-09,Heleneborgsgatan 8B,Zinkensdamm,Sodermalm,1,36,null,Lägenhet,1925,[Högalid],2695000,-95000,2600000,1866,Fastighetsbyrån,495.3292811168081,Zinkensdamm
+2013-05-09,Krukmakargatan 56,Zinkensdamm,Sodermalm,2,68,1,Lägenhet,1989,[Södermalm],3095000,465000,3560000,3928,Svenska Mäklarhuset,274.41661759858886,Zinkensdamm
+2013-05-09,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,3,71,2,Lägenhet,1932,[Södermalm],4195000,275000,4470000,3767,HusmanHagberg,305.4402930279476,Zinkensdamm
+2013-05-08,Skinnarviksringen 20,Zinkensdamm,Sodermalm,2,56,1,Lägenhet,1936,[Södermalm],3495000,0,3495000,4375,Svensk Fastighetsförmedling,356.4416074852787,Zinkensdamm
+2013-04-27,Krukmakargatan 33A,Zinkensdamm,Sodermalm,4,77,3,Lägenhet,null,[Södermalm],4295000,670000,4965000,3557,Erik Olsson Fastighetsförmedling,219.91342480407343,Zinkensdamm
+2013-04-26,Zinkens väg 43,Zinkensdamm,Sodermalm,2.5,63,5,Lägenhet,1988,[Södermalm],3095000,240000,3335000,3648,Svenska Mäklarhuset,393.29833358918967,Zinkensdamm
+2013-04-24,Doktor Abelins gata 6,Zinkensdamm,Sodermalm,1,26,null,Lägenhet,1928,[Mariatorget],1750000,50000,1800000,1341,Fastighetsbyrån,319.03891034120284,Zinkensdamm
+2013-04-22,Drakenbergsgatan 11,Zinkensdamm,Sodermalm,4,90,null,Lägenhet,1967,[Hornstull],4400000,110000,4510000,3750,Fastighetsbyrån,474.10238105531687,Hornstull
+2013-04-20,Brännkyrkagatan 82,Zinkensdamm,Sodermalm,3,68,null,Lägenhet,1983,[Södermalm],3800000,180000,3980000,2358,Fastighetsbyrån,64.74490248199976,Zinkensdamm
+2013-04-19,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,3,71,4,Lägenhet,1929,[Södermalm],3700000,400000,4100000,3414,SkandiaMäklarna,323.5170617787885,Zinkensdamm
+2013-04-18,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,1,26,null,Lägenhet,1941,[Högalid],2000000,100000,2100000,1512,Fastighetsbyrån,463.23818207195086,Zinkensdamm
+2013-04-18,Lundagatan 44A,Zinkensdamm,Sodermalm,2,40.5,null,Lägenhet,1930,[Södermalm],2275000,195000,2470000,1979,SkandiaMäklarna,347.28878808287726,Zinkensdamm
+2013-04-15,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1,25,5,Lägenhet,1936,[Södermalm Högalid Zinkensdamm],1650000,170000,1820000,1701,HusmanHagberg,124.2941811776174,Zinkensdamm
+2013-04-15,Kristinehovsgatan 5A,Zinkensdamm,Sodermalm,2,35,1,Lägenhet,1941,[Södermalm Högalid],2195000,105000,2300000,1716,HusmanHagberg,463.23818207195086,Zinkensdamm
+2013-04-12,Krukmakargatan 57,Zinkensdamm,Sodermalm,2,48,null,Lägenhet,1942,[Zinkensdamm/Rosenlund],2875000,235000,3110000,3015,Fastighetsbyrån,323.39609665484437,Zinkensdamm
+2013-04-12,Doktor Abelins gata 6,Zinkensdamm,Sodermalm,1.5,45,null,Lägenhet,1928,[Mariatorget],2395000,165000,2560000,1996,Fastighetsbyrån,319.03891034120284,Zinkensdamm
+2013-04-03,Skinnarviksringen 20,Zinkensdamm,Sodermalm,2,51,3,Lägenhet,1936,[Södermalm],3300000,-35000,3265000,3946,Karlsson & Uddare,356.4416074852787,Zinkensdamm
+2013-03-29,Zinkens väg 53,Zinkensdamm,Sodermalm,2,63,3,Lägenhet,1988,[Södermalm],3295000,405000,3700000,3648,Svenska Mäklarhuset,360.7454374669546,Zinkensdamm
+2013-03-29,Krukmakargatan 24,Zinkensdamm,Sodermalm,4,97,2,Lägenhet,1964,[Mariatorget],4975000,-475000,4500000,4694,Mäklarhuset,281.4418269206465,Zinkensdamm
+2013-03-24,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,2,59,4,Lägenhet,1970,[Södermalm],2995000,-145000,2850000,2855,Notar,288.0787714678536,Zinkensdamm
+2013-03-24,Zinkens väg 37,Zinkensdamm,Sodermalm,4,95,null,Lägenhet,1988,[Zinkensdamm/Rosenlund],5100000,400000,5500000,5078,Fastighetsbyrån,418.9250151492622,Zinkensdamm
+2013-03-23,Wollmar Yxkullsgatan 48C,Zinkensdamm,Sodermalm,1,29.5,null,Lägenhet,1928,[Mariatorget],1900000,300000,2200000,1587,Fastighetsbyrån,266.24436093447775,Zinkensdamm
+2013-03-21,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,2,55,3,Lägenhet,1933,[Södermalm],2885000,115000,3000000,3057,Svenska Mäklarhuset,75.49940643477724,Zinkensdamm
+2013-03-21,Lundagatan 44B,Zinkensdamm,Sodermalm,1,27.5,null,Lägenhet,1930,[Högalid],1795000,125000,1920000,1503,Fastighetsbyrån,356.5734682201418,Zinkensdamm
+2013-03-20,Lundagatan 44A,Zinkensdamm,Sodermalm,1,29.5,4,Lägenhet,null,[Södermalm],1950000,150000,2100000,1589,Svensk Fastighetsförmedling,347.28878808287726,Zinkensdamm
+2013-03-20,Heleneborgsgatan 12A,Zinkensdamm,Sodermalm,2,52,1,Lägenhet,null,[Södermalm],2995000,355000,3350000,1993,Erik Olsson Fastighetsförmedling,565.8864256827914,Hornstull
+2013-03-16,Wollmar Yxkullsgatan 48D,Zinkensdamm,Sodermalm,1,30.5,null,Lägenhet,1928,[Mariatorget],1995000,210000,2205000,1681,Fastighetsbyrån,296.22812010846377,Zinkensdamm
+2013-03-14,Krukmakargatan 65,Zinkensdamm,Sodermalm,2,43,1,Lägenhet,1942,[Zinkensdamm/Rosenlund],2750000,30000,2780000,2769,Mäklarhuset,382.5131097213914,Zinkensdamm
+2013-03-13,Lundagatan 29,Zinkensdamm,Sodermalm,1,40,4,Lägenhet,1894,[Södermalm],1995000,815000,2810000,2168,Svenska Mäklarhuset,132.90401612309432,Zinkensdamm
+2013-03-11,Lundagatan 50,Zinkensdamm,Sodermalm,2.5,82,null,Lägenhet,1932,[Högalid],3995000,225000,4220000,3324,Fastighetsbyrån,419.9094431523744,Zinkensdamm
+2013-03-09,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,1.5,36,2,Lägenhet,1932,[Södermalm Högalid],2095000,75000,2170000,2032,HusmanHagberg,305.4402930279476,Zinkensdamm
+2013-03-09,Krukmakargatan 50,Zinkensdamm,Sodermalm,2,58,null,Lägenhet,1909,[Zinkensdamm/Rosenlund],2995000,170000,3165000,2404,Länsförsäkringar Fastighetsförmedling,167.8865347852018,Zinkensdamm
+2013-03-09,Heleneborgsgatan 12A,Zinkensdamm,Sodermalm,2,52,3,Lägenhet,null,[Södermalm],2750000,775000,3525000,1993,Erik Olsson Fastighetsförmedling,565.8864256827914,Hornstull
+2013-03-09,Heleneborgsgatan 12A,Zinkensdamm,Sodermalm,3.5,92,5,Lägenhet,null,[Södermalm],4700000,1000000,5700000,3527,Erik Olsson Fastighetsförmedling,565.8864256827914,Hornstull
+2013-03-07,Brännkyrkagatan 95B,Zinkensdamm,Sodermalm,4,94,3,Lägenhet,1909,[Södermalm Högalid Zinkensdamm],5300000,-250000,5050000,4683,HusmanHagberg,62.11698175066442,Zinkensdamm
+2013-03-07,Lundagatan 42B,Zinkensdamm,Sodermalm,2,41.5,1.5,Lägenhet,null,[Högalid],2250000,280000,2530000,2105,Bostadsrättsspecialisten,263.6820038435634,Zinkensdamm
+2013-03-07,Lundagatan 38B,Zinkensdamm,Sodermalm,2,41,null,Lägenhet,1930,[Högalid],1850000,270000,2120000,2010,Fastighetsbyrån,267.06666292823326,Zinkensdamm
+2013-03-07,Heleneborgsgatan 8A,Zinkensdamm,Sodermalm,2,76,2,Lägenhet,1924,[Södermalm],3995000,305000,4300000,3802,Innerstadsspecialisten AB,476.7565885830824,Zinkensdamm
+2013-03-06,Lundagatan 37,Zinkensdamm,Sodermalm,3,85,2,Lägenhet,null,[Södermalm],4900000,700000,5600000,3336,Erik Olsson Fastighetsförmedling,186.6900442056129,Zinkensdamm
+2013-03-02,Lundagatan 36D,Zinkensdamm,Sodermalm,1,25,null,Lägenhet,1930,[Högalid],1895000,0,1895000,1356,Fastighetsbyrån,256.12113501511084,Zinkensdamm
+2013-02-28,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,3,74,4,Lägenhet,null,[Högalid],4400000,0,4400000,3990,Bostadsrättsspecialisten,75.49940643477724,Zinkensdamm
+2013-02-28,Brännkyrkagatan 83,Zinkensdamm,Sodermalm,1.5,35,2,Lägenhet,1942,[Södermalm-Högalid],1995000,315000,2310000,2052,Innerstadsspecialisten AB,128.25045094511074,Zinkensdamm
+2013-02-28,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,2,45,null,Lägenhet,null,[Södermalm],2375000,55000,2430000,3574,Erik Olsson Fastighetsförmedling,325.4329619130417,Zinkensdamm
+2013-02-27,Lundagatan 44A,Zinkensdamm,Sodermalm,2,36.5,2,Lägenhet,null,[Södermalm],2295000,65000,2360000,1890,Svensk Fastighetsförmedling,347.28878808287726,Zinkensdamm
+2013-02-27,Rosenlundsgatan 20,Zinkensdamm,Sodermalm,1.5,46,null,Lägenhet,1930,[Mariatorget],2295000,185000,2480000,2615,Fastighetsbyrån,323.5170617787885,Zinkensdamm
+2013-02-22,Lundagatan 38A,Zinkensdamm,Sodermalm,2.5,73,5,Lägenhet,1930,[Södermalm],4195000,0,4195000,3726,Svenska Mäklarhuset,244.472090944914,Zinkensdamm
+2013-02-21,Lundagatan 38A,Zinkensdamm,Sodermalm,2,41,3,Lägenhet,1939,[Södermalm],2495000,325000,2820000,2094,Svensk Fastighetsförmedling,244.472090944914,Zinkensdamm
+2013-02-20,Lundagatan 42B,Zinkensdamm,Sodermalm,2,43,null,Lägenhet,1930,[Högalid],2400000,110000,2510000,2020,Fastighetsbyrån,263.6820038435634,Zinkensdamm
+2013-02-17,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,1,40,1,Lägenhet,null,[Södermalm],2195000,125000,2320000,1789,BOSTHLM,172.02145439387476,Zinkensdamm
+2013-02-16,Rosenlundsgatan 14,Zinkensdamm,Sodermalm,2,63,2,Lägenhet,1963,[Södermalm],3095000,-95000,3000000,3049,Innerstadsspecialisten AB,288.0787714678536,Zinkensdamm
+2013-02-15,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,61,null,Lägenhet,1929,[Mariatorget],3200000,170000,3370000,2599,Fastighetsbyrån,172.02145439387476,Zinkensdamm
+2013-02-14,Krukmakargatan 63,Zinkensdamm,Sodermalm,1,36,1,Lägenhet,null,[Södermalm],2150000,170000,2320000,2359,Erik Olsson Fastighetsförmedling,361.4804127761859,Zinkensdamm
+2013-02-13,Krukmakargatan 63,Zinkensdamm,Sodermalm,2,48,2,Lägenhet,1942,[Zinkensdamm/Rosenlund],2850000,150000,3000000,2975,Mäklarhuset,361.4804127761859,Zinkensdamm
+2013-02-08,Krukmakarbacken 2,Zinkensdamm,Sodermalm,2,62,2,Lägenhet,1987,[Södermalm],2995000,10000,3005000,2996,Svenska Mäklarhuset,230.96155341232216,Zinkensdamm
+2013-02-02,Lundagatan 36D,Zinkensdamm,Sodermalm,2,41,null,Lägenhet,1931,[Södermalm Högalid],2490000,5000,2495000,2083,Bjurfors,256.12113501511084,Zinkensdamm
+2013-01-31,Lundagatan 29,Zinkensdamm,Sodermalm,1,40,null,Lägenhet,1894,[Södermalm],1990000,395000,2385000,2121,SkandiaMäklarna,132.90401612309432,Zinkensdamm
+2013-01-31,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,3,79,null,Lägenhet,1967,[Södermalm],3495000,-45000,3450000,3048,SkandiaMäklarna,51.59848310629898,Zinkensdamm
+2013-01-31,Lundagatan 36D,Zinkensdamm,Sodermalm,2,38,3,Lägenhet,null,[Högalid],2275000,125000,2400000,1954,Bostadsrättsspecialisten,256.12113501511084,Zinkensdamm
+2013-01-31,Lundagatan 40A,Zinkensdamm,Sodermalm,2,37.5,2.5,Lägenhet,null,[Södermalm],2195000,40000,2235000,1933,Svensk Fastighetsförmedling,283.39437270011183,Zinkensdamm
+2013-01-24,Krukmakargatan 67,Zinkensdamm,Sodermalm,2,43,null,Lägenhet,1942,[Zinkensdamm/Rosenlund],2495000,160000,2655000,2729,Fastighetsbyrån,391.52901546628755,Zinkensdamm
+2013-01-24,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,1,31,4,Lägenhet,1927,[Södermalm],1875000,225000,2100000,1840,Svensk Fastighetsförmedling,370.58001856113816,Zinkensdamm
+2013-01-24,Yttersta Tvärgränd 4,Zinkensdamm,Sodermalm,4,92.5,null,Lägenhet,1986,[Södermalm],6950000,1350000,8300000,3958,Notar,198.50957414835352,Zinkensdamm
+2013-01-21,Ludvigsbergsgatan 41,Zinkensdamm,Sodermalm,3.5,81,null,Lägenhet,1963,[Södermalm],4600000,-100000,4500000,2240,SkandiaMäklarna,191.06502559598493,Zinkensdamm
+2013-01-19,Krukmakargatan 60,Zinkensdamm,Sodermalm,2,68,1,Lägenhet,1989,[Södermalm],2995000,180000,3175000,3938,Svenska Mäklarhuset,333.7783403620088,Zinkensdamm
+2013-01-19,Lundagatan 42A,Zinkensdamm,Sodermalm,1.5,29,null,Lägenhet,1930,[Högalid],1995000,145000,2140000,1567,Fastighetsbyrån,316.1294023766264,Zinkensdamm
+2013-01-17,Brännkyrkagatan 91,Zinkensdamm,Sodermalm,2,69,null,Lägenhet,1967,[Mariatorget],3100000,440000,3540000,2817,Fastighetsbyrån,51.59848310629898,Zinkensdamm
+2013-01-16,Lundagatan 36D,Zinkensdamm,Sodermalm,2,41,null,Lägenhet,1931,[Södermalm],2170000,430000,2600000,2000,SkandiaMäklarna,256.12113501511084,Zinkensdamm
+2013-01-16,Doktor Abelins gata 6,Zinkensdamm,Sodermalm,1,36,null,Lägenhet,1928,[Mariatorget],2095000,0,2095000,1701,Fastighetsbyrån,319.03891034120284,Zinkensdamm
+2012-12-13,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,2.5,77,2,Lägenhet,1925,[Högalid],3900000,200000,4100000,2940,Mäklarhuset,519.1684955005329,Zinkensdamm
+2012-12-06,Lundagatan 29,Zinkensdamm,Sodermalm,2,50,null,Lägenhet,1894,[Högalid],2950000,0,2950000,2212,Fastighetsbyrån,132.90401612309432,Zinkensdamm
+2012-11-30,Krukmakargatan 31,Zinkensdamm,Sodermalm,1,34,4,Lägenhet,null,[Mariatorget],1895000,40000,1935000,2233,Bostadsrättsspecialisten,249.21070732327436,Zinkensdamm
+2012-11-29,Heleneborgsgatan 12,Zinkensdamm,Sodermalm,3,67,null,Lägenhet,1923,[Södermalm],3995000,505000,4500000,2310,SkandiaMäklarna,554.7752481939314,Hornstull
+2012-11-28,Samaritgränd 9,Zinkensdamm,Sodermalm,2.5,63.5,1.5,Lägenhet,1928,[Södermalm],2995000,645000,3640000,3203,Svenska Mäklarhuset,263.2705333792517,Zinkensdamm
+2012-11-27,Brännkyrkagatan 92A,Zinkensdamm,Sodermalm,1.5,34,null,Lägenhet,1935,[Södermalm],2095000,225000,2320000,1979,Notar,124.2941811776174,Zinkensdamm
+2012-11-23,Heleneborgsgatan 12B,Zinkensdamm,Sodermalm,1,27,null,Lägenhet,1924,[Högalid],1650000,0,1650000,990,Fastighetsbyrån,570.334692335305,Hornstull
+2012-11-22,Brännkyrkagatan 119,Zinkensdamm,Sodermalm,1,21,5,Lägenhet,null,[Södermalm],1550000,0,1550000,1668,Erik Olsson Fastighetsförmedling,325.4329619130417,Zinkensdamm
+2012-11-20,Krukmakargatan 65,Zinkensdamm,Sodermalm,1,23,1.5,Lägenhet,1942,[Södermalm],1680000,90000,1770000,1636,Svensk Fastighetsförmedling,382.5131097213914,Zinkensdamm
+2012-11-20,Krukmakargatan 31A,Zinkensdamm,Sodermalm,2.5,74,null,Lägenhet,1929,[Södermalm],3995000,-95000,3900000,3957,Notar,251.1823136967325,Zinkensdamm
+2012-11-13,Krukmakargatan 49,Zinkensdamm,Sodermalm,3,63,2,Lägenhet,null,[Södermalm],3100000,50000,3150000,3648,Erik Olsson Fastighetsförmedling,250.48493601702543,Zinkensdamm
+2012-11-13,Krukmakargatan 31B,Zinkensdamm,Sodermalm,1,34,4,Lägenhet,null,[Mariatorget],1895000,0,1895000,2233,Bostadsrättsspecialisten,255.82431133075622,Zinkensdamm
+2012-11-08,Lundagatan 40A,Zinkensdamm,Sodermalm,3,56.5,null,Lägenhet,1939,[Södermalm],3150000,635000,3785000,2763,SkandiaMäklarna,283.39437270011183,Zinkensdamm
+2012-11-07,Lundagatan 42A,Zinkensdamm,Sodermalm,2,52,1.5,Lägenhet,1930,[Södermalm],2695000,-95000,2600000,2449,Svensk Fastighetsförmedling,316.1294023766264,Zinkensdamm
+2012-11-06,Varvsgatan 1B,Zinkensdamm,Sodermalm,2,67,null,Lägenhet,1913,[Högalid],3450000,50000,3500000,2985,Fastighetsbyrån,516.2085922883252,Hornstull
+2012-11-01,Brännkyrkagatan 79,Zinkensdamm,Sodermalm,2,47,null,Lägenhet,1929,[Mariatorget],2650000,-100000,2550000,2002,Fastighetsbyrån,172.02145439387476,Zinkensdamm
+2012-11-01,Lundagatan 36D,Zinkensdamm,Sodermalm,3,66.5,null,Lägenhet,1931,[Södermalm],4900000,250000,5150000,3271,SkandiaMäklarna,256.12113501511084,Zinkensdamm
+2012-11-01,Krukmakargatan 63,Zinkensdamm,Sodermalm,2,48,1,Lägenhet,null,[Södermalm],2450000,0,2450000,2975,Erik Olsson Fastighetsförmedling,361.4804127761859,Zinkensdamm
+2012-10-31,Lundagatan 42A,Zinkensdamm,Sodermalm,2,40.5,null,Lägenhet,1930,[Södermalm],2195000,185000,2380000,1979,SkandiaMäklarna,316.1294023766264,Zinkensdamm
+2012-10-30,Rosenlundsgatan 18,Zinkensdamm,Sodermalm,2,45,5,Lägenhet,null,[Mariatorget],2650000,25000,2675000,2922,Bostadsrättsspecialisten,305.4402930279476,Zinkensdamm
+2012-10-30,Krukmakargatan 26,Zinkensdamm,Sodermalm,1,40,2,Lägenhet,1970,[Södermalm],2195000,5000,2200000,1879,Svensk Fastighetsförmedling,260.5645280276044,Zinkensdamm
+2012-10-24,Heleneborgsgatan 10B,Zinkensdamm,Sodermalm,1,32,null,Lägenhet,1925,[Högalid],1895000,115000,2010000,1311,Fastighetsbyrån,519.1684955005329,Zinkensdamm
+2012-10-23,Wollmar Yxkullsgatan 50A,Zinkensdamm,Sodermalm,2,49,null,Lägenhet,1935,[Mariatorget],2390000,0,2390000,2471,Fastighetsbyrån,288.5865644986229,Zinkensdamm
+2012-10-19,Brännkyrkagatan 93,Zinkensdamm,Sodermalm,1,38,2,Lägenhet,1910,[Södermalm],2190000,210000,2400000,1786,SkandiaMäklarna,36.1475113919179,Zinkensdamm
+2012-10-16,Krukmakargatan 27,Zinkensdamm,Sodermalm,2,53,null,Lägenhet,1930,[Södermalm],2695000,55000,2750000,2441,Notar,282.28206675922087,Zinkensdamm
+2012-10-13,Lundagatan 44B,Zinkensdamm,Sodermalm,2,47,4,Lägenhet,1930,[Södermalm Högalid],2700000,50000,2750000,2341,Bjurfors,356.5734682201418,Zinkensdamm
+2012-10-12,Brännkyrkagatan 88,Zinkensdamm,Sodermalm,2,49,null,Lägenhet,1929,[Högalid],2495000,315000,2810000,3009,Fastighetsbyrån,75.49940643477724,Zinkensdamm
+2012-10-11,Wollmar Yxkullsgatan 52B,Zinkensdamm,Sodermalm,1,39,null,Lägenhet,1935,[Södermalm],2150000,10000,2160000,2171,SkandiaMäklarna,255.66342054297158,Zinkensdamm
+2012-09-28,Lundagatan 36B,Zinkensdamm,Sodermalm,1,24.5,2,Lägenhet,1930,[Södermalm],1650000,100000,1750000,1374,Svensk Fastighetsförmedling,255.1775825458512,Zinkensdamm
+2012-09-28,Wollmar Yxkullsgatan 38,Zinkensdamm,Sodermalm,4,91,null,Lägenhet,1927,[Mariatorget],4475000,345000,4820000,3872,Fastighetsbyrån,370.58001856113816,Zinkensdamm
+2012-09-27,Lundagatan 36D,Zinkensdamm,Sodermalm,2,38,0.5,Lägenhet,1930,[Högalid],2195000,125000,2320000,1876,Mäklarhuset,256.12113501511084,Zinkensdamm
+2012-09-26,Lundagatan 48A,Zinkensdamm,Sodermalm,1,19,2,Lägenhet,1936,[Södermalm],1350000,230000,1580000,1126,Svensk Fastighetsförmedling,399.21780091460164,Zinkensdamm
+2012-09-22,Lundagatan 44A,Zinkensdamm,Sodermalm,2,36.5,null,Lägenhet,1930,[Södermalm],2200000,130000,2330000,1814,SkandiaMäklarna,347.28878808287726,Zinkensdamm
+2012-09-20,Lundagatan 38A,Zinkensdamm,Sodermalm,1,30.5,null,Lägenhet,1930,[Högalid],1950000,100000,2050000,1632,Fastighetsbyrån,244.472090944914,Zinkensdamm
+2012-09-15,Hornsgatan 89A,Zinkensdamm,Sodermalm,1.5,39,null,Lägenhet,1905,[Zinkensdamm/Rosenlund],2295000,105000,2400000,1382,Fastighetsbyrån,140.4726693508419,Zinkensdamm
+2012-09-07,Hornsgatan 90,Zinkensdamm,Sodermalm,1,36,null,Lägenhet,1929,[Södermalm],1690000,360000,2050000,1610,SkandiaMäklarna,172.5241095251185,Zinkensdamm

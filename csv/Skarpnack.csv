@@ -1,0 +1,467 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-21,Vinggatan 20,Skarpnack,GronSkarpnack,2,63.5,1,Lägenhet,1986,[Skarpnäck],1895000,65000,1960000,4006,HusmanHagberg,631.1867883391443,Skarpnack
+2016-06-17,Horisontvägen 91,Skarpnack,GronSkarpnack,3,80,5,Lägenhet,1989,[Skarpnäck],2395000,20000,2415000,5911,Mäklarhuset,330.04860089229345,Skarpnack
+2016-06-17,Gråhundsvägen 122,Skarpnack,GronSkarpnack,7,195,null,Villa,1969,[Norra Sköndal],4600000,20000,4620000,null,Fastighetsbyrån,858.3312207384982,Skarpnack
+2016-06-10,Tätorpsvägen 3B,Skarpnack,GronSkarpnack,4,117,3,Lägenhet,1989,[Skarpnäck],2600000,-200000,2400000,7494,Fastighetsbyrån,477.5283961639656,Skarpnack
+2016-06-10,Pilotgatan 17,Skarpnack,GronSkarpnack,2,57,1,Lägenhet,1983,[Skarpnäck],1795000,515000,2310000,3301,Notar,245.4377230169558,Skarpnack
+2016-06-08,Pilottorget 6,Skarpnack,GronSkarpnack,4,99,2,Lägenhet,1986,[Skarpnäck],3300000,356250,3656250,5953,Notar,158.63618537935918,Skarpnack
+2016-06-03,Segelflygsgatan 22,Skarpnack,GronSkarpnack,4,99,2,Lägenhet,1985,[Skarpnäck],2895000,765000,3660000,6388,Notar,177.40719121568526,Skarpnack
+2016-06-02,Ballonggatan 1,Skarpnack,GronSkarpnack,4,99,3,Lägenhet,1985,[Skarpnäck],3500000,200000,3700000,6250,Fastighetsbyrån,140.20279674942805,Skarpnack
+2016-05-31,Gondolgatan 3,Skarpnack,GronSkarpnack,3,74.5,1,Lägenhet,null,[Skarpnäck],2395000,0,2395000,4208,Mäklarringen,228.08102236989998,Skarpnack
+2016-05-31,Skarpnäcks Allé 9,Skarpnack,GronSkarpnack,2,63.5,3,Lägenhet,null,[Skarpnäck],1895000,355000,2250000,4014,HusmanHagberg,561.2535234860105,Skarpnack
+2016-05-30,Helikoptergatan 28,Skarpnack,GronSkarpnack,5,116.5,null,Radhus,2008,[Skarpnäck],4995000,-295000,4700000,5495,Mäklarringen,741.3282360810167,Skarpnack
+2016-05-28,Horisontvägen 67,Skarpnack,GronSkarpnack,4,95,null,Lägenhet,null,[Skarpnäck],3150000,600000,3750000,6466,BOSTHLM,165.86436763810113,Skarpnack
+2016-05-27,Pilvingegatan 48,Skarpnack,GronSkarpnack,2,56,5,Lägenhet,1986,[Skarpnäck],1925000,400000,2325000,3261,HusmanHagberg,447.4672177611212,Skarpnack
+2016-05-27,Tätorpsvägen 130,Skarpnack,GronSkarpnack,5,112,null,Radhus,1985,[Skarpnäck],4495000,325000,4820000,null,Svensk Fastighetsförmedling,413.7034463039829,Skarpnack
+2016-05-20,Gråhundsvägen 186,Skarpnack,GronSkarpnack,5,137,null,Radhus,1969,[Norra Sköndal],4195000,825000,5020000,null,HusmanHagberg,1008.5947639008763,Skarpnack
+2016-05-19,Pilotgatan 22,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1984,[Skarpnäck],2650000,50000,2700000,4315,Fastighetsbyrån,137.01711292920626,Skarpnack
+2016-05-19,Varmfrontsgatan 23,Skarpnack,GronSkarpnack,3,80,2,Lägenhet,1985,[Skarpnäck],2395000,605000,3000000,5476,HusmanHagberg,131.68575232635155,Skarpnack
+2016-05-19,Pilotgatan 36,Skarpnack,GronSkarpnack,3,75.5,3,Lägenhet,1983,[Skarpnäck],2495000,105000,2600000,4451,HusmanHagberg,241.76837416657787,Skarpnack
+2016-05-18,Fallskärmsgatan 4,Skarpnack,GronSkarpnack,3,76.3,0,Lägenhet,1985,[Skarpnäck],2395000,65000,2460000,4636,HusmanHagberg,179.52074007868436,Skarpnack
+2016-05-17,Horisontvägen 85,Skarpnack,GronSkarpnack,4,88,1,Lägenhet,1984,[Skarpnäck],2495000,135000,2630000,5999,Fantastic Frank Fastighetsmäkleri,206.24041487355476,Skarpnack
+2016-05-17,Pilvingegatan 83,Skarpnack,GronSkarpnack,2,44.5,0,Lägenhet,2005,[Skarpnäck],1995000,105000,2100000,3913,HusmanHagberg,517.9358842521781,Skarpnack
+2016-05-11,Pilotgatan 5C,Skarpnack,GronSkarpnack,2,66,2,Lägenhet,1989,[Skarpnäck],1895000,435000,2330000,4584,Fastighetsbyrån,169.85921668968902,Skarpnack
+2016-05-11,Pilotgatan 5C,Skarpnack,GronSkarpnack,2,67,3,Lägenhet,1989,[Skarpnäck],1895000,445000,2340000,4643,Notar,169.85921668968902,Skarpnack
+2016-05-10,Vinggatan 24,Skarpnack,GronSkarpnack,3,77,null,Lägenhet,1984,[Skarpnäcks stadsdelsområde],2695000,415000,3110000,4674,SkandiaMäklarna,655.9423341387059,Skarpnack
+2016-05-06,Drakflygargatan 5,Skarpnack,GronSkarpnack,4,94.5,3,Lägenhet,1984,[Skarpnäck],2975000,75000,3050000,5554,Notar,577.6124173578419,Skarpnack
+2016-05-06,Drakflygargatan 3,Skarpnack,GronSkarpnack,2,59.5,3,Lägenhet,1984,[Skarpnäck],1895000,455000,2350000,3505,Länsförsäkringar Fastighetsförmedling,610.6849632478039,Skarpnack
+2016-05-05,Skarpnäcks Allé 37,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1985,[Skarpnäck],1695000,620000,2315000,4193,Fastighetsbyrån,31.464200371418006,Skarpnack
+2016-04-29,Vildapelvägen 2,Skarpnack,GronSkarpnack,5,131,null,Kedjehus,2010,[Enskededalen],5595000,885000,6480000,2660,Mäklarringen,1267.7461785832206,Skogskyrkogarden
+2016-04-28,Vinggatan 20,Skarpnack,GronSkarpnack,5,104.5,0,Lägenhet,1984,[Skarpnäck],3495000,565000,4060000,5964,Fastighetsbyrån,631.1867883391443,Skarpnack
+2016-04-28,Gråhundsvägen 234,Skarpnack,GronSkarpnack,6,147,null,Radhus,1969,[Norra Sköndal],4700000,1420000,6120000,null,Fastighetsbyrån,1040.7418206034079,Skarpnack
+2016-04-28,Vinthundsvägen 111,Skarpnack,GronSkarpnack,5,137,null,Radhus,1970,[Norra Sköndal],4395000,635000,5030000,null,Länsförsäkringar Fastighetsförmedling,1416.8828756995285,Skarpnack
+2016-04-28,Pilottorget 3,Skarpnack,GronSkarpnack,4,99,3,Lägenhet,1983,[Skarpnäck],3195000,435000,3630000,5383,Svensk Fastighetsförmedling,191.75124566878097,Skarpnack
+2016-04-28,Fallskärmsgatan 4,Skarpnack,GronSkarpnack,3,80,1,Lägenhet,null,[Skarpnäck],2295000,465000,2760000,4788,Svensk Fastighetsförmedling,179.52074007868436,Skarpnack
+2016-04-28,Pilotgatan 15,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1983,[Skarpnäck],1975000,625000,2600000,3720,HusmanHagberg,194.35604773880488,Skarpnack
+2016-04-28,Horisontvägen 81,Skarpnack,GronSkarpnack,3,79,1,Lägenhet,1985,[Skarpnäck],2295000,345000,2640000,5333,HusmanHagberg,203.551155811079,Skarpnack
+2016-04-28,Pilvingegatan 48,Skarpnack,GronSkarpnack,2,56,2,Lägenhet,1986,[Skarpnäck],1995000,485000,2480000,3278,Notar,447.4672177611212,Skarpnack
+2016-04-26,Pilotgatan 6,Skarpnack,GronSkarpnack,2,65,1,Lägenhet,1985,[Skarpnäck],1895000,255000,2150000,4729,Notar,208.6918791811872,Skarpnack
+2016-04-22,Pilotgatan 17,Skarpnack,GronSkarpnack,3,75.5,2,Lägenhet,1985,[Skarpnäck],2195000,455000,2650000,4401,HusmanHagberg,245.4377230169558,Skarpnack
+2016-04-21,Skarpnäcks Allé 9,Skarpnack,GronSkarpnack,3,77,2,Lägenhet,1986,[Skarpnäck],1995000,475000,2470000,4674,HusmanHagberg,561.2535234860105,Skarpnack
+2016-04-21,Helikoptergatan 13,Skarpnack,GronSkarpnack,5,116.5,null,Radhus,2008,[Skarpnäck],4750000,410000,5160000,5495,Mäklarringen,766.0029712266373,Skarpnack
+2016-04-21,Skarpnäcks Allé 41,Skarpnack,GronSkarpnack,2.5,67.5,null,Lägenhet,1983,[Skarpnäck],1975000,440000,2415000,3643,Notar,24.25309094519418,Skarpnack
+2016-04-14,Skarpnäcks Allé 41,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1983,[Skarpnäck],2350000,380000,2730000,4378,Notar,24.25309094519418,Skarpnack
+2016-04-14,Ballonggatan 1A,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1985,[Skarpnäck],2395000,205000,2600000,4943,Länsförsäkringar Fastighetsförmedling,136.9384815801613,Skarpnack
+2016-04-13,Pilvingegatan 55,Skarpnack,GronSkarpnack,3,65.5,1,Lägenhet,2005,[Skarpnäck],2195000,355000,2550000,5171,HusmanHagberg,502.51075163457324,Skarpnack
+2016-04-13,Pilottorget 1,Skarpnack,GronSkarpnack,3,71,1,Lägenhet,1983,[Skarpnäck],2395000,885000,3280000,4308,Notar,155.68105943214076,Skarpnack
+2016-04-13,Glidflyktsgatan 5,Skarpnack,GronSkarpnack,2,57,1,Lägenhet,1985,[Skarpnäck],1895000,405000,2300000,3970,HusmanHagberg,228.95494752325155,Skarpnack
+2016-04-09,Pilvingegatan 58,Skarpnack,GronSkarpnack,2,45,2,Lägenhet,1986,[Skarpnäck],1895000,545000,2440000,2633,Svensk Fastighetsförmedling,446.77065452289804,Skarpnack
+2016-04-09,Pilotgatan 23,Skarpnack,GronSkarpnack,4,97,1,Lägenhet,1983,[Skarpnäck],2950000,160000,3110000,5436,Svensk Fastighetsförmedling,313.1682621680262,Skarpnack
+2016-04-08,Segelflygsgatan 20,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1985,[Skarpnäck],1995000,505000,2500000,4806,HusmanHagberg,157.8603565792753,Skarpnack
+2016-04-07,Pilvingegatan 87,Skarpnack,GronSkarpnack,2,44.5,null,Lägenhet,2005,[Skarpnäck],1850000,675000,2525000,3932,HusmanHagberg,534.9092441701234,Skarpnack
+2016-04-06,Pilottorget 5,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1983,[Skarpnäck],1895000,425000,2320000,3895,HusmanHagberg,197.07124153084763,Skarpnack
+2016-03-31,Terriergränd 62,Skarpnack,GronSkarpnack,5,137,null,Radhus,1970,[Skarpnäcks stadsdelsområde],5375000,675000,6050000,null,SkandiaMäklarna,1256.299869625936,Skarpnack
+2016-03-31,Segelflygsgatan 35,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1985,[Skarpnäck],1995000,505000,2500000,5058,HusmanHagberg,231.79400203755668,Skarpnack
+2016-03-29,Pilvingegatan 38,Skarpnack,GronSkarpnack,2,56,3,Lägenhet,1986,[Skarpnäck],1895000,655000,2550000,3278,Notar,431.4126250595863,Skarpnack
+2016-03-24,Horisontvägen 115,Skarpnack,GronSkarpnack,5,122,null,Radhus,2009,[Skarpnäck],4895000,255000,5150000,4675,HusmanHagberg,370.6036979328151,Skarpnack
+2016-03-24,Tätorpsvägen 11,Skarpnack,GronSkarpnack,3,73,4,Lägenhet,1990,[Skarpnäck],2295000,365000,2660000,5844,HusmanHagberg,415.8633217546161,Skarpnack
+2016-03-22,Segelflygsgatan 10,Skarpnack,GronSkarpnack,3,78.5,2,Lägenhet,1985,[Skarpnäck],2395000,255000,2650000,4748,HusmanHagberg,150.99150092218395,Skarpnack
+2016-03-21,Luftskeppsgatan 5,Skarpnack,GronSkarpnack,3,78,3,Lägenhet,1986,[Skarpnäck],2195000,475000,2670000,5067,Notar,219.546109295429,Skarpnack
+2016-03-21,Fallvindsgatan 7,Skarpnack,GronSkarpnack,4,101.5,null,Lägenhet,1983,[Skarpnäck],2950000,600000,3550000,5680,Notar,74.1655101545042,Skarpnack
+2016-03-19,Ballonggatan 1C,Skarpnack,GronSkarpnack,5,117.5,0,Lägenhet,null,[Skarpnäck],3195000,155000,3350000,6917,Fastighetsbyrån,141.89522453629493,Skarpnack
+2016-03-18,Flygfältsgatan 42,Skarpnack,GronSkarpnack,4,96,null,Lägenhet,2009,[Skarpnäck],3950000,500000,4450000,3679,Notar,413.0610037108081,Skarpnack
+2016-03-18,Vinggatan 16,Skarpnack,GronSkarpnack,3,77,1,Lägenhet,1984,[Skarpnäck],2195000,635000,2830000,4641,Notar,627.0526528987364,Skarpnack
+2016-03-17,Pilvingegatan 48,Skarpnack,GronSkarpnack,3,75,5,Lägenhet,1986,[Skarpnäck],2595000,290000,2885000,4388,Mäklarhuset,447.4672177611212,Skarpnack
+2016-03-07,Tätorpsvägen 3A,Skarpnack,GronSkarpnack,4,105.5,null,Lägenhet,1989,[Skarpnäck],2495000,205000,2700000,6712,Notar,510.6332869488718,Skarpnack
+2016-03-02,Vinggatan 24,Skarpnack,GronSkarpnack,5,104.5,3,Lägenhet,1984,[Skarpnäck],3150000,0,3150000,6033,Fastighetsbyrån,655.9423341387059,Skarpnack
+2016-02-25,Pilottorget 1,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1983,[Skarpnäck],2395000,705000,3100000,4259,HusmanHagberg,155.68105943214076,Skarpnack
+2016-02-20,Ballonggatan 1,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1985,[Skarpnäck],2195000,305000,2500000,5082,HusmanHagberg,140.20279674942805,Skarpnack
+2016-02-20,Pilottorget 8,Skarpnack,GronSkarpnack,3,77,2,Lägenhet,1988,[Skarpnäck],2195000,235000,2430000,4798,HusmanHagberg,158.41110971951787,Skarpnack
+2016-02-19,Drakflygargatan 2,Skarpnack,GronSkarpnack,2,59,1,Lägenhet,1987,[Skarpnäck],1895000,445000,2340000,3461,HusmanHagberg,602.6694111859802,Skarpnack
+2016-02-18,Horisontvägen 96,Skarpnack,GronSkarpnack,5,126,null,Villa,null,[Skarpnäck],4195000,855000,5050000,null,Svenska Mäklarhuset,316.8391243602401,Skarpnack
+2016-02-16,Segelflygsgatan 10,Skarpnack,GronSkarpnack,2,64.7,2,Lägenhet,null,[Skarpnäck],1595000,235000,1830000,4001,Mäklarringen,150.99150092218395,Skarpnack
+2016-02-16,Pilotgatan 11,Skarpnack,GronSkarpnack,4,101.5,4,Lägenhet,1983,[Skarpnäck],2950000,1050000,4000000,5740,Notar,92.00601432812422,Skarpnack
+2016-02-11,Pilvingegatan 40,Skarpnack,GronSkarpnack,2,45,1,Lägenhet,null,[Skarpnäck],1895000,375000,2270000,2633,Svenska Mäklarhuset,412.2003938171318,Skarpnack
+2016-02-10,Segelflygsgatan 12,Skarpnack,GronSkarpnack,3,76.3,4,Lägenhet,1985,[Skarpnäck],2200000,225000,2425000,4444,HusmanHagberg,136.568866159288,Skarpnack
+2016-02-10,Skarpnäcks Allé 60,Skarpnack,GronSkarpnack,4,98,2,Lägenhet,1985,[Skarpnäck],2895000,605000,3500000,5815,HusmanHagberg,107.63768439972289,Skarpnack
+2016-02-05,Skarpnäcks Allé 39,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1983,[Skarpnäck],2395000,208000,2603000,4365,Svensk Fastighetsförmedling,39.155901858581686,Skarpnack
+2016-02-01,Fallvindsgatan 1,Skarpnack,GronSkarpnack,3,75.5,1,Lägenhet,1983,[Skarpnäck],2095000,655000,2750000,4352,Notar,110.89586531088219,Skarpnack
+2016-02-01,Horisontvägen 63,Skarpnack,GronSkarpnack,3,77,2,Lägenhet,1984,[Skarpnäck],2195000,-95000,2100000,5318,Notar,174.1673366638664,Skarpnack
+2016-01-29,Skarpnäcks Allé 35,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1985,[Skarpnäck],1995000,390000,2385000,4944,Länsförsäkringar Fastighetsförmedling,51.45872092548821,Skarpnack
+2016-01-27,Pilvingegatan 49,Skarpnack,GronSkarpnack,2,65.5,2,Lägenhet,2005,[Skarpnäck],1995000,855000,2850000,5190,HusmanHagberg,525.9338134884205,Skarpnack
+2016-01-26,Pilvingegatan 58,Skarpnack,GronSkarpnack,2,45,2,Lägenhet,null,[Skarpnäck],1895000,505000,2400000,2633,Svensk Fastighetsförmedling,446.77065452289804,Skarpnack
+2016-01-25,Vinggatan 12,Skarpnack,GronSkarpnack,3,77,3,Lägenhet,1984,[Skarpnäck],2295000,505000,2800000,4680,Notar,628.711989682116,Skarpnack
+2016-01-22,Horisontvägen 14D,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,2009,[Skarpnäck],1625000,210000,1835000,2730,SverigeMäklaren,615.464737050381,Skarpnack
+2016-01-21,Skarpnäcks Allé 41,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1983,[Skarpnäck],1750000,470000,2220000,3786,HusmanHagberg,24.25309094519418,Skarpnack
+2016-01-19,Tätorpsvägen 11,Skarpnack,GronSkarpnack,3,73,1,Lägenhet,1990,[Skarpnäck],2350000,680000,3030000,4366,HusmanHagberg,415.8633217546161,Skarpnack
+2016-01-15,Pilotgatan 4,Skarpnack,GronSkarpnack,2,63,null,Lägenhet,1985,[Skarpnäck],1795000,505000,2300000,4553,Länsförsäkringar Fastighetsförmedling,202.68625265412166,Skarpnack
+2016-01-15,Skarpnäcks Allé 27,Skarpnack,GronSkarpnack,4,101.5,4,Lägenhet,1985,[Skarpnäck],2795000,1070000,3865000,6802,HusmanHagberg,218.47387181742116,Skarpnack
+2016-01-15,Skarpnäcks Allé 66,Skarpnack,GronSkarpnack,3.5,81,1,Lägenhet,1984,[Skarpnäck],2395000,505000,2900000,4795,HusmanHagberg,49.94089337462182,Skarpnack
+2016-01-13,Pilotgatan 25,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1983,[Skarpnäck],1895000,705000,2600000,3502,HusmanHagberg,313.5938062912528,Skarpnack
+2015-12-19,Pilottorget 6,Skarpnack,GronSkarpnack,5,99,2,Lägenhet,1986,[Skarpnäck],2995000,105000,3100000,6076,Fastighetsbyrån,158.63618537935918,Skarpnack
+2015-12-16,Pilvingegatan 87,Skarpnack,GronSkarpnack,2,44.5,1,Lägenhet,2005,[Skarpnäck],1795000,330000,2125000,3893,Mäklarhuset,534.9092441701234,Skarpnack
+2015-12-12,Horisontvägen 91,Skarpnack,GronSkarpnack,3,80,4,Lägenhet,1989,[Skarpnäck],2195000,415000,2610000,5883,Fastighetsbyrån,330.04860089229345,Skarpnack
+2015-12-11,Skarpnäcks Allé 35,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1984,[Skarpnäck],2195000,125000,2320000,4944,HusmanHagberg,51.45872092548821,Skarpnack
+2015-12-09,Skarpnäcks Allé 7,Skarpnack,GronSkarpnack,2,63.5,3,Lägenhet,1984,[Skarpnäck],1795000,255000,2050000,4014,Länsförsäkringar Fastighetsförmedling,549.8508916052336,Skarpnack
+2015-12-04,Pilottorget 14,Skarpnack,GronSkarpnack,4,99,null,Lägenhet,1986,[Skarpnäck],2795000,625000,3420000,6118,HusmanHagberg,178.00708921307395,Skarpnack
+2015-12-03,Skarpnäcks Gårdsväg 5C,Skarpnack,GronSkarpnack,4,120,null,Radhus,2003,[Skarpnäck],4695000,515000,5210000,null,HusmanHagberg,600.6343966503363,Skarpnack
+2015-12-02,Tätorpsvägen 11,Skarpnack,GronSkarpnack,3,73,2,Lägenhet,1990,[Skarpnäck],2295000,830000,3125000,4366,HusmanHagberg,415.8633217546161,Skarpnack
+2015-11-28,Fallvindsgatan 6,Skarpnack,GronSkarpnack,4,99,2,Lägenhet,1983,[Skarpnäck],2895000,855000,3750000,5433,HusmanHagberg,113.49258274279767,Skarpnack
+2015-11-27,Ballonggatan 6,Skarpnack,GronSkarpnack,4,110,4,Lägenhet,1985,[Skarpnäck],2795000,575000,3370000,6769,HusmanHagberg,64.24582613473389,Skarpnack
+2015-11-27,Pilottorget 8,Skarpnack,GronSkarpnack,2,63,1,Lägenhet,1988,[Skarpnäck],1750000,250000,2000000,4030,HusmanHagberg,158.41110971951787,Skarpnack
+2015-11-26,Helikoptergatan 16,Skarpnack,GronSkarpnack,4,116.5,null,Radhus,2008,[Skarpnäck],4595000,265000,4860000,5495,Fastighetsbyrån,770.9226620815674,Skarpnack
+2015-11-24,Skarpnäcks Allé 43,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1983,[Skarpnäck],1850000,210000,2060000,3786,HusmanHagberg,59.72670365311398,Skarpnack
+2015-11-21,Varmfrontsgatan 29,Skarpnack,GronSkarpnack,3,80,2,Lägenhet,1985,[Skarpnäck],2195000,265000,2460000,5476,HusmanHagberg,121.30059015827902,Skarpnack
+2015-11-20,Pilotgatan 25,Skarpnack,GronSkarpnack,6,142,3,Lägenhet,1983,[Skarpnäck],3495000,775000,4270000,7092,HusmanHagberg,313.5938062912528,Skarpnack
+2015-11-18,Pilotgatan 12,Skarpnack,GronSkarpnack,2,66,2,Lägenhet,1985,[Skarpnäck],1750000,350000,2100000,4735,Bjurfors,187.40198624016162,Skarpnack
+2015-11-16,Drakflygargatan 9,Skarpnack,GronSkarpnack,3,77,null,Lägenhet,1984,[Skarpnäck],2450000,-100000,2350000,4498,Länsförsäkringar Fastighetsförmedling,562.1309074684975,Skarpnack
+2015-11-14,Vinggatan 24,Skarpnack,GronSkarpnack,2,63.5,1,Lägenhet,null,[Skarpnäck],1790000,570000,2360000,4196,ERA,655.9423341387059,Skarpnack
+2015-11-14,Fallvindsgatan 1,Skarpnack,GronSkarpnack,2,59,2,Lägenhet,1983,[Skarpnäck],1975000,495000,2470000,3657,HusmanHagberg,110.89586531088219,Skarpnack
+2015-11-13,Pilvingegatan 48,Skarpnack,GronSkarpnack,3,75,4,Lägenhet,1986,[Skarpnäck],2195000,155000,2350000,4377,HusmanHagberg,447.4672177611212,Skarpnack
+2015-11-12,Horisontvägen 59,Skarpnack,GronSkarpnack,3,77.2,1,Lägenhet,1985,[Skarpnäck],2195000,385000,2580000,4411,Notar,205.88389050020194,Skarpnack
+2015-11-12,Sportflygargatan 7,Skarpnack,GronSkarpnack,3,77,2,Lägenhet,1984,[Skarpnäck],2195000,840000,3035000,4674,Notar,557.4867977954194,Skarpnack
+2015-11-06,Drakflygargatan 5,Skarpnack,GronSkarpnack,4,94.5,1,Lägenhet,1984,[Skarpnäck],2800000,1050000,3850000,5542,Fastighetsbyrån,577.6124173578419,Skarpnack
+2015-11-06,Pilvingegatan 42,Skarpnack,GronSkarpnack,4,88,4,Lägenhet,1986,[Skarpnäck],2595000,275000,2870000,5150,HusmanHagberg,410.9529490492514,Skarpnack
+2015-11-05,Pilvingegatan 53,Skarpnack,GronSkarpnack,3,65.5,null,Lägenhet,2005,[Skarpnäck],1945000,430000,2375000,5120,ERA,504.59800120422193,Skarpnack
+2015-11-03,Pilotgatan 44,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1983,[Skarpnäck],1750000,670000,2420000,3621,Notar,328.86581233022207,Skarpnack
+2015-10-30,Luftskeppsgatan 10,Skarpnack,GronSkarpnack,3,80,2,Lägenhet,1985,[Skarpnäck],1995000,515000,2510000,5828,Svensk Fastighetsförmedling,217.14259534132106,Skarpnack
+2015-10-30,Pilotgatan 2,Skarpnack,GronSkarpnack,1,41,1,Lägenhet,1989,[Skarpnäck],1395000,555000,1950000,3268,HusmanHagberg,226.24037811785504,Skarpnack
+2015-10-30,Fallskärmsgatan 10,Skarpnack,GronSkarpnack,3,78,2,Lägenhet,1985,[Skarpnäck],2295000,930000,3225000,4555,HusmanHagberg,159.57803432860896,Skarpnack
+2015-10-30,Horisontvägen 18F,Skarpnack,GronSkarpnack,1,31,1,Lägenhet,2009,[Skarpnäck],1880000,0,1880000,2676,Mäklarhuset,602.042118143716,Skarpnack
+2015-10-29,Pilvingegatan 40,Skarpnack,GronSkarpnack,4,90,3,Lägenhet,1986,[Skarpnäcks stadsdelsområde],2495000,355000,2850000,5267,SkandiaMäklarna,412.2003938171318,Skarpnack
+2015-10-27,Pilottorget 5,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1983,[Skarpnäck],2395000,505000,2900000,4384,Länsförsäkringar Fastighetsförmedling,197.07124153084763,Skarpnack
+2015-10-23,Fallvindsgatan 4,Skarpnack,GronSkarpnack,2.5,61.5,2,Lägenhet,1983,[Skarpnäck],1995000,475000,2470000,3720,HusmanHagberg,118.89401954547235,Skarpnack
+2015-10-22,Horisontvägen 91,Skarpnack,GronSkarpnack,4,99,3,Lägenhet,1989,[Skarpnäck],2695000,1465000,4160000,7146,HusmanHagberg,330.04860089229345,Skarpnack
+2015-10-19,Pilvingegatan 67,Skarpnack,GronSkarpnack,2,65.5,null,Lägenhet,2007,[Skarpnäck],1795000,845000,2640000,5138,Länsförsäkringar Fastighetsförmedling,479.07538163672933,Skarpnack
+2015-10-19,Horisontvägen 18A,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,2009,[Skarpnäck],1495000,455000,1950000,2676,BoLiving,503.24246222999324,Skarpnack
+2015-10-17,Skarpnäcks Allé 5,Skarpnack,GronSkarpnack,2,63.5,2,Lägenhet,1986,[Skarpnäck],1895000,305000,2200000,4010,HusmanHagberg,575.465392053385,Skarpnack
+2015-10-15,Varmfrontsgatan 8,Skarpnack,GronSkarpnack,2,62,1,Lägenhet,1984,[Skarpnäck],1750000,520000,2270000,4017,Svensk Fastighetsförmedling,132.99029371865868,Skarpnack
+2015-10-08,Fallskärmsgatan 2,Skarpnack,GronSkarpnack,2,65,1,Lägenhet,1985,[Skarpnäck],1795000,515000,2310000,3976,Svensk Fastighetsförmedling,179.499262939556,Skarpnack
+2015-10-08,Pudelgränd 46,Skarpnack,GronSkarpnack,4,137,null,Radhus,1969,[Norra Sköndal],5395000,805000,6200000,null,Fastighetsbyrån,807.5338004439942,Skarpnack
+2015-10-08,Vinggatan 34,Skarpnack,GronSkarpnack,4,94,null,Lägenhet,1984,[Skarpnäck],2595000,1205000,3800000,5465,HusmanHagberg,562.7252552446823,Skarpnack
+2015-10-07,Horisontvägen 93,Skarpnack,GronSkarpnack,2,68,null,Lägenhet,1985,[Skarpnäck],1750000,460000,2210000,4932,Notar,277.8492793029798,Skarpnack
+2015-10-01,Varmfrontsgatan 8,Skarpnack,GronSkarpnack,2,62,3,Lägenhet,1984,[Skarpnäck],1795000,525000,2320000,4093,Mäklarringen,132.99029371865868,Skarpnack
+2015-09-25,Horisontvägen 97,Skarpnack,GronSkarpnack,3,80,2,Lägenhet,1985,[Skarpnäck],1895000,315000,2210000,5828,Svensk Fastighetsförmedling,263.9396384113802,Skarpnack
+2015-09-24,Drakflygargatan 7,Skarpnack,GronSkarpnack,2,63.5,2,Lägenhet,null,[Skarpnäck],1795000,245000,2040000,4010,Fastighetsbyrån,555.8331403150951,Skarpnack
+2015-09-24,Pilotgatan 9,Skarpnack,GronSkarpnack,3,80,4,Lägenhet,1984,[Skarpnäck],2395000,505000,2900000,4984,Svensk Fastighetsförmedling,95.05511816569019,Skarpnack
+2015-09-21,Flygfältsgatan 41,Skarpnack,GronSkarpnack,5,126,null,Lägenhet,2011,[Skarpnäck],3995000,505000,4500000,4134,Länsförsäkringar Fastighetsförmedling,318.76148567434586,Skarpnack
+2015-09-17,Flygfältsgatan 48,Skarpnack,GronSkarpnack,4,96,0,Radhus,2008,[Skarpnäck],3795000,665000,4460000,3607,Svensk Fastighetsförmedling,410.97229014487806,Skarpnack
+2015-09-14,Pilvingegatan 103,Skarpnack,GronSkarpnack,2,44.5,null,Lägenhet,2005,[Skarpnäck],1495000,855000,2350000,3874,Mäklarhuset,494.1821107906943,Skarpnack
+2015-09-14,Horisontvägen 53,Skarpnack,GronSkarpnack,2,62.5,1,Lägenhet,null,[Skarpnäck],1695000,465000,2160000,3755,Notar,220.5537904736858,Skarpnack
+2015-09-09,Pilotgatan 7,Skarpnack,GronSkarpnack,3,80,1,Lägenhet,1984,[Skarpnäck],2595000,115000,2710000,4846,Svensk Fastighetsförmedling,124.27636748071032,Skarpnack
+2015-09-07,Varmfrontsgatan 29,Skarpnack,GronSkarpnack,3,80,1,Lägenhet,1985,[Skarpnäck],1695000,755000,2450000,5424,Notar,121.30059015827902,Skarpnack
+2015-09-07,Pilotgatan 21,Skarpnack,GronSkarpnack,4,101.5,3,Lägenhet,1983,[Skarpnäck],2695000,930000,3625000,5680,Notar,290.967456469816,Skarpnack
+2015-08-30,Pilotgatan 36,Skarpnack,GronSkarpnack,4.5,110,3,Lägenhet,1983,[Skarpnäck],2900000,1025000,3925000,5831,Notar,241.76837416657787,Skarpnack
+2015-08-27,Uppvindsgatan 2,Skarpnack,GronSkarpnack,3,77.5,2,Lägenhet,1985,[Skarpnäck],1950000,560000,2510000,5321,Notar,176.38918967227542,Skarpnack
+2015-08-27,Fallskärmsgatan 20,Skarpnack,GronSkarpnack,3,80,null,Lägenhet,null,[Skarpnäck],2495000,415000,2910000,5528,Svenska Mäklarhuset,142.55682967489307,Skarpnack
+2015-08-27,Fallvindsgatan 8,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1983,[Skarpnäck],1895000,575000,2470000,3681,HusmanHagberg,127.36673506117643,Skarpnack
+2015-08-20,Luftfartsgatan 10,Skarpnack,GronSkarpnack,4,120,null,Radhus,2008,[Skarpnäck],3250000,260000,3510000,6625,HusmanHagberg,471.0193465467952,Skarpnack
+2015-08-18,Luftskeppsgatan 4,Skarpnack,GronSkarpnack,2,66,3,Lägenhet,null,[Skarpnäck],1900000,0,1900000,4779,Mäklarringen,170.88313045524444,Skarpnack
+2015-08-06,Fallvindsgatan 7,Skarpnack,GronSkarpnack,2,62,1,Lägenhet,1983,[Skarpnäck],1695000,280000,1975000,3737,Svensk Fastighetsförmedling,74.1655101545042,Skarpnack
+2015-08-05,Luftskeppsgatan 4,Skarpnack,GronSkarpnack,2,62,2,Lägenhet,null,[Skarpnäck],1595000,555000,2150000,4538,Mäklarringen,170.88313045524444,Skarpnack
+2015-07-07,Fallvindsgatan 4,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1983,[Skarpnäck],1950000,435000,2385000,4308,Notar,118.89401954547235,Skarpnack
+2015-07-07,Pilotgatan 19,Skarpnack,GronSkarpnack,2,61.5,null,Lägenhet,1984,[Skarpnäck],1695000,555000,2250000,3856,Länsförsäkringar Fastighetsförmedling,257.8139834797604,Skarpnack
+2015-07-02,Skarpnäcks Allé 37,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1985,[Skarpnäck],1595000,305000,1900000,4239,Notar,31.464200371418006,Skarpnack
+2015-06-30,Varmfrontsgatan 23,Skarpnack,GronSkarpnack,4,90,2,Lägenhet,1985,[Skarpnäck],2350000,550000,2900000,6154,HusmanHagberg,131.68575232635155,Skarpnack
+2015-06-26,Segelflygsgatan 6,Skarpnack,GronSkarpnack,1.5,44,null,Lägenhet,1985,[Skarpnäck],1450000,430000,1880000,2677,Notar,158.51919986419165,Skarpnack
+2015-06-26,Segelflygsgatan 6,Skarpnack,GronSkarpnack,2,31,null,Lägenhet,1985,[Skarpnäck],1150000,625000,1775000,1886,Notar,158.51919986419165,Skarpnack
+2015-06-26,Pilotgatan 44,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1983,[Skarpnäck],1650000,670000,2320000,3502,Notar,328.86581233022207,Skarpnack
+2015-06-26,Tätorpsvägen 11,Skarpnack,GronSkarpnack,3,73,2,Lägenhet,1990,[Skarpnäck],2295000,275000,2570000,4366,Notar,415.8633217546161,Skarpnack
+2015-06-18,Fallvindsgatan 8,Skarpnack,GronSkarpnack,3,71,null,Lägenhet,1983,[Skarpnäck],2150000,690000,2840000,4091,HusmanHagberg,127.36673506117643,Skarpnack
+2015-06-18,Pilotgatan 5C,Skarpnack,GronSkarpnack,2,67,1,Lägenhet,1988,[Skarpnäck],1575000,250000,1825000,4555,HusmanHagberg,169.85921668968902,Skarpnack
+2015-06-17,Glidflyktsgatan 6,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1985,[Skarpnäck],1895000,245000,2140000,5071,HusmanHagberg,279.1644433633298,Skarpnack
+2015-06-12,Fallskärmsgatan 3,Skarpnack,GronSkarpnack,4,99.4,null,Lägenhet,1983,[Skarpnäck],2495000,880000,3375000,5601,Notar,140.4491076332541,Skarpnack
+2015-06-12,Vinggatan 16,Skarpnack,GronSkarpnack,3,77,5,Lägenhet,1986,[Skarpnäck],2250000,1020000,3270000,4688,Mäklarhuset,627.0526528987364,Skarpnack
+2015-06-11,Skarpnäcks Allé 62,Skarpnack,GronSkarpnack,3,78,1,Lägenhet,1984,[Skarpnäck],1950000,150000,2100000,4683,HusmanHagberg,33.885789400657984,Skarpnack
+2015-06-11,Glidflyktsgatan 3,Skarpnack,GronSkarpnack,6,142,3,Lägenhet,1985,[Skarpnäck],2950000,250000,3200000,8222,HusmanHagberg,239.6509291948279,Skarpnack
+2015-06-10,Luftskeppsgatan 5,Skarpnack,GronSkarpnack,3,85,2,Lägenhet,1986,[Skarpnäck],1875000,0,1875000,5340,HusmanHagberg,219.546109295429,Skarpnack
+2015-06-10,Ballonggatan 5,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1985,[Skarpnäck],1695000,285000,1980000,4319,Notar,98.60824184024878,Skarpnack
+2015-06-05,Helikoptergatan 52,Skarpnack,GronSkarpnack,5,116.5,null,Lägenhet,2008,[Skarpnäck],4495000,585000,5080000,5495,Länsförsäkringar Fastighetsförmedling,739.9330205554076,Skarpnack
+2015-06-03,Vinggatan 16,Skarpnack,GronSkarpnack,3,77,3,Lägenhet,1986,[Skarpnäck],2150000,0,2150000,4680,HusmanHagberg,627.0526528987364,Skarpnack
+2015-06-03,Horisontvägen 104,Skarpnack,GronSkarpnack,5,126,null,Villa,null,[Skarpnäck],4195000,155000,4350000,null,Svenska Mäklarhuset,292.34167399505174,Skarpnack
+2015-06-02,Skarpnäcks Allé 3,Skarpnack,GronSkarpnack,2,63.5,3,Lägenhet,null,[Skarpnäck],1795000,330000,2125000,4014,BOSTHLM,603.5091650335801,Skarpnack
+2015-05-29,Fallskärmsgatan 1,Skarpnack,GronSkarpnack,1,45.7,null,Lägenhet,1985,[Skarpnäck],1450000,550000,2000000,2808,HusmanHagberg,152.6942875068918,Skarpnack
+2015-05-28,Horisontvägen 121,Skarpnack,GronSkarpnack,4,96,null,Radhus,2008,[Skarpnäck],3795000,85000,3880000,3607,Svensk Fastighetsförmedling,388.6044535163264,Skarpnack
+2015-05-27,Fallskärmsgatan 12,Skarpnack,GronSkarpnack,2,62.6,0,Lägenhet,1985,[Skarpnäck],1750000,410000,2160000,3650,HusmanHagberg,169.743022143781,Skarpnack
+2015-05-26,Vinggatan 14,Skarpnack,GronSkarpnack,2,63.5,3,Lägenhet,1986,[Skarpnäck],1950000,0,1950000,null,BOSTHLM,630.1526304113021,Skarpnack
+2015-05-16,Pilvingegatan 56,Skarpnack,GronSkarpnack,2,56,3,Lägenhet,1986,[Skarpnäck],1750000,590000,2340000,3214,HusmanHagberg,467.5247748956874,Skarpnack
+2015-05-14,Drakflygargatan 7,Skarpnack,GronSkarpnack,3,77,1,Lägenhet,1984,[Skarpnäck],1995000,755000,2750000,4624,Svensk Fastighetsförmedling,555.8331403150951,Skarpnack
+2015-05-07,Drakflygargatan 5,Skarpnack,GronSkarpnack,5,106,2,Lägenhet,1984,[Skarpnäck],2475000,775000,3250000,6056,Notar,577.6124173578419,Skarpnack
+2015-05-01,Pilottorget 6,Skarpnack,GronSkarpnack,4,111,null,Lägenhet,null,[Skarpnäck],2595000,430000,3025000,7335,Notar,158.63618537935918,Skarpnack
+2015-04-30,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,2,Lägenhet,2009,[Skarpnäck],1395000,365000,1760000,2492,Notar,598.6409204001073,Skarpnack
+2015-04-25,Gondolgatan 1,Skarpnack,GronSkarpnack,4,89,4,Lägenhet,1983,[Skarpnäck],2695000,435000,3130000,5479,Svensk Fastighetsförmedling,231.93874331401946,Skarpnack
+2015-04-23,Segelflygsgatan 25,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1985,[Skarpnäck],1695000,265000,1960000,4066,HusmanHagberg,160.99464709100127,Skarpnack
+2015-04-23,Skarpnäcks Allé 43,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1983,[Skarpnäck],1850000,165000,2015000,3651,HusmanHagberg,59.72670365311398,Skarpnack
+2015-04-21,Ballonggatan 10,Skarpnack,GronSkarpnack,5,101,null,Villa,null,[Skarpnäck],1950000,520000,2470000,null,Länsförsäkringar Fastighetsförmedling,83.03272188937278,Skarpnack
+2015-04-19,Luftskeppsgatan 2,Skarpnack,GronSkarpnack,3,79,2,Lägenhet,1989,[Skarpnäck],2150000,250000,2400000,5576,Svensk Fastighetsförmedling,163.8540687011315,Skarpnack
+2015-04-17,Nynäsvägen 375A,Skarpnack,GronSkarpnack,2,54,2,Lägenhet,1945,[Enskede],1995000,180000,2175000,null,Svensk Fastighetsförmedling,155.60441070842327,Skogskyrkogarden
+2015-04-16,Vinggatan 16,Skarpnack,GronSkarpnack,2,63.5,3,Lägenhet,1984,[Skarpnäck],1595000,265000,1860000,4014,Notar,627.0526528987364,Skarpnack
+2015-04-16,Pilvingegatan 58,Skarpnack,GronSkarpnack,2,45,3,Lägenhet,1986,[Skarpnäck],1550000,600000,2150000,2581,HusmanHagberg,446.77065452289804,Skarpnack
+2015-04-14,Tätorpsvägen 3B,Skarpnack,GronSkarpnack,4,117,2,Lägenhet,1989,[Skarpnäck],1695000,515000,2210000,8240,HusmanHagberg,477.5283961639656,Skarpnack
+2015-04-02,Segelflygsgatan 12,Skarpnack,GronSkarpnack,4,90,1,Lägenhet,1983,[Skarpnäck],2395000,665000,3060000,5251,Södermäklarna,136.568866159288,Skarpnack
+2015-04-01,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,3,Lägenhet,2009,[Skarpnäck],1295000,635000,1930000,2492,Hemmäklarna,598.6409204001073,Skarpnack
+2015-03-27,Horisontvägen 97,Skarpnack,GronSkarpnack,3,65,2,Lägenhet,1989,[Skarpnäck],2450000,-130000,2320000,4819,HusmanHagberg,263.9396384113802,Skarpnack
+2015-03-27,Luftskeppsgatan 6,Skarpnack,GronSkarpnack,5,99,null,Lägenhet,1985,[Skarpnäck],2295000,865000,3160000,6643,HusmanHagberg,185.99783292972,Skarpnack
+2015-03-27,Helikoptergatan 11,Skarpnack,GronSkarpnack,5,116.5,null,Radhus,2008,[Skarpnäck],3975000,1005000,4980000,5495,Mäklarringen,761.3667859639554,Skarpnack
+2015-03-27,Horisontvägen 14E,Skarpnack,GronSkarpnack,1,31,3,Lägenhet,2009,[Skarpnäck],1295000,555000,1850000,2492,Notar,631.0338611182491,Skarpnack
+2015-03-23,Pilotgatan 9,Skarpnack,GronSkarpnack,4,99,2,Lägenhet,1983,[Skarpnäck],2395000,-95000,2300000,5532,Länsförsäkringar Fastighetsförmedling,95.05511816569019,Skarpnack
+2015-03-17,Pilvingegatan 48,Skarpnack,GronSkarpnack,2,56,1,Lägenhet,1986,[Skarpnäck],1695000,665000,2360000,3214,HusmanHagberg,447.4672177611212,Skarpnack
+2015-03-13,Pilottorget 1,Skarpnack,GronSkarpnack,3,108,null,Lägenhet,1983,[Skarpnäck],2295000,255000,2550000,5874,HusmanHagberg,155.68105943214076,Skarpnack
+2015-03-12,Pilotgatan 24,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1983,[Skarpnäck],1995000,435000,2430000,4140,HusmanHagberg,151.73097763104263,Skarpnack
+2015-03-11,Varmfrontsgatan 22,Skarpnack,GronSkarpnack,2,65,1,Lägenhet,1984,[Skarpnäck],1595000,275000,1870000,4143,Svensk Fastighetsförmedling,142.0004198147106,Skarpnack
+2015-03-04,Pilotgatan 50,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1983,[Skarpnäck],1495000,615000,2110000,3611,HusmanHagberg,294.3619417928002,Skarpnack
+2015-03-03,Pilottorget 1,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,null,[Skarpnäck],1995000,405000,2400000,4259,HusmanHagberg,155.68105943214076,Skarpnack
+2015-02-24,Horisontvägen 59,Skarpnack,GronSkarpnack,3,78.5,1,Lägenhet,1985,[Skarpnäck],1995000,805000,2800000,4510,HusmanHagberg,205.88389050020194,Skarpnack
+2015-02-16,Fallskärmsgatan 20,Skarpnack,GronSkarpnack,2,65,1,Lägenhet,1985,[Skarpnäck],1495000,135000,1630000,4464,Notar,142.55682967489307,Skarpnack
+2015-02-12,Horisontvägen 14C,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,2009,[Skarpnäck],1275000,475000,1750000,2676,Hemmäklarna,617.2836780715403,Skarpnack
+2015-02-10,Segelflygsgatan 6,Skarpnack,GronSkarpnack,2,61.9,2,Lägenhet,1985,[Skarpnäck],1350000,310000,1660000,3736,Notar,158.51919986419165,Skarpnack
+2015-02-10,Fallvindsgatan 7,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1983,[Skarpnäck],1995000,775000,2770000,3972,Notar,74.1655101545042,Skarpnack
+2015-02-06,Segelflygsgatan 39,Skarpnack,GronSkarpnack,2,57,null,Lägenhet,1985,[Skarpnäck],1695000,0,1695000,4095,Fastighetsbyrån,277.11823155246447,Skarpnack
+2015-01-31,Fallskärmsgatan 20,Skarpnack,GronSkarpnack,2,65,3,Lägenhet,1985,[Skarpnäck],1595000,105000,1700000,4550,Notar,142.55682967489307,Skarpnack
+2015-01-30,Luftfartsgatan 18,Skarpnack,GronSkarpnack,4,120,null,Radhus,2008,[Skarpnäck],3495000,25000,3520000,6800,Svenska Mäklarhuset,438.52913705891245,Skarpnack
+2015-01-30,Ballonggatan 6,Skarpnack,GronSkarpnack,2,57,1,Lägenhet,1985,[Skarpnäck],1695000,0,1695000,4223,HusmanHagberg,64.24582613473389,Skarpnack
+2015-01-28,Fallvindsgatan 2,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1983,[Skarpnäck],1850000,550000,2400000,4434,Svensk Fastighetsförmedling,137.77723085376888,Skarpnack
+2015-01-27,Helikoptergatan 12,Skarpnack,GronSkarpnack,5,116.5,null,Radhus,2008,[Skarpnäck],4095000,205000,4300000,5495,Mäklarringen,769.4648341852964,Skarpnack
+2015-01-23,Fallskärmsgatan 1,Skarpnack,GronSkarpnack,2,65,3,Lägenhet,1983,[Skarpnäck],1600000,120000,1720000,3875,Svensk Fastighetsförmedling,152.6942875068918,Skarpnack
+2015-01-23,Segelflygsgatan 22,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1985,[Skarpnäck],1700000,200000,1900000,4319,HusmanHagberg,177.40719121568526,Skarpnack
+2015-01-23,Luftskeppsgatan 4,Skarpnack,GronSkarpnack,2,62,2,Lägenhet,1988,[Skarpnäck],1495000,-95000,1400000,4538,HusmanHagberg,170.88313045524444,Skarpnack
+2015-01-17,Pilvingegatan 46,Skarpnack,GronSkarpnack,5,89,3,Lägenhet,1986,[Skarpnäck],2495000,275000,2770000,5106,HusmanHagberg,463.28502644270543,Skarpnack
+2015-01-16,Pilvingegatan 56,Skarpnack,GronSkarpnack,2,56,2,Lägenhet,1986,[Skarpnäck],1695000,205000,1900000,3214,HusmanHagberg,467.5247748956874,Skarpnack
+2015-01-15,Flygfältsgatan 35,Skarpnack,GronSkarpnack,5,126,null,Radhus,2012,[Skarpnäck],3895000,265000,4160000,4133,Svenska Mäklarhuset,308.28712529466844,Skarpnack
+2015-01-14,Horisontvägen 63,Skarpnack,GronSkarpnack,3,79,1,Lägenhet,1985,[Skarpnäck],1795000,245000,2040000,5333,Mäklarringen,174.1673366638664,Skarpnack
+2015-01-14,Ballonggatan 6,Skarpnack,GronSkarpnack,3,75.5,1,Lägenhet,1985,[Skarpnäck],1750000,70000,1820000,5052,HusmanHagberg,64.24582613473389,Skarpnack
+2015-01-14,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,3,Lägenhet,2009,[Skarpnäck],1295000,255000,1550000,2492,Notar,598.6409204001073,Skarpnack
+2014-12-20,Skarpnäcks Allé 7,Skarpnack,GronSkarpnack,3,77,3,Lägenhet,1986,[Enskede/Årsta/Skarpnäck],2420000,0,2420000,4680,BOSTHLM,549.8508916052336,Skarpnack
+2014-12-12,Pilotgatan 21,Skarpnack,GronSkarpnack,2.5,61.5,2,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],1750000,605000,2355000,3780,Svensk Fastighetsförmedling,290.967456469816,Skarpnack
+2014-12-09,Pilotgatan 5E,Skarpnack,GronSkarpnack,1.5,46,null,Lägenhet,1988,[Skarpnäck],1400000,200000,1600000,3310,HusmanHagberg,196.33293422490172,Skarpnack
+2014-12-08,Pilottorget 8,Skarpnack,GronSkarpnack,2,61,1,Lägenhet,1986,[Skarpnäck],1695000,405000,2100000,3914,Notar,158.41110971951787,Skarpnack
+2014-12-08,Pilottorget 8,Skarpnack,GronSkarpnack,2,61,null,Lägenhet,1986,[Skarpnäck],1595000,280000,1875000,4047,HusmanHagberg,158.41110971951787,Skarpnack
+2014-12-04,Gondolgatan 5B,Skarpnack,GronSkarpnack,1,55,null,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],1600000,350000,1950000,3045,Svensk Fastighetsförmedling,229.73534456730977,Skarpnack
+2014-12-04,Pilotgatan 17,Skarpnack,GronSkarpnack,1,48,null,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],1500000,255000,1755000,2706,Svensk Fastighetsförmedling,245.4377230169558,Skarpnack
+2014-12-04,Gondolgatan 5A,Skarpnack,GronSkarpnack,2,67,null,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],1700000,640000,2340000,3750,Svensk Fastighetsförmedling,229.73534456730977,Skarpnack
+2014-12-04,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,1,Lägenhet,2009,[Skarpnäck],1295000,355000,1650000,2492,Notar,598.6409204001073,Skarpnack
+2014-11-30,Skarpnäcks Allé 27,Skarpnack,GronSkarpnack,4,101.5,4,Lägenhet,1985,[Skarpnäck],2300000,700000,3000000,6802,HusmanHagberg,218.47387181742116,Skarpnack
+2014-11-27,Drakflygargatan 8,Skarpnack,GronSkarpnack,4,94,1,Lägenhet,1986,[Skarpnäck],2395000,635000,3030000,5523,HusmanHagberg,579.6694293640701,Skarpnack
+2014-11-26,Horisontvägen 87B,Skarpnack,GronSkarpnack,2,64,8,Lägenhet,1985,[Skarpnäck],1595000,180000,1775000,4731,Notar,254.23392289964337,Skarpnack
+2014-11-26,Helikoptergatan 24,Skarpnack,GronSkarpnack,5,116.5,null,Lägenhet,2008,[Skarpnäck],4050000,100000,4150000,5495,Mäklarringen,751.1353717545354,Skarpnack
+2014-11-26,Skarpnäcks Allé 60,Skarpnack,GronSkarpnack,3,80.3,3,Lägenhet,1985,[Skarpnäck],1795000,260000,2055000,4872,Mäklarhuset,107.63768439972289,Skarpnack
+2014-11-16,Uppvindsgatan 2,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1985,[Skarpnäck],1895000,135000,2030000,4319,HusmanHagberg,176.38918967227542,Skarpnack
+2014-11-13,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,2,Lägenhet,2009,[Skarpnäck],1295000,220000,1515000,2492,HusmanHagberg,598.6409204001073,Skarpnack
+2014-11-13,Vinggatan 22,Skarpnack,GronSkarpnack,3,77,null,Lägenhet,1986,[Skarpnäck],1850000,400000,2250000,4623,HusmanHagberg,646.8175227987919,Skarpnack
+2014-11-09,Horisontvägen 75,Skarpnack,GronSkarpnack,4,99,2,Lägenhet,null,[Skarpnäck],2295000,185000,2480000,6708,HusmanHagberg,250.27672743679108,Skarpnack
+2014-11-08,Pilottorget 6,Skarpnack,GronSkarpnack,4,102,6,Lägenhet,1986,[Skarpnäck],3095000,0,3095000,6994,Notar,158.63618537935918,Skarpnack
+2014-11-06,Segelflygsgatan 35,Skarpnack,GronSkarpnack,2,61.5,3,Lägenhet,1983,[Skarpnäck],1595000,415000,2010000,4319,Länsförsäkringar Fastighetsförmedling,231.79400203755668,Skarpnack
+2014-11-05,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,2,Lägenhet,2009,[Skarpnäck],1195000,465000,1660000,2492,Notar,598.6409204001073,Skarpnack
+2014-10-31,Pilvingegatan 38,Skarpnack,GronSkarpnack,2,56,1,Lägenhet,1986,[Skarpnäck],1695000,265000,1960000,3214,HusmanHagberg,431.4126250595863,Skarpnack
+2014-10-24,Pilvingegatan 38,Skarpnack,GronSkarpnack,4,88,2,Lägenhet,1986,[Skarpnäck],1950000,760000,2710000,5049,HusmanHagberg,431.4126250595863,Skarpnack
+2014-10-23,Pilottorget 3,Skarpnack,GronSkarpnack,5,123.5,null,Lägenhet,1983,[Skarpnäck],2495000,165000,2660000,6483,Fastighetsbyrån,191.75124566878097,Skarpnack
+2014-10-16,Pilvingegatan 42,Skarpnack,GronSkarpnack,2,56,4,Lägenhet,1986,[Skarpnäck],1500000,615000,2115000,3214,HusmanHagberg,410.9529490492514,Skarpnack
+2014-10-10,Fallskärmsgatan 2,Skarpnack,GronSkarpnack,4,95.3,1,Lägenhet,1985,[Skarpnäck],1900000,700000,2600000,5374,HusmanHagberg,179.499262939556,Skarpnack
+2014-10-09,Luftskeppsgatan 10,Skarpnack,GronSkarpnack,3,80,2,Lägenhet,1989,[Skarpnäck],1395000,605000,2000000,5828,Wallenberg Fastighetsförmedling,217.14259534132106,Skarpnack
+2014-10-08,Skarpnäcks Allé 29,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1985,[Skarpnäck],1400000,350000,1750000,4204,HusmanHagberg,178.10925835362931,Skarpnack
+2014-10-07,Fallvindsgatan 5,Skarpnack,GronSkarpnack,3,75.5,2,Lägenhet,1980,[Enskede/Årsta/Skarpnäck],1495000,845000,2340000,4401,HusmanHagberg,82.95606281302467,Skarpnack
+2014-10-03,Luftskeppsgatan 5,Skarpnack,GronSkarpnack,2,48,null,Lägenhet,1986,[Skarpnäck],1400000,350000,1750000,3221,HusmanHagberg,219.546109295429,Skarpnack
+2014-10-02,Horisontvägen 18,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,2009,[Skarpnäck],1195000,205000,1400000,2676,Berggren & Co Fastighetsmäkleri,527.1863869200804,Skarpnack
+2014-10-01,Pilvingegatan 40,Skarpnack,GronSkarpnack,4,90,2,Lägenhet,null,[Skarpnäck],2195000,505000,2700000,5164,Svenska Mäklarhuset,412.2003938171318,Skarpnack
+2014-09-30,Segelflygsgatan 43,Skarpnack,GronSkarpnack,3,75.5,1,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1950000,150000,2100000,5177,Svensk Fastighetsförmedling,239.90981209915253,Skarpnack
+2014-09-26,Skarpnäcks Allé 41,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1983,[Skarpnäck],1780000,545000,2325000,4378,HusmanHagberg,24.25309094519418,Skarpnack
+2014-09-25,Pilotgatan 7,Skarpnack,GronSkarpnack,2,65,1,Lägenhet,1984,[Skarpnäck],1695000,-5000,1690000,3820,Länsförsäkringar Fastighetsförmedling,124.27636748071032,Skarpnack
+2014-09-19,Pilotgatan 20,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1983,[Skarpnäck],1650000,600000,2250000,4493,HusmanHagberg,138.98347067873283,Skarpnack
+2014-09-19,Vinggatan 28,Skarpnack,GronSkarpnack,2,59,2,Lägenhet,1984,[Skarpnäck],1395000,465000,1860000,3464,Notar,619.5134203210686,Skarpnack
+2014-09-19,Segelflygsgatan 23,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1985,[Skarpnäck],1495000,55000,1550000,4319,HusmanHagberg,153.6909857092055,Skarpnack
+2014-09-13,Glidflyktsgatan 3,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1495000,305000,1800000,4066,BOSTHLM,239.6509291948279,Skarpnack
+2014-09-12,Gondolgatan 9,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1983,[Skarpnäck],1700000,350000,2050000,4308,HusmanHagberg,265.562825352824,Skarpnack
+2014-09-12,Varmfrontsgatan 18,Skarpnack,GronSkarpnack,2,65,1,Lägenhet,1984,[Skarpnäck],1495000,115000,1610000,3939,HusmanHagberg,98.10455308461094,Skarpnack
+2014-09-11,Fallskärmsgatan 6,Skarpnack,GronSkarpnack,4,93.4,2,Lägenhet,1985,[Skarpnäck],1900000,750000,2650000,5345,HusmanHagberg,161.8185319272262,Skarpnack
+2014-09-09,Segelflygsgatan 27,Skarpnack,GronSkarpnack,4,101.5,3,Lägenhet,1985,[Skarpnäck],2250000,-75000,2175000,6595,HusmanHagberg,168.83677831547485,Skarpnack
+2014-09-04,Tätorpsvägen 13,Skarpnack,GronSkarpnack,3,73,2,Lägenhet,1990,[Skarpnäck],1750000,510000,2260000,4746,HusmanHagberg,389.69376843766736,Skarpnack
+2014-09-02,Fallvindsgatan 6,Skarpnack,GronSkarpnack,3,71,1,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1595000,305000,1900000,4667,SkandiaMäklarna,113.49258274279767,Skarpnack
+2014-08-30,Pilotgatan 6,Skarpnack,GronSkarpnack,2,65,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1495000,-45000,1450000,4729,SkandiaMäklarna,208.6918791811872,Skarpnack
+2014-08-28,Fallskärmsgatan 8,Skarpnack,GronSkarpnack,3,80.3,null,Lägenhet,1985,[Skarpnäck],1700000,300000,2000000,4316,HusmanHagberg,163.34659283965303,Skarpnack
+2014-08-27,Vinggatan 16,Skarpnack,GronSkarpnack,2,63,4,Lägenhet,1986,[Skarpnäck],1350000,0,1350000,4019,HusmanHagberg,627.0526528987364,Skarpnack
+2014-08-22,Pilvingegatan 58,Skarpnack,GronSkarpnack,4,98,null,Lägenhet,null,[Enskede/Årsta/Skarpnäck],2295000,-45000,2250000,5146,Svensk Fastighetsförmedling,446.77065452289804,Skarpnack
+2014-08-21,Tätorpsvägen 13,Skarpnack,GronSkarpnack,3,73,4,Lägenhet,1990,[Skarpnäck],1800000,660000,2460000,4746,HusmanHagberg,389.69376843766736,Skarpnack
+2014-08-18,Skarpnäcks Allé 62,Skarpnack,GronSkarpnack,3,78,3,Lägenhet,1984,[Skarpnäck],1695000,305000,2000000,4776,Notar,33.885789400657984,Skarpnack
+2014-08-15,Uppvindsgatan 2,Skarpnack,GronSkarpnack,4,101.5,4,Lägenhet,1985,[Skarpnäck],2395000,430000,2825000,6664,HusmanHagberg,176.38918967227542,Skarpnack
+2014-08-15,Skarpnäcks Allé 9,Skarpnack,GronSkarpnack,2,63.5,3,Lägenhet,1986,[Enskede/Årsta/Skarpnäck],1900000,-30000,1870000,4014,BOSTHLM,561.2535234860105,Skarpnack
+2014-08-15,Pilottorget 1,Skarpnack,GronSkarpnack,2,61.5,3,Lägenhet,1983,[Skarpnäck],1595000,0,1595000,3720,HusmanHagberg,155.68105943214076,Skarpnack
+2014-08-14,Pilotgatan 5E,Skarpnack,GronSkarpnack,2,63,1,Lägenhet,1988,[Skarpnäck],1750000,0,1750000,4358,HusmanHagberg,196.33293422490172,Skarpnack
+2014-08-14,Gondolgatan 8,Skarpnack,GronSkarpnack,4,101.5,null,Lägenhet,1983,[Skarpnäck],2300000,470000,2770000,5786,Fastighetsbyrån,561.7913481249377,Skarpnack
+2014-07-17,Pilvingegatan 56,Skarpnack,GronSkarpnack,4,90,2,Lägenhet,1986,[Skarpnäck],2250000,370000,2620000,4695,Diplomat Fastighetsmäkleri AB,467.5247748956874,Skarpnack
+2014-07-04,Pilotgatan 12,Skarpnack,GronSkarpnack,3,79,3,Lägenhet,1986,[Skarpnäck],1500000,60000,1560000,5629,HusmanHagberg,187.40198624016162,Skarpnack
+2014-07-03,Fallvindsgatan 5,Skarpnack,GronSkarpnack,2,57,null,Lägenhet,1983,[Skarpnäck],1495000,155000,1650000,3476,HusmanHagberg,82.95606281302467,Skarpnack
+2014-06-28,Pilotgatan 21,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1495000,55000,1550000,3895,Svensk Fastighetsförmedling,290.967456469816,Skarpnack
+2014-06-25,Luftfartsgatan 5,Skarpnack,GronSkarpnack,4,120,null,Lägenhet,2008,[Skarpnäck],2995000,55000,3050000,6800,Länsförsäkringar Fastighetsförmedling,475.47082443798286,Skarpnack
+2014-06-19,Vinggatan 32,Skarpnack,GronSkarpnack,2,59,2,Lägenhet,1986,[Skarpnäck],1490000,220000,1710000,3464,HusmanHagberg,591.3678199541333,Skarpnack
+2014-06-19,Skarpnäcks Allé 43,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1983,[Skarpnäck],1595000,277000,1872000,4384,HusmanHagberg,59.72670365311398,Skarpnack
+2014-06-18,Sportflygargatan 5,Skarpnack,GronSkarpnack,2,63.5,null,Lägenhet,1986,[Skarpnäck],1495000,165000,1660000,4006,Södermäklarna,566.5590254183578,Skarpnack
+2014-06-14,Fallvindsgatan 7,Skarpnack,GronSkarpnack,4,101.5,4,Lägenhet,null,[Enskede/Årsta/Skarpnäck],2500000,420000,2920000,5855,Svensk Fastighetsförmedling,74.1655101545042,Skarpnack
+2014-06-12,Vildapelvägen 22,Skarpnack,GronSkarpnack,5,131,null,Lägenhet,null,[Enskededalen],5275000,425000,5700000,2660,SkandiaMäklarna,1248.8041237226466,Skarpnack
+2014-06-07,Segelflygsgatan 10,Skarpnack,GronSkarpnack,2,46,0,Lägenhet,1984,[Skarpnäck],1475000,145000,1620000,2847,HusmanHagberg,150.99150092218395,Skarpnack
+2014-06-05,Pilotgatan 17,Skarpnack,GronSkarpnack,3,75.5,2,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],1595000,405000,2000000,4401,BOSTHLM,245.4377230169558,Skarpnack
+2014-06-02,Fallskärmsgatan 4,Skarpnack,GronSkarpnack,3,76.3,null,Lägenhet,null,[Skarpnäck],1495000,185000,1680000,4636,Notar,179.52074007868436,Skarpnack
+2014-05-30,Pilotgatan 24,Skarpnack,GronSkarpnack,5,117.5,null,Lägenhet,null,[Enskede/Årsta/Skarpnäck],2300000,700000,3000000,6026,Svensk Fastighetsförmedling,151.73097763104263,Skarpnack
+2014-05-30,Horisontvägen 92,Skarpnack,GronSkarpnack,5,126,null,Villa,2012,[Skarpnäck],3495000,0,3495000,null,Svenska Mäklarhuset,301.75567177785643,Skarpnack
+2014-05-29,Skarpnäcks Allé 60,Skarpnack,GronSkarpnack,3,79.5,null,Lägenhet,1983,[Skarpnäck],1495000,335000,1830000,4582,Notar,107.63768439972289,Skarpnack
+2014-05-23,Pilotgatan 15,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1795000,255000,2050000,4424,Svensk Fastighetsförmedling,194.35604773880488,Skarpnack
+2014-05-15,Fallskärmsgatan 13,Skarpnack,GronSkarpnack,3,85,2,Lägenhet,null,[Skarpnäck],1650000,150000,1800000,5032,Fastighetsbyrån,434.4818433255439,Skarpnack
+2014-05-13,Fallskärmsgatan 10,Skarpnack,GronSkarpnack,3,80.3,3,Lägenhet,1985,[Skarpnäck],1495000,430000,1925000,4879,Notar,159.57803432860896,Skarpnack
+2014-05-09,Pilotgatan 19,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1983,[Skarpnäck],1295000,325000,1620000,3720,Notar,257.8139834797604,Skarpnack
+2014-05-09,Horisontvägen 77,Skarpnack,GronSkarpnack,4,99,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1995000,105000,2100000,6774,SkandiaMäklarna,198.44684937443574,Skarpnack
+2014-05-08,Pilvingegatan 58,Skarpnack,GronSkarpnack,4,102,1,Lägenhet,1986,[Skarpnäck],2195000,755000,2950000,5320,Svenska Mäklarhuset,446.77065452289804,Skarpnack
+2014-05-08,Fallskärmsgatan 2,Skarpnack,GronSkarpnack,2,64.7,2,Lägenhet,1985,[Skarpnäck],1450000,490000,1940000,3813,Notar,179.499262939556,Skarpnack
+2014-05-08,Pilvingegatan 38B,Skarpnack,GronSkarpnack,3,66.5,null,Lägenhet,1986,[Skarpnäck],1795000,-45000,1750000,3492,Erik Olsson Fastighetsförmedling,426.3782137670934,Skarpnack
+2014-05-06,Tätorpsvägen 180,Skarpnack,GronSkarpnack,4,94,null,Radhus,1985,[Skarpnäck],3025000,995000,4020000,null,Mäklarhuset Lindroos & Hamstedt,447.83225516385266,Skarpnack
+2014-05-02,Fallvindsgatan 2,Skarpnack,GronSkarpnack,3,71,1,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1675000,125000,1800000,4206,Svensk Fastighetsförmedling,137.77723085376888,Skarpnack
+2014-04-29,Horisontvägen 97,Skarpnack,GronSkarpnack,2,65,3,Lägenhet,1989,[Skarpnäck],1450000,50000,1500000,4841,HusmanHagberg,263.9396384113802,Skarpnack
+2014-04-24,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,1,Lägenhet,2009,[Skarpnäck],1195000,215000,1410000,2676,Notar,598.6409204001073,Skarpnack
+2014-04-17,Segelflygsgatan 29,Skarpnack,GronSkarpnack,4,71,3,Lägenhet,1985,[Skarpnäck],1750000,255000,2005000,5071,HusmanHagberg,174.71651118817292,Skarpnack
+2014-04-16,Segelflygsgatan 10,Skarpnack,GronSkarpnack,2,64.7,2,Lägenhet,1985,[Skarpnäck],1525000,325000,1850000,3800,HusmanHagberg,150.99150092218395,Skarpnack
+2014-04-16,Tätorpsvägen 3B,Skarpnack,GronSkarpnack,4,107,3,Lägenhet,1989,[Skarpnäck],1595000,0,1595000,7908,HusmanHagberg,477.5283961639656,Skarpnack
+2014-04-16,Flygfältsgatan 58,Skarpnack,GronSkarpnack,4,96,null,Radhus,2009,[Skarpnäck],3100000,0,3100000,3536,Fastighetsbyrån,411.9451985344206,Skarpnack
+2014-04-15,Fallvindsgatan 4,Skarpnack,GronSkarpnack,4,101.5,null,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],2095000,805000,2900000,5680,SkandiaMäklarna,118.89401954547235,Skarpnack
+2014-04-10,Horisontvägen 59,Skarpnack,GronSkarpnack,3,77.2,null,Lägenhet,1985,[Skarpnäck],1395000,355000,1750000,4411,Notar,205.88389050020194,Skarpnack
+2014-04-09,Fallvindsgatan 7,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,null,[Skarpnäck],1395000,235000,1630000,3786,Mäklarringen,74.1655101545042,Skarpnack
+2014-04-08,Segelflygsgatan 22,Skarpnack,GronSkarpnack,2,61.5,3,Lägenhet,null,[Skarpnäck],1350000,220000,1570000,4158,Fastighetsbyrån,177.40719121568526,Skarpnack
+2014-04-04,Fallskärmsgatan 20,Skarpnack,GronSkarpnack,4,90,2,Lägenhet,null,[Skarpnäck],1850000,90000,1940000,6154,Fastighetsbyrån,142.55682967489307,Skarpnack
+2014-04-04,Horisontvägen 63,Skarpnack,GronSkarpnack,4,95,1,Lägenhet,null,[Skarpnäck],1995000,0,1995000,6344,Mäklarringen,174.1673366638664,Skarpnack
+2014-04-04,Horisontvägen 87,Skarpnack,GronSkarpnack,3,74,null,Lägenhet,null,[Skarpnäck],1450000,240000,1690000,5420,Mäklarringen,221.84916283945682,Skarpnack
+2014-04-04,Pilvingegatan 49,Skarpnack,GronSkarpnack,2,65.5,2,Lägenhet,2005,[Skarpnäck],1575000,190000,1765000,5138,HusmanHagberg,525.9338134884205,Skarpnack
+2014-04-04,Ballonggatan 7,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1985,[Skarpnäck],1295000,145000,1440000,4319,Erik Olsson Fastighetsförmedling,90.17069002442955,Skarpnack
+2014-04-02,Segelflygsgatan 25,Skarpnack,GronSkarpnack,4,101.5,4,Lägenhet,null,[Skarpnäck],1995000,695000,2690000,6595,Svensk Fastighetsförmedling,160.99464709100127,Skarpnack
+2014-04-02,Segelflygsgatan 35,Skarpnack,GronSkarpnack,4,99,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1995000,165000,2160000,6375,SkandiaMäklarna,231.79400203755668,Skarpnack
+2014-04-02,Vildapelvägen 2,Skarpnack,GronSkarpnack,5,131,null,Villa,2010,[Enskededalen],5300000,0,5300000,null,Mäklarringen,1267.7461785832206,Skogskyrkogarden
+2014-03-26,Pilvingegatan 55,Skarpnack,GronSkarpnack,2.5,65.5,null,Lägenhet,2005,[Skarpnäck],1445000,205000,1650000,5120,ERA,502.51075163457324,Skarpnack
+2014-03-14,Ballonggatan 1,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,1985,[Skarpnäck],1495000,180000,1675000,5013,Erik Olsson Fastighetsförmedling,140.20279674942805,Skarpnack
+2014-03-13,Varmfrontsgatan 18,Skarpnack,GronSkarpnack,2,65,3,Lägenhet,1984,[Skarpnäck],1500000,310000,1810000,4017,HusmanHagberg,98.10455308461094,Skarpnack
+2014-03-13,Gondolgatan 2,Skarpnack,GronSkarpnack,4,110,null,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],1995000,275000,2270000,5831,SkandiaMäklarna,179.24102026756262,Skarpnack
+2014-03-13,Segelflygsgatan 12,Skarpnack,GronSkarpnack,4,90,null,Lägenhet,1983,[Skarpnäck],1895000,50000,1945000,5251,Södermäklarna,136.568866159288,Skarpnack
+2014-03-01,Helikoptergatan 10,Skarpnack,GronSkarpnack,5,116.5,null,Villa,2008,[Skarpnäck],3595000,355000,3950000,null,Mäklarringen,773.431870251977,Skarpnack
+2014-02-26,Pilotgatan 25,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1983,[Skarpnäck],1195000,445000,1640000,3621,Notar,313.5938062912528,Skarpnack
+2014-02-21,Segelflygsgatan 10,Skarpnack,GronSkarpnack,3,80.3,2,Lägenhet,1985,[Skarpnäck],1400000,200000,1600000,4663,HusmanHagberg,150.99150092218395,Skarpnack
+2014-02-19,Luftskeppsgatan 4,Skarpnack,GronSkarpnack,2,66,2,Lägenhet,1988,[Skarpnäck],1275000,325000,1600000,4756,HusmanHagberg,170.88313045524444,Skarpnack
+2014-02-19,Skarpnäcks Allé 37,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1985,[Skarpnäck],1350000,240000,1590000,5196,Mäklarringen,31.464200371418006,Skarpnack
+2014-02-18,Fallvindsgatan 4,Skarpnack,GronSkarpnack,2,61.5,null,Lägenhet,1984,[Enskede/Årsta/Skarpnäck],1395000,105000,1500000,3947,SkandiaMäklarna,118.89401954547235,Skarpnack
+2014-02-18,Flygfältsgatan 39,Skarpnack,GronSkarpnack,5,126,null,Radhus,2012,[Skarpnäck],3495000,235000,3730000,4134,Svenska Mäklarhuset,311.91309513754726,Skarpnack
+2014-02-15,Drakflygargatan 2,Skarpnack,GronSkarpnack,2,59.5,null,Lägenhet,1984,[Skarpnäck],1350000,280000,1630000,3500,Notar,602.6694111859802,Skarpnack
+2014-02-13,Pilvingegatan 48,Skarpnack,GronSkarpnack,4,88,4,Lägenhet,1986,[Skarpnäck],1795000,405000,2200000,4448,Svensk Fastighetsförmedling,447.4672177611212,Skarpnack
+2014-02-13,Drakflygargatan 3,Skarpnack,GronSkarpnack,4,94.5,null,Lägenhet,1986,[Enskede/Årsta/Skarpnäck],1995000,545000,2540000,5543,Fastighetsbyrån,610.6849632478039,Skarpnack
+2014-02-07,Luftfartsgatan 7,Skarpnack,GronSkarpnack,4,120,3,Radhus,2008,[Skarpnäck],2975000,35000,3010000,6800,HusmanHagberg,468.58001008026173,Skarpnack
+2014-02-06,Horisontvägen 97,Skarpnack,GronSkarpnack,3,78,4,Lägenhet,null,[Skarpnäck],1450000,100000,1550000,5775,Mäklarringen,263.9396384113802,Skarpnack
+2014-01-28,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,1,Lägenhet,2009,[Skarpnäck],1195000,175000,1370000,2492,Notar,598.6409204001073,Skarpnack
+2014-01-24,Uppvindsgatan 4,Skarpnack,GronSkarpnack,2,59.5,2,Lägenhet,1985,[Skarpnäck],1350000,270000,1620000,4246,Notar,170.07006723985896,Skarpnack
+2014-01-22,Ballonggatan 5,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1985,[Skarpnäck],1295000,305000,1600000,4388,Mäklarringen,98.60824184024878,Skarpnack
+2014-01-21,Flygfältsgatan 21,Skarpnack,GronSkarpnack,5,126,null,Lägenhet,2012,[Skarpnäck],3590000,10000,3600000,3913,Mäklarhuset,280.24227854168583,Skarpnack
+2014-01-17,Skarpnäcks Allé 39,Skarpnack,GronSkarpnack,3,71,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1495000,405000,1900000,4266,Fastighetsbyrån,39.155901858581686,Skarpnack
+2014-01-16,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,1,Lägenhet,2009,[Skarpnäck],1150000,90000,1240000,2676,HusmanHagberg,598.6409204001073,Skarpnack
+2014-01-14,Segelflygsgatan 31,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1985,[Skarpnäck],1350000,120000,1470000,5265,Mäklarringen,191.33761804766988,Skarpnack
+2013-12-06,Varmfrontsgatan 8,Skarpnack,GronSkarpnack,2,65,null,Lägenhet,1986,[Enskede/Årsta/Skarpnäck],1195000,175000,1370000,3955,Fastighetsbyrån,132.99029371865868,Skarpnack
+2013-12-04,Varmfrontsgatan 6,Skarpnack,GronSkarpnack,3,83,null,Lägenhet,1984,[Skarpnäck],1095000,505000,1600000,4858,Länsförsäkringar Fastighetsförmedling,122.33599811429285,Skarpnack
+2013-12-04,Skarpnäcks Allé 6,Skarpnack,GronSkarpnack,2,59.5,2,Lägenhet,1987,[Skarpnäck],1290000,425000,1715000,3490,HusmanHagberg,592.3494249142269,Skarpnack
+2013-11-28,Vinggatan 22,Skarpnack,GronSkarpnack,3,77,3,Lägenhet,1987,[Skarpnäck],1395000,435000,1830000,4680,Erik Olsson Fastighetsförmedling,646.8175227987919,Skarpnack
+2013-11-28,Horisontvägen 91,Skarpnack,GronSkarpnack,3,80,3,Lägenhet,null,[Skarpnäck],1295000,105000,1400000,5731,Mäklarringen,330.04860089229345,Skarpnack
+2013-11-20,Pilvingegatan 75,Skarpnack,GronSkarpnack,2,65.5,null,Lägenhet,2005,[Skarpnäck],1495000,115000,1610000,5138,Erik Olsson Fastighetsförmedling,486.7213280668017,Skarpnack
+2013-11-20,Segelflygsgatan 38,Skarpnack,GronSkarpnack,6,139,null,Radhus,2013,[Enskede/Årsta/Skarpnäck],3175000,325000,3500000,4992,Fastighetsbyrån,256.1278388304973,Skarpnack
+2013-11-19,Pilotgatan 2,Skarpnack,GronSkarpnack,1.5,49,1,Lägenhet,1985,[Skarpnäck],1350000,-50000,1300000,3529,Svensk Fastighetsförmedling,226.24037811785504,Skarpnack
+2013-11-16,Pilotgatan 26,Skarpnack,GronSkarpnack,2,57,1,Lägenhet,null,[Skarpnäck],1510000,30000,1540000,3812,Svensk Fastighetsförmedling,186.47453303719183,Skarpnack
+2013-11-15,Horisontvägen 85,Skarpnack,GronSkarpnack,4,88,null,Lägenhet,null,[Skarpnäck],1600000,45000,1645000,5941,Svensk Fastighetsförmedling,206.24041487355476,Skarpnack
+2013-11-14,Flygfältsgatan 44,Skarpnack,GronSkarpnack,4,96,null,Radhus,2010,[Skarpnäck],2975000,0,2975000,3400,HusmanHagberg,415.1051181470333,Skarpnack
+2013-11-12,Skarpnäcks Allé 66,Skarpnack,GronSkarpnack,3,72,null,Lägenhet,1984,[Skarpnäck],1395000,405000,1800000,4035,Mäklarringen,49.94089337462182,Skarpnack
+2013-11-03,Pilottorget 6,Skarpnack,GronSkarpnack,2,64,6,Lägenhet,1986,[Skarpnäck],1145000,155000,1300000,4355,Notar,158.63618537935918,Skarpnack
+2013-11-01,Horisontvägen 91,Skarpnack,GronSkarpnack,3,79,2,Lägenhet,null,[Skarpnäck],1295000,105000,1400000,5613,Mäklarringen,330.04860089229345,Skarpnack
+2013-10-31,Pilvingegatan 59,Skarpnack,GronSkarpnack,2,44.5,null,Lägenhet,2007,[Enskede/Årsta/Skarpnäck],1350000,0,1350000,3874,Fastighetsbyrån,482.75264766380667,Skarpnack
+2013-10-31,Pilotgatan 13,Skarpnack,GronSkarpnack,3,71,null,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],1395000,225000,1620000,4602,SkandiaMäklarna,165.32030984823763,Skarpnack
+2013-10-30,Gondolgatan 9,Skarpnack,GronSkarpnack,3,71,1,Lägenhet,1983,[Skarpnäck],1395000,205000,1600000,4315,Svensk Fastighetsförmedling,265.562825352824,Skarpnack
+2013-10-26,Drakflygargatan 3,Skarpnack,GronSkarpnack,2,59.5,3,Lägenhet,1986,[Skarpnäck],1295000,230000,1525000,3505,Bomäster,610.6849632478039,Skarpnack
+2013-10-24,Pilotgatan 15,Skarpnack,GronSkarpnack,3,71,null,Lägenhet,1989,[Enskede/Årsta/Skarpnäck],1395000,0,1395000,4374,Fastighetsbyrån,194.35604773880488,Skarpnack
+2013-10-24,Pilotgatan 44,Skarpnack,GronSkarpnack,3,77.5,2,Lägenhet,1983,[Skarpnäck],1950000,0,1950000,4514,Erik Olsson Fastighetsförmedling,328.86581233022207,Skarpnack
+2013-10-24,Skarpnäcks Allé 66,Skarpnack,GronSkarpnack,4,92,3,Lägenhet,1984,[Skarpnäck],1895000,5000,1900000,5134,Mäklarringen,49.94089337462182,Skarpnack
+2013-10-23,Glidflyktsgatan 2,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1985,[Skarpnäck],1175000,235000,1410000,4398,Svensk Fastighetsförmedling,221.29736468578213,Skarpnack
+2013-10-18,Vinggatan 12,Skarpnack,GronSkarpnack,3,77,null,Lägenhet,1987,[Skarpnäck],1400000,310000,1710000,4674,HusmanHagberg,628.711989682116,Skarpnack
+2013-10-18,Pilvingegatan 97,Skarpnack,GronSkarpnack,2,44.5,null,Lägenhet,2005,[Enskede/Årsta/Skarpnäck],1350000,0,1350000,3893,Fastighetsbyrån,535.380804402687,Skarpnack
+2013-10-17,Vinggatan 12,Skarpnack,GronSkarpnack,2,63.5,null,Lägenhet,1987,[Skarpnäck],1300000,300000,1600000,4010,HusmanHagberg,628.711989682116,Skarpnack
+2013-10-12,Segelflygsgatan 39,Skarpnack,GronSkarpnack,2,59.5,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1100000,170000,1270000,4370,Fastighetsbyrån,277.11823155246447,Skarpnack
+2013-10-12,Segelflygsgatan 22,Skarpnack,GronSkarpnack,4,99,null,Lägenhet,1985,[Skarpnäck],1950000,150000,2100000,6959,Svenska Mäklarhuset,177.40719121568526,Skarpnack
+2013-10-11,Segelflygsgatan 23,Skarpnack,GronSkarpnack,2,61.5,null,Lägenhet,1984,[Enskede/Årsta/Skarpnäck],1350000,110000,1460000,4318,Fastighetsbyrån,153.6909857092055,Skarpnack
+2013-10-10,Pilotgatan 7,Skarpnack,GronSkarpnack,3,78,2,Lägenhet,1984,[Skarpnäck],1350000,50000,1400000,4369,Mäklarringen,124.27636748071032,Skarpnack
+2013-10-10,Horisontvägen 18A,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,2009,[Enskede/Årsta/Skarpnäck],1100000,25000,1125000,2604,Fastighetsbyrån,503.24246222999324,Skarpnack
+2013-10-05,Fallskärmsgatan 13,Skarpnack,GronSkarpnack,3,78.5,null,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1250000,165000,1415000,4703,Fastighetsbyrån,434.4818433255439,Skarpnack
+2013-10-04,Varmfrontsgatan 18,Skarpnack,GronSkarpnack,2,65,null,Lägenhet,1984,[Enskede/Årsta/Skarpnäck],1250000,155000,1405000,3992,Fastighetsbyrån,98.10455308461094,Skarpnack
+2013-09-30,Uppvindsgatan 2,Skarpnack,GronSkarpnack,7,142,4,Lägenhet,1985,[Skarpnäck],1995000,75000,2070000,8302,Svensk Fastighetsförmedling,176.38918967227542,Skarpnack
+2013-09-27,Pilotgatan 17,Skarpnack,GronSkarpnack,2,59.5,2,Lägenhet,null,[Skarpnäck],1190000,235000,1425000,3832,Bomäster,245.4377230169558,Skarpnack
+2013-09-27,Vinggatan 22,Skarpnack,GronSkarpnack,2,63.5,1,Lägenhet,null,[Skarpnäck],1225000,225000,1450000,4006,Bomäster,646.8175227987919,Skarpnack
+2013-09-27,Skarpnäcks Gårdsväg 17,Skarpnack,GronSkarpnack,5,106,null,Radhus,1985,[Skarpnäck],3200000,220000,3420000,null,Länsförsäkringar Fastighetsförmedling,598.9494776485501,Skarpnack
+2013-09-26,Segelflygsgatan 22,Skarpnack,GronSkarpnack,3,71,2,Lägenhet,null,[Skarpnäck],1450000,200000,1650000,4875,Berggren Fastighetsbyrå,177.40719121568526,Skarpnack
+2013-09-25,Segelflygsgatan 43,Skarpnack,GronSkarpnack,3,75.5,1,Lägenhet,1985,[Skarpnäck],1295000,10000,1305000,5052,Svensk Fastighetsförmedling,239.90981209915253,Skarpnack
+2013-09-25,Fallskärmsgatan 10,Skarpnack,GronSkarpnack,3,78.5,2,Lägenhet,1985,[Skarpnäck],1495000,255000,1750000,4755,Svensk Fastighetsförmedling,159.57803432860896,Skarpnack
+2013-09-19,Pilottorget 5,Skarpnack,GronSkarpnack,3,null,null,Lägenhet,null,[Enskede/Årsta/Skarpnäck],null,NaN,1630000,null,Hemverket,197.07124153084763,Skarpnack
+2013-09-18,Pilvingegatan 48,Skarpnack,GronSkarpnack,3,75,4,Lägenhet,1986,[Skarpnäck],1295000,465000,1760000,3780,Mäklarringen,447.4672177611212,Skarpnack
+2013-09-18,Pilottorget 5,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1983,[Skarpnäck],1250000,200000,1450000,3780,Notar,197.07124153084763,Skarpnack
+2013-09-17,Fallskärmsgatan 10,Skarpnack,GronSkarpnack,2,64.7,1,Lägenhet,1985,[Skarpnäck],850000,410000,1260000,3559,Notar,159.57803432860896,Skarpnack
+2013-09-16,Segelflygsgatan 39,Skarpnack,GronSkarpnack,3,75.5,2,Lägenhet,1985,[Skarpnäck],1250000,100000,1350000,5110,Svensk Fastighetsförmedling,277.11823155246447,Skarpnack
+2013-09-06,Luftfartsgatan 8,Skarpnack,GronSkarpnack,4,120,null,Radhus,2008,[Enskede/Årsta/Skarpnäck],2495000,733000,3228000,6407,Fastighetsbyrån,475.69259329825525,Skarpnack
+2013-09-06,Segelflygsgatan 39,Skarpnack,GronSkarpnack,3,75.5,null,Lägenhet,1985,[Skarpnäck],1195000,275000,1470000,5110,HusmanHagberg,277.11823155246447,Skarpnack
+2013-08-30,Drakflygargatan 2,Skarpnack,GronSkarpnack,2,59,null,Lägenhet,1986,[Enskede/Årsta/Skarpnäck],1195000,315000,1510000,3464,Fastighetsbyrån,602.6694111859802,Skarpnack
+2013-08-23,Uppvindsgatan 8,Skarpnack,GronSkarpnack,4,110,null,Lägenhet,null,[Skarpnäck],1950000,510000,2460000,6769,Berggren Fastighetsbyrå,146.06571425289312,Skarpnack
+2013-08-23,Skarpnäcks Allé 62,Skarpnack,GronSkarpnack,5,121,5,Lägenhet,null,[Skarpnäck],2375000,475000,2850000,6610,Erik Olsson Fastighetsförmedling,33.885789400657984,Skarpnack
+2013-08-16,Pilotgatan 44,Skarpnack,GronSkarpnack,3,77.5,2,Lägenhet,1983,[Skarpnäck],1750000,0,1750000,4514,HusmanHagberg,328.86581233022207,Skarpnack
+2013-08-15,Vinggatan 14,Skarpnack,GronSkarpnack,5,110.5,null,Lägenhet,1986,[Skarpnäck],1935000,375000,2310000,6268,Svensk Fastighetsförmedling,630.1526304113021,Skarpnack
+2013-08-15,Skarpnäcks Allé 7,Skarpnack,GronSkarpnack,2,63.5,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1295000,270000,1565000,4019,Fastighetsbyrån,549.8508916052336,Skarpnack
+2013-08-15,Ballonggatan 1,Skarpnack,GronSkarpnack,4,99,3,Lägenhet,null,[Skarpnäck],1895000,0,1895000,6250,Erik Olsson Fastighetsförmedling,140.20279674942805,Skarpnack
+2013-08-01,Glidflyktsgatan 6,Skarpnack,GronSkarpnack,2,61.5,1,Lägenhet,1984,[Skarpnäck],1200000,226000,1426000,4318,Svensk Fastighetsförmedling,279.1644433633298,Skarpnack
+2013-07-25,Horisontvägen 81,Skarpnack,GronSkarpnack,2,63,2,Lägenhet,1988,[Skarpnäck],1050000,180000,1230000,4394,Notar,203.551155811079,Skarpnack
+2013-07-15,Skarpnäcks Allé 60,Skarpnack,GronSkarpnack,3,79.5,4,Lägenhet,1985,[Skarpnäck],1400000,-20000,1380000,4746,Svensk Fastighetsförmedling,107.63768439972289,Skarpnack
+2013-07-14,Zeppelinargatan 8,Skarpnack,GronSkarpnack,4,null,null,Lägenhet,null,[Skarpnäck],2975000,270000,3245000,3306,Södermäklarna,333.7201457533784,Skarpnack
+2013-07-12,Horisontvägen 14B,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,2009,[Enskede/Årsta/Skarpnäck],995000,155000,1150000,2604,Fastighetsbyrån,599.4307878665451,Skarpnack
+2013-06-28,Pilotgatan 36,Skarpnack,GronSkarpnack,3,75.5,3,Lägenhet,1983,[Skarpnäck],1395000,180000,1575000,4451,Svensk Fastighetsförmedling,241.76837416657787,Skarpnack
+2013-06-20,Fallskärmsgatan 9,Skarpnack,GronSkarpnack,3,80.3,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1375000,275000,1650000,4872,Fastighetsbyrån,100.08051826200966,Skarpnack
+2013-06-20,Ballonggatan 7,Skarpnack,GronSkarpnack,4,99,2,Lägenhet,null,[Skarpnäck],1650000,530000,2180000,6388,Erik Olsson Fastighetsförmedling,90.17069002442955,Skarpnack
+2013-06-14,Pilotgatan 23,Skarpnack,GronSkarpnack,2,61.5,3,Lägenhet,1983,[Skarpnäck],1250000,90000,1340000,3687,Svensk Fastighetsförmedling,313.1682621680262,Skarpnack
+2013-06-07,Ballonggatan 3,Skarpnack,GronSkarpnack,2,61.5,2,Lägenhet,1985,[Skarpnäck],1350000,0,1350000,4319,Notar,123.29372738444937,Skarpnack
+2013-06-06,Segelflygsgatan 10A,Skarpnack,GronSkarpnack,2,65,null,Lägenhet,null,[Skarpnäck],1350000,-55000,1295000,3777,BOSTHLM,137.81098022120315,Skarpnack
+2013-06-06,Horisontvägen 18C,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,2009,[Enskede/Årsta/Skarpnäck],1200000,100000,1300000,2420,Fastighetsbyrån,503.69985010725605,Skarpnack
+2013-06-03,Pilottorget 6,Skarpnack,GronSkarpnack,4,99,2,Lägenhet,1986,[Skarpnäck],1875000,125000,2000000,5953,Mäklarringen,158.63618537935918,Skarpnack
+2013-05-30,Helikoptergatan 15,Skarpnack,GronSkarpnack,5,116.5,null,Lägenhet,2008,[Skarpnäck],3495000,30000,3525000,5495,Mäklarhuset,758.8970911853718,Skarpnack
+2013-05-28,Horisontvägen 53,Skarpnack,GronSkarpnack,2,63,3,Lägenhet,null,[Skarpnäck],1250000,120000,1370000,3755,Notar,220.5537904736858,Skarpnack
+2013-05-26,Horisontvägen 91,Skarpnack,GronSkarpnack,3,77,null,Lägenhet,1985,[Skarpnäck],1350000,0,1350000,5485,Svensk Fastighetsförmedling,330.04860089229345,Skarpnack
+2013-05-24,Skarpnäcks Allé 62,Skarpnack,GronSkarpnack,3,80,2,Lägenhet,1984,[Skarpnäck],1395000,410000,1805000,4603,Mäklarhuset,33.885789400657984,Skarpnack
+2013-05-24,Skarpnäcks Allé 60,Skarpnack,GronSkarpnack,3,79.5,null,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1600000,50000,1650000,4492,Ansvar Fastighetsförmedling,107.63768439972289,Skarpnack
+2013-05-22,Ballonggatan 7,Skarpnack,GronSkarpnack,3,71,null,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1395000,-200000,1195000,5207,Fastighetsbyrån,90.17069002442955,Skarpnack
+2013-05-21,Luftskeppsgatan 4,Skarpnack,GronSkarpnack,2,66,2,Lägenhet,null,[Skarpnäck],1100000,150000,1250000,4631,Erik Olsson Fastighetsförmedling,170.88313045524444,Skarpnack
+2013-05-18,Vinthundsvägen 153,Skarpnack,GronSkarpnack,5,139,null,Villa,1970,[Sköndal],2995000,-45000,2950000,null,Mäklarhuset,1489.011642962155,Gubbangen
+2013-05-16,Tätorpsvägen 3A,Skarpnack,GronSkarpnack,5,108,2,Lägenhet,1989,[Skarpnäck],1095000,415000,1510000,7818,Notar,510.6332869488718,Skarpnack
+2013-05-15,Vinthundsvägen 61,Skarpnack,GronSkarpnack,5,139,null,Radhus,1969,[Enskede/Årsta/Skarpnäck],3795000,305000,4100000,null,Fastighetsbyrån,926.3622968142148,Skarpnack
+2013-04-25,Skarpnäcks Allé 27,Skarpnack,GronSkarpnack,2,61.5,null,Lägenhet,1985,[Skarpnäck],1100000,0,1100000,4668,HusmanHagberg,218.47387181742116,Skarpnack
+2013-04-25,Varmfrontsgatan 8,Skarpnack,GronSkarpnack,2,66,3,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],995000,305000,1300000,3886,Länsförsäkringar Fastighetsförmedling,132.99029371865868,Skarpnack
+2013-04-19,Drakflygargatan 7,Skarpnack,GronSkarpnack,5,104.5,1,Lägenhet,null,[Skarpnäck],1900000,220000,2120000,5963,Svensk Fastighetsförmedling,555.8331403150951,Skarpnack
+2013-04-19,Horisontvägen 81,Skarpnack,GronSkarpnack,2,66,null,Lägenhet,1984,[Enskede/Årsta/Skarpnäck],1150000,105000,1255000,4558,Fastighetsbyrån,203.551155811079,Skarpnack
+2013-04-19,Horisontvägen 87B,Skarpnack,GronSkarpnack,2,64,2,Lägenhet,1986,[Skarpnäck],1150000,0,1150000,4695,Svenska Mäklarhuset,254.23392289964337,Skarpnack
+2013-04-17,Gondolgatan 6,Skarpnack,GronSkarpnack,2,59.5,2,Lägenhet,null,[Skarpnäck],995000,265000,1260000,3657,Erik Olsson Fastighetsförmedling,208.26035381272615,Skarpnack
+2013-04-12,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,2009,[Enskede/Årsta/Skarpnäck],1145000,105000,1250000,2604,Fastighetsbyrån,598.6409204001073,Skarpnack
+2013-04-12,Segelflygsgatan 43,Skarpnack,GronSkarpnack,3,75.5,1,Lägenhet,1985,[Skarpnäck],1350000,140000,1490000,5052,Svensk Fastighetsförmedling,239.90981209915253,Skarpnack
+2013-04-02,Horisontvägen 91,Skarpnack,GronSkarpnack,3,80,null,Lägenhet,1985,[Skarpnäck],1295000,290000,1585000,5786,Svensk Fastighetsförmedling,330.04860089229345,Skarpnack
+2013-04-02,Pilotgatan 23,Skarpnack,GronSkarpnack,3,71,null,Lägenhet,1983,[Skarpnäck],1295000,230000,1525000,4374,Svensk Fastighetsförmedling,313.1682621680262,Skarpnack
+2013-03-28,Pilvingegatan 48,Skarpnack,GronSkarpnack,4,90,null,Lägenhet,1986,[Skarpnäck],1690000,390000,2080000,4549,HusmanHagberg,447.4672177611212,Skarpnack
+2013-03-19,Ballonggatan 10,Skarpnack,GronSkarpnack,2,59.5,2,Lägenhet,1985,[Skarpnäck],1095000,265000,1360000,4245,Notar,83.03272188937278,Skarpnack
+2013-03-16,Pilottorget 6,Skarpnack,GronSkarpnack,4,99,null,Lägenhet,1986,[Enskede/Årsta/Skarpnäck],1850000,130000,1980000,6087,Fastighetsbyrån,158.63618537935918,Skarpnack
+2013-03-02,Vinggatan 14,Skarpnack,GronSkarpnack,2,63.5,null,Lägenhet,null,[Skarpnäck],1275000,275000,1550000,3979,Bostadsagenten,630.1526304113021,Skarpnack
+2013-02-23,Horisontvägen 16,Skarpnack,GronSkarpnack,1,31,2,Lägenhet,2009,[Skarpnäck],1200000,0,1200000,2604,Mäklarhuset,598.6409204001073,Skarpnack
+2013-02-22,Fallskärmsgatan 4,Skarpnack,GronSkarpnack,3,74.4,2,Lägenhet,1985,[Skarpnäck],1275000,375000,1650000,4376,Notar,179.52074007868436,Skarpnack
+2013-02-16,Pilotgatan 16,Skarpnack,GronSkarpnack,2,54,null,Lägenhet,1988,[Enskede/Årsta/Skarpnäck],1150000,290000,1440000,3404,Fastighetsbyrån,122.92560395110742,Skarpnack
+2013-02-14,Fallskärmsgatan 6,Skarpnack,GronSkarpnack,4,93,3,Lägenhet,1985,[Skarpnäck],1650000,80000,1730000,5597,Svensk Fastighetsförmedling,161.8185319272262,Skarpnack
+2013-02-14,Ballonggatan 9,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1985,[Skarpnäck],1295000,180000,1475000,5537,Bjurfors,104.97984024192449,Skarpnack
+2013-02-13,Flygfältsgatan 27,Skarpnack,GronSkarpnack,5,126,null,Lägenhet,2012,[Skarpnäck],2995000,275000,3270000,3914,Notar,420.51504658826684,Skarpnack
+2013-02-13,Pilottorget 6,Skarpnack,GronSkarpnack,5,114,10,Lägenhet,null,[Enskede/Årsta/Skarpnäck],1825000,0,1825000,7582,Länsförsäkringar Fastighetsförmedling,158.63618537935918,Skarpnack
+2013-02-11,Vinggatan 34,Skarpnack,GronSkarpnack,6,126.5,null,Lägenhet,1986,[Enskede/Årsta/Skarpnäck],1995000,80000,2075000,6910,Fastighetsbyrån,562.7252552446823,Skarpnack
+2013-01-21,Helikoptergatan 26,Skarpnack,GronSkarpnack,5,116.5,null,Villa,null,[Skarpnäck],3375000,125000,3500000,null,Mäklarringen,734.9385391639912,Skarpnack
+2013-01-19,Segelflygsgatan 43,Skarpnack,GronSkarpnack,3,75.5,2,Lägenhet,1985,[Skarpnäck],1250000,-20000,1230000,5110,Mäklarhuset,239.90981209915253,Skarpnack
+2013-01-18,Horisontvägen 18D,Skarpnack,GronSkarpnack,1,31,null,Lägenhet,null,[Skarpnäck],995000,170000,1165000,2420,Svensk Fastighetsförmedling,602.042118143716,Skarpnack
+2013-01-18,Segelflygsgatan 25,Skarpnack,GronSkarpnack,4,101.5,null,Lägenhet,1985,[Skarpnäck],1780000,-10000,1770000,6664,Svenska Mäklarhuset,160.99464709100127,Skarpnack
+2013-01-17,Pilottorget 1,Skarpnack,GronSkarpnack,3.5,108,null,Lägenhet,1983,[Enskede/Årsta/Skarpnäck],1895000,130000,2025000,5874,Fastighetsbyrån,155.68105943214076,Skarpnack
+2013-01-16,Pilotgatan 30,Skarpnack,GronSkarpnack,3,75.5,2,Lägenhet,1983,[Skarpnäck],1175000,245000,1420000,4401,Notar,210.06348040545885,Skarpnack
+2012-12-21,Fallvindsgatan 1,Skarpnack,GronSkarpnack,3,75.5,2,Lägenhet,1983,[Skarpnäck],1395000,170000,1565000,4576,Svensk Fastighetsförmedling,110.89586531088219,Skarpnack
+2012-11-16,Flygelgatan 4,Skarpnack,GronSkarpnack,2,41.4,null,Lägenhet,2012,[Telefonplan],1995000,0,1995000,2608,Notar,206.8349435302983,Skarpnack
+2012-11-07,Segelflygsgatan 43,Skarpnack,GronSkarpnack,3,75.5,2,Lägenhet,1985,[Skarpnäck],1295000,-95000,1200000,5110,Mäklarhuset,239.90981209915253,Skarpnack
+2012-11-03,Segelflygsgatan 10,Skarpnack,GronSkarpnack,3,78.5,2,Lägenhet,1985,[Skarpnäck],1500000,150000,1650000,4748,Notar,150.99150092218395,Skarpnack
+2012-11-01,Ballonggatan 7,Skarpnack,GronSkarpnack,3,71,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1250000,130000,1380000,5071,Fastighetsbyrån,90.17069002442955,Skarpnack
+2012-10-31,Pilvingegatan 38,Skarpnack,GronSkarpnack,2,56,1,Lägenhet,1986,[Skarpnäck],1200000,425000,1625000,2831,Svensk Fastighetsförmedling,431.4126250595863,Skarpnack
+2012-10-19,Pilvingegatan 91,Skarpnack,GronSkarpnack,2,65.5,1,Lägenhet,2005,[Skarpnäck],1195000,-125000,1070000,5120,Mäklarhuset,517.1281754260726,Skarpnack
+2012-10-19,Segelflygsgatan 10A,Skarpnack,GronSkarpnack,2,65,null,Lägenhet,1985,[Skarpnäck],1100000,0,1100000,3777,Svensk Fastighetsförmedling,137.81098022120315,Skarpnack
+2012-10-13,Skarpnäcks Allé 27,Skarpnack,GronSkarpnack,3,71,null,Lägenhet,1985,[Skarpnäck],1395000,45000,1440000,4931,Svensk Fastighetsförmedling,218.47387181742116,Skarpnack
+2012-10-12,Gondolgatan 2,Skarpnack,GronSkarpnack,3,75.5,null,Lägenhet,1984,[Skarpnäck],1425000,135000,1560000,4576,SkandiaMäklarna,179.24102026756262,Skarpnack
+2012-10-02,Segelflygsgatan 31C,Skarpnack,GronSkarpnack,4,111.5,null,Lägenhet,1985,[Skarpnäck],1600000,60000,1660000,6651,SkandiaMäklarna,218.40750144683236,Skarpnack
+2012-09-21,Fallskärmsgatan 9,Skarpnack,GronSkarpnack,3,78.5,2,Lägenhet,null,[Skarpnäck],1295000,165000,1460000,4748,Mäklarhuset,100.08051826200966,Skarpnack
+2012-09-20,Uppvindsgatan 8,Skarpnack,GronSkarpnack,2,59.5,null,Lägenhet,1985,[Enskede/Årsta/Skarpnäck],1050000,110000,1160000,4245,Fastighetsbyrån,146.06571425289312,Skarpnack
+2012-09-20,Horisontvägen 59,Skarpnack,GronSkarpnack,1,45.7,null,Lägenhet,1985,[Skarpnäck],1050000,6000,1056000,2990,Svensk Fastighetsförmedling,205.88389050020194,Skarpnack
+2012-09-18,Drakflygargatan 2,Skarpnack,GronSkarpnack,5,106,2,Lägenhet,null,[Skarpnäck],1795000,0,1795000,5836,SkandiaMäklarna,602.6694111859802,Skarpnack
+2012-09-03,Glidflyktsgatan 2,Skarpnack,GronSkarpnack,3,71,3,Lägenhet,1985,[Skarpnäck],1480000,5000,1485000,5127,SkandiaMäklarna,221.29736468578213,Skarpnack

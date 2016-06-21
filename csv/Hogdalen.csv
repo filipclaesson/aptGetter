@@ -1,0 +1,499 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-16,Harpsundsvägen 97,Hogdalen,GronHagsatra,1.5,46,3,Lägenhet,1955,[Bandhagen],1895000,325000,2220000,2346,Svensk Fastighetsförmedling,218.3979151311642,Hagdalen
+2016-06-16,Harpsundsvägen 63,Hogdalen,GronHagsatra,2,57,3,Lägenhet,1954,[Högdalen],2095000,155000,2250000,2850,Mäklarhuset,120.58442858977548,Hagdalen
+2016-06-16,Skebokvarnsvägen 253,Hogdalen,GronHagsatra,3,74.5,3,Lägenhet,1956,[Bandhagen],2295000,335000,2630000,3859,Notar,430.17656617286013,Hagdalen
+2016-06-15,Skebokvarnsvägen 288,Hogdalen,GronHagsatra,1,37.5,1,Lägenhet,1956,[Högdalen],1595000,435000,2030000,2065,Mäklarringen,563.3608096114638,Hagdalen
+2016-06-14,Harpsundsvägen 49,Hogdalen,GronHagsatra,4,84,2,Lägenhet,1955,[Högdalen],2895000,0,2895000,4199,Bjurfors,172.6310092272846,Hagdalen
+2016-06-14,Skebokvarnsvägen 265,Hogdalen,GronHagsatra,2,60.5,7,Lägenhet,1955,[Högdalen],1995000,505000,2500000,3391,Fastighetsbyrån,476.006066808234,Hagdalen
+2016-06-10,Trollesundsvägen 139,Hogdalen,GronHagsatra,1,31,2,Lägenhet,1954,[Högdalen],1795000,-195000,1600000,1627,Södermäklarna,445.8971318794741,Hagdalen
+2016-06-09,Skebokvarnsvägen 261,Hogdalen,GronHagsatra,3,75,2,Lägenhet,1956,[Högdalen],1995000,430000,2425000,4009,Länsförsäkringar Fastighetsförmedling,436.03273350534755,Hagdalen
+2016-06-02,Nåttarövägen 119,Hogdalen,GronHagsatra,4,88,null,Villa,1959,[Högdalen],4500000,600000,5100000,null,Mäklarhuset,574.3700646011347,Hagdalen
+2016-06-02,Skebokvarnsvägen 286,Hogdalen,GronHagsatra,2,58,3,Lägenhet,1955,[Högdalen],2095000,430000,2525000,3197,HusmanHagberg,554.9919753370011,Hagdalen
+2016-06-01,Skebokvarnsvägen 292,Hogdalen,GronHagsatra,3,69,2,Lägenhet,null,[Högdalen],2195000,105000,2300000,3754,Svensk Fastighetsförmedling,542.4112756843452,Hagdalen
+2016-05-29,Skebokvarnsvägen 253,Hogdalen,GronHagsatra,3,74.5,1,Lägenhet,null,[Högdalen],2295000,105000,2400000,3699,Svenska Mäklarhuset,430.17656617286013,Hagdalen
+2016-05-26,Skebokvarnsvägen 273,Hogdalen,GronHagsatra,1,27,1,Lägenhet,1956,[Högdalen],1495000,135000,1630000,1406,Mäklarringen,412.81638540056275,Hagdalen
+2016-05-26,Harpsundsvägen 75,Hogdalen,GronHagsatra,2,63.5,1,Lägenhet,1959,[Högdalen],2200000,75000,2275000,3001,Living Fastighetsmäkleri,164.33877135387652,Hagdalen
+2016-05-25,Skebokvarnsvägen 265,Hogdalen,GronHagsatra,4,85,5,Lägenhet,null,[Högdalen],2595000,705000,3300000,4629,Svenska Mäklarhuset,476.006066808234,Hagdalen
+2016-05-25,Trollesundsvägen 155,Hogdalen,GronHagsatra,1,40.5,-1,Lägenhet,1955,[Högdalen],1595000,325000,1920000,1971,Notar,454.74682183203123,Hagdalen
+2016-05-25,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,3,80,null,Lägenhet,2008,[Högdalen],2195000,205000,2400000,5455,Notar,270.35771006779817,Hagdalen
+2016-05-23,Harpsundsvägen 84B,Hogdalen,GronHagsatra,4,82,null,Lägenhet,2013,[Högdalen],2795000,405000,3200000,4372,Notar,283.45327514694026,Hagdalen
+2016-05-23,Gamla Magelungsvägen 73,Hogdalen,GronHagsatra,4,75,null,Villa,1931,[Örby],4975000,770000,5745000,null,Fastighetsbyrån,797.6555298278067,Hagsatra
+2016-05-20,Skebokvarnsvägen 121,Hogdalen,GronHagsatra,1,27,null,Lägenhet,1954,[Högdalen],1475000,375000,1850000,1629,Notar,534.9893593947323,Hagdalen
+2016-05-20,Trollesundsvägen 173,Hogdalen,GronHagsatra,3,78.5,1,Lägenhet,1955,[Bandhagen],2495000,135000,2630000,3752,Svensk Fastighetsförmedling,534.4924398658587,Hagdalen
+2016-05-19,Skebokvarnsvägen 304,Hogdalen,GronHagsatra,1,26,3,Lägenhet,1956,[Högdalen],1475000,215000,1690000,1557,Hemmäklarna,545.4365189909843,Hagdalen
+2016-05-19,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,3,58.5,2,Lägenhet,1956,[Bandhagen],2095000,330000,2425000,3303,Svensk Fastighetsförmedling,511.5497017195484,Hagdalen
+2016-05-18,Trollesundsvägen 161,Hogdalen,GronHagsatra,2,60,3,Lägenhet,null,[Högdalen],1995000,755000,2750000,2888,Svenska Mäklarhuset,474.86581795724567,Hagdalen
+2016-05-13,Harpsundsvägen 105,Hogdalen,GronHagsatra,3,81,2,Lägenhet,1955,[Högdalens Centrum],2595000,355000,2950000,3981,HusmanHagberg,227.34383419578302,Hagdalen
+2016-05-13,Skebokvarnsvägen 277,Hogdalen,GronHagsatra,3,75,3,Lägenhet,1956,[Högdalen],1995000,475000,2470000,3922,Mäklarringen,403.96742311719777,Hagdalen
+2016-05-11,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,3,66,12,Lägenhet,2008,[Högdalen],1995000,715000,2710000,4654,Mäklarhuset,270.35771006779817,Hagdalen
+2016-05-11,Harpsundsvägen 117,Hogdalen,GronHagsatra,4,80,2,Lägenhet,null,[Högdalen],2595000,505000,3100000,3909,Svenska Mäklarhuset,299.8150522353257,Hagdalen
+2016-05-06,Trollesundsvägen 151,Hogdalen,GronHagsatra,2,60,null,Lägenhet,1955,[Högdalen],1995000,405000,2400000,2888,Notar,490.6346785204245,Hagdalen
+2016-05-04,Trollesundsvägen 106,Hogdalen,GronHagsatra,3.5,80,3,Lägenhet,null,[Enskede-Årsta-Vantör],2495000,495000,2990000,4045,SkandiaMäklarna,402.36427248234264,Hagdalen
+2016-05-04,Edestavägen 24,Hogdalen,GronHagsatra,2,62,4,Lägenhet,null,[Högdalen],2395000,215000,2610000,3776,Svenska Mäklarhuset,339.8027775683366,Hagdalen
+2016-04-29,Skebokvarnsvägen 245,Hogdalen,GronHagsatra,5,108,11,Lägenhet,null,[Bandhagen],3495000,30000,3525000,5725,Svensk Fastighetsförmedling,469.163319528393,Hagdalen
+2016-04-27,Harpsundsvägen 84A,Hogdalen,GronHagsatra,2,41,null,Lägenhet,2013,[Högdalen],1895000,475000,2370000,2571,Notar,262.4577546993003,Hagdalen
+2016-04-27,Önskehemsgatan 10,Hogdalen,GronHagsatra,3,58,1,Lägenhet,1956,[Bandhagen],2195000,355000,2550000,3066,Notar,398.280247926213,Hagdalen
+2016-04-26,Trollesundsvägen 153,Hogdalen,GronHagsatra,4,81,null,Lägenhet,1955,[Högdalen],2495000,615000,3110000,4045,Notar,480.63891667575695,Hagdalen
+2016-04-23,Trollesundsvägen 143,Hogdalen,GronHagsatra,2,61,2,Lägenhet,1954,[Bandhagen],2050000,180000,2230000,2975,Svensk Fastighetsförmedling,475.1772171617425,Hagdalen
+2016-04-22,Harpsundsvägen 49,Hogdalen,GronHagsatra,4,83,3,Lägenhet,1954,[Högdalen],2995000,115000,3110000,4149,Länsförsäkringar Fastighetsförmedling,172.6310092272846,Hagdalen
+2016-04-21,Harpsundsvägen 107,Hogdalen,GronHagsatra,2,37.5,null,Lägenhet,1955,[Högdalen],1895000,245000,2140000,1971,Fastighetsbyrån,234.62871927002445,Hagdalen
+2016-04-20,Skebokvarnsvägen 267,Hogdalen,GronHagsatra,3,74,2,Lägenhet,1956,[Högdalen],2400000,430000,2830000,3859,Mäklarhuset,400.2971092060784,Hagdalen
+2016-04-19,Trollesundsvägen 153,Hogdalen,GronHagsatra,4,80.5,null,Lägenhet,null,[Högdalen],3160000,0,3160000,3593,Länsförsäkringar Fastighetsförmedling,480.63891667575695,Hagdalen
+2016-04-13,Skebokvarnsvägen 150,Hogdalen,GronHagsatra,4,86,null,Radhus,1958,[Bandhagen],3695000,805000,4500000,null,Svensk Fastighetsförmedling,610.7095356880343,Hagdalen
+2016-04-12,Trollesundsvägen 139,Hogdalen,GronHagsatra,1,31,2,Lägenhet,null,[Bandhagen],1595000,405000,2000000,1627,Södermäklarna,445.8971318794741,Hagdalen
+2016-04-12,Harpsundsvägen 61,Hogdalen,GronHagsatra,3,67,3,Lägenhet,1955,[Högdalen],2300000,50000,2350000,3349,Mäklarhuset,138.59881165200042,Hagdalen
+2016-04-10,Harpsundsvägen 125,Hogdalen,GronHagsatra,1,28.5,1,Lägenhet,1959,[Högdalen],1700000,275000,1975000,1654,Mäklarringen,325.81023748668775,Hagdalen
+2016-04-08,Skebokvarnsvägen 288,Hogdalen,GronHagsatra,2,58,3,Lägenhet,1956,[Högdalen],1995000,505000,2500000,3129,Notar,563.3608096114638,Hagdalen
+2016-04-08,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,3,69,1,Lägenhet,1956,[Högdalen],2095000,430000,2525000,3332,Notar,511.5497017195484,Hagdalen
+2016-04-07,Harpsundsvägen 149,Hogdalen,GronHagsatra,2,44,-1,Lägenhet,1955,[Högdalen],1995000,205000,2200000,2191,Mäklarringen,434.1269230430989,Hagdalen
+2016-03-29,Skebokvarnsvägen 271,Hogdalen,GronHagsatra,3,74.5,2,Lägenhet,1956,[Högdalen],2295000,225000,2520000,3790,Notar,409.4445542599726,Hagdalen
+2016-03-24,Harpsundsvägen 141,Hogdalen,GronHagsatra,2,61.5,2,Lägenhet,1955,[Högdalen],2075000,425000,2500000,3054,Hemmäklarna,386.39681308057186,Hagdalen
+2016-03-23,Önskehemsgatan 8,Hogdalen,GronHagsatra,2,60,8,Lägenhet,1956,[Högdalen],2095000,495000,2590000,3375,Mäklarringen,396.92403130863744,Hagdalen
+2016-03-21,Harpsundsvägen 86B,Hogdalen,GronHagsatra,4,82,2,Lägenhet,2013,[Högdalen],2795000,765000,3560000,4378,Notar,258.5246247662065,Hagdalen
+2016-03-18,Trollesundsvägen 106,Hogdalen,GronHagsatra,1,25.5,-1,Lägenhet,1955,[Högdalen],1495000,425000,1920000,1433,Notar,402.36427248234264,Hagdalen
+2016-03-17,Önskehemsgatan 8,Hogdalen,GronHagsatra,3,65,8,Lägenhet,1956,[Högdalen],2195000,405000,2600000,3640,BoLiving,396.92403130863744,Hagdalen
+2016-03-17,Skebokvarnsvägen 287,Hogdalen,GronHagsatra,2,57.5,3,Lägenhet,1955,[Högdalen],1995000,415000,2410000,3127,Mäklarringen,377.0199351958829,Hagdalen
+2016-03-17,Harpsundsvägen 125,Hogdalen,GronHagsatra,2,61.5,3,Lägenhet,1954,[Enskede-Årsta-Vantör],1990000,410000,2400000,3054,SkandiaMäklarna,325.81023748668775,Hagdalen
+2016-03-12,Harpsundsvägen 79,Hogdalen,GronHagsatra,2,58.5,2,Lägenhet,1955,[Högdalen],2250000,70000,2320000,2936,ERA,143.523598779779,Hagdalen
+2016-03-10,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,1,46,10,Lägenhet,null,[Högdalen],1695000,755000,2450000,3509,Svenska Mäklarhuset,270.35771006779817,Hagdalen
+2016-03-08,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,3,83,11,Lägenhet,2008,[Högdalen],2500000,170000,2670000,5627,Mäklarhuset,270.35771006779817,Hagdalen
+2016-03-07,Harpsundsvägen 147,Hogdalen,GronHagsatra,1,28.5,1,Lägenhet,1955,[Högdalen],1595000,415000,2010000,1607,Notar,423.01669235796084,Hagdalen
+2016-03-07,Trollesundsvägen 147,Hogdalen,GronHagsatra,1,36,2,Lägenhet,1955,[Högdalen],1750000,425000,2175000,1971,Notar,488.53831456193603,Hagdalen
+2016-03-07,Harpsundsvägen 103,Hogdalen,GronHagsatra,1,37,null,Lägenhet,1955,[Högdalen],1650000,360000,2010000,1945,Notar,213.6530932843199,Hagdalen
+2016-03-07,Skebokvarnsvägen 289,Hogdalen,GronHagsatra,2,57.5,3,Lägenhet,1956,[Högdalen],1995000,375000,2370000,3059,Notar,383.5789244380075,Hagdalen
+2016-03-04,Trollesundsvägen 100,Hogdalen,GronHagsatra,1,28,1,Lägenhet,1955,[Högdalen],1750000,460000,2210000,1555,Hemmäklarna,374.003623440192,Hagdalen
+2016-02-26,Önskehemsgatan 8,Hogdalen,GronHagsatra,3,65,3,Lägenhet,1956,[Enskede-Årsta-Vantör],1990000,570000,2560000,3544,SkandiaMäklarna,396.92403130863744,Hagdalen
+2016-02-26,Skebokvarnsvägen 282,Hogdalen,GronHagsatra,1,37.5,1,Lägenhet,1956,[Högdalen],1695000,455000,2150000,2189,Fastighetsbyrån,532.9836751801104,Hagdalen
+2016-02-26,Önskehemsgatan 10,Hogdalen,GronHagsatra,2,58.5,2,Lägenhet,1958,[Högdalen],2500000,50000,2550000,3249,Svensk Fastighetsförmedling,398.280247926213,Hagdalen
+2016-02-26,Harpsundsvägen 157,Hogdalen,GronHagsatra,2,66,2,Lägenhet,1955,[Högdalen],2195000,335000,2530000,3172,Mäklarringen,439.37326063531987,Hagdalen
+2016-02-25,Harpsundsvägen 161,Hogdalen,GronHagsatra,3,68.5,2,Lägenhet,1954,[Bandhagen],2150000,470000,2620000,3263,Svensk Fastighetsförmedling,417.8218623708988,Hagdalen
+2016-02-25,Harpsundsvägen 37,Hogdalen,GronHagsatra,2,58,1,Lägenhet,1954,[Högdalen],1795000,555000,2350000,2854,Bjurfors,155.462054315194,Hagdalen
+2016-02-19,Skebokvarnsvägen 285,Hogdalen,GronHagsatra,2,57,3,Lägenhet,1956,[Högdalen],1995000,585000,2580000,3032,Notar,381.6589489570832,Hagdalen
+2016-02-19,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,1,26,null,Lägenhet,1956,[Högdalen],1495000,490000,1985000,1557,Länsförsäkringar Fastighetsförmedling,511.5497017195484,Hagdalen
+2016-02-11,Edestavägen 24,Hogdalen,GronHagsatra,3,79,3,Lägenhet,2004,[Högdalen],2495000,1005000,3500000,4742,Mäklarringen,339.8027775683366,Hagdalen
+2016-02-10,Trollesundsvägen 157,Hogdalen,GronHagsatra,2,61,3,Lägenhet,null,[Högdalen],1995000,515000,2510000,3033,Svenska Mäklarhuset,458.77966848333523,Hagdalen
+2016-02-01,Harpsundsvägen 80A,Hogdalen,GronHagsatra,4,82,1,Lägenhet,2012,[Högdalen],2795000,685000,3480000,4506,Notar,141.36858673248545,Hagdalen
+2016-02-01,Harpsundsvägen 143,Hogdalen,GronHagsatra,1,28.5,2,Lägenhet,1955,[Högdalen],1595000,560000,2155000,1654,Notar,399.158410553953,Hagdalen
+2016-01-28,Önskehemsgatan 12,Hogdalen,GronHagsatra,2,58,1,Lägenhet,1956,[Högdalen],2500000,-100000,2400000,3100,Mäklarringen,395.31370747482816,Hagdalen
+2016-01-22,Önskehemsgatan 10,Hogdalen,GronHagsatra,2,58,2,Lägenhet,1955,[Högdalen],2195000,480000,2675000,3197,Mäklarringen,398.280247926213,Hagdalen
+2016-01-21,Skebokvarnsvägen 253,Hogdalen,GronHagsatra,3,74.5,3,Lägenhet,1956,[Bandhagen],2395000,395000,2790000,3859,Mäklarhuset,430.17656617286013,Hagdalen
+2016-01-15,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1495000,535000,2030000,2508,Notar,137.55052732491203,Hagdalen
+2016-01-15,Harpsundsvägen 103,Hogdalen,GronHagsatra,1,28.5,1,Lägenhet,1954,[Enskede-Årsta-Vantör],1595000,410000,2005000,1654,SkandiaMäklarna,213.6530932843199,Hagdalen
+2016-01-15,Skebokvarnsvägen 304,Hogdalen,GronHagsatra,2,58,2,Lägenhet,1956,[Högdalen],1990000,110000,2100000,3197,BoLiving,545.4365189909843,Hagdalen
+2016-01-14,Trollesundsvägen 165,Hogdalen,GronHagsatra,2,61.5,1,Lägenhet,1955,[Högdalen],1995000,385000,2380000,3004,Fastighetsbyrån,499.8825575998231,Hagdalen
+2016-01-13,Skebokvarnsvägen 317,Hogdalen,GronHagsatra,1,29,2,Lägenhet,1955,[Högdalen],1650000,370000,2020000,1989,Mäklarringen,320.8667977594307,Hagdalen
+2015-12-17,Skebokvarnsvägen 282,Hogdalen,GronHagsatra,2,69,0,Lägenhet,1954,[Högdalen],1895000,215000,2110000,3698,Södermäklarna,532.9836751801104,Hagdalen
+2015-12-09,Skebokvarnsvägen 317,Hogdalen,GronHagsatra,1,29,3,Lägenhet,1955,[Enskede-Årsta-Vantör],1395000,625000,2020000,1989,SkandiaMäklarna,320.8667977594307,Hagdalen
+2015-12-04,Skebokvarnsvägen 265,Hogdalen,GronHagsatra,2,60.5,5,Lägenhet,1956,[Enskede-Årsta-Vantör],1890000,360000,2250000,3375,SkandiaMäklarna,476.006066808234,Hagdalen
+2015-12-04,Skebokvarnsvägen 251,Hogdalen,GronHagsatra,2,57.5,3,Lägenhet,1956,[Högdalen],1990000,460000,2450000,3117,Fastighetsbyrån,430.8331655376121,Hagdalen
+2015-11-26,Skebokvarnsvägen 251,Hogdalen,GronHagsatra,1,27,2,Lägenhet,1956,[Högdalen],1395000,515000,1910000,1546,Länsförsäkringar Fastighetsförmedling,430.8331655376121,Hagdalen
+2015-11-26,Harpsundsvägen 61,Hogdalen,GronHagsatra,3,67,1,Lägenhet,null,[Enskede-Årsta-Vantör],2395000,405000,2800000,3189,SkandiaMäklarna,138.59881165200042,Hagdalen
+2015-11-26,Harpsundsvägen 78,Hogdalen,GronHagsatra,3,76,12,Lägenhet,2012,[Högdalen],null,NaN,4000000,4239,Notar,111.96125564528349,Hagdalen
+2015-11-25,Harpsundsvägen 69,Hogdalen,GronHagsatra,4,86,null,Lägenhet,1954,[Högdalen],3100000,500000,3600000,4094,MäklarMäster,111.7872487577269,Hagdalen
+2015-11-20,Harpsundsvägen 41,Hogdalen,GronHagsatra,3,70,3,Lägenhet,null,[Högdalen],1995000,595000,2590000,3333,Länsförsäkringar Fastighetsförmedling,178.13531286159318,Hagdalen
+2015-11-19,Harpsundsvägen 155,Hogdalen,GronHagsatra,2,44.7,0,Lägenhet,1954,[Högdalen],1695000,605000,2300000,2252,Svensk Fastighetsförmedling,444.86502097012243,Hagdalen
+2015-11-19,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1495000,425000,1920000,2508,Notar,137.55052732491203,Hagdalen
+2015-11-18,Harpsundsvägen 69,Hogdalen,GronHagsatra,4,86,3,Lägenhet,1955,[Högdalen],2900000,200000,3100000,4094,Hemverket,111.7872487577269,Hagdalen
+2015-11-18,Harpsundsvägen 103,Hogdalen,GronHagsatra,2,61.5,1,Lägenhet,1955,[Högdalen],1895000,505000,2400000,2984,Svensk Fastighetsförmedling,213.6530932843199,Hagdalen
+2015-11-14,Harpsundsvägen 145,Hogdalen,GronHagsatra,2,61.5,3,Lägenhet,1955,[Högdalen],1995000,505000,2500000,3024,Fastighetsbyrån,411.36440170583387,Hagdalen
+2015-11-06,Harpsundsvägen 95,Hogdalen,GronHagsatra,3,78.5,3,Lägenhet,1954,[Högdalen],2500000,210000,2710000,3609,Notar,203.39531429944722,Hagdalen
+2015-11-06,Skebokvarnsvägen 286,Hogdalen,GronHagsatra,1,37.5,2,Lägenhet,1958,[Högdalen],1695000,415000,2110000,2226,Fastighetsbyrån,554.9919753370011,Hagdalen
+2015-10-30,Skebokvarnsvägen 256,Hogdalen,GronHagsatra,3,90,null,Radhus,1958,[Högdalen],3795000,505000,4300000,null,Fastighetsbyrån,557.6341415407453,Hagdalen
+2015-10-28,Trollesundsvägen 104,Hogdalen,GronHagsatra,1,44.5,null,Lägenhet,null,[Högdalen],1595000,575000,2170000,2210,BOSTHLM,399.5926281806864,Hagdalen
+2015-10-21,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,1,31,5,Lägenhet,1955,[Högdalen],1495000,515000,2010000,2102,Länsförsäkringar Fastighetsförmedling,350.5688734264556,Hagdalen
+2015-10-19,Harpsundsvägen 147,Hogdalen,GronHagsatra,1,28,1,Lägenhet,1955,[Högdalen],1595000,585000,2180000,1654,Notar,423.01669235796084,Hagdalen
+2015-10-19,Skebokvarnsvägen 261,Hogdalen,GronHagsatra,3,75,3,Lägenhet,1956,[Bandhagen],1995000,815000,2810000,3940,Länsförsäkringar Fastighetsförmedling,436.03273350534755,Hagdalen
+2015-10-13,Harpsundsvägen 97,Hogdalen,GronHagsatra,1,46,2,Lägenhet,1954,[Bandhagen],2310000,0,2310000,2346,BOSTHLM,218.3979151311642,Hagdalen
+2015-10-07,Harpsundsvägen 80B,Hogdalen,GronHagsatra,1.5,41,3,Lägenhet,2011,[Bandhagen],1790000,590000,2380000,2681,Erik Olsson Fastighetsförmedling,161.51973614195003,Hagdalen
+2015-10-02,Önskehemsgatan 10,Hogdalen,GronHagsatra,2,58,1,Lägenhet,1956,[Enskede-Årsta-Vantör],1895000,315000,2210000,3135,SkandiaMäklarna,398.280247926213,Hagdalen
+2015-10-01,Skebokvarnsvägen 300,Hogdalen,GronHagsatra,2,58,null,Lägenhet,null,[Högdalen],2200000,200000,2400000,3081,Balders Ädelmarks,555.588463395325,Hagdalen
+2015-09-24,Skebokvarnsvägen 296,Hogdalen,GronHagsatra,2,58,2,Lägenhet,1956,[Bandhagen],1995000,305000,2300000,3249,Mäklarhuset,548.9050425634297,Hagdalen
+2015-09-24,Harpsundsvägen 82D,Hogdalen,GronHagsatra,4,78,null,Lägenhet,2013,[Högdalen],2495000,1045000,3540000,4196,Notar,227.9202274001624,Hagdalen
+2015-09-24,Harpsundsvägen 76,Hogdalen,GronHagsatra,3,70,4,Lägenhet,1957,[Högdalen],1995000,470000,2465000,4112,Notar,74.94365344204594,Hagdalen
+2015-09-24,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,3,69,3,Lägenhet,1956,[Högdalen],1995000,605000,2600000,3621,Länsförsäkringar Fastighetsförmedling,511.5497017195484,Hagdalen
+2015-09-24,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,2,58,5,Lägenhet,1955,[Högdalen],1895000,375000,2270000,3625,Länsförsäkringar Fastighetsförmedling,350.5688734264556,Hagdalen
+2015-09-23,Harpsundsvägen 78,Hogdalen,GronHagsatra,2,59,3,Lägenhet,2014,[Enskede-Årsta-Vantör],1995000,615000,2610000,3482,SkandiaMäklarna,111.96125564528349,Hagdalen
+2015-09-22,Harpsundsvägen 107,Hogdalen,GronHagsatra,3,61.5,3,Lägenhet,1955,[Högdalen],2195000,625000,2820000,3054,Edward & Partners Fastighetsmäklare AB,234.62871927002445,Hagdalen
+2015-09-16,Harpsundsvägen 83,Hogdalen,GronHagsatra,4,80.5,2,Lägenhet,1955,[Högdalen],2650000,320000,2970000,3918,Mäklarringen,142.0361436683248,Hagdalen
+2015-09-14,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,3,66,14,Lägenhet,2008,[Högdalen],1895000,625000,2520000,4654,Notar,270.35771006779817,Hagdalen
+2015-09-09,Harpsundsvägen 161,Hogdalen,GronHagsatra,1,28.5,2,Lägenhet,1954,[Högdalen],1495000,545000,2040000,1654,RE/MAX Sverige,417.8218623708988,Hagdalen
+2015-09-07,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,2,50,4,Lägenhet,2007,[Högdalen],1795000,635000,2430000,3791,Notar,137.55052732491203,Hagdalen
+2015-09-07,Trollesundsvägen 137,Hogdalen,GronHagsatra,1,18,null,Lägenhet,1955,[Högdalen],1095000,455000,1550000,1149,Notar,447.88004231152183,Hagdalen
+2015-09-07,Skebokvarnsvägen 289,Hogdalen,GronHagsatra,3,68.5,2,Lägenhet,1956,[Högdalen],1995000,605000,2600000,3734,Länsförsäkringar Fastighetsförmedling,383.5789244380075,Hagdalen
+2015-09-04,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,72,3,Lägenhet,1956,[Bandhagen],2095000,405000,2500000,3844,Svensk Fastighetsförmedling,383.6215506856878,Hagdalen
+2015-09-03,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,3,Lägenhet,2007,[Högdalen],1550000,310000,1860000,2668,Hemmäklarna,137.55052732491203,Hagdalen
+2015-08-27,Skebokvarnsvägen 277,Hogdalen,GronHagsatra,3,75,1,Lägenhet,1956,[Högdalen],2195000,525000,2720000,3782,Notar,403.96742311719777,Hagdalen
+2015-08-27,Trollesundsvägen 167,Hogdalen,GronHagsatra,2,61,2,Lägenhet,1955,[Högdalen],1995000,515000,2510000,3033,Fastighetsbyrån,505.59468703116164,Hagdalen
+2015-08-25,Skebokvarnsvägen 289,Hogdalen,GronHagsatra,3,68.5,1,Lägenhet,1956,[Enskede-Årsta-Vantör],1995000,630000,2625000,3592,SkandiaMäklarna,383.5789244380075,Hagdalen
+2015-08-20,Skebokvarnsvägen 319,Hogdalen,GronHagsatra,1,29,2,Lägenhet,1955,[Högdalen],1395000,455000,1850000,1989,Mäklarringen,330.0684729579414,Hagdalen
+2015-08-17,Trollesundsvägen 147,Hogdalen,GronHagsatra,2,61,2,Lägenhet,1954,[Högdalen],1795000,555000,2350000,3033,Notar,488.53831456193603,Hagdalen
+2015-08-17,Skebokvarnsvägen 251,Hogdalen,GronHagsatra,4,80.5,0,Lägenhet,1956,[Högdalen],1995000,125000,2120000,3854,Länsförsäkringar Fastighetsförmedling,430.8331655376121,Hagdalen
+2015-08-05,Trollesundsvägen 145,Hogdalen,GronHagsatra,1,31,1,Lägenhet,1955,[Högdalen],1395000,705000,2100000,1627,Notar,483.5509180991691,Hagdalen
+2015-08-05,Trollesundsvägen 110,Hogdalen,GronHagsatra,2,61,1,Lägenhet,1955,[Högdalen],1895000,190000,2085000,2916,Fastighetsbyrån,412.38196902462346,Hagdalen
+2015-08-04,Harpsundsvägen 69,Hogdalen,GronHagsatra,4,87,1,Lägenhet,1955,[Högdalen],2495000,261000,2756000,4142,Bjurfors,111.7872487577269,Hagdalen
+2015-08-02,Skebokvarnsvägen 245,Hogdalen,GronHagsatra,2,60,9,Lägenhet,1956,[Enskede-Årsta-Vantör],1850000,875000,2725000,3375,SkandiaMäklarna,469.163319528393,Hagdalen
+2015-07-25,Trollesundsvägen 139,Hogdalen,GronHagsatra,1,31,3,Lägenhet,1955,[Bandhagen],1395000,585000,1980000,1531,Edgrens Fastighetsförmedling,445.8971318794741,Hagdalen
+2015-07-09,Trollesundsvägen 171,Hogdalen,GronHagsatra,1,18,3,Lägenhet,null,[Högdalen],995000,555000,1550000,1149,Notar,519.1471793045221,Hagdalen
+2015-07-07,Harpsundsvägen 41,Hogdalen,GronHagsatra,1,28,null,Lägenhet,1954,[Högdalen],1395000,485000,1880000,1334,Notar,178.13531286159318,Hagdalen
+2015-06-18,Trollesundsvägen 179,Hogdalen,GronHagsatra,2,60,1,Lägenhet,1958,[Bandhagen],1975000,195000,2170000,2700,Svensk Fastighetsförmedling,490.26306877002844,Hagdalen
+2015-06-18,Trollesundsvägen 141,Hogdalen,GronHagsatra,2,61,1,Lägenhet,null,[Högdalen],1950000,265000,2215000,2737,ERA,455.6191137191087,Hagdalen
+2015-06-17,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,2,68,5,Lägenhet,2008,[Högdalen],1895000,25000,1920000,4769,Fastighetsbyrån,270.35771006779817,Hagdalen
+2015-06-15,Harpsundsvägen 84A,Hogdalen,GronHagsatra,4,82,1,Lägenhet,2013,[Högdalen],2495000,655000,3150000,4372,Notar,262.4577546993003,Hagdalen
+2015-06-15,Harpsundsvägen 82D,Hogdalen,GronHagsatra,3,69,2,Lägenhet,2013,[Bandhagen],2450000,50000,2500000,3801,Hemverket,227.9202274001624,Hagdalen
+2015-06-14,Harpsundsvägen 123,Hogdalen,GronHagsatra,1,35,-1,Lägenhet,null,[Högdalen],1500000,330000,1830000,1728,Living Fastighetsmäkleri,313.1528018472198,Hagdalen
+2015-06-14,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,5,Lägenhet,2007,[Högdalen],1490000,260000,1750000,2668,Fastighetsbyrån,137.55052732491203,Hagdalen
+2015-06-13,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,6,Lägenhet,2007,[Högdalen],1550000,450000,2000000,2668,Hemmäklarna,137.55052732491203,Hagdalen
+2015-06-12,Skebokvarnsvägen 245,Hogdalen,GronHagsatra,4,85,null,Lägenhet,1956,[Högdalen],1950000,605000,2555000,4154,Länsförsäkringar Fastighetsförmedling,469.163319528393,Hagdalen
+2015-06-12,Harpsundsvägen 157,Hogdalen,GronHagsatra,2,65,3,Lägenhet,1958,[Bandhagen],1825000,200000,2025000,null,Svensk Fastighetsförmedling,439.37326063531987,Hagdalen
+2015-06-12,Harpsundsvägen 127,Hogdalen,GronHagsatra,1,49,-1,Lägenhet,1955,[Bandhagen],1650000,80000,1730000,null,BOSTHLM,336.75496073467315,Hagdalen
+2015-06-09,Harpsundsvägen 135,Hogdalen,GronHagsatra,1.5,45.5,1,Lägenhet,1959,[Bandhagen],1475000,575000,2050000,2065,Mäklarhuset,352.4629761884139,Hagdalen
+2015-06-05,Önskehemsgatan 10,Hogdalen,GronHagsatra,1,37,2,Lägenhet,1956,[Högdalen],1495000,435000,1930000,2198,Länsförsäkringar Fastighetsförmedling,398.280247926213,Hagdalen
+2015-06-04,Trollesundsvägen 145,Hogdalen,GronHagsatra,1,31,null,Lägenhet,null,[Bandhagen],1545000,305000,1850000,null,Mäklarhuset,483.5509180991691,Hagdalen
+2015-06-03,Önskehemsgatan 8,Hogdalen,GronHagsatra,3,65,null,Lägenhet,1956,[Bandhagen],1895000,635000,2530000,null,Svensk Fastighetsförmedling,396.92403130863744,Hagdalen
+2015-06-02,Edestavägen 24,Hogdalen,GronHagsatra,2,62,5,Lägenhet,2004,[Bandhagen],1795000,730000,2525000,3776,Mäklarringen,339.8027775683366,Hagdalen
+2015-06-01,Trollesundsvägen 155,Hogdalen,GronHagsatra,4,79,1,Lägenhet,1958,[Bandhagen],2550000,450000,3000000,3941,Svensk Fastighetsförmedling,454.74682183203123,Hagdalen
+2015-05-29,Trollesundsvägen 173,Hogdalen,GronHagsatra,3,78,2,Lägenhet,1955,[Högdalen],1995000,1015000,3010000,3867,HusmanHagberg,534.4924398658587,Hagdalen
+2015-05-29,Harpsundsvägen 31,Hogdalen,GronHagsatra,1,36,1,Lägenhet,1955,[Högdalen],1595000,315000,1910000,1713,Bjurfors,127.34056991362819,Hagdalen
+2015-05-28,Harpsundsvägen 95,Hogdalen,GronHagsatra,3,79,1,Lägenhet,1955,[Högdalen],2395000,480000,2875000,3554,Bjurfors,203.39531429944722,Hagdalen
+2015-05-28,Harpsundsvägen 105,Hogdalen,GronHagsatra,1,31,-1,Lägenhet,null,[Bandhagen],1250000,280000,1530000,1586,Svensk Fastighetsförmedling,227.34383419578302,Hagdalen
+2015-05-28,Trollesundsvägen 139,Hogdalen,GronHagsatra,1,31,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1390000,340000,1730000,1531,SkandiaMäklarna,445.8971318794741,Hagdalen
+2015-05-27,Edestavägen 24,Hogdalen,GronHagsatra,5,112,7,Lägenhet,2004,[Bandhagen],3395000,1355000,4750000,6619,Mäklarringen,339.8027775683366,Hagdalen
+2015-05-21,Harpsundsvägen 123,Hogdalen,GronHagsatra,1,44,1,Lägenhet,1954,[Bandhagen],1595000,395000,1990000,null,Svensk Fastighetsförmedling,313.1528018472198,Hagdalen
+2015-05-21,Harpsundsvägen 121,Hogdalen,GronHagsatra,1,28.5,2,Lägenhet,1955,[Högdalen],1350000,500000,1850000,1654,Notar,302.24721259787094,Hagdalen
+2015-05-21,Trollesundsvägen 141,Hogdalen,GronHagsatra,1,36,2,Lägenhet,1955,[Högdalen],1595000,455000,2050000,1971,Notar,455.6191137191087,Hagdalen
+2015-05-16,Harpsundsvägen 80B,Hogdalen,GronHagsatra,1.5,41,2,Lägenhet,2012,[Högdalen],1995000,105000,2100000,3119,Fastighetsbyrån,161.51973614195003,Hagdalen
+2015-05-14,Trollesundsvägen 181,Hogdalen,GronHagsatra,1,40,-1,Lägenhet,1955,[Högdalen],1495000,385000,1880000,1900,Notar,484.63975947813884,Hagdalen
+2015-05-07,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,1,Lägenhet,2007,[Högdalen],1390000,190000,1580000,2668,Hemmäklarna,137.55052732491203,Hagdalen
+2015-05-06,Skebokvarnsvägen 265,Hogdalen,GronHagsatra,3,85,9,Lägenhet,1956,[Högdalen],2375000,235000,2610000,4658,Södermäklarna,476.006066808234,Hagdalen
+2015-05-02,Harpsundsvägen 161,Hogdalen,GronHagsatra,1,29,3,Lägenhet,1954,[Bandhagen],1450000,400000,1850000,1654,Svensk Fastighetsförmedling,417.8218623708988,Hagdalen
+2015-05-01,Harpsundsvägen 84B,Hogdalen,GronHagsatra,3,69,3,Lägenhet,null,[Högdalen],2390000,50000,2440000,3801,Fastighetsbyrån,283.45327514694026,Hagdalen
+2015-05-01,Harpsundsvägen 76,Hogdalen,GronHagsatra,3,70,4,Lägenhet,1957,[Högdalen],1950000,460000,2410000,4112,Notar,74.94365344204594,Hagdalen
+2015-05-01,Harpsundsvägen 87,Hogdalen,GronHagsatra,3,80,2,Lägenhet,1955,[Högdalen],2195000,315000,2510000,3909,Fastighetsbyrån,171.18281921318214,Hagdalen
+2015-04-29,Skebokvarnsvägen 285,Hogdalen,GronHagsatra,1,38,2,Lägenhet,1954,[Högdalen],1595000,505000,2100000,2226,Bjurfors,381.6589489570832,Hagdalen
+2015-04-27,Harpsundsvägen 129,Hogdalen,GronHagsatra,1.5,36,null,Lägenhet,1954,[Bandhagen],1575000,305000,1880000,1871,Svensk Fastighetsförmedling,338.2816610911739,Hagdalen
+2015-04-27,Trollesundsvägen 151,Hogdalen,GronHagsatra,1.5,45,1,Lägenhet,1955,[Högdalen],1645000,355000,2000000,2131,Hemmäklarna,490.6346785204245,Hagdalen
+2015-04-27,Harpsundsvägen 117,Hogdalen,GronHagsatra,4,80,1,Lägenhet,1955,[Högdalen],2290000,570000,2860000,3571,Fastighetsbyrån,299.8150522353257,Hagdalen
+2015-04-23,Harpsundsvägen 80A,Hogdalen,GronHagsatra,4,82,3,Lägenhet,2012,[Högdalen],2650000,270000,2920000,4506,Erik Olsson Fastighetsförmedling,141.36858673248545,Hagdalen
+2015-04-20,Harpsundsvägen 161,Hogdalen,GronHagsatra,3,68.5,null,Lägenhet,1955,[Högdalen],1895000,565000,2460000,3263,Notar,417.8218623708988,Hagdalen
+2015-04-15,Harpsundsvägen 101,Hogdalen,GronHagsatra,4,80,2,Lägenhet,null,[Högdalen],2250000,650000,2900000,3909,Bjurfors,225.82257796819164,Hagdalen
+2015-04-14,Trollesundsvägen 165,Hogdalen,GronHagsatra,2,61.5,2,Lägenhet,1955,[Bandhagen],1795000,365000,2160000,3141,Mäklarhuset,499.8825575998231,Hagdalen
+2015-04-14,Skebokvarnsvägen 288,Hogdalen,GronHagsatra,1,37.5,3,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1490000,530000,2020000,2226,SkandiaMäklarna,563.3608096114638,Hagdalen
+2015-04-07,Trollesundsvägen 110,Hogdalen,GronHagsatra,2,61,3,Lägenhet,1958,[Bandhagen],1825000,235000,2060000,3033,Svensk Fastighetsförmedling,412.38196902462346,Hagdalen
+2015-04-07,Harpsundsvägen 84B,Hogdalen,GronHagsatra,4,82,3,Lägenhet,2013,[Högdalen],2395000,675000,3070000,4372,Notar,283.45327514694026,Hagdalen
+2015-04-07,Skebokvarnsvägen 125,Hogdalen,GronHagsatra,3,61,3,Lägenhet,1954,[Högdalen],1795000,455000,2250000,3407,Notar,517.6689126064107,Hagdalen
+2015-04-07,Harpsundsvägen 103,Hogdalen,GronHagsatra,3,69.5,12,Lägenhet,1955,[Högdalen],1895000,405000,2300000,3455,Notar,213.6530932843199,Hagdalen
+2015-04-02,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,72,8,Lägenhet,1956,[Högdalen],1995000,415000,2410000,3941,Mäklarringen,383.6215506856878,Hagdalen
+2015-04-01,Edestavägen 24,Hogdalen,GronHagsatra,2,62,1,Lägenhet,2004,[Högdalen],1695000,375000,2070000,3776,Mäklarringen,339.8027775683366,Hagdalen
+2015-04-01,Harpsundsvägen 75,Hogdalen,GronHagsatra,2,64.5,2,Lägenhet,1959,[Högdalen],1990000,430000,2420000,3118,Fastighetsbyrån,164.33877135387652,Hagdalen
+2015-03-31,Skebokvarnsvägen 273,Hogdalen,GronHagsatra,2,57.5,2,Lägenhet,1956,[Högdalen],1595000,455000,2050000,3049,Notar,412.81638540056275,Hagdalen
+2015-03-26,Harpsundsvägen 135,Hogdalen,GronHagsatra,1,46,1,Lägenhet,1954,[Bandhagen],1525000,485000,2010000,2292,Svensk Fastighetsförmedling,352.4629761884139,Hagdalen
+2015-03-26,Trollesundsvägen 104,Hogdalen,GronHagsatra,1,32,-1,Lägenhet,1955,[Bandhagen],1475000,345000,1820000,1687,Mäklarhuset,399.5926281806864,Hagdalen
+2015-03-26,Skebokvarnsvägen 302,Hogdalen,GronHagsatra,2,58.5,1,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1790000,510000,2300000,3196,SkandiaMäklarna,557.3982304325579,Hagdalen
+2015-03-25,Harpsundsvägen 77,Hogdalen,GronHagsatra,1,28.5,4,Lägenhet,1955,[Högdalen],1295000,405000,1700000,1654,Notar,155.76339109488663,Hagdalen
+2015-03-25,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,2,50,4,Lägenhet,2007,[Högdalen],1595000,305000,1900000,3792,Notar,137.55052732491203,Hagdalen
+2015-03-23,Harpsundsvägen 84B,Hogdalen,GronHagsatra,5,96,null,Lägenhet,2013,[Högdalen],2895000,55000,2950000,5988,Erik Olsson Fastighetsförmedling,283.45327514694026,Hagdalen
+2015-03-20,Trollesundsvägen 167,Hogdalen,GronHagsatra,1,36,3,Lägenhet,1955,[Högdalen],1400000,600000,2000000,1971,Hemmäklarna,505.59468703116164,Hagdalen
+2015-03-18,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,2,58,2,Lägenhet,1955,[Bandhagen],1795000,255000,2050000,3452,Svensk Fastighetsförmedling,350.5688734264556,Hagdalen
+2015-03-18,Önskehemsgatan 12,Hogdalen,GronHagsatra,2,58.5,3,Lägenhet,1956,[Högdalen],1795000,515000,2310000,3144,Notar,395.31370747482816,Hagdalen
+2015-03-12,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,72,5,Lägenhet,1956,[Bandhagen],1850000,460000,2310000,3913,Svensk Fastighetsförmedling,383.6215506856878,Hagdalen
+2015-03-11,Trollesundsvägen 145,Hogdalen,GronHagsatra,1,45,-1,Lägenhet,1955,[Högdalen],1475000,475000,1950000,2225,Notar,483.5509180991691,Hagdalen
+2015-03-11,Trollesundsvägen 177,Hogdalen,GronHagsatra,3,78,1,Lägenhet,1955,[Högdalen],2195000,85000,2280000,3644,Notar,501.0288484155839,Hagdalen
+2015-03-11,Harpsundsvägen 147,Hogdalen,GronHagsatra,1,28.5,1,Lägenhet,1955,[Högdalen],1450000,230000,1680000,1654,Notar,423.01669235796084,Hagdalen
+2015-03-09,Trollesundsvägen 175,Hogdalen,GronHagsatra,3,78,2,Lägenhet,1955,[Bandhagen],2295000,105000,2400000,3867,Mäklarhuset,520.0513334039457,Hagdalen
+2015-03-07,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,3,Lägenhet,2007,[Högdalen],1450000,200000,1650000,2668,Mäklarringen,137.55052732491203,Hagdalen
+2015-03-06,Skebokvarnsvägen 255,Hogdalen,GronHagsatra,3,74.5,3,Lägenhet,1958,[Älvsjö/Farsta/Vantör],1875000,415000,2290000,3859,SkandiaMäklarna,427.19827937517897,Hagdalen
+2015-03-06,Skebokvarnsvägen 242,Hogdalen,GronHagsatra,4,83,null,Radhus,1958,[Högdalen Bandhagen],3490000,335000,3825000,null,HusmanHagberg,560.586232023681,Hagdalen
+2015-02-27,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,74,9,Lägenhet,1956,[Högdalen],1995000,305000,2300000,4030,Mäklarringen,383.6215506856878,Hagdalen
+2015-02-26,Skebokvarnsvägen 317,Hogdalen,GronHagsatra,4,70,1,Lägenhet,1955,[Högdalen],1795000,540000,2335000,4098,Mäklarringen,320.8667977594307,Hagdalen
+2015-02-19,Harpsundsvägen 147,Hogdalen,GronHagsatra,2,61.5,1,Lägenhet,1955,[Högdalen],1675000,325000,2000000,2899,Notar,423.01669235796084,Hagdalen
+2015-02-19,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,3,Lägenhet,2007,[Högdalen],1390000,285000,1675000,2667,Hemmäklarna,137.55052732491203,Hagdalen
+2015-02-16,Harpsundsvägen 137,Hogdalen,GronHagsatra,3,78.5,1,Lägenhet,1955,[Högdalen],1795000,835000,2630000,3609,Notar,372.5714010394548,Hagdalen
+2015-02-12,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,1,Lägenhet,2007,[Högdalen],1390000,140000,1530000,2667,Hemmäklarna,137.55052732491203,Hagdalen
+2015-02-11,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,1,Lägenhet,2007,[Högdalen],1390000,190000,1580000,2668,Bjurfors,137.55052732491203,Hagdalen
+2015-02-10,Skebokvarnsvägen 267,Hogdalen,GronHagsatra,3,75,3,Lägenhet,1954,[Högdalen],1875000,435000,2310000,3782,Bjurfors,400.2971092060784,Hagdalen
+2015-02-10,Harpsundsvägen 37,Hogdalen,GronHagsatra,2,58,1,Lägenhet,1955,[Högdalen],1675000,275000,1950000,2629,Bjurfors,155.462054315194,Hagdalen
+2015-02-05,Skebokvarnsvägen 255,Hogdalen,GronHagsatra,3,74.5,1,Lägenhet,null,[Älvsjö/Farsta/Vantör],1975000,450000,2425000,3522,SkandiaMäklarna,427.19827937517897,Hagdalen
+2015-02-05,Skebokvarnsvägen 306,Hogdalen,GronHagsatra,1,26,2,Lägenhet,1954,[Bandhagen],1195000,355000,1550000,1557,Mäklarhuset,88.29589520908158,Hagdalen
+2015-02-04,Harpsundsvägen 80B,Hogdalen,GronHagsatra,3.5,82,null,Lägenhet,null,[Högdalen],2290000,290000,2580000,4730,Fastighetsbyrån,161.51973614195003,Hagdalen
+2015-02-02,Harpsundsvägen 95,Hogdalen,GronHagsatra,3,79,3,Lägenhet,1954,[Bandhagen],1950000,515000,2465000,3909,Svensk Fastighetsförmedling,203.39531429944722,Hagdalen
+2015-01-31,Skebokvarnsvägen 304,Hogdalen,GronHagsatra,3,69.5,null,Lägenhet,1956,[Högdalen],1875000,655000,2530000,3711,Notar,545.4365189909843,Hagdalen
+2015-01-31,Trollesundsvägen 104,Hogdalen,GronHagsatra,1,47,1.5,Lägenhet,1955,[Högdalen],1495000,260000,1755000,2341,Notar,399.5926281806864,Hagdalen
+2015-01-30,Skebokvarnsvägen 292,Hogdalen,GronHagsatra,1,26,1,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1195000,445000,1640000,1539,SkandiaMäklarna,542.4112756843452,Hagdalen
+2015-01-29,Harpsundsvägen 80A,Hogdalen,GronHagsatra,3,69,4,Lägenhet,2012,[Högdalen],2495000,0,2495000,3928,Mäklarringen,141.36858673248545,Hagdalen
+2015-01-22,Trollesundsvägen 151,Hogdalen,GronHagsatra,1,31,3,Lägenhet,1954,[Bandhagen],1395000,245000,1640000,1627,Svensk Fastighetsförmedling,490.6346785204245,Hagdalen
+2015-01-15,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,2,58,9,Lägenhet,1955,[Högdalen],1695000,415000,2110000,3453,Mäklarringen,350.5688734264556,Hagdalen
+2015-01-14,Skebokvarnsvägen 265,Hogdalen,GronHagsatra,null,null,2,Lägenhet,1956,[Högdalen],1575000,475000,2050000,3287,Södermäklarna,476.006066808234,Hagdalen
+2015-01-13,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,1,26,1,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1175000,525000,1700000,1539,SkandiaMäklarna,511.5497017195484,Hagdalen
+2015-01-13,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,3,83,13,Lägenhet,2008,[Högdalen],1975000,550000,2525000,5627,Svenska Mäklarhuset,270.35771006779817,Hagdalen
+2015-01-06,Harpsundsvägen 75,Hogdalen,GronHagsatra,1,22,null,Lägenhet,null,[Älvsjö/Farsta/Vantör],1095000,270000,1365000,1037,SkandiaMäklarna,164.33877135387652,Hagdalen
+2014-12-19,Skebokvarnsvägen 292,Hogdalen,GronHagsatra,2,62.5,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1750000,350000,2100000,3331,Svensk Fastighetsförmedling,542.4112756843452,Hagdalen
+2014-12-18,Önskehemsgatan 8,Hogdalen,GronHagsatra,3,65,9,Lägenhet,1956,[Högdalen],1850000,300000,2150000,3639,Notar,396.92403130863744,Hagdalen
+2014-12-12,Skebokvarnsvägen 319,Hogdalen,GronHagsatra,4,70,1,Lägenhet,1955,[Högdalen],1900000,410000,2310000,4097,Länsförsäkringar Fastighetsförmedling,330.0684729579414,Hagdalen
+2014-12-10,Önskehemsgatan 14,Hogdalen,GronHagsatra,1,37,1,Lägenhet,1956,[Högdalen],1450000,360000,1810000,2130,Notar,393.1444732175123,Hagdalen
+2014-12-05,Skebokvarnsvägen 273,Hogdalen,GronHagsatra,1,27,2,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1275000,325000,1600000,1546,Svensk Fastighetsförmedling,412.81638540056275,Hagdalen
+2014-12-04,Skebokvarnsvägen 267,Hogdalen,GronHagsatra,3,74.5,3,Lägenhet,1954,[Högdalen],1825000,195000,2020000,3782,Bjurfors,400.2971092060784,Hagdalen
+2014-12-03,Harpsundsvägen 85,Hogdalen,GronHagsatra,2,50,null,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1595000,215000,1810000,2508,Svensk Fastighetsförmedling,155.22325892659342,Hagdalen
+2014-12-03,Trollesundsvägen 149,Hogdalen,GronHagsatra,1,37.5,null,Lägenhet,1955,[Högdalen],1395000,495000,1890000,1952,Bjurfors,491.71635569720513,Hagdalen
+2014-11-20,Harpsundsvägen 78,Hogdalen,GronHagsatra,4,86,null,Lägenhet,2012,[Högdalen],2600000,0,2600000,4684,Friberg & Partners Fastighetsförmedling,111.96125564528349,Hagdalen
+2014-11-19,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,2,58.5,1,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1595000,365000,1960000,3196,Svensk Fastighetsförmedling,511.5497017195484,Hagdalen
+2014-11-19,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,2,66,10,Lägenhet,2008,[Högdalen],1495000,515000,2010000,4654,Notar,270.35771006779817,Hagdalen
+2014-11-19,Harpsundsvägen 127,Hogdalen,GronHagsatra,2,57.5,null,Lägenhet,1955,[Högdalen],1495000,305000,1800000,2628,Notar,336.75496073467315,Hagdalen
+2014-11-18,Skebokvarnsvägen 273,Hogdalen,GronHagsatra,2,57.5,2,Lägenhet,1956,[Högdalen],1550000,150000,1700000,3049,Hemmäklarna,412.81638540056275,Hagdalen
+2014-11-14,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,4,92.5,8,Lägenhet,2008,[Högdalen],2250000,350000,2600000,6266,Svenska Mäklarhuset,270.35771006779817,Hagdalen
+2014-11-12,Harpsundsvägen 84B,Hogdalen,GronHagsatra,4,82,2,Lägenhet,2013,[Högdalen],2295000,325000,2620000,4372,Mäklarringen,283.45327514694026,Hagdalen
+2014-11-08,Harpsundsvägen 143,Hogdalen,GronHagsatra,1,28.5,2,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1275000,375000,1650000,1638,Svensk Fastighetsförmedling,399.158410553953,Hagdalen
+2014-11-06,Harpsundsvägen 84B,Hogdalen,GronHagsatra,5,96,2,Lägenhet,2013,[Bandhagen],2700000,0,2700000,4986,Magnusson Mäkleri,283.45327514694026,Hagdalen
+2014-11-06,Trollesundsvägen 143,Hogdalen,GronHagsatra,2,61,2,Lägenhet,null,[Älvsjö/Farsta/Vantör],1595000,285000,1880000,2945,Svensk Fastighetsförmedling,475.1772171617425,Hagdalen
+2014-11-05,Trollesundsvägen 100,Hogdalen,GronHagsatra,3,68,1,Lägenhet,1955,[Högdalen],1750000,710000,2460000,3197,Notar,374.003623440192,Hagdalen
+2014-11-01,Skebokvarnsvägen 265,Hogdalen,GronHagsatra,3,111,11,Lägenhet,1956,[Högdalen],2750000,200000,2950000,5840,Notar,476.006066808234,Hagdalen
+2014-10-29,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,3,Lägenhet,2007,[Högdalen],1495000,125000,1620000,2668,HusmanHagberg,137.55052732491203,Hagdalen
+2014-10-29,Harpsundsvägen 107,Hogdalen,GronHagsatra,1,28.5,null,Lägenhet,1955,[Högdalen],1295000,315000,1610000,1638,Notar,234.62871927002445,Hagdalen
+2014-10-28,Harpsundsvägen 31,Hogdalen,GronHagsatra,1,36,1,Lägenhet,1955,[Högdalen],1395000,435000,1830000,1632,Bjurfors,127.34056991362819,Hagdalen
+2014-10-21,Skebokvarnsvägen 158,Hogdalen,GronHagsatra,4,95,null,Radhus,1958,[Bandhagen],3395000,620000,4015000,null,HusmanHagberg,616.5367634749639,Hagdalen
+2014-10-20,Harpsundsvägen 67,Hogdalen,GronHagsatra,4,86,1,Lägenhet,null,[Älvsjö/Farsta/Vantör],2095000,465000,2560000,3899,Svensk Fastighetsförmedling,109.84274817264317,Hagdalen
+2014-10-15,Skebokvarnsvägen 282,Hogdalen,GronHagsatra,1,37.5,null,Lägenhet,1956,[Högdalen],1395000,370000,1765000,2157,Notar,532.9836751801104,Hagdalen
+2014-10-08,Harpsundsvägen 65,Hogdalen,GronHagsatra,1,29,2,Lägenhet,1955,[Högdalen],1295000,270000,1565000,1315,Bjurfors,111.31128596759025,Hagdalen
+2014-10-07,Harpsundsvägen 109,Hogdalen,GronHagsatra,2,64,null,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1695000,335000,2030000,3070,SkandiaMäklarna,247.6368227990744,Hagdalen
+2014-10-07,Trollesundsvägen 151,Hogdalen,GronHagsatra,2,60,2,Lägenhet,1955,[Högdalen],1495000,405000,1900000,2860,Bjurfors,490.6346785204245,Hagdalen
+2014-10-07,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,3,Lägenhet,2007,[Högdalen],1350000,180000,1530000,2668,Länsförsäkringar Fastighetsförmedling,137.55052732491203,Hagdalen
+2014-10-06,Harpsundsvägen 78,Hogdalen,GronHagsatra,2,59,null,Lägenhet,2012,[Älvsjö/Farsta/Vantör],2100000,0,2100000,3482,SkandiaMäklarna,111.96125564528349,Hagdalen
+2014-09-26,Harpsundsvägen 123,Hogdalen,GronHagsatra,1,43.5,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1750000,-25000,1725000,2180,SkandiaMäklarna,313.1528018472198,Hagdalen
+2014-09-25,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,1,41,null,Lägenhet,null,[Älvsjö/Farsta/Vantör],1100000,600000,1700000,2230,Svensk Fastighetsförmedling,511.5497017195484,Hagdalen
+2014-09-23,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1295000,360000,1655000,2668,Fastighetsbyrån,137.55052732491203,Hagdalen
+2014-09-18,Skebokvarnsvägen 127,Hogdalen,GronHagsatra,3,60,3,Lägenhet,1954,[Högdalen],1650000,220000,1870000,3529,Svenska Mäklarhuset,499.6603544401627,Hagdalen
+2014-09-18,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,4,92.5,12,Lägenhet,2008,[Högdalen],2095000,435000,2530000,6266,Svenska Mäklarhuset,270.35771006779817,Hagdalen
+2014-09-18,Harpsundsvägen 59,Hogdalen,GronHagsatra,2,57.5,2,Lägenhet,1955,[Högdalen],1495000,470000,1965000,2604,Bjurfors,157.46909782063233,Hagdalen
+2014-09-16,Harpsundsvägen 45,Hogdalen,GronHagsatra,3,69,1,Lägenhet,1954,[Högdalen],1650000,410000,2060000,3129,Bjurfors,178.65823034177825,Hagdalen
+2014-09-12,Harpsundsvägen 93,Hogdalen,GronHagsatra,3,79,2,Lägenhet,1955,[Bandhagen],1975000,10000,1985000,3724,Mäklarhuset,193.71560411478944,Hagdalen
+2014-09-12,Harpsundsvägen 76,Hogdalen,GronHagsatra,3,70,5,Lägenhet,1957,[Älvsjö/Farsta/Vantör],1890000,530000,2420000,4112,SkandiaMäklarna,74.94365344204594,Hagdalen
+2014-09-12,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,3,72,9,Lägenhet,1955,[Högdalen],1875000,25000,1900000,4205,Mäklarringen,350.5688734264556,Hagdalen
+2014-09-11,Harpsundsvägen 125,Hogdalen,GronHagsatra,2,61.5,1,Lägenhet,null,[Älvsjö/Farsta/Vantör],1395000,545000,1940000,2934,Svensk Fastighetsförmedling,325.81023748668775,Hagdalen
+2014-09-11,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,2,38,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1395000,305000,1700000,2183,SkandiaMäklarna,511.5497017195484,Hagdalen
+2014-09-11,Skebokvarnsvägen 269,Hogdalen,GronHagsatra,3,74.5,1,Lägenhet,null,[Älvsjö/Farsta/Vantör],1775000,430000,2205000,3681,Svensk Fastighetsförmedling,439.414669832862,Hagdalen
+2014-09-10,Skebokvarnsvägen 265,Hogdalen,GronHagsatra,2.5,60.5,10,Lägenhet,1956,[Högdalen],1650000,150000,1800000,3402,Hemmäklarna,476.006066808234,Hagdalen
+2014-09-10,Harpsundsvägen 45,Hogdalen,GronHagsatra,3,75,3,Lägenhet,1955,[Högdalen],1790000,360000,2150000,3399,Bjurfors,178.65823034177825,Hagdalen
+2014-09-10,Skebokvarnsvägen 294,Hogdalen,GronHagsatra,1,26,2,Lägenhet,1956,[Högdalen],1395000,40000,1435000,1557,Mäklarringen,524.5762811008915,Hagdalen
+2014-09-05,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,4,92.5,null,Lägenhet,2008,[Högdalen],2100000,150000,2250000,6266,Fastighetsbyrån,270.35771006779817,Hagdalen
+2014-09-04,Önskehemsgatan 8,Hogdalen,GronHagsatra,5,92.5,2,Lägenhet,null,[Älvsjö/Farsta/Vantör],2295000,255000,2550000,4974,Svensk Fastighetsförmedling,396.92403130863744,Hagdalen
+2014-09-02,Harpsundsvägen 80B,Hogdalen,GronHagsatra,2,41,2,Lägenhet,2012,[Högdalen],1350000,550000,1900000,3120,SverigeMäklaren,161.51973614195003,Hagdalen
+2014-08-28,Harpsundsvägen 63,Hogdalen,GronHagsatra,5,97,3,Lägenhet,null,[Älvsjö/Farsta/Vantör],2475000,725000,3200000,4399,Svensk Fastighetsförmedling,120.58442858977548,Hagdalen
+2014-08-28,Skebokvarnsvägen 277,Hogdalen,GronHagsatra,3,75,1,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1790000,470000,2260000,3850,SkandiaMäklarna,403.96742311719777,Hagdalen
+2014-08-27,Harpsundsvägen 41,Hogdalen,GronHagsatra,3,68.5,2,Lägenhet,1955,[Högdalen],1595000,575000,2170000,2906,Bjurfors,178.13531286159318,Hagdalen
+2014-08-27,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1345000,155000,1500000,2668,Fastighetsbyrån,137.55052732491203,Hagdalen
+2014-08-26,Harpsundsvägen 147,Hogdalen,GronHagsatra,3,69,3,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1795000,430000,2225000,3311,SkandiaMäklarna,423.01669235796084,Hagdalen
+2014-08-22,Trollesundsvägen 104,Hogdalen,GronHagsatra,1.5,44.5,null,Lägenhet,1955,[Högdalen],1395000,225000,1620000,2188,Notar,399.5926281806864,Hagdalen
+2014-08-22,Skebokvarnsvägen 249,Hogdalen,GronHagsatra,1,37,2,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1395000,255000,1650000,2267,SkandiaMäklarna,436.3476308967162,Hagdalen
+2014-08-20,Skebokvarnsvägen 288,Hogdalen,GronHagsatra,1,37.5,2,Lägenhet,1956,[Högdalen],1295000,255000,1550000,2226,Mäklarringen,563.3608096114638,Hagdalen
+2014-08-20,Harpsundsvägen 155,Hogdalen,GronHagsatra,1,28.5,2,Lägenhet,null,[Älvsjö/Farsta/Vantör],1295000,335000,1630000,1638,Svensk Fastighetsförmedling,444.86502097012243,Hagdalen
+2014-08-19,Harpsundsvägen 78,Hogdalen,GronHagsatra,3,76,10,Lägenhet,2012,[Högdalen],2875000,585000,3460000,4239,Bjurfors,111.96125564528349,Hagdalen
+2014-08-15,Önskehemsgatan 12,Hogdalen,GronHagsatra,1,37,1,Lägenhet,1956,[Högdalen],1195000,475000,1670000,2095,Hemmäklarna,395.31370747482816,Hagdalen
+2014-08-14,Trollesundsvägen 106,Hogdalen,GronHagsatra,1,18,null,Lägenhet,null,[Älvsjö/Farsta/Vantör],950000,290000,1240000,1067,Svensk Fastighetsförmedling,402.36427248234264,Hagdalen
+2014-08-08,Trollesundsvägen 104,Hogdalen,GronHagsatra,1.5,44.5,3,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1800000,0,1800000,2225,SkandiaMäklarna,399.5926281806864,Hagdalen
+2014-08-06,Trollesundsvägen 161,Hogdalen,GronHagsatra,1,31,2,Lägenhet,1955,[Högdalen],1250000,100000,1350000,1498,Notar,474.86581795724567,Hagdalen
+2014-08-06,Trollesundsvägen 159,Hogdalen,GronHagsatra,1,36,2,Lägenhet,1955,[Högdalen],1295000,355000,1650000,1952,Notar,463.9851669448139,Hagdalen
+2014-08-06,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,2,Lägenhet,2007,[Högdalen],1295000,55000,1350000,2508,Notar,137.55052732491203,Hagdalen
+2014-07-31,Skebokvarnsvägen 249,Hogdalen,GronHagsatra,2,57.5,null,Lägenhet,1956,[Högdalen],1450000,355000,1805000,3127,Fastighetsbyrån,436.3476308967162,Hagdalen
+2014-07-03,Harpsundsvägen 86A,Hogdalen,GronHagsatra,3,69,null,Lägenhet,2013,[Högdalen],1995000,30000,2025000,4034,Fastighetsbyrån,144.82238562760202,Hagdalen
+2014-06-23,Skebokvarnsvägen 123,Hogdalen,GronHagsatra,3,61,null,Lägenhet,1954,[Högdalen],1595000,255000,1850000,3586,Notar,510.993098992631,Hagdalen
+2014-06-20,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,3,79,null,Lägenhet,2008,[Högdalen],1650000,390000,2040000,5345,Fastighetsbyrån,270.35771006779817,Hagdalen
+2014-06-19,Skebokvarnsvägen 275,Hogdalen,GronHagsatra,3,75,null,Lägenhet,null,[Högdalen],1990000,60000,2050000,3922,ERA,411.2162892025868,Hagdalen
+2014-06-18,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1350000,100000,1450000,2668,Fastighetsbyrån,137.55052732491203,Hagdalen
+2014-06-04,Harpsundsvägen 82B,Hogdalen,GronHagsatra,3,69,1,Lägenhet,2013,[Älvsjö/Farsta/Vantör],1995000,5000,2000000,4536,SkandiaMäklarna,194.14971321630765,Hagdalen
+2014-06-04,Harpsundsvägen 77,Hogdalen,GronHagsatra,3,68,null,Lägenhet,1955,[Högdalen],1595000,405000,2000000,3268,Notar,155.76339109488663,Hagdalen
+2014-06-03,Trollesundsvägen 147,Hogdalen,GronHagsatra,2,61,2,Lägenhet,1955,[Högdalen],1400000,280000,1680000,2974,Notar,488.53831456193603,Hagdalen
+2014-05-29,Trollesundsvägen 102,Hogdalen,GronHagsatra,1,28,3,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1095000,380000,1475000,1611,SkandiaMäklarna,385.56617335182466,Hagdalen
+2014-05-22,Harpsundsvägen 78,Hogdalen,GronHagsatra,4.5,96,null,Lägenhet,2012,[Högdalen],2595000,155000,2750000,5924,Fastighetsbyrån,111.96125564528349,Hagdalen
+2014-05-21,Harpsundsvägen 157,Hogdalen,GronHagsatra,1,47,null,Lägenhet,null,[Älvsjö/Farsta/Vantör],1375000,145000,1520000,2258,Svensk Fastighetsförmedling,439.37326063531987,Hagdalen
+2014-05-21,Harpsundsvägen 163,Hogdalen,GronHagsatra,2,66,null,Lägenhet,1955,[Högdalen],1450000,300000,1750000,2959,Fastighetsbyrån,407.57431939520177,Hagdalen
+2014-05-15,Harpsundsvägen 105,Hogdalen,GronHagsatra,2,59,2,Lägenhet,null,[Älvsjö/Farsta/Vantör],1575000,95000,1670000,2925,Svensk Fastighetsförmedling,227.34383419578302,Hagdalen
+2014-05-15,Harpsundsvägen 163,Hogdalen,GronHagsatra,2,66,2,Lägenhet,1959,[Högdalen],1650000,60000,1710000,3140,Mäklarringen,407.57431939520177,Hagdalen
+2014-05-14,Skebokvarnsvägen 125,Hogdalen,GronHagsatra,3,61,3,Lägenhet,null,[Älvsjö/Farsta/Vantör],1690000,110000,1800000,3586,Svensk Fastighetsförmedling,517.6689126064107,Hagdalen
+2014-05-14,Skebokvarnsvägen 271,Hogdalen,GronHagsatra,3,74.5,2,Lägenhet,1956,[Högdalen],1595000,325000,1920000,3859,Svenska Mäklarhuset,409.4445542599726,Hagdalen
+2014-05-08,Trollesundsvägen 106,Hogdalen,GronHagsatra,2,61,1,Lägenhet,null,[Älvsjö/Farsta/Vantör],1495000,265000,1760000,2945,Svensk Fastighetsförmedling,402.36427248234264,Hagdalen
+2014-05-06,Harpsundsvägen 133,Hogdalen,GronHagsatra,3,78.5,3,Lägenhet,1955,[Högdalen],1695000,505000,2200000,3853,Bjurfors,346.95671357363443,Hagdalen
+2014-04-30,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,2,58,5,Lägenhet,1955,[Högdalen],1300000,220000,1520000,3453,Länsförsäkringar Fastighetsförmedling,350.5688734264556,Hagdalen
+2014-04-30,Harpsundsvägen 143,Hogdalen,GronHagsatra,2,61.5,null,Lägenhet,1955,[Högdalen],1495000,115000,1610000,2907,Fastighetsbyrån,399.158410553953,Hagdalen
+2014-04-30,Harpsundsvägen 139,Hogdalen,GronHagsatra,3,79,null,Lägenhet,1955,[Högdalen],1795000,565000,2360000,3745,Notar,364.9578679468721,Hagdalen
+2014-04-29,Harpsundsvägen 33,Hogdalen,GronHagsatra,4,84,2,Lägenhet,1954,[Högdalen],2095000,30000,2125000,3809,Bjurfors,137.05262635145988,Hagdalen
+2014-04-24,Skebokvarnsvägen 265,Hogdalen,GronHagsatra,2,60.5,null,Lägenhet,1956,[Högdalen],1395000,305000,1700000,3375,Fastighetsbyrån,476.006066808234,Hagdalen
+2014-04-17,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,1,38,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1350000,170000,1520000,2035,SkandiaMäklarna,511.5497017195484,Hagdalen
+2014-04-16,Harpsundsvägen 149,Hogdalen,GronHagsatra,3,82.5,null,Lägenhet,1955,[Högdalen],1750000,30000,1780000,3897,Fastighetsbyrån,434.1269230430989,Hagdalen
+2014-04-16,Harpsundsvägen 80A,Hogdalen,GronHagsatra,3,69,1,Lägenhet,2012,[Älvsjö/Farsta/Vantör],1995000,145000,2140000,4384,SkandiaMäklarna,141.36858673248545,Hagdalen
+2014-04-15,Skebokvarnsvägen 95,Hogdalen,GronHagsatra,2,57,null,Lägenhet,1954,[Bandhagen],1450000,350000,1800000,3904,Fastighetsbyrån,517.5706744497311,Bandhagen
+2014-04-09,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,1,46,14,Lägenhet,2008,[Högdalen],1395000,355000,1750000,3475,Notar,270.35771006779817,Hagdalen
+2014-04-07,Harpsundsvägen 125,Hogdalen,GronHagsatra,1,28.5,2,Lägenhet,1955,[Bandhagen],1250000,270000,1520000,1637,HusmanHagberg,325.81023748668775,Hagdalen
+2014-04-04,Skebokvarnsvägen 121,Hogdalen,GronHagsatra,2,57,2,Lägenhet,1954,[Högdalen],1500000,150000,1650000,3353,Diplomat Fastighetsmäkleri AB,534.9893593947323,Hagdalen
+2014-04-04,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,74,9,Lägenhet,1956,[Högdalen],1595000,230000,1825000,4030,Notar,383.6215506856878,Hagdalen
+2014-04-03,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,4,Lägenhet,2007,[Bandhagen],1395000,65000,1460000,2548,Hemverket,137.55052732491203,Hagdalen
+2014-04-01,Trollesundsvägen 149,Hogdalen,GronHagsatra,2,61,null,Lägenhet,1955,[Högdalen],1450000,210000,1660000,3002,Fastighetsbyrån,491.71635569720513,Hagdalen
+2014-03-27,Skebokvarnsvägen 121,Hogdalen,GronHagsatra,1,27,1,Lägenhet,1954,[Högdalen],1095000,155000,1250000,1715,Notar,534.9893593947323,Hagdalen
+2014-03-27,Harpsundsvägen 145,Hogdalen,GronHagsatra,1,28.5,1,Lägenhet,1955,[Högdalen],1095000,455000,1550000,1574,Notar,411.36440170583387,Hagdalen
+2014-03-26,Trollesundsvägen 145,Hogdalen,GronHagsatra,2,60,null,Lägenhet,1955,[Högdalen],1595000,155000,1750000,2752,Fastighetsbyrån,483.5509180991691,Hagdalen
+2014-03-20,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,1,38,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1150000,370000,1520000,2183,SkandiaMäklarna,511.5497017195484,Hagdalen
+2014-03-18,Trollesundsvägen 104,Hogdalen,GronHagsatra,1,32,null,Lägenhet,null,[Högdalen],1250000,170000,1420000,1671,Svensk Fastighetsförmedling,399.5926281806864,Hagdalen
+2014-03-13,Skebokvarnsvägen 319,Hogdalen,GronHagsatra,3,60,1,Lägenhet,1955,[Högdalen],1475000,150000,1625000,3560,Hemmäklarna,330.0684729579414,Hagdalen
+2014-03-12,Trollesundsvägen 102,Hogdalen,GronHagsatra,1,28,2,Lägenhet,null,[Högdalen],1095000,455000,1550000,1611,Svensk Fastighetsförmedling,385.56617335182466,Hagdalen
+2014-03-12,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,3,79,1,Lägenhet,2008,[Högdalen],1850000,-100000,1750000,5345,Mäklarringen,270.35771006779817,Hagdalen
+2014-03-12,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,74,7,Lägenhet,1956,[Högdalen],1645000,375000,2020000,4166,Hemmäklarna,383.6215506856878,Hagdalen
+2014-03-10,Trollesundsvägen 169,Hogdalen,GronHagsatra,2,61,2,Lägenhet,null,[Högdalen],1525000,50000,1575000,3002,Svensk Fastighetsförmedling,512.0217561849913,Hagdalen
+2014-03-06,Trollesundsvägen 151,Hogdalen,GronHagsatra,1,31,null,Lägenhet,null,[Högdalen],1150000,350000,1500000,1555,Svensk Fastighetsförmedling,490.6346785204245,Hagdalen
+2014-02-28,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,4,92.5,null,Lägenhet,2008,[Högdalen],1775000,-20000,1755000,6204,Södermäklarna,270.35771006779817,Hagdalen
+2014-02-27,Harpsundsvägen 76,Hogdalen,GronHagsatra,3,71,9,Lägenhet,null,[Högdalen],1495000,355000,1850000,4146,Svensk Fastighetsförmedling,74.94365344204594,Hagdalen
+2014-02-27,Harpsundsvägen 59,Hogdalen,GronHagsatra,1,38,1,Lägenhet,1954,[Högdalen],1225000,235000,1460000,1724,Bjurfors,157.46909782063233,Hagdalen
+2014-02-21,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,1.5,46,12,Lägenhet,null,[Bandhagen],1495000,155000,1650000,3475,Mäklarhuset,270.35771006779817,Hagdalen
+2014-02-20,Harpsundsvägen 131,Hogdalen,GronHagsatra,3,79,3,Lägenhet,1959,[Högdalen],1875000,0,1875000,3968,Mäklarringen,329.8517796381774,Hagdalen
+2014-02-20,Harpsundsvägen 127,Hogdalen,GronHagsatra,2,63.5,1,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1620000,10000,1630000,2944,SkandiaMäklarna,336.75496073467315,Hagdalen
+2014-02-20,Skebokvarnsvägen 292,Hogdalen,GronHagsatra,3,69,2,Lägenhet,1956,[Högdalen],1495000,255000,1750000,3685,Erik Olsson Fastighetsförmedling,542.4112756843452,Hagdalen
+2014-02-14,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,4,92.5,null,Lägenhet,2008,[Högdalen],2195000,15000,2210000,6204,Svensk Fastighetsförmedling,270.35771006779817,Hagdalen
+2014-02-07,Harpsundsvägen 41,Hogdalen,GronHagsatra,1,28,1,Lägenhet,1954,[Högdalen],1195000,205000,1400000,1270,Notar,178.13531286159318,Hagdalen
+2014-02-05,Harpsundsvägen 127,Hogdalen,GronHagsatra,2,65,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1595000,215000,1810000,3104,Fastighetsbyrån,336.75496073467315,Hagdalen
+2014-02-03,Trollesundsvägen 141,Hogdalen,GronHagsatra,1,36,1,Lägenhet,1955,[Högdalen],1350000,260000,1610000,1917,Svenska Mäklarhuset,455.6191137191087,Hagdalen
+2014-01-31,Harpsundsvägen 147,Hogdalen,GronHagsatra,3,69,null,Lägenhet,1954,[Högdalen],1700000,-25000,1675000,3311,Svensk Fastighetsförmedling,423.01669235796084,Hagdalen
+2014-01-30,Skebokvarnsvägen 251,Hogdalen,GronHagsatra,1,27,null,Lägenhet,1956,[Högdalen],1095000,165000,1260000,1546,Svensk Fastighetsförmedling,430.8331655376121,Hagdalen
+2014-01-30,Harpsundsvägen 139,Hogdalen,GronHagsatra,3,78.5,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1695000,455000,2150000,3853,Fastighetsbyrån,364.9578679468721,Hagdalen
+2014-01-30,Harpsundsvägen 39,Hogdalen,GronHagsatra,2,59,2,Lägenhet,1954,[Högdalen],1500000,240000,1740000,2675,Erik Olsson Fastighetsförmedling,167.15409492024767,Hagdalen
+2014-01-28,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,2,58,2,Lägenhet,1955,[Högdalen],1350000,260000,1610000,3452,Mäklarringen,350.5688734264556,Hagdalen
+2014-01-27,Harpsundsvägen 80B,Hogdalen,GronHagsatra,1.5,41,null,Lägenhet,2012,[Högdalen],1350000,450000,1800000,2905,Svensk Fastighetsförmedling,161.51973614195003,Hagdalen
+2014-01-20,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,1,31,null,Lägenhet,1955,[Högdalen],1095000,260000,1355000,2002,Svensk Fastighetsförmedling,350.5688734264556,Hagdalen
+2014-01-17,Trollesundsvägen 143,Hogdalen,GronHagsatra,1,36,null,Lägenhet,1955,[Högdalen],1150000,360000,1510000,1952,Notar,475.1772171617425,Hagdalen
+2014-01-16,Harpsundsvägen 55,Hogdalen,GronHagsatra,4,82,3,Lägenhet,1954,[Bandhagen],1995000,555000,2550000,3718,Mäklarhuset,168.33913296360106,Hagdalen
+2013-12-12,Harpsundsvägen 80A,Hogdalen,GronHagsatra,3,69,2,Lägenhet,2012,[Högdalen],1995000,135000,2130000,4548,Erik Olsson Fastighetsförmedling,141.36858673248545,Hagdalen
+2013-12-10,Harpsundsvägen 84A,Hogdalen,GronHagsatra,1.5,41,1,Lägenhet,2013,[Högdalen],1350000,220000,1570000,3079,Privatmäklaren,262.4577546993003,Hagdalen
+2013-12-06,Harpsundsvägen 123,Hogdalen,GronHagsatra,1,43.5,null,Lägenhet,1955,[Högdalen],1250000,300000,1550000,2116,Notar,313.1528018472198,Hagdalen
+2013-12-05,Harpsundsvägen 107,Hogdalen,GronHagsatra,3,69,2,Lägenhet,1954,[Högdalen],1725000,10000,1735000,3312,Svensk Fastighetsförmedling,234.62871927002445,Hagdalen
+2013-12-04,Harpsundsvägen 143,Hogdalen,GronHagsatra,3,69,3,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1695000,65000,1760000,3215,Fastighetsbyrån,399.158410553953,Hagdalen
+2013-11-30,Harpsundsvägen 41,Hogdalen,GronHagsatra,3,70,null,Lägenhet,1954,[Högdalen],1595000,210000,1805000,2760,Svensk Fastighetsförmedling,178.13531286159318,Hagdalen
+2013-11-29,Harpsundsvägen 80A,Hogdalen,GronHagsatra,3.5,82,3,Lägenhet,2012,[Högdalen],2175000,285000,2460000,4506,Erik Olsson Fastighetsförmedling,141.36858673248545,Hagdalen
+2013-11-26,Trollesundsvägen 161,Hogdalen,GronHagsatra,1,31,null,Lägenhet,1954,[Högdalen],1195000,205000,1400000,1564,Svensk Fastighetsförmedling,474.86581795724567,Hagdalen
+2013-11-25,Skebokvarnsvägen 300,Hogdalen,GronHagsatra,2,58,2,Lägenhet,1956,[Högdalen],1545000,145000,1690000,3198,Svensk Fastighetsförmedling,555.588463395325,Hagdalen
+2013-11-22,Skebokvarnsvägen 294,Hogdalen,GronHagsatra,3,68.5,1,Lägenhet,1958,[Högdalen],1695000,245000,1940000,3392,Svensk Fastighetsförmedling,524.5762811008915,Hagdalen
+2013-11-18,Ripsavägen 53,Hogdalen,GronHagsatra,5,121,null,Radhus,1957,[Högdalens Centrum],3595000,-95000,3500000,12000,HusmanHagberg,615.4284912228359,Hagdalen
+2013-11-15,Skebokvarnsvägen 261,Hogdalen,GronHagsatra,3,75,3,Lägenhet,1956,[Bandhagen],1550000,200000,1750000,4009,Länsförsäkringar Fastighetsförmedling,436.03273350534755,Hagdalen
+2013-11-14,Skebokvarnsvägen 123,Hogdalen,GronHagsatra,3,61,null,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1695000,-20000,1675000,3586,Fastighetsbyrån,510.993098992631,Hagdalen
+2013-11-13,Harpsundsvägen 107,Hogdalen,GronHagsatra,3,61.5,null,Lägenhet,1955,[Högdalen],1595000,305000,1900000,2936,Notar,234.62871927002445,Hagdalen
+2013-11-11,Harpsundsvägen 131,Hogdalen,GronHagsatra,3,79,1,Lägenhet,1955,[Högdalen],1930000,140000,2070000,3774,Svensk Fastighetsförmedling,329.8517796381774,Hagdalen
+2013-11-11,Harpsundsvägen 107,Hogdalen,GronHagsatra,2,37.5,null,Lägenhet,1954,[Högdalen],1195000,325000,1520000,1952,Svensk Fastighetsförmedling,234.62871927002445,Hagdalen
+2013-11-11,Harpsundsvägen 135,Hogdalen,GronHagsatra,1.5,45.5,null,Lägenhet,1954,[Högdalen],1195000,370000,1565000,2238,Svensk Fastighetsförmedling,352.4629761884139,Hagdalen
+2013-11-08,Skebokvarnsvägen 296,Hogdalen,GronHagsatra,1,37.5,null,Lägenhet,1956,[Högdalen],1195000,235000,1430000,2157,Notar,548.9050425634297,Hagdalen
+2013-11-08,Harpsundsvägen 93,Hogdalen,GronHagsatra,3.5,79,3,Lägenhet,1954,[Högdalen],1925000,0,1925000,3757,Länsförsäkringar Fastighetsförmedling,193.71560411478944,Hagdalen
+2013-11-06,Skebokvarnsvägen 285,Hogdalen,GronHagsatra,2,57,null,Lägenhet,1956,[Bandhagen-Högdalen],1575000,175000,1750000,2924,Entré rekommenderade mäklare AB,381.6589489570832,Hagdalen
+2013-11-01,Harpsundsvägen 57,Hogdalen,GronHagsatra,5,109,null,Lägenhet,1954,[Högdalen],2495000,265000,2760000,4298,Notar,168.9655551937704,Hagdalen
+2013-10-30,Skebokvarnsvägen 286,Hogdalen,GronHagsatra,2,58,null,Lägenhet,1956,[Högdalen],1375000,185000,1560000,3198,Svensk Fastighetsförmedling,554.9919753370011,Hagdalen
+2013-10-30,Harpsundsvägen 37,Hogdalen,GronHagsatra,2,57,null,Lägenhet,1954,[Högdalen],1300000,260000,1560000,2629,Bjurfors,155.462054315194,Hagdalen
+2013-10-15,Skebokvarnsvägen 261,Hogdalen,GronHagsatra,3,75,null,Lägenhet,1956,[Högdalen],1545000,475000,2020000,3922,Svensk Fastighetsförmedling,436.03273350534755,Hagdalen
+2013-10-15,Harpsundsvägen 111,Hogdalen,GronHagsatra,3,81,null,Lägenhet,1954,[Högdalen],1975000,505000,2480000,3653,Svensk Fastighetsförmedling,251.36046033045145,Hagdalen
+2013-10-10,Trollesundsvägen 145,Hogdalen,GronHagsatra,1,45,null,Lägenhet,1955,[Högdalen],1195000,310000,1505000,2138,Notar,483.5509180991691,Hagdalen
+2013-10-09,Önskehemsgatan 8,Hogdalen,GronHagsatra,2,58,6,Lägenhet,1956,[Högdalen],1300000,135000,1435000,3458,Hemmäklarna,396.92403130863744,Hagdalen
+2013-10-03,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,3,58.5,2,Lägenhet,1958,[Bandhagen],1475000,385000,1860000,3303,Svensk Fastighetsförmedling,511.5497017195484,Hagdalen
+2013-10-03,Harpsundsvägen 97,Hogdalen,GronHagsatra,1,44,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1250000,275000,1525000,2175,SkandiaMäklarna,218.3979151311642,Hagdalen
+2013-10-03,Harpsundsvägen 76,Hogdalen,GronHagsatra,3,71,null,Lägenhet,null,[Älvsjö/Farsta/Vantör],1450000,230000,1680000,4146,SkandiaMäklarna,74.94365344204594,Hagdalen
+2013-10-02,Trollesundsvägen 167,Hogdalen,GronHagsatra,1,36,null,Lägenhet,1955,[Högdalen],1095000,330000,1425000,1895,Notar,505.59468703116164,Hagdalen
+2013-09-26,Skebokvarnsvägen 267,Hogdalen,GronHagsatra,3,74.5,null,Lägenhet,1956,[Högdalen],1595000,305000,1900000,3790,Svensk Fastighetsförmedling,400.2971092060784,Hagdalen
+2013-09-26,Harpsundsvägen 91,Hogdalen,GronHagsatra,2,59,null,Lägenhet,1954,[Högdalen],1475000,255000,1730000,2839,Svensk Fastighetsförmedling,187.1215169440421,Hagdalen
+2013-09-24,Harpsundsvägen 82C,Hogdalen,GronHagsatra,1.5,41,2,Lägenhet,null,[Högdalen],1395000,190000,1585000,3079,Erik Olsson Fastighetsförmedling,206.31546085048333,Hagdalen
+2013-09-20,Skebokvarnsvägen 240,Hogdalen,GronHagsatra,4,82,null,Radhus,1958,[Älvsjö/Farsta/Vantör],2850000,110000,2960000,null,Fastighetsbyrån,562.3315623361439,Hagdalen
+2013-09-17,Harpsundsvägen 135,Hogdalen,GronHagsatra,1,44,null,Lägenhet,1955,[Högdalen],1195000,215000,1410000,2192,Notar,352.4629761884139,Hagdalen
+2013-09-14,Trollesundsvägen 155,Hogdalen,GronHagsatra,1,18,null,Lägenhet,1959,[Högdalen],850000,90000,940000,1105,Svensk Fastighetsförmedling,454.74682183203123,Hagdalen
+2013-09-06,Skebokvarnsvägen 251,Hogdalen,GronHagsatra,2,57.5,2,Lägenhet,1959,[Bandhagen],1495000,105000,1600000,3049,Mäklarhuset,430.8331655376121,Hagdalen
+2013-09-06,Skebokvarnsvägen 294,Hogdalen,GronHagsatra,1,26,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1050000,165000,1215000,1557,Fastighetsbyrån,524.5762811008915,Hagdalen
+2013-09-05,Harpsundsvägen 109,Hogdalen,GronHagsatra,2,64,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1550000,50000,1600000,2981,Fastighetsbyrån,247.6368227990744,Hagdalen
+2013-09-04,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,2,61,7,Lägenhet,2008,[Bandhagen],1710000,0,1710000,4325,Mäklarhuset,270.35771006779817,Hagdalen
+2013-09-04,Harpsundsvägen 161,Hogdalen,GronHagsatra,2,61.5,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1295000,305000,1600000,2936,Fastighetsbyrån,417.8218623708988,Hagdalen
+2013-08-30,Skebokvarnsvägen 251,Hogdalen,GronHagsatra,2,57.5,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1350000,265000,1615000,2997,Fastighetsbyrån,430.8331655376121,Hagdalen
+2013-08-29,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1090000,325000,1415000,2548,Svensk Fastighetsförmedling,137.55052732491203,Hagdalen
+2013-08-27,Trollesundsvägen 153,Hogdalen,GronHagsatra,4,81,3,Lägenhet,1953,[Högdalen],1895000,130000,2025000,3888,Svensk Fastighetsförmedling,480.63891667575695,Hagdalen
+2013-08-26,Harpsundsvägen 149,Hogdalen,GronHagsatra,2,58,null,Lägenhet,1958,[Högdalen],1395000,225000,1620000,2656,Svensk Fastighetsförmedling,434.1269230430989,Hagdalen
+2013-08-25,Bälingevägen 44,Hogdalen,GronHagsatra,4,137,null,Radhus,1957,[Högdalens Centrum],3450000,50000,3500000,null,HusmanHagberg,715.4053524000691,Hagdalen
+2013-08-22,Harpsundsvägen 65,Hogdalen,GronHagsatra,1,32,null,Lägenhet,1954,[Högdalen],1095000,320000,1415000,1262,Notar,111.31128596759025,Hagdalen
+2013-08-22,Harpsundsvägen 145,Hogdalen,GronHagsatra,2,61.5,null,Lägenhet,1955,[Högdalen],1395000,105000,1500000,2936,Notar,411.36440170583387,Hagdalen
+2013-08-21,Skebokvarnsvägen 306,Hogdalen,GronHagsatra,2,58,1,Lägenhet,1956,[Bandhagen],1350000,170000,1520000,3003,Mäklarhuset,88.29589520908158,Hagdalen
+2013-08-17,Trollesundsvägen 167,Hogdalen,GronHagsatra,2,47,null,Lägenhet,1955,[Högdalen],1175000,200000,1375000,2285,HusmanHagberg,505.59468703116164,Hagdalen
+2013-08-16,Harpsundsvägen 59,Hogdalen,GronHagsatra,3,67,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1495000,235000,1730000,2641,Fastighetsbyrån,157.46909782063233,Hagdalen
+2013-08-15,Trollesundsvägen 165,Hogdalen,GronHagsatra,2,61,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1550000,200000,1750000,2915,Fastighetsbyrån,499.8825575998231,Hagdalen
+2013-08-14,Harpsundsvägen 61,Hogdalen,GronHagsatra,3,70,1,Lägenhet,1954,[Högdalens Centrum],1750000,120000,1870000,2641,HusmanHagberg,138.59881165200042,Hagdalen
+2013-08-12,Skebokvarnsvägen 283,Hogdalen,GronHagsatra,4,82.5,null,Lägenhet,1956,[Högdalen],1650000,130000,1780000,4115,Svensk Fastighetsförmedling,377.9388199131388,Hagdalen
+2013-08-09,Harpsundsvägen 41,Hogdalen,GronHagsatra,3,70,null,Lägenhet,1958,[Högdalen],1838000,0,1838000,2760,SkandiaMäklarna,178.13531286159318,Hagdalen
+2013-07-26,Harpsundsvägen 65,Hogdalen,GronHagsatra,1,32,null,Lägenhet,1954,[Högdalen],995000,475000,1470000,1262,Notar,111.31128596759025,Hagdalen
+2013-07-26,Trollesundsvägen 137,Hogdalen,GronHagsatra,1,18,3,Lägenhet,1955,[Högdalen],795000,230000,1025000,1105,Svenska Mäklarhuset,447.88004231152183,Hagdalen
+2013-07-19,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,5,Lägenhet,2007,[Högdalen],1090000,230000,1320000,2388,Notar,137.55052732491203,Hagdalen
+2013-07-15,Ålbergavägen 32,Hogdalen,GronHagsatra,5,null,null,Radhus,null,[Örby],3495000,0,3495000,null,Södermäklarna,726.3488073267283,Hagdalen
+2013-07-08,Ålbergavägen 39,Hogdalen,GronHagsatra,4,null,null,Radhus,null,[Högdalen],2495000,125000,2620000,null,Södermäklarna,663.6923118664231,Hagdalen
+2013-06-20,Trollesundsvägen 110,Hogdalen,GronHagsatra,1,18,null,Lägenhet,1959,[Högdalen],795000,120000,915000,1105,Svensk Fastighetsförmedling,412.38196902462346,Hagdalen
+2013-06-19,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Älvsjö/Farsta/Vantör],1300000,100000,1400000,2388,Länsförsäkringar Fastighetsförmedling,137.55052732491203,Hagdalen
+2013-06-17,Harpsundsvägen 49,Hogdalen,GronHagsatra,4,83,null,Lägenhet,1958,[Högdalen],1795000,165000,1960000,3272,Svensk Fastighetsförmedling,172.6310092272846,Hagdalen
+2013-06-12,Trollesundsvägen 171,Hogdalen,GronHagsatra,1,37,null,Lägenhet,1955,[Högdalen],995000,465000,1460000,1883,Notar,519.1471793045221,Hagdalen
+2013-06-09,Trollesundsvägen 177,Hogdalen,GronHagsatra,3,78,null,Lägenhet,1955,[Högdalen],1550000,350000,1900000,3717,Notar,501.0288484155839,Hagdalen
+2013-06-05,Harpsundsvägen 76,Hogdalen,GronHagsatra,3,70,9,Lägenhet,1957,[Högdalen],1490000,110000,1600000,3427,Hemmäklarna,74.94365344204594,Hagdalen
+2013-06-02,Harpsundsvägen 87,Hogdalen,GronHagsatra,4,80,null,Lägenhet,1953,[Älvsjö/Farsta/Vantör],1795000,5000,1800000,3706,ERA,171.18281921318214,Hagdalen
+2013-05-30,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,2,50,6,Lägenhet,2007,[Högdalen],1300000,260000,1560000,3611,Notar,137.55052732491203,Hagdalen
+2013-05-24,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,2,58,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1275000,55000,1330000,3453,Länsförsäkringar Fastighetsförmedling,350.5688734264556,Hagdalen
+2013-05-24,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1150000,170000,1320000,2548,SkandiaMäklarna,137.55052732491203,Hagdalen
+2013-05-23,Harpsundsvägen 129,Hogdalen,GronHagsatra,1,35.5,null,Lägenhet,1954,[Högdalen],1095000,325000,1420000,1798,Svensk Fastighetsförmedling,338.2816610911739,Hagdalen
+2013-05-23,Skebokvarnsvägen 267,Hogdalen,GronHagsatra,3,74.5,3,Lägenhet,1956,[Högdalen],1490000,10000,1500000,3777,Hemmäklarna,400.2971092060784,Hagdalen
+2013-05-17,Skebokvarnsvägen 123,Hogdalen,GronHagsatra,3,61,null,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1395000,260000,1655000,3529,Fastighetsbyrån,510.993098992631,Hagdalen
+2013-05-16,Skebokvarnsvägen 119,Hogdalen,GronHagsatra,1.5,35,null,Lägenhet,1954,[Älvsjö/Farsta/Vantör],1100000,220000,1320000,2511,Fastighetsbyrån,522.8158927648634,Hagdalen
+2013-05-15,Skebokvarnsvägen 247,Hogdalen,GronHagsatra,1,37,null,Lägenhet,1956,[Högdalen],995000,405000,1400000,1976,Notar,447.1755214546591,Hagdalen
+2013-05-08,Järflottavägen 27,Hogdalen,GronHagsatra,5,96,null,Villa,null,[Örby],3300000,-100000,3200000,null,Erik Olsson Fastighetsförmedling,839.7441708486191,Hagdalen
+2013-05-08,Trollesundsvägen 23,Hogdalen,GronHagsatra,2,60.5,null,Lägenhet,1992,[Bandhagen],1200000,110000,1310000,4437,Hemmäklarna,148.13277695957592,Bandhagen
+2013-05-02,Skebokvarnsvägen 298,Hogdalen,GronHagsatra,2,58,1,Lägenhet,1956,[Bandhagen],1300000,100000,1400000,2973,Mäklarhuset,558.6312765853551,Hagdalen
+2013-04-26,Skebokvarnsvägen 253,Hogdalen,GronHagsatra,3,63.2,null,Lägenhet,1956,[Högdalen],1600000,-150000,1450000,3480,Svensk Fastighetsförmedling,430.17656617286013,Hagdalen
+2013-04-25,Skebokvarnsvägen 255,Hogdalen,GronHagsatra,2,42.3,null,Lägenhet,1956,[Högdalen],1300000,0,1300000,2366,Svensk Fastighetsförmedling,427.19827937517897,Hagdalen
+2013-04-12,Skebokvarnsvägen 261,Hogdalen,GronHagsatra,3,75,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1550000,160000,1710000,3637,Fastighetsbyrån,436.03273350534755,Hagdalen
+2013-04-12,Harpsundsvägen 145,Hogdalen,GronHagsatra,2,61.5,null,Lägenhet,1959,[Högdalen],1150000,315000,1465000,2936,Mäklarringen,411.36440170583387,Hagdalen
+2013-04-11,Skebokvarnsvägen 273,Hogdalen,GronHagsatra,2,57.5,null,Lägenhet,1959,[Högdalen],1195000,165000,1360000,2851,SkandiaMäklarna,412.81638540056275,Hagdalen
+2013-04-10,Trollesundsvägen 139,Hogdalen,GronHagsatra,2,60,null,Lägenhet,1955,[Högdalen],1350000,120000,1470000,2776,Notar,445.8971318794741,Hagdalen
+2013-04-03,Skebokvarnsvägen 321,Hogdalen,GronHagsatra,3,72,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1450000,60000,1510000,4205,Länsförsäkringar Fastighetsförmedling,350.5688734264556,Hagdalen
+2013-03-28,Skebokvarnsvägen 279,Hogdalen,GronHagsatra,3,75,null,Lägenhet,null,[Högdalen],1500000,0,1500000,3865,Din Fastighetsbyrå,409.61823130607735,Hagdalen
+2013-03-27,Harpsundsvägen 99,Hogdalen,GronHagsatra,4,80,null,Lägenhet,1955,[Högdalen],1595000,285000,1880000,3757,Notar,235.37225460453794,Hagdalen
+2013-03-26,Harpsundsvägen 103,Hogdalen,GronHagsatra,2,61.5,null,Lägenhet,1955,[Högdalen],1300000,210000,1510000,2936,Notar,213.6530932843199,Hagdalen
+2013-03-09,Skebokvarnsvägen 253,Hogdalen,GronHagsatra,3,74.5,2,Lägenhet,1955,[Bandhagen],1590000,-40000,1550000,3559,Mäklarhuset,430.17656617286013,Hagdalen
+2013-02-27,Trollesundsvägen 141,Hogdalen,GronHagsatra,1,36,2,Lägenhet,1955,[Högdalen],995000,535000,1530000,1895,Notar,455.6191137191087,Hagdalen
+2013-02-26,Trollesundsvägen 155,Hogdalen,GronHagsatra,4,78.5,1,Lägenhet,1958,[Högdalen],1900000,70000,1970000,3788,Svensk Fastighetsförmedling,454.74682183203123,Hagdalen
+2013-02-21,Trollesundsvägen 137,Hogdalen,GronHagsatra,2,60,null,Lägenhet,1955,[Högdalen],1190000,320000,1510000,2823,SkandiaMäklarna,447.88004231152183,Hagdalen
+2013-02-21,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,1,Lägenhet,2007,[Bandhagen],995000,-5000,990000,2548,Mäklarhuset,137.55052732491203,Hagdalen
+2013-02-20,Näshultavägen 16,Hogdalen,GronHagsatra,7,137,null,Villa,1947,[Älvsjö/Farsta/Vantör],4950000,0,4950000,null,Fastighetsbyrån,912.5033087064598,Hagdalen
+2013-02-19,Skebokvarnsvägen 264,Hogdalen,GronHagsatra,3,94,null,Radhus,1958,[Bandhagen],2950000,-175000,2775000,null,Bjurfors,558.6926004504702,Hagdalen
+2013-02-18,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,74,8,Lägenhet,null,[Högdalen],1500000,55000,1555000,3951,Hemmäklarna,383.6215506856878,Hagdalen
+2013-02-16,Skebokvarnsvägen 287,Hogdalen,GronHagsatra,2,57,3,Lägenhet,null,[Högdalen],1350000,245000,1595000,3041,Svenska Mäklarhuset,377.0199351958829,Hagdalen
+2013-02-02,Skebokvarnsvägen 282,Hogdalen,GronHagsatra,1,37.5,null,Lägenhet,1956,[Högdalen],1150000,160000,1310000,2115,Svensk Fastighetsförmedling,532.9836751801104,Hagdalen
+2013-01-30,Trollesundsvägen 104,Hogdalen,GronHagsatra,1.5,44.5,3,Lägenhet,1955,[Högdalen],1150000,230000,1380000,2160,Notar,399.5926281806864,Hagdalen
+2013-01-23,Harpsundsvägen 127,Hogdalen,GronHagsatra,2,59.5,null,Lägenhet,1958,[Högdalen],1395000,105000,1500000,2761,Svensk Fastighetsförmedling,336.75496073467315,Hagdalen
+2013-01-21,Skebokvarnsvägen 304,Hogdalen,GronHagsatra,3,69.5,null,Lägenhet,1956,[Högdalen],1495000,160000,1655000,3638,Notar,545.4365189909843,Hagdalen
+2013-01-16,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2006,[Älvsjö/Farsta/Vantör],1095000,80000,1175000,2548,Fastighetsbyrån,137.55052732491203,Hagdalen
+2013-01-12,Harpsundsvägen 76,Hogdalen,GronHagsatra,5,132,11,Lägenhet,1957,[Högdalen],2895000,1480000,4375000,5257,Bjurfors,74.94365344204594,Hagdalen
+2013-01-11,Skebokvarnsvägen 255,Hogdalen,GronHagsatra,3,74.5,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1250000,460000,1710000,3455,Fastighetsbyrån,427.19827937517897,Hagdalen
+2013-01-11,Skebokvarnsvägen 302,Hogdalen,GronHagsatra,2,38,null,Lägenhet,1956,[Högdalen],1190000,35000,1225000,2028,SkandiaMäklarna,557.3982304325579,Hagdalen
+2012-12-27,Skebokvarnsvägen 269,Hogdalen,GronHagsatra,3,74.5,1,Lägenhet,1956,[Högdalen],1550000,-50000,1500000,3750,Hemmäklarna,439.414669832862,Hagdalen
+2012-12-14,Skebokvarnsvägen 249,Hogdalen,GronHagsatra,1,37,null,Lägenhet,1956,[Högdalen],1190000,80000,1270000,2157,SkandiaMäklarna,436.3476308967162,Hagdalen
+2012-12-04,Harpsundsvägen 163,Hogdalen,GronHagsatra,2,66,2,Lägenhet,1955,[Högdalen],1395000,100000,1495000,3049,Notar,407.57431939520177,Hagdalen
+2012-11-22,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,6,Lägenhet,2007,[Högdalen],1075000,200000,1275000,2388,Svensk Fastighetsförmedling,137.55052732491203,Hagdalen
+2012-11-22,Harpsundsvägen 113,Hogdalen,GronHagsatra,3,78.5,null,Lägenhet,1959,[Högdalen],1650000,10000,1660000,3607,Mäklarringen,271.7582594279837,Hagdalen
+2012-11-22,Harpsundsvägen 76,Hogdalen,GronHagsatra,3,71,null,Lägenhet,1957,[Högdalen],1375000,25000,1400000,3455,Svensk Fastighetsförmedling,74.94365344204594,Hagdalen
+2012-11-15,Skebokvarnsvägen 292,Hogdalen,GronHagsatra,2,58,null,Lägenhet,1956,[Högdalen],1100000,120000,1220000,3067,Notar,542.4112756843452,Hagdalen
+2012-11-10,Harpsundsvägen 105,Hogdalen,GronHagsatra,1,31,null,Lägenhet,null,[Vantör],800000,175000,975000,1524,Erik Olsson Fastighetsförmedling,227.34383419578302,Hagdalen
+2012-11-09,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,4,121,10,Lägenhet,1956,[Högdalen],1995000,1005000,3000000,6177,Notar,383.6215506856878,Hagdalen
+2012-11-08,Trollesundsvägen 141,Hogdalen,GronHagsatra,2,61,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1345000,75000,1420000,2915,Fastighetsbyrån,455.6191137191087,Hagdalen
+2012-11-08,Skebokvarnsvägen 287,Hogdalen,GronHagsatra,2.5,57.5,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1275000,27000,1302000,3120,Länsförsäkringar Fastighetsförmedling,377.0199351958829,Hagdalen
+2012-10-27,Skebokvarnsvägen 245,Hogdalen,GronHagsatra,2,60,4,Lägenhet,1956,[Högdalen],1195000,130000,1325000,3276,Notar,469.163319528393,Hagdalen
+2012-10-25,Harpsundsvägen 27,Hogdalen,GronHagsatra,2,57,null,Lägenhet,1954,[Högdalen],1350000,-3000,1347000,2248,Notar,147.55610459633988,Hagdalen
+2012-10-25,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1100000,20000,1120000,2388,Bjurfors,137.55052732491203,Hagdalen
+2012-10-24,Skebokvarnsvägen 366,Hogdalen,GronHagsatra,1,46,10,Lägenhet,2008,[Högdalen],1195000,165000,1360000,3423,Svenska Mäklarhuset,270.35771006779817,Hagdalen
+2012-10-20,Trollesundsvägen 139,Hogdalen,GronHagsatra,1,31,0,Lägenhet,null,[Bandhagen],1150000,75000,1225000,1455,Mäklarhuset,445.8971318794741,Hagdalen
+2012-10-20,Harpsundsvägen 99,Hogdalen,GronHagsatra,4,80,3,Lägenhet,1959,[Högdalen],1690000,-40000,1650000,3757,Mäklarringen,235.37225460453794,Hagdalen
+2012-10-20,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,74,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1200000,250000,1450000,3811,Fastighetsbyrån,383.6215506856878,Hagdalen
+2012-10-20,Harpsundsvägen 117,Hogdalen,GronHagsatra,4,80,2,Lägenhet,1955,[Högdalen],1795000,80000,1875000,3757,Svenska Mäklarhuset,299.8150522353257,Hagdalen
+2012-10-11,Skebokvarnsvägen 281,Hogdalen,GronHagsatra,3,72,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1495000,0,1495000,3863,Fastighetsbyrån,383.6215506856878,Hagdalen
+2012-10-10,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,4,Lägenhet,2007,[Älvsjö/Farsta/Vantör],1050000,200000,1250000,2388,Länsförsäkringar Fastighetsförmedling,137.55052732491203,Hagdalen
+2012-10-09,Trollesundsvägen 181,Hogdalen,GronHagsatra,3.5,78,3,Lägenhet,1955,[Högdalen],1595000,50000,1645000,3662,Notar,484.63975947813884,Hagdalen
+2012-10-07,Harpsundsvägen 147,Hogdalen,GronHagsatra,2,61.5,null,Lägenhet,1955,[Högdalen],1325000,0,1325000,2787,Notar,423.01669235796084,Hagdalen
+2012-10-07,Skebokvarnsvägen 257,Hogdalen,GronHagsatra,3,74.5,3,Lägenhet,1956,[Högdalen],1500000,110000,1610000,3846,Notar,423.1884025900885,Hagdalen
+2012-10-05,Harpsundsvägen 79,Hogdalen,GronHagsatra,1,41.5,null,Lägenhet,1955,[Högdalen],1250000,-50000,1200000,2010,SkandiaMäklarna,143.523598779779,Hagdalen
+2012-10-01,Skebokvarnsvägen 376,Hogdalen,GronHagsatra,1,33,null,Lägenhet,2007,[Högdalen],1000000,60000,1060000,2388,Notar,137.55052732491203,Hagdalen
+2012-09-28,Harpsundsvägen 123,Hogdalen,GronHagsatra,2,59.5,null,Lägenhet,1955,[Älvsjö/Farsta/Vantör],1095000,285000,1380000,2778,Fastighetsbyrån,313.1528018472198,Hagdalen
+2012-09-26,Trollesundsvägen 157,Hogdalen,GronHagsatra,2,61,2,Lägenhet,1954,[Högdalen],1375000,-95000,1280000,2915,Svensk Fastighetsförmedling,458.77966848333523,Hagdalen
+2012-09-26,Skebokvarnsvägen 308,Hogdalen,GronHagsatra,1,26,null,Lägenhet,1956,[Högdalen],895000,245000,1140000,1606,SkandiaMäklarna,511.5497017195484,Hagdalen
+2012-09-24,Harpsundsvägen 135,Hogdalen,GronHagsatra,1,46.5,null,Lägenhet,1955,[Högdalen],1195000,115000,1310000,2333,SkandiaMäklarna,352.4629761884139,Hagdalen
+2012-09-21,Önskehemsgatan 10,Hogdalen,GronHagsatra,2,58,null,Lägenhet,1956,[Älvsjö/Farsta/Vantör],1350000,75000,1425000,3075,Fastighetsbyrån,398.280247926213,Hagdalen
+2012-09-15,Skebokvarnsvägen 262,Hogdalen,GronHagsatra,3,99,null,Radhus,1958,[Örby],2475000,-240000,2235000,13200,Svensk Fastighetsförmedling,558.7378206038009,Hagdalen
+2012-09-07,Skebokvarnsvägen 121,Hogdalen,GronHagsatra,1,27,null,Lägenhet,1954,[Bandhagen],900000,110000,1010000,1715,Mäklarhuset,534.9893593947323,Hagdalen
+2012-08-30,Harpsundsvägen 49,Hogdalen,GronHagsatra,4,83,null,Lägenhet,1958,[Bandhagen],1795000,-30000,1765000,3272,Svensk Fastighetsförmedling,172.6310092272846,Hagdalen

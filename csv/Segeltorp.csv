@@ -1,0 +1,369 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-21,Värnstigen 36,Segeltorp,RodNorsborg,2,36.5,1,Lägenhet,1995,[Segeltorp],1695000,215000,1910000,3050,Notar,800.7061446088264,Satra
+2016-06-16,Gärdsmygsvägen 28,Segeltorp,RodNorsborg,6,84,null,Radhus,1963,[Segeltorp],4650000,0,4650000,null,Fastighetsbyrån,1872.4290496815452,Fruangen
+2016-06-13,Juringe Åväg 2,Segeltorp,RodNorsborg,9,107,null,Villa,1966,[Segeltorp],5975000,-275000,5700000,null,Fastighetsbyrån,1278.8115894945558,Satra
+2016-06-12,Tranvägen 51,Segeltorp,RodNorsborg,5,106,null,Radhus,1960,[Segeltorp],4695000,155000,4850000,null,Fastighetsbyrån,2233.613879211373,Fruangen
+2016-06-10,Skansbergsvägen 77,Segeltorp,RodNorsborg,5,122,null,Radhus,2005,[Segeltorp],3495000,5000,3500000,6587,Fastighetsbyrån,734.6040722658757,Satra
+2016-06-07,Vaktstigen 5B,Segeltorp,RodNorsborg,3,69,2,Lägenhet,1999,[Segeltorp],2495000,135000,2630000,4858,HusmanHagberg,906.8599402828787,Satra
+2016-06-04,Värnvägen 54,Segeltorp,RodNorsborg,5,107,null,Radhus,1993,[Segeltorp],4575000,10000,4585000,null,Fastighetsbyrån,907.0798395244799,Satra
+2016-06-03,Visirvägen 17,Segeltorp,RodNorsborg,4,74,2,Lägenhet,2007,[Segeltorp],2790000,310000,3100000,4646,Fastighetsbyrån,857.817405037684,Satra
+2016-06-03,Skyttelvägen 10,Segeltorp,RodNorsborg,4,80,null,Villa,1945,[Segeltorp],4950000,0,4950000,null,Notar,920.6805105035529,Satra
+2016-06-02,Värnvägen 21,Segeltorp,RodNorsborg,2,58.5,3,Lägenhet,1994,[Segeltorp],1650000,450000,2100000,4616,SkandiaMäklarna,874.1021407802671,Satra
+2016-05-31,Stigfinnarvägen 36,Segeltorp,RodNorsborg,5,107.4,null,Lägenhet,null,[Segeltorp],3475000,0,3475000,6905,BOSTHLM,781.5586533228568,Skarholmen
+2016-05-31,Jacoblundsvägen 13,Segeltorp,RodNorsborg,8,129,null,Villa,1948,[Segeltorp],6400000,-700000,5700000,null,Fastighetsbyrån,1164.3359898845956,Fruangen
+2016-05-27,Värnstigen 30,Segeltorp,RodNorsborg,4,86,null,Lägenhet,1995,[Segeltorp],2495000,175000,2670000,6205,Länsförsäkringar Fastighetsförmedling,775.9285538644823,Satra
+2016-05-27,Visirvägen 6,Segeltorp,RodNorsborg,2,51,3,Lägenhet,2013,[Segeltorp],1750000,770000,2520000,3052,Hemverket,789.9448644999577,Satra
+2016-05-27,Skördevägen 9,Segeltorp,RodNorsborg,5,108,null,Villa,1971,[Segeltorp],5975000,1035000,7010000,null,SkandiaMäklarna,1355.1492630424927,Satra
+2016-05-27,Visirvägen 19,Segeltorp,RodNorsborg,3,59,1,Lägenhet,2007,[Segeltorp],2490000,430000,2920000,3956,Fastighetsbyrån,857.817405037684,Satra
+2016-05-26,Slåttervägen 14E,Segeltorp,RodNorsborg,2.5,57,null,Lägenhet,1998,[Segeltorp],1950000,5000,1955000,4284,SkandiaMäklarna,1097.6046392603596,Satra
+2016-05-26,Värnstigen 34,Segeltorp,RodNorsborg,2,58.5,2,Lägenhet,1994,[Segeltorp],1695000,0,1695000,4509,SkandiaMäklarna,788.9656480242155,Satra
+2016-05-25,Visirvägen 34,Segeltorp,RodNorsborg,2,49,1,Lägenhet,2006,[Segeltorp],2095000,225000,2320000,3091,Mäklarhuset,797.6430580268544,Satra
+2016-05-21,Hökvägen 8,Segeltorp,RodNorsborg,7,123,null,Villa,1972,[Segeltorp],5975000,1075000,7050000,null,Fastighetsbyrån,1851.5260295113155,Fruangen
+2016-05-20,Skansbergsvägen 31B,Segeltorp,RodNorsborg,5,72,null,Villa,1940,[Segeltorp],4895000,1105000,6000000,null,Svensk Fastighetsförmedling,798.2604862555579,Satra
+2016-05-20,Gökvägen 7,Segeltorp,RodNorsborg,9,113,null,Villa,1946,[Segeltorp],5495000,205000,5700000,null,SkandiaMäklarna,2072.495594661264,Fruangen
+2016-05-19,Segeltorpsvägen 144,Segeltorp,RodNorsborg,5,109,null,Villa,1974,[Segeltorp],4095000,215000,4310000,null,Svensk Fastighetsförmedling,1029.352475957718,Fruangen
+2016-05-19,Dalvägen 46,Segeltorp,RodNorsborg,6,115,null,Radhus,1967,[Segeltorp],4850000,800000,5650000,null,Fastighetsbyrån,1199.3741779045758,Fruangen
+2016-05-05,Palissadvägen 14,Segeltorp,RodNorsborg,3,79,2,Lägenhet,2012,[Segeltorp],3175000,-155000,3020000,4904,Fastighetsbyrån,579.8225041459406,Satra
+2016-05-03,Värnstigen 36,Segeltorp,RodNorsborg,2,36,2,Lägenhet,1994,null,1650000,300000,1950000,3049,BoLiving,800.7061446088264,Satra
+2016-04-29,Gamla Södertäljevägen 200A,Segeltorp,RodNorsborg,6,145,null,Parhus,2013,[Segeltorp],5995000,685000,6680000,null,Erik Olsson Fastighetsförmedling,934.3403109585774,Skarholmen
+2016-04-29,Lövdungevägen 8,Segeltorp,RodNorsborg,5,121,null,Parhus,1983,[Segeltorp],3995000,1065000,5060000,null,Fastighetsbyrån,1271.9440915200407,Fruangen
+2016-04-29,Visirvägen 9,Segeltorp,RodNorsborg,4,90,4,Lägenhet,2008,[Segeltorp],3250000,-175000,3075000,5227,Länsförsäkringar Fastighetsförmedling,852.938905323245,Satra
+2016-04-28,Slåttervägen 35A,Segeltorp,RodNorsborg,6,244,null,Villa,2012,[Segeltorp],7995000,1905000,9900000,null,Erik Olsson Fastighetsförmedling,1190.3482166872486,Satra
+2016-04-28,Domherrevägen 6,Segeltorp,RodNorsborg,6,125,null,Villa,1962,[Segeltorp],4995000,1505000,6500000,null,Länsförsäkringar Fastighetsförmedling,2327.632718121654,Fruangen
+2016-04-28,Visirvägen 10,Segeltorp,RodNorsborg,4,96,0,Lägenhet,2013,[Segeltorp],3150000,550000,3700000,5344,Fastighetsbyrån,733.5520028229207,Satra
+2016-04-28,Gamla Södertäljevägen 136A,Segeltorp,RodNorsborg,3,80,1,Lägenhet,2012,[Segeltorp],3150000,120000,3270000,4519,Svensk Fastighetsförmedling,1312.8785397441493,Satra
+2016-04-26,Värnstigen 5,Segeltorp,RodNorsborg,3,70,null,Lägenhet,1995,[Segeltorp],1995000,255000,2250000,5447,Notar,845.4848863400338,Satra
+2016-04-26,Restavägen 44,Segeltorp,RodNorsborg,9,201,null,Villa,1965,[Segeltorp],6600000,0,6600000,null,Notar,2341.9844391025113,Fruangen
+2016-04-22,Gamla Södertäljevägen 212E,Segeltorp,RodNorsborg,2,33.5,null,Lägenhet,2011,[Segeltorp],1695000,15000,1710000,2275,Jan Stigen AB Fastighetskonsult,842.8418227652112,Skarholmen
+2016-04-22,Gamla Södertäljevägen 134A,Segeltorp,RodNorsborg,3,79,1,Lägenhet,2012,[Segeltorp],3600000,-300000,3300000,4516,Fastighetsbyrån,1255.3697933744816,Satra
+2016-04-19,Slåttervägen 8D,Segeltorp,RodNorsborg,2,47,null,Lägenhet,1999,[Segeltorp],1695000,575000,2270000,3343,Svensk Fastighetsförmedling,1211.8524320743586,Satra
+2016-04-13,Gamla Södertäljevägen 184D,Segeltorp,RodNorsborg,4,114,null,Kedjehus,1998,[Smista],3995000,1055000,5050000,null,SkandiaMäklarna,1055.972354832464,Satra
+2016-04-12,Släggvägen 8,Segeltorp,RodNorsborg,5,126,null,Villa,1938,[Segeltorp],5800000,350000,6150000,null,BoLiving,1055.8595081824749,Satra
+2016-04-09,Värnstigen 38,Segeltorp,RodNorsborg,2,44,3,Lägenhet,null,[Segeltorp],1595000,475000,2070000,3567,Svensk Fastighetsförmedling,871.564823352199,Satra
+2016-04-09,Värnstigen 11,Segeltorp,RodNorsborg,2,58.5,3,Lägenhet,1994,[Segeltorp],1375000,455000,1830000,5660,Fastighetsbyrån,809.4084191958376,Satra
+2016-03-31,Hagvägen 81,Segeltorp,RodNorsborg,5,132,null,Villa,2010,[Segeltorp],6650000,0,6650000,null,Fastighetsbyrån,1315.8920300187692,Skarholmen
+2016-03-29,Gårdsvägen 20B,Segeltorp,RodNorsborg,7,251,null,Villa,1989,[Segeltorp],7450000,300000,7750000,null,Notar,1248.687717409292,Satra
+2016-03-24,Slåttervägen 8J,Segeltorp,RodNorsborg,5,95,null,Radhus,null,[Segeltorp],3195000,560000,3755000,6255,Svensk Fastighetsförmedling,1214.1306454937621,Satra
+2016-03-24,Stigfinnarvägen 20,Segeltorp,RodNorsborg,5,107.4,null,Radhus,1998,[Segeltorp],3275000,325000,3600000,6905,Fastighetsbyrån,762.1251876825435,Skarholmen
+2016-03-23,Patron Bergs väg 1C,Segeltorp,RodNorsborg,6,158,null,Parhus,2006,[Segeltorp],6250000,1250000,7500000,null,Erik Olsson Fastighetsförmedling,1121.714916977271,Satra
+2016-03-22,Brantstigen 23,Segeltorp,RodNorsborg,4,119,null,Radhus,1963,[Segeltorp],4795000,1005000,5800000,null,HusmanHagberg,833.9992649725065,Fruangen
+2016-03-19,Visirvägen 9,Segeltorp,RodNorsborg,4,90,4,Lägenhet,2008,[Segeltorp],3395000,5000,3400000,5227,Fastighetsbyrån,852.938905323245,Satra
+2016-03-18,Värnstigen 30,Segeltorp,RodNorsborg,2,36.5,2,Lägenhet,1995,[Segeltorp],1650000,450000,2100000,3050,Fastighetsbyrån,775.9285538644823,Satra
+2016-03-18,Lövkärrsvägen 3,Segeltorp,RodNorsborg,6,138,null,Kedjehus,1979,[Herrängen],5350000,1150000,6500000,null,SkandiaMäklarna,1229.1041412551913,Fruangen
+2016-03-17,Järpstigen 1,Segeltorp,RodNorsborg,6,174,null,Villa,1961,[Snättringe],4495000,1305000,5800000,null,SkandiaMäklarna,2268.4351645635334,Fruangen
+2016-03-17,Stigfinnarvägen 33,Segeltorp,RodNorsborg,3,65,1,Lägenhet,1997,[Segeltorp],2250000,850000,3100000,5187,Fastighetsbyrån,932.3423250306016,Skarholmen
+2016-03-12,Jakobslundsvägen 12,Segeltorp,RodNorsborg,6,103,null,Radhus,1964,[Segeltorp],4695000,1355000,6050000,null,Fastighetsbyrån,1115.1492376327838,Fruangen
+2016-03-01,Visirvägen 9,Segeltorp,RodNorsborg,4,90,4,Lägenhet,2007,[Segeltorp],3450000,70000,3520000,5227,Carl Martin Fastighetsmäkleri,852.938905323245,Satra
+2016-03-01,Brinkstigen 4B,Segeltorp,RodNorsborg,6,180,null,Villa,2011,[Segeltorp],6995000,865000,7860000,null,Svensk Fastighetsförmedling,1393.5515517947058,Satra
+2016-02-25,Hasselstigen 22,Segeltorp,RodNorsborg,5,107,null,Radhus,1976,[Segeltorp],3995000,815000,4810000,0,Bjurfors,995.2260696875334,Fruangen
+2016-02-24,Stigmansvägen 10B,Segeltorp,RodNorsborg,3,68,2,Lägenhet,2005,[Segeltorp],2450000,430000,2880000,4115,Fastighetsbyrån,629.8350934068201,Satra
+2016-02-19,Visirvägen 17,Segeltorp,RodNorsborg,3,59,2,Lägenhet,2008,[Segeltorp],2595000,255000,2850000,3956,Mäklarhuset,857.817405037684,Satra
+2016-02-19,Värnstigen 34,Segeltorp,RodNorsborg,2,36.5,3,Lägenhet,1995,[Segeltorp],1650000,150000,1800000,3050,Länsförsäkringar Fastighetsförmedling,788.9656480242155,Satra
+2016-02-19,Prästkragstigen 3,Segeltorp,RodNorsborg,6,121,null,Villa,1946,[Älvsjö],6795000,335000,7130000,null,Fastighetsbyrån,1597.4323644519761,Fruangen
+2016-02-17,Palissadvägen 12,Segeltorp,RodNorsborg,3,79,null,Lägenhet,2013,[Segeltorp],2850000,300000,3150000,4904,Länsförsäkringar Fastighetsförmedling,598.0258120419818,Satra
+2016-02-16,Stigmansvägen 10B,Segeltorp,RodNorsborg,2,45,2,Lägenhet,2005,[Segeltorp],1550000,770000,2320000,2914,Erik Olsson Fastighetsförmedling,629.8350934068201,Satra
+2016-02-12,Malmvägen 16,Segeltorp,RodNorsborg,5,110,null,Radhus,1975,[Segeltorp],3995000,705000,4700000,null,HusmanHagberg,937.6979517117651,Fruangen
+2016-02-05,Gamla Kyrkvägen 34,Segeltorp,RodNorsborg,6,135,null,Radhus,1979,[Segeltorp],4675000,1445000,6120000,null,Fastighetsbyrån,1333.57334707368,Fruangen
+2016-02-02,Värnstigen 30,Segeltorp,RodNorsborg,3,70,null,Lägenhet,1995,[Segeltorp],1850000,370000,2220000,5284,Magnusson Mäkleri,775.9285538644823,Satra
+2016-01-24,Stigmansvägen 6A,Segeltorp,RodNorsborg,4,88,null,Radhus,2005,[Segeltorp],2795000,385000,3180000,5620,Svensk Fastighetsförmedling,624.1935258227581,Satra
+2016-01-21,Orrvägen 1C,Segeltorp,RodNorsborg,2,64.7,0,Lägenhet,1962,[Segeltorp],1995000,305000,2300000,2600,Svensk Fastighetsförmedling,1753.0470587262498,Fruangen
+2016-01-21,Slåttervägen 35B,Segeltorp,RodNorsborg,5,119,null,Villa,1937,[Segeltorp],6995000,605000,7600000,null,MOHV,1164.961290546855,Satra
+2016-01-14,Palissadvägen 14,Segeltorp,RodNorsborg,4,104,3,Lägenhet,2013,[Segeltorp],2995000,785000,3780000,6006,Länsförsäkringar Fastighetsförmedling,579.8225041459406,Satra
+2016-01-10,Gamla Södertäljevägen 140,Segeltorp,RodNorsborg,8,126,null,Villa,1930,[Segeltorp],3495000,3480000,6975000,null,Fastighetsbyrån,1260.1289065845324,Satra
+2016-01-07,Palissadvägen 14,Segeltorp,RodNorsborg,2,65,0,Lägenhet,2012,[Segeltorp],1995000,505000,2500000,4182,Fastighetsbyrån,579.8225041459406,Satra
+2015-12-19,Budkavlevägen 1,Segeltorp,RodNorsborg,2,58,2,Lägenhet,1994,[Segeltorp],1495000,440000,1935000,5660,ERA,844.2949480462964,Satra
+2015-12-17,Malmvägen 69,Segeltorp,RodNorsborg,5,110,null,Villa,1977,[Segeltorp],null,NaN,4680000,null,BoLiving,787.2054746918238,Fruangen
+2015-12-11,Borgbacken 6,Segeltorp,RodNorsborg,2,58.5,1,Lägenhet,1997,[Segeltorp],1995000,225000,2220000,4415,Fastighetsbyrån,804.694355652344,Satra
+2015-12-05,Palissadvägen 14,Segeltorp,RodNorsborg,3,79,1,Lägenhet,2012,[Segeltorp],2795000,355000,3150000,4904,Fastighetsbyrån,579.8225041459406,Satra
+2015-12-04,Gamla Kyrkvägen 15,Segeltorp,RodNorsborg,6,115,null,Radhus,1967,[Segeltorp],4490000,1235000,5725000,null,Fastighetsbyrån,1263.4990373932237,Fruangen
+2015-12-04,Värnstigen 3,Segeltorp,RodNorsborg,2,44,3,Lägenhet,1995,[Segeltorp],1495000,215000,1710000,3655,Svensk Fastighetsförmedling,858.2170477621046,Satra
+2015-12-03,Visirvägen 21,Segeltorp,RodNorsborg,3,59,2,Lägenhet,2008,[Segeltorp],2250000,370000,2620000,3956,Fastighetsbyrån,860.2568445053664,Satra
+2015-11-21,Segeltorpsvägen 98,Segeltorp,RodNorsborg,5,140,null,Radhus,1973,[Segeltorp],4095000,255000,4350000,null,Svensk Fastighetsförmedling,1048.3320339909508,Fruangen
+2015-11-20,Visirvägen 10,Segeltorp,RodNorsborg,3,78,2.5,Lägenhet,2013,[Smista],2795000,530000,3325000,4524,SkandiaMäklarna,733.5520028229207,Satra
+2015-11-19,Visirvägen 11,Segeltorp,RodNorsborg,2,56,1,Lägenhet,2007,[Segeltorp],2050000,360000,2410000,3666,Fastighetsbyrån,864.8457861754573,Satra
+2015-11-10,Hasselstigen 96,Segeltorp,RodNorsborg,4,142,null,Radhus,1975,[Segeltorp],4195000,325000,4520000,null,Svensk Fastighetsförmedling,884.9583302767039,Fruangen
+2015-11-07,Värnstigen 16,Segeltorp,RodNorsborg,3,70,1,Lägenhet,1995,[Segeltorp],2430000,-230000,2200000,5344,Länsförsäkringar Fastighetsförmedling,783.353198732216,Satra
+2015-11-05,Visirvägen 9,Segeltorp,RodNorsborg,2,56,3,Lägenhet,2008,[Segeltorp],2150000,350000,2500000,3666,Notar,852.938905323245,Satra
+2015-11-05,Väpnarevägen 67,Segeltorp,RodNorsborg,4,109,null,Lägenhet,1996,[Segeltorp],3495000,455000,3950000,5237,Svensk Fastighetsförmedling,968.4403593091913,Satra
+2015-11-02,Skansbergsvägen 44F,Segeltorp,RodNorsborg,4,89,null,Radhus,2003,[Segeltorp],2795000,205000,3000000,4931,Fastighetsbyrån,765.5515533887174,Satra
+2015-10-19,Fållvägen 6,Segeltorp,RodNorsborg,6,151,null,Villa,1943,[Segeltorp],6850000,775000,7625000,null,Svensk Fastighetsförmedling,1425.6359902703414,Satra
+2015-10-15,Dalvägen 57,Segeltorp,RodNorsborg,7,126,null,Radhus,1965,[Segeltorp],4250000,1475000,5725000,null,Svensk Fastighetsförmedling,1013.6184327260382,Fruangen
+2015-10-15,Malmvägen 34,Segeltorp,RodNorsborg,5,110,null,Radhus,1975,[Segeltorp],4200000,700000,4900000,null,Fastighetsbyrån,914.8453310280934,Fruangen
+2015-10-10,Värnstigen 38,Segeltorp,RodNorsborg,2,59,1,Lägenhet,1995,[Segeltorp],1695000,5000,1700000,4509,Svensk Fastighetsförmedling,871.564823352199,Satra
+2015-10-09,Värnvägen 23,Segeltorp,RodNorsborg,2,58.5,1,Lägenhet,1994,[Smista],1950000,110000,2060000,4616,SkandiaMäklarna,863.7712248195475,Satra
+2015-10-09,Stigfinnarvägen 6,Segeltorp,RodNorsborg,5,102.9,2,Lägenhet,1997,[Segeltorp],2595000,925000,3520000,6605,Fastighetsbyrån,830.6483291914811,Skarholmen
+2015-10-08,Visirvägen 9,Segeltorp,RodNorsborg,3,84,3,Lägenhet,2008,[Segeltorp],2695000,505000,3200000,4864,HusmanHagberg,852.938905323245,Satra
+2015-10-05,Gamla Södertäljevägen 163D,Segeltorp,RodNorsborg,2,50,2,Lägenhet,1999,[Segeltorp],1695000,20000,1715000,3569,Notar,1095.7607671070555,Satra
+2015-10-01,Lövsångarvägen 26,Segeltorp,RodNorsborg,5,171,null,Villa,2007,[Segeltorp],5995000,2105000,8100000,null,Fastighetsbyrån,1673.400377898449,Fruangen
+2015-09-30,Visirvägen 8,Segeltorp,RodNorsborg,4,96,null,Lägenhet,2013,[Segeltorp],3250000,0,3250000,5344,Länsförsäkringar Fastighetsförmedling,717.2569601328903,Satra
+2015-09-25,Visirvägen 9,Segeltorp,RodNorsborg,4,90,4,Lägenhet,2008,[Segeltorp],2895000,605000,3500000,5227,Fastighetsbyrån,852.938905323245,Satra
+2015-09-24,Hasselstigen 10,Segeltorp,RodNorsborg,5,107,null,Radhus,1976,[Herrängen],4195000,505000,4700000,null,MäklarMäster,921.961174193355,Fruangen
+2015-09-24,Skansbergsvägen 44D,Segeltorp,RodNorsborg,4,89,null,Lägenhet,2003,[Segeltorp],1995000,935000,2930000,4931,Notar,703.6688175363508,Satra
+2015-09-23,Brevbärarbacken 27,Segeltorp,RodNorsborg,6,140,null,Villa,1971,[Älvsjö],7995000,-95000,7900000,null,Erik Olsson Fastighetsförmedling,1686.0499686441026,Fruangen
+2015-09-17,Visirvägen 7,Segeltorp,RodNorsborg,2,56,2,Lägenhet,2007,[Segeltorp],1995000,445000,2440000,3666,Fastighetsbyrån,870.4577263876143,Satra
+2015-09-17,Visirvägen 10,Segeltorp,RodNorsborg,4,96,2,Lägenhet,2013,[Smista],3250000,110000,3360000,5344,SkandiaMäklarna,733.5520028229207,Satra
+2015-09-07,Värnstigen 1,Segeltorp,RodNorsborg,2,36.5,2,Lägenhet,1993,[Segeltorp],1595000,155000,1750000,3160,Länsförsäkringar Fastighetsförmedling,874.0024555236904,Satra
+2015-09-04,Klintvägen 7,Segeltorp,RodNorsborg,2,62,3,Lägenhet,null,[Segeltorp],1995000,205000,2200000,3594,Fastighetsbyrån,1306.314767060395,Fruangen
+2015-08-31,Värnvägen 23,Segeltorp,RodNorsborg,2,58.5,2,Lägenhet,1995,[Segeltorp],1695000,155000,1850000,4616,Länsförsäkringar Fastighetsförmedling,863.7712248195475,Satra
+2015-08-30,Visirvägen 8,Segeltorp,RodNorsborg,4,96,3,Lägenhet,2012,[Segeltorp],2925000,695000,3620000,5344,Hemmäklarna,717.2569601328903,Satra
+2015-08-29,Verkstadsvägen 13,Segeltorp,RodNorsborg,6,129,null,Villa,1970,[Segeltorp],5995000,720000,6715000,null,Erik Olsson Fastighetsförmedling,998.4479368714,Satra
+2015-08-28,Skördevägen 45,Segeltorp,RodNorsborg,5,134,null,Parhus,1991,[Segeltorp],4995000,425000,5420000,null,Svensk Fastighetsförmedling,1679.8773819154608,Satra
+2015-08-28,Stigfinnarvägen 18,Segeltorp,RodNorsborg,5,107.4,null,Radhus,1997,[Segeltorp],2900000,485000,3385000,6905,Jan Stigen AB Fastighetskonsult,752.7595016706676,Skarholmen
+2015-08-26,Stigfinnarvägen 43,Segeltorp,RodNorsborg,2,54,1,Lägenhet,1997,[Smista],1725000,425000,2150000,4586,SkandiaMäklarna,881.8040016914988,Skarholmen
+2015-08-21,Tallåsstigen 6,Segeltorp,RodNorsborg,8,190,null,Villa,1970,[Segeltorp],5200000,940000,6140000,null,Svensk Fastighetsförmedling,889.3746690900566,Fruangen
+2015-08-20,Borgbacken 6,Segeltorp,RodNorsborg,2,58.5,3,Lägenhet,1996,[Segeltorp],1750000,255000,2005000,4415,Länsförsäkringar Fastighetsförmedling,804.694355652344,Satra
+2015-08-20,Gamla Södertäljevägen 136A,Segeltorp,RodNorsborg,4,110,3,Lägenhet,2012,[Segeltorp],3650000,180000,3830000,5957,Fastighetsbyrån,1312.8785397441493,Satra
+2015-08-06,Värnstigen 9,Segeltorp,RodNorsborg,2,58.5,2,Lägenhet,1994,[Segeltorp],1295000,505000,1800000,5660,Fastighetsbyrån,805.0479751193984,Satra
+2015-08-06,Palissadvägen 14,Segeltorp,RodNorsborg,2,65,0,Lägenhet,2012,[Segeltorp],1795000,505000,2300000,4182,Fastighetsbyrån,579.8225041459406,Satra
+2015-07-20,Tjädervägen 2,Segeltorp,RodNorsborg,7,190,null,Villa,1986,[Segeltorp],5995000,1030000,7025000,null,Notar,2072.351981164913,Fruangen
+2015-06-27,Gamla Kyrkvägen 18,Segeltorp,RodNorsborg,4,125,null,Villa,1978,[Segeltorp],4900000,400000,5300000,null,Svensk Fastighetsförmedling,1359.5289073618621,Fruangen
+2015-06-18,Klintvägen 7,Segeltorp,RodNorsborg,3,72,1,Lägenhet,1982,[Segeltorp],2175000,575000,2750000,4107,SthlmFast,1306.314767060395,Fruangen
+2015-06-15,Stigfinnarvägen 55,Segeltorp,RodNorsborg,3,65,2,Lägenhet,1997,[Segeltorp],1775000,0,1775000,4993,Mäklarringen,914.8127334797107,Skarholmen
+2015-06-12,Hökvägen 3,Segeltorp,RodNorsborg,5,156,null,Villa,1982,[Segeltorp],4925000,775000,5700000,null,Mäklarringen,1847.2941912311176,Fruangen
+2015-06-11,Budkavlevägen 5,Segeltorp,RodNorsborg,2,36.5,3,Lägenhet,1994,[Segeltorp],1395000,235000,1630000,3825,Fastighetsbyrån,815.9085985334968,Satra
+2015-06-08,Skansbergsvägen 31A,Segeltorp,RodNorsborg,7,189,null,Villa,2008,[Segeltorp],4995000,805000,5800000,null,Fastighetsbyrån,777.1615883262272,Satra
+2015-06-05,Stigfinnarvägen 33,Segeltorp,RodNorsborg,3,65,1,Lägenhet,1997,[Segeltorp],1995000,345000,2340000,5187,Hemverket,932.3423250306016,Skarholmen
+2015-06-05,Orrvägen 2K,Segeltorp,RodNorsborg,3,80,2,Lägenhet,1962,[Segeltorp],2750000,350000,3100000,3203,Fastighetsbyrån,1753.1028525545807,Fruangen
+2015-06-05,Väpnarevägen 32,Segeltorp,RodNorsborg,7,160,null,Villa,null,[Segeltorp],5700000,775000,6475000,null,Södermäklarna,919.3061306512988,Satra
+2015-06-01,Stigmansvägen 4C,Segeltorp,RodNorsborg,4,88,null,Lägenhet,2005,[Segeltorp],2790000,580000,3370000,5620,Länsförsäkringar Fastighetsförmedling,633.0071726132551,Satra
+2015-05-31,Juringe Åväg 21,Segeltorp,RodNorsborg,5,149,null,Villa,1966,[Segeltorp],5500000,650000,6150000,null,HusmanHagberg,1593.4058186314091,Satra
+2015-05-28,Borgbacken 6,Segeltorp,RodNorsborg,2,58.5,1,Lägenhet,1997,[Segeltorp],1500000,300000,1800000,4415,Fastighetsbyrån,804.694355652344,Satra
+2015-05-25,Blombacken 4A,Segeltorp,RodNorsborg,null,0,null,Tomt/Mark,null,[Segeltorp],2000000,1270000,3270000,null,Notar,953.434378938591,Skarholmen
+2015-05-22,Hagvägen 29A,Segeltorp,RodNorsborg,4,110,null,Villa,1983,[Segeltorp],4195000,1255000,5450000,null,Svensk Fastighetsförmedling,1514.0883478169292,Satra
+2015-05-19,Budkavlevägen 3,Segeltorp,RodNorsborg,2,36.5,null,Lägenhet,1994,[Segeltorp],1250000,365000,1615000,3825,Länsförsäkringar Fastighetsförmedling,844.1606053474287,Satra
+2015-05-13,Vaktstigen 13,Segeltorp,RodNorsborg,2,37,null,Lägenhet,1996,[Segeltorp],1395000,305000,1700000,3263,Svensk Fastighetsförmedling,840.6012229221359,Satra
+2015-05-12,Brevbärarbacken 27,Segeltorp,RodNorsborg,6,140,null,Villa,1971,[Älvsjö],7975000,225000,8200000,null,Svensk Fastighetsförmedling,1686.0499686441026,Fruangen
+2015-05-12,Slåttervägen 21,Segeltorp,RodNorsborg,7,152,null,Villa,1965,[Segeltorp],4495000,855000,5350000,null,ERA,1199.4124878926123,Satra
+2015-05-12,Skansbergsvägen 44A,Segeltorp,RodNorsborg,3,67.5,null,Lägenhet,2003,[Segeltorp],1995000,0,1995000,4181,Länsförsäkringar Fastighetsförmedling,724.6782994480039,Satra
+2015-05-11,Lövsångarvägen 29,Segeltorp,RodNorsborg,9,184,null,Villa,1985,[Segeltorp],5495000,205000,5700000,null,Erik Olsson Fastighetsförmedling,1918.0823818998197,Fruangen
+2015-05-09,Ripvägen 10,Segeltorp,RodNorsborg,6,172,null,Villa,1963,[Segeltorp],4575000,1450000,6025000,null,Fastighetsbyrån,2229.5405168598986,Fruangen
+2015-05-07,Palissadvägen 10,Segeltorp,RodNorsborg,2,55,null,Lägenhet,2012,[Smista],1995000,5000,2000000,3801,SkandiaMäklarna,586.371690905053,Satra
+2015-05-06,Väpnarevägen 32B,Segeltorp,RodNorsborg,7,null,null,Villa,null,[Segeltorp],7050000,-4530000,2520000,null,Södermäklarna,898.7678187531548,Satra
+2015-05-06,Gamla Södertäljevägen 163B,Segeltorp,RodNorsborg,2,50,1,Lägenhet,1999,[Segeltorp],1695000,155000,1850000,3569,Svensk Fastighetsförmedling,1099.435157047558,Satra
+2015-04-30,Skansbergsvägen 51,Segeltorp,RodNorsborg,4,99,null,Lägenhet,2004,[Segeltorp],2675000,745000,3420000,5345,HusmanHagberg,738.5046777656554,Satra
+2015-04-23,Stigfinnarvägen 6,Segeltorp,RodNorsborg,3,66,null,Lägenhet,1998,[Segeltorp],2200000,10000,2210000,4826,Svensk Fastighetsförmedling,830.6483291914811,Skarholmen
+2015-04-21,Palissadvägen 12,Segeltorp,RodNorsborg,4,98,3,Lägenhet,2012,[Segeltorp],2950000,280000,3230000,5778,Hemmäklarna,598.0258120419818,Satra
+2015-04-15,Juringe Åväg 2,Segeltorp,RodNorsborg,8,98,null,Villa,1966,[Segeltorp],4900000,850000,5750000,null,Notar,1278.8115894945558,Satra
+2015-04-15,Borgbacken 2,Segeltorp,RodNorsborg,2,36.5,1,Lägenhet,1997,[Huddinge-Segeltorp],1295000,336000,1631000,3263,Mäklarringen,811.7336178263855,Satra
+2015-04-10,Stigfinnarvägen 58,Segeltorp,RodNorsborg,5.5,102.9,1,Lägenhet,1997,[Segeltorp],2795000,195000,2990000,6605,Fastighetsbyrån,845.8304786745629,Skarholmen
+2015-04-08,Visirvägen 5,Segeltorp,RodNorsborg,2,56,1,Lägenhet,2008,[Segeltorp],1750000,0,1750000,3666,Fastighetsbyrån,865.2610126171478,Satra
+2015-03-31,Stigfinnarvägen 10,Segeltorp,RodNorsborg,5,107.4,5,Lägenhet,1998,[Segeltorp],2500000,400000,2900000,6905,Notar,782.7169401411237,Skarholmen
+2015-03-26,Slåttervägen 41A,Segeltorp,RodNorsborg,9,147,null,Villa,1940,[Segeltorp],5890000,1380000,7270000,null,Fastighetsbyrån,1224.846853426431,Satra
+2015-03-25,Borgbacken 8,Segeltorp,RodNorsborg,2,58.5,1,Lägenhet,1997,[Segeltorp],1550000,275000,1825000,4415,Mäklarringen,820.4463094634881,Satra
+2015-03-25,Hjälmvägen 13,Segeltorp,RodNorsborg,2,56,2,Lägenhet,2012,[Segeltorp],1795000,305000,2100000,3337,Hemmäklarna,669.0212843478757,Satra
+2015-03-20,Budkavlevägen 5,Segeltorp,RodNorsborg,3,68.5,1,Lägenhet,1994,[Segeltorp],1350000,400000,1750000,6577,Fastighetsbyrån,815.9085985334968,Satra
+2015-03-19,Skrakvägen 5,Segeltorp,RodNorsborg,6,146,null,Villa,1935,[Segeltorp],3995000,1105000,5100000,null,Svensk Fastighetsförmedling,1530.2205501774088,Fruangen
+2015-03-16,Palissadvägen 16,Segeltorp,RodNorsborg,4,98,3,Lägenhet,null,[Smista],3495000,-195000,3300000,5778,Svenska Mäklarhuset,761.9081348135614,Satra
+2015-03-16,Klintvägen 7,Segeltorp,RodNorsborg,3,62,3,Lägenhet,1981,[Segeltorp],2200000,275000,2475000,3537,Notar,1306.314767060395,Fruangen
+2015-03-12,Lövdalsvägen 24A,Segeltorp,RodNorsborg,7,152,null,Radhus,1982,[Segeltorp],4575000,1085000,5660000,null,Fastighetsbyrån,2515.642777283096,Fruangen
+2015-03-04,Visirvägen 7,Segeltorp,RodNorsborg,4,103,4,Lägenhet,2007,[Segeltorp],2450000,500000,2950000,5699,Fastighetsbyrån,870.4577263876143,Satra
+2015-02-26,Sjöhagsvägen 20A,Segeltorp,RodNorsborg,null,null,null,Lägenhet,null,[Herrängen],3660000,50000,3710000,null,Erik Olsson Fastighetsförmedling,1366.2606626684278,Fruangen
+2015-02-12,Värnstigen 30,Segeltorp,RodNorsborg,3,68.5,3,Lägenhet,1995,[Segeltorp],1495000,555000,2050000,5325,Fastighetsbyrån,775.9285538644823,Satra
+2015-02-08,Slåttervägen 7,Segeltorp,RodNorsborg,4,117,null,Villa,1927,[Segeltorp],5995000,255000,6250000,null,Erik Olsson Fastighetsförmedling,1258.97081188946,Satra
+2015-02-06,Visirvägen 38,Segeltorp,RodNorsborg,3,59,1,Lägenhet,2007,[Segeltorp],1995000,335000,2330000,3289,Fastighetsbyrån,819.5532732340234,Satra
+2015-01-31,Borgbacken 8,Segeltorp,RodNorsborg,2,44,1,Lägenhet,1996,[Segeltorp],1295000,355000,1650000,3669,Fastighetsbyrån,820.4463094634881,Satra
+2015-01-31,Värnstigen 9,Segeltorp,RodNorsborg,2,36.5,1,Lägenhet,1994,[Segeltorp],995000,385000,1380000,3825,Fastighetsbyrån,805.0479751193984,Satra
+2015-01-30,Orrvägen 2,Segeltorp,RodNorsborg,1,47.5,2,Lägenhet,1962,[Segeltorp],1290000,260000,1550000,2006,SkandiaMäklarna,1737.3431400839065,Fruangen
+2015-01-30,Slåttervägen 14A,Segeltorp,RodNorsborg,2,50,null,Lägenhet,1998,[Segeltorp],1295000,455000,1750000,3834,Länsförsäkringar Fastighetsförmedling,1115.0769352290436,Satra
+2015-01-26,Visirvägen 8,Segeltorp,RodNorsborg,2,56,null,Lägenhet,2012,[Segeltorp],1990000,110000,2100000,3337,Hemmäklarna,717.2569601328903,Satra
+2015-01-23,Stigfinnarvägen 34,Segeltorp,RodNorsborg,5,107.4,null,Lägenhet,1997,[Smista],2495000,565000,3060000,6905,SkandiaMäklarna,778.0787743829345,Skarholmen
+2015-01-22,Gamla Södertäljevägen 212K,Segeltorp,RodNorsborg,2.5,33.5,null,Lägenhet,2011,[Segeltorp],1995000,-45000,1950000,2760,Fastighetsbyrån,843.2318766122489,Skarholmen
+2015-01-22,Stigmansvägen 10A,Segeltorp,RodNorsborg,2,45,1,Lägenhet,2005,[Segeltorp],1485000,415000,1900000,2914,Fastighetsbyrån,623.5291897883367,Satra
+2015-01-13,Värnstigen 36,Segeltorp,RodNorsborg,3,68.5,4,Lägenhet,1995,[Segeltorp],1495000,335000,1830000,5325,Fastighetsbyrån,800.7061446088264,Satra
+2015-01-08,Skansbergsvägen 42D,Segeltorp,RodNorsborg,1,44.5,null,Lägenhet,2003,[Smista],1295000,330000,1625000,2651,BOSTHLM,711.5689483953731,Satra
+2014-12-17,Bergsvägen 73,Segeltorp,RodNorsborg,6,172,null,Villa,1970,[Segeltorp],5450000,350000,5800000,null,Mäklarhuset,926.0266219047653,Fruangen
+2014-12-06,Tärnvägen 7,Segeltorp,RodNorsborg,7,200,null,Villa,1987,[Segeltorp],5495000,715000,6210000,null,BOSTHLM,1636.1952432939725,Fruangen
+2014-12-03,Visirvägen 8,Segeltorp,RodNorsborg,4,96,null,Lägenhet,2013,[Segeltorp],2995000,-95000,2900000,5344,Fastighetsbyrån,717.2569601328903,Satra
+2014-11-28,Malmvägen 51,Segeltorp,RodNorsborg,5,142,null,Radhus,1977,[Segeltorp],3895000,355000,4250000,null,Fastighetsbyrån,735.0673062452885,Fruangen
+2014-11-27,Värnvägen 21,Segeltorp,RodNorsborg,3,68.5,2,Lägenhet,1994,[Segeltorp],1695000,330000,2025000,5363,Hemmäklarna,874.1021407802671,Satra
+2014-11-26,Hökvägen 28,Segeltorp,RodNorsborg,6,154,2,Villa,1947,[Segeltorp],4975000,325000,5300000,null,Notar,2079.954354071173,Fruangen
+2014-11-21,Sjöstigen 31,Segeltorp,RodNorsborg,9,190,null,Villa,1972,[Segeltorp],6950000,-300000,6650000,null,Fastighetsbyrån,1714.8947630994485,Fruangen
+2014-11-21,Värnstigen 34,Segeltorp,RodNorsborg,2,36.5,3,Villa,1995,[Segeltorp],1325000,175000,1500000,null,Mäklarhuset,788.9656480242155,Satra
+2014-11-19,Visirvägen 36,Segeltorp,RodNorsborg,4,74,1,Lägenhet,2006,[Smista],2250000,400000,2650000,3863,Svensk Fastighetsförmedling,791.5782462964278,Satra
+2014-11-18,Visirvägen 11,Segeltorp,RodNorsborg,3,84,1,Lägenhet,2008,[Segeltorp],2195000,355000,2550000,4918,Fastighetsbyrån,864.8457861754573,Satra
+2014-11-15,Fasanvägen 16,Segeltorp,RodNorsborg,5,152,null,Villa,1961,[Segeltorp],4100000,200000,4300000,null,Fastighetsbyrån,2331.0505229055643,Fruangen
+2014-11-13,Klintvägen 7,Segeltorp,RodNorsborg,3,62,null,Lägenhet,1981,[Segeltorp],1750000,135000,1885000,3537,Notar,1306.314767060395,Fruangen
+2014-11-06,Visirvägen 9,Segeltorp,RodNorsborg,2,56,null,Lägenhet,2008,[Segeltorp],1750000,50000,1800000,3707,Fastighetsbyrån,852.938905323245,Satra
+2014-11-04,Lövdalsvägen 12,Segeltorp,RodNorsborg,7,184,null,Villa,1967,[Segeltorp],4850000,1750000,6600000,null,Notar,2369.731113207483,Fruangen
+2014-10-30,Blåmesvägen 2,Segeltorp,RodNorsborg,4,126,null,Villa,1944,[Segeltorp],3995000,405000,4400000,null,Svensk Fastighetsförmedling,2211.031563280614,Fruangen
+2014-10-29,Skördevägen 28,Segeltorp,RodNorsborg,5,157,null,Villa,1960,[Segeltorp],3995000,225000,4220000,null,Länsförsäkringar Fastighetsförmedling,1559.8676340109764,Satra
+2014-10-29,Värnstigen 34,Segeltorp,RodNorsborg,2,36.5,2,Villa,1995,[Segeltorp],1325000,180000,1505000,null,Mäklarhuset,788.9656480242155,Satra
+2014-10-17,Hedvägen 4,Segeltorp,RodNorsborg,7,164,null,Villa,1946,[Segeltorp],4995000,745000,5740000,null,Hemmäklarna,852.1867525211931,Fruangen
+2014-10-09,Visirvägen 11,Segeltorp,RodNorsborg,2,56,2,Lägenhet,2008,[Segeltorp],1750000,495000,2245000,3707,Fastighetsbyrån,864.8457861754573,Satra
+2014-10-08,Skyttelvägen 4,Segeltorp,RodNorsborg,12,187,null,Villa,1947,[Segeltorp],4475000,1425000,5900000,null,Fastighetsbyrån,917.5510359380424,Satra
+2014-10-08,Slåttervägen 2A,Segeltorp,RodNorsborg,4,86,null,Radhus,1997,[Segeltorp],2295000,715000,3010000,4865,Fastighetsbyrån,1230.0998677666328,Satra
+2014-10-02,Svalvägen 5,Segeltorp,RodNorsborg,6,149,null,Villa,null,[Segeltorp],4895000,635000,5530000,null,Svensk Fastighetsförmedling,1839.3889861181365,Fruangen
+2014-10-02,Klintvägen 7,Segeltorp,RodNorsborg,2,61,null,Lägenhet,1981,[Segeltorp],1995000,0,1995000,3480,Notar,1306.314767060395,Fruangen
+2014-10-01,Stigfinnarvägen 9,Segeltorp,RodNorsborg,2,54,null,Lägenhet,1997,[Segeltorp],1395000,255000,1650000,4586,Fastighetsbyrån,860.6847308799973,Skarholmen
+2014-09-30,Värnstigen 5,Segeltorp,RodNorsborg,3,70,1,Lägenhet,null,[Smista],1400000,380000,1780000,5447,Svensk Fastighetsförmedling,845.4848863400338,Satra
+2014-09-26,Skansbergsvägen 42C,Segeltorp,RodNorsborg,4,89,null,Radhus,2003,[Segeltorp],2095000,355000,2450000,4931,Svenska Mäklargruppen,714.5288203006197,Satra
+2014-09-26,Gamla Södertäljevägen 136A,Segeltorp,RodNorsborg,4,110,null,Lägenhet,2012,[Segeltorp],3550000,0,3550000,5840,Fastighetsbyrån,1312.8785397441493,Satra
+2014-09-25,Malmvägen 22,Segeltorp,RodNorsborg,5,135,null,Radhus,1975,[Segeltorp],3995000,805000,4800000,null,Länsförsäkringar Fastighetsförmedling,944.4639208826993,Fruangen
+2014-09-25,Klintvägen 7,Segeltorp,RodNorsborg,2,63,1,Lägenhet,1981,[Segeltorp],1200000,575000,1775000,3594,Notar,1306.314767060395,Fruangen
+2014-09-24,Klintvägen 7,Segeltorp,RodNorsborg,3,67,4,Lägenhet,1981,[Segeltorp],1600000,210000,1810000,3822,Notar,1306.314767060395,Fruangen
+2014-09-23,Gamla Södertäljevägen 187C,Segeltorp,RodNorsborg,2,73,null,Lägenhet,null,[Segeltorp],2500000,0,2500000,4382,Fastighetsbyrån,1089.2520392108372,Satra
+2014-09-19,Borgbacken 4,Segeltorp,RodNorsborg,3,69,null,Lägenhet,1997,[Segeltorp],1595000,325000,1920000,5075,Fastighetsbyrån,797.3579311368557,Satra
+2014-09-19,Altartorpsvägen 6,Segeltorp,RodNorsborg,5,258,null,Villa,2000,[Segeltorp],7900000,200000,8100000,null,SkandiaMäklarna,1078.583442456408,Skarholmen
+2014-09-19,Borgbacken 8,Segeltorp,RodNorsborg,2,58.5,1,Lägenhet,1996,[Segeltorp],1350000,405000,1755000,4415,Hemmäklarna,820.4463094634881,Satra
+2014-09-18,Visirvägen 13,Segeltorp,RodNorsborg,2,49,2,Lägenhet,2007,[Segeltorp],1500000,280000,1780000,3450,HusmanHagberg,859.6998073881863,Satra
+2014-09-18,Skansbergsvägen 36B,Segeltorp,RodNorsborg,7,258,null,Villa,2003,[Smista],5850000,500000,6350000,null,SkandiaMäklarna,683.3149880344541,Satra
+2014-09-13,Budkavlevägen 5,Segeltorp,RodNorsborg,2,36,null,Lägenhet,1994,[Segeltorp Smista Skansberget],1295000,45000,1340000,3825,ERA,815.9085985334968,Satra
+2014-09-12,Väpnarevägen 34,Segeltorp,RodNorsborg,null,null,null,Tomt/Mark,null,[Smista],1995000,705000,2700000,null,SkandiaMäklarna,919.2226611486501,Satra
+2014-09-11,Väpnarevägen 36,Segeltorp,RodNorsborg,6,105,null,Villa,1963,[Smista],2975000,1425000,4400000,null,SkandiaMäklarna,945.7808208724998,Satra
+2014-09-10,Klintvägen 7,Segeltorp,RodNorsborg,2,61,null,Lägenhet,1981,[Segeltorp],1250000,470000,1720000,3480,Notar,1306.314767060395,Fruangen
+2014-09-10,Klintvägen 7,Segeltorp,RodNorsborg,2,62,null,Lägenhet,1981,[Segeltorp],1200000,440000,1640000,3537,Notar,1306.314767060395,Fruangen
+2014-09-02,Kurirvägen 13,Segeltorp,RodNorsborg,8,150,null,Villa,1943,[Smista],4350000,-150000,4200000,null,SkandiaMäklarna,1056.8236684880205,Satra
+2014-08-28,Visirvägen 5,Segeltorp,RodNorsborg,2,63,2,Lägenhet,2008,[Skärholmen/Bredäng],1495000,355000,1850000,3964,SkandiaMäklarna,865.2610126171478,Satra
+2014-08-22,Palissadvägen 16,Segeltorp,RodNorsborg,3,79,4,Lägenhet,null,[Smista],2595000,105000,2700000,4904,Svensk Fastighetsförmedling,761.9081348135614,Satra
+2014-08-21,Klintvägen 7,Segeltorp,RodNorsborg,2,63,null,Lägenhet,1981,[Segeltorp],1250000,380000,1630000,3594,Notar,1306.314767060395,Fruangen
+2014-08-21,Klintvägen 7,Segeltorp,RodNorsborg,3,76,null,Lägenhet,1981,[Segeltorp],1800000,200000,2000000,4335,Notar,1306.314767060395,Fruangen
+2014-08-16,Gamla Södertäljevägen 200D,Segeltorp,RodNorsborg,5,145,null,Parhus,2013,[Segeltorp],3950000,850000,4800000,null,Fastighetsmäklarna,870.6344915120769,Skarholmen
+2014-07-23,Slåttervägen 8F,Segeltorp,RodNorsborg,2,47,null,Lägenhet,null,[Segeltorp],1350000,100000,1450000,3343,Svensk Fastighetsförmedling,1109.8337264674237,Satra
+2014-07-02,Värnstigen 38,Segeltorp,RodNorsborg,2,58.5,null,Lägenhet,1995,[Segeltorp],1350000,300000,1650000,4578,Svenska Mäklarhuset,871.564823352199,Satra
+2014-06-23,Klintvägen 7,Segeltorp,RodNorsborg,2,62,null,Lägenhet,1981,[Segeltorp],1250000,365000,1615000,3537,Notar,1306.314767060395,Fruangen
+2014-06-19,Visirvägen 7,Segeltorp,RodNorsborg,4,103,null,Lägenhet,2007,[Segeltorp],2250000,200000,2450000,5762,HusmanHagberg,870.4577263876143,Satra
+2014-06-17,Stigfinnarvägen 36,Segeltorp,RodNorsborg,5,107.4,null,Radhus,1998,[Segeltorp],2495000,200000,2695000,6905,Fastighetsbyrån,781.5586533228568,Skarholmen
+2014-06-17,Klintvägen 7,Segeltorp,RodNorsborg,2,61,3,Lägenhet,1981,[Segeltorp],1250000,365000,1615000,3480,Notar,1306.314767060395,Fruangen
+2014-06-17,Klintvägen 7,Segeltorp,RodNorsborg,3,72,3,Lägenhet,1981,[Segeltorp],1550000,200000,1750000,4107,Notar,1306.314767060395,Fruangen
+2014-06-13,Slåttervägen 43B,Segeltorp,RodNorsborg,6,164,null,Villa,1937,[Segeltorp],4975000,925000,5900000,null,Fastighetsbyrån,1255.9999154426346,Satra
+2014-06-02,Slåttervägen 2E,Segeltorp,RodNorsborg,3,80,4,Lägenhet,1996,[Segeltorp],2195000,645000,2840000,4624,Notar,1222.2011279669323,Satra
+2014-05-28,Klintvägen 7,Segeltorp,RodNorsborg,2,62,null,Lägenhet,1981,[Segeltorp],1250000,350000,1600000,3537,Notar,1306.314767060395,Fruangen
+2014-05-27,Klintvägen 7,Segeltorp,RodNorsborg,2,63,null,Lägenhet,1981,[Segeltorp],1250000,360000,1610000,3594,Notar,1306.314767060395,Fruangen
+2014-05-22,Visirvägen 7,Segeltorp,RodNorsborg,2,56,3,Lägenhet,2008,[Segeltorp],1650000,310000,1960000,3707,Södermäklarna,870.4577263876143,Satra
+2014-05-14,Klintvägen 7,Segeltorp,RodNorsborg,2,62,4,Lägenhet,1981,[Segeltorp],1250000,440000,1690000,3537,Notar,1306.314767060395,Fruangen
+2014-05-14,Klintvägen 7,Segeltorp,RodNorsborg,2,61,4,Lägenhet,1981,[Segeltorp],1300000,200000,1500000,3480,Notar,1306.314767060395,Fruangen
+2014-05-10,Sjöstigen 5A,Segeltorp,RodNorsborg,7,159,null,Villa,1983,[Segeltorp],4975000,455000,5430000,null,SkandiaMäklarna,1889.3336286604724,Fruangen
+2014-05-07,Klintvägen 7,Segeltorp,RodNorsborg,3,69,null,Lägenhet,1981,[Segeltorp],1500000,145000,1645000,3936,Notar,1306.314767060395,Fruangen
+2014-05-02,Klintvägen 7,Segeltorp,RodNorsborg,1,53,1,Lägenhet,1981,[Segeltorp],1050000,400000,1450000,3023,Notar,1306.314767060395,Fruangen
+2014-04-30,Klintvägen 7,Segeltorp,RodNorsborg,3,69,null,Lägenhet,1981,[Segeltorp],1550000,115000,1665000,3936,Notar,1306.314767060395,Fruangen
+2014-04-30,Värnstigen 5,Segeltorp,RodNorsborg,2,60.5,2,Lägenhet,1994,[Smista],995000,305000,1300000,4970,SkandiaMäklarna,845.4848863400338,Satra
+2014-04-30,Klintvägen 7,Segeltorp,RodNorsborg,2,62,null,Lägenhet,1981,[Segeltorp],1300000,430000,1730000,3537,Notar,1306.314767060395,Fruangen
+2014-04-22,Värnstigen 9,Segeltorp,RodNorsborg,3,68.5,null,Lägenhet,1994,[Smista],995000,215000,1210000,6577,SkandiaMäklarna,805.0479751193984,Satra
+2014-04-16,Vaktstigen 15,Segeltorp,RodNorsborg,2,36.5,2,Lägenhet,null,[Smista],1095000,200000,1295000,3435,Svensk Fastighetsförmedling,832.125415118231,Satra
+2014-04-15,Borgbacken 2,Segeltorp,RodNorsborg,3,69,3,Lägenhet,1996,[Segeltorp],1550000,0,1550000,5342,Totalmäklarna Sverige AB,811.7336178263855,Satra
+2014-04-14,Orrvägen 2,Segeltorp,RodNorsborg,2,63,1,Lägenhet,1962,[Segeltorp],1595000,60000,1655000,2595,Fastighetsbyrån,1737.3431400839065,Fruangen
+2014-04-11,Slåttervägen 2K,Segeltorp,RodNorsborg,4,80,null,Lägenhet,1997,[Segeltorp],1975000,245000,2220000,4624,Mäklarringen,1220.4154648700114,Satra
+2014-04-02,Stigmansvägen 10A,Segeltorp,RodNorsborg,3,68,null,Lägenhet,2005,[Segeltorp],1795000,170000,1965000,4115,Fastighetsbyrån,623.5291897883367,Satra
+2014-04-02,Lövdungevägen 2,Segeltorp,RodNorsborg,4,103,null,Kedjehus,1983,[Segeltorp],3095000,215000,3310000,null,Fastighetsbyrån,1245.6291717258769,Fruangen
+2014-03-31,Gårdsvägen 24B,Segeltorp,RodNorsborg,7,165,null,Villa,1947,[Segeltorp],5400000,100000,5500000,null,Mäklarringen,1293.6303584862878,Satra
+2014-03-25,Visirvägen 5,Segeltorp,RodNorsborg,2,63,null,Lägenhet,2008,[Segeltorp],1450000,160000,1610000,3964,Hsb Mäklarna,865.2610126171478,Satra
+2014-03-21,Budkavlevägen 5,Segeltorp,RodNorsborg,4,86,3,Lägenhet,1994,[Segeltorp],950000,0,950000,7781,Notar,815.9085985334968,Satra
+2014-03-21,Vaktstigen 13,Segeltorp,RodNorsborg,2,36.5,3,Lägenhet,null,[Segeltorp],995000,205000,1200000,3435,Svensk Fastighetsförmedling,840.6012229221359,Satra
+2014-03-19,Slåttervägen 2N,Segeltorp,RodNorsborg,3,86,3,Lägenhet,1996,[Segeltorp],2295000,625000,2920000,4865,Notar,1209.7284042807728,Satra
+2014-03-19,Gärdsmygsvägen 2,Segeltorp,RodNorsborg,7,130,null,Villa,1943,[Segeltorp],4150000,550000,4700000,null,Mäklarringen,1835.3658009099804,Fruangen
+2014-03-12,Visirvägen 9,Segeltorp,RodNorsborg,4,84,1,Lägenhet,null,[Segeltorp],1995000,125000,2120000,4918,Svensk Fastighetsförmedling,852.938905323245,Satra
+2014-03-05,Skrakvägen 21A,Segeltorp,RodNorsborg,7,130,null,Villa,1979,[Segeltorp],4495000,-95000,4400000,null,Svensk Fastighetsförmedling,1400.6657731061503,Fruangen
+2014-02-27,Värnstigen 1,Segeltorp,RodNorsborg,3,68.5,3,Lägenhet,1994,[Smista],1450000,0,1450000,5645,SkandiaMäklarna,874.0024555236904,Satra
+2014-02-21,Värnvägen 23,Segeltorp,RodNorsborg,2,58.5,2,Lägenhet,1995,[Segeltorp],990000,240000,1230000,4859,Bjurfors,863.7712248195475,Satra
+2014-02-21,Skansbergsvägen 56A,Segeltorp,RodNorsborg,7,154,null,Villa,2009,[Segeltorp],4495000,5000,4500000,null,Svensk Fastighetsförmedling,763.1458623540025,Satra
+2014-02-20,Brinkstigen 4B,Segeltorp,RodNorsborg,5,180,null,Villa,2011,[Segeltorp],5995000,-195000,5800000,null,Svensk Fastighetsförmedling,1393.5515517947058,Satra
+2014-02-11,Värnstigen 28,Segeltorp,RodNorsborg,4,86,2,Lägenhet,1995,[Smista],1475000,375000,1850000,6299,Fastighetsbyrån,774.969364402365,Satra
+2014-02-07,Skördevägen 8,Segeltorp,RodNorsborg,5,125,null,Villa,1969,[Segeltorp],3950000,-150000,3800000,null,HusmanHagberg,1352.4322642588088,Satra
+2014-01-31,Skansbergsvägen 56A,Segeltorp,RodNorsborg,7,154,null,Villa,2009,[Segeltorp],4895000,-295000,4600000,null,Erik Olsson Fastighetsförmedling,763.1458623540025,Satra
+2014-01-30,Norrhagsvägen 23,Segeltorp,RodNorsborg,6,162,null,Villa,1947,[Älvsjö/Farsta/Vantör],5900000,300000,6200000,null,Fastighetsbyrån,1132.9681573719424,Fruangen
+2014-01-30,Visirvägen 9,Segeltorp,RodNorsborg,2,56,1,Lägenhet,2008,[Smista],1495000,125000,1620000,3707,Fastighetsbyrån,852.938905323245,Satra
+2014-01-22,Fornminnesvägen 13B,Segeltorp,RodNorsborg,6,120,null,Radhus,2013,[Smista],3500000,0,3500000,5140,Fastighetsbyrån,623.0363609691138,Satra
+2014-01-22,Fornminnesvägen 13A,Segeltorp,RodNorsborg,6,120,null,Radhus,2013,[Smista],3300000,0,3300000,5140,Fastighetsbyrån,613.4961921642961,Satra
+2014-01-21,Slåttervägen 8B,Segeltorp,RodNorsborg,2,47,null,Lägenhet,1999,[Segeltorp],1195000,265000,1460000,3342,Fastighetsbyrån,1115.6788471815282,Satra
+2014-01-17,Mickelsbergsvägen 294,Segeltorp,RodNorsborg,5,125,null,Radhus,1979,[Segeltorp],3850000,100000,3950000,null,Svensk Fastighetsförmedling,1326.7961827105848,Fruangen
+2014-01-15,Värnstigen 38,Segeltorp,RodNorsborg,2,44,2,Lägenhet,1995,[Smista],1095000,285000,1380000,3624,Fastighetsbyrån,871.564823352199,Satra
+2013-12-23,Värnstigen 7,Segeltorp,RodNorsborg,3,70,2,Lägenhet,1994,[Smista],995000,45000,1040000,6709,Fastighetsbyrån,815.4447685298476,Satra
+2013-12-05,Visirvägen 32,Segeltorp,RodNorsborg,4,74,2,Lägenhet,2006,[Smista],1995000,0,1995000,3863,Fastighetsbyrån,797.6354339653714,Satra
+2013-11-28,Visirvägen 15,Segeltorp,RodNorsborg,2,49.5,null,Lägenhet,2008,[Smista],1345000,125000,1470000,3433,Fastighetsbyrån,866.5246788680872,Satra
+2013-11-25,Visirvägen 9,Segeltorp,RodNorsborg,4,90,4,Lägenhet,2008,[Smista],2295000,55000,2350000,5258,Fastighetsbyrån,852.938905323245,Satra
+2013-11-20,Gamla Södertäljevägen 163A,Segeltorp,RodNorsborg,2,60,1,Lägenhet,1999,[Segeltorp],1495000,200000,1695000,4037,Mäklarhuset,1101.0928702626495,Satra
+2013-11-15,Slåttervägen 8J,Segeltorp,RodNorsborg,5,95,null,Radhus,1999,[Segeltorp],2395000,120000,2515000,6073,Svensk Fastighetsförmedling,1214.1306454937621,Satra
+2013-11-15,Häradsvägen 189,Segeltorp,RodNorsborg,null,null,null,Tomt/Mark,null,[Segeltorp],1995000,-45000,1950000,null,Fastighetsbyrån,1613.5474610453264,Fruangen
+2013-11-08,Visirvägen 7,Segeltorp,RodNorsborg,3,84,null,Lägenhet,2008,[Smista],1975000,55000,2030000,4893,Fastighetsbyrån,870.4577263876143,Satra
+2013-11-06,Slåttervägen 14D,Segeltorp,RodNorsborg,2,50,2,Lägenhet,1998,[Segeltorp],1195000,155000,1350000,3834,SkandiaMäklarna,1105.4005121490036,Satra
+2013-11-01,Svalvägen 9,Segeltorp,RodNorsborg,6,131,null,Villa,1931,[Segeltorp],4150000,650000,4800000,null,Svensk Fastighetsförmedling,1900.4440009349455,Fruangen
+2013-10-24,Visirvägen 8,Segeltorp,RodNorsborg,2,56,3,Lägenhet,2013,[Segeltorp],1625000,135000,1760000,3337,Erik Olsson Fastighetsförmedling,717.2569601328903,Satra
+2013-10-21,Stigmansvägen 4B,Segeltorp,RodNorsborg,4,88,null,Radhus,2005,[Smista],2050000,0,2050000,5620,Svenska Mäklarhuset,628.2382861278323,Satra
+2013-10-17,Värnstigen 7,Segeltorp,RodNorsborg,2,70,null,Lägenhet,1994,[Segeltorp],995000,0,995000,6709,Notar,815.4447685298476,Satra
+2013-10-17,Gamla Södertäljevägen 187C,Segeltorp,RodNorsborg,2,68,null,Lägenhet,2010,[Segeltorp],1895000,105000,2000000,4382,Svensk Fastighetsförmedling,1089.2520392108372,Satra
+2013-10-11,Sjöhagsvägen 20,Segeltorp,RodNorsborg,6,136,null,Villa,1964,[Älvsjö],5475000,375000,5850000,null,Mäklarhuset,1385.655458160377,Fruangen
+2013-10-11,Juringe Åväg 8,Segeltorp,RodNorsborg,5,156,null,Villa,1967,[Segeltorp],3975000,-375000,3600000,null,Fastighetsbyrån,1350.4196937970141,Satra
+2013-10-10,Juringe Åväg 11,Segeltorp,RodNorsborg,5,189,null,Villa,1990,[Segeltorp],5275000,125000,5400000,null,Mäklarhuset,1427.8728413578438,Satra
+2013-10-09,Visirvägen 28,Segeltorp,RodNorsborg,3,59,null,Lägenhet,2006,[Smista],1695000,130000,1825000,3462,Fastighetsbyrån,762.4444879272612,Satra
+2013-10-08,Bergsvägen 75,Segeltorp,RodNorsborg,7,160,null,Villa,1965,[Segeltorp],3990000,960000,4950000,null,Notar,890.3930760020199,Fruangen
+2013-10-04,Slåttervägen 33B,Segeltorp,RodNorsborg,10,184,null,Villa,null,[Segeltorp],4995000,530000,5525000,null,Svensk Fastighetsförmedling,1199.430547108445,Satra
+2013-10-03,Adress saknas,Segeltorp,RodNorsborg,3,68,null,Lägenhet,2005,[Segeltorp],null,NaN,1900000,null,Svensk Fastighetsförmedling,614.7401290826148,Satra
+2013-10-03,Borgbacken 8,Segeltorp,RodNorsborg,2,58.5,null,Lägenhet,1997,[Smista],1295000,5000,1300000,4647,Fastighetsbyrån,820.4463094634881,Satra
+2013-10-02,Lövdungevägen 9,Segeltorp,RodNorsborg,5,122,null,Radhus,1983,[Segeltorp],2895000,130000,3025000,null,Svensk Fastighetsförmedling,1287.6851449991088,Fruangen
+2013-09-27,Sätthammarvägen 10A,Segeltorp,RodNorsborg,5,117,null,Villa,1965,[Smista],3175000,125000,3300000,null,Fastighetsbyrån,1168.0161991960288,Satra
+2013-09-24,Visirvägen 32,Segeltorp,RodNorsborg,2,59,1,Lägenhet,2006,[Segeltorp],1595000,20000,1615000,3462,Svensk Fastighetsförmedling,797.6354339653714,Satra
+2013-09-23,Slöjdvägen 19,Segeltorp,RodNorsborg,3,103,null,Villa,1926,[Smista],3850000,500000,4350000,null,Fastighetsbyrån,979.5596096779731,Satra
+2013-09-20,Visirvägen 38,Segeltorp,RodNorsborg,4,99,1,Lägenhet,2006,[Segeltorp],2295000,105000,2400000,4861,Svensk Fastighetsförmedling,819.5532732340234,Satra
+2013-09-20,Väpnarevägen 3,Segeltorp,RodNorsborg,10,137,null,Villa,1942,[Segeltorp],4295000,0,4295000,null,Svensk Fastighetsförmedling,933.034139954256,Satra
+2013-09-07,Slöjdvägen 2A,Segeltorp,RodNorsborg,7,153,null,Villa,2007,[Smista],4750000,210000,4960000,null,SkandiaMäklarna,1149.408128422444,Satra
+2013-09-06,Ejdervägen 13A,Segeltorp,RodNorsborg,7,190,null,Villa,1975,[Snättringe],3995000,-195000,3800000,null,Fastighetsbyrån,2208.7948346299954,Fruangen
+2013-09-05,Vaktstigen 3A,Segeltorp,RodNorsborg,2.5,69.5,null,Lägenhet,1999,[Segeltorp],1450000,130000,1580000,4692,Notar,913.3011672983642,Satra
+2013-09-03,Gamla Södertäljevägen 134A,Segeltorp,RodNorsborg,4,98,null,Lägenhet,2012,[Smista],2895000,0,2895000,5484,Fastighetsbyrån,1255.3697933744816,Satra
+2013-08-23,Duvvägen 15,Segeltorp,RodNorsborg,4,126,null,Villa,1959,[Snättringe],3000000,400000,3400000,null,Fastighetsbyrån,2445.3787291828444,Fruangen
+2013-08-23,Brantstigen 11,Segeltorp,RodNorsborg,9,169,null,Villa,1969,[Segeltorp],4995000,1305000,6300000,null,Notar,775.6512844074055,Fruangen
+2013-08-23,Gärdsmygsvägen 5,Segeltorp,RodNorsborg,6,172,null,Villa,1945,[Segeltorp],3875000,650000,4525000,null,Svensk Fastighetsförmedling,1908.5186775956865,Fruangen
+2013-08-21,Visirvägen 26,Segeltorp,RodNorsborg,2,49,null,Lägenhet,2006,[Segeltorp],1450000,60000,1510000,3099,Svenska Mäklarhuset,756.361456619485,Satra
+2013-08-20,Visirvägen 28,Segeltorp,RodNorsborg,3,60,null,Lägenhet,2006,[Smista],1695000,-70000,1625000,3574,Fastighetsbyrån,762.4444879272612,Satra
+2013-08-14,Värnstigen 36,Segeltorp,RodNorsborg,2,58.5,null,Lägenhet,1995,[Smista],1095000,215000,1310000,4578,Fastighetsbyrån,800.7061446088264,Satra
+2013-08-06,Fasanvägen 21,Segeltorp,RodNorsborg,4,125,null,Villa,1962,[Segeltorp],4585000,365000,4950000,null,HusmanHagberg,2351.825600431652,Fruangen
+2013-07-19,Värnstigen 14,Segeltorp,RodNorsborg,3,70,null,Lägenhet,null,[Segeltorp],1490000,0,1490000,5425,Notar,813.465546375475,Satra
+2013-07-18,Skansbergsvägen 59,Segeltorp,RodNorsborg,4,99,null,Radhus,2004,[Smista],2290000,110000,2400000,5345,Fastighetsbyrån,738.6596265695628,Satra
+2013-07-11,Borgbacken 6,Segeltorp,RodNorsborg,2,58.5,null,Lägenhet,1996,[Segeltorp],995000,215000,1210000,4647,Notar,804.694355652344,Satra
+2013-06-26,Palissadvägen 16,Segeltorp,RodNorsborg,4,98,null,Lägenhet,2012,[Smista],2400000,-100000,2300000,5719,Fastighetsbyrån,761.9081348135614,Satra
+2013-06-17,Smygvägen 2B,Segeltorp,RodNorsborg,9,300,null,Villa,1936,[Segeltorp],6250000,150000,6400000,null,SkandiaMäklarna,1145.0978733493637,Satra
+2013-06-15,Värnstigen 28,Segeltorp,RodNorsborg,3,68.5,null,Lägenhet,1994,[Segeltorp],1150000,275000,1425000,5325,SkandiaMäklarna,774.969364402365,Satra
+2013-06-10,Juringe Allé 6,Segeltorp,RodNorsborg,null,73,null,Villa,1937,[Segeltorp],3500000,-500000,3000000,null,Fastighetsbyrån,1170.9813878356863,Satra
+2013-06-07,Visirvägen 9,Segeltorp,RodNorsborg,4,90,null,Lägenhet,2007,[Smista],1995000,95000,2090000,5259,Fastighetsbyrån,852.938905323245,Satra
+2013-06-07,Budkavlevägen 5,Segeltorp,RodNorsborg,2,36.5,null,Lägenhet,1994,[Smista],995000,205000,1200000,3825,Fastighetsbyrån,815.9085985334968,Satra
+2013-06-07,Måsvägen 14,Segeltorp,RodNorsborg,6,135,null,Villa,1968,[Snättringe],4195000,15000,4210000,null,Fastighetsbyrån,2241.646943675388,Fruangen
+2013-05-28,Lövdalsvägen 22,Segeltorp,RodNorsborg,null,96,null,Villa,1941,[Segeltorp],3650000,-50000,3600000,null,SkandiaMäklarna,2496.385167253327,Fruangen
+2013-05-24,Skrakvägen 18,Segeltorp,RodNorsborg,6,127,null,Villa,1965,[Segeltorp],3500000,200000,3700000,null,Fastighetsbyrån,1468.96571365823,Fruangen
+2013-05-13,Sjöhagsvägen 47A,Segeltorp,RodNorsborg,4,108,null,Villa,1987,[Segeltorp],4475000,0,4475000,null,Mäklarhuset,1293.2487242714092,Fruangen
+2013-05-10,Värnvägen 23,Segeltorp,RodNorsborg,2,59,2,Lägenhet,1994,[Smista],1145000,0,1145000,4859,Fastighetsbyrån,863.7712248195475,Satra
+2013-05-09,Sjöhagsvägen 47A,Segeltorp,RodNorsborg,4,108,null,Villa,1987,[Segeltorp],4475000,0,4475000,null,Mäklarhuset,1293.2487242714092,Fruangen
+2013-05-08,Visirvägen 7,Segeltorp,RodNorsborg,4,109,null,Lägenhet,2007,[Skärholmen/Bredäng],2395000,0,2395000,6062,Fastighetsbyrån,870.4577263876143,Satra
+2013-04-17,Hagvägen 32,Segeltorp,RodNorsborg,5,66,null,Villa,1938,[Segeltorp],3250000,250000,3500000,null,Notar,1480.1306180074284,Satra
+2013-04-12,Orrvägen 2,Segeltorp,RodNorsborg,1,47.5,null,Lägenhet,1962,[Segeltorp],990000,250000,1240000,2006,SkandiaMäklarna,1737.3431400839065,Fruangen
+2013-04-11,Gamla Södertäljevägen 161D,Segeltorp,RodNorsborg,2,50,null,Lägenhet,1999,[Segeltorp],1175000,35000,1210000,3465,Mäklarringen,1120.0651669244392,Satra
+2013-04-10,Visirvägen 36,Segeltorp,RodNorsborg,4,74,null,Lägenhet,2006,[Segeltorp],2195000,0,2195000,4066,Svensk Fastighetsförmedling,791.5782462964278,Satra
+2013-04-03,Värnstigen 9,Segeltorp,RodNorsborg,2,58.5,null,Lägenhet,1994,[Smista],850000,45000,895000,5660,Länsförsäkringar Fastighetsförmedling,805.0479751193984,Satra
+2013-03-29,Malmvägen 5,Segeltorp,RodNorsborg,5,142,null,Radhus,1977,[Herrängen],3495000,475000,3970000,null,Fastighetsbyrån,851.990658411733,Fruangen
+2013-03-29,Chronas väg 25,Segeltorp,RodNorsborg,5,108,null,Villa,1960,[Segeltorp],3495000,185000,3680000,null,Svensk Fastighetsförmedling,1407.121331971746,Fruangen
+2013-03-28,Malmvägen 39,Segeltorp,RodNorsborg,5,142,null,Radhus,1977,[Segeltorp],3495000,655000,4150000,null,Svensk Fastighetsförmedling,764.8866882240503,Fruangen
+2013-03-27,Visirvägen 11,Segeltorp,RodNorsborg,2,63,null,Lägenhet,2008,[Smista],1595000,105000,1700000,3944,Fastighetsbyrån,864.8457861754573,Satra
+2013-03-22,Vaktstigen 13,Segeltorp,RodNorsborg,3,69,null,Lägenhet,1996,[Smista],1395000,530000,1925000,5341,Fastighetsbyrån,840.6012229221359,Satra
+2013-03-16,Mickelsbergsvägen 314,Segeltorp,RodNorsborg,6,125,null,Radhus,1979,[Segeltorp],3595000,215000,3810000,null,Svensk Fastighetsförmedling,1323.456330629141,Fruangen
+2013-03-16,Värnstigen 11,Segeltorp,RodNorsborg,2,44,null,Lägenhet,1994,[Segeltorp],850000,230000,1080000,4481,Notar,809.4084191958376,Satra
+2013-03-13,Väpnarevägen 3,Segeltorp,RodNorsborg,9,137,null,Villa,1942,[Segeltorp],4375000,-275000,4100000,null,Mäklarhuset,933.034139954256,Satra
+2013-03-07,Kurirvägen 6,Segeltorp,RodNorsborg,7,117,null,Villa,1946,[Segeltorp],4375000,325000,4700000,null,Svensk Fastighetsförmedling,974.2497433113423,Satra
+2013-02-22,Visirvägen 11,Segeltorp,RodNorsborg,2,56,null,Lägenhet,2007,[Smista],1450000,0,1450000,3688,Fastighetsbyrån,864.8457861754573,Satra
+2013-02-21,Värnstigen 38,Segeltorp,RodNorsborg,2,58.5,null,Lägenhet,1995,[Smista],1295000,0,1295000,4578,Fastighetsbyrån,871.564823352199,Satra
+2013-02-16,Tulpanvägen 6,Segeltorp,RodNorsborg,6,161,null,Villa,1985,[Älvsjö Herrängen],5750000,190000,5940000,null,Svensk Fastighetsförmedling,1259.3720144866045,Fruangen
+2013-02-16,Visirvägen 24,Segeltorp,RodNorsborg,2,49,null,Lägenhet,2006,[Segeltorp],1495000,0,1495000,2987,Svensk Fastighetsförmedling,750.7801158303954,Satra
+2013-02-12,Visirvägen 36,Segeltorp,RodNorsborg,4,74,null,Lägenhet,2006,[Smista],2395000,0,2395000,4066,Fastighetsbyrån,791.5782462964278,Satra
+2013-02-10,Ärlvägen 7,Segeltorp,RodNorsborg,9,215,null,Villa,1945,[Segeltorp],4595000,415000,5010000,null,Fastighetsbyrån,2339.9629655806193,Fruangen
+2013-02-09,Visirvägen 13,Segeltorp,RodNorsborg,2,50,null,Lägenhet,2007,[Segeltorp],1395000,65000,1460000,3433,SkandiaMäklarna,859.6998073881863,Satra
+2013-02-09,Värnstigen 9,Segeltorp,RodNorsborg,3,68.5,null,Lägenhet,1994,[Segeltorp],950000,0,950000,6344,Notar,805.0479751193984,Satra
+2013-01-21,Visirvägen 5,Segeltorp,RodNorsborg,2,63,null,Lägenhet,2007,[Skärholmen/Bredäng],1395000,280000,1675000,3944,Fastighetsbyrån,865.2610126171478,Satra
+2013-01-10,Värnstigen 11,Segeltorp,RodNorsborg,1,46,null,Lägenhet,1994,[Segeltorp],800000,0,800000,4612,Notar,809.4084191958376,Satra
+2012-12-18,Värnstigen 3,Segeltorp,RodNorsborg,2,44,null,Lägenhet,1994,[Smista],1150000,0,1150000,3847,Fastighetsbyrån,858.2170477621046,Satra
+2012-12-17,Visirvägen 30,Segeltorp,RodNorsborg,3,59,null,Lägenhet,2006,[Smista],1550000,30000,1580000,3462,Fastighetsbyrån,762.9927228504724,Satra
+2012-12-06,Gamla Södertäljevägen 212,Segeltorp,RodNorsborg,2.5,69,null,Lägenhet,2011,[Smista],1650000,0,1650000,2920,Fastighetsbyrån,832.6447549191494,Skarholmen
+2012-11-27,Norrhagsvägen 14,Segeltorp,RodNorsborg,null,200,null,Villa,1947,[Herrängen],2500000,2050000,4550000,null,Notar,1196.7584497112646,Fruangen
+2012-11-14,Sjöhagsvägen 35,Segeltorp,RodNorsborg,6,160,null,Villa,1974,[Herrängen],7000000,-700000,6300000,null,SkandiaMäklarna,1437.0272751407929,Fruangen
+2012-11-09,Gamla Södertäljevägen 136A,Segeltorp,RodNorsborg,2,43,null,Lägenhet,2011,[Segeltorp],1425000,70000,1495000,2740,Svensk Fastighetsförmedling,1312.8785397441493,Satra
+2012-11-02,Häradsvägen 159,Segeltorp,RodNorsborg,5,138,1,Lägenhet,1959,[Huddinge-Segeltorp],2475000,0,2475000,5799,Mäklarringen,1895.1476249622385,Fruangen
+2012-10-30,Häradsvägen 159,Segeltorp,RodNorsborg,6,161,null,Lägenhet,1959,[Huddinge-Segeltorp],2675000,-125000,2550000,750,Mäklarringen,1895.1476249622385,Fruangen
+2012-10-29,Skansbergsvägen 67,Segeltorp,RodNorsborg,5,122,null,Lägenhet,2005,[Segeltorp],2395000,210000,2605000,6587,SkandiaMäklarna,733.5483053623839,Satra
+2012-10-24,Värnstigen 28,Segeltorp,RodNorsborg,4,86,1,Lägenhet,1995,[Segeltorp],1395000,255000,1650000,6299,Svensk Fastighetsförmedling,774.969364402365,Satra
+2012-10-19,Skansbergsvägen 42E,Segeltorp,RodNorsborg,1,44.5,null,Lägenhet,2003,[Segeltorp],995000,165000,1160000,2313,Svensk Fastighetsförmedling,707.2659335798782,Satra
+2012-10-09,Värnstigen 9,Segeltorp,RodNorsborg,2,58.5,null,Lägenhet,1994,[Smista],750000,110000,860000,5660,Fastighetsbyrån,805.0479751193984,Satra
+2012-10-07,Värnstigen 34,Segeltorp,RodNorsborg,3,70,null,Lägenhet,1994,[Segeltorp],850000,450000,1300000,5325,Svensk Fastighetsförmedling,788.9656480242155,Satra
+2012-09-28,Fållvägen 7A,Segeltorp,RodNorsborg,null,null,null,Tomt/Mark,null,[Segeltorp],1400000,0,1400000,null,Fastighetsbyrån,1424.0658971306807,Satra
+2012-09-27,Lövdungevägen 2,Segeltorp,RodNorsborg,4,103,null,Parhus,1983,[Smista],2900000,40000,2940000,null,Fastighetsbyrån,1245.6291717258769,Fruangen
+2012-09-21,Knostervägen 1,Segeltorp,RodNorsborg,5,123,null,Kedjehus,1959,[Smista],2595000,65000,2660000,null,Fastighetsbyrån,1250.5300472725776,Fruangen
+2012-09-09,Slåttervägen 14F,Segeltorp,RodNorsborg,1,47,null,Lägenhet,1998,[Segeltorp],995000,225000,1220000,3418,Fastighetsbyrån,1179.6521988861505,Satra
+2012-09-06,Tulpanvägen 5,Segeltorp,RodNorsborg,8,210,null,Villa,1926,[Älvsjö/Farsta/Vantör],6250000,375000,6625000,null,Fastighetsbyrån,1307.4653750041248,Fruangen
+2012-09-01,Verkstadsvägen 9,Segeltorp,RodNorsborg,6,163,null,Villa,1963,[Segeltorp],3595000,-45000,3550000,null,Svensk Fastighetsförmedling,1028.890195930991,Satra
+2012-08-31,Skansbergsvägen 85,Segeltorp,RodNorsborg,5,122,null,Radhus,2005,[Smista],2250000,160000,2410000,6587,Fastighetsbyrån,745.5584165885056,Satra
+2012-08-25,Värnstigen 11,Segeltorp,RodNorsborg,2,58.5,null,Lägenhet,1994,[Smista],750000,160000,910000,5461,Fastighetsbyrån,809.4084191958376,Satra

@@ -1,0 +1,21 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-04-20,Fittjaterrassen 18,Fittja,RodNorsborg,2,54,null,Lägenhet,2013,[Fittja],1495000,155000,1650000,2558,Länsförsäkringar Fastighetsförmedling,177.9869926561012,Fittja
+2016-04-07,Krögarvägen 137,Fittja,RodNorsborg,6,146,null,Radhus,1974,[Norsborg-Fittja],3495000,505000,4000000,null,Fastighetsbyrån,671.6019649329388,Fittja
+2015-12-04,Värdshusvägen 27,Fittja,RodNorsborg,4,81,2,Lägenhet,2013,[Fittja Sjöterrass-Norsborg],2295000,205000,2500000,4124,Fastighetsbyrån,140.5247555798319,Fittja
+2015-10-21,Fittjaterrassen 8,Fittja,RodNorsborg,2,54,null,Lägenhet,2013,[Fittja Sjöterrass-Norsborg],1495000,205000,1700000,2558,Fastighetsbyrån,171.72343533602353,Fittja
+2015-09-24,Värdshusvägen 19,Fittja,RodNorsborg,4,81,null,Lägenhet,2012,[Fittja],2295000,5000,2300000,4124,Notar,157.12295322766857,Fittja
+2015-07-01,Postängsvägen 258,Fittja,RodNorsborg,6,146,null,Kedjehus,null,[Fittja],3125000,375000,3500000,null,Södermäklarna,696.348845239427,Alby
+2015-06-24,Fittjaterrassen 10,Fittja,RodNorsborg,2,54,null,Lägenhet,2013,[Fittja],1495000,75000,1570000,2558,Länsförsäkringar Fastighetsförmedling,177.9869926561012,Fittja
+2015-06-09,Adress saknas,Fittja,RodNorsborg,null,null,null,Villa,null,[Fittja],null,NaN,4305000,null,Länsförsäkringar Fastighetsförmedling,540.0066471256833,Fittja
+2015-05-27,Fittjaterrassen 27,Fittja,RodNorsborg,3,72,2,Lägenhet,2013,[Fittja],1695000,125000,1820000,3666,Bomäklaren,167.27323228882452,Fittja
+2015-05-19,Krögarvägen 221,Fittja,RodNorsborg,4,null,null,Kedjehus,null,[Fittja],3495000,305000,3800000,null,Södermäklarna,792.0836184001291,Fittja
+2015-04-28,Fittjaterrassen 4,Fittja,RodNorsborg,2,54,null,Lägenhet,2013,[Fittja Sjöterrass-Norsborg],1495000,155000,1650000,2558,Fastighetsbyrån,167.52638534417898,Fittja
+2015-04-24,Fittjaterrassen 18,Fittja,RodNorsborg,2,54,null,Lägenhet,2012,[Fittja],1700000,0,1700000,2558,Notar,177.9869926561012,Fittja
+2015-03-18,Värdshusvägen 33,Fittja,RodNorsborg,4,81,2,Lägenhet,2012,[Fittja],2400000,200000,2600000,4124,Notar,126.0840476706715,Fittja
+2015-03-06,Fittjaterrassen 51,Fittja,RodNorsborg,2,45,1,Lägenhet,2013,[Fittja],1295000,350000,1645000,2483,Bomäklaren,178.5951096495231,Fittja
+2014-08-14,Fittjaterrassen 42,Fittja,RodNorsborg,5,121,null,Radhus,2013,[Fittja Sjöterrass-Norsborg],2395000,0,2395000,6161,Fastighetsbyrån,167.52638534417898,Fittja
+2014-01-25,Postängsvägen 260,Fittja,RodNorsborg,6,173,null,Kedjehus,1973,[Fittja],2625000,-25000,2600000,null,Bukowskis Mäklarbyrå,705.0652882633195,Alby
+2013-10-15,Värdshusvägen 35,Fittja,RodNorsborg,4,81,null,Lägenhet,2013,[Fittja],1600000,5000,1605000,3869,Fastighetsbyrån,167.52638534417898,Fittja
+2013-10-11,Stökhagsvägen 126,Fittja,RodNorsborg,7,146,null,Kedjehus,1972,[Fittja],2395000,250000,2645000,null,Fastighetsbyrån,365.31103217320253,Fittja
+2013-08-30,Postängsvägen 18,Fittja,RodNorsborg,5,null,null,Kedjehus,null,[Fittja],1990000,460000,2450000,null,Södermäklarna,392.34239481107005,Fittja
+2013-05-30,Postängsvägen 146,Fittja,RodNorsborg,7,146,null,Kedjehus,1973,[Norsborg],1975000,125000,2100000,null,Kenwas Fastighetsförmedling AB,633.9145483167513,Fittja

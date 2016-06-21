@@ -1,0 +1,758 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-20,Jämtlandsgatan 98,Vallingby,GronHasselby,2,58,2.5,Lägenhet,1952,[Vällingby Centrum],1995000,175000,2170000,3069,Mäklarhuset,301.5592451712024,Vallingby
+2016-06-19,Östersundsgatan 7,Vallingby,GronHasselby,1,39,10,Lägenhet,1950,[Vällingby Råcksta],1750000,190000,1940000,2113,Notar,128.60073313714122,Racksta
+2016-06-18,Östersundsgatan 7,Vallingby,GronHasselby,2,48,5,Lägenhet,1957,[Vällingby Råcksta],1895000,265000,2160000,2600,HusmanHagberg,128.60073313714122,Racksta
+2016-06-17,Kirunagatan 32,Vallingby,GronHasselby,1.5,34,1,Lägenhet,1954,[Vällingby Centrum],1650000,220000,1870000,1741,HusmanHagberg,488.7165953350251,Johannelund
+2016-06-16,Duvedsvägen 5,Vallingby,GronHasselby,2,59,1,Lägenhet,1955,[Vällingby Centrum],1795000,115000,1910000,3349,Fastighetsbyrån,356.01928808024996,Vallingby
+2016-06-16,Vittangigatan 43,Vallingby,GronHasselby,3,69,2,Lägenhet,1953,[Vällingby Centrum],2295000,305000,2600000,3407,HusmanHagberg,173.39531801919335,Vallingby
+2016-06-15,Multrågatan 19,Vallingby,GronHasselby,3,72.8,4,Lägenhet,1957,[Vällingby],2295000,55000,2350000,4191,Svensk Fastighetsförmedling,280.88718083077543,Racksta
+2016-06-12,Råckstavägen 25,Vallingby,GronHasselby,4,103,6,Lägenhet,2009,[Vällingby-Råcksta],3495000,40000,3535000,5285,Länsförsäkringar Fastighetsförmedling,441.2036349205927,Racksta
+2016-06-09,Kirunagatan 84,Vallingby,GronHasselby,2,58,1,Lägenhet,1954,[Vällingby Centrum],2500000,0,2500000,2997,Fastighetsbyrån,331.6772603709975,Johannelund
+2016-06-06,Vittangigatan 9,Vallingby,GronHasselby,3,75,3,Lägenhet,1952,[Vällingby Centrum],null,NaN,2950000,4070,Fastighetsbyrån,259.38959956595676,Vallingby
+2016-06-03,Kanngjutargränd 48,Vallingby,GronHasselby,4,96,2,Lägenhet,2004,[Vällingby],2950000,250000,3200000,5999,Fastighetsbyrån,584.2335944614218,Vallingby
+2016-06-03,Duvedsvägen 15,Vallingby,GronHasselby,1,35,2,Lägenhet,1955,[Vällingby Centrum],1595000,365000,1960000,2226,Mäklarhuset,272.58396956550104,Vallingby
+2016-06-03,Kirunagatan 82,Vallingby,GronHasselby,2,58,2,Lägenhet,null,[Vällingby Centrum],1995000,135000,2130000,2997,SkandiaMäklarna,325.5314106968606,Johannelund
+2016-06-01,Vittangigatan 16,Vallingby,GronHasselby,2,58,1,Lägenhet,1953,[Vällingby Centrum],1975000,100000,2075000,3358,Mäklarhuset,209.149886831832,Vallingby
+2016-06-01,Jämtlandsgatan 106,Vallingby,GronHasselby,1,42,1,Lägenhet,1952,[Vällingby Centrum],2095000,-300000,1795000,2223,Mäklarringen,260.5153120711322,Vallingby
+2016-06-01,Vittangigatan 20,Vallingby,GronHasselby,1,34,1,Lägenhet,1953,[Vällingby Centrum],1750000,225000,1975000,2071,HusmanHagberg,151.76225195220312,Vallingby
+2016-06-01,Råckstavägen 27,Vallingby,GronHasselby,3,92,null,Lägenhet,2008,[Vällingby],2795000,130000,2925000,4803,Fastighetsbyrån,454.70853978381314,Racksta
+2016-05-27,Funäsgatan 9,Vallingby,GronHasselby,4,130.8,null,Radhus,2016,[Vällingby Parkstad],4990000,110000,5100000,5827,Notar,281.54046623916776,Racksta
+2016-05-27,Nickelgränd,Vallingby,GronHasselby,3,76,6.5,Lägenhet,1958,[Vällingby],2900000,0,2900000,3394,Fastighetsbyrån,192.71927366572086,Racksta
+2016-05-26,Multrågatan 23,Vallingby,GronHasselby,4,87.8,5,Lägenhet,1958,[Råcksta],2950000,-110000,2840000,4931,Hemverket,190.24711470673552,Racksta
+2016-05-26,Östersundsgatan 7,Vallingby,GronHasselby,1.5,54,7,Lägenhet,null,[Vällingby],1995000,305000,2300000,2925,Fastighetsbyrån,128.60073313714122,Racksta
+2016-05-25,Nickelgränd 14,Vallingby,GronHasselby,2,64,4,Lägenhet,1998,[Vällingby],1995000,45000,2040000,4945,Mäklarhuset,199.47471482784223,Racksta
+2016-05-25,Vittangigatan 3,Vallingby,GronHasselby,2,58,3,Lägenhet,1952,[Vällingby Centrum],1795000,320000,2115000,3273,Fastighetsbyrån,268.37554524266335,Vallingby
+2016-05-22,Ångermannagatan 164,Vallingby,GronHasselby,3,76,null,Lägenhet,1953,[Vällingby Centrum],2495000,225000,2720000,4351,SkandiaMäklarna,131.84135898808088,Vallingby
+2016-05-21,Vällingbyvägen 45,Vallingby,GronHasselby,6,82,null,Villa,1954,[Vällingby],4675000,1035000,5710000,null,Bjurfors,679.6132408519072,Vallingby
+2016-05-20,Kirunagatan 82,Vallingby,GronHasselby,2,58,3,Lägenhet,1954,[Vällingby Centrum],1995000,265000,2260000,2997,Mäklarhuset,325.5314106968606,Johannelund
+2016-05-17,Jämtlandsgatan 110,Vallingby,GronHasselby,2,58,2,Lägenhet,1952,[Vällingby],1875000,250000,2125000,3114,BOSTHLM,263.8056448800474,Vallingby
+2016-05-17,Ljusdalsgatan 8,Vallingby,GronHasselby,5,107,null,Radhus,2016,[Vällingby],4875000,0,4875000,4936,Erik Olsson Fastighetsförmedling,318.5400641661088,Racksta
+2016-05-16,Jämtlandsgatan 150,Vallingby,GronHasselby,1,33,6,Lägenhet,1952,[Vällingby Centrum],1595000,405000,2000000,2048,Fastighetsbyrån,202.46979624216806,Vallingby
+2016-05-13,Arbrågatan 15,Vallingby,GronHasselby,6,120,null,Villa,1960,[Vällingby],5475000,1185000,6660000,null,Svensk Fastighetsförmedling,598.9728613719246,Vallingby
+2016-05-13,Råcksta Gårdsväg 28,Vallingby,GronHasselby,2,40,5,Lägenhet,null,[Vällingby],1875000,25000,1900000,2748,Svenska Mäklarhuset,252.14920748127162,Racksta
+2016-05-11,Jämtlandsgatan 150,Vallingby,GronHasselby,1,33,3,Lägenhet,1952,[Vällingby],1495000,505000,2000000,2048,Bjurfors,202.46979624216806,Vallingby
+2016-05-11,Härjedalsgatan 5,Vallingby,GronHasselby,2,60,2.5,Lägenhet,1956,[Vällingby Centrum],1995000,205000,2200000,3010,Mäklarhuset,408.69406671338095,Vallingby
+2016-05-11,Östersundsgatan 7,Vallingby,GronHasselby,1,40,5,Lägenhet,null,[Hässelby-Vällingby],1750000,355000,2105000,2167,SkandiaMäklarna,128.60073313714122,Racksta
+2016-05-09,Jämtlandsgatan 152,Vallingby,GronHasselby,5,132,11,Lägenhet,1953,[Vällingby Centrum],3795000,225000,4020000,4960,Mäklarringen,225.26263211733666,Vallingby
+2016-05-06,Vällingbyvägen 116,Vallingby,GronHasselby,5,102,null,Radhus,1956,[Vällingbyhöjden],4475000,445000,4920000,4700,Bjurfors,535.4854430794978,Vallingby
+2016-05-05,Vittangigatan 16,Vallingby,GronHasselby,1,34,3,Lägenhet,1953,[Vällingby Centrum],1695000,385000,2080000,2071,Mäklarhuset,209.149886831832,Vallingby
+2016-05-04,Råcksta Gårdsväg 21,Vallingby,GronHasselby,3,75,3,Lägenhet,2011,[Vällingby],2595000,245000,2840000,4499,Fastighetsbyrån,303.4033998461812,Racksta
+2016-05-04,Nickelgränd 10,Vallingby,GronHasselby,3,75,6,Lägenhet,1958,[Vällingby],2595000,405000,3000000,3349,Mäklarhuset,151.82256408063617,Racksta
+2016-05-04,Vittangigatan 9,Vallingby,GronHasselby,3,75,3,Lägenhet,1952,[Vällingby Centrum],2595000,0,2595000,4070,Mäklarhuset,259.38959956595676,Vallingby
+2016-04-29,Kirunagatan 19,Vallingby,GronHasselby,4,86,5,Lägenhet,null,[Vällingby Centrum],2595000,165000,2760000,6110,Mäklarhuset,442.67298612303347,Vallingby
+2016-04-29,Östersundsgatan 7,Vallingby,GronHasselby,1,38,11,Lägenhet,2015,[Vällingby Råcksta],1995000,5000,2000000,2058,HusmanHagberg,128.60073313714122,Racksta
+2016-04-29,Multrågatan 19,Vallingby,GronHasselby,4,84.8,8,Lägenhet,1958,[Vällingby Råcksta],2595000,10000,2605000,4767,Notar,280.88718083077543,Racksta
+2016-04-28,Mörsilsgatan 32,Vallingby,GronHasselby,2,40,1,Lägenhet,1954,[Vällingby Centrum],1675000,495000,2170000,1679,Mäklarhuset,354.5290549482398,Vallingby
+2016-04-28,Kirunagatan 25N,Vallingby,GronHasselby,3,65,1,Lägenhet,2005,[Vällingby],2195000,355000,2550000,4668,Mäklarhuset,358.09900534326704,Vallingby
+2016-04-27,Råcksta Gårdsväg 21,Vallingby,GronHasselby,4,82,8,Lägenhet,2011,[Vällingby],2895000,455000,3350000,4839,Svensk Fastighetsförmedling,303.4033998461812,Racksta
+2016-04-27,Abiskovägen 16,Vallingby,GronHasselby,4,87,1,Lägenhet,1954,[Vällingby],2395000,285000,2680000,4206,Svensk Fastighetsförmedling,467.6772847344437,Johannelund
+2016-04-27,Multrågatan 23,Vallingby,GronHasselby,4,84.8,8,Lägenhet,1958,[Vällingby Råcksta],2495000,130000,2625000,4767,Mäklarringen,190.24711470673552,Racksta
+2016-04-22,Bollnäsbacken 44,Vallingby,GronHasselby,4,112,null,Lägenhet,1957,[Vällingbyhöjden],4450000,355000,4805000,5138,Länsförsäkringar Fastighetsförmedling,790.0762789746431,Johannelund
+2016-04-22,Kirunagatan 66,Vallingby,GronHasselby,4,85,2,Lägenhet,1954,[Vällingby Centrum],2495000,205000,2700000,4278,Länsförsäkringar Fastighetsförmedling,344.27068511371,Johannelund
+2016-04-22,Östersundsgatan 7,Vallingby,GronHasselby,1,46,15,Lägenhet,1957,[Råcksta],1895000,310000,2205000,2492,Mäklarhuset,128.60073313714122,Racksta
+2016-04-21,Mörsilsgatan 12,Vallingby,GronHasselby,3,68,2,Lägenhet,1955,[Vällingby Centrum],2195000,405000,2600000,3317,HusmanHagberg,340.43733300343024,Vallingby
+2016-04-20,Nickelgränd 4,Vallingby,GronHasselby,3,75,6,Lägenhet,1958,[Vällingby],2595000,305000,2900000,3349,Fastighetsbyrån,260.61449197386446,Racksta
+2016-04-19,Kirunagatan 30,Vallingby,GronHasselby,3,63,1,Lägenhet,1954,[Vällingby],2295000,55000,2350000,3198,Svensk Fastighetsförmedling,453.7075584959202,Vallingby
+2016-04-19,Råcksta Gårdsväg 28,Vallingby,GronHasselby,2,54,4,Lägenhet,null,[Hässelby-Vällingby],2195000,505000,2700000,3257,SkandiaMäklarna,252.14920748127162,Racksta
+2016-04-15,Vemdalsgatan 4,Vallingby,GronHasselby,1,21,2,Lägenhet,1722,[Vällingby],1775000,50000,1825000,1195,Bjurfors,199.54522112408355,Racksta
+2016-04-15,Mörsilsgatan 6,Vallingby,GronHasselby,3,68,2,Lägenhet,null,[Hässelby-Vällingby],2490000,130000,2620000,3317,SkandiaMäklarna,381.31366916147596,Vallingby
+2016-04-15,Multrågatan 17,Vallingby,GronHasselby,4,93,4,Lägenhet,2008,[Vällingby Råcksta],3195000,405000,3600000,4828,Mäklarringen,334.4748749223452,Racksta
+2016-04-14,Nickelgränd 14,Vallingby,GronHasselby,5,108,1,Lägenhet,1998,[Hässelby-Vällingby],2250000,1100000,3350000,7978,SkandiaMäklarna,199.47471482784223,Racksta
+2016-04-13,Jämtlandsgatan 90,Vallingby,GronHasselby,1,24,3,Lägenhet,1952,[Vällingby],1190000,310000,1500000,1270,Notar,344.96801584944234,Vallingby
+2016-04-11,Vittangigatan 16,Vallingby,GronHasselby,1,34,3,Lägenhet,1953,[Vällingby Centrum],1695000,405000,2100000,2071,Mäklarhuset,209.149886831832,Vallingby
+2016-04-10,Jämtlandsgatan 74,Vallingby,GronHasselby,2,56,1,Lägenhet,1952,[Vällingby Centrum],1995000,180000,2175000,2964,Mäklarringen,375.2635811537309,Vallingby
+2016-04-09,Vemdalsgatan 4,Vallingby,GronHasselby,3,84,1,Lägenhet,1722,[Vällingby],3995000,830000,4825000,4780,Bjurfors,199.54522112408355,Racksta
+2016-04-09,Vemdalsgatan 4,Vallingby,GronHasselby,3,73,1,Lägenhet,1722,[Vällingby],3595000,905000,4500000,4154,Bjurfors,199.54522112408355,Racksta
+2016-04-09,Vemdalsgatan 4,Vallingby,GronHasselby,1,34,1,Lägenhet,1722,[Vällingby],1995000,405000,2400000,1929,Bjurfors,199.54522112408355,Racksta
+2016-04-08,Vemdalsgatan 4,Vallingby,GronHasselby,3,69,2,Lägenhet,1722,[Vällingby],3395000,505000,3900000,3927,Bjurfors,199.54522112408355,Racksta
+2016-04-08,Vemdalsgatan 4,Vallingby,GronHasselby,3,72,2,Lägenhet,1722,[Vällingby],3595000,580000,4175000,4098,Bjurfors,199.54522112408355,Racksta
+2016-04-08,Kirunagatan 79,Vallingby,GronHasselby,4,104,null,Radhus,1955,[Vällingby Centrum],3495000,805000,4300000,null,Fastighetsbyrån,311.84846424348893,Johannelund
+2016-04-07,Kirunagatan 44,Vallingby,GronHasselby,3,70,1,Lägenhet,1954,[Vällingby],2190000,160000,2350000,3443,BOSTHLM,432.1441067422157,Johannelund
+2016-04-07,Mörsilsgatan 26,Vallingby,GronHasselby,4,94,2,Lägenhet,1954,[Vällingby Centrum],2995000,555000,3550000,4102,Fastighetsbyrån,328.4730198348415,Vallingby
+2016-04-07,Abiskovägen 6,Vallingby,GronHasselby,3,70,1,Lägenhet,1954,[Vällingby Centrum],2175000,425000,2600000,3523,HusmanHagberg,382.3701368008909,Johannelund
+2016-04-07,Mörsilsgatan 6,Vallingby,GronHasselby,1,41,1,Lägenhet,1955,[Vällingby Centrum],1695000,410000,2105000,2324,HusmanHagberg,381.31366916147596,Vallingby
+2016-04-06,Multrågatan 21,Vallingby,GronHasselby,3,73,2,Lägenhet,1958,[Vällingby],2395000,815000,3210000,4109,Svensk Fastighetsförmedling,235.28147299686586,Racksta
+2016-04-06,Funäsgatan 17,Vallingby,GronHasselby,5,129.8,null,Lägenhet,2016,[Vällingby Parkstad],4895000,170000,5065000,4937,BOSTHLM,269.94619895082127,Racksta
+2016-04-05,Kirunagatan 56,Vallingby,GronHasselby,2,58,2,Lägenhet,1954,[Vällingby Centrum],1995000,505000,2500000,2997,Mäklarringen,372.51768514924277,Johannelund
+2016-04-01,Vittangigatan 27,Vallingby,GronHasselby,2,58,2,Lägenhet,1952,[Vällingby Centrum],2175000,695000,2870000,3273,Mäklarhuset,170.04682194044398,Vallingby
+2016-03-29,Abiskovägen 24,Vallingby,GronHasselby,1,26,3,Lägenhet,1954,[Vällingby Centrum],1495000,505000,2000000,1581,Notar,453.7813983785284,Vallingby
+2016-03-23,Vittangigatan 20,Vallingby,GronHasselby,3,58,4,Lägenhet,1953,[Vällingby Centrum],2295000,205000,2500000,3358,HusmanHagberg,151.76225195220312,Vallingby
+2016-03-22,Härjedalsgatan 41,Vallingby,GronHasselby,3,75,2,Lägenhet,1955,[Vällingby Centrum],2175000,220000,2395000,4099,Fastighetsbyrån,396.7690249464944,Vallingby
+2016-03-22,Jämtlandsgatan 150,Vallingby,GronHasselby,3,78,6,Lägenhet,1952,[Vällingby Centrum],2495000,615000,3110000,4254,Fastighetsbyrån,202.46979624216806,Vallingby
+2016-03-21,Råcksta Gårdsväg 28,Vallingby,GronHasselby,2,40,4,Lägenhet,null,[Vällingby Råcksta],1795000,355000,2150000,2969,Notar,252.14920748127162,Racksta
+2016-03-21,Östersundsgatan 7,Vallingby,GronHasselby,4,97,10,Lägenhet,null,null,3500000,0,3500000,5254,SkandiaMäklarna,128.60073313714122,Racksta
+2016-03-20,Östersundsgatan 7,Vallingby,GronHasselby,2,48,10,Lägenhet,2015,[Vällingby],1895000,505000,2400000,2800,Fastighetsbyrån,128.60073313714122,Racksta
+2016-03-18,Östersundsgatan 7,Vallingby,GronHasselby,1,40,8,Lägenhet,null,[Hässelby-Vällingby],1750000,315000,2065000,2167,SkandiaMäklarna,128.60073313714122,Racksta
+2016-03-17,Kirunagatan 19,Vallingby,GronHasselby,2,56,7,Lägenhet,2006,[Vällingby],2095000,125000,2220000,4382,Svensk Fastighetsförmedling,442.67298612303347,Vallingby
+2016-03-16,Nickelgränd 6,Vallingby,GronHasselby,1,24,1,Lägenhet,1958,[Vällingby],1395000,565000,1960000,1072,Mäklarhuset,213.24696785883643,Racksta
+2016-03-16,Helgumsvägen 2,Vallingby,GronHasselby,2,49,null,Lägenhet,2008,[Vällingby],1795000,155000,1950000,3101,Fastighetsbyrån,325.50548202912705,Racksta
+2016-03-16,Vittangigatan 35,Vallingby,GronHasselby,4,87,1,Lägenhet,1952,[Vällingby Centrum],2475000,225000,2700000,4695,Mäklarhuset,156.03955024277602,Vallingby
+2016-03-15,Vittangigatan 16,Vallingby,GronHasselby,2,58,5,Lägenhet,null,[Vällingby Centrum],2095000,405000,2500000,3358,Fastighetsbyrån,209.149886831832,Vallingby
+2016-03-10,Jämtlandsgatan 150,Vallingby,GronHasselby,3,78,9,Lägenhet,1953,[Vällingby Centrum],2395000,530000,2925000,4254,Mäklarringen,202.46979624216806,Vallingby
+2016-03-09,Östersundsgatan 7,Vallingby,GronHasselby,1,38,12,Lägenhet,2015,[Vällingby],1875000,275000,2150000,2058,Fastighetsbyrån,128.60073313714122,Racksta
+2016-03-09,Råckstavägen 19,Vallingby,GronHasselby,2,61,null,Lägenhet,2008,[Vällingby],1975000,575000,2550000,3531,Bjurfors,395.8399880889754,Racksta
+2016-03-05,Helgumsvägen 4,Vallingby,GronHasselby,4,103,5,Lägenhet,2008,[Vällingby Råcksta],2995000,805000,3800000,5187,Mäklarringen,325.1839581962691,Racksta
+2016-03-04,Råcksta Gårdsväg 28,Vallingby,GronHasselby,3,75,10,Lägenhet,null,[Hässelby-Vällingby],2495000,685000,3180000,4307,SkandiaMäklarna,252.14920748127162,Racksta
+2016-03-03,Multrågatan 21,Vallingby,GronHasselby,4,84,6,Lägenhet,1958,[Vällingby],2395000,705000,3100000,4767,Svensk Fastighetsförmedling,235.28147299686586,Racksta
+2016-02-29,Nickelgränd 6,Vallingby,GronHasselby,3,76,5,Lägenhet,1958,[Vällingby Grimsta],2495000,-95000,2400000,3395,HusmanHagberg,213.24696785883643,Racksta
+2016-02-27,Kirunagatan 19,Vallingby,GronHasselby,2,45,1,Lägenhet,2006,[Vällingby Centrum],1695000,55000,1750000,3638,Mäklarhuset,442.67298612303347,Vallingby
+2016-02-26,Duvedsvägen 13,Vallingby,GronHasselby,1,35,1,Lägenhet,1955,[Vällingby Centrum],1595000,375000,1970000,2226,Fastighetsbyrån,288.49420924552174,Vallingby
+2016-02-26,Skattegårdsvägen 57,Vallingby,GronHasselby,3,78.5,2,Lägenhet,1996,[Vällingby],2595000,400000,2995000,4864,Svensk Fastighetsförmedling,585.6251704342737,Vallingby
+2016-02-26,Jämtlandsgatan 90,Vallingby,GronHasselby,1,24,2,Lägenhet,1952,[Vällingby Centrum],1475000,265000,1740000,1315,Mäklarhuset,344.96801584944234,Vallingby
+2016-02-26,Kirunagatan 44,Vallingby,GronHasselby,3,70,3,Lägenhet,1954,[Vällingby Centrum],2395000,545000,2940000,3494,Mäklarringen,432.1441067422157,Johannelund
+2016-02-25,Råckstavägen 15,Vallingby,GronHasselby,3,84,3,Lägenhet,2008,[Vällingby],2575000,685000,3260000,4426,Bjurfors,361.222717348599,Racksta
+2016-02-25,Vällingbyvägen 76,Vallingby,GronHasselby,4,98,null,Radhus,1956,[Vällingbyhöjden],4175000,325000,4500000,4700,Bjurfors,624.1418975199423,Vallingby
+2016-02-24,Lyckselevägen 158,Vallingby,GronHasselby,5,90,null,Radhus,1954,[Vällingby],3975000,685000,4660000,null,Länsförsäkringar Fastighetsförmedling,470.3149934124949,Johannelund
+2016-02-22,Östersundsgatan 7,Vallingby,GronHasselby,4,97,12,Lägenhet,1950,[Vällingby Råcksta],2990000,590000,3580000,5254,Notar,128.60073313714122,Racksta
+2016-02-22,Östersundsgatan 7,Vallingby,GronHasselby,1,40,10,Lägenhet,null,[Hässelby-Vällingby],1750000,320000,2070000,2167,SkandiaMäklarna,128.60073313714122,Racksta
+2016-02-20,Vittangigatan 45,Vallingby,GronHasselby,3,69,1,Lägenhet,1953,[Vällingby],2495000,465000,2960000,3407,Mäklarhuset,167.01606699668287,Vallingby
+2016-02-20,Kirunagatan 19,Vallingby,GronHasselby,4,86,5,Lägenhet,null,[Vällingby],2795000,138000,2933000,6110,Mäklarhuset,442.67298612303347,Vallingby
+2016-02-19,Mörsilsgatan 14,Vallingby,GronHasselby,1,41,1,Lägenhet,1955,[Vällingby],1795000,165000,1960000,2324,Mäklarhuset,329.0012935259494,Vallingby
+2016-02-18,Järvsögränd 17,Vallingby,GronHasselby,6,125,null,Radhus,1957,[Vällingbyhöjden],4750000,770000,5520000,3707,Länsförsäkringar Fastighetsförmedling,789.333785132864,Vallingby
+2016-02-18,Mörsilsgatan 18,Vallingby,GronHasselby,2,37,7,Lägenhet,1955,[Hässelby-Vällingby],1790000,370000,2160000,2177,SkandiaMäklarna,316.9383309850938,Vallingby
+2016-02-18,Vittangigatan 10,Vallingby,GronHasselby,1,23,5.5,Lägenhet,1953,[Vällingby Centrum],1495000,250000,1745000,1554,HusmanHagberg,242.03680755001855,Vallingby
+2016-02-17,Råcksta Gårdsväg 23,Vallingby,GronHasselby,3,70,0,Lägenhet,2011,[Vällingby],2195000,705000,2900000,4578,Fastighetsbyrån,286.5220571795062,Racksta
+2016-02-16,Östersundsgatan 7,Vallingby,GronHasselby,1,54,6,Lägenhet,1957,[Vällingby],1895000,515000,2410000,2925,Fastighetsbyrån,128.60073313714122,Racksta
+2016-02-16,Mörsilsgatan 20,Vallingby,GronHasselby,1,29,0.5,Lägenhet,null,[Vällingby Centrum],1495000,325000,1820000,1883,Svenska Mäklarhuset,316.2830480858579,Vallingby
+2016-02-13,Jämtlandsgatan 94,Vallingby,GronHasselby,2,56,2.5,Lägenhet,1952,[Vällingby],1995000,205000,2200000,2964,Mäklarhuset,327.6706385694472,Vallingby
+2016-02-13,Ångermannagatan 176,Vallingby,GronHasselby,2,58.5,null,Lägenhet,1954,[Vällingby Centrum],1995000,435000,2430000,3500,Länsförsäkringar Fastighetsförmedling,189.60241169699418,Vallingby
+2016-02-12,Östersundsgatan 7,Vallingby,GronHasselby,1,39,13,Lägenhet,null,[Vån],1750000,350000,2100000,2113,SkandiaMäklarna,128.60073313714122,Racksta
+2016-02-10,Östersundsgatan 7,Vallingby,GronHasselby,1,46,3,Lägenhet,2015,[Vällingby Råcksta],1995000,125000,2120000,2492,HusmanHagberg,128.60073313714122,Racksta
+2016-02-07,Ulvögatan 5,Vallingby,GronHasselby,7,157,null,Kedjehus,1959,[Hässelby-Vällingby],5275000,525000,5800000,null,Svensk Fastighetsförmedling,603.2419966876224,Vallingby
+2016-02-05,Vittangigatan 45,Vallingby,GronHasselby,3,69,1,Lägenhet,1953,[Vällingby],2395000,505000,2900000,3407,Mäklarhuset,167.01606699668287,Vallingby
+2016-02-04,Östersundsgatan 7,Vallingby,GronHasselby,2,64,13,Lägenhet,null,[Vällingby],2095000,375000,2470000,3467,Fastighetsbyrån,128.60073313714122,Racksta
+2016-02-04,Mörsilsgatan 8,Vallingby,GronHasselby,3,68,2,Lägenhet,1955,[Vällingby Centrum],1975000,600000,2575000,3317,SthlmFast,364.4717532525613,Vallingby
+2016-02-03,Kirunagatan 17,Vallingby,GronHasselby,2,45,5,Lägenhet,2006,[Vällingby],2230000,0,2230000,3619,BOSTHLM,405.0320367259791,Vallingby
+2016-02-03,Mörsilsgatan 14,Vallingby,GronHasselby,1,29,1,Lägenhet,1955,[Vällingby Centrum],1495000,325000,1820000,1883,HusmanHagberg,329.0012935259494,Vallingby
+2016-02-03,Mörsilsgatan 6,Vallingby,GronHasselby,2,29,2,Lägenhet,1955,[Vällingby Centrum],1495000,465000,1960000,1883,SthlmFast,381.31366916147596,Vallingby
+2016-02-03,Mörsilsgatan 20,Vallingby,GronHasselby,1,29,2,Lägenhet,null,[Vällingby Centrum],1790000,70000,1860000,1883,Svenska Mäklarhuset,316.2830480858579,Vallingby
+2016-02-02,Fjällnäsgatan 4,Vallingby,GronHasselby,1,39,null,Lägenhet,1956,[Vällingby Centrum],1495000,515000,2010000,1957,ERA,361.67268478187486,Vallingby
+2016-02-02,Ramselegatan 29,Vallingby,GronHasselby,5,104,null,Radhus,1953,[Vällingby],4875000,45000,4920000,4019,Bjurfors,624.8807880066754,Racksta
+2016-01-29,Jämtlandsgatan 150,Vallingby,GronHasselby,2,61,10,Lägenhet,1952,[Vällingby Centrum],2195000,325000,2520000,3420,Fastighetsbyrån,202.46979624216806,Vallingby
+2016-01-29,Ångermannagatan 164,Vallingby,GronHasselby,5,117,10,Lägenhet,1954,[Vällingby Centrum],3395000,305000,3700000,6411,Länsförsäkringar Fastighetsförmedling,131.84135898808088,Vallingby
+2016-01-28,Abiskovägen 22,Vallingby,GronHasselby,2,58,2,Lägenhet,null,[Vällingby],1795000,605000,2400000,2997,Mäklarhuset,471.6604984455275,Vallingby
+2016-01-25,Östersundsgatan 7,Vallingby,GronHasselby,2,64,10,Lägenhet,null,[Vällingby],2195000,0,2195000,3467,Fastighetsbyrån,128.60073313714122,Racksta
+2016-01-25,Östersundsgatan 7,Vallingby,GronHasselby,2,54,11,Lägenhet,2014,[Vällingby Råcksta],1995000,255000,2250000,2925,HusmanHagberg,128.60073313714122,Racksta
+2016-01-22,Mörsilsgatan 32,Vallingby,GronHasselby,1,34,5,Lägenhet,1954,[Hässelby-Vällingby],1490000,560000,2050000,1485,SkandiaMäklarna,354.5290549482398,Vallingby
+2016-01-21,Jämtlandsgatan 152,Vallingby,GronHasselby,1,33,6,Lägenhet,1953,[Vällingby Centrum],1595000,380000,1975000,1723,Mäklarringen,225.26263211733666,Vallingby
+2016-01-21,Fjällnäsgatan 6,Vallingby,GronHasselby,3,74,3,Lägenhet,1956,[Vällingby Centrum],2295000,285000,2580000,3712,Fastighetsbyrån,347.9832529801367,Vallingby
+2016-01-17,Östersundsgatan 7,Vallingby,GronHasselby,1,46,12,Lägenhet,null,[Hässelby-Vällingby],1995000,175000,2170000,2492,SkandiaMäklarna,128.60073313714122,Racksta
+2016-01-16,Lövångersgatan 13,Vallingby,GronHasselby,7,134,null,Radhus,1954,[Vällingbyhöjden],4750000,1775000,6525000,6000,Länsförsäkringar Fastighetsförmedling,819.6297250219524,Vallingby
+2016-01-15,Råcksta Gårdsväg 23,Vallingby,GronHasselby,3,76,1,Lägenhet,2011,[Vällingby],2495000,405000,2900000,4602,Fastighetsbyrån,286.5220571795062,Racksta
+2016-01-15,Abiskovägen 12,Vallingby,GronHasselby,4,85,3,Lägenhet,1954,[Hässelby-Vällingby],2795000,355000,3150000,4246,SkandiaMäklarna,438.82639278894294,Johannelund
+2016-01-14,Härjedalsgatan 78,Vallingby,GronHasselby,4,92,1,Lägenhet,1955,[Vällingby Centrum],2595000,515000,3110000,4309,Fastighetsbyrån,456.46740268961406,Vallingby
+2016-01-14,Jämtlandsgatan 150,Vallingby,GronHasselby,2,51,6,Lägenhet,1956,[Vällingby Centrum],1895000,205000,2100000,2929,Fastighetsbyrån,202.46979624216806,Vallingby
+2016-01-13,Kirunagatan 23G,Vallingby,GronHasselby,3,65,2,Lägenhet,2005,[Vällingby Centrum],1895000,205000,2100000,4668,Mäklarringen,449.8459828109231,Johannelund
+2016-01-13,Östersundsgatan 7,Vallingby,GronHasselby,2,64,9,Lägenhet,null,[Vällingby],2000000,210000,2210000,3467,Svenska Mäklarhuset,128.60073313714122,Racksta
+2016-01-13,Vittangigatan 1,Vallingby,GronHasselby,2,58,6,Lägenhet,1953,[Vällingby Centrum],1895000,565000,2460000,2950,Restate,236.5054772734514,Vallingby
+2016-01-12,Multrågatan 19,Vallingby,GronHasselby,3,73.2,3,Lägenhet,1958,[Vällingby Råcksta],2250000,300000,2550000,4109,Mäklarringen,280.88718083077543,Racksta
+2016-01-12,Vällingbyvägen 138,Vallingby,GronHasselby,2,60,2,Lägenhet,1956,[Vällingby Centrum],1995000,320000,2315000,3010,Mäklarringen,409.5349345432128,Vallingby
+2015-12-22,Härjedalsgatan 96,Vallingby,GronHasselby,4,92,1,Lägenhet,1955,[Vällingby Centrum],2495000,555000,3050000,4304,Fastighetsbyrån,442.45880124058846,Vallingby
+2015-12-21,Nickelgränd 12,Vallingby,GronHasselby,3,78,2,Lägenhet,1998,[Vällingby],2190000,460000,2650000,5841,Notar,219.6074010767971,Racksta
+2015-12-17,Jämtlandsgatan 150,Vallingby,GronHasselby,2,61,10,Lägenhet,1952,[Vällingby Centrum],1995000,465000,2460000,3420,Fastighetsbyrån,202.46979624216806,Vallingby
+2015-12-12,Multrågatan 11,Vallingby,GronHasselby,2,54,4,Lägenhet,2008,[Vällingby],1995000,465000,2460000,3281,Svensk Fastighetsförmedling,388.293541634218,Racksta
+2015-12-11,Håsjögränd 2,Vallingby,GronHasselby,3,73,3,Lägenhet,1958,[Vällingby],2095000,380000,2475000,4109,Mäklarhuset,121.23443242064208,Racksta
+2015-12-11,Jämtlandsgatan 154,Vallingby,GronHasselby,3,78,7,Lägenhet,1953,[Vällingby],2295000,615000,2910000,3668,Mäklarhuset,221.12564833638007,Vallingby
+2015-12-10,Vittangigatan 16,Vallingby,GronHasselby,1,34,null,Lägenhet,1953,[Hässelby-Vällingby],1795000,180000,1975000,2071,SkandiaMäklarna,209.149886831832,Vallingby
+2015-12-04,Jämtlandsgatan 98,Vallingby,GronHasselby,2,58,3,Lägenhet,1952,[Vällingby Centrum],1995000,105000,2100000,3009,HusmanHagberg,301.5592451712024,Vallingby
+2015-12-03,Råcksta Gårdsväg 23,Vallingby,GronHasselby,4,86,11,Lägenhet,2011,[Vällingby],2995000,375000,3370000,4985,Fastighetsbyrån,286.5220571795062,Racksta
+2015-12-02,Östersundsgatan 7,Vallingby,GronHasselby,1,47,15,Lägenhet,1957,[Vällingby],1695000,465000,2160000,2546,Mäklarhuset,128.60073313714122,Racksta
+2015-11-30,Råckstavägen 19,Vallingby,GronHasselby,4,103,3,Lägenhet,null,[Vällingby],2950000,350000,3300000,5763,Svenska Mäklarhuset,395.8399880889754,Racksta
+2015-11-28,Skattegårdsvägen 59,Vallingby,GronHasselby,3,78.5,3,Lägenhet,1996,[Vällingby Centrum],2495000,405000,2900000,4864,Fastighetsbyrån,597.5381794040636,Johannelund
+2015-11-26,Jämtlandsgatan 72,Vallingby,GronHasselby,1,23,2.5,Lägenhet,1952,[Vällingby],1395000,515000,1910000,1193,Mäklarhuset,382.14327559662297,Vallingby
+2015-11-26,Härjedalsgatan 39,Vallingby,GronHasselby,2,59,2,Lägenhet,1954,[Vällingby],1795000,455000,2250000,3349,Svensk Fastighetsförmedling,397.5438139466673,Vallingby
+2015-11-24,Ångermannagatan 170,Vallingby,GronHasselby,2,58.5,5,Lägenhet,1954,[Vällingby Centrum],1995000,485000,2480000,3462,Länsförsäkringar Fastighetsförmedling,152.58653222466415,Vallingby
+2015-11-21,Kirunagatan 32,Vallingby,GronHasselby,2,58,7,Lägenhet,1954,[Vällingby Centrum],2100000,200000,2300000,3037,HusmanHagberg,488.7165953350251,Johannelund
+2015-11-20,Östersundsgatan 7,Vallingby,GronHasselby,2,64,8,Lägenhet,1957,[Hässelby-Vällingby],2290000,10000,2300000,3467,SkandiaMäklarna,128.60073313714122,Racksta
+2015-11-18,Mörsilsgatan 30,Vallingby,GronHasselby,1,29,3,Lägenhet,1954,[Hässelby-Vällingby],1350000,610000,1960000,1205,SkandiaMäklarna,341.4094824563653,Vallingby
+2015-11-18,Vittangigatan 10,Vallingby,GronHasselby,5,111,8,Lägenhet,1953,[Vällingby Centrum],3495000,405000,3900000,6442,Fastighetsbyrån,242.03680755001855,Vallingby
+2015-11-18,Helgumsvägen 2,Vallingby,GronHasselby,4,103,4,Lägenhet,2008,[Vällingby],2875000,825000,3700000,5187,Svensk Fastighetsförmedling,325.50548202912705,Racksta
+2015-11-17,Östersundsgatan 7,Vallingby,GronHasselby,1.5,54,4,Lägenhet,null,[Hässelby-Vällingby],1995000,255000,2250000,2925,SkandiaMäklarna,128.60073313714122,Racksta
+2015-11-14,Råcksta Gårdsväg 23,Vallingby,GronHasselby,2,47,1,Lägenhet,2011,[Vällingby],1975000,0,1975000,3285,Svensk Fastighetsförmedling,286.5220571795062,Racksta
+2015-11-12,Nickelgränd 10,Vallingby,GronHasselby,3,75,3,Lägenhet,null,[Vällingby],2350000,60000,2410000,3349,Svenska Mäklarhuset,151.82256408063617,Racksta
+2015-11-12,Vittangigatan 1,Vallingby,GronHasselby,3,58,10,Lägenhet,1953,[Vällingby Centrum],2250000,420000,2670000,2950,HusmanHagberg,236.5054772734514,Vallingby
+2015-11-12,Kirunagatan 82,Vallingby,GronHasselby,2,58,2,Lägenhet,1954,[Vällingby],1895000,205000,2100000,2997,Svensk Fastighetsförmedling,325.5314106968606,Johannelund
+2015-11-12,Jämtlandsgatan 76,Vallingby,GronHasselby,2,56,1,Lägenhet,1952,[Vällingby Centrum],1895000,155000,2050000,2951,Länsförsäkringar Fastighetsförmedling,369.4719228652285,Vallingby
+2015-11-06,Vittangigatan 5,Vallingby,GronHasselby,3,75,2.5,Lägenhet,1952,[Vällingby],2495000,405000,2900000,4107,Mäklarhuset,267.45823206566615,Vallingby
+2015-11-03,Jämtlandsgatan 154,Vallingby,GronHasselby,1,33,1,Lägenhet,1953,[Vällingby Centrum],1590000,360000,1950000,1552,Notar,221.12564833638007,Vallingby
+2015-10-29,Nickelgränd 10,Vallingby,GronHasselby,2,63,1,Lägenhet,1958,[Vällingby],1795000,305000,2100000,2762,Mäklarhuset,151.82256408063617,Racksta
+2015-10-29,Skattegårdsvägen 57,Vallingby,GronHasselby,2,62,4,Lägenhet,1996,[Vällingby],1695000,1305000,3000000,4060,Mäklarhuset,585.6251704342737,Vallingby
+2015-10-27,Ångermannagatan 164,Vallingby,GronHasselby,3,77.5,9,Lägenhet,1954,[Vällingby Centrum],2500000,500000,3000000,4704,Länsförsäkringar Fastighetsförmedling,131.84135898808088,Vallingby
+2015-10-23,Grimstagatan 34,Vallingby,GronHasselby,2,66,5,Lägenhet,2002,[Vällingby],1995000,825000,2820000,3640,Mäklarhuset,322.6795570969538,Racksta
+2015-10-23,Råcksta Gårdsväg 23,Vallingby,GronHasselby,2,42,11,Lägenhet,2011,[Vällingby],1995000,300000,2295000,3308,Svensk Fastighetsförmedling,286.5220571795062,Racksta
+2015-10-22,Multrågatan 13,Vallingby,GronHasselby,2,54,2,Lägenhet,2008,[Vällingby],1895000,315000,2210000,3645,Svensk Fastighetsförmedling,381.326958798547,Racksta
+2015-10-22,Nickelgränd 10,Vallingby,GronHasselby,3,76,2,Lägenhet,1958,[Vällingby],2395000,275000,2670000,3395,Mäklarhuset,151.82256408063617,Racksta
+2015-10-21,Råcksta Gårdsväg 21,Vallingby,GronHasselby,3,70,2,Lägenhet,2011,[Vällingby],2475000,535000,3010000,4089,Svensk Fastighetsförmedling,303.4033998461812,Racksta
+2015-10-21,Jämtlandsgatan 150,Vallingby,GronHasselby,3,78,9,Lägenhet,1952,[Vällingby],2495000,55000,2550000,4254,Mäklarhuset,202.46979624216806,Vallingby
+2015-10-19,Jämtlandsgatan 154,Vallingby,GronHasselby,2,60,5,Lägenhet,1953,[Vällingby],1995000,305000,2300000,2822,Mäklarhuset,221.12564833638007,Vallingby
+2015-10-19,Hasselagränd 13,Vallingby,GronHasselby,6,134,null,Kedjehus,1959,[Vällingbyhöjden],4850000,1400000,6250000,null,Länsförsäkringar Fastighetsförmedling,593.3467300951696,Vallingby
+2015-10-16,Mörsilsgatan 12,Vallingby,GronHasselby,1,29,1,Lägenhet,1955,[Vällingby],1675000,175000,1850000,1883,Mäklarhuset,340.43733300343024,Vallingby
+2015-10-14,Vittangigatan 20,Vallingby,GronHasselby,1,34,2,Lägenhet,1956,[Vällingby Centrum],2305000,0,2305000,2031,Fastighetsbyrån,151.76225195220312,Vallingby
+2015-10-09,Östersundsgatan 7,Vallingby,GronHasselby,4,97,9,Lägenhet,1957,[Hässelby-Vällingby],3195000,105000,3300000,5254,SkandiaMäklarna,128.60073313714122,Racksta
+2015-10-08,Vittangigatan 13,Vallingby,GronHasselby,1,32,-0.5,Lägenhet,1952,[Vällingby Centrum],1595000,465000,2060000,1998,Fastighetsbyrån,244.5957749386111,Vallingby
+2015-10-08,Nickelgränd 10,Vallingby,GronHasselby,3,75,1,Lägenhet,1958,[Vällingby],1995000,755000,2750000,3350,Mäklarhuset,151.82256408063617,Racksta
+2015-10-06,Vittangigatan 16,Vallingby,GronHasselby,2,58,5,Lägenhet,1953,[Vällingby Centrum],1875000,425000,2300000,3358,HusmanHagberg,209.149886831832,Vallingby
+2015-10-06,Östersundsgatan 7,Vallingby,GronHasselby,1,39,12,Lägenhet,1957,[Vällingby],1795000,355000,2150000,2113,Mäklarhuset,128.60073313714122,Racksta
+2015-10-03,Abiskovägen 18,Vallingby,GronHasselby,2,58,2,Lägenhet,1954,[Vällingby Centrum],1895000,415000,2310000,2997,Fastighetsbyrån,484.2629833357755,Johannelund
+2015-10-01,Skattegårdsvägen 57,Vallingby,GronHasselby,3,78.5,1,Lägenhet,1996,[Vällingby Centrum],1995000,805000,2800000,4864,Fastighetsbyrån,585.6251704342737,Vallingby
+2015-09-30,Vittangigatan 39,Vallingby,GronHasselby,2,58,0.5,Lägenhet,1952,[Vällingby],2320000,0,2320000,3273,Svensk Fastighetsförmedling,165.14876075533402,Vallingby
+2015-09-30,Oviksgatan 24,Vallingby,GronHasselby,5,120,null,Villa,1952,[Vällingby],5175000,385000,5560000,null,Länsförsäkringar Fastighetsförmedling,872.4511245302757,Vallingby
+2015-09-24,Jämtlandsgatan 154,Vallingby,GronHasselby,5,132,10,Lägenhet,1953,[Vällingby Centrum],3590000,0,3590000,6208,Notar,221.12564833638007,Vallingby
+2015-09-23,Nickelgränd 10,Vallingby,GronHasselby,2,54,1,Lägenhet,1958,[Vällingby],1495000,1015000,2510000,2367,Mäklarhuset,151.82256408063617,Racksta
+2015-09-22,Ångermannagatan 170,Vallingby,GronHasselby,3,77.5,6,Lägenhet,1953,[Vällingby Centrum],2595000,405000,3000000,4630,Mäklarringen,152.58653222466415,Vallingby
+2015-09-18,Skattegårdsvägen 65,Vallingby,GronHasselby,2,61.8,3,Lägenhet,1997,[Vällingby Centrum],1495000,655000,2150000,4487,HusmanHagberg,578.4520602015912,Johannelund
+2015-09-18,Kanngjutargränd 48,Vallingby,GronHasselby,4,96,2,Lägenhet,2004,[Vällingby Grimsta],2495000,510000,3005000,5825,Mäklarringen,620.6161359937374,Vallingby
+2015-09-16,Härjedalsgatan 1,Vallingby,GronHasselby,2,60,2,Lägenhet,1956,[Vällingby Centrum],1850000,660000,2510000,3010,Länsförsäkringar Fastighetsförmedling,414.68025729327485,Vallingby
+2015-09-13,Östersundsgatan 7,Vallingby,GronHasselby,2,64,1,Lägenhet,null,[Hässelby-Vällingby],2195000,205000,2400000,3467,SkandiaMäklarna,128.60073313714122,Racksta
+2015-09-11,Östersundsgatan 7,Vallingby,GronHasselby,3,76,4,Lägenhet,null,[Hässelby-Vällingby],2495000,205000,2700000,4117,SkandiaMäklarna,128.60073313714122,Racksta
+2015-09-10,Jämtlandsgatan 150,Vallingby,GronHasselby,3,78,5,Lägenhet,1952,[Vällingby],2495000,355000,2850000,4254,Mäklarhuset,202.46979624216806,Vallingby
+2015-09-09,Östersundsgatan 7,Vallingby,GronHasselby,1.5,42,2,Lägenhet,1957,[Vällingby],1495000,665000,2160000,2275,Mäklarhuset,128.60073313714122,Racksta
+2015-09-09,Östersundsgatan 7,Vallingby,GronHasselby,1,46,10,Lägenhet,null,[Vällingby],1750000,430000,2180000,2492,Magnusson Mäkleri,128.60073313714122,Racksta
+2015-09-07,Arbrågatan 5,Vallingby,GronHasselby,7,190,null,Villa,1959,[Vällingbyhöjden],6950000,1050000,8000000,null,Länsförsäkringar Fastighetsförmedling,677.9513498287308,Vallingby
+2015-09-04,Multrågatan 23,Vallingby,GronHasselby,4,84.8,5,Lägenhet,1958,[Vällingby],2275000,245000,2520000,4767,Erik Olsson Fastighetsförmedling,190.24711470673552,Racksta
+2015-09-03,Långseleringen 37,Vallingby,GronHasselby,6,123,null,Radhus,1953,[Vällingby],4850000,575000,5425000,4444,Svensk Fastighetsförmedling,584.2671952491194,Racksta
+2015-09-03,Multrågatan 19,Vallingby,GronHasselby,4,87.7,4,Lägenhet,1958,[Vällingby],2095000,485000,2580000,4931,Mäklarhuset,280.88718083077543,Racksta
+2015-09-03,Jämtlandsgatan 108,Vallingby,GronHasselby,4,70,3,Lägenhet,1952,[Hässelby-Vällingby],2250000,0,2250000,3632,SkandiaMäklarna,255.0466051956063,Vallingby
+2015-09-03,Abiskovägen 6,Vallingby,GronHasselby,3,70,null,Lägenhet,1954,[Vällingby],2295000,90000,2385000,null,Svensk Fastighetsförmedling,382.3701368008909,Johannelund
+2015-09-03,Östersundsgatan 7,Vallingby,GronHasselby,1,54,14,Lägenhet,1957,[Vällingby],2195000,205000,2400000,2925,Mäklarhuset,128.60073313714122,Racksta
+2015-09-03,Östersundsgatan 7,Vallingby,GronHasselby,3,76,8,Lägenhet,1957,[Vällingby],2595000,105000,2700000,4117,Mäklarhuset,128.60073313714122,Racksta
+2015-08-27,Abiskovägen 6,Vallingby,GronHasselby,3,70,4,Lägenhet,null,[Vällingby Centrum],1975000,345000,2320000,3575,Svenska Mäklarhuset,382.3701368008909,Johannelund
+2015-08-27,Vittangigatan 5,Vallingby,GronHasselby,3,75,null,Lägenhet,1952,[Vällingby Centrum],2195000,15000,2210000,4107,Länsförsäkringar Fastighetsförmedling,267.45823206566615,Vallingby
+2015-08-27,Timrågatan 36,Vallingby,GronHasselby,4,96,null,Lägenhet,1958,[Vällingbyhöjden],3750000,750000,4500000,2527,Länsförsäkringar Fastighetsförmedling,746.6914794622514,Vallingby
+2015-08-27,Skattegårdsvägen 65,Vallingby,GronHasselby,4,89.4,2,Lägenhet,1995,[Vällingby],1695000,205000,1900000,6206,Notar,578.4520602015912,Johannelund
+2015-08-26,Abiskovägen 18,Vallingby,GronHasselby,1,26,3,Lägenhet,1954,[Vällingby Centrum],1450000,150000,1600000,1581,HusmanHagberg,484.2629833357755,Johannelund
+2015-08-25,Jämtlandsgatan 94,Vallingby,GronHasselby,2,56,2.5,Lägenhet,1952,[Vällingby],1995000,255000,2250000,2906,Mäklarhuset,327.6706385694472,Vallingby
+2015-08-22,Råcksta Gårdsväg 21,Vallingby,GronHasselby,4,82,2,Lägenhet,2012,[Vällingby Råcksta],2750000,460000,3210000,4839,HusmanHagberg,303.4033998461812,Racksta
+2015-08-20,Helgumsvägen 2,Vallingby,GronHasselby,3,80,3,Lägenhet,2008,[Råcksta],2295000,525000,2820000,4761,HusmanHagberg,325.50548202912705,Racksta
+2015-08-19,Multrågatan 19,Vallingby,GronHasselby,3,73.2,7,Lägenhet,1958,[Vällingby Råcksta],1995000,355000,2350000,4109,Mäklarringen,280.88718083077543,Racksta
+2015-08-19,Råcksta Gårdsväg 21,Vallingby,GronHasselby,2,47,5,Lägenhet,null,[Hässelby-Vällingby],1995000,355000,2350000,3361,SkandiaMäklarna,303.4033998461812,Racksta
+2015-08-17,Ångermannagatan 158,Vallingby,GronHasselby,1,35.5,2,Lägenhet,1954,[Vällingby Centrum],1495000,375000,1870000,2159,Länsförsäkringar Fastighetsförmedling,126.42513742024784,Vallingby
+2015-08-14,Östersundsgatan 7,Vallingby,GronHasselby,2,54,10,Lägenhet,null,[Hässelby-Vällingby],2095000,225000,2320000,2925,SkandiaMäklarna,128.60073313714122,Racksta
+2015-08-14,Nickelgränd 4,Vallingby,GronHasselby,3,76,4,Lägenhet,1958,[Vällingby Råcksta],1995000,555000,2550000,3395,Mäklarringen,260.61449197386446,Racksta
+2015-08-13,Nickelgränd 8,Vallingby,GronHasselby,5,149,7,Lägenhet,1958,[Vällingby Råcksta],2995000,905000,3900000,6655,Mäklarringen,177.98950836555386,Racksta
+2015-08-12,Vittangigatan 1,Vallingby,GronHasselby,2,58,10,Lägenhet,1953,[Vällingby Centrum],1995000,165000,2160000,2950,HusmanHagberg,236.5054772734514,Vallingby
+2015-08-11,Vittangigatan 39,Vallingby,GronHasselby,2,41,-1,Lägenhet,null,[Vällingby Centrum],1750000,400000,2150000,2440,Svenska Mäklarhuset,165.14876075533402,Vallingby
+2015-08-05,Östersundsgatan 7,Vallingby,GronHasselby,2,64,7,Lägenhet,null,[Vällingby],2495000,-8000,2487000,3467,Fastighetsbyrån,128.60073313714122,Racksta
+2015-07-29,Östersundsgatan 7,Vallingby,GronHasselby,1,54,2,Lägenhet,null,[Hässelby-Vällingby],1995000,335000,2330000,2925,SkandiaMäklarna,128.60073313714122,Racksta
+2015-07-17,Kirunagatan 30,Vallingby,GronHasselby,3,63,8,Lägenhet,1954,[Vällingby Centrum],2395000,305000,2700000,3320,HusmanHagberg,453.7075584959202,Vallingby
+2015-07-13,Kirunagatan 62,Vallingby,GronHasselby,3,70,3,Lägenhet,1954,[Vällingby],2190000,210000,2400000,3494,Notar,324.86022088935164,Johannelund
+2015-07-10,Östersundsgatan 7,Vallingby,GronHasselby,3,76,11,Lägenhet,null,[Vällingby Råcksta],2295000,325000,2620000,4117,Notar,128.60073313714122,Racksta
+2015-07-08,Östersundsgatan 7,Vallingby,GronHasselby,1,42,13,Lägenhet,null,[Hässelby-Vällingby],2095000,205000,2300000,2275,SkandiaMäklarna,128.60073313714122,Racksta
+2015-07-06,Vittangigatan 16,Vallingby,GronHasselby,1,23,5,Lägenhet,1953,[Vällingby Centrum],1475000,175000,1650000,1523,Fastighetsbyrån,209.149886831832,Vallingby
+2015-07-03,Grimstagatan 34,Vallingby,GronHasselby,5,107,6,Lägenhet,2002,[Vällingby Grimsta],2995000,60000,3055000,5902,HusmanHagberg,322.6795570969538,Racksta
+2015-07-01,Fjällnäsgatan 8,Vallingby,GronHasselby,1,39,null,Lägenhet,1956,[Vällingby Centrum],1595000,305000,1900000,1956,Mäklarringen,334.58111554185655,Vallingby
+2015-06-30,Mörsilsgatan 12,Vallingby,GronHasselby,1,29,1,Lägenhet,1955,[Vällingby],1595000,40000,1635000,1883,Mäklarhuset,340.43733300343024,Vallingby
+2015-06-21,Ramselegatan 3,Vallingby,GronHasselby,5,104,null,Radhus,1953,[Vällingby],4775000,50000,4825000,3756,Svensk Fastighetsförmedling,603.4232999132142,Racksta
+2015-06-18,Jämtlandsgatan 70,Vallingby,GronHasselby,4,86,2,Lägenhet,1952,[Vällingby Centrum],2400000,0,2400000,4461,Mäklarringen,367.43918977929815,Vallingby
+2015-06-18,Mässingsgränd 41,Vallingby,GronHasselby,5,114,null,Radhus,null,[Vällingby],2175000,-20000,2155000,null,Svensk Fastighetsförmedling,620.48604163394,Vallingby
+2015-06-18,Skattegårdsvägen 63,Vallingby,GronHasselby,2,61.8,2,Lägenhet,1996,[Vällingby],1550000,155000,1705000,4060,HusmanHagberg,584.8242007618403,Vallingby
+2015-06-17,Råckstavägen 25,Vallingby,GronHasselby,2,54,2,Lägenhet,2009,[Vällingby],1895000,305000,2200000,3324,Mäklarhuset,441.2036349205927,Racksta
+2015-06-17,Östersundsgatan 7,Vallingby,GronHasselby,1,40,12,Lägenhet,1957,[Vällingby],1895000,30000,1925000,2167,Mäklarhuset,128.60073313714122,Racksta
+2015-06-17,Jämtlandsgatan 150,Vallingby,GronHasselby,3,78,5,Lägenhet,null,[Vällingby],2495000,0,2495000,null,Mäklarhuset,202.46979624216806,Vallingby
+2015-06-16,Multrågatan 19,Vallingby,GronHasselby,3,73,4,Lägenhet,1958,[Vällingby],1995000,125000,2120000,4109,Mäklarhuset,280.88718083077543,Racksta
+2015-06-16,Kirunagatan 52,Vallingby,GronHasselby,2,58,3,Lägenhet,1954,[Vällingby Centrum],1975000,535000,2510000,2997,HusmanHagberg,407.1442028534799,Johannelund
+2015-06-12,Mörsilsgatan 32,Vallingby,GronHasselby,3,78,null,Lägenhet,null,[Vällingby Centrum],2475000,0,2475000,3242,Länsförsäkringar Fastighetsförmedling,354.5290549482398,Vallingby
+2015-06-12,Vittangigatan 31,Vallingby,GronHasselby,4,87,3,Lägenhet,1952,[Vällingby Centrum],2490000,435000,2925000,4695,Notar,156.6392393928666,Vallingby
+2015-06-12,Jämtlandsgatan 88,Vallingby,GronHasselby,5,112,1,Lägenhet,1952,[Vällingby Centrum],2595000,105000,2700000,5810,Fastighetsbyrån,329.8546429968129,Vallingby
+2015-06-11,Råcksta Gårdsväg 21,Vallingby,GronHasselby,4,86,10,Lägenhet,2011,[Vällingby],2895000,505000,3400000,4992,Fastighetsbyrån,303.4033998461812,Racksta
+2015-06-10,Jämtlandsgatan 84,Vallingby,GronHasselby,3,70,3,Lägenhet,1952,[Vällingby Centrum],1895000,225000,2120000,3632,Fastighetsbyrån,321.2946695700161,Vallingby
+2015-06-09,Härjedalsgatan 3,Vallingby,GronHasselby,2,60,3,Lägenhet,1956,[Vällingby Centrum],1795000,555000,2350000,3010,HusmanHagberg,423.8768297431337,Vallingby
+2015-06-08,Kirunagatan 64,Vallingby,GronHasselby,1,26,1,Lägenhet,null,[Vällingby],1250000,250000,1500000,1581,BOSTHLM,332.4022991246958,Johannelund
+2015-06-08,Kirunagatan 25G,Vallingby,GronHasselby,2,47,null,Lägenhet,2005,[Vällingby Centrum],1740000,0,1740000,3376,Mäklarringen,431.62120119922434,Johannelund
+2015-06-05,Duvedsvägen 11,Vallingby,GronHasselby,3,79,2,Lägenhet,1955,[Vällingby Centrum],1995000,410000,2405000,4121,HusmanHagberg,311.94020344803573,Vallingby
+2015-06-04,Kirunagatan 25H,Vallingby,GronHasselby,2,47,null,Lägenhet,2005,[Vällingby Centrum],1495000,255000,1750000,3376,Mäklarringen,406.7956228166185,Johannelund
+2015-06-04,Vällingbyvägen 70,Vallingby,GronHasselby,4,98,null,Villa,1956,[Vällingby],3975000,675000,4650000,null,Svensk Fastighetsförmedling,615.3505754625108,Vallingby
+2015-06-03,Vittangigatan 10,Vallingby,GronHasselby,2,58,1,Lägenhet,1953,[Vällingby Centrum],1795000,155000,1950000,3358,Fastighetsbyrån,242.03680755001855,Vallingby
+2015-06-03,Vittangigatan 1,Vallingby,GronHasselby,2,58,2,Lägenhet,1953,[Vällingby Centrum],1695000,465000,2160000,2950,HusmanHagberg,236.5054772734514,Vallingby
+2015-05-30,Härjedalsgatan 1,Vallingby,GronHasselby,2,60,2.5,Lägenhet,1956,[Vällingby],1650000,250000,1900000,3010,Mäklarhuset,414.68025729327485,Vallingby
+2015-05-29,Östersundsgatan 7,Vallingby,GronHasselby,1,46,12,Lägenhet,null,[Vällingby],1995000,105000,2100000,2492,SkandiaMäklarna,128.60073313714122,Racksta
+2015-05-29,Helgumsvägen 4,Vallingby,GronHasselby,2,54,1,Lägenhet,2008,[Vällingby],1795000,335000,2130000,3645,Fastighetsbyrån,325.1839581962691,Racksta
+2015-05-29,Östersundsgatan 7,Vallingby,GronHasselby,2,64,4,Lägenhet,null,[Vällingby],2195000,205000,2400000,null,Mäklarhuset,128.60073313714122,Racksta
+2015-05-29,Fjällnäsgatan 6,Vallingby,GronHasselby,3,74,1,Lägenhet,1956,[Vällingby Centrum],1895000,135000,2030000,3712,HusmanHagberg,347.9832529801367,Vallingby
+2015-05-29,Skattegårdsvägen 63,Vallingby,GronHasselby,1.5,52.4,null,Lägenhet,1996,[Vällingby Centrum],1495000,205000,1700000,3523,Mäklarringen,584.8242007618403,Vallingby
+2015-05-28,Multrågatan 23,Vallingby,GronHasselby,3,73,5,Lägenhet,1958,[Vällingby],1695000,65000,1760000,4109,Svensk Fastighetsförmedling,190.24711470673552,Racksta
+2015-05-25,Årevägen 15,Vallingby,GronHasselby,3,69,1.5,Lägenhet,1953,[Vällingby Centrum],1995000,105000,2100000,3316,Restate,313.2111337837505,Vallingby
+2015-05-22,Jämtlandsgatan 154,Vallingby,GronHasselby,1,33,2.5,Lägenhet,1953,[Vällingby],1395000,315000,1710000,1553,Mäklarhuset,221.12564833638007,Vallingby
+2015-05-21,Östersundsgatan 7,Vallingby,GronHasselby,1,39,null,Lägenhet,null,[Vällingby],1495000,525000,2020000,2113,SkandiaMäklarna,128.60073313714122,Racksta
+2015-05-21,Kirunagatan 32,Vallingby,GronHasselby,2,58,8,Lägenhet,1954,[Vällingby Centrum],1875000,130000,2005000,3056,Fastighetsbyrån,488.7165953350251,Johannelund
+2015-05-21,Vittangigatan 41,Vallingby,GronHasselby,2,58,1,Lägenhet,1952,[Vällingby],1875000,425000,2300000,3273,Svensk Fastighetsförmedling,166.8383834442769,Vallingby
+2015-05-21,Nickelgränd 8,Vallingby,GronHasselby,3,76,6,Lägenhet,1958,[Vällingby],2495000,255000,2750000,3395,Mäklarhuset,177.98950836555386,Racksta
+2015-05-20,Härjedalsgatan,Vallingby,GronHasselby,4,92,3,Lägenhet,1955,[Vällingby Centrum],1995000,475000,2470000,4221,Länsförsäkringar Fastighetsförmedling,435.3948597342099,Vallingby
+2015-05-15,Jämtlandsgatan 104,Vallingby,GronHasselby,3,70,0.5,Lägenhet,1952,[Vällingby Centrum],1995000,55000,2050000,3632,Mäklarringen,268.2902155076049,Vallingby
+2015-05-14,Mörsilsgatan 6,Vallingby,GronHasselby,3,68,2,Lägenhet,1955,[Vällingby Centrum],2245000,105000,2350000,3159,Notar,381.31366916147596,Vallingby
+2015-05-14,Medelpadsgatan 21,Vallingby,GronHasselby,7,100,null,Villa,1952,[Vällingby],5595000,505000,6100000,null,SkandiaMäklarna,638.1490076449466,Racksta
+2015-05-14,Kanngjutargränd 52,Vallingby,GronHasselby,2,51.5,1,Lägenhet,2004,[Vällingby Grimsta],1595000,280000,1875000,3388,Mäklarringen,515.4507267331658,Vallingby
+2015-05-13,Fjällnäsgatan 4,Vallingby,GronHasselby,3,74,1,Lägenhet,1956,[Vällingby Centrum],1975000,435000,2410000,3712,Fastighetsbyrån,361.67268478187486,Vallingby
+2015-05-07,Oviksgatan 77,Vallingby,GronHasselby,6,94,null,Villa,1952,[Vällingby],3750000,550000,4300000,null,Living Fastighetsmäkleri,761.0447168818565,Vallingby
+2015-05-06,Duvedsvägen 5,Vallingby,GronHasselby,2,59,3,Lägenhet,1955,[Vällingby Centrum],1695000,415000,2110000,3221,Svenska Mäklarhuset,356.01928808024996,Vallingby
+2015-05-06,Jämtlandsgatan 88,Vallingby,GronHasselby,4,90,2,Lägenhet,1952,[Vällingby],2350000,160000,2510000,4670,Erik Olsson Fastighetsförmedling,329.8546429968129,Vallingby
+2015-05-06,Kirunagatan 54,Vallingby,GronHasselby,1,26,3,Lägenhet,1954,[Vällingby],1195000,355000,1550000,1581,Svensk Fastighetsförmedling,367.8656355407159,Johannelund
+2015-05-02,Bollnäsbacken 28 ,Vallingby,GronHasselby,5,146.4,null,Radhus,1957,[Vällingby],4195000,1255000,5450000,6049,Notar,743.9337658601179,Johannelund
+2015-05-01,Medelpadsgatan 28,Vallingby,GronHasselby,6,94,null,Villa,1952,[Vällingby],5875000,275000,6150000,null,SkandiaMäklarna,747.0728307392612,Racksta
+2015-05-01,Medelpadsgatan 5,Vallingby,GronHasselby,4,67,null,Villa,1952,[Vällingby],4475000,295000,4770000,null,Bjurfors,566.19067300647,Racksta
+2015-05-01,Råcksta Gårdsväg 21,Vallingby,GronHasselby,3,70,null,Lägenhet,2011,[Vällingby],1995000,355000,2350000,4088,Svensk Fastighetsförmedling,303.4033998461812,Racksta
+2015-05-01,Årevägen 13,Vallingby,GronHasselby,3,69,1,Lägenhet,1953,[Vällingby Centrum],1995000,305000,2300000,3316,HusmanHagberg,328.44565864617687,Vallingby
+2015-04-30,Kirunagatan 19,Vallingby,GronHasselby,1.5,45,9,Lägenhet,2006,[Vällingby],1595000,470000,2065000,3638,SkandiaMäklarna,442.67298612303347,Vallingby
+2015-04-30,Jämtlandsgatan 94,Vallingby,GronHasselby,2,56,0.5,Lägenhet,1952,[Vällingby Centrum],1695000,405000,2100000,2906,Mäklarringen,327.6706385694472,Vallingby
+2015-04-29,Skattegårdsvägen 63,Vallingby,GronHasselby,2,62,1,Lägenhet,1996,[Vällingby],1395000,360000,1755000,4060,Svensk Fastighetsförmedling,584.8242007618403,Vallingby
+2015-04-29,Östersundsgatan 7,Vallingby,GronHasselby,2,64,7,Lägenhet,1957,[Vällingby],1995000,0,1995000,3467,Svenska Mäklarhuset,128.60073313714122,Racksta
+2015-04-29,Mörsilsgatan 14,Vallingby,GronHasselby,1,39,-1,Lägenhet,1955,[Vällingby],1395000,115000,1510000,null,Svensk Fastighetsförmedling,329.0012935259494,Vallingby
+2015-04-29,Kirunagatan 52,Vallingby,GronHasselby,2,58,2,Lägenhet,1954,[Vällingby],1675000,900000,2575000,2997,BOSTHLM,407.1442028534799,Johannelund
+2015-04-29,Vällingbyvägen 136,Vallingby,GronHasselby,2,60,null,Lägenhet,null,[Vällingby],1495000,405000,1900000,null,Mäklarhuset,420.4402978132976,Vallingby
+2015-04-24,Kirunagatan 62,Vallingby,GronHasselby,3,70,3,Lägenhet,1954,[Vällingby],1990000,345000,2335000,3494,Notar,324.86022088935164,Johannelund
+2015-04-24,Härjedalsgatan 116,Vallingby,GronHasselby,4,92,5,Lägenhet,1955,[Vällingby],2495000,355000,2850000,4220,Mäklarhuset,429.1463590424144,Vallingby
+2015-04-24,Kanngjutargränd 48,Vallingby,GronHasselby,4,93.5,4,Lägenhet,2004,[Vällingby Grimsta],2395000,15000,2410000,5742,HusmanHagberg,620.6161359937374,Vallingby
+2015-04-24,Råcksta Gårdsväg 23,Vallingby,GronHasselby,5,100,9,Lägenhet,2011,[Vällingby],2995000,365000,3360000,5839,Fastighetsbyrån,286.5220571795062,Racksta
+2015-04-22,Råcksta Gårdsväg 23,Vallingby,GronHasselby,4,86,4,Lägenhet,2011,[Vällingby Råcksta],2595000,265000,2860000,4985,Mäklarringen,286.5220571795062,Racksta
+2015-04-21,Kirunagatan 19,Vallingby,GronHasselby,2,45,8,Lägenhet,2006,[Vällingby],1490000,610000,2100000,3638,Svensk Fastighetsförmedling,442.67298612303347,Vallingby
+2015-04-21,Jämtlandsgatan 90,Vallingby,GronHasselby,1,23,2,Lägenhet,1952,[Vällingby Centrum],1295000,115000,1410000,1193,Mäklarringen,344.96801584944234,Vallingby
+2015-04-19,Selångergränd 21,Vallingby,GronHasselby,4,83,null,Villa,1953,[Vällingby],4200000,300000,4500000,null,SkandiaMäklarna,741.0666143006335,Racksta
+2015-04-17,Jämtlandsgatan 90,Vallingby,GronHasselby,2,59,3,Lägenhet,1952,[Vällingby Centrum],1695000,345000,2040000,3105,HusmanHagberg,344.96801584944234,Vallingby
+2015-04-17,Mörsilsgatan 14,Vallingby,GronHasselby,1,41,2.5,Lägenhet,null,[Vällingby],1495000,280000,1775000,2455,Mäklarhuset,329.0012935259494,Vallingby
+2015-04-16,Tornedalsgatan 29,Vallingby,GronHasselby,6,125,null,Radhus,null,[Vällingby],3200000,800000,4000000,5361,Svenska Mäklarhuset,720.1590918003911,Vallingby
+2015-04-15,Skattegårdsvägen 63,Vallingby,GronHasselby,3,78.5,1,Lägenhet,1996,[Vällingby Centrum],1595000,255000,1850000,4864,Mäklarringen,584.8242007618403,Vallingby
+2015-04-11,Mörsilsgatan 32,Vallingby,GronHasselby,1.5,39,1,Lägenhet,1954,[Vällingby Centrum],1690000,60000,1750000,1621,Notar,354.5290549482398,Vallingby
+2015-04-11,Ångermannagatan 23,Vallingby,GronHasselby,5,67,null,Villa,null,[Vällingby],3995000,430000,4425000,null,Mäklarhuset,907.371024553913,Vallingby
+2015-04-09,Råcksta Gårdsväg 21,Vallingby,GronHasselby,5,100,3,Lägenhet,null,[Vällingby],3200000,0,3200000,5696,Fastighetsbyrån,303.4033998461812,Racksta
+2015-04-07,Medelpadsgatan 28,Vallingby,GronHasselby,6,94,null,Villa,1952,[Vällingby],5875000,0,5875000,null,Svensk Fastighetsförmedling,747.0728307392612,Racksta
+2015-04-07,Östersundsgatan 7,Vallingby,GronHasselby,3,76,9,Lägenhet,null,[Vällingby Parkstad],2495000,0,2495000,4117,Notar,128.60073313714122,Racksta
+2015-04-01,Nickelgränd 18,Vallingby,GronHasselby,2,67,1,Lägenhet,null,[Vällingby],1390000,180000,1570000,5010,Svensk Fastighetsförmedling,238.04994781491914,Racksta
+2015-04-01,Jämtlandsgatan 78,Vallingby,GronHasselby,4,86,2,Lägenhet,1952,[Vällingby Centrum],1995000,405000,2400000,4461,Mäklarringen,351.7059152793461,Vallingby
+2015-03-31,Jämtlandsgatan 94,Vallingby,GronHasselby,1,24,2,Lägenhet,1952,[Vällingby Centrum],1295000,205000,1500000,1245,Mäklarringen,327.6706385694472,Vallingby
+2015-03-30,Härjedalsgatan 108,Vallingby,GronHasselby,4,92,1,Lägenhet,1955,[Vällingby],2495000,205000,2700000,4304,Länsförsäkringar Fastighetsförmedling,434.3749084847815,Vallingby
+2015-03-30,Hasselagränd 4,Vallingby,GronHasselby,3,55,null,Gård,null,[Vällingby],300000,5050000,5350000,null,Länsförsäkringar Fastighetsförmedling,657.7636372914992,Vallingby
+2015-03-28,Kanngjutargränd 50,Vallingby,GronHasselby,2,65.5,2,Lägenhet,2004,[Vällingby Grimsta],1695000,255000,1950000,4069,Mäklarringen,612.5823640340296,Vallingby
+2015-03-27,Jämtlandsgatan 150,Vallingby,GronHasselby,3,78,5,Lägenhet,1952,[Vällingby],2295000,405000,2700000,4254,Mäklarhuset,202.46979624216806,Vallingby
+2015-03-27,Härjedalsgatan 3,Vallingby,GronHasselby,2,60,2,Lägenhet,1956,[Vällingby Centrum],1695000,205000,1900000,3010,HusmanHagberg,423.8768297431337,Vallingby
+2015-03-26,Råcksta Gårdsväg 23,Vallingby,GronHasselby,2,47,2,Lägenhet,2011,[Vällingby],1745000,525000,2270000,3285,Svensk Fastighetsförmedling,286.5220571795062,Racksta
+2015-03-25,Vittangigatan 20,Vallingby,GronHasselby,2,58,2,Lägenhet,1953,[Vällingby],1795000,235000,2030000,3292,Svensk Fastighetsförmedling,151.76225195220312,Vallingby
+2015-03-25,Nickelgränd 4,Vallingby,GronHasselby,3,75,3,Lägenhet,1958,[Vällingby],2250000,570000,2820000,3350,Svenska Mäklarhuset,260.61449197386446,Racksta
+2015-03-25,Vittangigatan 21,Vallingby,GronHasselby,1,32,-0.5,Lägenhet,null,[Vällingby Centrum],1395000,175000,1570000,1998,Fastighetsbyrån,200.11716270934627,Vallingby
+2015-03-25,Brunflogatan 2,Vallingby,GronHasselby,6,89,null,Villa,1952,[Vällingby],3875000,925000,4800000,null,Bjurfors,698.6455070332987,Racksta
+2015-03-25,Mörsilsgatan 12,Vallingby,GronHasselby,3,68,3,Lägenhet,1955,[Vällingby Centrum],1995000,205000,2200000,3159,HusmanHagberg,340.43733300343024,Vallingby
+2015-03-25,Råckstavägen 21,Vallingby,GronHasselby,4,103,6,Lägenhet,2009,[Vällingby],2595000,755000,3350000,5285,Fastighetsbyrån,423.1151024639074,Racksta
+2015-03-24,Långseleringen 15,Vallingby,GronHasselby,5,104,null,Radhus,1953,[Vällingby],4275000,850000,5125000,3756,Svensk Fastighetsförmedling,565.6804399053242,Racksta
+2015-03-23,Jämtlandsgatan 152,Vallingby,GronHasselby,1,33,5,Lägenhet,1953,[Vällingby],1495000,85000,1580000,1723,Mäklarhuset,225.26263211733666,Vallingby
+2015-03-21,Kirunagatan 44,Vallingby,GronHasselby,3.5,70,1,Lägenhet,1954,[Vällingby Centrum],2175000,225000,2400000,3443,Mäklarringen,432.1441067422157,Johannelund
+2015-03-20,Abiskovägen 24,Vallingby,GronHasselby,1,26,3,Lägenhet,1954,[Vällingby],1295000,130000,1425000,1581,Mäklarhuset,453.7813983785284,Vallingby
+2015-03-20,Långseleringen 88,Vallingby,GronHasselby,6,123,null,Radhus,1953,[Vällingby],4300000,610000,4910000,4257,Fastighetsbyrån,640.8450815161121,Racksta
+2015-03-19,Vittangigatan 1,Vallingby,GronHasselby,2,58,9,Lägenhet,1953,[Vällingby Centrum],1850000,270000,2120000,2950,Restate,236.5054772734514,Vallingby
+2015-03-13,Kirunagatan 44,Vallingby,GronHasselby,3,70,3,Lägenhet,null,[Vällingby],1995000,75000,2070000,3494,SkandiaMäklarna,432.1441067422157,Johannelund
+2015-03-13,Jämtlandsgatan 110,Vallingby,GronHasselby,2,58,2,Lägenhet,null,[Vällingby],1795000,230000,2025000,3054,SkandiaMäklarna,263.8056448800474,Vallingby
+2015-03-12,Råcksta Gårdsväg 21,Vallingby,GronHasselby,4,82,11,Lägenhet,2011,[Vällingby],2695000,505000,3200000,4839,Fastighetsbyrån,303.4033998461812,Racksta
+2015-03-12,Ångermannagatan 164,Vallingby,GronHasselby,3,75,null,Lägenhet,1954,[Vällingby],2150000,225000,2375000,4152,Länsförsäkringar Fastighetsförmedling,131.84135898808088,Vallingby
+2015-03-11,Mörsilsgatan 28,Vallingby,GronHasselby,1.5,39,1,Lägenhet,1954,[Vällingby Centrum],1490000,450000,1940000,1622,Notar,333.39372478774663,Vallingby
+2015-03-11,Östersundsgatan 7,Vallingby,GronHasselby,3,76,4,Lägenhet,null,[Vällingby Parkstad],2350000,0,2350000,4117,Notar,128.60073313714122,Racksta
+2015-03-06,Vittangigatan 1,Vallingby,GronHasselby,2,58,5,Lägenhet,1953,[Vällingby Centrum],1795000,230000,2025000,2950,Restate,236.5054772734514,Vallingby
+2015-03-04,Östersundsgatan 7,Vallingby,GronHasselby,3,76,6,Lägenhet,2015,[Vällingby Parkstad],2395000,-95000,2300000,4117,Notar,128.60073313714122,Racksta
+2015-03-03,Råckstavägen 21,Vallingby,GronHasselby,2,54,4,Lägenhet,2009,[Vällingby],1695000,705000,2400000,3324,Svensk Fastighetsförmedling,423.1151024639074,Racksta
+2015-03-01,Ångermannagatan 73,Vallingby,GronHasselby,9,206,null,Villa,1952,[Vällingby],5750000,800000,6550000,null,Mäklarhuset,768.8802048245008,Vallingby
+2015-02-27,Årevägen 17,Vallingby,GronHasselby,3,69,2,Lägenhet,1953,[Vällingby Centrum],1995000,35000,2030000,3316,HusmanHagberg,300.20286945353666,Vallingby
+2015-02-27,Vittangigatan 1,Vallingby,GronHasselby,2,58,1,Lägenhet,1953,[Vällingby Centrum],1795000,95000,1890000,2950,HusmanHagberg,236.5054772734514,Vallingby
+2015-02-20,Vittangigatan 1,Vallingby,GronHasselby,2,58,4,Lägenhet,1953,[Vällingby Centrum],1650000,470000,2120000,2950,Restate,236.5054772734514,Vallingby
+2015-02-20,Abiskovägen 6,Vallingby,GronHasselby,3,70,3,Lägenhet,1954,[Vällingby Centrum],2250000,160000,2410000,3558,HusmanHagberg,382.3701368008909,Johannelund
+2015-02-19,Mörsilsgatan 30,Vallingby,GronHasselby,1,28,2,Lägenhet,1954,[Vällingby Centrum],1190000,370000,1560000,1164,Notar,341.4094824563653,Vallingby
+2015-02-15,Ångermannagatan 158,Vallingby,GronHasselby,1,36,null,Lägenhet,1953,[Vällingby],1395000,335000,1730000,2328,SkandiaMäklarna,126.42513742024784,Vallingby
+2015-02-12,Nickelgränd 10,Vallingby,GronHasselby,5,149,8,Lägenhet,1958,[Vällingby-Råcksta],2995000,225000,3220000,6605,Magnusson Mäkleri,151.82256408063617,Racksta
+2015-02-12,Härjedalsgatan 11,Vallingby,GronHasselby,3,74,3,Lägenhet,1956,[Vällingby Centrum],1795000,260000,2055000,3712,Fastighetsbyrån,419.04668986209214,Vallingby
+2015-02-06,Årevägen 11,Vallingby,GronHasselby,3,69,1,Lägenhet,1953,[Vällingby],1895000,275000,2170000,3316,Mäklarhuset,340.91863888404697,Vallingby
+2015-02-05,Nickelgränd 12,Vallingby,GronHasselby,3,78,1,Lägenhet,1998,[Vällingby],1750000,100000,1850000,5786,Svenska Mäklarhuset,219.6074010767971,Racksta
+2015-02-05,Multrågatan 9,Vallingby,GronHasselby,3,87,5,Lägenhet,2009,[Vällingby],2195000,455000,2650000,4692,SkandiaMäklarna,394.57787742308875,Racksta
+2015-02-05,Jämtlandsgatan 80,Vallingby,GronHasselby,3,70,3,Lägenhet,1951,[Vällingby],1975000,330000,2305000,3632,Svensk Fastighetsförmedling,337.9413030460602,Vallingby
+2015-02-02,Nickelgränd 10,Vallingby,GronHasselby,3,76,3,Lägenhet,1958,[Vällingby],2250000,420000,2670000,3395,Mäklarhuset,151.82256408063617,Racksta
+2015-01-31,Östersundsgatan 7,Vallingby,GronHasselby,3,76,7,Lägenhet,2015,[Vällingby Parkstad],2450000,0,2450000,4117,Notar,128.60073313714122,Racksta
+2015-01-30,Abiskovägen 12,Vallingby,GronHasselby,4,85,2,Lägenhet,null,[Vällingby],2395000,215000,2610000,4246,SkandiaMäklarna,438.82639278894294,Johannelund
+2015-01-30,Mörsilsgatan 16,Vallingby,GronHasselby,2.5,67,1,Lägenhet,1955,[Vällingby Centrum],1650000,75000,1725000,3124,Svenska Mäklarhuset,317.87237367670144,Vallingby
+2015-01-30,Årevägen 11,Vallingby,GronHasselby,3,69,2,Lägenhet,1953,[Vällingby Centrum],1995000,55000,2050000,3316,Restate,340.91863888404697,Vallingby
+2015-01-23,Multrågatan 15,Vallingby,GronHasselby,3,84,3,Lägenhet,2008,[Vällingby],2295000,240000,2535000,4918,Svensk Fastighetsförmedling,351.8682962591485,Racksta
+2015-01-22,Vittangigatan 1,Vallingby,GronHasselby,2,58,2,Lägenhet,1953,[Vällingby Centrum],1495000,415000,1910000,2950,Restate,236.5054772734514,Vallingby
+2015-01-22,Grimstagatan 34,Vallingby,GronHasselby,3,76,4,Lägenhet,2002,[Vällingby Grimsta],1995000,355000,2350000,4192,HusmanHagberg,322.6795570969538,Racksta
+2015-01-21,Lyckselevägen 87,Vallingby,GronHasselby,7,93,null,Villa,1954,[Vällingby],3195000,755000,3950000,0,Erik Olsson Fastighetsförmedling,521.7324233790926,Johannelund
+2015-01-20,Kanngjutargränd 50,Vallingby,GronHasselby,3,101.5,3,Lägenhet,2004,[Vällingby Grimsta],2795000,0,2795000,6008,Mäklarringen,612.5823640340296,Vallingby
+2015-01-14,Råcksta Gårdsväg 23,Vallingby,GronHasselby,5,100,3,Lägenhet,2011,[Vällingby],2595000,365000,2960000,5839,Svenska Mäklarhuset,286.5220571795062,Racksta
+2015-01-14,Jämtlandsgatan 152,Vallingby,GronHasselby,1,33,7,Lägenhet,1953,[Vällingby Centrum],1395000,305000,1700000,1723,Mäklarringen,225.26263211733666,Vallingby
+2015-01-14,Ångermannagatan 176,Vallingby,GronHasselby,3,76.5,2,Lägenhet,1954,[Vällingby Centrum],2195000,365000,2560000,4396,Länsförsäkringar Fastighetsförmedling,189.60241169699418,Vallingby
+2015-01-13,Vittangigatan 41,Vallingby,GronHasselby,2,58,2,Lägenhet,1952,[Vällingby],1795000,55000,1850000,3273,Svensk Fastighetsförmedling,166.8383834442769,Vallingby
+2015-01-09,Mörsilsgatan 26,Vallingby,GronHasselby,3.5,80,1,Lägenhet,1954,[Vällingby Centrum],2350000,100000,2450000,3228,Notar,328.4730198348415,Vallingby
+2015-01-09,Östersundsgatan 7,Vallingby,GronHasselby,2,54,14,Lägenhet,2014,[Vällingby Parkstad],1895000,0,1895000,2925,Notar,128.60073313714122,Racksta
+2015-01-08,Mässingsgränd 38,Vallingby,GronHasselby,5,114,1,Lägenhet,2001,[Vällingby Grimsta],2295000,225000,2520000,6945,Mäklarringen,619.6943265958657,Vallingby
+2015-01-04,Mörsilsgatan 6,Vallingby,GronHasselby,3,68,null,Lägenhet,1955,[Vällingby],1795000,155000,1950000,3159,Notar,381.31366916147596,Vallingby
+2014-12-24,Nickelgränd 10,Vallingby,GronHasselby,3,76,3,Lägenhet,1958,[Vällingby],2500000,-100000,2400000,3328,Fastighetsbyrån,151.82256408063617,Racksta
+2014-12-18,Mörsilsgatan 30,Vallingby,GronHasselby,3.5,78,1,Lägenhet,1954,[Vällingby Centrum],2490000,60000,2550000,3147,Notar,341.4094824563653,Vallingby
+2014-12-17,Vittangigatan 29,Vallingby,GronHasselby,2,58,1,Lägenhet,null,[Vällingby],1595000,265000,1860000,3273,Mäklarhuset,159.9002972308329,Vallingby
+2014-12-16,Råckstavägen 21,Vallingby,GronHasselby,3,84,null,Lägenhet,2008,[Vällingby],2295000,105000,2400000,4421,SkandiaMäklarna,423.1151024639074,Racksta
+2014-12-09,Nickelgränd 10,Vallingby,GronHasselby,3,75,2,Lägenhet,1958,[Vällingby],2195000,425000,2620000,3284,Mäklarhuset,151.82256408063617,Racksta
+2014-12-09,Kirunagatan 54,Vallingby,GronHasselby,6,138,2,Lägenhet,null,[Vällingby],2995000,0,2995000,6685,SkandiaMäklarna,367.8656355407159,Johannelund
+2014-12-09,Ångermannagatan 170,Vallingby,GronHasselby,1,36,6,Lägenhet,1954,[Vällingby Centrum],1395000,375000,1770000,2193,Länsförsäkringar Fastighetsförmedling,152.58653222466415,Vallingby
+2014-12-08,Ångermannagatan 176,Vallingby,GronHasselby,2,58.5,2,Lägenhet,1954,[Vällingby],1525000,366000,1891000,3219,Svensk Fastighetsförmedling,189.60241169699418,Vallingby
+2014-12-02,Vittangigatan 16,Vallingby,GronHasselby,2,58,5,Lägenhet,1956,[Vällingby Centrum],1700000,175000,1875000,3292,Fastighetsbyrån,209.149886831832,Vallingby
+2014-11-28,Mörsilsgatan 6,Vallingby,GronHasselby,1,41,1,Lägenhet,1955,[Vällingby Centrum],1395000,205000,1600000,2233,HusmanHagberg,381.31366916147596,Vallingby
+2014-11-26,Vittangigatan 20,Vallingby,GronHasselby,2,58,4,Lägenhet,1956,[Vällingby Centrum],1695000,125000,1820000,3292,Svenska Mäklarhuset,151.76225195220312,Vallingby
+2014-11-25,Vittangigatan 7,Vallingby,GronHasselby,1,32,null,Lägenhet,1953,[Vällingby Centrum],1350000,280000,1630000,1998,Mäklarringen,264.122212276653,Vallingby
+2014-11-20,Duvedsvägen 7,Vallingby,GronHasselby,2,59,1,Lägenhet,1955,[Vällingby Centrum],1395000,255000,1650000,3157,Länsförsäkringar Fastighetsförmedling,370.53862314013116,Vallingby
+2014-11-19,Vittangigatan 20,Vallingby,GronHasselby,1,34,null,Lägenhet,1956,[Vällingby Centrum],1495000,125000,1620000,2031,Fastighetsbyrån,151.76225195220312,Vallingby
+2014-11-19,Jämtlandsgatan 152,Vallingby,GronHasselby,1,33,8,Lägenhet,1953,[Vällingby],1295000,355000,1650000,1723,Mäklarhuset,225.26263211733666,Vallingby
+2014-11-17,Råckstavägen 19,Vallingby,GronHasselby,2,54,null,Lägenhet,null,[Vällingby],1650000,150000,1800000,3645,SkandiaMäklarna,395.8399880889754,Racksta
+2014-11-16,Skattegårdsvägen 71,Vallingby,GronHasselby,3,78.5,null,Lägenhet,1996,[Vällingby Centrum],1495000,135000,1630000,5410,Fastighetsbyrån,562.8224067439837,Johannelund
+2014-11-14,Östersundsgatan 7,Vallingby,GronHasselby,1,46,14,Lägenhet,null,[Vällingby Råcksta],1595000,105000,1700000,2492,Notar,128.60073313714122,Racksta
+2014-11-13,Skattegårdsvägen 61,Vallingby,GronHasselby,2,61.8,4,Lägenhet,1996,[Vällingby],1295000,305000,1600000,4060,Svenska Mäklarhuset,630.3062440903385,Johannelund
+2014-11-12,Härjedalsgatan 7,Vallingby,GronHasselby,3,74,null,Lägenhet,1956,[Vällingby Centrum],1595000,155000,1750000,3712,Fastighetsbyrån,414.87366814274833,Vallingby
+2014-11-12,Grimstagatan 34,Vallingby,GronHasselby,2,66,2,Lägenhet,2002,[Vällingby],1850000,80000,1930000,3640,Mäklarringen,322.6795570969538,Racksta
+2014-11-11,Härjedalsgatan 82,Vallingby,GronHasselby,4,92,null,Lägenhet,1955,[Vällingby],2350000,200000,2550000,4152,SkandiaMäklarna,452.5420020722594,Vallingby
+2014-11-11,Jämtlandsgatan 154,Vallingby,GronHasselby,3,78,3,Lägenhet,1953,[Vällingby],2250000,130000,2380000,3493,Mäklarhuset,221.12564833638007,Vallingby
+2014-11-08,Jämtlandsgatan 94,Vallingby,GronHasselby,2,56,2.5,Lägenhet,1952,[Vällingby],1650000,170000,1820000,2906,Mäklarhuset,327.6706385694472,Vallingby
+2014-11-07,Vällingbyvägen 138,Vallingby,GronHasselby,2,60,null,Lägenhet,1956,[Vällingby Centrum],1495000,90000,1585000,3010,Fastighetsbyrån,409.5349345432128,Vallingby
+2014-11-05,Vittangigatan 17,Vallingby,GronHasselby,1,32,null,Lägenhet,1952,[Vällingby Centrum],1295000,175000,1470000,1998,HusmanHagberg,222.55826830746463,Vallingby
+2014-11-04,Mörsilsgatan 6,Vallingby,GronHasselby,3,68,1,Lägenhet,1955,[Vällingby],1795000,205000,2000000,3159,Svenska Mäklarhuset,381.31366916147596,Vallingby
+2014-10-31,Kirunagatan 30,Vallingby,GronHasselby,2,56,7,Lägenhet,1954,[Vällingby Centrum],1695000,355000,2050000,2955,Fastighetsbyrån,453.7075584959202,Vallingby
+2014-10-30,Multrågatan 15,Vallingby,GronHasselby,2,54,4,Lägenhet,null,[Vällingby],1595000,315000,1910000,3645,Svensk Fastighetsförmedling,351.8682962591485,Racksta
+2014-10-28,Solleftegatan 82,Vallingby,GronHasselby,5,88,null,Radhus,1953,[Vällingby],3250000,480000,3730000,null,Svenska Mäklarhuset,775.2991103761883,Vallingby
+2014-10-24,Vällingbyvägen 116,Vallingby,GronHasselby,5,98,null,Lägenhet,null,[Vällingby],3375000,825000,4200000,4700,Svensk Fastighetsförmedling,535.4854430794978,Vallingby
+2014-10-24,Multrågatan 11,Vallingby,GronHasselby,4,103,5,Lägenhet,2008,[Vällingby-Råcksta],2450000,300000,2750000,5763,Länsförsäkringar Fastighetsförmedling,388.293541634218,Racksta
+2014-10-22,Multrågatan 15,Vallingby,GronHasselby,4,103,3,Lägenhet,2008,[Vällingby],2375000,545000,2920000,5763,Mäklarhuset,351.8682962591485,Racksta
+2014-10-21,Nickelgränd 10,Vallingby,GronHasselby,3,75,6,Lägenhet,1958,[Vällingby],2195000,175000,2370000,3285,Svenska Mäklarhuset,151.82256408063617,Racksta
+2014-10-21,Nickelgränd 4,Vallingby,GronHasselby,3,75,null,Lägenhet,1958,[Vällingby],2195000,255000,2450000,3285,Svenska Mäklarhuset,260.61449197386446,Racksta
+2014-10-18,Råcksta Gårdsväg 21,Vallingby,GronHasselby,2,47,5,Lägenhet,2012,[Vällingby],1695000,5000,1700000,3270,Mäklarringen,303.4033998461812,Racksta
+2014-10-17,Ångermannagatan 176,Vallingby,GronHasselby,3,77.5,6,Lägenhet,null,[Vällingby],2275000,50000,2325000,4409,Svensk Fastighetsförmedling,189.60241169699418,Vallingby
+2014-10-13,Mörsilsgatan 32,Vallingby,GronHasselby,3.5,78,2,Lägenhet,1954,[Vällingby],2095000,85000,2180000,3147,Notar,354.5290549482398,Vallingby
+2014-10-10,Vittangigatan 20,Vallingby,GronHasselby,1,23,2,Lägenhet,1956,[Vällingby Centrum],1195000,-5000,1190000,1523,Länsförsäkringar Fastighetsförmedling,151.76225195220312,Vallingby
+2014-10-09,Kanngjutargränd 48,Vallingby,GronHasselby,3,81.5,5,Lägenhet,2004,[Vällingby],1895000,135000,2030000,4938,Svenska Mäklarhuset,620.6161359937374,Vallingby
+2014-10-09,Kirunagatan 17,Vallingby,GronHasselby,2,45,6,Lägenhet,2006,[Vällingby],1595000,55000,1650000,3559,Hemverket,405.0320367259791,Vallingby
+2014-10-09,Oviksgatan 7,Vallingby,GronHasselby,5,157,null,Villa,1952,[Vällingby-Råcksta],4250000,-50000,4200000,null,Exbo,823.8258100737178,Vallingby
+2014-10-08,Vittangigatan 43,Vallingby,GronHasselby,3,69,null,Lägenhet,1950,[Vällingby],1995000,45000,2040000,3091,Mäklarhuset,173.39531801919335,Vallingby
+2014-10-03,Abiskovägen 6,Vallingby,GronHasselby,3,76,null,Lägenhet,null,[Vällingby Centrum],1750000,320000,2070000,3777,Fastighetsbyrån,382.3701368008909,Johannelund
+2014-10-02,Nickelgränd 12,Vallingby,GronHasselby,2,64,4,Lägenhet,null,[Vällingby],1495000,170000,1665000,4945,Svensk Fastighetsförmedling,219.6074010767971,Racksta
+2014-10-02,Multrågatan 17,Vallingby,GronHasselby,2,63,3,Lägenhet,2008,[Råcksta],1495000,355000,1850000,4001,Mäklarringen,334.4748749223452,Racksta
+2014-10-01,Jämtlandsgatan 76,Vallingby,GronHasselby,1,24,null,Lägenhet,null,[Vällingby],1295000,90000,1385000,1290,SkandiaMäklarna,369.4719228652285,Vallingby
+2014-10-01,Vittangigatan 17,Vallingby,GronHasselby,2,58,0.5,Lägenhet,null,[Vällingby Centrum],1595000,275000,1870000,3273,Fastighetsbyrån,222.55826830746463,Vallingby
+2014-10-01,Nickelgränd 4,Vallingby,GronHasselby,3,76,3,Lägenhet,1958,[Vällingby],1995000,55000,2050000,3284,Fastighetsbyrån,260.61449197386446,Racksta
+2014-09-30,Jämtlandsgatan 108,Vallingby,GronHasselby,2,59,3,Lägenhet,null,[Vällingby],1550000,90000,1640000,3105,Svensk Fastighetsförmedling,255.0466051956063,Vallingby
+2014-09-30,Råcksta Gårdsväg 28,Vallingby,GronHasselby,3,75,null,Lägenhet,2014,[Vällingby],2495000,25000,2520000,4307,SkandiaMäklarna,252.14920748127162,Racksta
+2014-09-25,Kirunagatan 15,Vallingby,GronHasselby,2,45,8,Lägenhet,2006,[Vällingby],1450000,325000,1775000,3559,Mäklarhuset,368.51420541769124,Vallingby
+2014-09-25,Jämtlandsgatan 110,Vallingby,GronHasselby,2,58,2,Lägenhet,1952,[Vällingby],1375000,260000,1635000,3054,BOSTHLM,263.8056448800474,Vallingby
+2014-09-23,Mörsilsgatan 6,Vallingby,GronHasselby,1,20,1,Lägenhet,null,[Vällingby],1100000,50000,1150000,1498,SkandiaMäklarna,381.31366916147596,Vallingby
+2014-09-23,Jämtlandsgatan 100,Vallingby,GronHasselby,2,58,1.5,Lägenhet,1952,[Vällingby],1495000,380000,1875000,3009,Mäklarhuset,288.6906659609662,Vallingby
+2014-09-20,Mörsilsgatan 28,Vallingby,GronHasselby,2,40,null,Lägenhet,1958,[Vällingby],1495000,255000,1750000,1614,SkandiaMäklarna,333.39372478774663,Vallingby
+2014-09-20,Lövångersgatan 33,Vallingby,GronHasselby,6,140,null,Lägenhet,null,[Vällingby],4000000,810000,4810000,5333,Svensk Fastighetsförmedling,847.343860554662,Vallingby
+2014-09-19,Vittangigatan 33,Vallingby,GronHasselby,4,87,3,Lägenhet,null,[Vällingby Centrum],2295000,50000,2345000,4695,Fastighetsbyrån,153.97274244131475,Vallingby
+2014-09-18,Jämtlandsgatan 116,Vallingby,GronHasselby,2,59,3,Lägenhet,1952,[Vällingby Centrum],1395000,160000,1555000,3105,HusmanHagberg,298.85909510744426,Vallingby
+2014-09-18,Vittangigatan 17,Vallingby,GronHasselby,2,58,0.5,Lägenhet,null,[Vällingby Centrum],1595000,305000,1900000,3273,Fastighetsbyrån,222.55826830746463,Vallingby
+2014-09-18,Jämtlandsgatan 150,Vallingby,GronHasselby,1,33,7,Lägenhet,null,[Vällingby Centrum],1195000,175000,1370000,2048,Fastighetsbyrån,202.46979624216806,Vallingby
+2014-09-18,Kanngjutargränd 45,Vallingby,GronHasselby,5,105,null,Villa,1993,[Vällingby Grimsta],2495000,445000,2940000,null,Mäklarringen,540.4208758209562,Vallingby
+2014-09-18,Kanngjutargränd 50,Vallingby,GronHasselby,3,101.5,3,Lägenhet,2004,[Vällingby Grimsta],2195000,485000,2680000,6008,Mäklarringen,612.5823640340296,Vallingby
+2014-09-12,Mörsilsgatan 20,Vallingby,GronHasselby,3,68,null,Lägenhet,1955,[Vällingby Centrum],1895000,55000,1950000,3159,Svenska Mäklarhuset,316.2830480858579,Vallingby
+2014-09-12,Råckstavägen 21,Vallingby,GronHasselby,3,84,3,Lägenhet,2009,[Vällingby],2295000,165000,2460000,4421,Fastighetsbyrån,423.1151024639074,Racksta
+2014-09-12,Härjedalsgatan 100,Vallingby,GronHasselby,4,92,1,Lägenhet,1955,[Vällingby],2195000,317000,2512000,4221,Länsförsäkringar Fastighetsförmedling,439.9013983251419,Vallingby
+2014-09-11,Nickelgränd 14,Vallingby,GronHasselby,2,64,1,Lägenhet,1998,[Råcksta],1450000,45000,1495000,4857,SverigeMäklaren,199.47471482784223,Racksta
+2014-09-10,Abiskovägen 18,Vallingby,GronHasselby,2,58,3,Lägenhet,1954,[Vällingby Centrum],1895000,5000,1900000,2997,Edward & Partners Fastighetsmäklare AB,484.2629833357755,Johannelund
+2014-09-09,Nickelgränd 4,Vallingby,GronHasselby,3,75,5,Lägenhet,1958,[Vällingby],2095000,345000,2440000,3259,Svenska Mäklarhuset,260.61449197386446,Racksta
+2014-09-08,Råcksta Gårdsväg 21,Vallingby,GronHasselby,2,47,9,Lägenhet,null,[Vällingby],1695000,165000,1860000,3269,SkandiaMäklarna,303.4033998461812,Racksta
+2014-09-04,Råckstavägen 15,Vallingby,GronHasselby,3,84,1,Lägenhet,2008,[Vällingby-Råcksta],2095000,205000,2300000,4918,Länsförsäkringar Fastighetsförmedling,361.222717348599,Racksta
+2014-09-04,Vittangigatan 10,Vallingby,GronHasselby,5,111,8,Lägenhet,null,[Vällingby],3150000,375000,3525000,6316,SkandiaMäklarna,242.03680755001855,Vallingby
+2014-09-03,Råckstavägen 27,Vallingby,GronHasselby,1,38,null,Lägenhet,2009,[Vällingby],1475000,145000,1620000,2608,Fastighetsbyrån,454.70853978381314,Racksta
+2014-09-03,Vittangigatan 43,Vallingby,GronHasselby,3,69,2,Lägenhet,null,[Vällingby],1750000,255000,2005000,3091,Svensk Fastighetsförmedling,173.39531801919335,Vallingby
+2014-09-03,Nickelgränd 10,Vallingby,GronHasselby,3,76,4,Lägenhet,1958,[Vällingby],1995000,355000,2350000,3328,Mäklarhuset,151.82256408063617,Racksta
+2014-08-30,Kanngjutargränd 48,Vallingby,GronHasselby,3,81.5,1,Lägenhet,2004,[Vällingby Grimsta],1795000,105000,1900000,4938,Mäklarringen,620.6161359937374,Vallingby
+2014-08-28,Jämtlandsgatan 94,Vallingby,GronHasselby,2,56,2.5,Lägenhet,1952,[Vällingby],1450000,100000,1550000,2905,Mäklarhuset,327.6706385694472,Vallingby
+2014-08-27,Kirunagatan 25K,Vallingby,GronHasselby,2,47,2,Lägenhet,2005,[Vällingby Centrum],1295000,205000,1500000,3376,HusmanHagberg,411.8334583880882,Johannelund
+2014-08-22,Kanngjutargränd 50,Vallingby,GronHasselby,4,93.5,2,Lägenhet,2004,[Vällingby Grimsta],2195000,105000,2300000,5742,Mäklarringen,612.5823640340296,Vallingby
+2014-08-22,Skattegårdsvägen 59,Vallingby,GronHasselby,4,89.5,null,Lägenhet,null,[Vällingby],1595000,415000,2010000,5631,Svensk Fastighetsförmedling,597.5381794040636,Johannelund
+2014-08-22,Jämtlandsgatan 74,Vallingby,GronHasselby,2,56,3,Lägenhet,1952,[Vällingby Centrum],1575000,0,1575000,2951,SverigeMäklaren,375.2635811537309,Vallingby
+2014-08-20,Järvsögränd 7,Vallingby,GronHasselby,5,125,null,Radhus,1957,[Vällingbyhöjden],3850000,660000,4510000,3707,Länsförsäkringar Fastighetsförmedling,743.4819058472968,Vallingby
+2014-08-20,Jämtlandsgatan 86,Vallingby,GronHasselby,1,23,1,Lägenhet,1952,[Vällingby Centrum],1100000,300000,1400000,1237,Mäklarringen,314.07100776189174,Vallingby
+2014-08-19,Kanngjutargränd 50,Vallingby,GronHasselby,2,56,null,Lägenhet,2004,[Vällingby Grimsta],1295000,295000,1590000,3448,Mäklarringen,612.5823640340296,Vallingby
+2014-08-15,Råcksta Gårdsväg 23,Vallingby,GronHasselby,4,82,5,Lägenhet,2011,[Vällingby-Råcksta],2395000,35000,2430000,4954,Fastighetsbyrån,286.5220571795062,Racksta
+2014-08-15,Vittangigatan 10,Vallingby,GronHasselby,1,34,6.5,Lägenhet,1953,[Vällingby Centrum],1295000,315000,1610000,2031,HusmanHagberg,242.03680755001855,Vallingby
+2014-08-15,Multrågatan 13,Vallingby,GronHasselby,5,132,3,Lägenhet,2008,[Vällingby Råcksta],2895000,465000,3360000,6993,Mäklarringen,381.326958798547,Racksta
+2014-08-14,Arbrågatan 19,Vallingby,GronHasselby,6,116,null,Villa,1961,[Vällingbyhöjden],5750000,850000,6600000,null,Länsförsäkringar Fastighetsförmedling,598.6907970418862,Vallingby
+2014-08-14,Nickelgränd 10,Vallingby,GronHasselby,3,75,5,Lägenhet,1958,[Vällingby],1995000,195000,2190000,3284,Mäklarhuset,151.82256408063617,Racksta
+2014-08-09,Ångermannagatan 164,Vallingby,GronHasselby,2,58.5,null,Lägenhet,1953,[Vällingby],1695000,340000,2035000,3237,SkandiaMäklarna,131.84135898808088,Vallingby
+2014-08-01,Jämtlandsgatan 76,Vallingby,GronHasselby,1,24,3,Lägenhet,1952,[Vällingby],1095000,275000,1370000,1245,BOSTHLM,369.4719228652285,Vallingby
+2014-07-30,Mörsilsgatan 24,Vallingby,GronHasselby,1,17,null,Lägenhet,null,[Vällingby],895000,355000,1250000,686,Svensk Fastighetsförmedling,328.20495324263857,Vallingby
+2014-07-21,Mörsilsgatan 32,Vallingby,GronHasselby,1,17,4,Lägenhet,1954,[Vällingby Centrum],1095000,255000,1350000,686,HusmanHagberg,354.5290549482398,Vallingby
+2014-07-13,Grimstagatan 34,Vallingby,GronHasselby,3,76,3,Lägenhet,2002,[Vällingby Råcksta],1900000,415000,2315000,4192,Notar,322.6795570969538,Racksta
+2014-07-12,Råcksta Gårdsväg 28,Vallingby,GronHasselby,2,40,9,Lägenhet,2014,[Vällingby],1495000,105000,1600000,2968,Mäklarhuset,252.14920748127162,Racksta
+2014-07-07,Härjedalsgatan 13,Vallingby,GronHasselby,3,74,2,Lägenhet,1956,[Vällingby Centrum],1675000,75000,1750000,3712,HusmanHagberg,424.72501995949,Vallingby
+2014-07-06,Härjedalsgatan 39,Vallingby,GronHasselby,2,59,1,Lägenhet,null,[Vällingby],1580000,150000,1730000,3221,Svensk Fastighetsförmedling,397.5438139466673,Vallingby
+2014-06-26,Härjedalsgatan 78,Vallingby,GronHasselby,4,92,1,Lägenhet,1955,[Vällingby Centrum],1995000,205000,2200000,4070,Fastighetsbyrån,456.46740268961406,Vallingby
+2014-06-26,Kirunagatan 32,Vallingby,GronHasselby,2,56,1,Lägenhet,null,[Vällingby Centrum],1595000,130000,1725000,2831,Mäklarringen,488.7165953350251,Johannelund
+2014-06-22,Jämtlandsgatan 72,Vallingby,GronHasselby,1,24,1,Lägenhet,1952,[Vällingby Centrum],1100000,270000,1370000,1290,Mäklarringen,382.14327559662297,Vallingby
+2014-06-19,Medelpadsgatan 43,Vallingby,GronHasselby,5,113,null,Villa,1957,[Vällingby],5995000,865000,6860000,null,SkandiaMäklarna,714.759170722382,Racksta
+2014-06-18,Helgumsvägen 4,Vallingby,GronHasselby,3,84,5,Lägenhet,2008,[Vällingby Råcksta],1995000,185000,2180000,4918,HusmanHagberg,325.1839581962691,Racksta
+2014-06-18,Mörsilsgatan 14,Vallingby,GronHasselby,1,41,3,Lägenhet,1955,[Vällingby Centrum],1450000,140000,1590000,2233,Fastighetsbyrån,329.0012935259494,Vallingby
+2014-06-18,Jämtlandsgatan 114,Vallingby,GronHasselby,2,56,2,Lägenhet,null,[Vällingby],1495000,80000,1575000,2906,Svensk Fastighetsförmedling,291.6939199770752,Vallingby
+2014-06-17,Duvedsvägen 15,Vallingby,GronHasselby,2,59,2,Lägenhet,1955,[Vällingby Centrum],1595000,60000,1655000,3157,Mäklarringen,272.58396956550104,Vallingby
+2014-06-17,Mörsilsgatan 20,Vallingby,GronHasselby,1,29,null,Lägenhet,1955,[Vällingby Centrum],1295000,235000,1530000,1793,Svenska Mäklarhuset,316.2830480858579,Vallingby
+2014-06-17,Mässingsgränd 62,Vallingby,GronHasselby,5,114,null,Radhus,2001,[Vällingby],2195000,105000,2300000,7070,Fastighetsbyrån,634.7713655781985,Vallingby
+2014-06-16,Vittangigatan 20,Vallingby,GronHasselby,3,81,3,Lägenhet,1953,[Vällingby Centrum],2195000,60000,2255000,4508,Mäklarringen,151.76225195220312,Vallingby
+2014-06-14,Nickelgränd 1,Vallingby,GronHasselby,3,76,4,Lägenhet,null,[Vällingby],2250000,210000,2460000,3595,Svensk Fastighetsförmedling,284.6214372170321,Racksta
+2014-06-13,Kirunagatan 23C,Vallingby,GronHasselby,2,51,null,Lägenhet,2005,[Vällingby Centrum],1375000,35000,1410000,3663,Fastighetsbyrån,444.91019232992164,Johannelund
+2014-06-12,Nickelgränd 1,Vallingby,GronHasselby,2,66,2,Lägenhet,2002,[Vällingby],1995000,105000,2100000,3126,Mäklarringen,284.6214372170321,Racksta
+2014-06-05,Ångermannagatan 176,Vallingby,GronHasselby,1,36,null,Lägenhet,1954,[Vällingby Centrum],1295000,165000,1460000,2110,Länsförsäkringar Fastighetsförmedling,189.60241169699418,Vallingby
+2014-05-31,Kirunagatan 32,Vallingby,GronHasselby,3,63,6,Lägenhet,1954,[Vällingby Centrum],1795000,320000,2115000,3284,HusmanHagberg,488.7165953350251,Johannelund
+2014-05-29,Ångermannagatan 170,Vallingby,GronHasselby,5,117,9,Lägenhet,1954,[Vällingby Centrum],3450000,55000,3505000,6105,Fastighetsbyrån,152.58653222466415,Vallingby
+2014-05-27,Abiskovägen 26,Vallingby,GronHasselby,3,73,null,Lägenhet,1954,[Vällingby],1795000,185000,1980000,3609,Svenska Mäklarhuset,439.24208573843805,Vallingby
+2014-05-27,Abiskovägen 6,Vallingby,GronHasselby,3,70,11,Lägenhet,null,[Vällingby Centrum],1695000,375000,2070000,3700,Fastighetsbyrån,382.3701368008909,Johannelund
+2014-05-26,Jämtlandsgatan 96,Vallingby,GronHasselby,2,56,2,Lägenhet,1952,[Vällingby Centrum],1495000,280000,1775000,2907,Länsförsäkringar Fastighetsförmedling,317.1952856315405,Vallingby
+2014-05-22,Multrågatan 15,Vallingby,GronHasselby,2,54,2,Lägenhet,2008,[Vällingby-Råcksta],1595000,105000,1700000,3645,Länsförsäkringar Fastighetsförmedling,351.8682962591485,Racksta
+2014-05-22,Nickelgränd 4,Vallingby,GronHasselby,1,20,null,Lägenhet,1958,[Vällingby],950000,200000,1150000,876,Svenska Mäklarhuset,260.61449197386446,Racksta
+2014-05-22,Järvsögränd 5,Vallingby,GronHasselby,5,125,null,Radhus,1957,[Vällingbyhöjden],3975000,425000,4400000,3707,Länsförsäkringar Fastighetsförmedling,735.284669789184,Vallingby
+2014-05-21,Kirunagatan 48,Vallingby,GronHasselby,2,58,3,Lägenhet,1954,[Vällingby],1295000,345000,1640000,2997,Länsförsäkringar Fastighetsförmedling,431.83762290430485,Johannelund
+2014-05-20,Vittangigatan 16,Vallingby,GronHasselby,1,23,2,Lägenhet,null,[Vällingby],1250000,170000,1420000,1523,Svensk Fastighetsförmedling,209.149886831832,Vallingby
+2014-05-20,Kirunagatan 25E,Vallingby,GronHasselby,2,47,2,Lägenhet,2005,[Vällingby],1375000,35000,1410000,3215,Svensk Fastighetsförmedling,424.60562852580756,Johannelund
+2014-05-16,Abiskovägen 14,Vallingby,GronHasselby,3,73,2,Lägenhet,1954,[Vällingby],1595000,405000,2000000,3609,Länsförsäkringar Fastighetsförmedling,455.4987190245845,Johannelund
+2014-05-15,Kirunagatan 30,Vallingby,GronHasselby,2,56,2,Lägenhet,1954,[Vällingby Centrum],1695000,330000,2025000,2865,HusmanHagberg,453.7075584959202,Vallingby
+2014-05-14,Kirunagatan 62,Vallingby,GronHasselby,4,90,3,Lägenhet,null,[Vällingby],1995000,10000,2005000,4412,Svensk Fastighetsförmedling,324.86022088935164,Johannelund
+2014-05-09,Kirunagatan 74,Vallingby,GronHasselby,1,26,1,Lägenhet,1954,[Vällingby Centrum],1150000,185000,1335000,1581,Mäklarringen,291.38008459303575,Johannelund
+2014-05-08,Kirunagatan 74,Vallingby,GronHasselby,2,58,3,Lägenhet,1954,[Vällingby Centrum],1645000,70000,1715000,2997,Länsförsäkringar Fastighetsförmedling,291.38008459303575,Johannelund
+2014-05-08,Duvedsvägen 15,Vallingby,GronHasselby,1,35,3,Lägenhet,1955,[Vällingby Centrum],1195000,255000,1450000,2098,Länsförsäkringar Fastighetsförmedling,272.58396956550104,Vallingby
+2014-05-08,Ragundagatan 3,Vallingby,GronHasselby,5,70,null,Villa,1952,[Vällingby],3295000,275000,3570000,null,Fastighetsbyrån,981.6017842086992,Racksta
+2014-05-07,Vittangigatan 16,Vallingby,GronHasselby,1,34,2,Lägenhet,null,[Vällingby],1295000,315000,1610000,2031,Svensk Fastighetsförmedling,209.149886831832,Vallingby
+2014-05-07,Råcksta Gårdsväg 28,Vallingby,GronHasselby,2,54,5,Lägenhet,2014,[Vällingby Råcksta],1895000,0,1895000,3258,HusmanHagberg,252.14920748127162,Racksta
+2014-05-07,Råcksta Gårdsväg 21,Vallingby,GronHasselby,2,42,12,Lägenhet,2012,[Vällingby Råcksta],1690000,30000,1720000,3089,Notar,303.4033998461812,Racksta
+2014-05-07,Mörsilsgatan 6,Vallingby,GronHasselby,2,29,3,Lägenhet,1955,[Vällingby],1390000,0,1390000,1813,Notar,381.31366916147596,Vallingby
+2014-05-05,Jämtlandsgatan 100,Vallingby,GronHasselby,2,58,1,Lägenhet,1952,[Vällingby Centrum],1495000,155000,1650000,3054,Mäklarringen,288.6906659609662,Vallingby
+2014-05-02,Nickelgränd 8,Vallingby,GronHasselby,3,76,3,Lägenhet,1958,[Vällingby],1850000,50000,1900000,3328,Mäklarringen,177.98950836555386,Racksta
+2014-04-25,Ångermannagatan 158,Vallingby,GronHasselby,3,77.5,9,Lägenhet,null,[Vällingby],1950000,185000,2135000,4480,Svensk Fastighetsförmedling,126.42513742024784,Vallingby
+2014-04-25,Kirunagatan 74,Vallingby,GronHasselby,1,26,2,Lägenhet,1954,[Vällingby Centrum],1150000,120000,1270000,1581,Mäklarringen,291.38008459303575,Johannelund
+2014-04-24,Jämtlandsgatan 108,Vallingby,GronHasselby,3,70,1,Lägenhet,1952,[Vällingby Centrum],1675000,-25000,1650000,3632,Fastighetsbyrån,255.0466051956063,Vallingby
+2014-04-16,Härjedalsgatan 39,Vallingby,GronHasselby,4,89,1,Lägenhet,1955,[Vällingby],1695000,455000,2150000,4481,Länsförsäkringar Fastighetsförmedling,397.5438139466673,Vallingby
+2014-04-16,Vittangigatan 10,Vallingby,GronHasselby,2,58,1,Lägenhet,1953,[Vällingby Centrum],1595000,75000,1670000,3292,Fastighetsbyrån,242.03680755001855,Vallingby
+2014-04-16,Ångermannagatan 158,Vallingby,GronHasselby,1,36,7,Lägenhet,1954,[Vällingby Centrum],1375000,50000,1425000,2201,Länsförsäkringar Fastighetsförmedling,126.42513742024784,Vallingby
+2014-04-10,Sorselevägen 16,Vallingby,GronHasselby,6,82,null,Radhus,1954,[Vällingby Centrum],3450000,0,3450000,null,Länsförsäkringar Fastighetsförmedling,589.8206699428926,Johannelund
+2014-04-10,Timrågatan 86,Vallingby,GronHasselby,4,115,null,Radhus,1959,[Vällingbyhöjden],3475000,475000,3950000,null,Länsförsäkringar Fastighetsförmedling,711.1511937939041,Vallingby
+2014-04-05,Härjedalsgatan 114,Vallingby,GronHasselby,3,80,1,Lägenhet,1955,[Vällingby Centrum],1795000,55000,1850000,3657,Fastighetsbyrån,430.42016055106245,Vallingby
+2014-04-04,Kirunagatan 74,Vallingby,GronHasselby,2,58,2,Lägenhet,1954,[Vällingby Centrum],1695000,25000,1720000,2997,Mäklarringen,291.38008459303575,Johannelund
+2014-04-03,Mörsilsgatan 12,Vallingby,GronHasselby,1,29,null,Lägenhet,1955,[Vällingby Centrum],1250000,250000,1500000,1793,Svenska Mäklarhuset,340.43733300343024,Vallingby
+2014-04-03,Vittangigatan 15,Vallingby,GronHasselby,1.5,32,null,Lägenhet,1952,[Vällingby],1175000,185000,1360000,1998,Svenska Mäklarhuset,233.50217312144292,Vallingby
+2014-03-28,Jämtlandsgatan 152,Vallingby,GronHasselby,3,79,10,Lägenhet,1953,[Vällingby Centrum],2195000,225000,2420000,3098,Länsförsäkringar Fastighetsförmedling,225.26263211733666,Vallingby
+2014-03-28,Långseleringen 40,Vallingby,GronHasselby,6,123,null,Lägenhet,1952,[Vällingby],4400000,925000,5325000,4494,Bjurfors,618.6894177465673,Racksta
+2014-03-27,Råckstavägen 25,Vallingby,GronHasselby,3,84,6,Lägenhet,2009,[Vällingby-Råcksta],2095000,275000,2370000,4421,Länsförsäkringar Fastighetsförmedling,441.2036349205927,Racksta
+2014-03-26,Mörsilsgatan 6,Vallingby,GronHasselby,1,41,null,Lägenhet,1955,[Vällingby Centrum],1350000,360000,1710000,2213,Notar,381.31366916147596,Vallingby
+2014-03-26,Mörsilsgatan 24,Vallingby,GronHasselby,4,78,null,Lägenhet,1954,[Vällingby Centrum],2190000,0,2190000,3147,Notar,328.20495324263857,Vallingby
+2014-03-24,Grimstagatan 34,Vallingby,GronHasselby,2,66,1,Lägenhet,2002,[Vällingby],1800000,-20000,1780000,3640,Mäklarringen,322.6795570969538,Racksta
+2014-03-22,Ramselegatan 13,Vallingby,GronHasselby,5,104,null,Lägenhet,null,[Råckstahöjden],3675000,105000,3780000,3827,Svensk Fastighetsförmedling,598.2767050672409,Racksta
+2014-03-17,Helgumsvägen 2,Vallingby,GronHasselby,3,80,2,Lägenhet,null,[Råcksta],1795000,30000,1825000,4761,Svensk Fastighetsförmedling,325.50548202912705,Racksta
+2014-03-12,Kirunagatan 62,Vallingby,GronHasselby,3,70,2,Lägenhet,1954,[Vällingby Centrum],1785000,15000,1800000,3494,Länsförsäkringar Fastighetsförmedling,324.86022088935164,Johannelund
+2014-03-06,Jämtlandsgatan 86,Vallingby,GronHasselby,3,70,2,Lägenhet,1952,[Vällingby Centrum],1695000,85000,1780000,3632,Mäklarringen,314.07100776189174,Vallingby
+2014-03-03,Nickelgränd 10,Vallingby,GronHasselby,3,75,null,Lägenhet,1958,[Vällingby],1795000,265000,2060000,2986,Svenska Mäklarhuset,151.82256408063617,Racksta
+2014-02-28,Duvedsvägen 13,Vallingby,GronHasselby,3,79,1,Lägenhet,1955,[Vällingby Centrum],1995000,100000,2095000,4040,HusmanHagberg,288.49420924552174,Vallingby
+2014-02-28,Mörsilsgatan 26,Vallingby,GronHasselby,4,106,null,Lägenhet,1954,[Vällingby],2590000,160000,2750000,4277,Notar,328.4730198348415,Vallingby
+2014-02-21,Vittangigatan 27,Vallingby,GronHasselby,4,87,1,Lägenhet,1952,[Vällingby],2450000,0,2450000,4695,Mäklarhuset,170.04682194044398,Vallingby
+2014-02-19,Abiskovägen 26,Vallingby,GronHasselby,3,75,null,Lägenhet,1954,[Vällingby Centrum],1795000,205000,2000000,3671,Svenska Mäklarhuset,439.24208573843805,Vallingby
+2014-02-19,Jämtlandsgatan 154,Vallingby,GronHasselby,2,60,4,Lägenhet,1953,[Vällingby],1595000,275000,1870000,2687,Mäklarhuset,221.12564833638007,Vallingby
+2014-02-19,Duvedsvägen 5,Vallingby,GronHasselby,2,59,null,Lägenhet,1955,[Vällingby Centrum],1375000,205000,1580000,3157,Svenska Mäklarhuset,356.01928808024996,Vallingby
+2014-02-19,Multrågatan 13,Vallingby,GronHasselby,2,54,null,Lägenhet,2008,[Råcksta],1475000,295000,1770000,3645,Svensk Fastighetsförmedling,381.326958798547,Racksta
+2014-02-15,Jämtlandsgatan 92,Vallingby,GronHasselby,1,24,null,Lägenhet,1952,[Vällingby Centrum],1150000,120000,1270000,1245,Svenska Mäklarhuset,352.1669275361448,Vallingby
+2014-02-13,Vittangigatan 17,Vallingby,GronHasselby,1,32,null,Lägenhet,1952,[Vällingby],1095000,305000,1400000,1998,Mäklarhuset,222.55826830746463,Vallingby
+2014-02-13,Råckstavägen 21,Vallingby,GronHasselby,4,103,3,Lägenhet,2009,[Vällingby],2375000,255000,2630000,5181,Mäklarhuset,423.1151024639074,Racksta
+2014-02-12,Kirunagatan 46,Vallingby,GronHasselby,1,26,null,Lägenhet,1954,[Vällingby Centrum],1050000,375000,1425000,1581,Svensk Fastighetsförmedling,437.8498166197685,Johannelund
+2014-02-12,Vittangigatan 17,Vallingby,GronHasselby,2,58,1,Lägenhet,1953,[Vällingby Centrum],1495000,195000,1690000,3273,Mäklarringen,222.55826830746463,Vallingby
+2014-02-11,Nickelgränd 16,Vallingby,GronHasselby,3,78,3,Lägenhet,1998,[Vällingby Råcksta],1675000,230000,1905000,5841,ERA,243.800683982832,Racksta
+2014-02-06,Nickelgränd 16,Vallingby,GronHasselby,5,108.5,null,Lägenhet,1998,[Vällingby],1950000,60000,2010000,8011,Svenska Mäklarhuset,243.800683982832,Racksta
+2014-02-06,Mörsilsgatan 18,Vallingby,GronHasselby,1,29,3,Lägenhet,1955,[Vällingby Centrum],1075000,185000,1260000,1793,Svenska Mäklarhuset,316.9383309850938,Vallingby
+2014-02-06,Jämtlandsgatan 108,Vallingby,GronHasselby,3,70,1,Lägenhet,1952,[Vällingby Centrum],1695000,115000,1810000,3677,Mäklarringen,255.0466051956063,Vallingby
+2014-02-06,Råcksta Gårdsväg 21,Vallingby,GronHasselby,5,100,3,Lägenhet,2011,[Vällingby],2495000,115000,2610000,5439,Fastighetsbyrån,303.4033998461812,Racksta
+2014-02-05,Kirunagatan 70,Vallingby,GronHasselby,2,58,3,Lägenhet,1954,[Vällingby],1595000,235000,1830000,2997,HusmanHagberg,304.8232580408763,Johannelund
+2014-02-05,Vittangigatan 10,Vallingby,GronHasselby,2,58,null,Lägenhet,1958,[Vällingby Centrum],1695000,185000,1880000,3292,Svenska Mäklarhuset,242.03680755001855,Vallingby
+2014-02-05,Råckstavägen 17,Vallingby,GronHasselby,3,94,1,Lägenhet,2008,[Vällingby],1995000,280000,2275000,5317,Fastighetsbyrån,378.0944618767035,Racksta
+2014-02-04,Nickelgränd 1,Vallingby,GronHasselby,4,97,null,Lägenhet,2002,[Råcksta],2700000,250000,2950000,4315,Svensk Fastighetsförmedling,284.6214372170321,Racksta
+2014-02-03,Nickelgränd 18,Vallingby,GronHasselby,2,67,1,Lägenhet,1998,[Vällingby Grimsta],1295000,105000,1400000,5010,HusmanHagberg,238.04994781491914,Racksta
+2014-01-31,Mässingsgränd 54,Vallingby,GronHasselby,5,114,null,Lägenhet,2001,[Grimsta],2195000,-195000,2000000,7109,Svensk Fastighetsförmedling,634.9849810809404,Vallingby
+2014-01-28,Kirunagatan 19,Vallingby,GronHasselby,3,71.5,3,Lägenhet,2006,[Vällingby Centrum],1795000,0,1795000,5234,Svensk Fastighetsförmedling,442.67298612303347,Vallingby
+2014-01-27,Duvedsvägen 13,Vallingby,GronHasselby,2,60,3,Lägenhet,null,[Vällingby Centrum],1375000,225000,1600000,3202,Länsförsäkringar Fastighetsförmedling,288.49420924552174,Vallingby
+2014-01-24,Vittangigatan 13,Vallingby,GronHasselby,1,32,null,Lägenhet,1952,[Vällingby],995000,355000,1350000,1998,Fastighetsbyrån,244.5957749386111,Vallingby
+2014-01-23,Vittangigatan 33,Vallingby,GronHasselby,2,58,null,Lägenhet,1952,[Vällingby],1495000,165000,1660000,3273,Fastighetsbyrån,153.97274244131475,Vallingby
+2014-01-22,Jämtlandsgatan 76,Vallingby,GronHasselby,1,24,null,Lägenhet,1952,[Vällingby],1095000,135000,1230000,1290,Fastighetsbyrån,369.4719228652285,Vallingby
+2014-01-22,Nickelgränd 14,Vallingby,GronHasselby,2,68,null,Lägenhet,1998,[Vällingby],1275000,245000,1520000,5164,Svenska Mäklarhuset,199.47471482784223,Racksta
+2014-01-16,Härjedalsgatan 78,Vallingby,GronHasselby,4,92,1,Lägenhet,1955,[Vällingby],2430000,0,2430000,4070,Mäklarhuset,456.46740268961406,Vallingby
+2014-01-15,Jämtlandsgatan 72,Vallingby,GronHasselby,2,59,null,Lägenhet,1952,[Vällingby],1495000,5000,1500000,3060,Fastighetsbyrån,382.14327559662297,Vallingby
+2014-01-14,Råckstavägen 19,Vallingby,GronHasselby,2,54,null,Lägenhet,2008,[Vällingby],1450000,340000,1790000,3645,Svenska Mäklarhuset,395.8399880889754,Racksta
+2013-12-19,Jämtlandsgatan 76,Vallingby,GronHasselby,1,24,3,Lägenhet,1952,[Vällingby],1050000,200000,1250000,1245,Svensk Fastighetsförmedling,369.4719228652285,Vallingby
+2013-12-19,Jämtlandsgatan 92,Vallingby,GronHasselby,1,24,1.5,Lägenhet,1952,[Vällingby],995000,10000,1005000,1245,Mäklarhuset,352.1669275361448,Vallingby
+2013-12-19,Jämtlandsgatan 152,Vallingby,GronHasselby,3,78,4,Lägenhet,1953,[Vällingby],1995000,95000,2090000,3070,Mäklarhuset,225.26263211733666,Vallingby
+2013-12-18,Jämtlandsgatan 152,Vallingby,GronHasselby,2,60,9,Lägenhet,1953,[Vällingby],1595000,0,1595000,2533,Mäklarhuset,225.26263211733666,Vallingby
+2013-12-10,Abiskovägen 18,Vallingby,GronHasselby,1,26,3,Lägenhet,1954,[Vällingby],995000,55000,1050000,1581,Fastighetsbyrån,484.2629833357755,Johannelund
+2013-12-10,Tornedalsgatan 20,Vallingby,GronHasselby,5,102,null,Lägenhet,1954,[Vällingbyhöjden],3300000,0,3300000,3364,Svensk Fastighetsförmedling,768.458205346594,Vallingby
+2013-12-03,Vittangigatan 10,Vallingby,GronHasselby,2,58,3,Lägenhet,1956,[Vällingby Centrum],1450000,70000,1520000,3196,Mäklarringen,242.03680755001855,Vallingby
+2013-12-02,Jämtlandsgatan 112,Vallingby,GronHasselby,2,58,2.5,Lägenhet,1952,[Vällingby],1495000,55000,1550000,3009,Mäklarhuset,276.97270852590293,Vallingby
+2013-11-28,Vällingbyvägen 75,Vallingby,GronHasselby,4,90,null,Radhus,1955,[Råcksta],2975000,650000,3625000,null,Svensk Fastighetsförmedling,565.9321900209712,Vallingby
+2013-11-21,Multrågatan 7,Vallingby,GronHasselby,3,87,null,Lägenhet,2009,[Vällingby],1950000,200000,2150000,4511,Fastighetsbyrån,446.9961055067002,Racksta
+2013-11-20,Mörsilsgatan 28,Vallingby,GronHasselby,3,78,null,Lägenhet,1954,[Vällingby Centrum],2295000,-95000,2200000,3055,Svensk Fastighetsförmedling,333.39372478774663,Vallingby
+2013-11-20,Vittangigatan 45,Vallingby,GronHasselby,3,69,3,Lägenhet,1953,[Vällingby Centrum],1875000,25000,1900000,2810,Mäklarringen,167.01606699668287,Vallingby
+2013-11-19,Härjedalsgatan 78,Vallingby,GronHasselby,4,92,null,Lägenhet,1955,[Vällingby],1975000,215000,2190000,4137,Olovsson - Stignäs AB,456.46740268961406,Vallingby
+2013-11-12,Råckstavägen 25,Vallingby,GronHasselby,4,103,3,Lägenhet,2009,[Vällingby],2195000,135000,2330000,5080,Fastighetsbyrån,441.2036349205927,Racksta
+2013-11-09,Vittangigatan 10,Vallingby,GronHasselby,3,58,null,Lägenhet,1956,[Vällingby],1695000,0,1695000,3196,Fastighetsbyrån,242.03680755001855,Vallingby
+2013-11-08,Grimstagatan 34,Vallingby,GronHasselby,4,97,null,Lägenhet,2002,[Vällingby],2700000,-100000,2600000,5350,Mäklarringen,322.6795570969538,Racksta
+2013-11-05,Abiskovägen 30,Vallingby,GronHasselby,4,85,null,Lägenhet,1954,[Vällingby Centrum],2150000,-100000,2050000,4246,Svensk Fastighetsförmedling,408.9256256356518,Vallingby
+2013-11-01,Mörsilsgatan 26,Vallingby,GronHasselby,4,94,null,Lägenhet,1954,[Vällingby],2750000,0,2750000,3682,Notar,328.4730198348415,Vallingby
+2013-10-31,Vittangigatan 16,Vallingby,GronHasselby,2.5,58,2.5,Lägenhet,1956,[Vällingby],1495000,40000,1535000,3196,Mäklarhuset,209.149886831832,Vallingby
+2013-10-26,Kanngjutargränd 52,Vallingby,GronHasselby,2,50,0,Lägenhet,2004,[Vällingby],1250000,80000,1330000,3107,Mäklarhuset,515.4507267331658,Vallingby
+2013-10-25,Bollnäsbacken 37,Vallingby,GronHasselby,5,125,null,Radhus,1958,[Vällingbyhöjden],3795000,-195000,3600000,5315,HusmanHagberg,730.4727542135832,Johannelund
+2013-10-25,Kirunagatan 66,Vallingby,GronHasselby,2,58,null,Lägenhet,1956,[Vällingby Centrum],1295000,235000,1530000,2997,Svensk Fastighetsförmedling,344.27068511371,Johannelund
+2013-10-23,Kirunagatan 32,Vallingby,GronHasselby,3,63,null,Lägenhet,1954,[Vällingby],1850000,0,1850000,3178,Fastighetsbyrån,488.7165953350251,Johannelund
+2013-10-23,Råcksta Gårdsväg 23,Vallingby,GronHasselby,4,86,5,Lägenhet,2011,[Vällingby Råcksta],2295000,-40000,2255000,4791,Mäklarringen,286.5220571795062,Racksta
+2013-10-22,Jämtlandsgatan 152,Vallingby,GronHasselby,1,33,null,Lägenhet,1953,[Vällingby],1250000,-25000,1225000,1641,Hemverket,225.26263211733666,Vallingby
+2013-10-18,Kirunagatan 38,Vallingby,GronHasselby,4,81,null,Lägenhet,1954,[Vällingby],1995000,-80000,1915000,4044,Fastighetsbyrån,388.8031086089948,Johannelund
+2013-10-17,Kirunagatan 23G,Vallingby,GronHasselby,3,65,null,Lägenhet,2005,[Vällingby],1395000,155000,1550000,4668,Fastighetsbyrån,449.8459828109231,Johannelund
+2013-10-14,Kirunagatan 19,Vallingby,GronHasselby,4,86,null,Lägenhet,2006,[Vällingby Centrum],2195000,0,2195000,5978,Svensk Fastighetsförmedling,442.67298612303347,Vallingby
+2013-10-11,Kirunagatan 30,Vallingby,GronHasselby,3,63,null,Lägenhet,1954,[Vällingby Centrum],1650000,160000,1810000,3108,Svensk Fastighetsförmedling,453.7075584959202,Vallingby
+2013-10-10,Skattegårdsvägen 63,Vallingby,GronHasselby,4,89.4,null,Lägenhet,1996,[Vällingby],1550000,320000,1870000,5631,Fastighetsbyrån,584.8242007618403,Vallingby
+2013-10-04,Vittangigatan 16,Vallingby,GronHasselby,1,23,null,Lägenhet,1953,[Vällingby Centrum],950000,25000,975000,1479,Svensk Fastighetsförmedling,209.149886831832,Vallingby
+2013-10-03,Kirunagatan 25P,Vallingby,GronHasselby,3,65,null,Lägenhet,2005,[Vällingby Centrum],1595000,5000,1600000,4668,Mäklarringen,439.4101004249465,Johannelund
+2013-09-30,Lyckselevägen 65,Vallingby,GronHasselby,6,100,null,Villa,1955,[Vällingby],2695000,270000,2965000,null,Mäklarhuset,447.613928966542,Johannelund
+2013-09-27,Skattegårdsvägen 71,Vallingby,GronHasselby,3,78.5,null,Lägenhet,1996,[Vällingby],1295000,525000,1820000,5410,Fastighetsbyrån,562.8224067439837,Johannelund
+2013-09-27,Vittangigatan 10,Vallingby,GronHasselby,2,58,5,Lägenhet,1956,[Vällingby Centrum],1495000,0,1495000,3196,Länsförsäkringar Fastighetsförmedling,242.03680755001855,Vallingby
+2013-09-22,Nickelgränd 6,Vallingby,GronHasselby,3,76,null,Lägenhet,1958,[Vällingby],1495000,180000,1675000,3026,Svenska Mäklarhuset,213.24696785883643,Racksta
+2013-09-20,Mörsilsgatan 24,Vallingby,GronHasselby,1,34,null,Lägenhet,1954,[Vällingby],1150000,200000,1350000,1331,Notar,328.20495324263857,Vallingby
+2013-09-19,Duvedsvägen 17,Vallingby,GronHasselby,3,79,null,Lägenhet,1955,[Vällingby Centrum],1575000,300000,1875000,4040,Länsförsäkringar Fastighetsförmedling,261.6704727342759,Vallingby
+2013-09-17,Järvsögränd 11,Vallingby,GronHasselby,5,125,null,Radhus,1957,[Vällingbyhöjden],3750000,110000,3860000,3370,Länsförsäkringar Fastighetsförmedling,758.9495972910281,Vallingby
+2013-09-13,Mörsilsgatan 14,Vallingby,GronHasselby,2,29,null,Lägenhet,1955,[Vällingby Centrum],1295000,55000,1350000,1761,Svenska Mäklarhuset,329.0012935259494,Vallingby
+2013-09-07,Kirunagatan 30,Vallingby,GronHasselby,3,63,null,Lägenhet,1954,[Vällingby Centrum],1595000,0,1595000,3198,Mäklarringen,453.7075584959202,Vallingby
+2013-09-07,Vittangigatan 19,Vallingby,GronHasselby,1,32,null,Lägenhet,1952,[Vällingby],1395000,-35000,1360000,1859,Fastighetsbyrån,210.96647637632708,Vallingby
+2013-09-06,Vittangigatan 10,Vallingby,GronHasselby,1,23,null,Lägenhet,1953,[Vällingby Centrum],950000,10000,960000,1479,Svensk Fastighetsförmedling,242.03680755001855,Vallingby
+2013-08-28,Kirunagatan 82,Vallingby,GronHasselby,2,58,null,Lägenhet,1954,[Vällingby],1550000,20000,1570000,2997,Fastighetsbyrån,325.5314106968606,Johannelund
+2013-08-27,Järvsögränd 15,Vallingby,GronHasselby,5,125,null,Lägenhet,1958,[Vällingbyhöjden],3275000,250000,3525000,3370,Svensk Fastighetsförmedling,774.2852869419821,Vallingby
+2013-08-24,Kanngjutargränd 52,Vallingby,GronHasselby,3,64.5,1,Lägenhet,2004,[Vällingby],1695000,80000,1775000,3996,Svenska Mäklarhuset,515.4507267331658,Vallingby
+2013-08-23,Järvsögränd 27,Vallingby,GronHasselby,5,125,null,Villa,1958,[Vällingbyhöjden],3395000,15000,3410000,3132,Svenska Mäklarhuset,813.8022933131808,Vallingby
+2013-08-23,Vittangigatan 16,Vallingby,GronHasselby,2,58,null,Lägenhet,1953,[Vällingby Centrum],1495000,80000,1575000,3197,Svensk Fastighetsförmedling,209.149886831832,Vallingby
+2013-08-20,Ångermannagatan 158,Vallingby,GronHasselby,3,77,5,Lägenhet,1954,[Vällingby Centrum],2350000,10000,2360000,4160,Mäklarringen,126.42513742024784,Vallingby
+2013-08-16,Duvedsvägen 13,Vallingby,GronHasselby,1,35,null,Lägenhet,1955,[Vällingby Centrum],1095000,205000,1300000,2098,Svensk Fastighetsförmedling,288.49420924552174,Vallingby
+2013-08-15,Mörsilsgatan 24,Vallingby,GronHasselby,1,17,null,Lägenhet,1954,[Vällingby Centrum],750000,220000,970000,589,Svensk Fastighetsförmedling,328.20495324263857,Vallingby
+2013-08-15,Skattegårdsvägen 69,Vallingby,GronHasselby,2,61.8,3,Lägenhet,1996,[Vällingby Centrum],975000,45000,1020000,4487,Notar,579.7737602083906,Johannelund
+2013-08-15,Skattegårdsvägen 69,Vallingby,GronHasselby,4,89.4,null,Lägenhet,1996,[Vällingby],995000,605000,1600000,6206,Fastighetsbyrån,579.7737602083906,Johannelund
+2013-08-15,Ångermannagatan 57,Vallingby,GronHasselby,6,79,null,Villa,1952,[Vällingby],4195000,985000,5180000,null,Fastighetsbyrån,791.4891923924293,Vallingby
+2013-08-14,Härjedalsgatan 130,Vallingby,GronHasselby,4,92,null,Lägenhet,1955,[Vällingby Centrum],1975000,0,1975000,4137,Svensk Fastighetsförmedling,417.91627371780174,Vallingby
+2013-08-08,Skattegårdsvägen 63,Vallingby,GronHasselby,2,61.8,3,Lägenhet,1996,[Vällingby Centrum],995000,155000,1150000,4060,HusmanHagberg,584.8242007618403,Vallingby
+2013-08-05,Jämtlandsgatan 152,Vallingby,GronHasselby,2,52,4,Lägenhet,1953,[Vällingby Centrum],1680000,0,1680000,2245,HusmanHagberg,225.26263211733666,Vallingby
+2013-07-17,Ångermannagatan 158,Vallingby,GronHasselby,2,58.5,6,Lägenhet,1954,[Vällingby Centrum],1550000,0,1550000,3198,Svenska Mäklarhuset,126.42513742024784,Vallingby
+2013-07-05,Mörsilsgatan 30,Vallingby,GronHasselby,2,53,null,Lägenhet,1954,[Vällingby Centrum],1490000,260000,1750000,1837,Notar,341.4094824563653,Vallingby
+2013-07-05,Råcksta Gårdsväg 23,Vallingby,GronHasselby,2,42,12,Lägenhet,2011,[Högst],1495000,80000,1575000,3188,Mäklarhuset,286.5220571795062,Racksta
+2013-06-27,Kirunagatan 15,Vallingby,GronHasselby,2,56,null,Lägenhet,2006,[Vällingby Centrum],1400000,80000,1480000,4288,Notar,368.51420541769124,Vallingby
+2013-06-25,Vittangigatan 27,Vallingby,GronHasselby,2,58,null,Lägenhet,null,[Vällingby Centrum],1450000,60000,1510000,3045,Svensk Fastighetsförmedling,170.04682194044398,Vallingby
+2013-06-19,Bollnäsbacken 14,Vallingby,GronHasselby,5,125,null,Lägenhet,1958,[Vällingbyhöjden],4150000,455000,4605000,4003,Svensk Fastighetsförmedling,714.5912984835416,Johannelund
+2013-06-19,Råckstavägen 27,Vallingby,GronHasselby,1,38,4,Lägenhet,2008,[Vällingby],1350000,110000,1460000,2556,Mäklarhuset,454.70853978381314,Racksta
+2013-06-14,Ångermannagatan 164,Vallingby,GronHasselby,1,36,null,Lägenhet,null,[Vällingby Centrum],1100000,225000,1325000,2089,Hemverket,131.84135898808088,Vallingby
+2013-06-12,Vittangigatan 23,Vallingby,GronHasselby,2,58,2,Lägenhet,1952,[Vällingby],1495000,105000,1600000,3045,Mäklarhuset,190.62855230696286,Vallingby
+2013-06-10,Ångermannagatan 176,Vallingby,GronHasselby,3,77.5,null,Lägenhet,1954,[Vällingby],1600000,300000,1900000,4035,Länsförsäkringar Fastighetsförmedling,189.60241169699418,Vallingby
+2013-06-07,Råcksta Gårdsväg 23,Vallingby,GronHasselby,2,42,null,Lägenhet,2011,[Vällingby],1395000,55000,1450000,3188,Svenska Mäklarhuset,286.5220571795062,Racksta
+2013-06-06,Råcksta Gårdsväg 23,Vallingby,GronHasselby,2,47,0,Lägenhet,2011,[Vällingby],1295000,180000,1475000,3378,Mäklarhuset,286.5220571795062,Racksta
+2013-06-05,Råcksta Gårdsväg 23,Vallingby,GronHasselby,2,47,null,Lägenhet,2011,[Vällingby],1395000,115000,1510000,3196,Fastighetsbyrån,286.5220571795062,Racksta
+2013-06-04,Råckstavägen 25,Vallingby,GronHasselby,2,54,5,Lägenhet,2008,[Högst],1810000,0,1810000,3195,Mäklarhuset,441.2036349205927,Racksta
+2013-06-01,Ångermannagatan 170,Vallingby,GronHasselby,1,36,null,Lägenhet,1953,[Vällingby Centrum],1310000,5000,1315000,2071,Svensk Fastighetsförmedling,152.58653222466415,Vallingby
+2013-06-01,Vittangigatan 7,Vallingby,GronHasselby,3,75,null,Lägenhet,1953,[Vällingby],1795000,0,1795000,3820,Fastighetsbyrån,264.122212276653,Vallingby
+2013-05-31,Vittangigatan 20,Vallingby,GronHasselby,1,23,5,Lägenhet,1953,[Vällingby Centrum],950000,150000,1100000,1422,Notar,151.76225195220312,Vallingby
+2013-05-30,Multrågatan 13,Vallingby,GronHasselby,4,104,2,Lägenhet,2008,[Vällingby Råcksta],2095000,305000,2400000,5949,Mäklarringen,381.326958798547,Racksta
+2013-05-29,Jämtlandsgatan 152,Vallingby,GronHasselby,3,78,3,Lägenhet,1953,[Vällingby],2400000,-100000,2300000,2791,Mäklarhuset,225.26263211733666,Vallingby
+2013-05-29,Bollnäsbacken 54,Vallingby,GronHasselby,5,130,null,Lägenhet,1958,[Vällingbyhöjden],3895000,0,3895000,6046,Svensk Fastighetsförmedling,761.0103918008899,Johannelund
+2013-05-26,Vittangigatan 39,Vallingby,GronHasselby,2,41,null,Lägenhet,1952,[Vällingby],1395000,135000,1530000,2270,Fastighetsbyrån,165.14876075533402,Vallingby
+2013-05-23,Råcksta Gårdsväg 23,Vallingby,GronHasselby,4,86,2,Lägenhet,2011,[Vällingby],2195000,35000,2230000,5011,Svenska Mäklarhuset,286.5220571795062,Racksta
+2013-05-23,Jämtlandsgatan 154,Vallingby,GronHasselby,3,79,null,Lägenhet,1953,[Vällingby],1875000,0,1875000,3217,Länsförsäkringar Fastighetsförmedling,221.12564833638007,Vallingby
+2013-05-22,Multrågatan 17,Vallingby,GronHasselby,4,93,null,Lägenhet,2008,[Vällingby],2095000,175000,2270000,5531,Fastighetsbyrån,334.4748749223452,Racksta
+2013-05-22,Kirunagatan 56,Vallingby,GronHasselby,2,58,1,Lägenhet,1956,[Vällingby Centrum],1375000,245000,1620000,2954,Svensk Fastighetsförmedling,372.51768514924277,Johannelund
+2013-05-17,Jämtlandsgatan 154,Vallingby,GronHasselby,1,33,2,Lägenhet,1953,[Vällingby],995000,325000,1320000,1344,Mäklarhuset,221.12564833638007,Vallingby
+2013-05-17,Jämtlandsgatan 154,Vallingby,GronHasselby,1,18,9,Lägenhet,1953,[Vällingby Centrum],995000,0,995000,733,HusmanHagberg,221.12564833638007,Vallingby
+2013-05-16,Kirunagatan 80,Vallingby,GronHasselby,1,26,null,Lägenhet,null,[Vällingby Centrum],895000,305000,1200000,1581,Svensk Fastighetsförmedling,319.96359470023947,Johannelund
+2013-05-15,Mörsilsgatan 6,Vallingby,GronHasselby,1,29,2,Lägenhet,1955,[Vällingby Centrum],1295000,55000,1350000,1761,Svenska Mäklarhuset,381.31366916147596,Vallingby
+2013-05-15,Mörsilsgatan 6,Vallingby,GronHasselby,2,29,2,Lägenhet,1955,[Vällingby Centrum],1295000,55000,1350000,1761,Svenska Mäklarhuset,381.31366916147596,Vallingby
+2013-05-13,Mörsilsgatan 16,Vallingby,GronHasselby,2,67,null,Lägenhet,1955,[Vällingby Centrum],1575000,-45000,1530000,3033,Svensk Fastighetsförmedling,317.87237367670144,Vallingby
+2013-05-12,Lövångersgatan 19,Vallingby,GronHasselby,6,140,null,Villa,1954,[Vällingbyhöjden],4250000,-150000,4100000,null,Notar,866.513212780123,Vallingby
+2013-05-08,Mässingsgränd 68,Vallingby,GronHasselby,5,114,null,Radhus,2001,[Vällingby],2095000,70000,2165000,6984,Svenska Mäklarhuset,626.2072230945727,Vallingby
+2013-05-07,Kirunagatan 50,Vallingby,GronHasselby,3,72,null,Lägenhet,1954,[Vällingby],1595000,0,1595000,3603,Fastighetsbyrån,421.45516587537963,Johannelund
+2013-05-02,Nickelgränd 12,Vallingby,GronHasselby,4,95,null,Lägenhet,1998,[Vällingby],1595000,-145000,1450000,7048,Svenska Mäklarhuset,219.6074010767971,Racksta
+2013-05-01,Ångermannagatan 170,Vallingby,GronHasselby,2,58.5,2,Lägenhet,null,[Vällingby],1550000,10000,1560000,3083,Mäklarhuset,152.58653222466415,Vallingby
+2013-05-01,Kirunagatan 40,Vallingby,GronHasselby,4,83,null,Lägenhet,1954,[Vällingby Centrum],1995000,0,1995000,4125,Svensk Fastighetsförmedling,405.02815591777664,Johannelund
+2013-04-30,Råckstavägen 27,Vallingby,GronHasselby,2,58,2,Lägenhet,2008,[Vällingby],1650000,0,1650000,3339,Mäklarhuset,454.70853978381314,Racksta
+2013-04-27,Mörsilsgatan 6,Vallingby,GronHasselby,1,41,null,Lägenhet,1955,[Vällingby Centrum],1150000,10000,1160000,2169,Svenska Mäklarhuset,381.31366916147596,Vallingby
+2013-04-26,Härjedalsgatan 41,Vallingby,GronHasselby,3,75,null,Lägenhet,1955,[Vällingby],1850000,-25000,1825000,3788,Mäklarhuset,396.7690249464944,Vallingby
+2013-04-25,Lyckselevägen 180,Vallingby,GronHasselby,4,80,null,Radhus,1954,[Vällingby Centrum],2495000,115000,2610000,null,Svensk Fastighetsförmedling,520.0798200653489,Johannelund
+2013-04-24,Vittangigatan 23,Vallingby,GronHasselby,1,32,null,Lägenhet,1952,[Vällingby],1195000,205000,1400000,1859,Mäklarhuset,190.62855230696286,Vallingby
+2013-04-14,Ångermannagatan 170,Vallingby,GronHasselby,3,76,null,Lägenhet,null,[Vällingby Centrum],1995000,5000,2000000,3819,SkandiaMäklarna,152.58653222466415,Vallingby
+2013-04-13,Råcksta Gårdsväg 23,Vallingby,GronHasselby,4,86,null,Lägenhet,2011,[Vällingby],2295000,-45000,2250000,5011,Svenska Mäklarhuset,286.5220571795062,Racksta
+2013-04-12,Duvedsvägen 17,Vallingby,GronHasselby,2,59,null,Lägenhet,1955,[Vällingby Centrum],1395000,155000,1550000,3096,Svensk Fastighetsförmedling,261.6704727342759,Vallingby
+2013-04-10,Vittangigatan 27,Vallingby,GronHasselby,4,87,0.5,Lägenhet,1953,[Vällingby Centrum],2375000,0,2375000,4367,Mäklarringen,170.04682194044398,Vallingby
+2013-04-09,Jämtlandsgatan 150,Vallingby,GronHasselby,2,51,null,Lägenhet,1956,[Vällingby],1350000,10000,1360000,2725,Fastighetsbyrån,202.46979624216806,Vallingby
+2013-04-06,Kirunagatan 74,Vallingby,GronHasselby,1,26,null,Lägenhet,1954,[Vällingby Centrum],995000,230000,1225000,1561,Mäklarringen,291.38008459303575,Johannelund
+2013-04-05,Mörsilsgatan 8,Vallingby,GronHasselby,1,41,null,Lägenhet,1955,[Vällingby Centrum],1195000,135000,1330000,2169,Svenska Mäklarhuset,364.4717532525613,Vallingby
+2013-04-04,Kirunagatan 17,Vallingby,GronHasselby,3,71,7,Lägenhet,2006,[Vällingby Centrum],1800000,0,1800000,5234,Svensk Fastighetsförmedling,405.0320367259791,Vallingby
+2013-03-29,Timrågatan 76,Vallingby,GronHasselby,4,96,null,Villa,1957,[Vällingbyhöjden],2695000,580000,3275000,null,Svenska Mäklarhuset,760.7833037916126,Vallingby
+2013-03-29,Jämtlandsgatan 106,Vallingby,GronHasselby,3,70,2,Lägenhet,null,[Vällingby],1550000,150000,1700000,3677,Länsförsäkringar Fastighetsförmedling,260.5153120711322,Vallingby
+2013-03-28,Kirunagatan 25I,Vallingby,GronHasselby,2,47,null,Lägenhet,2005,[Vällingby],1250000,0,1250000,3376,Svenska Mäklarhuset,441.1063582995072,Johannelund
+2013-03-28,Jämtlandsgatan 78,Vallingby,GronHasselby,4,86,2,Lägenhet,1952,[Vällingby],2195000,-45000,2150000,4461,Mäklarhuset,351.7059152793461,Vallingby
+2013-03-28,Ångermannagatan 164,Vallingby,GronHasselby,3,76,null,Lägenhet,null,[Vällingby],2295000,-20000,2275000,3819,Mäklarhuset,131.84135898808088,Vallingby
+2013-03-28,Jämtlandsgatan 72,Vallingby,GronHasselby,2,56,1,Lägenhet,1952,[Vällingby],1395000,0,1395000,2951,Mäklarhuset,382.14327559662297,Vallingby
+2013-03-27,Vittangigatan 10,Vallingby,GronHasselby,1,23,null,Lägenhet,1953,[Vällingby Centrum],990000,0,990000,1422,Notar,242.03680755001855,Vallingby
+2013-03-21,Vittangigatan 10,Vallingby,GronHasselby,1,34,null,Lägenhet,1956,[Vällingby],1250000,155000,1405000,1896,Fastighetsbyrån,242.03680755001855,Vallingby
+2013-03-20,Tornedalsgatan 23,Vallingby,GronHasselby,4,102,null,Lägenhet,null,[Vällingbyhöjden],3295000,0,3295000,3117,Svensk Fastighetsförmedling,678.9014063119577,Vallingby
+2013-03-15,Kanngjutargränd 52,Vallingby,GronHasselby,2,50,1,Lägenhet,2004,[Vällingby Grimsta],1295000,45000,1340000,3041,HusmanHagberg,515.4507267331658,Vallingby
+2013-03-13,Timrågatan 116,Vallingby,GronHasselby,5,125,null,Radhus,1958,[Vällingby],3125000,655000,3780000,3132,Fastighetsbyrån,765.9261280628341,Vallingby
+2013-03-12,Råcksta Gårdsväg 21,Vallingby,GronHasselby,4,86,null,Lägenhet,2010,[Vällingby Råcksta],2195000,-145000,2050000,4633,Mäklarringen,303.4033998461812,Racksta
+2013-03-09,Vällingbyvägen 34,Vallingby,GronHasselby,5,135,null,Radhus,1957,[Vällingbyhöjden],3995000,0,3995000,null,Svensk Fastighetsförmedling,678.9052781701114,Vallingby
+2013-03-06,Råcksta Gårdsväg 23,Vallingby,GronHasselby,4,82,12,Lägenhet,2011,[Vällingby Råcksta],2395000,0,2395000,4862,SkandiaMäklarna,286.5220571795062,Racksta
+2013-03-02,Vittangigatan 35,Vallingby,GronHasselby,4,87,2,Lägenhet,null,[Vällingby],2195000,440000,2635000,4367,Mäklarhuset,156.03955024277602,Vallingby
+2013-03-02,Ångermannagatan 164,Vallingby,GronHasselby,3,76,2,Lägenhet,null,[Vällingby],1995000,240000,2235000,3819,Mäklarhuset,131.84135898808088,Vallingby
+2013-03-02,Duvedsvägen 13,Vallingby,GronHasselby,1,35,null,Lägenhet,1955,[Vällingby],1150000,205000,1355000,2057,Fastighetsbyrån,288.49420924552174,Vallingby
+2013-03-01,Råckstavägen 25,Vallingby,GronHasselby,2,54,4,Lägenhet,2008,[Vällingby],1560000,0,1560000,3195,Mäklarhuset,441.2036349205927,Racksta
+2013-02-27,Multrågatan 17,Vallingby,GronHasselby,1,44,null,Lägenhet,2008,[Vällingby],1175000,215000,1390000,3243,Fastighetsbyrån,334.4748749223452,Racksta
+2013-02-26,Helgumsvägen 4,Vallingby,GronHasselby,4,103,null,Lägenhet,2008,[Vällingby Råcksta],2295000,-95000,2200000,5949,Notar,325.1839581962691,Racksta
+2013-02-22,Mörsilsgatan 24,Vallingby,GronHasselby,2,40,0,Lägenhet,1954,[Vällingby Centrum],1395000,0,1395000,1387,HusmanHagberg,328.20495324263857,Vallingby
+2013-02-21,Härjedalsgatan 114,Vallingby,GronHasselby,4,92,1,Lägenhet,1955,[Vällingby Centrum],2095000,465000,2560000,3991,SkandiaMäklarna,430.42016055106245,Vallingby
+2013-02-19,Råcksta Gårdsväg 23,Vallingby,GronHasselby,2,47,10,Lägenhet,2011,[Vällingby],1450000,45000,1495000,3378,Mäklarhuset,286.5220571795062,Racksta
+2013-02-16,Nickelgränd 6,Vallingby,GronHasselby,3,75,1,Lägenhet,1958,[Vällingby],1850000,60000,1910000,2986,Svenska Mäklarhuset,213.24696785883643,Racksta
+2013-02-16,Mörsilsgatan 26,Vallingby,GronHasselby,1,17,null,Lägenhet,null,[Vällingby Centrum],875000,35000,910000,589,Mäklarringen,328.4730198348415,Vallingby
+2013-02-14,Duvedsvägen 15,Vallingby,GronHasselby,2,59,3,Lägenhet,1955,[Vällingby Centrum],1495000,-45000,1450000,3096,HusmanHagberg,272.58396956550104,Vallingby
+2013-02-14,Jämtlandsgatan 108,Vallingby,GronHasselby,1,23,null,Lägenhet,1952,[Vällingby],825000,120000,945000,1238,Länsförsäkringar Fastighetsförmedling,255.0466051956063,Vallingby
+2013-02-14,Vittangigatan 41,Vallingby,GronHasselby,1,32,null,Lägenhet,null,[Vällingby Centrum],950000,310000,1260000,1859,Svensk Fastighetsförmedling,166.8383834442769,Vallingby
+2013-02-13,Härjedalsgatan 39,Vallingby,GronHasselby,2,59,null,Lägenhet,1955,[Vällingby],1495000,25000,1520000,3096,Fastighetsbyrån,397.5438139466673,Vallingby
+2013-02-13,Jämtlandsgatan 92,Vallingby,GronHasselby,1,24,1.5,Lägenhet,1952,[Vällingby],995000,165000,1160000,1245,Mäklarhuset,352.1669275361448,Vallingby
+2013-02-04,Duvedsvägen 15,Vallingby,GronHasselby,1,35,1,Lägenhet,1955,[Vällingby],895000,195000,1090000,2057,Länsförsäkringar Fastighetsförmedling,272.58396956550104,Vallingby
+2013-02-01,Tornedalsgatan 25,Vallingby,GronHasselby,4,125,null,Radhus,1956,[Vällingbyhöjden],3150000,100000,3250000,4530,Svenska Mäklarhuset,717.161829546483,Vallingby
+2013-01-30,Råckstavägen 17,Vallingby,GronHasselby,2,61,null,Lägenhet,2008,[Råcksta],1395000,125000,1520000,4033,Svensk Fastighetsförmedling,378.0944618767035,Racksta
+2013-01-30,Multrågatan 17,Vallingby,GronHasselby,1,44,null,Lägenhet,2008,[Råcksta],1150000,270000,1420000,3243,Svensk Fastighetsförmedling,334.4748749223452,Racksta
+2013-01-24,Jämtlandsgatan 74,Vallingby,GronHasselby,1,24,1.5,Lägenhet,1952,[Vällingby],795000,215000,1010000,1245,Mäklarhuset,375.2635811537309,Vallingby
+2013-01-23,Kirunagatan 46,Vallingby,GronHasselby,1,26,null,Lägenhet,1954,[Vällingby Centrum],675000,395000,1070000,1581,Svensk Fastighetsförmedling,437.8498166197685,Johannelund
+2013-01-23,Duvedsvägen 15,Vallingby,GronHasselby,3,79,null,Lägenhet,1955,[Vällingby Centrum],1750000,0,1750000,3961,Svensk Fastighetsförmedling,272.58396956550104,Vallingby
+2013-01-21,Burträskgatan 19,Vallingby,GronHasselby,6,118,null,Lägenhet,1958,[Vällingbyhöjden],3695000,195000,3890000,4027,Svensk Fastighetsförmedling,742.2886316108741,Vallingby
+2013-01-19,Nickelgränd 1,Vallingby,GronHasselby,null,107,null,Lägenhet,2002,[Vällingby],2950000,0,2950000,null,Mäklarringen,284.6214372170321,Racksta
+2013-01-18,Tornedalsgatan 38,Vallingby,GronHasselby,6,129,null,Radhus,1956,[Vällingby],3950000,0,3950000,3148,Länsförsäkringar Fastighetsförmedling,770.0414940581775,Vallingby
+2013-01-17,Kirunagatan 82,Vallingby,GronHasselby,2,58,null,Lägenhet,1954,[Vällingby],1395000,205000,1600000,2997,Fastighetsbyrån,325.5314106968606,Johannelund
+2013-01-15,Mörsilsgatan 26,Vallingby,GronHasselby,4,106,null,Lägenhet,1954,[Vällingby],2595000,-185000,2410000,3500,Notar,328.4730198348415,Vallingby
+2013-01-11,Abiskovägen 28,Vallingby,GronHasselby,2,58,null,Lägenhet,1954,[Vällingby Centrum],1200000,80000,1280000,2997,Svensk Fastighetsförmedling,423.3288895659859,Vallingby
+2012-12-28,Jämtlandsgatan 154,Vallingby,GronHasselby,3,78,7,Lägenhet,1953,[Vällingby],2075000,0,2075000,2887,Mäklarhuset,221.12564833638007,Vallingby
+2012-12-28,Vittangigatan 11,Vallingby,GronHasselby,2,58,1.5,Lägenhet,1952,[Vällingby],1395000,-45000,1350000,3045,Mäklarhuset,252.3659351687138,Vallingby
+2012-12-27,Jämtlandsgatan 112,Vallingby,GronHasselby,2,58,0.5,Lägenhet,1952,[Vällingby],1350000,95000,1445000,3009,Mäklarhuset,276.97270852590293,Vallingby
+2012-12-26,Jämtlandsgatan 92,Vallingby,GronHasselby,2,56,1.5,Lägenhet,1952,[Vällingby],1395000,150000,1545000,2905,Mäklarhuset,352.1669275361448,Vallingby
+2012-12-19,Råckstavägen 21,Vallingby,GronHasselby,2,54,null,Lägenhet,2009,[Vällingby Råcksta],1495000,70000,1565000,3102,SkandiaMäklarna,423.1151024639074,Racksta
+2012-12-12,Nickelgränd 1,Vallingby,GronHasselby,3,76,null,Lägenhet,2002,[Vällingby],1900000,10000,1910000,3697,Mäklarringen,284.6214372170321,Racksta
+2012-12-08,Multrågatan 13,Vallingby,GronHasselby,5,132,null,Lägenhet,2008,[Vällingby Råcksta],2795000,105000,2900000,7231,Mäklarringen,381.326958798547,Racksta
+2012-12-07,Nickelgränd 14,Vallingby,GronHasselby,4,91.5,null,Radhus,1998,[Vällingby],1495000,5000,1500000,6738,Länsförsäkringar Fastighetsförmedling,199.47471482784223,Racksta
+2012-12-07,Burträskgatan 13,Vallingby,GronHasselby,6,150,null,Lägenhet,1958,[Vällingbyhöjden],3995000,145000,4140000,4104,Svensk Fastighetsförmedling,734.2053579897133,Vallingby
+2012-12-03,Ångermannagatan 176,Vallingby,GronHasselby,1,36,null,Lägenhet,1954,[Vällingby],1295000,0,1295000,1832,Fastighetsbyrån,189.60241169699418,Vallingby
+2012-11-28,Vittangigatan 7,Vallingby,GronHasselby,2,58,1,Lägenhet,1952,[Vällingby],1395000,5000,1400000,3045,Notar,264.122212276653,Vallingby
+2012-11-20,Kirunagatan 30,Vallingby,GronHasselby,3,63,6,Lägenhet,1954,[Vällingby],1695000,-15000,1680000,3147,Mäklarhuset,453.7075584959202,Vallingby
+2012-11-17,Jämtlandsgatan 154,Vallingby,GronHasselby,1,33,null,Lägenhet,1953,[Vällingby],995000,165000,1160000,1222,Mäklarhuset,221.12564833638007,Vallingby
+2012-11-16,Råckstavägen 21,Vallingby,GronHasselby,3,84,4,Lägenhet,2009,[Råcksta],1800000,120000,1920000,4208,Svensk Fastighetsförmedling,423.1151024639074,Racksta
+2012-11-14,Abiskovägen 26,Vallingby,GronHasselby,1,26,null,Lägenhet,1954,[Vällingby Centrum],995000,45000,1040000,1506,Svensk Fastighetsförmedling,439.24208573843805,Vallingby
+2012-11-14,Vittangigatan 43,Vallingby,GronHasselby,3,69,null,Lägenhet,1953,[Vällingby Centrum],1875000,0,1875000,2554,Svenska Mäklarhuset,173.39531801919335,Vallingby
+2012-11-05,Nickelgränd 6,Vallingby,GronHasselby,3,76,null,Lägenhet,1958,[Vällingby],1695000,0,1695000,3026,Svenska Mäklarhuset,213.24696785883643,Racksta
+2012-11-01,Jämtlandsgatan 152,Vallingby,GronHasselby,1,33,8,Lägenhet,1953,[Vällingby],1095000,45000,1140000,1492,Länsförsäkringar Fastighetsförmedling,225.26263211733666,Vallingby
+2012-10-27,Kirunagatan 15,Vallingby,GronHasselby,2,56,null,Lägenhet,2006,[Vällingby Centrum],1295000,75000,1370000,4288,Svensk Fastighetsförmedling,368.51420541769124,Vallingby
+2012-10-27,Jämtlandsgatan 116,Vallingby,GronHasselby,2,56,2,Lägenhet,null,[Vällingby],1295000,-45000,1250000,2951,Mäklarhuset,298.85909510744426,Vallingby
+2012-10-25,Kirunagatan 66,Vallingby,GronHasselby,2,56,null,Lägenhet,1954,[Vällingby],1345000,165000,1510000,2854,Notar,344.27068511371,Johannelund
+2012-10-24,Kirunagatan 19,Vallingby,GronHasselby,3,71.5,3,Lägenhet,2006,[Vällingby Centrum],1695000,60000,1755000,5234,Svensk Fastighetsförmedling,442.67298612303347,Vallingby
+2012-10-19,Jämtlandsgatan 154,Vallingby,GronHasselby,2,60,6,Lägenhet,1953,[Vällingby],1350000,120000,1470000,2221,Mäklarhuset,221.12564833638007,Vallingby
+2012-10-18,Vittangigatan 10,Vallingby,GronHasselby,2,58,null,Lägenhet,1956,[Vällingby],1395000,45000,1440000,2846,Fastighetsbyrån,242.03680755001855,Vallingby
+2012-10-12,Mörsilsgatan 24,Vallingby,GronHasselby,4,78,null,Lägenhet,1954,[Vällingby Centrum],1995000,-20000,1975000,2575,Svensk Fastighetsförmedling,328.20495324263857,Vallingby
+2012-10-11,Burträskgatan 11,Vallingby,GronHasselby,6,131,null,Radhus,1958,[Vällingby],3245000,-145000,3100000,4223,Fastighetsbyrån,730.4413150941601,Vallingby
+2012-10-09,Lövångersgatan 24,Vallingby,GronHasselby,6,140,null,Villa,1954,[Vällingby],4500000,100000,4600000,5333,Länsförsäkringar Fastighetsförmedling,837.6174508447708,Vallingby
+2012-10-07,Kirunagatan 54,Vallingby,GronHasselby,1,26,null,Lägenhet,1954,[Vällingby Centrum],895000,115000,1010000,1506,Svensk Fastighetsförmedling,367.8656355407159,Johannelund
+2012-10-05,Ångermannagatan 176,Vallingby,GronHasselby,3,76,null,Lägenhet,1954,[Vällingby],1995000,0,1995000,3462,Länsförsäkringar Fastighetsförmedling,189.60241169699418,Vallingby
+2012-09-30,Jämtlandsgatan 94,Vallingby,GronHasselby,1,24,0.5,Lägenhet,1952,[Vällingby],795000,50000,845000,1245,Mäklarhuset,327.6706385694472,Vallingby
+2012-09-24,Jämtlandsgatan 152,Vallingby,GronHasselby,1,33,1,Lägenhet,1953,[Vällingby],995000,90000,1085000,1491,Mäklarhuset,225.26263211733666,Vallingby
+2012-09-24,Vittangigatan 43,Vallingby,GronHasselby,3,69,2.5,Lägenhet,1953,[Vällingby],1995000,0,1995000,2554,Mäklarhuset,173.39531801919335,Vallingby
+2012-09-22,Ångermannagatan 158,Vallingby,GronHasselby,2,58.5,7,Lägenhet,null,[Vällingby],1650000,-50000,1600000,2832,Mäklarhuset,126.42513742024784,Vallingby
+2012-09-19,Abiskovägen 14,Vallingby,GronHasselby,3,73,null,Lägenhet,1954,[Vällingby],1395000,230000,1625000,3437,Fastighetsbyrån,455.4987190245845,Johannelund
+2012-09-15,Abiskovägen 6,Vallingby,GronHasselby,3,76,7,Lägenhet,1954,[Vällingby],2075000,-55000,2020000,3732,Mäklarhuset,382.3701368008909,Johannelund
+2012-09-14,Mörsilsgatan 6,Vallingby,GronHasselby,2,29,2,Lägenhet,null,[Vällingby],1295000,0,1295000,1741,Mäklarhuset,381.31366916147596,Vallingby
+2012-09-13,Mörsilsgatan 6,Vallingby,GronHasselby,1,29,2,Lägenhet,null,[Vällingby],1295000,0,1295000,1741,Mäklarhuset,381.31366916147596,Vallingby
+2012-09-12,Jämtlandsgatan 92,Vallingby,GronHasselby,1,24,1,Lägenhet,1952,[Vällingby],995000,10000,1005000,1245,Mäklarhuset,352.1669275361448,Vallingby

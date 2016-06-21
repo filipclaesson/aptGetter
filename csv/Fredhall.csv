@@ -1,0 +1,647 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-06-21,Ernst Ahlgrens väg 2,Fredhall,Kungsholmen,1,29,4,Lägenhet,1931,[Kungsholmen],2290000,485000,2775000,1712,Notar,211.56793582034769,Kristineberg
+2016-06-18,Runiusgatan 9,Fredhall,Kungsholmen,1,38,3,Lägenhet,1931,[Kungsholmen],2650000,0,2650000,1899,Privatmäklaren,441.78197771521803,Thorildsplan
+2016-06-15,Stagneliusvägen 32,Fredhall,Kungsholmen,1,48,1,Lägenhet,1939,[Kungsholmen],2795000,5000,2800000,2797,Erik Olsson Fastighetsförmedling,505.84323035260513,Thorildsplan
+2016-06-10,Birger Sjöbergs väg 3,Fredhall,Kungsholmen,2,45,1,Lägenhet,null,[Kungsholmen],3300000,0,3300000,2005,Svenska Mäklarhuset,283.83071728618387,Kristineberg
+2016-06-08,Frödingsvägen 6,Fredhall,Kungsholmen,2,48,3,Lägenhet,1933,[Kungsholmen],3350000,550000,3900000,2196,Erik Olsson Fastighetsförmedling,223.29084091083854,Kristineberg
+2016-06-03,Runiusgatan 3,Fredhall,Kungsholmen,2.5,75.9,2,Lägenhet,1931,[Kungsholmen],3695000,215000,3910000,3350,Erik Olsson Fastighetsförmedling,378.9348049311841,Thorildsplan
+2016-06-02,Vitalisvägen 4,Fredhall,Kungsholmen,2,46.5,1.5,Lägenhet,1932,[Kungsholmen Fredhäll],2795000,405000,3200000,2491,HusmanHagberg,280.6335874515628,Kristineberg
+2016-06-01,Frödingsvägen 6,Fredhall,Kungsholmen,1,38,2,Lägenhet,1933,[Fredhäll],2295000,285000,2580000,1787,Svensk Fastighetsförmedling,223.29084091083854,Kristineberg
+2016-05-31,Fredhällsgatan 9,Fredhall,Kungsholmen,3,70,null,Lägenhet,1931,[Kungsholmen],4150000,140000,4290000,3517,SkandiaMäklarna,280.36242024046686,Kristineberg
+2016-05-31,Ernst Ahlgrensväg 2,Fredhall,Kungsholmen,1,29,4,Lägenhet,1931,[Kungsholmen],2495000,30000,2525000,1712,ERA,220.87108139002376,Kristineberg
+2016-05-28,Palmbladsvägen 2,Fredhall,Kungsholmen,3,59,3,Lägenhet,null,[Kungsholmen],4175000,275000,4450000,3302,Länsförsäkringar Fastighetsförmedling,504.1154458534932,Kristineberg
+2016-05-27,Vitalisvägen 6,Fredhall,Kungsholmen,1,27,1,Lägenhet,1931,[Kungsholmen],2500000,-70000,2430000,1623,Notar,297.1120409515215,Kristineberg
+2016-05-26,Orvar Odds väg 2,Fredhall,Kungsholmen,2,34,6,Lägenhet,1937,[Fredhäll],2675000,625000,3300000,1972,Edward & Partners Fastighetsmäklare AB,380.62052693798285,Kristineberg
+2016-05-26,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,2,39.5,3,Lägenhet,1932,[Kungsholmen],2775000,305000,3080000,2191,SkandiaMäklarna,266.5385585072848,Kristineberg
+2016-05-26,Snoilskyvägen 38,Fredhall,Kungsholmen,3,66,5,Lägenhet,null,[Kungsholmen],5280000,0,5280000,4000,BOSTHLM,354.4451624832107,Kristineberg
+2016-05-26,Frödingsvägen 12,Fredhall,Kungsholmen,2.5,90,3,Lägenhet,1930,[Kungsholmen],4995000,805000,5800000,4551,Fastighetsbyrån,310.4245354712741,Kristineberg
+2016-05-26,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,1,34,0.5,Lägenhet,1932,[Kungsholmen],2395000,280000,2675000,1865,SkandiaMäklarna,266.5385585072848,Kristineberg
+2016-05-25,Stagneliusvägen 43,Fredhall,Kungsholmen,1,31,4,Lägenhet,1937,[Kungsholmen],2495000,455000,2950000,701,Erik Olsson Fastighetsförmedling,422.7095023666897,Kristineberg
+2016-05-25,Runiusgatan 3,Fredhall,Kungsholmen,2.5,68.3,2,Lägenhet,null,[Fredhäll],4175000,0,4175000,3170,Svenska Mäklarhuset,378.9348049311841,Thorildsplan
+2016-05-22,Stagneliusvägen 32,Fredhall,Kungsholmen,3,70,4,Lägenhet,1939,[Fredhäll],4695000,605000,5300000,4032,Bjurfors,505.84323035260513,Thorildsplan
+2016-05-19,Frödingsvägen 10,Fredhall,Kungsholmen,1,36,1,Lägenhet,1932,[Fredhäll],2195000,575000,2770000,2006,Svensk Fastighetsförmedling,291.36065976432275,Kristineberg
+2016-05-19,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,34,1,Lägenhet,1933,[Kungsholmen],2495000,455000,2950000,1934,MOHV,253.30832995464698,Kristineberg
+2016-05-19,Stagneliusvägen 23,Fredhall,Kungsholmen,1,22,5,Lägenhet,1937,[Fredhäll],1850000,470000,2320000,1620,Svensk Fastighetsförmedling,494.1147474158459,Thorildsplan
+2016-05-18,Snoilskyvägen 38,Fredhall,Kungsholmen,2,63,3,Lägenhet,1935,[Kungsholmen],4350000,150000,4500000,3761,SkandiaMäklarna,354.4451624832107,Kristineberg
+2016-05-18,Messeniusgatan 6,Fredhall,Kungsholmen,2,50,3,Lägenhet,1936,[Kungsholmen],3475000,625000,4100000,3320,Fastighetsbyrån,312.01821262078084,Kristineberg
+2016-05-18,Ernst Ahlgrens väg 4,Fredhall,Kungsholmen,2,39,2,Lägenhet,1932,[Kungsholmen],2850000,650000,3500000,2124,SkandiaMäklarna,229.19549537027265,Kristineberg
+2016-05-14,Vitalisvägen 13,Fredhall,Kungsholmen,2,38,3,Lägenhet,1931,[Fredhäll],2295000,535000,2830000,2112,Svensk Fastighetsförmedling,363.06313772065147,Kristineberg
+2016-05-12,Frödingsvägen 1,Fredhall,Kungsholmen,2,29,3,Lägenhet,1932,[Kungsholmen],2295000,515000,2810000,1625,Erik Olsson Fastighetsförmedling,183.35534702052703,Kristineberg
+2016-05-11,Snoilskyvägen 26,Fredhall,Kungsholmen,5,104,null,Radhus,1935,[Kungsholmen],10900000,300000,11200000,3662,Wrede,424.06803770810905,Kristineberg
+2016-05-07,Runiusgatan 7,Fredhall,Kungsholmen,3,78,3,Lägenhet,1931,[Kungsholmen],4995000,280000,5275000,3730,Erik Olsson Fastighetsförmedling,419.9844074461587,Thorildsplan
+2016-05-07,Rålambsvägen 52,Fredhall,Kungsholmen,2,45,2,Lägenhet,null,[Kungsholmen],2995000,1005000,4000000,2430,Svenska Mäklarhuset,294.22926985013714,Kristineberg
+2016-05-06,Vitalisvägen 5,Fredhall,Kungsholmen,2,38,3,Lägenhet,1931,[Fredhäll],2695000,205000,2900000,2043,Fastighetsmäklarna,310.71675850298726,Kristineberg
+2016-05-05,Rålambsvägen 54,Fredhall,Kungsholmen,2,39,3,Lägenhet,1933,[Kungsholmen],2695000,505000,3200000,2238,MOHV,276.2369999120645,Kristineberg
+2016-05-04,Rålambsvägen 50,Fredhall,Kungsholmen,1,24.5,2,Lägenhet,1931,[Fredhäll],1895000,555000,2450000,1511,Svensk Fastighetsförmedling,317.8888827853026,Kristineberg
+2016-05-04,Runiusgatan 5,Fredhall,Kungsholmen,2,37,1.5,Lägenhet,1931,[Kungsholmen Fredhäll],2495000,555000,3050000,1851,HusmanHagberg,398.99626912134704,Thorildsplan
+2016-05-03,Messeniusgatan 6,Fredhall,Kungsholmen,2,31,4,Lägenhet,null,[Kungsholmen],2450000,300000,2750000,2059,SkandiaMäklarna,312.01821262078084,Kristineberg
+2016-05-03,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,38,3,Lägenhet,1931,[Kungsholmen],2495000,515000,3010000,2025,Erik Olsson Fastighetsförmedling,276.32951152197666,Kristineberg
+2016-04-28,Frödingsvägen 3,Fredhall,Kungsholmen,2,40.5,2,Lägenhet,1933,[Kungsholmen],2795000,505000,3300000,2304,Fastighetsbyrån,202.71701879799602,Kristineberg
+2016-04-28,Stagneliusvägen 26,Fredhall,Kungsholmen,1,35,3,Lägenhet,null,[Fredhäll],2275000,575000,2850000,2468,Länsförsäkringar Fastighetsförmedling,468.10516843922983,Thorildsplan
+2016-04-27,Orvar Odds väg 2,Fredhall,Kungsholmen,1,24.5,2,Lägenhet,1937,[Kungsholmen],1995000,530000,2525000,1757,Fastighetsbyrån,380.62052693798285,Kristineberg
+2016-04-26,Snoilskyvägen 38,Fredhall,Kungsholmen,2,59,1,Lägenhet,1935,[Kungsholmen],3250000,560000,3810000,3522,SkandiaMäklarna,354.4451624832107,Kristineberg
+2016-04-26,Vitalisvägen 3,Fredhall,Kungsholmen,2,42,3,Lägenhet,1931,[Kungsholmen],2890000,310000,3200000,2290,Fastighetsbyrån,295.6120724500423,Kristineberg
+2016-04-23,Stagneliusvägen 32,Fredhall,Kungsholmen,1.5,38,4,Lägenhet,1939,[Fredhäll],2495000,305000,2800000,2238,Bjurfors,505.84323035260513,Thorildsplan
+2016-04-22,Stagneliusvägen 30,Fredhall,Kungsholmen,1,22,3,Lägenhet,1937,[Fredhäll],1850000,400000,2250000,1594,Svensk Fastighetsförmedling,480.47334247579425,Thorildsplan
+2016-04-20,Vitalisvägen 13,Fredhall,Kungsholmen,2,61,3,Lägenhet,1931,[Kungsholmen],4150000,-50000,4100000,2815,Erik Olsson Fastighetsförmedling,363.06313772065147,Kristineberg
+2016-04-20,Fredhällsgatan 5,Fredhall,Kungsholmen,2,46,null,Lägenhet,1932,[Kungsholmen],2995000,1005000,4000000,2395,Erik Olsson Fastighetsförmedling,215.56428568548765,Kristineberg
+2016-04-19,Vitalisvägen 11,Fredhall,Kungsholmen,2,40,2,Lägenhet,1932,[Kungsholmen],2895000,455000,3350000,2132,SkandiaMäklarna,344.6143843002057,Kristineberg
+2016-04-18,Atterbomsvägen 38,Fredhall,Kungsholmen,2,43,1.5,Lägenhet,null,[Kungsholmen],3195000,0,3195000,2442,Mäklarringen,592.5949667313577,Kristineberg
+2016-04-16,Stagneliusvägen 38,Fredhall,Kungsholmen,2,43,4,Lägenhet,1936,[Kungsholmen Fredhäll],2495000,465000,2960000,2008,Bjurfors,480.96007934203357,Kristineberg
+2016-04-15,Stagneliusvägen 43,Fredhall,Kungsholmen,2,58,4,Lägenhet,1937,[Kungsholmen],3495000,1255000,4750000,1210,Mäklarhuset,422.7095023666897,Kristineberg
+2016-04-15,Stagneliusvägen 23,Fredhall,Kungsholmen,2,35,3,Lägenhet,1937,[Kungsholmen],2495000,580000,3075000,2468,Mäklarhuset,494.1147474158459,Thorildsplan
+2016-04-15,Frödingsvägen 4,Fredhall,Kungsholmen,1,49,1,Lägenhet,1931,[Fredhäll],2695000,505000,3200000,2506,Svensk Fastighetsförmedling,194.83654605320967,Kristineberg
+2016-04-15,Ernst Ahlgrens väg 6,Fredhall,Kungsholmen,2,42.5,1.5,Lägenhet,1931,[Kungsholmen],2995000,335000,3330000,2244,Svensk Fastighetsförmedling,247.57837959902147,Kristineberg
+2016-04-15,Adlerbethsgatan 15,Fredhall,Kungsholmen,2,34,3,Lägenhet,1931,[Fredhäll],2495000,155000,2650000,1934,Diplomat Fastighetsmäkleri AB,257.1089012640414,Kristineberg
+2016-04-14,Stagneliusvägen 43,Fredhall,Kungsholmen,2,58,7,Lägenhet,null,[Kungsholmen],3995000,1025000,5020000,1237,Svenska Mäklarhuset,422.7095023666897,Kristineberg
+2016-04-14,Stagneliusvägen 26,Fredhall,Kungsholmen,2,40.5,4,Lägenhet,1937,[Kungsholmen],2650000,485000,3135000,2854,Fastighetsbyrån,468.10516843922983,Thorildsplan
+2016-04-14,Orvar Odds väg 51,Fredhall,Kungsholmen,1.5,35,4,Lägenhet,1935,[Kungsholmen],2695000,930000,3625000,2106,Erik Olsson Fastighetsförmedling,366.96771760851937,Kristineberg
+2016-04-13,Stagneliusvägen 28,Fredhall,Kungsholmen,2,40.5,1,Lägenhet,1937,[Fredhäll],2795000,735000,3530000,2815,Svensk Fastighetsförmedling,475.00189111957957,Thorildsplan
+2016-04-12,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,38,3,Lägenhet,1933,[Kungsholmen Fredhäll],2750000,350000,3100000,2112,HusmanHagberg,276.32951152197666,Kristineberg
+2016-04-12,Vitalisvägen 6,Fredhall,Kungsholmen,2,45.5,1,Lägenhet,1932,[Kungsholmen],3000000,300000,3300000,2377,Fastighetsbyrån,297.1120409515215,Kristineberg
+2016-04-12,Stagneliusvägen 32,Fredhall,Kungsholmen,2,46,1,Lägenhet,null,[Kungsholmen],2750000,550000,3300000,2687,BOSTHLM,505.84323035260513,Thorildsplan
+2016-04-12,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,43.5,1.5,Lägenhet,1932,[Kungsholmen],2995000,145000,3140000,2438,Fastighetsbyrån,276.32951152197666,Kristineberg
+2016-04-09,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,1,34,2,Lägenhet,null,[Kungsholmen],2475000,300000,2775000,1934,Länsförsäkringar Fastighetsförmedling,253.30832995464698,Kristineberg
+2016-04-09,Vitalisvägen 5,Fredhall,Kungsholmen,1,26.5,0.5,Lägenhet,1931,[Fredhäll],1995000,205000,2200000,1513,Bjurfors,310.71675850298726,Kristineberg
+2016-04-09,Adlerbethsgatan 17,Fredhall,Kungsholmen,2,43,2,Lägenhet,null,[Kungsholmen],2995000,375000,3370000,2347,Svensk Fastighetsförmedling,227.70592140174588,Kristineberg
+2016-04-07,Runiusgatan 7,Fredhall,Kungsholmen,1.5,38,2,Lägenhet,1931,[Kungsholmen],2600000,750000,3350000,1899,Historiska Hem AB,419.9844074461587,Thorildsplan
+2016-04-06,Frödingsvägen 2,Fredhall,Kungsholmen,2,43,2,Lägenhet,1932,[Kungsholmen],2695000,720000,3415000,2043,Erik Olsson Fastighetsförmedling,166.70557598207634,Kristineberg
+2016-04-06,Frödingsvägen 1,Fredhall,Kungsholmen,1,26,1,Lägenhet,1932,[Kungsholmen],2195000,455000,2650000,1487,SkandiaMäklarna,183.35534702052703,Kristineberg
+2016-04-06,Stagneliusvägen 38,Fredhall,Kungsholmen,2,44,5,Lägenhet,1936,[Kungsholmen],3300000,450000,3750000,2173,SkandiaMäklarna,480.96007934203357,Kristineberg
+2016-04-06,Rålambsvägen 48,Fredhall,Kungsholmen,1,27,2,Lägenhet,1931,[Kungsholmen],2195000,10000,2205000,1554,SkandiaMäklarna,325.320518977869,Kristineberg
+2016-03-24,Vitalisvägen 13,Fredhall,Kungsholmen,2,61,null,Lägenhet,1931,[Kungsholmen],4250000,0,4250000,2833,Mäklarhuset,363.06313772065147,Kristineberg
+2016-03-24,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,2.5,Lägenhet,1932,[Kungsholmen],2995000,125000,3120000,2347,Fastighetsbyrån,253.30832995464698,Kristineberg
+2016-03-24,Atterbomsvägen 28,Fredhall,Kungsholmen,2,31,2,Lägenhet,1937,[Kungsholmen],2250000,470000,2720000,1604,SkandiaMäklarna,560.5765540820058,Thorildsplan
+2016-03-21,Atterbomsvägen 30,Fredhall,Kungsholmen,3,75,3,Lägenhet,null,[Fredhäll],4500000,885000,5385000,3628,Svensk Fastighetsförmedling,567.7960803169277,Thorildsplan
+2016-03-19,Ernst Ahlgrens väg 10,Fredhall,Kungsholmen,2,41,2,Lägenhet,1931,[Kungsholmen],2995000,355000,3350000,2173,Erik Olsson Fastighetsförmedling,285.9828936004048,Kristineberg
+2016-03-19,Frödingsvägen 5,Fredhall,Kungsholmen,2,42.5,2,Lägenhet,1933,[Fredhäll],2750000,780000,3530000,2244,Svensk Fastighetsförmedling,222.50432533970834,Kristineberg
+2016-03-18,Stagneliusvägen 30,Fredhall,Kungsholmen,2,35.5,2,Lägenhet,null,[Kungsholmen],2495000,455000,2950000,2494,Notar,480.47334247579425,Thorildsplan
+2016-03-17,Atterbomsvägen 28,Fredhall,Kungsholmen,2,35,5,Lägenhet,1937,[Kungsholmen],2695000,485000,3180000,2038,SkandiaMäklarna,560.5765540820058,Thorildsplan
+2016-03-16,Adlerbethsgatan 17,Fredhall,Kungsholmen,2,46,null,Lägenhet,1931,[Kungsholmen],3395000,505000,3900000,2543,Erik Olsson Fastighetsförmedling,227.70592140174588,Kristineberg
+2016-03-15,Messeniusgatan 6,Fredhall,Kungsholmen,1,29,5,Lägenhet,1936,[Kungsholmen],2495000,155000,2650000,1926,Erik Olsson Fastighetsförmedling,312.01821262078084,Kristineberg
+2016-03-15,Frödingsvägen 6,Fredhall,Kungsholmen,2,38,3,Lägenhet,1933,[Kungsholmen],2795000,505000,3300000,1787,Edward & Partners Fastighetsmäklare AB,223.29084091083854,Kristineberg
+2016-03-08,Rålambsvägen 72,Fredhall,Kungsholmen,1,36,3,Lägenhet,1932,[Kungsholmen],2450000,625000,3075000,2301,1st Street Stockholm,258.9751448607363,Kristineberg
+2016-03-07,Fredhällsgatan 13,Fredhall,Kungsholmen,3,93,null,Lägenhet,1931,[Kungsholmen],5750000,700000,6450000,4358,Erik Olsson Fastighetsförmedling,319.9513364399814,Kristineberg
+2016-03-07,Vitalisvägen 4,Fredhall,Kungsholmen,2,43,2,Lägenhet,1931,[Kungsholmen],2795000,505000,3300000,2248,Notar,280.6335874515628,Kristineberg
+2016-03-02,Orvar Odds väg 51,Fredhall,Kungsholmen,2,57,1,Lägenhet,1935,[Kungsholmen],3995000,1230000,5225000,2917,Erik Olsson Fastighetsförmedling,366.96771760851937,Kristineberg
+2016-03-02,Runiusgatan 7,Fredhall,Kungsholmen,1,38,0.5,Lägenhet,1931,[Kungsholmen],2300000,510000,2810000,1814,Fastighetsbyrån,419.9844074461587,Thorildsplan
+2016-03-02,Ernst Ahlgrens väg 2,Fredhall,Kungsholmen,2,46.5,1,Lägenhet,1932,[Kungsholmen],3295000,630000,3925000,2583,SkandiaMäklarna,211.56793582034769,Kristineberg
+2016-02-29,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,1,33.5,null,Lägenhet,1931,[Kungsholmen],2495000,405000,2900000,1825,Bjurfors,253.30832995464698,Kristineberg
+2016-02-27,Stagneliusvägen 26,Fredhall,Kungsholmen,2,35,3,Lägenhet,1937,[Kungsholmen],2995000,105000,3100000,2468,Innerstadsspecialisten AB,468.10516843922983,Thorildsplan
+2016-02-26,Runiusgatan 7,Fredhall,Kungsholmen,2,48,1.5,Lägenhet,1931,[Kungsholmen],2895000,155000,3050000,2196,Erik Olsson Fastighetsförmedling,419.9844074461587,Thorildsplan
+2016-02-26,Frödingsvägen 5,Fredhall,Kungsholmen,2,42.5,2,Lägenhet,1933,[Fredhäll],2650000,660000,3310000,2244,Svensk Fastighetsförmedling,222.50432533970834,Kristineberg
+2016-02-26,Vitalisvägen 13,Fredhall,Kungsholmen,2,35,0.5,Lägenhet,1931,[Fredhäll],2650000,360000,3010000,1910,Svensk Fastighetsförmedling,363.06313772065147,Kristineberg
+2016-02-26,Frödingsvägen 6,Fredhall,Kungsholmen,1,38,0.5,Lägenhet,1933,[Kungsholmen],2495000,430000,2925000,1787,Erik Olsson Fastighetsförmedling,223.29084091083854,Kristineberg
+2016-02-25,Stagneliusvägen 42,Fredhall,Kungsholmen,1.5,39,1,Lägenhet,1936,[Kungsholmen],3000000,-235000,2765000,2691,Länsförsäkringar Fastighetsförmedling,429.92846000011946,Kristineberg
+2016-02-25,Adlerbethsgatan 17,Fredhall,Kungsholmen,2,34,2,Lägenhet,1931,[Kungsholmen],2650000,610000,3260000,1865,SkandiaMäklarna,227.70592140174588,Kristineberg
+2016-02-25,Frödingsvägen 7,Fredhall,Kungsholmen,2,39.5,3,Lägenhet,1933,[Kungsholmen],2995000,615000,3610000,2191,Magnusson Mäkleri,242.613149132418,Kristineberg
+2016-02-25,Fredhällsgatan 3,Fredhall,Kungsholmen,2,41,3,Lägenhet,1930,[Kungsholmen],2995000,680000,3675000,1771,SkandiaMäklarna,189.86702764584538,Kristineberg
+2016-02-22,Atterbomsvägen 30,Fredhall,Kungsholmen,2,51,3,Lägenhet,1937,[Kungsholmen],3395000,255000,3650000,2727,Notar,567.7960803169277,Thorildsplan
+2016-02-19,Runiusgatan 5,Fredhall,Kungsholmen,2,47,1.5,Lägenhet,1931,[Kungsholmen],2850000,300000,3150000,2244,SkandiaMäklarna,398.99626912134704,Thorildsplan
+2016-02-19,Orvar Odds väg 2,Fredhall,Kungsholmen,3,93,2,Lägenhet,1937,[Fredhäll],6495000,955000,7450000,4414,Diplomat Fastighetsmäkleri AB,380.62052693798285,Kristineberg
+2016-02-19,Frödingsvägen 12,Fredhall,Kungsholmen,4,109,3,Lägenhet,1930,[Kungsholmen],7495000,505000,8000000,5535,Erik Olsson Fastighetsförmedling,310.4245354712741,Kristineberg
+2016-02-19,Rålambsvägen 48,Fredhall,Kungsholmen,2,32,1,Lägenhet,null,[Kungsholmen],2495000,425000,2920000,1776,Mäklarhuset,325.320518977869,Kristineberg
+2016-02-18,Frödingsvägen 12,Fredhall,Kungsholmen,2,53,2,Lägenhet,1930,[Kungsholmen],3500000,900000,4400000,2733,Gripsholms Fastighetsförmedling,310.4245354712741,Kristineberg
+2016-02-13,Messeniusgatan 6,Fredhall,Kungsholmen,1,29,3,Lägenhet,null,[Fredhäll],2495000,355000,2850000,1926,Svensk Fastighetsförmedling,312.01821262078084,Kristineberg
+2016-02-12,Frödingsvägen 10,Fredhall,Kungsholmen,2,34,3,Lägenhet,1932,[Fredhäll],2695000,555000,3250000,1894,Svensk Fastighetsförmedling,291.36065976432275,Kristineberg
+2016-02-11,Adlerbethsgatan 15,Fredhall,Kungsholmen,2,45,1,Lägenhet,1931,[Kungsholmen],2995000,300000,3295000,2355,SkandiaMäklarna,257.1089012640414,Kristineberg
+2016-02-10,Rålambsvägen 70,Fredhall,Kungsholmen,1,35,2,Lägenhet,1932,[Kungsholmen],2300000,750000,3050000,2301,Fastighetsbyrån,241.30931016137123,Kristineberg
+2016-02-04,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,2,Lägenhet,1933,[Kungsholmen],2995000,405000,3400000,2347,SkandiaMäklarna,253.30832995464698,Kristineberg
+2016-02-03,Ernst Ahlgrens väg 2,Fredhall,Kungsholmen,1.5,29,4,Lägenhet,1931,[Kungsholmen],2350000,420000,2770000,1625,Erik Olsson Fastighetsförmedling,211.56793582034769,Kristineberg
+2016-02-03,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,2,39.5,1,Lägenhet,1932,[Kungsholmen],2850000,320000,3170000,2191,Fastighetsbyrån,266.5385585072848,Kristineberg
+2016-02-02,Rålambsvägen 70,Fredhall,Kungsholmen,1.5,35,2,Lägenhet,1932,[Kungsholmen],2595000,590000,3185000,2301,SkandiaMäklarna,241.30931016137123,Kristineberg
+2016-01-30,Rålambsvägen 46,Fredhall,Kungsholmen,1,29.5,2,Lägenhet,1932,[Fredhäll],2095000,505000,2600000,1820,Svensk Fastighetsförmedling,327.7914548022891,Kristineberg
+2016-01-29,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,1,Lägenhet,1932,[Kungsholmen],2950000,250000,3200000,2347,Fastighetsbyrån,253.30832995464698,Kristineberg
+2016-01-27,Frödingsvägen 4,Fredhall,Kungsholmen,2,34,0.5,Lägenhet,1931,[Fredhäll],2495000,685000,3180000,1776,Svensk Fastighetsförmedling,194.83654605320967,Kristineberg
+2016-01-22,Atterbomsvägen 28,Fredhall,Kungsholmen,1,26,4,Lägenhet,null,[Kungsholmen],2095000,635000,2730000,1561,Bjurfors,560.5765540820058,Thorildsplan
+2016-01-21,Stagneliusvägen 23,Fredhall,Kungsholmen,2,47.5,4,Lägenhet,null,[Kungsholmen],3395000,205000,3600000,3330,Svenska Mäklarhuset,494.1147474158459,Thorildsplan
+2016-01-21,Orvar Odds väg 8,Fredhall,Kungsholmen,1,27,4,Lägenhet,1935,[Kungsholmen],2295000,805000,3100000,1469,Bjurfors,385.5114413050878,Kristineberg
+2016-01-15,Atterbomsvägen 28,Fredhall,Kungsholmen,1,26,5,Lägenhet,1937,[Kungsholmen],2250000,350000,2600000,1561,Fastighetsbyrån,560.5765540820058,Thorildsplan
+2016-01-15,Frödingsvägen 10,Fredhall,Kungsholmen,1,36,0.5,Lägenhet,1932,[Fredhäll],2500000,450000,2950000,2006,Svensk Fastighetsförmedling,291.36065976432275,Kristineberg
+2016-01-13,Rålambsvägen 46,Fredhall,Kungsholmen,1.5,26,2,Lägenhet,1932,[Kungsholmen],2200000,660000,2860000,1595,Fastighetsbyrån,327.7914548022891,Kristineberg
+2016-01-12,Orvar Odds väg 6,Fredhall,Kungsholmen,1.5,27,4,Lägenhet,1936,[Fredhäll],2295000,1105000,3400000,1599,Svensk Fastighetsförmedling,386.7275671157711,Kristineberg
+2015-12-16,Stagneliusvägen 42,Fredhall,Kungsholmen,2.5,51,1,Lägenhet,1936,[Kungsholmen],2950000,600000,3550000,3272,Fastighetsbyrån,429.92846000011946,Kristineberg
+2015-12-15,Frödingsvägen 2,Fredhall,Kungsholmen,1.5,49,0.5,Lägenhet,1932,[Kungsholmen],2995000,175000,3170000,2428,SkandiaMäklarna,166.70557598207634,Kristineberg
+2015-12-14,Vitalisvägen 5,Fredhall,Kungsholmen,2,38.5,0.5,Lägenhet,1931,[Kungsholmen],2795000,205000,3000000,2066,Fastighetsbyrån,310.71675850298726,Kristineberg
+2015-12-11,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,5,118,null,Lägenhet,1931,[Fredhäll],7250000,450000,7700000,4960,Notar,276.32951152197666,Kristineberg
+2015-12-09,Fredhällsgatan 5,Fredhall,Kungsholmen,3,77,1,Lägenhet,1932,[Kungsholmen],4895000,730000,5625000,3905,SkandiaMäklarna,215.56428568548765,Kristineberg
+2015-12-06,Stagneliusvägen 23,Fredhall,Kungsholmen,2,38.5,2,Lägenhet,1937,[Kungsholmen],2300000,600000,2900000,2687,Fastighetsbyrån,494.1147474158459,Thorildsplan
+2015-12-02,Ernst Ahlgrens väg 6,Fredhall,Kungsholmen,2,42.5,2,Lägenhet,1933,[Kungsholmen],2995000,335000,3330000,2244,Fastighetsbyrån,247.57837959902147,Kristineberg
+2015-12-02,Vitalisvägen 6,Fredhall,Kungsholmen,2,45.5,1.5,Lägenhet,1932,[Kungsholmen],3150000,585000,3735000,2377,Fastighetsbyrån,297.1120409515215,Kristineberg
+2015-12-02,Ernst Ahlgrens väg 4,Fredhall,Kungsholmen,2,41,1.5,Lägenhet,1933,[Kungsholmen],2995000,705000,3700000,2235,SkandiaMäklarna,229.19549537027265,Kristineberg
+2015-11-30,Vitalisvägen 13,Fredhall,Kungsholmen,4,75,1,Lägenhet,null,[Kungsholmen],5250000,120000,5370000,3759,Svenska Mäklarhuset,363.06313772065147,Kristineberg
+2015-11-26,Rålambsvägen 54,Fredhall,Kungsholmen,2,39,1,Lägenhet,1931,[Fredhäll],2750000,400000,3150000,2169,Svensk Fastighetsförmedling,276.2369999120645,Kristineberg
+2015-11-26,Ernst Ahlgrens väg 6,Fredhall,Kungsholmen,2,40,3,Lägenhet,1931,[Kungsholmen],2990000,460000,3450000,2282,Notar,247.57837959902147,Kristineberg
+2015-11-19,Fredhällsgatan 13,Fredhall,Kungsholmen,2,60,0.5,Lägenhet,1931,[Kungsholmen],3490000,1110000,4600000,2812,Notar,319.9513364399814,Kristineberg
+2015-11-18,Rålambsvägen 48,Fredhall,Kungsholmen,2,32,2,Lägenhet,null,[Fredhäll],2495000,640000,3135000,1776,Bjurfors,325.320518977869,Kristineberg
+2015-11-14,Runiusgatan 3,Fredhall,Kungsholmen,1,33,3,Lägenhet,1931,[Fridhemsplan],2395000,305000,2700000,1359,Svensk Fastighetsförmedling,378.9348049311841,Thorildsplan
+2015-11-05,Stagneliusvägen 38,Fredhall,Kungsholmen,2,44,5,Lägenhet,1936,[Kungsholmen],2900000,230000,3130000,2173,Fastighetsbyrån,480.96007934203357,Kristineberg
+2015-11-05,Runiusgatan 5,Fredhall,Kungsholmen,2,38,2,Lägenhet,1931,[Kungsholmen],2350000,500000,2850000,1899,Karlsson & Uddare,398.99626912134704,Thorildsplan
+2015-11-05,Fredhällsgatan 9,Fredhall,Kungsholmen,1,40,3,Lägenhet,1931,[Kungsholmen Fredhäll],2850000,150000,3000000,2379,Bjurfors,280.36242024046686,Kristineberg
+2015-11-03,Atterbomsvägen 60,Fredhall,Kungsholmen,1,26,1,Lägenhet,null,[Kungsholmen],2175000,390000,2565000,1198,Länsförsäkringar Fastighetsförmedling,372.3625666802311,Kristineberg
+2015-10-30,Ernst Ahlgrens Väg 7,Fredhall,Kungsholmen,2,34,3,Lägenhet,1933,[Kungsholmen],2595000,405000,3000000,1934,Fastighetsbyrån,300.51567043336155,Kristineberg
+2015-10-30,Rålambsvägen 70,Fredhall,Kungsholmen,1.5,35,3,Lägenhet,1932,[Kungsholmen],2750000,650000,3400000,2192,Karlsson & Uddare,241.30931016137123,Kristineberg
+2015-10-30,Adlerbethsgatan 15,Fredhall,Kungsholmen,1,34,1,Lägenhet,1931,[Kungsholmen],2495000,455000,2950000,1865,Fastighetsbyrån,257.1089012640414,Kristineberg
+2015-10-28,Atterbomsvägen 38,Fredhall,Kungsholmen,3,73,1,Lägenhet,1935,[Kungsholmen],4495000,555000,5050000,4018,Fastighetsbyrån,592.5949667313577,Kristineberg
+2015-10-24,Frödingsvägen 10,Fredhall,Kungsholmen,1,34,3,Lägenhet,1932,[Fredhäll],1995000,805000,2800000,1894,Svensk Fastighetsförmedling,291.36065976432275,Kristineberg
+2015-10-19,Ernst Ahlgrens väg 2,Fredhall,Kungsholmen,1,29,4,Lägenhet,1932,[Kungsholmen],2350000,150000,2500000,1643,Notar,211.56793582034769,Kristineberg
+2015-10-19,Messeniusgatan 6,Fredhall,Kungsholmen,2,31,2,Lägenhet,null,[Kungsholmen],2475000,335000,2810000,2059,Länsförsäkringar Fastighetsförmedling,312.01821262078084,Kristineberg
+2015-10-17,Stagneliusvägen 23,Fredhall,Kungsholmen,2,47.5,1,Lägenhet,1937,[Kungsholmen],3095000,225000,3320000,3124,Fastighetsbyrån,494.1147474158459,Thorildsplan
+2015-10-17,Fredhällsgatan 3,Fredhall,Kungsholmen,2,60,3,Lägenhet,1930,[Kungsholmen],4395000,305000,4700000,2389,Fastighetsbyrån,189.86702764584538,Kristineberg
+2015-10-13,Rålambsvägen 70,Fredhall,Kungsholmen,2,36,2,Lägenhet,1932,[Kungsholmen],2800000,535000,3335000,2224,Fastighetsbyrån,241.30931016137123,Kristineberg
+2015-10-13,Adlerbethsgatan 15,Fredhall,Kungsholmen,1,34,2,Lägenhet,1931,[Kungsholmen],2495000,435000,2930000,1865,Fastighetsbyrån,257.1089012640414,Kristineberg
+2015-10-13,Adlerbethsgatan 15,Fredhall,Kungsholmen,1,34,1,Lägenhet,1931,[Kungsholmen Fredhäll],2475000,505000,2980000,1847,HusmanHagberg,257.1089012640414,Kristineberg
+2015-10-10,Atterbomsvägen 30,Fredhall,Kungsholmen,2,37,4,Lägenhet,1937,[Kungsholmen],2695000,405000,3100000,2101,Svensk Fastighetsförmedling,567.7960803169277,Thorildsplan
+2015-10-08,Adlerbethsgatan 15,Fredhall,Kungsholmen,2,46,3,Lägenhet,1932,[Kungsholmen],3250000,650000,3900000,2630,Karlsson & Uddare,257.1089012640414,Kristineberg
+2015-10-08,Messeniusgatan 6,Fredhall,Kungsholmen,1,29,2,Lägenhet,1936,[Kungsholmen],2500000,130000,2630000,1926,Fastighetsbyrån,312.01821262078084,Kristineberg
+2015-10-05,Atterbomsvägen 38,Fredhall,Kungsholmen,2,49,1,Lägenhet,1935,[Kungsholmen],2995000,805000,3800000,2438,Notar,592.5949667313577,Kristineberg
+2015-10-05,Stagneliusvägen 32,Fredhall,Kungsholmen,2,46,1,Lägenhet,1939,[Fredhäll],2750000,550000,3300000,2634,Notar,505.84323035260513,Thorildsplan
+2015-10-03,Stagneliusvägen 23,Fredhall,Kungsholmen,2,47.5,null,Lägenhet,null,[Kungsholmen Fredhäll],2950000,250000,3200000,3278,Reimersholme Fastighetsmäkleri AB,494.1147474158459,Thorildsplan
+2015-10-02,Runiusgatan 5,Fredhall,Kungsholmen,2,47,3,Lägenhet,1931,[Kungsholmen],2995000,355000,3350000,2244,SkandiaMäklarna,398.99626912134704,Thorildsplan
+2015-10-01,Runiusgatan 3,Fredhall,Kungsholmen,3,69,1.5,Lägenhet,1931,[Kungsholmen],3995000,575000,4570000,2927,Hans Göthe Fastighetsbyrå AB,378.9348049311841,Thorildsplan
+2015-09-30,Frödingsvägen 3,Fredhall,Kungsholmen,2,39,2,Lägenhet,1931,[Kungsholmen],2895000,515000,3410000,2106,Erik Olsson Fastighetsförmedling,202.71701879799602,Kristineberg
+2015-09-30,Rålambsvägen 54,Fredhall,Kungsholmen,2,39.5,1,Lägenhet,1933,[Kungsholmen],2795000,455000,3250000,2155,SkandiaMäklarna,276.2369999120645,Kristineberg
+2015-09-25,Adlerbethsgatan 17,Fredhall,Kungsholmen,1.5,34,2,Lägenhet,1931,[Kungsholmen],2525000,335000,2860000,1934,SkandiaMäklarna,227.70592140174588,Kristineberg
+2015-09-23,Runiusgatan 3,Fredhall,Kungsholmen,1,32,0.5,Lägenhet,1931,[Kungsholmen],2,2699998,2700000,1359,Svensk Fastighetsförmedling,378.9348049311841,Thorildsplan
+2015-09-23,Adlerbethsgatan 17,Fredhall,Kungsholmen,2,46,2,Lägenhet,1933,[Fredhäll],3195000,730000,3925000,2630,Vision Fastighetsmäkleri AB,227.70592140174588,Kristineberg
+2015-09-18,Messeniusgatan 6,Fredhall,Kungsholmen,1.5,31,3,Lägenhet,1936,[Kungsholmen],2350000,850000,3200000,2059,Karlsson & Uddare,312.01821262078084,Kristineberg
+2015-09-18,Stagneliusvägen 30,Fredhall,Kungsholmen,2,35,1,Lägenhet,1937,[Kungsholmen],2495000,480000,2975000,2481,Mäklarhuset,480.47334247579425,Thorildsplan
+2015-09-18,Fredhällsgatan 3,Fredhall,Kungsholmen,3,84,0.5,Lägenhet,1937,[Kungsholmen],4795000,315000,5110000,2994,Alexander White Fastighetsmäkleri,189.86702764584538,Kristineberg
+2015-09-18,Vitalisvägen 5,Fredhall,Kungsholmen,1,27,2,Lägenhet,1931,[Kungsholmen],2195000,375000,2570000,1623,Svensk Fastighetsförmedling,310.71675850298726,Kristineberg
+2015-09-17,Orvar Odds väg 2,Fredhall,Kungsholmen,2,40,5,Lägenhet,1937,[Kungsholmen],3150000,850000,4000000,2172,Alexander White Fastighetsmäkleri,380.62052693798285,Kristineberg
+2015-09-17,Stagneliusvägen 42,Fredhall,Kungsholmen,2,53,4,Lägenhet,1936,[Kungsholmen-Fredhäll],3595000,330000,3925000,3443,Innerstadsspecialisten AB,429.92846000011946,Kristineberg
+2015-09-16,Rålambsvägen 50,Fredhall,Kungsholmen,2,43,1.5,Lägenhet,1933,[Kungsholmen],2890000,685000,3575000,2347,Fastighetsbyrån,317.8888827853026,Kristineberg
+2015-09-09,Fredhällsgatan 11,Fredhall,Kungsholmen,2.5,104,4,Lägenhet,1931,[Fredhäll],6395000,635000,7030000,4177,Fantastic Frank Fastighetsmäkleri,300.16105076960355,Kristineberg
+2015-09-04,Stagneliusvägen 23,Fredhall,Kungsholmen,2,47.5,null,Lägenhet,null,[Kungsholmen Fredhäll],2750000,700000,3450000,3304,Reimersholme Fastighetsmäkleri AB,494.1147474158459,Thorildsplan
+2015-09-02,Rålambsvägen 50,Fredhall,Kungsholmen,2,43,3,Lägenhet,1931,[Kungsholmen],2895000,755000,3650000,2347,SkandiaMäklarna,317.8888827853026,Kristineberg
+2015-08-27,Frödingsvägen 6,Fredhall,Kungsholmen,2,40,null,Lägenhet,1933,[Kungsholmen Fredhäll],2495000,505000,3000000,1869,HusmanHagberg,223.29084091083854,Kristineberg
+2015-08-26,Atterbomsvägen 58,Fredhall,Kungsholmen,1.5,31,1,Lägenhet,1935,[Kungsholmen],2195000,415000,2610000,1543,Erik Olsson Fastighetsförmedling,395.4402442932354,Kristineberg
+2015-08-25,Vitalisvägen 4,Fredhall,Kungsholmen,1,35,1,Lägenhet,1932,[Kungsholmen],2650000,530000,3180000,1841,Fastighetsbyrån,280.6335874515628,Kristineberg
+2015-08-25,Fredhällsgatan 1,Fredhall,Kungsholmen,2,63,2,Lägenhet,1930,[Kungsholmen],4195000,505000,4700000,3335,Vision Fastighetsmäkleri AB,164.18825029164816,Kristineberg
+2015-08-23,Snoilskyvägen 38A,Fredhall,Kungsholmen,3,63,5,Lägenhet,1935,[Kungsholmen],4495000,455000,4950000,3761,Svensk Fastighetsförmedling,346.68767559131635,Kristineberg
+2015-08-21,Frödingsvägen 9,Fredhall,Kungsholmen,1,19,1,Lägenhet,1933,[Fredhäll],1675000,450000,2125000,1198,ERA,262.9697460149655,Kristineberg
+2015-08-20,Birger Sjöbergs väg 3,Fredhall,Kungsholmen,3,65,2,Lägenhet,1930,[Kungsholmen],4200000,800000,5000000,2653,SkandiaMäklarna,283.83071728618387,Kristineberg
+2015-08-14,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,2,39.5,1.5,Lägenhet,1931,[Kungsholmen],2595000,715000,3310000,2173,Erik Olsson Fastighetsförmedling,266.5385585072848,Kristineberg
+2015-08-14,Stagneliusvägen 30,Fredhall,Kungsholmen,2,35,1,Lägenhet,1937,[Kungsholmen],2350000,700000,3050000,2443,Svensk Fastighetsförmedling,480.47334247579425,Thorildsplan
+2015-08-12,Stagneliusvägen 38,Fredhall,Kungsholmen,2,45,5,Lägenhet,1936,[Kungsholmen],2950000,700000,3650000,2071,Fastighetsbyrån,480.96007934203357,Kristineberg
+2015-08-11,Fredhällsgatan 11,Fredhall,Kungsholmen,1,36,1.5,Lägenhet,1931,[Kungsholmen],2800000,180000,2980000,2143,Fastighetsbyrån,300.16105076960355,Kristineberg
+2015-08-06,Frödingsvägen 2,Fredhall,Kungsholmen,2,51,2,Lägenhet,null,[Kungsholmen],2895000,480000,3375000,2423,Svenska Mäklarhuset,166.70557598207634,Kristineberg
+2015-08-06,Ernst Ahlgrens väg 2,Fredhall,Kungsholmen,1.5,29,1,Lägenhet,1933,[Kungsholmen],2350000,550000,2900000,1643,Fastighetsbyrån,211.56793582034769,Kristineberg
+2015-07-01,Frödingsvägen 5,Fredhall,Kungsholmen,2,40,3,Lägenhet,1931,[Fredhäll-Kungsholmen],2695000,740000,3435000,2260,Diplomat Fastighetsmäkleri AB,222.50432533970834,Kristineberg
+2015-06-30,Rålambsvägen 72,Fredhall,Kungsholmen,1,31,4,Lägenhet,1932,[Fredhäll],2295000,505000,2800000,2062,Edward & Partners Fastighetsmäklare AB,258.9751448607363,Kristineberg
+2015-06-29,Frödingsvägen 6,Fredhall,Kungsholmen,2.5,48,1,Lägenhet,1933,[Fredhäll],2995000,555000,3550000,2196,Edward & Partners Fastighetsmäklare AB,223.29084091083854,Kristineberg
+2015-06-27,Fredhällsgatan 7,Fredhall,Kungsholmen,3,77,2,Lägenhet,1932,[Kungsholmen],4850000,675000,5525000,3571,Mäklarringen,241.25724399766708,Kristineberg
+2015-06-26,Runiusgatan 1,Fredhall,Kungsholmen,3,73.2,1,Lägenhet,1931,[Kungsholmen],4000000,350000,4350000,3292,Fastighetsbyrån,359.9615584941684,Thorildsplan
+2015-06-18,Fredhällsgatan 1,Fredhall,Kungsholmen,1,40,null,Lägenhet,null,[Fredhäll],2495000,255000,2750000,null,One Fastighetsmäkleri,164.18825029164816,Kristineberg
+2015-06-16,Ernst Ahlgrens väg 2,Fredhall,Kungsholmen,2,41.5,1,Lägenhet,1933,[Kungsholmen],2695000,585000,3280000,2280,Fastighetsbyrån,211.56793582034769,Kristineberg
+2015-06-10,Adlerbethsgatan 15,Fredhall,Kungsholmen,2,46,null,Lägenhet,1932,[Kungsholmen],3150000,600000,3750000,2630,Karlsson & Uddare,257.1089012640414,Kristineberg
+2015-06-10,Stagneliusvägen 32,Fredhall,Kungsholmen,2,48,2,Lägenhet,1939,[Kungsholmen],2850000,50000,2900000,2743,Karlsson & Uddare,505.84323035260513,Thorildsplan
+2015-06-10,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,2,41,0.5,Lägenhet,1932,[Kungsholmen],2750000,300000,3050000,2260,Karlsson & Uddare,266.5385585072848,Kristineberg
+2015-06-08,Frödingsvägen 2,Fredhall,Kungsholmen,2,51,2,Lägenhet,1932,[Fredhäll],2995000,905000,3900000,2423,Erik Olsson Fastighetsförmedling,166.70557598207634,Kristineberg
+2015-06-02,Rålambsvägen 69,Fredhall,Kungsholmen,1.5,39,2,Lägenhet,1935,[Kungsholmen],2495000,255000,2750000,2453,Erik Olsson Fastighetsförmedling,319.45839802600284,Kristineberg
+2015-05-29,Atterbomsvägen 60,Fredhall,Kungsholmen,1,28,3,Lägenhet,1936,[Kungsholmen],1895000,625000,2520000,1290,Erik Olsson Fastighetsförmedling,372.3625666802311,Kristineberg
+2015-05-28,Fredhällsgatan 3,Fredhall,Kungsholmen,2,41,4,Lägenhet,1930,null,2795000,305000,3100000,1771,Brege & Holm Fastighetsmäklare,189.86702764584538,Kristineberg
+2015-05-28,Frödingsvägen 6,Fredhall,Kungsholmen,2,53,2,Lägenhet,1933,[Kungsholmen],2975000,585000,3560000,2401,Mäklarringen,223.29084091083854,Kristineberg
+2015-05-28,Adlerbethsgatan 17,Fredhall,Kungsholmen,1.5,34,1,Lägenhet,1931,[Kungsholmen],null,NaN,2745000,1934,SkandiaMäklarna,227.70592140174588,Kristineberg
+2015-05-27,Vitalisvägen 5,Fredhall,Kungsholmen,2,38,1,Lägenhet,null,[Kungsholmen],2600000,70000,2670000,2043,Fastighetsbyrån,310.71675850298726,Kristineberg
+2015-05-27,Runiusgatan 1,Fredhall,Kungsholmen,2,45,2,Lägenhet,null,[Kungsholmen],2695000,215000,2910000,2079,Fastighetsbyrån,359.9615584941684,Thorildsplan
+2015-05-27,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,34,0.5,Lägenhet,1932,[Kungsholmen],2250000,550000,2800000,1865,Fastighetsbyrån,253.30832995464698,Kristineberg
+2015-05-27,Rålambsvägen 70,Fredhall,Kungsholmen,1.5,31,2.5,Lägenhet,1932,[Fredhäll],2295000,505000,2800000,2062,Edward & Partners Fastighetsmäklare AB,241.30931016137123,Kristineberg
+2015-05-22,Rålambsvägen 54,Fredhall,Kungsholmen,2,39.5,1,Lägenhet,1931,[Kungsholmen],2695000,215000,2910000,2173,Erik Olsson Fastighetsförmedling,276.2369999120645,Kristineberg
+2015-05-22,Vitalisvägen 13,Fredhall,Kungsholmen,1.5,34,0.5,Lägenhet,1931,[Kungsholmen],1995000,530000,2525000,1843,Erik Olsson Fastighetsförmedling,363.06313772065147,Kristineberg
+2015-05-21,Frödingsvägen 5,Fredhall,Kungsholmen,2,40,null,Lägenhet,null,[Kungsholmen],2595000,525000,3120000,null,Svensk Fastighetsförmedling,222.50432533970834,Kristineberg
+2015-05-20,Rålambsvägen 54,Fredhall,Kungsholmen,2,39.5,0.5,Lägenhet,null,[Kungsholmen],2650000,100000,2750000,2260,Svenska Mäklarhuset,276.2369999120645,Kristineberg
+2015-05-20,Vitalisvägen 11,Fredhall,Kungsholmen,2,43,1.5,Lägenhet,1932,[Kungsholmen],2675000,425000,3100000,2266,SkandiaMäklarna,344.6143843002057,Kristineberg
+2015-05-19,Palmbladsvägen 2,Fredhall,Kungsholmen,1,26.7,3,Lägenhet,1937,[Kungsholmen],1995000,605000,2600000,1796,Erik Olsson Fastighetsförmedling,504.1154458534932,Kristineberg
+2015-05-19,Fredhällsgatan 11,Fredhall,Kungsholmen,2.5,71,3,Lägenhet,null,[Kungsholmen],4395000,655000,5050000,3578,Svenska Mäklarhuset,300.16105076960355,Kristineberg
+2015-05-19,Frödingsvägen 4,Fredhall,Kungsholmen,2.5,49,1,Lägenhet,null,[Kungsholmen],2750000,100000,2850000,2506,Svensk Fastighetsförmedling,194.83654605320967,Kristineberg
+2015-05-15,Frödingsvägen 6,Fredhall,Kungsholmen,1,38,3,Lägenhet,1933,[Kungsholmen],2350000,295000,2645000,1787,Fastighetsbyrån,223.29084091083854,Kristineberg
+2015-05-14,Atterbomsvägen 60,Fredhall,Kungsholmen,3,66,5,Lägenhet,1936,[Fredhäll],4495000,445000,4940000,2902,Diplomat Fastighetsmäkleri AB,372.3625666802311,Kristineberg
+2015-05-13,Stagneliusvägen 43,Fredhall,Kungsholmen,1.5,31,4,Lägenhet,1936,[Fredhäll],2250000,520000,2770000,701,Notar,422.7095023666897,Kristineberg
+2015-05-13,Vitalisvägen 3,Fredhall,Kungsholmen,2,42,2,Lägenhet,null,[Kungsholmen],2650000,600000,3250000,null,Mäklarhuset,295.6120724500423,Kristineberg
+2015-05-13,Orvar Odds väg 10,Fredhall,Kungsholmen,2,31,4,Lägenhet,null,[Kungsholmen],2495000,430000,2925000,1850,Svenska Mäklarhuset,389.80596872625,Kristineberg
+2015-05-13,Vitalisvägen 11,Fredhall,Kungsholmen,2,40,2,Lägenhet,1931,[Kungsholmen],2495000,405000,2900000,2201,Erik Olsson Fastighetsförmedling,344.6143843002057,Kristineberg
+2015-05-12,Stagneliusvägen 32,Fredhall,Kungsholmen,2,48,4,Lägenhet,null,[Kungsholmen],2995000,100000,3095000,2743,Länsförsäkringar Fastighetsförmedling,505.84323035260513,Thorildsplan
+2015-05-12,Frödingsvägen 1,Fredhall,Kungsholmen,1,29,3,Lägenhet,1931,[Kungsholmen],1995000,580000,2575000,1863,Erik Olsson Fastighetsförmedling,183.35534702052703,Kristineberg
+2015-05-12,Runiusgatan 5,Fredhall,Kungsholmen,2,49,2,Lägenhet,null,[Kungsholmen],2950000,350000,3300000,2329,Svenska Mäklarhuset,398.99626912134704,Thorildsplan
+2015-05-08,Stagneliusvägen 26,Fredhall,Kungsholmen,2,47.5,4,Lägenhet,1937,[Kungsholmen],3200000,50000,3250000,3330,Karlsson & Uddare,468.10516843922983,Thorildsplan
+2015-05-06,Vitalisvägen 5,Fredhall,Kungsholmen,2,34.5,3,Lägenhet,null,[Kungsholmen],2495000,480000,2975000,1956,Svenska Mäklarhuset,310.71675850298726,Kristineberg
+2015-05-05,Frödingsvägen 2,Fredhall,Kungsholmen,2,52,2,Lägenhet,1932,[Kungsholmen],3295000,720000,4015000,2518,Erik Olsson Fastighetsförmedling,166.70557598207634,Kristineberg
+2015-04-30,Atterbomsvägen 28,Fredhall,Kungsholmen,1,26,5,Lägenhet,1937,[Kungsholmen],1950000,470000,2420000,1561,Crown Estate Fastighetsbyrå,560.5765540820058,Thorildsplan
+2015-04-30,Atterbomsvägen 28,Fredhall,Kungsholmen,1.5,null,5,Lägenhet,1937,[Kungsholmen],null,NaN,3120000,2408,SkandiaMäklarna,560.5765540820058,Thorildsplan
+2015-04-29,Frödingsvägen 2,Fredhall,Kungsholmen,1.5,43,3,Lägenhet,1932,[Kungsholmen],2595000,205000,2800000,2143,Erik Olsson Fastighetsförmedling,166.70557598207634,Kristineberg
+2015-04-29,Rålambsvägen 54,Fredhall,Kungsholmen,2,39.5,2,Lägenhet,1933,[Kungsholmen],2675000,380000,3055000,2191,Fastighetsbyrån,276.2369999120645,Kristineberg
+2015-04-29,Fredhällsgatan 5,Fredhall,Kungsholmen,2,40,1,Lägenhet,1932,[Kungsholmen],2750000,450000,3200000,1984,Fastighetsbyrån,215.56428568548765,Kristineberg
+2015-04-29,Stagneliusvägen 43,Fredhall,Kungsholmen,2,54,6,Lägenhet,1936,[Kungsholmen],3490000,860000,4350000,1137,Innerstadsspecialisten AB,422.7095023666897,Kristineberg
+2015-04-29,Stagneliusvägen 43,Fredhall,Kungsholmen,2,31,6,Lägenhet,1936,[Kungsholmen],2450000,575000,3025000,719,Bjurfors,422.7095023666897,Kristineberg
+2015-04-27,Vitalisvägen 11,Fredhall,Kungsholmen,2,38,2,Lägenhet,1931,[Kungsholmen],2450000,480000,2930000,2043,Hemverket,344.6143843002057,Kristineberg
+2015-04-23,Orvar Odds väg 10,Fredhall,Kungsholmen,2,62,1,Lägenhet,1935,[Kungsholmen],3800000,-50000,3750000,3602,Erik Olsson Fastighetsförmedling,389.80596872625,Kristineberg
+2015-04-18,Stagneliusvägen 30,Fredhall,Kungsholmen,3,48,null,Lägenhet,1937,[Kungsholmen],2995000,415000,3410000,3330,Fastighetsmäklarna,480.47334247579425,Thorildsplan
+2015-04-17,Stagneliusvägen 28,Fredhall,Kungsholmen,2,48.5,4,Lägenhet,null,[Fredhäll],2995000,880000,3875000,3394,Länsförsäkringar Fastighetsförmedling,475.00189111957957,Thorildsplan
+2015-04-17,Vitalisvägen 7,Fredhall,Kungsholmen,2,38,null,Lägenhet,1932,[Kungsholmen],2495000,375000,2870000,2043,Svensk Fastighetsförmedling,327.11225702471233,Kristineberg
+2015-04-15,Stagneliusvägen 26,Fredhall,Kungsholmen,1,22,4,Lägenhet,1937,[Kungsholmen],1650000,560000,2210000,1607,Svensk Fastighetsförmedling,468.10516843922983,Thorildsplan
+2015-04-15,Stagneliusvägen 28,Fredhall,Kungsholmen,2,48,3,Lägenhet,1937,[Kungsholmen],2795000,760000,3555000,3304,Svensk Fastighetsförmedling,475.00189111957957,Thorildsplan
+2015-04-15,Stagneliusvägen 28,Fredhall,Kungsholmen,2,40.5,1.5,Lägenhet,1937,[Kungsholmen],2750000,400000,3150000,2815,Fastighetsbyrån,475.00189111957957,Thorildsplan
+2015-04-15,Runiusgatan 7,Fredhall,Kungsholmen,2,62,1,Lägenhet,1931,[Fredhäll],3700000,50000,3750000,3045,Fantastic Frank Fastighetsmäkleri,419.9844074461587,Thorildsplan
+2015-04-15,Runiusgatan 3,Fredhall,Kungsholmen,2.5,68.3,null,Lägenhet,1931,[Kungsholmen],3750000,165000,3915000,2927,Fastighetsmäklarna,378.9348049311841,Thorildsplan
+2015-04-15,Fredhällsgatan 1,Fredhall,Kungsholmen,2,38,3,Lägenhet,1932,[Fredhäll],2695000,405000,3100000,1927,Mäklarhuset,164.18825029164816,Kristineberg
+2015-04-14,Frödingsvägen 1,Fredhall,Kungsholmen,1,29,0.5,Lägenhet,1931,[Kungsholmen],1995000,565000,2560000,1712,Erik Olsson Fastighetsförmedling,183.35534702052703,Kristineberg
+2015-04-14,Snoilskyvägen 38A,Fredhall,Kungsholmen,1.5,39,5,Lägenhet,1935,[Kungsholmen],2695000,255000,2950000,2328,Erik Olsson Fastighetsförmedling,346.68767559131635,Kristineberg
+2015-04-14,Adlerbethsgatan 17,Fredhall,Kungsholmen,2,34,1,Lägenhet,1931,[Fredhäll],2395000,505000,2900000,1934,SkandiaMäklarna,227.70592140174588,Kristineberg
+2015-04-07,Stagneliusvägen 23,Fredhall,Kungsholmen,1,22,1,Lägenhet,1937,[Kungsholmen],1895000,115000,2010000,1504,Notar,494.1147474158459,Thorildsplan
+2015-04-01,Frödingsvägen 6,Fredhall,Kungsholmen,1,38,3,Lägenhet,1933,[Kungsholmen],2600000,140000,2740000,1787,Fastighetsbyrån,223.29084091083854,Kristineberg
+2015-04-01,Vitalisvägen 6,Fredhall,Kungsholmen,1,27,1,Lägenhet,1931,[Kungsholmen],1875000,425000,2300000,1623,Fastighetsmäklarna,297.1120409515215,Kristineberg
+2015-03-27,Orvar Odds väg 10,Fredhall,Kungsholmen,1,31,2,Lägenhet,1935,[Fredhäll],2295000,555000,2850000,1850,Svensk Fastighetsförmedling,389.80596872625,Kristineberg
+2015-03-26,Frödingsvägen 2,Fredhall,Kungsholmen,2,36,2,Lägenhet,1932,[Fredhäll],2695000,905000,3600000,1710,Erik Olsson Fastighetsförmedling,166.70557598207634,Kristineberg
+2015-03-25,Runiusgatan 9,Fredhall,Kungsholmen,1.5,38,3,Lägenhet,1931,[Kungsholmen],2395000,320000,2715000,1899,Privatmäklaren,441.78197771521803,Thorildsplan
+2015-03-25,Vitalisvägen 11,Fredhall,Kungsholmen,1,26.5,2,Lägenhet,1932,[Fredhäll],1995000,435000,2430000,1531,SkandiaMäklarna,344.6143843002057,Kristineberg
+2015-03-25,Atterbomsvägen 30,Fredhall,Kungsholmen,1,25,3,Lägenhet,1938,[Fredhäll],1995000,505000,2500000,1527,SkandiaMäklarna,567.7960803169277,Thorildsplan
+2015-03-25,Vitalisvägen 6,Fredhall,Kungsholmen,2,38.5,2,Lägenhet,1931,[Fredhäll],2495000,505000,3000000,2135,Berggren Hörle,297.1120409515215,Kristineberg
+2015-03-25,Frödingsvägen 9,Fredhall,Kungsholmen,1.5,34,1,Lägenhet,1933,[Kungsholmen],2300000,410000,2710000,1934,Fastighetsbyrån,262.9697460149655,Kristineberg
+2015-03-24,Vitalisvägen 4,Fredhall,Kungsholmen,2,43,null,Lägenhet,1933,[Fredhäll],2495000,755000,3250000,2271,Vasastansmäklarna,280.6335874515628,Kristineberg
+2015-03-24,Ernst Ahlgrens Väg 7,Fredhall,Kungsholmen,2,43,2,Lägenhet,1933,[Fredhäll],2695000,380000,3075000,2347,Vision Fastighetsmäkleri AB,300.51567043336155,Kristineberg
+2015-03-24,Rålambsvägen 52,Fredhall,Kungsholmen,1,29.5,0.5,Lägenhet,1931,[Kungsholmen],2095000,430000,2525000,1734,Erik Olsson Fastighetsförmedling,294.22926985013714,Kristineberg
+2015-03-18,Runiusgatan 1,Fredhall,Kungsholmen,3,75,0.5,Lägenhet,1931,[Fredhäll],3595000,515000,4110000,3124,SkandiaMäklarna,359.9615584941684,Thorildsplan
+2015-03-17,Stagneliusvägen 26,Fredhall,Kungsholmen,2,35,2,Lägenhet,1937,[Fredhäll],2300000,510000,2810000,2456,Svensk Fastighetsförmedling,468.10516843922983,Thorildsplan
+2015-03-14,Frödingsvägen 14,Fredhall,Kungsholmen,4,104,null,Lägenhet,null,[Kungsholmen],5850000,50000,5900000,4973,Karlsson & Uddare,329.5101904127219,Kristineberg
+2015-03-13,Vitalisvägen 7,Fredhall,Kungsholmen,1.5,40,0.5,Lägenhet,1931,[Kungsholmen],2395000,215000,2610000,2201,Notar,327.11225702471233,Kristineberg
+2015-03-12,Ernst Ahlgrens väg 2,Fredhall,Kungsholmen,1,29,3,Lägenhet,1932,[Kungsholmen],1800000,700000,2500000,1643,Fastighetsmäklarna,211.56793582034769,Kristineberg
+2015-03-11,Stagneliusvägen 43,Fredhall,Kungsholmen,2,58,6,Lägenhet,1936,[Fredhäll],3695000,895000,4590000,1169,Erik Olsson Fastighetsförmedling,422.7095023666897,Kristineberg
+2015-03-11,Atterbomsvägen 58,Fredhall,Kungsholmen,1.5,42,5,Lägenhet,1935,[Kungsholmen],2995000,305000,3300000,2090,Erik Olsson Fastighetsförmedling,395.4402442932354,Kristineberg
+2015-03-11,Adlerbethsgatan 15,Fredhall,Kungsholmen,2,34,1,Lägenhet,1932,[Kungsholmen],2300000,600000,2900000,1934,Fastighetsbyrån,257.1089012640414,Kristineberg
+2015-03-10,Rålambsvägen 50,Fredhall,Kungsholmen,1,24.5,3,Lägenhet,1932,[Fredhäll],1995000,530000,2525000,1511,Svenska Mäklarhuset,317.8888827853026,Kristineberg
+2015-03-09,Rålambsvägen 48,Fredhall,Kungsholmen,2,38,2,Lägenhet,1933,[Fredhäll],2450000,320000,2770000,2043,Svensk Fastighetsförmedling,325.320518977869,Kristineberg
+2015-03-05,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,44,1,Lägenhet,1932,[Kungsholmen],2800000,350000,3150000,2391,Fastighetsbyrån,276.32951152197666,Kristineberg
+2015-03-04,Rålambsvägen 72,Fredhall,Kungsholmen,4,96,1.5,Lägenhet,1932,[Kungsholmen],5490000,285000,5775000,4167,Notar,258.9751448607363,Kristineberg
+2015-03-04,Frödingsvägen 4,Fredhall,Kungsholmen,2,35,1,Lägenhet,1931,[Fredhäll],2195000,435000,2630000,1776,Mäklarhuset,194.83654605320967,Kristineberg
+2015-03-04,Fredhällsgatan 11,Fredhall,Kungsholmen,3,104,3,Lägenhet,1931,[Kungsholmen],6295000,505000,6800000,4407,Fantastic Frank Fastighetsmäkleri,300.16105076960355,Kristineberg
+2015-03-03,Atterbomsvägen 30,Fredhall,Kungsholmen,1.5,37,3,Lägenhet,1937,[Fredhäll],2350000,470000,2820000,2101,Svensk Fastighetsförmedling,567.7960803169277,Thorildsplan
+2015-02-28,Atterbomsvägen 38,Fredhall,Kungsholmen,3,73,2,Lägenhet,1935,[Kungsholmen],4000000,450000,4450000,4101,Fastighetsbyrån,592.5949667313577,Kristineberg
+2015-02-16,Stagneliusvägen 23,Fredhall,Kungsholmen,2,35,4,Lägenhet,1937,[Kungsholmen],2195000,355000,2550000,2481,Notar,494.1147474158459,Thorildsplan
+2015-02-13,Orvar Odds väg 10,Fredhall,Kungsholmen,1,29,1,Lägenhet,1935,[Fredhäll],1895000,555000,2450000,1734,Svensk Fastighetsförmedling,389.80596872625,Kristineberg
+2015-02-06,Fredhällsgatan 11,Fredhall,Kungsholmen,3,71,0.5,Lägenhet,1931,[Kungsholmen],3500000,520000,4020000,3492,Fastighetsbyrån,300.16105076960355,Kristineberg
+2015-01-31,Stagneliusvägen 23,Fredhall,Kungsholmen,2,35,5,Lägenhet,1937,[Kungsholmen],2395000,205000,2600000,2494,Notar,494.1147474158459,Thorildsplan
+2015-01-30,Frödingsvägen 5,Fredhall,Kungsholmen,2,42.5,1.5,Lägenhet,1933,[Fredhäll],2495000,730000,3225000,2313,SkandiaMäklarna,222.50432533970834,Kristineberg
+2015-01-30,Stagneliusvägen 30,Fredhall,Kungsholmen,2,40.5,4,Lägenhet,1937,[Fredhäll],2595000,205000,2800000,2854,Magnusson Mäkleri,480.47334247579425,Thorildsplan
+2015-01-28,Orvar Odds väg 51,Fredhall,Kungsholmen,1,35,5,Lägenhet,1937,[Kungsholmen],2295000,780000,3075000,2106,Erik Olsson Fastighetsförmedling,366.96771760851937,Kristineberg
+2015-01-23,Frödingsvägen 9,Fredhall,Kungsholmen,1,34,null,Lägenhet,1931,[Kungsholmen],2195000,505000,2700000,1865,Erik Olsson Fastighetsförmedling,262.9697460149655,Kristineberg
+2015-01-23,Frödingsvägen 4,Fredhall,Kungsholmen,2,42,4,Lägenhet,null,[Fredhäll],2495000,655000,3150000,2169,Svensk Fastighetsförmedling,194.83654605320967,Kristineberg
+2015-01-23,Frödingsvägen 12,Fredhall,Kungsholmen,3,62,0.5,Lägenhet,1930,[Kungsholmen],3495000,55000,3550000,3413,Fastighetsbyrån,310.4245354712741,Kristineberg
+2015-01-21,Vitalisvägen 4,Fredhall,Kungsholmen,1,35,0.5,Lägenhet,1932,[Fredhäll],2250000,360000,2610000,1979,SkandiaMäklarna,280.6335874515628,Kristineberg
+2015-01-17,Fredhällsgatan 5,Fredhall,Kungsholmen,2,39,3,Lägenhet,1932,[Fredhäll],2395000,415000,2810000,1934,Erik Olsson Fastighetsförmedling,215.56428568548765,Kristineberg
+2015-01-17,Frödingsvägen 6,Fredhall,Kungsholmen,2,53,3,Lägenhet,null,[Kungsholmen],2975000,555000,3530000,2401,Karlsson & Uddare,223.29084091083854,Kristineberg
+2015-01-15,Vitalisvägen 7,Fredhall,Kungsholmen,2,40,3,Lägenhet,1933,[Fredhäll],2475000,185000,2660000,2201,Mäklarhuset,327.11225702471233,Kristineberg
+2015-01-15,Frödingsvägen 10,Fredhall,Kungsholmen,2,44,0.5,Lägenhet,1932,[Fredhäll],2195000,465000,2660000,2547,SkandiaMäklarna,291.36065976432275,Kristineberg
+2015-01-15,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,1,Lägenhet,1932,[Kungsholmen],2650000,0,2650000,2347,Fastighetsbyrån,253.30832995464698,Kristineberg
+2015-01-15,Vitalisvägen 13,Fredhall,Kungsholmen,1.5,40,3,Lägenhet,1931,[Kungsholmen],2395000,185000,2580000,2132,Svenska Mäklarhuset,363.06313772065147,Kristineberg
+2015-01-15,Vitalisvägen 3,Fredhall,Kungsholmen,2,42,1.5,Lägenhet,1932,[Kungsholmen],2395000,330000,2725000,2221,Notar,295.6120724500423,Kristineberg
+2015-01-14,Runiusgatan 7,Fredhall,Kungsholmen,2,39,1,Lägenhet,1931,[Kungsholmen],2450000,250000,2700000,1869,Fastighetsbyrån,419.9844074461587,Thorildsplan
+2015-01-14,Stagneliusvägen 32,Fredhall,Kungsholmen,3,71,3,Lägenhet,1939,[Kungsholmen],4250000,525000,4775000,4002,Svenska Mäklarhuset,505.84323035260513,Thorildsplan
+2014-12-17,Vitalisvägen 11,Fredhall,Kungsholmen,2,40,1.5,Lägenhet,1932,[Fredhäll],2450000,250000,2700000,2132,SkandiaMäklarna,344.6143843002057,Kristineberg
+2014-12-17,Ernst Ahlgrens väg 4,Fredhall,Kungsholmen,2,38,2,Lägenhet,null,[Fredhäll],2400000,400000,2800000,2106,Svensk Fastighetsförmedling,229.19549537027265,Kristineberg
+2014-12-17,Rålambsvägen 52,Fredhall,Kungsholmen,2,42.5,2,Lägenhet,1932,[Kungsholmen],2575000,320000,2895000,2244,Svenska Mäklarhuset,294.22926985013714,Kristineberg
+2014-12-11,Stagneliusvägen 43,Fredhall,Kungsholmen,3,54,4,Lägenhet,1936,[Kungsholmen],3295000,495000,3790000,2185,Erik Olsson Fastighetsförmedling,422.7095023666897,Kristineberg
+2014-12-10,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,38,1.5,Lägenhet,1932,[Fredhäll],2400000,200000,2600000,2025,SkandiaMäklarna,276.32951152197666,Kristineberg
+2014-12-10,Fredhällsgatan 1,Fredhall,Kungsholmen,1.5,35,2,Lägenhet,1930,[Kungsholmen],2400000,20000,2420000,1823,Fastighetsbyrån,164.18825029164816,Kristineberg
+2014-12-09,Rålambsvägen 46,Fredhall,Kungsholmen,3,70,2,Lägenhet,1931,[Kungsholmen],4250000,250000,4500000,3554,Erik Olsson Fastighetsförmedling,327.7914548022891,Kristineberg
+2014-12-05,Runiusgatan 7,Fredhall,Kungsholmen,2,38,null,Lägenhet,1931,[Fredhäll],1995000,535000,2530000,1814,Svensk Fastighetsförmedling,419.9844074461587,Thorildsplan
+2014-12-03,Frödingsvägen 6,Fredhall,Kungsholmen,1,27,null,Lägenhet,1933,[Kungsholmen Fredhäll],1795000,310000,2105000,1297,HusmanHagberg,223.29084091083854,Kristineberg
+2014-12-03,Runiusgatan 7,Fredhall,Kungsholmen,2,48,2,Lägenhet,1931,[Kungsholmen],2500000,70000,2570000,2281,Fastighetsbyrån,419.9844074461587,Thorildsplan
+2014-12-03,Stagneliusvägen 26,Fredhall,Kungsholmen,1,35,4,Lägenhet,1938,[Kungsholmen],2100000,450000,2550000,2481,Fastighetsbyrån,468.10516843922983,Thorildsplan
+2014-11-30,Stagneliusvägen 23,Fredhall,Kungsholmen,2,38.5,6,Lägenhet,1937,[Fredhäll],2295000,220000,2515000,2738,Svensk Fastighetsförmedling,494.1147474158459,Thorildsplan
+2014-11-28,Stagneliusvägen 28,Fredhall,Kungsholmen,2,47.5,2,Lägenhet,1937,[Kungsholmen],2395000,165000,2560000,3278,Svenska Mäklarhuset,475.00189111957957,Thorildsplan
+2014-11-28,Rålambsvägen 50,Fredhall,Kungsholmen,1,24.5,null,Lägenhet,1932,[Fredhäll],1750000,210000,1960000,1442,Svensk Fastighetsförmedling,317.8888827853026,Kristineberg
+2014-11-28,Frödingsvägen 1,Fredhall,Kungsholmen,2,41.5,1,Lägenhet,null,[Fredhäll],2400000,310000,2710000,2280,Svensk Fastighetsförmedling,183.35534702052703,Kristineberg
+2014-11-28,Rålambsvägen 54,Fredhall,Kungsholmen,1,23.5,null,Lägenhet,1932,[Kungsholmen],1850000,325000,2175000,1398,Karlsson & Uddare,276.2369999120645,Kristineberg
+2014-11-28,Runiusgatan 3,Fredhall,Kungsholmen,1,32,3,Lägenhet,1931,[Fredhäll],1995000,215000,2210000,1514,Living Fastighetsmäkleri,378.9348049311841,Thorildsplan
+2014-11-27,Atterbomsvägen 38,Fredhall,Kungsholmen,2,43,2,Lägenhet,null,[Fredhäll],2595000,115000,2710000,2497,Svensk Fastighetsförmedling,592.5949667313577,Kristineberg
+2014-11-27,Frödingsvägen 2,Fredhall,Kungsholmen,2,43,3,Lägenhet,1932,[Kungsholmen],2600000,50000,2650000,2043,Fastighetsbyrån,166.70557598207634,Kristineberg
+2014-11-21,Vitalisvägen 11,Fredhall,Kungsholmen,2,38,2,Lägenhet,1932,[Kungsholmen],2150000,460000,2610000,2043,Notar,344.6143843002057,Kristineberg
+2014-11-20,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,1,Lägenhet,1932,[Kungsholmen],2500000,300000,2800000,2347,Erik Olsson Fastighetsförmedling,253.30832995464698,Kristineberg
+2014-11-20,Orvar Odds väg 10,Fredhall,Kungsholmen,2.5,61,3,Lägenhet,1935,[Kungsholmen],4395000,105000,4500000,3602,Fastighetsbyrån,389.80596872625,Kristineberg
+2014-11-20,Frödingsvägen 3,Fredhall,Kungsholmen,2,38,1,Lägenhet,1932,[Fredhäll],2395000,135000,2530000,2124,Totalmäklarna Sverige AB,202.71701879799602,Kristineberg
+2014-11-20,Birger Sjöbergs väg 3,Fredhall,Kungsholmen,2,43,1,Lägenhet,1930,[Kungsholmen],2690000,70000,2760000,1958,Fastighetsbyrån,283.83071728618387,Kristineberg
+2014-11-14,Atterbomsvägen 60,Fredhall,Kungsholmen,1,26,1,Lägenhet,1936,[Fredhäll],1895000,305000,2200000,1432,Notar,372.3625666802311,Kristineberg
+2014-11-13,Messeniusgatan 6,Fredhall,Kungsholmen,2,50,4,Lägenhet,1936,[Kungsholmen Fredhäll],2995000,155000,3150000,3320,HusmanHagberg,312.01821262078084,Kristineberg
+2014-11-13,Frödingsvägen 1,Fredhall,Kungsholmen,2,42,4,Lägenhet,1932,[Kungsholmen],2650000,425000,3075000,2280,Karlsson & Uddare,183.35534702052703,Kristineberg
+2014-11-13,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,2,Lägenhet,1932,[Kungsholmen],2650000,250000,2900000,2347,Karlsson & Uddare,253.30832995464698,Kristineberg
+2014-11-13,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,2.5,Lägenhet,1932,[Kungsholmen],2650000,350000,3000000,2347,Fastighetsbyrån,253.30832995464698,Kristineberg
+2014-11-13,Fredhällsgatan 7,Fredhall,Kungsholmen,2.5,72,3,Lägenhet,1932,[Kungsholmen Fredhäll],3975000,650000,4625000,3571,HusmanHagberg,241.25724399766708,Kristineberg
+2014-11-13,Vitalisvägen 13,Fredhall,Kungsholmen,2,61,3,Lägenhet,1931,[Kungsholmen],3795000,105000,3900000,2833,Erik Olsson Fastighetsförmedling,363.06313772065147,Kristineberg
+2014-11-12,Rålambsvägen 54,Fredhall,Kungsholmen,2,39.5,1,Lägenhet,1933,[Fredhäll],2475000,300000,2775000,2155,SkandiaMäklarna,276.2369999120645,Kristineberg
+2014-11-11,Birger Sjöbergs väg 3,Fredhall,Kungsholmen,3,74,1,Lägenhet,1930,[Kungsholmen],4500000,0,4500000,2990,Fastighetsbyrån,283.83071728618387,Kristineberg
+2014-11-11,Palmbladsvägen 2,Fredhall,Kungsholmen,2,47,0.5,Lägenhet,1935,[Kungsholmen],2400000,420000,2820000,2767,Fastighetsbyrån,504.1154458534932,Kristineberg
+2014-11-11,Adlerbethsgatan 17,Fredhall,Kungsholmen,1.5,34,4,Lägenhet,1931,[Kungsholmen],2150000,460000,2610000,1865,Erik Olsson Fastighetsförmedling,227.70592140174588,Kristineberg
+2014-11-08,Stagneliusvägen 30,Fredhall,Kungsholmen,2,48.5,3,Lägenhet,1937,[Kungsholmen],2600000,40000,2640000,3368,Fastighetsbyrån,480.47334247579425,Thorildsplan
+2014-11-07,Adlerbethsgatan 15,Fredhall,Kungsholmen,2,34,3,Lägenhet,null,[Fredhäll],2195000,415000,2610000,1865,Svensk Fastighetsförmedling,257.1089012640414,Kristineberg
+2014-11-06,Vitalisvägen 4,Fredhall,Kungsholmen,2,43,0.5,Lägenhet,1933,[Fredhäll],2395000,205000,2600000,2266,SkandiaMäklarna,280.6335874515628,Kristineberg
+2014-11-05,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,38,1.5,Lägenhet,1932,[Fredhäll],2395000,355000,2750000,2025,SkandiaMäklarna,276.32951152197666,Kristineberg
+2014-11-05,Ernst Ahlgrens väg 10,Fredhall,Kungsholmen,1.5,34,2,Lägenhet,1932,[Kungsholmen],2150000,270000,2420000,1865,Fastighetsbyrån,285.9828936004048,Kristineberg
+2014-11-01,Rålambsvägen 48,Fredhall,Kungsholmen,1.5,38.5,0.5,Lägenhet,1932,[Kungsholmen],2395000,205000,2600000,2066,Karlsson & Uddare,325.320518977869,Kristineberg
+2014-10-31,Stagneliusvägen 43,Fredhall,Kungsholmen,1.5,31,2,Lägenhet,1936,[Kungsholmen],2200000,385000,2585000,1328,Karlsson & Uddare,422.7095023666897,Kristineberg
+2014-10-29,Orvar Odds väg 51,Fredhall,Kungsholmen,1.5,35,1,Lägenhet,1937,[Kungsholmen],2295000,315000,2610000,2106,Fastighetsbyrån,366.96771760851937,Kristineberg
+2014-10-27,Rålambsvägen 69,Fredhall,Kungsholmen,3,72,3,Lägenhet,1935,[Fredhäll],4195000,605000,4800000,3939,SkandiaMäklarna,319.45839802600284,Kristineberg
+2014-10-24,Runiusgatan 9,Fredhall,Kungsholmen,2,47,3,Lägenhet,1931,[Kungsholmen],2400000,125000,2525000,2329,Fastighetsbyrån,441.78197771521803,Thorildsplan
+2014-10-23,Frödingsvägen 6,Fredhall,Kungsholmen,2,53,2,Lägenhet,1933,[Kungsholmen],2800000,500000,3300000,2401,Karlsson & Uddare,223.29084091083854,Kristineberg
+2014-10-23,Palmbladsvägen 2,Fredhall,Kungsholmen,3.5,75.5,1,Lägenhet,1935,[Kungsholmen Fredhäll],4450000,310000,4760000,3728,HusmanHagberg,504.1154458534932,Kristineberg
+2014-10-21,Frödingsvägen 6,Fredhall,Kungsholmen,2,43,2.5,Lägenhet,1933,[Fredhäll],2475000,615000,3090000,1869,Svenska Mäklarhuset,223.29084091083854,Kristineberg
+2014-10-17,Frödingsvägen 14,Fredhall,Kungsholmen,4.5,102,3,Lägenhet,null,[Kungsholmen],6400000,-200000,6200000,4985,Karlsson & Uddare,329.5101904127219,Kristineberg
+2014-10-17,Frödingsvägen 4,Fredhall,Kungsholmen,1.5,49,0.5,Lägenhet,1931,[Kungsholmen Fredhäll],2550000,0,2550000,2506,HusmanHagberg,194.83654605320967,Kristineberg
+2014-10-16,Vitalisvägen 3,Fredhall,Kungsholmen,2,47.5,3,Lägenhet,1932,[Kungsholmen],2495000,465000,2960000,2466,Notar,295.6120724500423,Kristineberg
+2014-10-16,Vitalisvägen 3,Fredhall,Kungsholmen,2,89.5,3,Lägenhet,1931,[Fredhäll],4995000,5000,5000000,3534,Mäklarhuset,295.6120724500423,Kristineberg
+2014-10-16,Runiusgatan 9,Fredhall,Kungsholmen,2,38,2,Lägenhet,1931,[Fredhäll],1995000,620000,2615000,1814,SkandiaMäklarna,441.78197771521803,Thorildsplan
+2014-10-15,Messeniusgatan 6,Fredhall,Kungsholmen,2,31,2,Lägenhet,1936,[Kungsholmen],2295000,160000,2455000,2059,Fastighetsbyrån,312.01821262078084,Kristineberg
+2014-10-15,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,45,2,Lägenhet,1932,[Fredhäll],2695000,465000,3160000,2369,SkandiaMäklarna,276.32951152197666,Kristineberg
+2014-10-15,Vitalisvägen 11,Fredhall,Kungsholmen,2,38,3,Lägenhet,1930,[Fredhäll],2395000,380000,2775000,2025,Notar,344.6143843002057,Kristineberg
+2014-10-13,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,3,Lägenhet,1932,[Kungsholmen],2500000,600000,3100000,2347,Erik Olsson Fastighetsförmedling,253.30832995464698,Kristineberg
+2014-10-09,Birger Sjöbergs väg 1,Fredhall,Kungsholmen,3,75,2,Lägenhet,1930,[Fredhäll],4495000,385000,4880000,3007,Mäklarhuset,269.3364816292474,Kristineberg
+2014-10-07,Ernst Ahlgrens väg 4,Fredhall,Kungsholmen,2,39,1.5,Lägenhet,1932,[Kungsholmen],2475000,460000,2935000,2124,Karlsson & Uddare,229.19549537027265,Kristineberg
+2014-10-03,Atterbomsvägen 60,Fredhall,Kungsholmen,1.5,34,3,Lägenhet,null,[Fredhäll],2195000,555000,2750000,1635,Svensk Fastighetsförmedling,372.3625666802311,Kristineberg
+2014-10-03,Frödingsvägen 7,Fredhall,Kungsholmen,1,34,1.5,Lägenhet,1931,[Kungsholmen],2095000,455000,2550000,1865,Erik Olsson Fastighetsförmedling,242.613149132418,Kristineberg
+2014-10-02,Frödingsvägen 5,Fredhall,Kungsholmen,2,41,2,Lägenhet,1933,[Kungsholmen],2495000,525000,3020000,2195,Notar,222.50432533970834,Kristineberg
+2014-10-01,Stagneliusvägen 28,Fredhall,Kungsholmen,2,40.5,1,Lägenhet,1937,[Fredhäll],2195000,315000,2510000,2635,Mäklarhuset,475.00189111957957,Thorildsplan
+2014-10-01,Orvar Odds väg 51,Fredhall,Kungsholmen,2,47,null,Lägenhet,1937,[Fredhäll],2750000,1050000,3800000,2607,Mäklarhuset,366.96771760851937,Kristineberg
+2014-09-30,Stagneliusvägen 28,Fredhall,Kungsholmen,2,47.5,1,Lägenhet,1937,[Kungsholmen],2350000,580000,2930000,3253,Fantastic Frank Fastighetsmäkleri,475.00189111957957,Thorildsplan
+2014-09-30,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,38,2,Lägenhet,1932,[Fredhäll],2295000,585000,2880000,2025,SkandiaMäklarna,276.32951152197666,Kristineberg
+2014-09-30,Orvar Odds väg 51,Fredhall,Kungsholmen,1.5,35,4,Lägenhet,1937,[Kungsholmen],2295000,465000,2760000,2106,Fastighetsbyrån,366.96771760851937,Kristineberg
+2014-09-29,Stagneliusvägen 23,Fredhall,Kungsholmen,1,22,6,Lägenhet,1937,[Fredhäll-Kungsholmen],1650000,200000,1850000,1633,Vision Fastighetsmäkleri AB,494.1147474158459,Thorildsplan
+2014-09-27,Vitalisvägen 13,Fredhall,Kungsholmen,4,75,3,Lägenhet,1931,[Fredhäll],4195000,400000,4595000,3690,Mäklarhuset,363.06313772065147,Kristineberg
+2014-09-25,Vitalisvägen 3,Fredhall,Kungsholmen,2,48,1.5,Lägenhet,1932,[Fredhäll],2795000,255000,3050000,2466,SkandiaMäklarna,295.6120724500423,Kristineberg
+2014-09-21,Birger Sjöbergs väg 1,Fredhall,Kungsholmen,2.5,65,1,Lägenhet,1930,[Kungsholmen],3995000,605000,4600000,2653,Länsförsäkringar Fastighetsförmedling,269.3364816292474,Kristineberg
+2014-09-19,Ernst Ahlgrens väg 10,Fredhall,Kungsholmen,1,19.5,0.5,Lägenhet,1933,[Kungsholmen],1500000,500000,2000000,1220,Erik Olsson Fastighetsförmedling,285.9828936004048,Kristineberg
+2014-09-19,Rålambsvägen 70,Fredhall,Kungsholmen,1,35,4,Lägenhet,1932,[Kungsholmen],2150000,275000,2425000,1992,Karlsson & Uddare,241.30931016137123,Kristineberg
+2014-09-19,Fredhällsgatan 1,Fredhall,Kungsholmen,3.5,86,2,Lägenhet,1930,[Kungsholmen],4500000,275000,4775000,4478,Erik Olsson Fastighetsförmedling,164.18825029164816,Kristineberg
+2014-09-18,Atterbomsvägen 58,Fredhall,Kungsholmen,2.5,63,4,Lägenhet,1935,[Kungsholmen],3500000,800000,4300000,3135,Erik Olsson Fastighetsförmedling,395.4402442932354,Kristineberg
+2014-09-18,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,38,2,Lägenhet,1932,[Fredhäll],2395000,55000,2450000,2043,Svenska Mäklarhuset,276.32951152197666,Kristineberg
+2014-09-15,Stagneliusvägen 38,Fredhall,Kungsholmen,2,56,2,Lägenhet,1936,[Kungsholmen],2995000,230000,3225000,2548,Notar,480.96007934203357,Kristineberg
+2014-09-12,Birger Sjöbergs väg 1,Fredhall,Kungsholmen,2,51,3,Lägenhet,1930,[Kungsholmen],3250000,480000,3730000,2262,Erik Olsson Fastighetsförmedling,269.3364816292474,Kristineberg
+2014-09-12,Vitalisvägen 6,Fredhall,Kungsholmen,2,38.5,2,Lägenhet,null,[Fredhäll],2295000,255000,2550000,2066,Länsförsäkringar Fastighetsförmedling,297.1120409515215,Kristineberg
+2014-09-10,Frödingsvägen 6,Fredhall,Kungsholmen,2.5,53,1.5,Lägenhet,1933,[Fredhäll],2995000,370000,3365000,2401,Svenska Mäklarhuset,223.29084091083854,Kristineberg
+2014-09-05,Orvar Odds väg 10,Fredhall,Kungsholmen,3,101,5,Lägenhet,1935,[Kungsholmen],7200000,760000,7960000,5646,Fastighetsbyrån,389.80596872625,Kristineberg
+2014-08-27,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,44,3,Lägenhet,null,[Fredhäll],2450000,250000,2700000,2391,Svensk Fastighetsförmedling,276.32951152197666,Kristineberg
+2014-08-22,Stagneliusvägen 43,Fredhall,Kungsholmen,2,54,7,Lägenhet,1936,[Kungsholmen],3495000,405000,3900000,2292,Erik Olsson Fastighetsförmedling,422.7095023666897,Kristineberg
+2014-08-21,Fredhällsgatan 3,Fredhall,Kungsholmen,5,119,5,Lägenhet,1930,[Fredhäll],7450000,-200000,7250000,4945,Svenska Mäklarhuset,189.86702764584538,Kristineberg
+2014-08-20,Orvar Odds väg 2,Fredhall,Kungsholmen,3,92.8,5,Lägenhet,1937,[Kungsholmen],5995000,505000,6500000,4288,Erik Olsson Fastighetsförmedling,380.62052693798285,Kristineberg
+2014-08-15,Frödingsvägen 2,Fredhall,Kungsholmen,1,36,3,Lägenhet,null,[Fredhäll],1995000,465000,2460000,1810,Svensk Fastighetsförmedling,166.70557598207634,Kristineberg
+2014-08-13,Fredhällsgatan 5,Fredhall,Kungsholmen,3,72,0.5,Lägenhet,1932,[Kungsholmen],4095000,630000,4725000,3422,Svenska Mäklarhuset,215.56428568548765,Kristineberg
+2014-08-13,Atterbomsvägen 28,Fredhall,Kungsholmen,2,57,4,Lägenhet,1937,[Kungsholmen],3100000,470000,3570000,3113,Fastighetsbyrån,560.5765540820058,Thorildsplan
+2014-08-07,Messeniusgatan 6,Fredhall,Kungsholmen,3,46,1,Lägenhet,1936,[Kungsholmen],2600000,450000,3050000,3055,Fastighetsbyrån,312.01821262078084,Kristineberg
+2014-08-05,Fredhällsgatan 11,Fredhall,Kungsholmen,2,36,3,Lägenhet,1931,[Kungsholmen],2350000,150000,2500000,2143,Erik Olsson Fastighetsförmedling,300.16105076960355,Kristineberg
+2014-07-31,Palmbladsvägen 2,Fredhall,Kungsholmen,2,34.5,5,Lägenhet,1937,[Kungsholmen],2195000,345000,2540000,2244,Erik Olsson Fastighetsförmedling,504.1154458534932,Kristineberg
+2014-07-25,Stagneliusvägen 32,Fredhall,Kungsholmen,1.5,46,3,Lägenhet,1939,[Kungsholmen],2395000,255000,2650000,2634,Notar,505.84323035260513,Thorildsplan
+2014-07-25,Orvar Odds väg 2,Fredhall,Kungsholmen,1,34,1,Lägenhet,1937,[Kungsholmen],1795000,395000,2190000,2027,Notar,380.62052693798285,Kristineberg
+2014-07-25,Rålambsvägen 48,Fredhall,Kungsholmen,2,36.5,2,Lägenhet,null,[Kungsholmen],2275000,260000,2535000,1910,Länsförsäkringar Fastighetsförmedling,325.320518977869,Kristineberg
+2014-07-24,Ernst Ahlgrens väg 4,Fredhall,Kungsholmen,1,19.5,0.5,Lägenhet,1933,[Kungsholmen],1350000,610000,1960000,1220,Erik Olsson Fastighetsförmedling,229.19549537027265,Kristineberg
+2014-07-24,Vitalisvägen 6,Fredhall,Kungsholmen,2,38.5,1.5,Lägenhet,1932,[Fredhäll],2560000,0,2560000,2066,SkandiaMäklarna,297.1120409515215,Kristineberg
+2014-07-04,Runiusgatan 5,Fredhall,Kungsholmen,2,37,2,Lägenhet,1931,[Fredhäll],2195000,0,2195000,1851,Svenska Mäklarhuset,398.99626912134704,Thorildsplan
+2014-07-03,Frödingsvägen 12,Fredhall,Kungsholmen,2,50,0.5,Lägenhet,1930,[Fredhäll],2650000,200000,2850000,2867,SkandiaMäklarna,310.4245354712741,Kristineberg
+2014-06-27,Stagneliusvägen 43,Fredhall,Kungsholmen,2,58,3,Lägenhet,1936,[Kungsholmen],3295000,305000,3600000,2401,Notar,422.7095023666897,Kristineberg
+2014-06-26,Atterbomsvägen 38,Fredhall,Kungsholmen,2,49,0.5,Lägenhet,1935,[Fredhäll],2395000,325000,2720000,2263,Mäklarhuset,592.5949667313577,Kristineberg
+2014-06-25,Runiusgatan 3,Fredhall,Kungsholmen,1,32,0.5,Lägenhet,1931,[Fredhäll],1795000,355000,2150000,1359,Wallenberg Fastighetsförmedling,378.9348049311841,Thorildsplan
+2014-06-18,Vitalisvägen 4,Fredhall,Kungsholmen,2,46,2,Lägenhet,1931,[Kungsholmen],2495000,380000,2875000,2399,Erik Olsson Fastighetsförmedling,280.6335874515628,Kristineberg
+2014-06-18,Frödingsvägen 1,Fredhall,Kungsholmen,2,47,3,Lägenhet,1931,[Kungsholmen],2850000,150000,3000000,2583,Svenska Mäklarhuset,183.35534702052703,Kristineberg
+2014-06-17,Runiusgatan 5,Fredhall,Kungsholmen,2.5,75,2,Lägenhet,1931,[Kungsholmen],3395000,255000,3650000,3522,Fastighetsbyrån,398.99626912134704,Thorildsplan
+2014-06-14,Adlerberthsgatan 17,Fredhall,Kungsholmen,2,43,2,Lägenhet,1931,[Kungsholmen],2395000,440000,2835000,2347,Erik Olsson Fastighetsförmedling,222.1999019532933,Kristineberg
+2014-06-13,Palmbladsvägen 2,Fredhall,Kungsholmen,3,110,4,Lägenhet,1935,[Kungsholmen],5500000,100000,5600000,6061,Fastighetsbyrån,504.1154458534932,Kristineberg
+2014-06-12,Rålambsvägen 48,Fredhall,Kungsholmen,1.5,36.5,2,Lägenhet,1931,[Kungsholmen],2100000,250000,2350000,1976,Erik Olsson Fastighetsförmedling,325.320518977869,Kristineberg
+2014-06-12,Vitalisvägen 5,Fredhall,Kungsholmen,1.5,39,2,Lägenhet,1931,[Kungsholmen],2295000,110000,2405000,2088,Svenska Mäklarhuset,310.71675850298726,Kristineberg
+2014-06-12,Vitalisvägen 3,Fredhall,Kungsholmen,2,47.5,2,Lägenhet,1931,[Kungsholmen],2400000,200000,2600000,2466,Fastighetsbyrån,295.6120724500423,Kristineberg
+2014-06-06,Rålambsvägen 50,Fredhall,Kungsholmen,2,43.5,0.5,Lägenhet,1931,[Fredhäll],2250000,250000,2500000,2288,Notar,317.8888827853026,Kristineberg
+2014-06-06,Adlerbethsgatan 17,Fredhall,Kungsholmen,1.5,34,3,Lägenhet,1932,[Kungsholmen],2150000,235000,2385000,1865,Magnusson Mäkleri,227.70592140174588,Kristineberg
+2014-06-05,Stagneliusvägen 42,Fredhall,Kungsholmen,2.5,53,4,Lägenhet,1936,[Kungsholmen],2895000,825000,3720000,3377,Notar,429.92846000011946,Kristineberg
+2014-06-03,Frödingsvägen 4,Fredhall,Kungsholmen,2,49,3,Lägenhet,null,[Fredhäll],2495000,25000,2520000,2506,Svensk Fastighetsförmedling,194.83654605320967,Kristineberg
+2014-05-28,Birger Sjöbergs väg 3,Fredhall,Kungsholmen,1,38,2,Lägenhet,1930,[Kungsholmen],2250000,10000,2260000,1817,Notar,283.83071728618387,Kristineberg
+2014-05-27,Palmbladsvägen 2,Fredhall,Kungsholmen,3,76,4,Lägenhet,1935,[Fredhäll],3995000,855000,4850000,3839,Living Fastighetsmäkleri,504.1154458534932,Kristineberg
+2014-05-23,Frödingsvägen 6,Fredhall,Kungsholmen,2,40,0.5,Lägenhet,1933,[Kungsholmen Fredhäll],2395000,95000,2490000,1869,HusmanHagberg,223.29084091083854,Kristineberg
+2014-05-22,Messeniusgatan 6,Fredhall,Kungsholmen,1.5,31,4,Lägenhet,1936,[Kungsholmen],1950000,320000,2270000,2059,Fastighetsbyrån,312.01821262078084,Kristineberg
+2014-05-22,Stagneliusvägen 26,Fredhall,Kungsholmen,1,35,1,Lägenhet,1937,[Kungsholmen Fredhäll],1975000,235000,2210000,2443,HusmanHagberg,468.10516843922983,Thorildsplan
+2014-05-21,Orvar Odds väg 51,Fredhall,Kungsholmen,3,71,0.5,Lägenhet,1937,[Kungsholmen],4200000,620000,4820000,3551,Fastighetsbyrån,366.96771760851937,Kristineberg
+2014-05-21,Ernst Ahlgrens Väg 7,Fredhall,Kungsholmen,1.5,34,1.5,Lägenhet,1932,[Kungsholmen],1995000,515000,2510000,1865,Fastighetsbyrån,300.51567043336155,Kristineberg
+2014-05-15,Frödingsvägen 4,Fredhall,Kungsholmen,2,42,1.5,Lägenhet,1931,[Kungsholmen Fredhäll],2495000,140000,2635000,2169,HusmanHagberg,194.83654605320967,Kristineberg
+2014-05-15,Stagneliusvägen 26,Fredhall,Kungsholmen,2,47.5,2,Lägenhet,1937,[Kungsholmen Fredhäll],2450000,50000,2500000,3278,HusmanHagberg,468.10516843922983,Thorildsplan
+2014-05-15,Ernst Ahlgrens Väg 7,Fredhall,Kungsholmen,2,34,1,Lägenhet,1933,[Kungsholmen],2175000,50000,2225000,1865,Privatmäklaren,300.51567043336155,Kristineberg
+2014-05-11,Rålambsvägen 69,Fredhall,Kungsholmen,2,47.5,3,Lägenhet,1935,[Kungsholmen],2850000,150000,3000000,2598,Diplomat Fastighetsmäkleri AB,319.45839802600284,Kristineberg
+2014-05-01,Rålambsvägen 69,Fredhall,Kungsholmen,1,37,5,Lägenhet,1935,[Kungsholmen],2095000,265000,2360000,2024,Notar,319.45839802600284,Kristineberg
+2014-04-27,Orvar Odds väg 2,Fredhall,Kungsholmen,1,24.5,2,Lägenhet,1937,[Kungsholmen],1495000,290000,1785000,1882,Länsförsäkringar Fastighetsförmedling,380.62052693798285,Kristineberg
+2014-04-25,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,34,0.5,Lägenhet,1933,[Fredhäll],2100000,210000,2310000,1865,SkandiaMäklarna,253.30832995464698,Kristineberg
+2014-04-24,Rålambsvägen 54,Fredhall,Kungsholmen,2,39.5,3,Lägenhet,1933,[Kungsholmen],2450000,325000,2775000,2191,Fastighetsbyrån,276.2369999120645,Kristineberg
+2014-04-24,Vitalisvägen 6,Fredhall,Kungsholmen,2,38.5,3,Lägenhet,null,[Kungsholmen],2175000,335000,2510000,2066,Länsförsäkringar Fastighetsförmedling,297.1120409515215,Kristineberg
+2014-04-16,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,2,39.5,null,Lägenhet,1932,[Kungsholmen],2300000,200000,2500000,2191,Fastighetsbyrån,266.5385585072848,Kristineberg
+2014-04-16,Rålambsvägen 46,Fredhall,Kungsholmen,1,29.5,2,Lägenhet,1932,[Kungsholmen],1750000,0,1750000,1751,Fastighetsbyrån,327.7914548022891,Kristineberg
+2014-04-16,Rålambsvägen 69,Fredhall,Kungsholmen,3,55,3,Lägenhet,1935,[Fredhäll],3195000,115000,3310000,3009,Diplomat Fastighetsmäkleri AB,319.45839802600284,Kristineberg
+2014-04-16,Snoilskyvägen 38A,Fredhall,Kungsholmen,2.5,67,4,Lägenhet,1935,[Kungsholmen],4200000,315000,4515000,4000,Fastighetsbyrån,346.68767559131635,Kristineberg
+2014-04-16,Palmbladsvägen 2,Fredhall,Kungsholmen,3,59,5,Lägenhet,1935,[Kungsholmen],3250000,275000,3525000,3367,Vision Fastighetsmäkleri AB,504.1154458534932,Kristineberg
+2014-04-16,Frödingsvägen 2,Fredhall,Kungsholmen,2,35,1,Lägenhet,1932,[Kungsholmen],2195000,130000,2325000,1663,Magnusson Mäkleri,166.70557598207634,Kristineberg
+2014-04-16,Ernst Ahlgrens Väg 7,Fredhall,Kungsholmen,1.5,34,3,Lägenhet,1931,[Fredhäll],2095000,205000,2300000,1865,Mäklarhuset,300.51567043336155,Kristineberg
+2014-04-15,Vitalisvägen 11,Fredhall,Kungsholmen,2,40,1.5,Lägenhet,1931,[Kungsholmen],2295000,95000,2390000,2133,Fastighetsbyrån,344.6143843002057,Kristineberg
+2014-04-09,Frödingsvägen 2,Fredhall,Kungsholmen,2,53,3,Lägenhet,1932,[Kungsholmen],2975000,125000,3100000,2518,Svenska Mäklarhuset,166.70557598207634,Kristineberg
+2014-04-08,Vitalisvägen 11,Fredhall,Kungsholmen,2,40,1.5,Lägenhet,1931,[Kungsholmen],2295000,155000,2450000,2132,Fastighetsbyrån,344.6143843002057,Kristineberg
+2014-04-08,Stagneliusvägen 23,Fredhall,Kungsholmen,2,47.5,2,Lägenhet,1937,[Fredhäll],2195000,155000,2350000,3278,Erik Olsson Fastighetsförmedling,494.1147474158459,Thorildsplan
+2014-04-04,Stagneliusvägen 23,Fredhall,Kungsholmen,2,35,3,Lägenhet,1937,[Kungsholmen],1995000,235000,2230000,2468,Fastighetsbyrån,494.1147474158459,Thorildsplan
+2014-04-03,Birger Sjöbergs väg 3,Fredhall,Kungsholmen,3,57,null,Lägenhet,null,[Kungsholmen],3170000,0,3170000,2416,Svensk Fastighetsförmedling,283.83071728618387,Kristineberg
+2014-04-02,Rålambsvägen 72,Fredhall,Kungsholmen,2,65,1,Lägenhet,null,[Kungsholmen],3300000,530000,3830000,2819,Svensk Fastighetsförmedling,258.9751448607363,Kristineberg
+2014-04-01,Frödingsvägen 12,Fredhall,Kungsholmen,1,42,null,Lägenhet,null,[Kungsholmen],1995000,255000,2250000,2420,Svensk Fastighetsförmedling,310.4245354712741,Kristineberg
+2014-03-19,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,44,1.5,Lägenhet,1932,[Fredhäll],2295000,290000,2585000,2373,SkandiaMäklarna,276.32951152197666,Kristineberg
+2014-03-14,Frödingsvägen 12,Fredhall,Kungsholmen,2,56,2,Lägenhet,1931,[Kungsholmen],2695000,180000,2875000,3177,Notar,310.4245354712741,Kristineberg
+2014-03-13,Rålambsvägen 46,Fredhall,Kungsholmen,1,26,null,Lägenhet,1931,[Kungsholmen],1650000,325000,1975000,1595,Eskils Fastighetsförmedling,327.7914548022891,Kristineberg
+2014-03-11,Vitalisvägen 11,Fredhall,Kungsholmen,2,40,1,Lägenhet,null,[Kungsholmen],2300000,10000,2310000,2132,Svensk Fastighetsförmedling,344.6143843002057,Kristineberg
+2014-03-07,Frödingsvägen 4,Fredhall,Kungsholmen,1.5,34,4.5,Lägenhet,1931,[Kungsholmen Fredhäll],1950000,200000,2150000,1776,Hemmäklarna,194.83654605320967,Kristineberg
+2014-02-28,Stagneliusvägen 43,Fredhall,Kungsholmen,2,58,5,Lägenhet,1936,[Fredhäll],3395000,-75000,3320000,2438,Fabergé Fastighetsmäkleri,422.7095023666897,Kristineberg
+2014-02-25,Frödingsvägen 3,Fredhall,Kungsholmen,2,41,1.5,Lägenhet,1931,[Fredhäll],2595000,0,2595000,2235,Länsförsäkringar Fastighetsförmedling,202.71701879799602,Kristineberg
+2014-02-25,Ernst Ahlgrens väg 6,Fredhall,Kungsholmen,2,41,3,Lägenhet,1933,[Fredhäll],2495000,0,2495000,2213,SkandiaMäklarna,247.57837959902147,Kristineberg
+2014-02-19,Stagneliusvägen 30,Fredhall,Kungsholmen,2,40.5,3,Lägenhet,1937,[Kungsholmen],2395000,0,2395000,2841,Fantastic Frank Fastighetsmäkleri,480.47334247579425,Thorildsplan
+2014-02-13,Runiusgatan 9,Fredhall,Kungsholmen,2,47,3,Lägenhet,1931,[Kungsholmen],2295000,230000,2525000,2244,Notar,441.78197771521803,Thorildsplan
+2014-02-11,Vitalisvägen 5,Fredhall,Kungsholmen,2,56,3,Lägenhet,1931,[Kungsholmen],2750000,270000,3020000,2826,Erik Olsson Fastighetsförmedling,310.71675850298726,Kristineberg
+2014-02-07,Stagneliusvägen 23,Fredhall,Kungsholmen,1,22,4,Lägenhet,1937,[Fredhäll],1595000,90000,1685000,1607,Mäklarhuset,494.1147474158459,Thorildsplan
+2014-02-05,Atterbomsvägen 58,Fredhall,Kungsholmen,2,39,4,Lägenhet,1935,[Kungsholmen],2300000,410000,2710000,1841,Svensk Fastighetsförmedling,395.4402442932354,Kristineberg
+2014-02-04,Fredhällsgatan 11,Fredhall,Kungsholmen,2.5,71,3,Lägenhet,1931,[Fredhäll],3695000,25000,3720000,3578,SkandiaMäklarna,300.16105076960355,Kristineberg
+2014-02-03,Runiusgatan 3,Fredhall,Kungsholmen,3.5,75.9,1,Lägenhet,null,[Fredhäll],3195000,-95000,3100000,3659,Fastighetsbyrån,378.9348049311841,Thorildsplan
+2014-02-01,Frödingsvägen 1,Fredhall,Kungsholmen,3,77,3,Lägenhet,1933,[Fredhäll],4850000,-150000,4700000,3603,Bjurfors,183.35534702052703,Kristineberg
+2014-01-30,Fredhällsgatan 5,Fredhall,Kungsholmen,2,69,null,Lägenhet,1932,[Kungsholmen],4295000,-25000,4270000,3323,Svensk Fastighetsförmedling,215.56428568548765,Kristineberg
+2014-01-23,Vitalisvägen 6,Fredhall,Kungsholmen,1,27,2,Lägenhet,1932,[Fredhäll],1750000,40000,1790000,1554,Fastighetsbyrån,297.1120409515215,Kristineberg
+2014-01-22,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,2,43,3,Lägenhet,1931,[Kungsholmen],2500000,0,2500000,2347,Svensk Fastighetsförmedling,253.30832995464698,Kristineberg
+2014-01-21,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,43.5,1,Lägenhet,1931,[Kungsholmen],2195000,235000,2430000,2369,Erik Olsson Fastighetsförmedling,276.32951152197666,Kristineberg
+2014-01-17,Vitalisvägen 4,Fredhall,Kungsholmen,2,46,1,Lägenhet,1933,[Fredhäll],2395000,105000,2500000,2354,SkandiaMäklarna,280.6335874515628,Kristineberg
+2014-01-16,Fredhällsgatan 9,Fredhall,Kungsholmen,2,56,1,Lägenhet,1931,[Kungsholmen],2850000,50000,2900000,3313,Svensk Fastighetsförmedling,280.36242024046686,Kristineberg
+2014-01-15,Fredhällsgatan 9,Fredhall,Kungsholmen,1.5,40,2,Lägenhet,1931,[Kungsholmen Fredhäll],2195000,230000,2425000,2379,HusmanHagberg,280.36242024046686,Kristineberg
+2014-01-14,Frödingsvägen 5,Fredhall,Kungsholmen,2,40,2,Lägenhet,1933,[Fredhäll],2250000,360000,2610000,2148,Notar,222.50432533970834,Kristineberg
+2014-01-10,Runiusgatan 7,Fredhall,Kungsholmen,2,38,3,Lägenhet,1931,[Kungsholmen],1995000,130000,2125000,1814,Svenska Mäklarhuset,419.9844074461587,Thorildsplan
+2013-12-18,Atterbomsvägen 38,Fredhall,Kungsholmen,2,49,1,Lägenhet,1935,[Fredhäll],2675000,125000,2800000,2438,Fastighetsbyrån,592.5949667313577,Kristineberg
+2013-12-14,Atterbomsvägen 60,Fredhall,Kungsholmen,1.5,34,4,Lägenhet,1936,[Kungsholmen],1995000,545000,2540000,1635,Erik Olsson Fastighetsförmedling,372.3625666802311,Kristineberg
+2013-12-13,Rålambsvägen 48,Fredhall,Kungsholmen,2,38,1.5,Lägenhet,1933,[Kungsholmen],2195000,185000,2380000,2004,Svensk Fastighetsförmedling,325.320518977869,Kristineberg
+2013-12-12,Frödingsvägen 5,Fredhall,Kungsholmen,2,39.5,3,Lägenhet,1933,[Kungsholmen],2250000,320000,2570000,2148,Svensk Fastighetsförmedling,222.50432533970834,Kristineberg
+2013-12-12,Atterbomsvägen 38,Fredhall,Kungsholmen,3,72,1,Lägenhet,1935,[Kungsholmen Fredhäll],3595000,-145000,3450000,4018,Magnusson Mäkleri,592.5949667313577,Kristineberg
+2013-12-11,Stagneliusvägen 28,Fredhall,Kungsholmen,2,35,3,Lägenhet,1937,[Fredhäll],1925000,175000,2100000,2468,SkandiaMäklarna,475.00189111957957,Thorildsplan
+2013-12-06,Stagneliusvägen 26,Fredhall,Kungsholmen,2,48.5,3,Lägenhet,1937,[Fredhäll],2450000,100000,2550000,3368,Notar,468.10516843922983,Thorildsplan
+2013-12-06,Runiusgatan 9,Fredhall,Kungsholmen,1,36,2,Lägenhet,1931,[Kungsholmen],1895000,0,1895000,1719,Svensk Fastighetsförmedling,441.78197771521803,Thorildsplan
+2013-12-05,Stagneliusvägen 28,Fredhall,Kungsholmen,2,47.5,3,Lägenhet,1937,[Kungsholmen Fredhäll],2495000,-95000,2400000,3394,HusmanHagberg,475.00189111957957,Thorildsplan
+2013-12-04,Orvar Odds väg 8,Fredhall,Kungsholmen,1,27,4,Lägenhet,1935,[Fredhäll],1750000,570000,2320000,1332,Fastighetsbyrån,385.5114413050878,Kristineberg
+2013-12-03,Rålambsvägen 70,Fredhall,Kungsholmen,2.5,58,4,Lägenhet,1932,[Kungsholmen],3200000,410000,3610000,2588,Svensk Fastighetsförmedling,241.30931016137123,Kristineberg
+2013-11-28,Stagneliusvägen 32,Fredhall,Kungsholmen,1,26,3,Lägenhet,1937,[Fredhäll],1695000,125000,1820000,1536,SkandiaMäklarna,505.84323035260513,Thorildsplan
+2013-11-28,Frödingsvägen 6,Fredhall,Kungsholmen,1,38,0.5,Lägenhet,1933,[Kungsholmen],2000000,50000,2050000,1787,Erik Olsson Fastighetsförmedling,223.29084091083854,Kristineberg
+2013-11-21,Stagneliusvägen 23,Fredhall,Kungsholmen,2,47.5,4,Lägenhet,1937,[Fredhäll],2295000,85000,2380000,3330,Mäklarhuset,494.1147474158459,Thorildsplan
+2013-11-21,Frödingsvägen 1,Fredhall,Kungsholmen,1,29,1,Lägenhet,1933,[Kungsholmen],1695000,210000,1905000,1611,Svensk Fastighetsförmedling,183.35534702052703,Kristineberg
+2013-11-13,Atterbomsvägen 38,Fredhall,Kungsholmen,2,49,3,Lägenhet,1935,[Fredhäll],2695000,0,2695000,2519,Erik Olsson Fastighetsförmedling,592.5949667313577,Kristineberg
+2013-11-13,Stagneliusvägen 28,Fredhall,Kungsholmen,2,48.5,4,Lägenhet,1937,[Fredhäll],2600000,25000,2625000,3394,Fastighetsbyrån,475.00189111957957,Thorildsplan
+2013-11-12,Vitalisvägen 5,Fredhall,Kungsholmen,1,27,2,Lägenhet,1932,[Kungsholmen],1550000,320000,1870000,1524,Karlsson & Uddare,310.71675850298726,Kristineberg
+2013-11-08,Orvar Odds väg 51,Fredhall,Kungsholmen,1.5,37,2,Lägenhet,null,[Fredhäll],2295000,365000,2660000,2105,Länsförsäkringar Fastighetsförmedling,366.96771760851937,Kristineberg
+2013-11-07,Messeniusgatan 6,Fredhall,Kungsholmen,1.5,32,2,Lägenhet,1936,[Fredhäll],1800000,400000,2200000,2362,Fastighetsbyrån,312.01821262078084,Kristineberg
+2013-11-06,Frödingsvägen 4,Fredhall,Kungsholmen,2,34,1.5,Lägenhet,1931,[Kungsholmen Fredhäll],2295000,75000,2370000,1776,HusmanHagberg,194.83654605320967,Kristineberg
+2013-11-02,Atterbomsvägen 30,Fredhall,Kungsholmen,2,51,3,Lägenhet,null,[Kungsholmen],2700000,165000,2865000,2627,Svensk Fastighetsförmedling,567.7960803169277,Thorildsplan
+2013-10-31,Ernst Ahlgrens väg 10,Fredhall,Kungsholmen,1.5,34,null,Lägenhet,1933,[Fredhäll],2095000,265000,2360000,1829,Fastighetsbyrån,285.9828936004048,Kristineberg
+2013-10-29,Frödingsvägen 6,Fredhall,Kungsholmen,2,53,0.5,Lägenhet,1933,[Fredhäll],2495000,195000,2690000,2401,SkandiaMäklarna,223.29084091083854,Kristineberg
+2013-10-25,Stagneliusvägen 43,Fredhall,Kungsholmen,2,58,6,Lägenhet,1936,[Kungsholmen],3175000,45000,3220000,2456,Svenska Mäklarhuset,422.7095023666897,Kristineberg
+2013-10-21,Runiusgatan 5,Fredhall,Kungsholmen,2,47,null,Lägenhet,1931,[Fredhäll],2095000,10000,2105000,2243,Fabergé Fastighetsmäkleri,398.99626912134704,Thorildsplan
+2013-10-20,Fredhällsgatan 11,Fredhall,Kungsholmen,3,104,null,Lägenhet,1931,[Kungsholmen],5995000,0,5995000,4407,Bjurfors,300.16105076960355,Kristineberg
+2013-10-17,Frödingsvägen 5,Fredhall,Kungsholmen,2,40,null,Lägenhet,1933,[Fredhäll],2200000,270000,2470000,2170,Fastighetsbyrån,222.50432533970834,Kristineberg
+2013-10-11,Frödingsvägen 3,Fredhall,Kungsholmen,3.5,77,null,Lägenhet,1933,[Kungsholmen],4195000,495000,4690000,3321,Svensk Fastighetsförmedling,202.71701879799602,Kristineberg
+2013-10-10,Fredhällsgatan 1,Fredhall,Kungsholmen,2,37,2,Lägenhet,1930,[Kungsholmen],2150000,250000,2400000,1927,Svenska Mäklarhuset,164.18825029164816,Kristineberg
+2013-10-09,Frödingsvägen 6,Fredhall,Kungsholmen,1,38,3,Lägenhet,1933,[Kungsholmen],1995000,285000,2280000,1787,Svensk Fastighetsförmedling,223.29084091083854,Kristineberg
+2013-10-04,Runiusgatan 7,Fredhall,Kungsholmen,2,46,2,Lägenhet,1931,[Kungsholmen Fredhäll],2395000,0,2395000,2196,HusmanHagberg,419.9844074461587,Thorildsplan
+2013-10-03,Rålambsvägen 70,Fredhall,Kungsholmen,2,65,4,Lägenhet,1932,[Kungsholmen],3495000,105000,3600000,2819,Svensk Fastighetsförmedling,241.30931016137123,Kristineberg
+2013-09-26,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,1.5,34,null,Lägenhet,1933,[Fredhäll],1995000,160000,2155000,1829,Fastighetsbyrån,266.5385585072848,Kristineberg
+2013-09-25,Rålambsvägen 72,Fredhall,Kungsholmen,4,96,3,Lägenhet,null,[Kungsholmen],5275000,475000,5750000,3714,Erik Olsson Fastighetsförmedling,258.9751448607363,Kristineberg
+2013-09-19,Rålambsvägen 70,Fredhall,Kungsholmen,3.5,71,3,Lägenhet,null,[Kungsholmen],4195000,0,4195000,2935,Erik Olsson Fastighetsförmedling,241.30931016137123,Kristineberg
+2013-09-18,Vitalisvägen 7,Fredhall,Kungsholmen,2,55,1,Lägenhet,1931,[Kungsholmen],2695000,55000,2750000,2745,Svensk Fastighetsförmedling,327.11225702471233,Kristineberg
+2013-09-17,Rålambsvägen 52,Fredhall,Kungsholmen,1,23.5,null,Lägenhet,null,[Fredhäll],1595000,25000,1620000,1371,Fastighetsbyrån,294.22926985013714,Kristineberg
+2013-09-14,Frödingsvägen 3,Fredhall,Kungsholmen,1,34,null,Lägenhet,null,[Fredhäll],1895000,170000,2065000,1829,BOSTHLM,202.71701879799602,Kristineberg
+2013-09-13,Runiusgatan 3,Fredhall,Kungsholmen,1.5,45,1.5,Lägenhet,1931,[Fredhäll],2195000,10000,2205000,2067,SkandiaMäklarna,378.9348049311841,Thorildsplan
+2013-09-11,Orvar Odds väg 51,Fredhall,Kungsholmen,3,77,5,Lägenhet,1937,[Kungsholmen],6095000,255000,6350000,3655,Fantastic Frank Fastighetsmäkleri,366.96771760851937,Kristineberg
+2013-09-11,Rålambsvägen 54,Fredhall,Kungsholmen,2,46,2,Lägenhet,null,[Kungsholmen],2750000,100000,2850000,2471,Erik Olsson Fastighetsförmedling,276.2369999120645,Kristineberg
+2013-09-04,Vitalisvägen 11,Fredhall,Kungsholmen,2,38,null,Lägenhet,1931,[Fredhäll],2375000,85000,2460000,2004,Fastighetsbyrån,344.6143843002057,Kristineberg
+2013-09-04,Stagneliusvägen 30,Fredhall,Kungsholmen,1,22,3,Lägenhet,null,[Kungsholmen],1395000,105000,1500000,1594,Erik Olsson Fastighetsförmedling,480.47334247579425,Thorildsplan
+2013-09-01,Orvar Odds väg 10,Fredhall,Kungsholmen,2,31,2,Lägenhet,1935,[Fredhäll],2520000,-60000,2460000,1850,Ansvar Fastighetsförmedling,389.80596872625,Kristineberg
+2013-08-28,Stagneliusvägen 26,Fredhall,Kungsholmen,2,48.5,4,Lägenhet,1937,[Kungsholmen Fredhäll],2495000,-70000,2425000,3394,Magnusson Mäkleri,468.10516843922983,Thorildsplan
+2013-08-27,Fredhällsgatan 7,Fredhall,Kungsholmen,3,74,3,Lägenhet,1932,[Fredhäll],3995000,655000,4650000,3471,Mäklarhuset,241.25724399766708,Kristineberg
+2013-08-26,Fredhällsgatan 9,Fredhall,Kungsholmen,1,39,1,Lägenhet,null,[Fredhäll],2195000,35000,2230000,2250,Gripsholms Fastighetsförmedling,280.36242024046686,Kristineberg
+2013-08-22,Palmbladsvägen 2,Fredhall,Kungsholmen,2.5,59,null,Lägenhet,1935,[Fredhäll],3075000,155000,3230000,3357,Fastighetsbyrån,504.1154458534932,Kristineberg
+2013-08-21,Snoilskyvägen 38A,Fredhall,Kungsholmen,2,39,1,Lägenhet,null,[Kungsholmen],2275000,140000,2415000,2176,Erik Olsson Fastighetsförmedling,346.68767559131635,Kristineberg
+2013-08-17,Atterbomsvägen 38,Fredhall,Kungsholmen,2,48,null,Lägenhet,1935,[Fredhäll],2595000,0,2595000,2705,Bjurfors,592.5949667313577,Kristineberg
+2013-08-14,Vitalisvägen 3,Fredhall,Kungsholmen,2,47.5,2,Lägenhet,1931,[Kungsholmen],2590000,20000,2610000,2418,Widerlöv & Co,295.6120724500423,Kristineberg
+2013-08-14,Orvar Odds väg 10,Fredhall,Kungsholmen,2.5,65,2,Lägenhet,null,[Kungsholmen],3695000,705000,4400000,3796,Erik Olsson Fastighetsförmedling,389.80596872625,Kristineberg
+2013-08-07,Adlerbethsgatan 17,Fredhall,Kungsholmen,2,46,1,Lägenhet,null,[Kungsholmen],2395000,255000,2650000,2511,Erik Olsson Fastighetsförmedling,227.70592140174588,Kristineberg
+2013-08-07,Snoilskyvägen 38A,Fredhall,Kungsholmen,3,63,1,Lägenhet,null,[Fredhäll],3800000,110000,3910000,3515,Bostadsrättsspecialisten,346.68767559131635,Kristineberg
+2013-07-19,Stagneliusvägen 23,Fredhall,Kungsholmen,2,38.5,4,Lägenhet,1937,[Kungsholmen],1950000,215000,2165000,2713,Svensk Fastighetsförmedling,494.1147474158459,Thorildsplan
+2013-07-08,Stagneliusvägen 43,Fredhall,Kungsholmen,2,58,2,Lägenhet,1936,[Kungsholmen Fredhäll],2895000,0,2895000,2347,Magnusson Mäkleri,422.7095023666897,Kristineberg
+2013-06-26,Adlerbethsgatan 17,Fredhall,Kungsholmen,2,34,2,Lägenhet,1932,[Fredhäll],2150000,10000,2160000,1829,Mäklarhuset,227.70592140174588,Kristineberg
+2013-06-20,Frödingsvägen 5,Fredhall,Kungsholmen,2,39.5,2,Lägenhet,null,[Fredhäll],2295000,65000,2360000,2148,Erik Olsson Fastighetsförmedling,222.50432533970834,Kristineberg
+2013-06-20,Rålambsvägen 52,Fredhall,Kungsholmen,1,29.5,null,Lägenhet,1931,[Kungsholmen],1495000,75000,1570000,1633,Svensk Fastighetsförmedling,294.22926985013714,Kristineberg
+2013-06-20,Palmbladsvägen 2,Fredhall,Kungsholmen,1,27,4,Lägenhet,null,[Fredhäll],1600000,475000,2075000,1834,Mäklarhuset,504.1154458534932,Kristineberg
+2013-06-20,Fredhällsgatan 13,Fredhall,Kungsholmen,2,63,1.5,Lägenhet,null,[Fredhäll],3000000,100000,3100000,2952,Diplomat Fastighetsmäkleri AB,319.9513364399814,Kristineberg
+2013-06-20,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,1.5,34,null,Lägenhet,1933,[Fredhäll],1980000,140000,2120000,1829,Fastighetsbyrån,266.5385585072848,Kristineberg
+2013-06-20,Rålambsvägen 50,Fredhall,Kungsholmen,2,43.5,2,Lägenhet,1932,[Kungsholmen Fredhäll],2275000,385000,2660000,2384,HusmanHagberg,317.8888827853026,Kristineberg
+2013-06-14,Stagneliusvägen 23,Fredhall,Kungsholmen,2,47.5,null,Lägenhet,1937,[Fredhäll],2250000,150000,2400000,3278,Fastighetsbyrån,494.1147474158459,Thorildsplan
+2013-06-13,Orvar Odds väg 10,Fredhall,Kungsholmen,2,65,7,Lägenhet,null,[Kungsholmen],4995000,85000,5080000,3836,Erik Olsson Fastighetsförmedling,389.80596872625,Kristineberg
+2013-06-12,Frödingsvägen 12,Fredhall,Kungsholmen,2,58,1,Lägenhet,1930,[Kungsholmen],2800000,-100000,2700000,3289,Svensk Fastighetsförmedling,310.4245354712741,Kristineberg
+2013-06-06,Runiusgatan 7,Fredhall,Kungsholmen,1.5,46,2,Lägenhet,1931,[Fredhäll],2100000,80000,2180000,2196,Länsförsäkringar Fastighetsförmedling,419.9844074461587,Thorildsplan
+2013-05-28,Birger Sjöbergs väg 3,Fredhall,Kungsholmen,2,38,4,Lägenhet,null,[Kungsholmen],2295000,105000,2400000,1817,Erik Olsson Fastighetsförmedling,283.83071728618387,Kristineberg
+2013-05-24,Orvar Odds väg 2,Fredhall,Kungsholmen,1,24.5,3,Lägenhet,1937,[Kungsholmen],1595000,0,1595000,1757,SkandiaMäklarna,380.62052693798285,Kristineberg
+2013-05-23,Stagneliusvägen 23,Fredhall,Kungsholmen,1,35,2,Lägenhet,1937,[Kungsholmen Fredhäll],1900000,45000,1945000,2456,HusmanHagberg,494.1147474158459,Thorildsplan
+2013-05-23,Rålambsvägen 72,Fredhall,Kungsholmen,2,65,null,Lägenhet,1932,[Fredhäll],3390000,-90000,3300000,2819,Fastighetsbyrån,258.9751448607363,Kristineberg
+2013-05-22,Snoilskyvägen 38A,Fredhall,Kungsholmen,2,39,2,Lägenhet,null,[Kungsholmen],2495000,0,2495000,2176,Erik Olsson Fastighetsförmedling,346.68767559131635,Kristineberg
+2013-05-22,Fredhällsgatan 7,Fredhall,Kungsholmen,2,60,1.5,Lägenhet,1932,[Kungsholmen],2995000,435000,3430000,2926,SkandiaMäklarna,241.25724399766708,Kristineberg
+2013-05-21,Stagneliusvägen 26,Fredhall,Kungsholmen,2,45,null,Lägenhet,null,[Kungsholmen],1995000,-15000,1980000,2825,Erik Olsson Fastighetsförmedling,468.10516843922983,Thorildsplan
+2013-05-21,Snoilskyvägen 38A,Fredhall,Kungsholmen,3,63,1,Lägenhet,1935,[Kungsholmen],3995000,-95000,3900000,3515,Svensk Fastighetsförmedling,346.68767559131635,Kristineberg
+2013-05-20,Vitalisvägen 5,Fredhall,Kungsholmen,2,34.5,3,Lägenhet,null,[Kungsholmen],2100000,140000,2240000,1851,Erik Olsson Fastighetsförmedling,310.71675850298726,Kristineberg
+2013-05-12,Stagneliusvägen 28,Fredhall,Kungsholmen,2,48.5,3,Lägenhet,1937,[Kungsholmen],2275000,-275000,2000000,3330,SkandiaMäklarna,475.00189111957957,Thorildsplan
+2013-05-10,Frödingsvägen 6,Fredhall,Kungsholmen,2,40,0.5,Lägenhet,1933,[Kungsholmen],1995000,255000,2250000,1869,Svenska Mäklarhuset,223.29084091083854,Kristineberg
+2013-05-09,Ernst Ahlgrens väg 6,Fredhall,Kungsholmen,2,40,null,Lägenhet,1933,[Fredhäll],2190000,120000,2310000,2170,Bjurfors,247.57837959902147,Kristineberg
+2013-05-09,Frödingsvägen 9,Fredhall,Kungsholmen,2,69.5,3,Lägenhet,null,[Kungsholmen],3150000,275000,3425000,3130,Erik Olsson Fastighetsförmedling,262.9697460149655,Kristineberg
+2013-05-03,Stagneliusvägen 26,Fredhall,Kungsholmen,2,45.5,0.5,Lägenhet,1937,[Kungsholmen Fredhäll],2100000,0,2100000,2828,HusmanHagberg,468.10516843922983,Thorildsplan
+2013-05-01,Fredhällsgatan 7,Fredhall,Kungsholmen,2,46,2.5,Lägenhet,1932,[Kungsholmen],2495000,205000,2700000,2133,Svensk Fastighetsförmedling,241.25724399766708,Kristineberg
+2013-04-30,Fredhällsgatan 7,Fredhall,Kungsholmen,2,78,2,Lägenhet,null,[Kungsholmen],3995000,-95000,3900000,3868,Erik Olsson Fastighetsförmedling,241.25724399766708,Kristineberg
+2013-04-30,Frödingsvägen 6,Fredhall,Kungsholmen,2,48,3,Lägenhet,1933,[Kungsholmen],2495000,235000,2730000,2196,SkandiaMäklarna,223.29084091083854,Kristineberg
+2013-04-26,Ernst Ahlgrens Väg 7,Fredhall,Kungsholmen,2,43,3,Lägenhet,1931,[Kungsholmen],2195000,135000,2330000,2301,Svensk Fastighetsförmedling,300.51567043336155,Kristineberg
+2013-04-26,Rålambsvägen 70,Fredhall,Kungsholmen,2,55,null,Lägenhet,1932,[Kungsholmen],2495000,205000,2700000,2530,Svenska Mäklarhuset,241.30931016137123,Kristineberg
+2013-04-20,Rålambsvägen 69,Fredhall,Kungsholmen,3,55,4,Lägenhet,null,[Kungsholmen],2995000,105000,3100000,3009,Erik Olsson Fastighetsförmedling,319.45839802600284,Kristineberg
+2013-04-19,Orvar Odds väg 51,Fredhall,Kungsholmen,3,71,2,Lägenhet,1937,[Fredhäll],3995000,315000,4310000,3551,Vision Fastighetsmäkleri AB,366.96771760851937,Kristineberg
+2013-04-19,Stagneliusvägen 23,Fredhall,Kungsholmen,1,22,5,Lägenhet,1937,[Kungsholmen Fredhäll],1495000,20000,1515000,1620,HusmanHagberg,494.1147474158459,Thorildsplan
+2013-04-19,Stagneliusvägen 42,Fredhall,Kungsholmen,2,53,4,Lägenhet,1936,[Kungsholmen],2895000,-145000,2750000,3377,Svensk Fastighetsförmedling,429.92846000011946,Kristineberg
+2013-04-15,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,2,41,null,Lägenhet,1931,[Fredhäll],2295000,15000,2310000,2148,Notar,266.5385585072848,Kristineberg
+2013-04-13,Rålambsvägen 69,Fredhall,Kungsholmen,3,72,2,Lägenhet,1935,[Kungsholmen],3495000,135000,3630000,3939,SkandiaMäklarna,319.45839802600284,Kristineberg
+2013-04-12,Rålambsvägen 46,Fredhall,Kungsholmen,1,29.5,null,Lägenhet,1932,[Fredhäll],1700000,100000,1800000,1717,Fastighetsbyrån,327.7914548022891,Kristineberg
+2013-04-12,Vitalisvägen 7,Fredhall,Kungsholmen,2,38,null,Lägenhet,1931,[Fredhäll],2170000,50000,2220000,2005,Fastighetsbyrån,327.11225702471233,Kristineberg
+2013-04-11,Rålambsvägen 50,Fredhall,Kungsholmen,1,24.5,3,Lägenhet,1932,[Kungsholmen],1795000,0,1795000,1414,SkandiaMäklarna,317.8888827853026,Kristineberg
+2013-04-10,Vitalisvägen 13,Fredhall,Kungsholmen,2,42.5,3,Lägenhet,1931,[Kungsholmen],2095000,130000,2225000,2200,Svensk Fastighetsförmedling,363.06313772065147,Kristineberg
+2013-04-10,Stagneliusvägen 38,Fredhall,Kungsholmen,2,57,null,Lägenhet,1936,[Fredhäll],2500000,110000,2610000,2332,Notar,480.96007934203357,Kristineberg
+2013-04-10,Vitalisvägen 5,Fredhall,Kungsholmen,2,56,2,Lägenhet,1931,[Kungsholmen],2495000,205000,2700000,2790,Svensk Fastighetsförmedling,310.71675850298726,Kristineberg
+2013-04-09,Runiusgatan 9,Fredhall,Kungsholmen,2,48,1,Lägenhet,1931,[Kungsholmen],2250000,125000,2375000,2291,Svensk Fastighetsförmedling,441.78197771521803,Thorildsplan
+2013-04-06,Frödingsvägen 3,Fredhall,Kungsholmen,1,34,3,Lägenhet,1933,[Fredhäll],1895000,215000,2110000,1829,Mäklarhuset,202.71701879799602,Kristineberg
+2013-04-06,Rålambsvägen 48,Fredhall,Kungsholmen,1,28,3,Lägenhet,null,[Kungsholmen],1595000,5000,1600000,1506,Erik Olsson Fastighetsförmedling,325.320518977869,Kristineberg
+2013-04-04,Rålambsvägen 69,Fredhall,Kungsholmen,2,49,null,Lägenhet,1935,[Fredhäll],2300000,0,2300000,2681,Fastighetsbyrån,319.45839802600284,Kristineberg
+2013-03-29,Vitalisvägen 6,Fredhall,Kungsholmen,1,30.5,null,Lägenhet,1932,[Fredhäll],1750000,10000,1760000,1676,Fastighetsbyrån,297.1120409515215,Kristineberg
+2013-03-27,Frödingsvägen 3,Fredhall,Kungsholmen,2,39,null,Lägenhet,1933,[Fredhäll],2300000,20000,2320000,2083,Fastighetsbyrån,202.71701879799602,Kristineberg
+2013-03-21,Frödingsvägen 7,Fredhall,Kungsholmen,2,39.5,3,Lägenhet,null,[Kungsholmen],2195000,105000,2300000,2148,Erik Olsson Fastighetsförmedling,242.613149132418,Kristineberg
+2013-03-21,Vitalisvägen 6,Fredhall,Kungsholmen,2,38.5,1.5,Lägenhet,1932,[Kungsholmen],2100000,70000,2170000,2025,SkandiaMäklarna,297.1120409515215,Kristineberg
+2013-03-20,Runiusgatan 7,Fredhall,Kungsholmen,1,38,null,Lägenhet,1931,[Fredhäll],1995000,15000,2010000,1814,Fastighetsbyrån,419.9844074461587,Thorildsplan
+2013-03-16,Rålambsvägen 72,Fredhall,Kungsholmen,1,31,4,Lägenhet,1932,[Kungsholmen],1795000,180000,1975000,1838,Notar,258.9751448607363,Kristineberg
+2013-03-15,Atterbomsvägen 28,Fredhall,Kungsholmen,1.5,31,2,Lägenhet,1937,[Kungsholmen Fredhäll],1795000,0,1795000,1604,HusmanHagberg,560.5765540820058,Thorildsplan
+2013-03-13,Ernst Ahlgrens väg 10,Fredhall,Kungsholmen,1,19.5,null,Lägenhet,1932,[Fredhäll],1295000,120000,1415000,1178,Notar,285.9828936004048,Kristineberg
+2013-03-12,Atterbomsvägen 30,Fredhall,Kungsholmen,1.5,37,3,Lägenhet,1938,[Kungsholmen],2100000,130000,2230000,2001,Karlsson & Uddare,567.7960803169277,Thorildsplan
+2013-03-11,Rålambsvägen 52,Fredhall,Kungsholmen,2,41,0.5,Lägenhet,1933,[Kungsholmen],2150000,20000,2170000,2148,Karlsson & Uddare,294.22926985013714,Kristineberg
+2013-03-09,Messeniusgatan 6,Fredhall,Kungsholmen,1.5,31,1,Lägenhet,1936,[Kungsholmen Fredhäll],1750000,250000,2000000,2288,HusmanHagberg,312.01821262078084,Kristineberg
+2013-03-08,Palmbladsvägen 2,Fredhall,Kungsholmen,3.5,110,null,Lägenhet,1935,[Kungsholmen Fredhäll],5200000,0,5200000,3987,HusmanHagberg,504.1154458534932,Kristineberg
+2013-03-07,Rålambsvägen 70,Fredhall,Kungsholmen,1,35,3,Lägenhet,1932,[Kungsholmen],2000000,220000,2220000,1953,Karlsson & Uddare,241.30931016137123,Kristineberg
+2013-03-02,Atterbomsvägen 28,Fredhall,Kungsholmen,2,31,3,Lägenhet,1937,[Kungsholmen Fredhäll],1900000,0,1900000,1871,HusmanHagberg,560.5765540820058,Thorildsplan
+2013-03-01,Vitalisvägen 3,Fredhall,Kungsholmen,2,38,3,Lägenhet,1932,[Kungsholmen],1995000,55000,2050000,2004,Notar,295.6120724500423,Kristineberg
+2013-03-01,Orvar Odds väg 10,Fredhall,Kungsholmen,2,33,null,Lägenhet,1935,[Kungsholmen],1975000,225000,2200000,1810,Wallenberg Fastighetsförmedling,389.80596872625,Kristineberg
+2013-02-28,Ernst Ahlgrens väg 6,Fredhall,Kungsholmen,2,39.5,null,Lägenhet,1933,[Fredhäll],2350000,170000,2520000,2130,Fastighetsbyrån,247.57837959902147,Kristineberg
+2013-02-28,Stagneliusvägen 43,Fredhall,Kungsholmen,1,31,5,Lägenhet,1936,[Kungsholmen Fredhäll],1895000,265000,2160000,1419,HusmanHagberg,422.7095023666897,Kristineberg
+2013-02-27,Fredhällsgatan 1,Fredhall,Kungsholmen,2,59,1.5,Lägenhet,1930,[Kungsholmen],2750000,200000,2950000,3124,Svenska Mäklarhuset,164.18825029164816,Kristineberg
+2013-02-22,Ernst Ahlgrens väg 6,Fredhall,Kungsholmen,2,42.5,null,Lägenhet,1933,[Fredhäll],2250000,0,2250000,2200,Fastighetsbyrån,247.57837959902147,Kristineberg
+2013-02-20,Runiusgatan 9,Fredhall,Kungsholmen,1,41,null,Lägenhet,1931,[Fredhäll],1750000,250000,2000000,1957,Fastighetsbyrån,441.78197771521803,Thorildsplan
+2013-02-16,Atterbomsvägen 28,Fredhall,Kungsholmen,1,26,null,Lägenhet,1937,[Kungsholmen],1650000,25000,1675000,1561,Karlsson & Uddare,560.5765540820058,Thorildsplan
+2013-02-15,Vitalisvägen 4,Fredhall,Kungsholmen,2,43.5,1,Lägenhet,1931,[Kungsholmen],2175000,-25000,2150000,2222,Karlsson & Uddare,280.6335874515628,Kristineberg
+2013-02-14,Runiusgatan 7,Fredhall,Kungsholmen,2,38,1,Lägenhet,1931,[Kungsholmen],1795000,155000,1950000,1814,Notar,419.9844074461587,Thorildsplan
+2013-02-13,Vitalisvägen 13,Fredhall,Kungsholmen,2,40,null,Lägenhet,1931,[Kungsholmen],2195000,65000,2260000,2091,Wallenberg Fastighetsförmedling,363.06313772065147,Kristineberg
+2013-02-11,Frödingsvägen 4,Fredhall,Kungsholmen,2,49,null,Lägenhet,1931,[Kungsholmen],2200000,100000,2300000,2506,Karlsson & Uddare,194.83654605320967,Kristineberg
+2013-02-09,Frödingsvägen 4,Fredhall,Kungsholmen,2,34,null,Lägenhet,1931,[Fredhäll],1900000,150000,2050000,1776,Fastighetsbyrån,194.83654605320967,Kristineberg
+2013-02-09,Vitalisvägen 11,Fredhall,Kungsholmen,2,38,null,Lägenhet,1931,[Fredhäll],2100000,-75000,2025000,2004,Länsförsäkringar Fastighetsförmedling,344.6143843002057,Kristineberg
+2013-02-08,Ernst Ahlgrens väg 3,Fredhall,Kungsholmen,1,34,null,Lägenhet,1931,[Kungsholmen],1750000,250000,2000000,1829,Karlsson & Uddare,253.30832995464698,Kristineberg
+2013-02-07,Frödingsvägen 9,Fredhall,Kungsholmen,2,40,null,Lägenhet,1933,[Fredhäll],1990000,390000,2380000,2148,Bjurfors,262.9697460149655,Kristineberg
+2013-02-06,Birger Sjöbergs väg 3,Fredhall,Kungsholmen,3,74,null,Lägenhet,1930,[Fredhäll],3950000,320000,4270000,2990,Fastighetsbyrån,283.83071728618387,Kristineberg
+2013-02-04,Runiusgatan 9,Fredhall,Kungsholmen,2,47,null,Lägenhet,1931,[Fredhäll],2295000,105000,2400000,2244,Fastighetsbyrån,441.78197771521803,Thorildsplan
+2013-01-31,Stagneliusvägen 30,Fredhall,Kungsholmen,3,48.5,4,Lägenhet,null,[Kungsholmen],2400000,100000,2500000,3394,Erik Olsson Fastighetsförmedling,480.47334247579425,Thorildsplan
+2013-01-31,Frödingsvägen 6,Fredhall,Kungsholmen,2,40,0.5,Lägenhet,1933,[Kungsholmen],1995000,25000,2020000,1869,Svensk Fastighetsförmedling,223.29084091083854,Kristineberg
+2013-01-31,Stagneliusvägen 30,Fredhall,Kungsholmen,2,47.5,4,Lägenhet,1937,[Kungsholmen],2195000,0,2195000,3330,SkandiaMäklarna,480.47334247579425,Thorildsplan
+2013-01-31,Runiusgatan 9,Fredhall,Kungsholmen,2,48,2,Lägenhet,1931,[Kungsholmen],1995000,-50000,1945000,2291,Svenska Mäklarhuset,441.78197771521803,Thorildsplan
+2013-01-31,Atterbomsvägen 58,Fredhall,Kungsholmen,2,40,null,Lägenhet,1935,[Fredhäll],2295000,205000,2500000,1896,Bjurfors,395.4402442932354,Kristineberg
+2013-01-30,Rålambsvägen 70,Fredhall,Kungsholmen,3,74,null,Lägenhet,1932,[Fredhäll],3500000,80000,3580000,3079,Fastighetsbyrån,241.30931016137123,Kristineberg
+2013-01-30,Fredhällsgatan 1,Fredhall,Kungsholmen,2,62,3,Lägenhet,null,[Kungsholmen],2995000,-245000,2750000,3176,Svensk Fastighetsförmedling,164.18825029164816,Kristineberg
+2013-01-29,Frödingsvägen 6,Fredhall,Kungsholmen,1,38,1.5,Lägenhet,1933,[Fredhäll],1950000,200000,2150000,1789,A Home 4u,223.29084091083854,Kristineberg
+2013-01-27,Orvar Odds väg 51,Fredhall,Kungsholmen,3,56,4,Lägenhet,1937,[Fredhäll],3650000,475000,4125000,2917,Vision Fastighetsmäkleri AB,366.96771760851937,Kristineberg
+2013-01-24,Orvar Odds väg 51,Fredhall,Kungsholmen,3,57,5,Lägenhet,1937,[Kungsholmen],3595000,105000,3700000,2970,Fantastic Frank Fastighetsmäkleri,366.96771760851937,Kristineberg
+2013-01-24,Adlerbethsgatan 17,Fredhall,Kungsholmen,2,43,null,Lägenhet,1932,[Fredhäll],2350000,60000,2410000,2256,Fastighetsbyrån,227.70592140174588,Kristineberg
+2013-01-24,Atterbomsvägen 30,Fredhall,Kungsholmen,1,34,4,Lägenhet,null,[Fredhäll],2195000,0,2195000,1861,Bostadsrättsspecialisten,567.7960803169277,Thorildsplan
+2013-01-24,Ernst Ahlgrens väg 5,Fredhall,Kungsholmen,2,38,1,Lägenhet,1931,[Kungsholmen],2150000,215000,2365000,2004,Karlsson & Uddare,276.32951152197666,Kristineberg
+2013-01-23,Messeniusgatan 6,Fredhall,Kungsholmen,1,29,5,Lägenhet,1936,[Kungsholmen],1700000,150000,1850000,2140,Svensk Fastighetsförmedling,312.01821262078084,Kristineberg
+2013-01-21,Fredhällsgatan 9,Fredhall,Kungsholmen,1,20,null,Lägenhet,1931,[Fredhäll],1450000,60000,1510000,945,Fastighetsbyrån,280.36242024046686,Kristineberg
+2013-01-19,Adlerbethsgatan 15,Fredhall,Kungsholmen,2,46,3,Lägenhet,null,[Kungsholmen],2495000,180000,2675000,2493,Erik Olsson Fastighetsförmedling,257.1089012640414,Kristineberg
+2013-01-16,Frödingsvägen 2,Fredhall,Kungsholmen,2,52,3,Lägenhet,1932,[Kungsholmen],2995000,-145000,2850000,2518,Svensk Fastighetsförmedling,166.70557598207634,Kristineberg
+2012-12-13,Atterbomsvägen 60,Fredhall,Kungsholmen,2,66,1,Lägenhet,null,[Kungsholmen],2995000,0,2995000,3041,Erik Olsson Fastighetsförmedling,372.3625666802311,Kristineberg
+2012-12-13,Vitalisvägen 6,Fredhall,Kungsholmen,2,38.5,null,Lägenhet,1932,[Fredhäll],1990000,60000,2050000,1986,Fastighetsbyrån,297.1120409515215,Kristineberg
+2012-12-07,Stagneliusvägen 28,Fredhall,Kungsholmen,2,40.5,1,Lägenhet,1937,[Kungsholmen],1995000,0,1995000,2815,SkandiaMäklarna,475.00189111957957,Thorildsplan
+2012-12-07,Frödingsvägen 6,Fredhall,Kungsholmen,1,27,null,Lägenhet,1933,[Kungsholmen],1595000,85000,1680000,1297,SkandiaMäklarna,223.29084091083854,Kristineberg
+2012-12-07,Runiusgatan 3,Fredhall,Kungsholmen,2.5,68.3,null,Lägenhet,1931,[Kungsholmen],2850000,-50000,2800000,3040,Bjurfors,378.9348049311841,Thorildsplan
+2012-11-30,Orvar Odds väg 33,Fredhall,Kungsholmen,4,102,null,Lägenhet,1935,[Kungsholmen],7995000,-995000,7000000,3765,SkandiaMäklarna,418.41852927016424,Kristineberg
+2012-11-29,Stagneliusvägen 32,Fredhall,Kungsholmen,3,70,4,Lägenhet,null,[Fredhäll],3675000,-125000,3550000,3953,Mäklarhuset,505.84323035260513,Thorildsplan
+2012-11-29,Frödingsvägen 5,Fredhall,Kungsholmen,2,41,1,Lägenhet,1933,[Kungsholmen],2150000,50000,2200000,2128,Notar,222.50432533970834,Kristineberg
+2012-11-22,Ernst Ahlgrens väg 4,Fredhall,Kungsholmen,1.5,34,null,Lägenhet,1933,[Fredhäll],1850000,30000,1880000,1793,Fastighetsbyrån,229.19549537027265,Kristineberg
+2012-11-21,Runiusgatan 9,Fredhall,Kungsholmen,2,55,2,Lägenhet,1931,[Kungsholmen],2150000,225000,2375000,2626,Svenska Mäklarhuset,441.78197771521803,Thorildsplan
+2012-11-15,Messeniusgatan 6,Fredhall,Kungsholmen,1,29,null,Lägenhet,1936,[Fredhäll],1650000,0,1650000,2140,Fastighetsbyrån,312.01821262078084,Kristineberg
+2012-11-09,Stagneliusvägen 23,Fredhall,Kungsholmen,1,35,5,Lägenhet,1937,[Kungsholmen],1650000,60000,1710000,2494,Svenska Mäklarhuset,494.1147474158459,Thorildsplan
+2012-11-07,Fredhällsgatan 7,Fredhall,Kungsholmen,2,59,3,Lägenhet,1932,[Kungsholmen],3250000,-50000,3200000,2926,Mäklarringen,241.25724399766708,Kristineberg
+2012-10-25,Frödingsvägen 2,Fredhall,Kungsholmen,2,53,null,Lägenhet,1932,[Fredhäll],2750000,-40000,2710000,2518,Fastighetsbyrån,166.70557598207634,Kristineberg
+2012-10-24,Stagneliusvägen 43,Fredhall,Kungsholmen,2,58,5,Lägenhet,1936,[Kungsholmen],2995000,105000,3100000,2438,Svenska Mäklarhuset,422.7095023666897,Kristineberg
+2012-10-23,Fredhällsgatan 5,Fredhall,Kungsholmen,3,77,2,Lägenhet,null,[Fredhäll],4300000,0,4300000,3719,Bostadsrättsspecialisten,215.56428568548765,Kristineberg
+2012-10-23,Vitalisvägen 3,Fredhall,Kungsholmen,2,47.5,1,Lägenhet,null,[Fredhäll],2395000,55000,2450000,2371,Länsförsäkringar Fastighetsförmedling,295.6120724500423,Kristineberg
+2012-10-19,Messeniusgatan 6,Fredhall,Kungsholmen,1.5,31,null,Lägenhet,1936,[Fredhäll],1600000,100000,1700000,2288,Fastighetsbyrån,312.01821262078084,Kristineberg
+2012-10-11,Snoilskyvägen 38A,Fredhall,Kungsholmen,3,67,1,Lägenhet,1935,[Fredhäll],3600000,0,3600000,3738,Bjurfors,346.68767559131635,Kristineberg
+2012-10-10,Runiusgatan 7,Fredhall,Kungsholmen,1.5,38,null,Lägenhet,1931,[Fredhäll],1700000,170000,1870000,1814,Fastighetsbyrån,419.9844074461587,Thorildsplan
+2012-10-05,Palmbladsvägen 2,Fredhall,Kungsholmen,1.5,34,1,Lägenhet,1935,[Kungsholmen],1995000,-45000,1950000,2036,SkandiaMäklarna,504.1154458534932,Kristineberg
+2012-09-27,Rålambsvägen 50,Fredhall,Kungsholmen,2,43.5,null,Lägenhet,1931,[Fredhäll],2195000,-15000,2180000,2182,Länsförsäkringar Fastighetsförmedling,317.8888827853026,Kristineberg
+2012-09-21,Orvar Odds väg 51,Fredhall,Kungsholmen,3,58,null,Lägenhet,1937,[Fredhäll],2995000,375000,3370000,3059,Fastighetsbyrån,366.96771760851937,Kristineberg
+2012-09-19,Ernst Ahlgrens Väg 8,Fredhall,Kungsholmen,2,39.5,null,Lägenhet,1933,[Fredhäll],2095000,205000,2300000,2106,Fastighetsbyrån,266.5385585072848,Kristineberg
+2012-09-17,Runiusgatan 3,Fredhall,Kungsholmen,2.5,69,1.5,Lägenhet,1931,[Fredhäll],2975000,-145000,2830000,3040,Mäklarhuset,378.9348049311841,Thorildsplan
+2012-09-08,Ernst Ahlgrens väg 6,Fredhall,Kungsholmen,2,39.5,null,Lägenhet,1933,[Fredhäll],2295000,220000,2515000,2106,Fastighetsbyrån,247.57837959902147,Kristineberg
+2012-09-06,Stagneliusvägen 23,Fredhall,Kungsholmen,2,38.5,4,Lägenhet,1937,[Kungsholmen],2220000,0,2220000,2713,SkandiaMäklarna,494.1147474158459,Thorildsplan

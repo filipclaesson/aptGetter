@@ -1,0 +1,80 @@
+date,address,subArea,area,room,sqm,floor,objectType,constructionYear,areaTags,listPrice,priceUp,soldPrice,rent,broker,distanceToMetro,metro
+2016-05-30,Alviksvägen 7,Appelviken,GronHasselby,1.5,45,3,Lägenhet,1929,[Bromma Äppelviken],2495000,305000,2800000,2300,HusmanHagberg,279.472472193133,Alvik
+2016-05-29,Runda vägen 12C,Appelviken,GronHasselby,6,148,null,Radhus,2016,[Bromma],9650000,0,9650000,5407,Balders Ädelmarks,231.5022595876125,Alvik
+2016-05-27,Runda vägen 12D,Appelviken,GronHasselby,5,132,null,Radhus,2016,[Bromma],9500000,1100000,10600000,4823,Balders Ädelmarks,231.5022595876125,Alvik
+2016-05-19,Runda vägen 22B,Appelviken,GronHasselby,3,65,null,Lägenhet,1945,[Bromma Äppelviken],4395000,615000,5010000,3462,Balders Ädelmarks,348.26836942218983,Alvik
+2016-05-16,Svedjevägen 28,Appelviken,GronHasselby,7,151,null,Villa,1925,[Bromma Äppelviken],12250000,0,12250000,null,HusmanHagberg,956.8829989337905,Stora mossen
+2016-05-12,Alviksvägen 11,Appelviken,GronHasselby,1.5,44,3,Lägenhet,1929,[Bromma Alvik],2495000,665000,3160000,2249,HusmanHagberg,278.6889773563585,Alvik
+2016-04-28,Allévägen 14C,Appelviken,GronHasselby,2.5,60.4,1,Lägenhet,1944,[Bromma Alvik],3490000,980000,4470000,3604,Notar,514.0186781049457,Alvik
+2016-04-15,Asplundsvägen 1,Appelviken,GronHasselby,2.5,65,2,Lägenhet,1924,[Bromma Äppelviken],3995000,1005000,5000000,2369,HusmanHagberg,874.4647349816834,Alvik
+2016-02-26,Ryggåsgatan 7,Appelviken,GronHasselby,1.5,53,1,Lägenhet,1931,[Bromma Alvik],2595000,455000,3050000,2458,HusmanHagberg,343.4478555612342,Alvik
+2016-02-25,Alviksvägen 19,Appelviken,GronHasselby,1,37,3,Lägenhet,1929,[Bromma Alvik],2245000,205000,2450000,2086,HusmanHagberg,350.94445912250825,Alvik
+2016-02-25,Alviksvägen 31,Appelviken,GronHasselby,2,54,3,Lägenhet,1929,[Bromma Alvik],2595000,705000,3300000,2454,HusmanHagberg,544.1310773970982,Alvik
+2016-01-28,Allévägen 14C,Appelviken,GronHasselby,4,92,1,Lägenhet,1945,[Bromma Äppelviken],5450000,1210000,6660000,5205,HusmanHagberg,514.0186781049457,Alvik
+2016-01-27,Alviksvägen 11,Appelviken,GronHasselby,1.5,45,1,Lägenhet,1929,[Bromma Alvik],2495000,705000,3200000,2300,HusmanHagberg,278.6889773563585,Alvik
+2015-11-22,Ryggåsgatan 5,Appelviken,GronHasselby,3.5,105,3,Lägenhet,1931,[Bromma Alvik],5245000,255000,5500000,4870,HusmanHagberg,517.2831291265437,Alvik
+2015-10-03,Radhusallén 23,Appelviken,GronHasselby,7,117,null,Radhus,1920,[Äppelviken],9900000,1225000,11125000,4333,Wrede,801.8201451196036,Alvik
+2015-09-30,Ryggåsgatan 5,Appelviken,GronHasselby,3,73,1,Lägenhet,1931,[Bromma Äppelviken],3795000,1455000,5250000,3387,HusmanHagberg,517.2831291265437,Alvik
+2015-09-17,Alviksvägen 11,Appelviken,GronHasselby,2,45,3,Lägenhet,1929,[Bromma Alvik],2295000,820000,3115000,2300,HusmanHagberg,278.6889773563585,Alvik
+2015-08-12,Alviksvägen 21,Appelviken,GronHasselby,2,57,3,Lägenhet,1925,[Bromma Äppelviken],3195000,655000,3850000,2130,HusmanHagberg,539.5111949009444,Alvik
+2015-07-03,Runda vägen 28B,Appelviken,GronHasselby,1,38,3,Lägenhet,1945,[Alvik],2095000,855000,2950000,2136,Fastighetsbyrån,433.10685975938253,Alvik
+2015-06-06,Alviksvägen 23,Appelviken,GronHasselby,3,85,null,Lägenhet,1925,[Bromma Alvik],4745000,1155000,5900000,4875,HusmanHagberg,547.4965068297388,Alvik
+2015-06-02,Allévägen 14B,Appelviken,GronHasselby,1,43,3,Lägenhet,1945,[Alvik],2595000,-235000,2360000,2829,Fastighetsbyrån,502.54142965005565,Alvik
+2015-05-21,Västerled 20,Appelviken,GronHasselby,1,36,2,Lägenhet,1926,[Bromma Äppelviken],1995000,405000,2400000,1788,HusmanHagberg,615.318306044164,Stora mossen
+2015-05-21,Allévägen 14A,Appelviken,GronHasselby,2,56,3,Lägenhet,1945,[Bromma Alvik],2995000,385000,3380000,3467,HusmanHagberg,486.75997901925786,Alvik
+2015-04-30,Alviksvägen 7,Appelviken,GronHasselby,1,19,2,Lägenhet,1929,[Bromma Alvik],1645000,535000,2180000,971,HusmanHagberg,279.472472193133,Alvik
+2015-04-21,Alviksvägen 23,Appelviken,GronHasselby,1,24,1,Lägenhet,1925,[Bromma],1595000,805000,2400000,1506,HusmanHagberg,547.4965068297388,Alvik
+2015-04-18,Västerled 31,Appelviken,GronHasselby,2,56,1,Lägenhet,1925,[Bromma Äppelviken],2795000,455000,3250000,2639,HusmanHagberg,710.8269374412405,Stora mossen
+2015-04-01,Alviksvägen 31,Appelviken,GronHasselby,1,42,1,Lägenhet,1929,[Äppelviken],2295000,175000,2470000,2434,Fastighetsbyrån,544.1310773970982,Alvik
+2015-03-28,Alviksvägen 21,Appelviken,GronHasselby,3,100,3,Lägenhet,1925,[Bromma],4425000,330000,4755000,null,Svensk Fastighetsförmedling,539.5111949009444,Alvik
+2015-03-25,Alviksvägen 29,Appelviken,GronHasselby,2,46,2,Lägenhet,1926,[Bromma Äppelviken],2495000,405000,2900000,2557,HusmanHagberg,516.7717375534287,Alvik
+2015-03-14,Alviksvägen 19,Appelviken,GronHasselby,3.5,85,2,Lägenhet,1925,[Bromma Alvik],4650000,850000,5500000,3895,HusmanHagberg,350.94445912250825,Alvik
+2015-03-06,Alviksvägen 21,Appelviken,GronHasselby,2,58,null,Lägenhet,1925,[Bromma],3300000,40000,3340000,2778,Fabergé Fastighetsmäkleri,539.5111949009444,Alvik
+2015-02-16,Äppelviksvägen 2A,Appelviken,GronHasselby,3,85.5,1,Lägenhet,2005,[Bromma Äppelviken],5490000,860000,6350000,2611,HusmanHagberg,563.4848958637558,Alvik
+2015-01-31,Gustavslundsvägen 165,Appelviken,GronHasselby,3,61,3,Lägenhet,1931,[Bromma Alvik],2995000,65000,3060000,3172,Notar,119.55771346799338,Alvik
+2014-11-18,Alviksvägen 15,Appelviken,GronHasselby,2,58,2,Lägenhet,1924,[Bromma],2975000,535000,3510000,2920,Edward & Partners Fastighetsmäklare AB,314.9420032175361,Alvik
+2014-11-06,Alviksvägen 29,Appelviken,GronHasselby,1.5,39,2,Lägenhet,1926,[Bromma Äppelviken],2095000,285000,2380000,2227,HusmanHagberg,516.7717375534287,Alvik
+2014-10-31,Gustavslundsvägen 173,Appelviken,GronHasselby,2,41,null,Lägenhet,1928,[Alvik],2395000,405000,2800000,1722,Fastighetsbyrån,147.79120669348026,Alvik
+2014-10-13,Alviksvägen 48,Appelviken,GronHasselby,5,118,null,Radhus,1920,[Bromma Äppelviken],7490000,1085000,8575000,4333,HusmanHagberg,774.0338136735523,Alvik
+2014-09-26,Västerled 20,Appelviken,GronHasselby,2.5,63,1,Lägenhet,1926,[Bromma Äppelviken],2690000,370000,3060000,3156,HusmanHagberg,615.318306044164,Stora mossen
+2014-09-24,Alviksvägen 7,Appelviken,GronHasselby,1.5,44,2,Lägenhet,1929,[Bromma Äppelviken],2190000,430000,2620000,2249,HusmanHagberg,279.472472193133,Alvik
+2014-09-19,Ryggåsgatan 5,Appelviken,GronHasselby,3.5,73,1,Lägenhet,null,[Alvik],3695000,55000,3750000,3406,Svensk Fastighetsförmedling,517.2831291265437,Alvik
+2014-09-10,Alviksvägen 15,Appelviken,GronHasselby,2,58,2,Lägenhet,1924,[Bromma Äppelviken],2750000,0,2750000,2920,HusmanHagberg,461.5948740694464,Alvik
+2014-09-10,Alviksvägen 29,Appelviken,GronHasselby,2.5,65,null,Lägenhet,1929,[Bromma Äppelviken],3750000,225000,3975000,3608,HusmanHagberg,516.7717375534287,Alvik
+2014-09-09,Allévägen 14B,Appelviken,GronHasselby,1,43,1,Lägenhet,1945,[Äppelviken],1895000,185000,2080000,2748,Svenska Mäklarhuset,502.54142965005565,Alvik
+2014-09-04,Stenhuggarvägen 10,Appelviken,GronHasselby,7,186,null,Villa,1921,[Bromma Äppelviken],10900000,650000,11550000,null,HusmanHagberg,865.4237905702475,Stora mossen
+2014-08-27,Alviksvägen 27,Appelviken,GronHasselby,2.5,70,3,Lägenhet,1927,[Bromma Äppelviken],3795000,455000,4250000,3640,HusmanHagberg,390.0305113955097,Alvik
+2014-06-15,Ryggåsgatan 5,Appelviken,GronHasselby,3,73,3,Lägenhet,1931,[Bromma Äppelviken],3750000,0,3750000,3406,HusmanHagberg,517.2831291265437,Alvik
+2014-05-24,Alviksvägen 31,Appelviken,GronHasselby,2,44,3,Lägenhet,1927,[Äppelviken],2495000,155000,2650000,2454,Svenska Mäklarhuset,544.1310773970982,Alvik
+2014-05-12,Gustavslundsvägen 165,Appelviken,GronHasselby,2,57,null,Lägenhet,1930,[Alvik],2250000,245000,2495000,2950,Fastighetsbyrån,119.55771346799338,Alvik
+2014-05-02,Alviksvägen 15,Appelviken,GronHasselby,3.5,87,1,Lägenhet,1924,[Bromma Äppelviken],4790000,810000,5600000,4380,HusmanHagberg,314.9420032175361,Alvik
+2014-04-02,Västerled 27,Appelviken,GronHasselby,3,83,1,Lägenhet,1924,[Bromma Äppelviken],4290000,1860000,6150000,3995,HusmanHagberg,725.1941496430268,Stora mossen
+2014-03-26,Alviksvägen 29,Appelviken,GronHasselby,2.5,67,2,Lägenhet,1929,[Bromma Äppelviken],2995000,255000,3250000,3588,HusmanHagberg,516.7717375534287,Alvik
+2014-03-15,Västerled 29,Appelviken,GronHasselby,2,66,2,Lägenhet,1925,[Bromma Äppelviken],2995000,405000,3400000,4351,HusmanHagberg,717.685743166044,Stora mossen
+2013-12-05,Alviksvägen 78,Appelviken,GronHasselby,1.5,37,1,Lägenhet,1917,[Bromma Äppelviken],1795000,535000,2330000,1240,HusmanHagberg,969.5113791130077,Alvik
+2013-11-23,Alviksvägen 11,Appelviken,GronHasselby,1,19,null,Lägenhet,1929,[Bromma],995000,555000,1550000,971,Erik Olsson Fastighetsförmedling,278.6889773563585,Alvik
+2013-11-01,Gustavslundsvägen 173,Appelviken,GronHasselby,1.5,39,4,Lägenhet,1928,[Bromma Alvik],2195000,-95000,2100000,1646,HusmanHagberg,147.79120669348026,Alvik
+2013-10-27,Alviksvägen 50,Appelviken,GronHasselby,5,115,null,Radhus,1920,[Bromma],8500000,500000,9000000,4333,Balders Ädelmarks,779.5877488872957,Alvik
+2013-10-10,Alviksvägen 19,Appelviken,GronHasselby,3.5,88,null,Lägenhet,1925,[Bromma Alvik],3990000,660000,4650000,3695,HusmanHagberg,350.94445912250825,Alvik
+2013-10-10,Alviksvägen 23,Appelviken,GronHasselby,2,69,null,Lägenhet,1929,[Bromma],3350000,200000,3550000,4606,Balders Ädelmarks,547.4965068297388,Alvik
+2013-09-18,Alviksvägen 21,Appelviken,GronHasselby,2,58,2,Lägenhet,1925,[Alvik-Äppelviken],2750000,-140000,2610000,2778,Svensk Fastighetsförmedling,539.5111949009444,Alvik
+2013-06-26,Allévägen 14A,Appelviken,GronHasselby,2,56,null,Lägenhet,null,[Bromma],2425000,425000,2850000,3503,Balders Ädelmarks,486.75997901925786,Alvik
+2013-06-07,Alviksvägen 23,Appelviken,GronHasselby,2,71,null,Lägenhet,1929,[Bromma],3375000,175000,3550000,4325,Balders Ädelmarks,547.4965068297388,Alvik
+2013-06-06,Alviksvägen 11,Appelviken,GronHasselby,1.5,44,null,Lägenhet,1929,[Bromma Alvik],1895000,255000,2150000,2249,HusmanHagberg,278.6889773563585,Alvik
+2013-05-29,Alviksvägen 76,Appelviken,GronHasselby,1,19,null,Lägenhet,1917,[Bromma Alvik],1195000,290000,1485000,637,HusmanHagberg,969.5113791130077,Alvik
+2013-05-08,Alviksvägen 11,Appelviken,GronHasselby,1,19,null,Lägenhet,1929,[Bromma Alvik],1250000,250000,1500000,971,Notar,278.6889773563585,Alvik
+2013-05-02,Radhusallén 11,Appelviken,GronHasselby,6,120,null,Lägenhet,null,[Äppelviken],8200000,225000,8425000,4313,Svensk Fastighetsförmedling,767.008069737088,Alvik
+2013-04-24,Alviksvägen 11,Appelviken,GronHasselby,1.5,44,null,Lägenhet,1929,[Bromma Alvik],1895000,305000,2200000,2249,HusmanHagberg,278.6889773563585,Alvik
+2013-04-16,Västerledstorget 4,Appelviken,GronHasselby,1,32,null,Lägenhet,1925,[Bromma Alvik],1495000,250000,1745000,1196,HusmanHagberg,656.4089496286185,Stora mossen
+2013-04-14,Runda vägen 28B,Appelviken,GronHasselby,3,65,null,Lägenhet,1942,[Äppelviken],2975000,55000,3030000,3403,Svensk Fastighetsförmedling,433.10685975938253,Alvik
+2013-03-28,Alviksvägen 96,Appelviken,GronHasselby,2,43,null,Lägenhet,1929,[Bromma Äppelviken],2195000,155000,2350000,2299,HusmanHagberg,1086.0088980378378,Alvik
+2013-03-22,Gustavslundsvägen 175,Appelviken,GronHasselby,3,84,null,Lägenhet,null,[Äppelviken],3700000,740000,4440000,3376,Balders Ädelmarks,184.16739641460762,Alvik
+2013-02-22,Gustavslundsvägen 173,Appelviken,GronHasselby,2,66,3,Lägenhet,1928,[Alvik],2975000,25000,3000000,2780,Svenska Mäklarhuset,147.79120669348026,Alvik
+2013-02-06,Västerled 27,Appelviken,GronHasselby,2,53,null,Lägenhet,1924,[Bromma Alvik],1995000,515000,2510000,2118,HusmanHagberg,725.1941496430268,Stora mossen
+2013-01-18,Stenhuggarvägen 2,Appelviken,GronHasselby,1,40,null,Lägenhet,1928,[Äppelviken],1650000,150000,1800000,2129,Svensk Fastighetsförmedling,711.7578421454366,Stora mossen
+2012-11-21,Alviksvägen 7,Appelviken,GronHasselby,1.5,45,null,Lägenhet,1929,[Bromma Alvik],1950000,20000,1970000,2291,Notar,279.472472193133,Alvik
+2012-11-11,Runda vägen 11,Appelviken,GronHasselby,8,228,null,Parhus,null,[Bromma],9500000,200000,9700000,null,Balders Ädelmarks,196.60248321592553,Alvik
+2012-10-31,Alviksvägen 21,Appelviken,GronHasselby,2,57,3,Lägenhet,1925,[Äppelviken],2890000,20000,2910000,2260,Svensk Fastighetsförmedling,539.5111949009444,Alvik
+2012-10-20,Västerled 35,Appelviken,GronHasselby,1,35,null,Lägenhet,1929,[Äppelviken],1600000,195000,1795000,1733,Svensk Fastighetsförmedling,646.0708162608398,Stora mossen
+2012-10-07,Gustavslundsvägen 175,Appelviken,GronHasselby,3,84,null,Lägenhet,1913,[Alvik],3500000,0,3500000,3375,Fastighetsbyrån,184.16739641460762,Alvik
+2012-09-08,Alviksvägen 7,Appelviken,GronHasselby,1.5,44,null,Lägenhet,1929,[Alvik],1795000,125000,1920000,2249,Fastighetsbyrån,279.472472193133,Alvik
